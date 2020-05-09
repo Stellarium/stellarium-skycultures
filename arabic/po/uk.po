@@ -1,0 +1,1154 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Last-Translator: Stellarium's developers\n"
+"Language-Team: Ukrainian (https://www.transifex.com/stellarium/teams/80998/uk/)\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Sky culture name
+msgid "Arabic"
+msgstr "Арабська"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"This Arabic sky culture, which is in use now for more than a thousand years,"
+" had been influenced greatly by Greek astronomy, particularly Ptolemy's "
+"astronomy."
+msgstr ""
+
+# Sky culture description section in markdown format
+msgid ""
+"![Book of Fixed Stars](Book_of_Fixed_Stars3.webp)\n"
+"The depiction of Orion, as seen from Earth (left) and a mirror-image, from a 13th-century copy of al-Sufi's _Book of Fixed Stars_ [#4]. In this version, Orion's shield has become a long sleeve, typical of Islamic dress.\n"
+"{: .img_and_caption }\n"
+"\n"
+"_Ptolemy_, the Greek astronomer who lived and worked around _100-178 CE_ in Alexandria, Egypt, collected ancient Greek descriptions of 1,022 stars in his famous book _The Great System of Astronomy_, popularised under its shortened Arabic title, the _Almagest_.\n"
+"Ptolemy's catalogue of stars arranged into _48 constellations_, with estimates of their brightness, based largely on the observations of the Greek earlier astronomers, such as _Hipparchus_.\n"
+"\n"
+"Ptolemy's book was translated twice into Arabic in the 9th century and became famous. Many of the Arabic-language star descriptions in the Almagest came to be used widely as names for stars.\n"
+"\n"
+"### Constellations\n"
+"\n"
+"This Arabic sky culture uses the classical _48 constellations_ of the Greeks.\n"
+"These constellations were described by several Arab and Islamic authors, one of those who left an indelible influence on the Arabic observation and study of stars is the astronomer _Abū al-Husayn ‘Abd Al-Rahmān al-Sūfī_ (903-986), known also by his Latinized name of _Azophi_, who systematically revised Ptolemy's catalogue of stars.\n"
+"_Al-Sūfī_ produced a revised and updated version of Ptolemy's _Almagest_ in a major book called _Kitab suwar al-kawakib_, _The Book of Fixed Stars_ [#4], completed around 964 CE.\n"
+"Built on the basis of the Greek astronomical heritage, the work of _Al-Sūfī_ contained a listing of the Arabs' own star names, magnitudes determined by _al-Sūfī_ himself, and two drawings of each constellation, one as it is seen in the sky and one reversed right to left as it would appear on a celestial globe.\n"
+"The oldest surviving copy was produced by his son around _1010 CE_ and is preserved in the Bodleian Library, Oxford (MS Marsh 144).\n"
+"\n"
+"![Book of Fixed Stars](al_sufi_altre_006_copia.webp)\n"
+"Cetus as seen in the sky in an old manuscript of Al-Sufi book [#3].\n"
+"{: .img_and_caption }\n"
+"\n"
+"### The origin of star names\n"
+"\n"
+"Regardless of origin, almost all star names belong to old traditions. They are a part of the collective cultural heritage of humanity.\n"
+"\n"
+"Official star names are essentially limited to the _old names_, and typically only bright stars have names. The majority of stars names are related to their constellation, e.g., the star _Deneb_ means \"tail\" and labels that part of _Cygnus_ the Swan.\n"
+"\n"
+"Others describe the star itself, such as _Sirius_, which translates literally as \"scorching\", apt enough for the brightest star in the sky. Quite a lot of prominent stars bear Arabic names, in which \"al\" corresponds to the article \"the\" and often appears in front, e.g., _Algol, \"The Ghoul\". Its inclusion has become somewhat arbitrary over time. Hence, several star names of Arabic origin are given elsewhere with or without the al- prefix. Most other names of stars inherited from the past have _Greek, Latin or Chinese_ labels.\n"
+"\n"
+"When the Arabic texts were translated into Latin beginning from the _12th century_, the Arabic tradition of star names was passed down to the Latin world. However, this happened often in a highly corrupted form that either changed the meaning, or in extreme cases gave birth to words with no meaning at all. Other names were mistakenly transferred from one star to another, so that a name might even refer to a different constellation (Greek or Arabic) rather than to the one of the star's actual residence.\n"
+"\n"
+"Nevertheless, even with these shortcomings, the majority of star names adopted since the Renaissance are Arabic in origin.\n"
+"\n"
+"Local tradition of the peoples of _Islamic lands_ in the Arabian Peninsula and in the Middle East had their own names for various bright stars such as _Aldebaran_, and they commonly regarded single stars as representing _animals or people_. For example, the stars we know as _Alpha_ and _Beta Ophiuchi_ were regarded by them as a _shepherd_ and _his dog_, while neighbouring stars made up the outlines of a _field with sheep_. Some of the Arabic names were already so many centuries old that their meanings were lost even to _al-Sūfī_ and his contemporaries, and they remain unknown today. Other star names used by _al-Sūfī_ and his compatriots were direct translations of Ptolemy's descriptions. For example, the star name _Fomalhaut_ comes from the Arabic meaning \"mouth of the southern fish\", which is where _Ptolemy_ had described it in the _Almagest_.\n"
+"\n"
+"### Thanks\n"
+"\n"
+" - [The Arab Astronomy Forum](http://www.jas.org.jo/forum/viewtopic.php)\n"
+" - [The Islamic Crescent's Observation Project \"ICOP\"](http://www.icoproject.org/star.html) for granting a permission to use there lists of \"Arabic\" Constellations and star names.\n"
+" - Arabic Stellarium Translation team"
+msgstr ""
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: Star Tales on [Ian Ridpath website](http://www.ianridpath.com/startales/startales1b.htm)\n"
+" - [#2]: Abd al-Rahman Al-Sufi [article on Wikipedia](http://en.wikipedia.org/wiki/Abd_al-Rahman_al-Sufi)\n"
+" - [#3]: Constellations Illustrations by Al-Sufi. Images of a manuscript of Al-Sufi book with sample artistic illustrations and star table samples. [Link](http://www.atlascoelestis.com/alsufi%20Suwar.htm)\n"
+" - [#4]: The Original \"Ulg Beack\" manuscript of the \"Kitab suwar al-kawakib\" (The Book of Fixed Stars). Paris Digital Library \"Gallica\". [Link](http://gallica.bnf.fr/ark:/12148/btv1b60006156.image.f7.pagination)\n"
+" - [#5]: List of Arabic Star Names [article on Wikipedia](http://en.wikipedia.org/wiki/List_of_Arabic_star_names).\n"
+" - [#6]: Richard Hinckley Allen. _Star Names — Their Lore and Meaning_. [Link](http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/home.html)\n"
+" - [#7]: Islamic science heritage. _Arabic Star Names: A Treasure of Knowledge Shared by the World._ [Link](http://www.muslimheritage.com/article/arabic-star-names-treasure-knowledge-shared-world)"
+msgstr ""
+
+# Sky culture authors section in markdown format
+msgid ""
+"The Arabic star names were compiled and added to Stellarium by Khalid Alajaji.\n"
+"Constellation lines, images & English translation by [Kutaibaa Akraa](email:kutaibaa@gmail.com)."
+msgstr ""
+
+# Sky culture licence section in markdown format
+msgid "GNU GPL v2.0"
+msgstr ""
+
+# Arabic constellation, pronounce: Al-Mara'ah Al-Musalsalah
+msgid "The Shackled Woman"
+msgstr "Жінка У Кайданах"
+
+# Arabic constellation, pronounce: Ad-Dalw
+msgid "The Well-bucket"
+msgstr "Водолій"
+
+# Arabic constellation, pronounce: Al-'Okab
+msgid "The Eagle"
+msgstr "Орел"
+
+# Arabic constellation, pronounce: Al-Mijmarah
+msgid "The Censer"
+msgstr "Жертовник"
+
+# Arabic constellation, pronounce: Al-Hamal
+msgid "The Ram"
+msgstr "Овен"
+
+# Arabic constellation, pronounce: Momsek Al-A'aennah
+msgid "The Reins-holder"
+msgstr "Візничий"
+
+# Arabic constellation, pronounce: Al-'Awwa'
+msgid "The Howler"
+msgstr "Плакальник"
+
+# Arabic constellation, pronounce: As-Sarattan
+msgid "The Crab"
+msgstr "Краб"
+
+# Arabic constellation, pronounce: Al-Kalb Al-A'kbar
+msgid "The Greater Dog"
+msgstr "Більша Собака"
+
+# Arabic constellation, pronounce: Al-Kalb Al-A'sghar
+msgid "The Lesser Dog"
+msgstr "Менша Собака"
+
+# Arabic constellation, pronounce: Al-Jadi
+msgid "The Young Goat"
+msgstr "Молодий Козел"
+
+# Arabic constellation, pronounce: That Al-Korsi
+msgid "Who (Lady) Has Chair"
+msgstr "Та, Що Сидить На Стільці"
+
+# Arabic constellation, pronounce: Qanttorus
+msgid "Centaur"
+msgstr "Кентавр"
+
+# Arabic constellation, pronounce: Al-Multaheb
+msgid "Inflammatus"
+msgstr "Запальний"
+
+# Arabic constellation, pronounce: Al-Hulbah
+msgid "Bristle"
+msgstr "Щетинка"
+
+# Arabic constellation, pronounce: Al-I'klil Al-Janobi
+msgid "The Southern Crown"
+msgstr "Південна Корона"
+
+# Arabic constellation, pronounce: Al-I'klil Ash-Shamali
+msgid "The Northern Crown"
+msgstr "Північна Корона"
+
+# Arabic constellation, pronounce: Al-Ghurab
+msgid "The Raven"
+msgstr "Крук"
+
+# Arabic constellation, pronounce: Al-Battiyah
+msgid "The Great Cup"
+msgstr "Велика Чаша"
+
+# Arabic constellation, pronounce: Ad-Dajajah
+msgid "The Hen"
+msgstr "Куріпка"
+
+# Arabic constellation, pronounce: Ad-Dulfin
+msgid "The Dolphin"
+msgstr "Дельфін"
+
+# Arabic constellation, pronounce: At-Tinneen
+msgid "The Dragon"
+msgstr "Дракон"
+
+# Arabic constellation, pronounce: Qett'at Al-Faras
+msgid "Part of the Horse"
+msgstr "Частина Коня"
+
+# Arabic constellation, pronounce: An-Nahr
+msgid "The River"
+msgstr "Ріка"
+
+# Arabic constellation, pronounce: At-Tawa'man
+msgid "The Twins"
+msgstr "Близнюки"
+
+# Arabic constellation, pronounce: Al-Jathi
+msgid "The Kneeling (Man)"
+msgstr "Той, Що Стоїть На Колінах"
+
+# Arabic constellation, pronounce: Ash-Shuja'a
+msgid "The Brave"
+msgstr "Сміливець"
+
+# Arabic constellation, pronounce: Al-A'sad
+msgid "The Lion"
+msgstr "Лев"
+
+# Arabic constellation, pronounce: Al-A'rnab
+msgid "The Hare"
+msgstr "Заєць"
+
+# Arabic constellation, pronounce: Al-Mizan
+msgid "The Balance"
+msgstr "Рівновага"
+
+# Arabic constellation, pronounce: As-Sulhofat
+msgid "The Turtle"
+msgstr "Черепаха"
+
+# Arabic constellation, pronounce: Al-Hawwa'
+msgid "The Snake Charmer"
+msgstr "Заклинач Змій"
+
+# Arabic constellation, pronounce: Al-Jabbar
+msgid "The Giant"
+msgstr "Гігант"
+
+# Arabic constellation, pronounce: Al-Faras Al-A'adham
+msgid "The Great Horse"
+msgstr "Великий Кінь"
+
+# Arabic constellation, pronounce: Hamil Ra's Al-Ghul
+msgid "Bearer of the Demon's Head"
+msgstr "Той, Що Несе Голову Демона"
+
+# Arabic constellation, pronounce: Al-Hut
+msgid "The Whale"
+msgstr "Кит"
+
+# Arabic constellation, pronounce: Al-Hut Al-Janubi
+msgid "The Southern Whale"
+msgstr "Південний Кит"
+
+# Arabic constellation, pronounce: As-Sahm
+msgid "The Arrow"
+msgstr "Стріла"
+
+# Arabic constellation, pronounce: Ar-Rami
+msgid "The Archer"
+msgstr "Стрілець"
+
+# Arabic constellation, pronounce: Al-'Aqrab
+msgid "The Scorpion"
+msgstr "Скорпіон"
+
+# Arabic constellation, pronounce: Ath-Thawr
+msgid "The Bull"
+msgstr "Бик"
+
+# Arabic constellation, pronounce: Al-Muthallath
+msgid "The Triangle"
+msgstr "Трикутник"
+
+# Arabic constellation, pronounce: Ad-Dubb Al-A'kbar
+msgid "The Greater Bear"
+msgstr "Великий Ведмідь"
+
+# Arabic constellation, pronounce: Ad-Dubb Al-A'sghar
+msgid "The Lesser Bear"
+msgstr "Малий Ведмідь"
+
+# Arabic constellation, pronounce: As-Safinah
+msgid "The Ship"
+msgstr "Корабель"
+
+# Arabic constellation, pronounce: Al-'Athra'
+msgid "The Maiden"
+msgstr "Діва"
+
+# Arabic constellation, pronounce: Al-Hayyah
+msgid "The Snake"
+msgstr "Змія"
+
+# Arabic constellation, pronounce: As-Sab'a
+msgid "The Beast of Prey"
+msgstr "Здобич"
+
+# Name for HIP 677
+msgid "Horse navel"
+msgstr "Морський кінь"
+
+# Name for HIP 746
+msgid "Tinted palm"
+msgstr "Похилена пальма"
+
+# Name for HIP 1067
+msgid "Horse flank"
+msgstr "Бік коня"
+
+# Name for HIP 3179
+msgid "The breast"
+msgstr "Грудь"
+
+# Name for HIP 3419
+msgid "The second frog"
+msgstr "Друга жаба"
+
+# Name for HIP 5447
+msgid "The rope"
+msgstr "Мотузка"
+
+# Name for HIP 6686
+msgid "The knee"
+msgstr "Коліно"
+
+# Name for HIP 7588
+msgid "End of the river"
+msgstr "Кінець Ріки"
+
+# Name for HIP 8645
+msgid "Belly of Cetus"
+msgstr "Черево Левіафана"
+
+# Name for HIP 8796
+msgid "The triangle - The first companionable"
+msgstr "Трикутник — Перша товариська"
+
+# Name for HIP 8832
+msgid "The second sign"
+msgstr "Другий знак"
+
+# Name for HIP 8903
+msgid "The first sign"
+msgstr "Перший знак"
+
+# Name for HIP 9487
+msgid "The rope knot"
+msgstr "Вузол на мотузці"
+
+# Name for HIP 9640
+msgid "Earthkid"
+msgstr "Земне дитя"
+
+# Name for HIP 9884
+msgid "A butter"
+msgstr "Масло"
+
+# Name for HIP 11767
+msgid "The goat"
+msgstr "Козел"
+
+# Name for HIP 13701
+msgid "The hatching-place"
+msgstr "Гатка"
+
+# Name for HIP 13847
+msgid "The aggrieved-end of the river"
+msgstr "Звужений кінець ріки"
+
+# Name for HIP 14135
+msgid "The nostril"
+msgstr "Ніздря"
+
+# Name for HIP 14576
+msgid "The ghoul"
+msgstr "Вампір"
+
+# Name for HIP 14838
+msgid "The little belly"
+msgstr "Маленький живіт"
+
+# Name for HIP 15863
+msgid "The elbow of the Pleiades"
+msgstr "Лікоть Плеяд"
+
+# Name for HIP 17448
+msgid "Shoulder of the Pleiades"
+msgstr "Плече Плеяд"
+
+# Name for HIP 17702
+msgid "The Pleiades"
+msgstr "Плеяди"
+
+# Name for HIP 19587
+msgid "One of the eggs"
+msgstr "Одне з яєць"
+
+# Name for HIP 19849
+msgid "One of the eggs shells"
+msgstr "Одна з шкаралуп яєць"
+
+# Name for HIP 20889
+msgid "Eye of the Bull"
+msgstr "Око Бика"
+
+# Name for HIP 21421
+msgid "Follower of the Pleiades"
+msgstr "Переслідувач Плеяд"
+
+# Name for HIP 23875
+msgid "Footstool of the giant"
+msgstr "Ослінчик Гіганта"
+
+# Name for HIP 24436
+msgid "The giant foot"
+msgstr "Стопа Гіганта"
+
+# Name for HIP 24608
+msgid "The Pleiades watcher"
+msgstr "Наглядач за Плеядами"
+
+# Name for HIP 25336
+msgid "The molar"
+msgstr "Корінний зуб"
+
+# Name for HIP 25428
+msgid "Heel of the Reins holder"
+msgstr "П’ята Візничого"
+
+# Name for HIP 25606
+msgid "The camels quenching their thirst"
+msgstr "Верблюди, що тамують свою спрагу"
+
+# Name for HIP 25930
+msgid "The zone"
+msgstr "Ділянка"
+
+# Name for HIP 25985
+msgid "The hare"
+msgstr "Заєць"
+
+# Name for HIP 26207
+msgid "White spot"
+msgstr "Біла пляма"
+
+# Name for HIP 26311
+msgid "The string of pearls"
+msgstr "Низка перлів"
+
+# Name for HIP 26634
+msgid "The dove"
+msgstr "Голубка"
+
+# Name for HIP 26727
+msgid "The belt"
+msgstr "Пояс"
+
+# Name for HIP 27366
+msgid "The sword"
+msgstr "Меч"
+
+# Name for HIP 27628
+msgid "The weight"
+msgstr "Терези"
+
+# Name for HIP 27989
+msgid "Shoulder of the giant"
+msgstr "Плече Гіганта"
+
+# Name for HIP 28360
+msgid "Shoulder of Reins holder"
+msgstr "Плече Візничого"
+
+# Name for HIP 29655
+msgid "Forward foot"
+msgstr "Передня стопа"
+
+# Name for HIP 30122
+msgid "Individual stars"
+msgstr "Окремі зірки"
+
+# Name for HIP 30324
+msgid "The announcer of the southern Shining one"
+msgstr "Передвісник південної Сяючої"
+
+# Name for HIP 30438
+msgid "Suhayl"
+msgstr "Сухайль"
+
+# Name for HIP 31681
+msgid "First one of the brand-mark"
+msgstr "Перша з позначених"
+
+# Name for HIP 32246
+msgid "The outstretched paw"
+msgstr "Витягнуте копито"
+
+# Name for HIP 32349
+msgid "The southern Shining one"
+msgstr "Південна Сяюча"
+
+# Name for HIP 33579
+msgid "The maidens"
+msgstr "Дівчата"
+
+# Name for HIP 34045
+msgid "The tow juror"
+msgstr "Суддя"
+
+# Name for HIP 34088
+msgid "The pulled-in paw"
+msgstr "Підібране копито"
+
+# Name for HIP 35550
+msgid "Middle of the sky"
+msgstr "Середина Неба"
+
+# Name for HIP 35904
+msgid "The maidenhood"
+msgstr "Дівоцтво"
+
+# Name for HIP 36188
+msgid "The announcer of the northern Shining one"
+msgstr "Передвісник північної Сяючої"
+
+# Name for HIP 36850
+msgid "The twins forward head"
+msgstr "Голова переднього Близнюка"
+
+# Name for HIP 37279
+msgid "The northern Shining one"
+msgstr "Північна Сяюча"
+
+# Name for HIP 37826
+msgid "The twins posterior head"
+msgstr "Голова заднього Близнюка"
+
+# Name for HIP 39429
+msgid "Suhayl hadar"
+msgstr "Сухайль Хадар"
+
+# Name for HIP 39953
+msgid "Sworn Suhayl"
+msgstr "Вірна Сухайль"
+
+# Name for HIP 41704
+msgid "One of the antelopes"
+msgstr "Одна з антилоп"
+
+# Name for HIP 42806
+msgid "Northern donkey"
+msgstr "Північний віслюк"
+
+# Name for HIP 42911
+msgid "Southern donkey"
+msgstr "Південний віслюк"
+
+# Name for HIP 44066
+msgid "The claw"
+msgstr "Кіготь"
+
+# Name for HIP 44127
+msgid "The third leap"
+msgstr "Третій стрибок"
+
+# Name for HIP 44816
+msgid "Suhayl the weight"
+msgstr "Сухайль-ваги"
+
+# Name for HIP 46390
+msgid "The solitary one"
+msgstr "Одинока"
+
+# Name for HIP 46750
+msgid "The glance of the lion"
+msgstr "Погляд Лева"
+
+# Name for HIP 48455
+msgid "Head of the lion"
+msgstr "Голова Лева"
+
+# Name for HIP 49669
+msgid "Heart of the lion"
+msgstr "Серце Лева"
+
+# Name for HIP 50372
+msgid "The northern one of the second leap"
+msgstr "Північна другого стрибка"
+
+# Name for HIP 50583
+msgid "The forehead of the lion"
+msgstr "Чоло Лева"
+
+# Name for HIP 50801
+msgid "The southern one of the second leap"
+msgstr "Південна другого стрибка"
+
+# Name for HIP 53740
+msgid "The cup"
+msgstr "Чаша"
+
+# Name for HIP 53910
+msgid "The loins"
+msgstr "Крижі"
+
+# Name for HIP 54061
+msgid "The bear"
+msgstr "Ведмідь"
+
+# Name for HIP 54872
+msgid "One of Al-zubarah"
+msgstr "Перша Аль-Зубара"
+
+# Name for HIP 54879
+msgid "Second Al-zubarah"
+msgstr "Друга Аль-Зубара"
+
+# Name for HIP 55203
+msgid "The southern one of the first leap"
+msgstr "Південна першого стрибка"
+
+# Name for HIP 55219
+msgid "The northern one of the first leap"
+msgstr "Північна першого стрибка"
+
+# Name for HIP 57632
+msgid "Tail of the lion"
+msgstr "Хвіст Лева"
+
+# Name for HIP 57757
+msgid "Corner of the barker"
+msgstr "Край собаки, що гавкає"
+
+# Name for HIP 58001
+msgid "The thigh"
+msgstr "Стегно"
+
+# Name for HIP 59199
+msgid "The tent"
+msgstr "Намет"
+
+# Name for HIP 59774
+msgid "The insertion-point of the Bear's tail"
+msgstr "Основа хвоста Ведмедя"
+
+# Name for HIP 59803
+msgid "The wing"
+msgstr "Крило"
+
+# Name for HIP 60965
+msgid "The raven"
+msgstr "Крук"
+
+# Name for HIP 62956
+msgid "The inlet"
+msgstr "Затока"
+
+# Name for HIP 63125
+msgid "The lion Liver"
+msgstr "Печінка Лева"
+
+# Name for HIP 63608
+msgid "Vine-harvestress"
+msgstr "Збирачка винограду"
+
+# Name for HIP 65378
+msgid "Embrace"
+msgstr "Обійми"
+
+# Name for HIP 65474
+msgid "The Undefended one"
+msgstr "Беззахисна"
+
+# Name for HIP 65477
+msgid "Al-suha"
+msgstr "Аль-Суха"
+
+# Name for HIP 67301
+msgid "Leader-daughter of the bier"
+msgstr "Старша дочка померлого"
+
+# Name for HIP 67927
+msgid "Single one of the lance-bearer"
+msgstr "Один зі списоносців"
+
+# Name for HIP 68933
+msgid "shoulder of the centaur"
+msgstr "Плече Кентавра"
+
+# Name for HIP 69673
+msgid "The Spear Thrower"
+msgstr "Списомет"
+
+# Name for HIP 69701
+msgid "One of Al-ghofer's"
+msgstr "Одна з Аль-Гофер"
+
+# Name for HIP 71075
+msgid "The shepherd"
+msgstr "Пастух"
+
+# Name for HIP 71683
+msgid "Centaur foot"
+msgstr "Копито Кентавра"
+
+# Name for HIP 72105
+msgid "The loin-cloth"
+msgstr "Настегенна пов’язка"
+
+# Name for HIP 72607
+msgid "The brighter Pherkad"
+msgstr "Яскравіша Феркад"
+
+# Name for HIP 72622
+msgid "The southern claw"
+msgstr "Південний кіготь"
+
+# Name for HIP 73555
+msgid "The cattleman"
+msgstr "Скотар"
+
+# Name for HIP 74785
+msgid "The northern claw"
+msgstr "Північний кіготь"
+
+# Name for HIP 75097
+msgid "The dimmer Pherkad"
+msgstr "Тьмяніша Феркад"
+
+# Name for HIP 75411
+msgid "Shepherd's crook"
+msgstr "Палиця Пастуха"
+
+# Name for HIP 75458
+msgid "The hyena"
+msgstr "Гієна"
+
+# Name for HIP 75695
+msgid "The two series"
+msgstr "Дві низки"
+
+# Name for HIP 76267
+msgid "The broken ring of stars"
+msgstr "Розірване кільце зірок"
+
+# Name for HIP 77070
+msgid "Neck of the snake"
+msgstr "Шия Змії"
+
+# Name for HIP 78401
+msgid "Scorpion forehead"
+msgstr "Чоло Скорпіона"
+
+# Name for HIP 78820
+msgid "The scorpion"
+msgstr "Скорпіон"
+
+# Name for HIP 79593
+msgid "The preceding hand"
+msgstr "Витягнута вперед рука"
+
+# Name for HIP 79882
+msgid "The succeeding hand"
+msgstr "Рука, що попереду"
+
+# Name for HIP 80112
+msgid "The arteries"
+msgstr "Артерії"
+
+# Name for HIP 80763
+msgid "The scorpion heart"
+msgstr "Серце Скорпіона"
+
+# Name for HIP 80883
+msgid "The elbow"
+msgstr "Лікоть"
+
+# Name for HIP 83608
+msgid "The dancer"
+msgstr "Танцівниця"
+
+# Name for HIP 84012
+msgid "The preceding"
+msgstr "Попередниця"
+
+# Name for HIP 84345
+msgid "Head of the kneeling one"
+msgstr "Голова Того, що стоїть на колінах"
+
+# Name for HIP 85670
+msgid "Head of the dragon"
+msgstr "Голова Дракона"
+
+# Name for HIP 85693
+msgid "The wrist of the kneeling one"
+msgstr "Зап’ясток Того, що стоїть на колінах"
+
+# Name for HIP 85696
+msgid "The sting"
+msgstr "Жало"
+
+# Name for HIP 85822
+msgid "Second one of the bier daughters"
+msgstr "Друга з дочок померлого"
+
+# Name for HIP 85927
+msgid "The raised tail"
+msgstr "Піднятий хвіст"
+
+# Name for HIP 86032
+msgid "Head of the snake-charmer"
+msgstr "Голова Змієносця"
+
+# Name for HIP 86742
+msgid "Dog of the shepherd"
+msgstr "Собака пастуха"
+
+# Name for HIP 87585
+msgid "The third incantation"
+msgstr "Третє закляття"
+
+# Name for HIP 87833
+msgid "The first incantation"
+msgstr "Перше закляття"
+
+# Name for HIP 88635
+msgid "Arrowhead"
+msgstr "Вістря стріли"
+
+# Name for HIP 89931
+msgid "The middle one of the bow"
+msgstr "Середня у Луці"
+
+# Name for HIP 90185
+msgid "The southern one of the bow"
+msgstr "Південна у Луці"
+
+# Name for HIP 90496
+msgid "The northern one of the bow"
+msgstr "Північна у Луці"
+
+# Name for HIP 91262
+msgid "The swooping eagle"
+msgstr "Орел, що атакує"
+
+# Name for HIP 92420
+msgid "The harp"
+msgstr "Арфа"
+
+# Name for HIP 92855
+msgid "Second outgoing ostriches"
+msgstr "Другий зі страусів, що тікають"
+
+# Name for HIP 92946
+msgid "The fatty tail"
+msgstr "Товстий хвіст"
+
+# Name for HIP 93194
+msgid "The tortoise"
+msgstr "Черепаха"
+
+# Name for HIP 93506
+msgid "The outgoing ostriches"
+msgstr "Страуси, що тікають"
+
+# Name for HIP 94376
+msgid "One of the andiron's"
+msgstr "Один з таганів"
+
+# Name for HIP 95241
+msgid "The heel-tendon"
+msgstr "Сухожилля плеча"
+
+# Name for HIP 95347
+msgid "The archer knee"
+msgstr "Коліно Стрільця"
+
+# Name for HIP 95947
+msgid "The hen-bill"
+msgstr "Дзьоб Куріпки"
+
+# Name for HIP 96757
+msgid "The arrow"
+msgstr "Стріла"
+
+# Name for HIP 97278
+msgid "One of the balance's"
+msgstr "Чаша Терезів"
+
+# Name for HIP 97649
+msgid "The flying eagle"
+msgstr "Орел, що летить"
+
+# Name for HIP 100027
+msgid "First lucky star of the slaughterer"
+msgstr "Перша щаслива зірка Вбивці"
+
+# Name for HIP 100345
+msgid "Second lucky star of the slaughterer"
+msgstr "Друга щаслива зірка Вбивці"
+
+# Name for HIP 100453
+msgid "The breast - one of the cavalry's"
+msgstr "Грудь"
+
+# Name for HIP 101769
+msgid "One of the sitting's"
+msgstr "Один з тих, що сидять"
+
+# Name for HIP 101958
+msgid "Second one of the sitting's"
+msgstr "Другий з тих, що сидять"
+
+# Name for HIP 102098
+msgid "Tail of the hen"
+msgstr "Хвіст Куріпки"
+
+# Name for HIP 102488
+msgid "The wing- one of the cavalry's"
+msgstr "Крило"
+
+# Name for HIP 102618
+msgid "One of swallower luck"
+msgstr "Перша щаслива того, хто п’є"
+
+# Name for HIP 104987
+msgid "Part of the horse"
+msgstr "Частина коня"
+
+# Name for HIP 105199
+msgid "The right forearm"
+msgstr "Праве передрам’я"
+
+# Name for HIP 106032
+msgid "Second of the Alfirk's"
+msgstr "Друга з Альфірків"
+
+# Name for HIP 106278
+msgid "One of the Luck of lucks"
+msgstr "Одна з удач"
+
+# Name for HIP 106985
+msgid "One of the Nashira luck"
+msgstr "Одна з удач Нашіри"
+
+# Name for HIP 107315
+msgid "The horse nose"
+msgstr "Ніс коня"
+
+# Name for HIP 107556
+msgid "Tail of the goat - Second Nashira luck"
+msgstr "Хвіст Козла — Друга удача Нашіри"
+
+# Name for HIP 108917
+msgid "The blaze on a horse's brow"
+msgstr "Відблиск на брові коня"
+
+# Name for HIP 109074
+msgid "First lucky star of the king"
+msgstr "Перша щаслива зірка султана"
+
+# Name for HIP 109068
+msgid "Second lucky star of the livestock"
+msgstr "Друга щаслива зірка худоби"
+
+# Name for HIP 109427
+msgid "First lucky star of the livestock"
+msgstr "Перша щаслива зірка худоби"
+
+# Name for HIP 110003
+msgid "The hip"
+msgstr "Стегно"
+
+# Name for HIP 110395
+msgid "First lucky star of the tents"
+msgstr "Перша щаслива зірка наметів"
+
+# Name for HIP 112029
+msgid "First lucky star of the high-minded man"
+msgstr "Перша щаслива зірка мудреця"
+
+# Name for HIP 112158
+msgid "First lucky star of the rain"
+msgstr "Перша щаслива зірка дощу"
+
+# Name for HIP 112748
+msgid "First lucky star of the excellent one"
+msgstr "Перша щаслива зірка Величного"
+
+# Name for HIP 113136
+msgid "The shin"
+msgstr "Гомілка"
+
+# Name for HIP 113368
+msgid "Mouth of the fish"
+msgstr "Рот Риби"
+
+# Name for HIP 113881
+msgid "The great horse shoulder"
+msgstr "Плече Великого Коня"
+
+# Name for HIP 113963
+msgid "The great horse back"
+msgstr "Крижі Великого Коня"
+
+# Name for HIP 20648
+msgid "Fourth one of Alkalaes"
+msgstr "Четвертий з Аль-Калі"
+
+# Name for HIP 20455
+msgid "Third one of Alkalaes"
+msgstr "Третій з Аль-Калі"
+
+# Name for HIP 20205
+msgid "Second one of Alkalaes"
+msgstr "Другий з Аль-Калі"
+
+# Name for HIP 20894
+msgid "One of Alkalaes"
+msgstr "Перший з Аль-Калі"
+
+# Name for HIP 42556
+msgid "The Scattered stars"
+msgstr "Розсіяні зірки"
+
+# Name for HIP 86782
+msgid "The quarter"
+msgstr "Четвертина"
+
+# Name for HIP 89341
+msgid "The wronged"
+msgstr "Той, з яким вчинили несправедливо"
+
+# Name for HIP 89642
+msgid "Incoming ostriches"
+msgstr "Страуси, що біжать до нас"
+
+# Name for HIP 92041
+msgid "First outgoing ostriches"
+msgstr "Перший зі страусів, що тікають"
+
+# Name for HIP 93864
+msgid "Third outgoing ostriches"
+msgstr "Третій зі страусів, що тікають"
+
+# Name for HIP 97165
+msgid "Fourth one of the cavalry's"
+msgstr "Чертвертий з вершників"
+
+# Name for HIP 98032
+msgid "First shrike"
+msgstr "Перший сорокопуд"
+
+# Name for HIP 98412
+msgid "Second shrike"
+msgstr "Другий сорокопуд"
+
+# Name for HIP 102281
+msgid "Fourth one of the sitting's"
+msgstr "Четвертий з тих, що сидять"
+
+# Name for HIP 102532
+msgid "Third one of the sitting's"
+msgstr "Третій з тих, що сидять"
+
+# Name for HIP 104732
+msgid "Second one of the cavalry's"
+msgstr "Другий з вершників"
+
+# Name for HIP 109268
+msgid "The shining"
+msgstr "Яскрава"
+
+# Name for HIP 112051
+msgid "Second lucky star of the rain"
+msgstr "Друга щаслива зірка дощу"
+
+# Name for HIP 112440
+msgid "Lucky star of the excellent one"
+msgstr "Щаслива зірка Величного"
+
+# Name for HIP 112447
+msgid "Second lucky star of the high-minded man"
+msgstr "Друга щаслива зірка мудреця"
+
+# Name for HIP 115250
+msgid "Second one of the anguish"
+msgstr "Друга з болів"
+
+# Name for HIP 115623
+msgid "First one of the anguish"
+msgstr "Перша з болів"
+
+# Name for HIP 83895
+msgid "First wolf"
+msgstr "Перший вовк"
+
+# Name for HIP 80331
+msgid "Second wolf"
+msgstr "Другий вовк"
+
+# Name for HIP 85805
+msgid "First wolf paw"
+msgstr "Лапа першого вовка"
+
+# Name for HIP 86201
+msgid "Second wolf paw"
+msgstr "Лапа другого вовка"
+
+# Name for HIP 89937
+msgid "Second one of the andiron's"
+msgstr "Другий з таганів"
+
+# Name for HIP 97433
+msgid "Third one of the andiron's"
+msgstr "Третій з таганів"
+
+# Name for HIP 85829
+msgid "The forth incantation"
+msgstr "Четверте закляття"
+
+# Name for HIP 10064
+msgid "The second companionable"
+msgstr "Друга товариська"
+
+# Name for HIP 32362
+msgid "Second one of the brand-mark"
+msgstr "Друга з позначених"
+
+# Name for HIP 69974
+msgid "The second Al-ghofer"
+msgstr "Друга Аль-Гофер"
+
+# Name for HIP 69427
+msgid "The third Al-ghofer"
+msgstr "Третя Аль-Гофер"
+
+# Name for HIP 103045
+msgid "Second One of swallower luck"
+msgstr "Друга щаслива того, хто п’є"
+
+# Name for HIP 104459
+msgid "Third One of swallower luck"
+msgstr "Третя щаслива того, хто п’є"
+
+# Name for HIP 106786
+msgid "Second one of the Luck of lucks"
+msgstr "Друга з удач"
+
+# Name for HIP 107382
+msgid "Third one of the Luck of lucks"
+msgstr "Третя з удач"
+
+# Name for HIP 108874
+msgid "Second lucky star of the king"
+msgstr "Друга щаслива зірка султана"
+
+# Name for HIP 110960
+msgid "Second lucky star of the tents"
+msgstr "Друга щаслива зірка наметів"
+
+# Name for HIP 111497
+msgid "Third lucky star of the tents"
+msgstr "Третя щаслива зірка наметів"
+
+# Name for HIP 110672
+msgid "Fourth lucky star of the tents"
+msgstr "Четверта щаслива зірка наметів"
+
+# Name for HIP 82080
+msgid "Third one of the bier daughters"
+msgstr "Третя з дочок померлого"

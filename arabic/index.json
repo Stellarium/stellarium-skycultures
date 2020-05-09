@@ -1,0 +1,891 @@
+{
+  "id": "arabic",
+  "region": "Middle East",
+  "constellations": [
+    {
+      "id": "CON arabic 001",
+      "lines": [[677, 3092, 5447], [9640, 5447, 4436, 3881]],
+      "image": {
+        "file": "illustrations/The-Shackled-Woman.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [232, 101], "hip": 677},
+          {"pos": [362, 99], "hip": 3693},
+          {"pos": [282, 241], "hip": 5447}
+        ]
+      },
+      "common_name": {"english": "The Shackled Woman", "pronounce": "Al-Mara'ah Al-Musalsalah"}
+    },
+    {
+      "id": "CON arabic 002",
+      "lines": [[106278, 109074, 110395, 110960, 111497, 112961, 114855, 115438], [109074, 110003, 109139], [110003, 111123, 112716, 113136], [102618, 106278], [115438, 114341, 113368]],
+      "image": {
+        "file": "illustrations/The-Well-bucket.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [290, 241], "hip": 109139},
+          {"pos": [152, 151], "hip": 110395},
+          {"pos": [310, 91], "hip": 106278}
+        ]
+      },
+      "common_name": {"english": "The Well-bucket", "pronounce": "Ad-Dalw"}
+    },
+    {
+      "id": "CON arabic 003",
+      "lines": [[98036, 97649, 97278], [97649, 95501, 97804], [99473, 97804], [95501, 93747, 93244], [95501, 93805]],
+      "image": {
+        "file": "illustrations/The-Eagle.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [253, 106], "hip": 97649},
+          {"pos": [291, 410], "hip": 93805},
+          {"pos": [84, 187], "hip": 99473}
+        ]
+      },
+      "common_name": {"english": "The Eagle", "pronounce": "Al-'Okab"}
+    },
+    {
+      "id": "CON arabic 004",
+      "lines": [[88714, 85792, 83081, 82363, 85727, 85267, 85258, 88714]],
+      "image": {
+        "file": "illustrations/The-Censer.webp",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [75, 33], "hip": 88714},
+          {"pos": [188, 127], "hip": 83153},
+          {"pos": [91, 192], "hip": 85727}
+        ]
+      },
+      "common_name": {"english": "The Censer", "pronounce": "Al-Mijmarah"}
+    },
+    {
+      "id": "CON arabic 005",
+      "lines": [[13209, 9884, 8903, 8832]],
+      "image": {
+        "file": "illustrations/The-Ram.webp",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [20, 102], "hip": 13209},
+          {"pos": [212, 112], "hip": 8832},
+          {"pos": [102, 230], "hip": 12803}
+        ]
+      },
+      "common_name": {"english": "The Ram", "pronounce": "Al-Hamal"}
+    },
+    {
+      "id": "CON arabic 006",
+      "lines": [[28380, 28360, 24608, 23453, 23015], [25428, 23015], [25428, 28380]],
+      "image": {
+        "file": "illustrations/The-Reins-holder.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [376, 172], "hip": 24608},
+          {"pos": [234, 296], "hip": 28380},
+          {"pos": [349, 425], "hip": 25428}
+        ]
+      },
+      "common_name": {"english": "The Reins-holder", "pronounce": "Momsek Al-A'aennah"}
+    },
+    {
+      "id": "CON arabic 007",
+      "lines": [[71795, 69673, 72105, 74666, 73555, 71075, 71053, 69673, 67927, 67459], [71075, 69732, 70497]],
+      "image": {
+        "file": "illustrations/The-Howler.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [234, 381], "hip": 69673},
+          {"pos": [309, 180], "hip": 71075},
+          {"pos": [180, 168], "hip": 74666}
+        ]
+      },
+      "common_name": {"english": "The Howler", "pronounce": "Al-'Awwa'"}
+    },
+    {
+      "id": "CON arabic 008",
+      "lines": [[43103, 42806, 40843], [42806, 42911, 40526], [42911, 44066]],
+      "image": {
+        "file": "illustrations/The-Crab.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [275, 311], "hip": 42911},
+          {"pos": [292, 219], "hip": 42806},
+          {"pos": [372, 310], "hip": 41822}
+        ]
+      },
+      "common_name": {"english": "The Crab", "pronounce": "As-Sarattan"}
+    },
+    {
+      "id": "CON arabic 009",
+      "lines": [[33160, 34045, 33347, 32349, 33977, 34444, 35037, 35904], [33579, 33856, 34444], [33856, 33152, 31592, 31416], [31592, 30324], [31592, 32349], [33579, 32759], [30122, 33579], [33347, 33160]],
+      "image": {
+        "file": "illustrations/The-Greater-Dog.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [192, 115], "hip": 32349},
+          {"pos": [154, 251], "hip": 33977},
+          {"pos": [188, 248], "hip": 33152}
+        ]
+      },
+      "common_name": {"english": "The Greater Dog", "pronounce": "Al-Kalb Al-A'kbar"}
+    },
+    {
+      "id": "CON arabic 010",
+      "lines": [[37279, 36188]],
+      "image": {
+        "file": "illustrations/The-Lesser-Dog.webp",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [98, 19], "hip": 37921},
+          {"pos": [90, 125], "hip": 37279},
+          {"pos": [176, 80], "hip": 36041}
+        ]
+      },
+      "common_name": {"english": "The Lesser Dog", "pronounce": "Al-Kalb Al-A'sghar"}
+    },
+    {
+      "id": "CON arabic 011",
+      "lines": [[100064, 100345, 104139, 105515, 106985, 107556], [105515, 105881, 104139], [100345, 102485], [104139, 102978]],
+      "image": {
+        "file": "illustrations/The-Young-Goat.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [424, 140], "hip": 100345},
+          {"pos": [54, 225], "hip": 107556},
+          {"pos": [298, 478], "hip": 103738}
+        ]
+      },
+      "common_name": {"english": "The Young Goat", "pronounce": "Al-Jadi"}
+    },
+    {
+      "id": "CON arabic 012",
+      "lines": [[8886, 6686, 4427, 3179, 746]],
+      "image": {
+        "file": "illustrations/Who-Lady-Has-Chair.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [410, 274], "hip": 5542},
+          {"pos": [233, 253], "hip": 746},
+          {"pos": [374, 462], "hip": 8886}
+        ]
+      },
+      "common_name": {"english": "Who (Lady) Has Chair", "pronounce": "That Al-Korsi"}
+    },
+    {
+      "id": "CON arabic 013",
+      "lines": [[71683, 68702, 66657, 68002, 68282, 67472, 67464, 65936, 65109], [67464, 68933], [67472, 71352, 73334], [68002, 61932, 60823, 59196, 56480, 56561]],
+      "image": {
+        "file": "illustrations/CentaurAndThe-Beast-of-Prey.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [9, 152], "hip": 78918},
+          {"pos": [384, 332], "hip": 60718},
+          {"pos": [326, 65], "hip": 65109}
+        ]
+      },
+      "common_name": {"english": "Centaur", "pronounce": "Qanttorus"}
+    },
+    {
+      "id": "CON arabic 014",
+      "lines": [[109492, 112724, 106032, 105199, 109492], [112724, 116727, 106032]],
+      "image": {
+        "file": "illustrations/Inflammatus.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [154, 207], "hip": 105199},
+          {"pos": [222, 305], "hip": 106032},
+          {"pos": [312, 198], "hip": 112724}
+        ]
+      },
+      "common_name": {"english": "Inflammatus", "pronounce": "Al-Multaheb"}
+    },
+    {
+      "id": "CON arabic 015",
+      "lines": [[10324, 11484], [8102, 3419, 1562], [3419, 5364, 6537, 8645, 11345, 12390, 12770, 11783, 8102], [10826, 12390], [10826, 12387, 12706, 14143, 13954, 12828, 11484, 12093, 12706]],
+      "image": {
+        "file": "illustrations/Cetus.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [142, 87], "hip": 14135},
+          {"pos": [433, 341], "hip": 1562},
+          {"pos": [122, 255], "hip": 12770}
+        ]
+      },
+      "common_name": {"english": "Cetus", "pronounce": "Qayttas"}
+    },
+    {
+      "id": "CON arabic 016",
+      "lines": [[64241, 64394, 60742]],
+      "common_name": {"english": "Bristle", "pronounce": "Al-Hulbah"}
+    },
+    {
+      "id": "CON arabic 017",
+      "lines": [[91875, 92989, 93174, 93825, 94114, 94160, 94005, 93542, 92953], [91875, 90887]],
+      "image": {
+        "file": "illustrations/The-Southern-Crown.webp",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [62, 46], "hip": 93825},
+          {"pos": [50, 62], "hip": 94114},
+          {"pos": [181, 186], "hip": 90200}
+        ]
+      },
+      "common_name": {"english": "The Southern Crown", "pronounce": "Al-I'klil Al-Janobi"}
+    },
+    {
+      "id": "CON arabic 018",
+      "lines": [[76127, 75695, 76267, 76952, 77512, 78159, 78493]],
+      "image": {
+        "file": "illustrations/The-Northern-Crown.webp",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [59, 83], "hip": 77048},
+          {"pos": [143, 89], "hip": 75695},
+          {"pos": [86, 201], "hip": 78159}
+        ]
+      },
+      "common_name": {"english": "The Northern Crown", "pronounce": "Al-I'klil Ash-Shamali"}
+    },
+    {
+      "id": "CON arabic 019",
+      "lines": [[61174, 60965, 59803, 59316, 59199], [59316, 61359, 60965]],
+      "image": {
+        "file": "illustrations/The-Raven.webp",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [109, 127], "hip": 60965},
+          {"pos": [192, 183], "hip": 59316},
+          {"pos": [126, 216], "hip": 61359}
+        ]
+      },
+      "common_name": {"english": "The Raven", "pronounce": "Al-Ghurab"}
+    },
+    {
+      "id": "CON arabic 020",
+      "lines": [[53740, 54682, 55705, 55282, 53740], [55282, 55687, 56633, 58188, 57283, 55705]],
+      "image": {
+        "file": "illustrations/The-Great-Cup.webp",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [192, 58], "hip": 56633},
+          {"pos": [32, 46], "hip": 58188},
+          {"pos": [146, 167], "hip": 55282}
+        ]
+      },
+      "common_name": {"english": "The Great Cup", "pronounce": "Al-Battiyah"}
+    },
+    {
+      "id": "CON arabic 021",
+      "lines": [[94779, 95853, 97165, 100453, 102098], [100453, 102488, 104732, 107310], [100453, 98110, 95947]],
+      "image": {
+        "file": "illustrations/The-Hen.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [77, 286], "hip": 94779},
+          {"pos": [417, 292], "hip": 104732},
+          {"pos": [270, 93], "hip": 95947}
+        ]
+      },
+      "common_name": {"english": "The Hen", "pronounce": "Ad-Dajajah"}
+    },
+    {
+      "id": "CON arabic 022",
+      "lines": [[101421, 101769, 101958, 102532, 102281, 101769]],
+      "image": {
+        "file": "illustrations/The-Dolphin.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [247, 200], "hip": 102532},
+          {"pos": [250, 363], "hip": 101421},
+          {"pos": [289, 276], "hip": 101589}
+        ]
+      },
+      "common_name": {"english": "The Dolphin", "pronounce": "Ad-Dulfin"}
+    },
+    {
+      "id": "CON arabic 023",
+      "lines": [[87585, 87833, 85670, 85829, 87585, 94376, 97433, 89937, 83895, 80331, 78527, 75458, 68756, 61281, 56211]],
+      "image": {
+        "file": "illustrations/The-Dragon.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [81, 443], "hip": 56211},
+          {"pos": [328, 117], "hip": 85670},
+          {"pos": [445, 297], "hip": 97433}
+        ]
+      },
+      "common_name": {"english": "The Dragon", "pronounce": "At-Tinneen"}
+    },
+    {
+      "id": "CON arabic 024",
+      "lines": [[104521, 104858, 105570, 104987, 104521]],
+      "image": {
+        "file": "illustrations/Part-of-the-Horse.webp",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [197, 216], "hip": 104987},
+          {"pos": [130, 211], "hip": 105570},
+          {"pos": [136, 83], "hip": 104521}
+        ]
+      },
+      "common_name": {"english": "Part of the Horse", "pronounce": "Qett'at Al-Faras"}
+    },
+    {
+      "id": "CON arabic 025",
+      "lines": [[7588, 9007, 10602, 11407, 12413, 12486, 13847, 15510, 17797, 17874, 20042, 20535, 21393, 17651, 16611, 15474, 14146, 12843, 13701, 15197, 16537, 17378, 21444, 22109, 22701, 23875]],
+      "image": {
+        "file": "illustrations/The-River.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [370, 321], "hip": 13847},
+          {"pos": [320, 173], "hip": 15474},
+          {"pos": [181, 263], "hip": 21393}
+        ]
+      },
+      "common_name": {"english": "The River", "pronounce": "An-Nahr"}
+    },
+    {
+      "id": "CON arabic 026",
+      "lines": [[31681, 34088, 35550, 35350, 32362], [35550, 36962, 37740], [36962, 37826], [36962, 36046, 34693, 36850], [34693, 33018], [34693, 32246, 30883], [32246, 30343, 29655, 28734]],
+      "image": {
+        "file": "illustrations/The-Twins.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [176, 204], "hip": 37826},
+          {"pos": [216, 156], "hip": 36850},
+          {"pos": [440, 298], "hip": 30343}
+        ]
+      },
+      "common_name": {"english": "The Twins", "pronounce": "At-Tawa'man"}
+    },
+    {
+      "id": "CON arabic 027",
+      "lines": [[86414, 87808, 85112, 84606, 84380, 81833, 81126, 79992, 77760], [81833, 81693, 80816, 80170], [81693, 83207, 84379], [85693, 84379], [86974, 87933, 88794], [87933, 86974], [83207, 84380], [85693, 86974], [84379, 84345]],
+      "image": {
+        "file": "illustrations/The-Kneeling-Man.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [386, 142], "hip": 88794},
+          {"pos": [227, 413], "hip": 79101},
+          {"pos": [174, 75], "hip": 84345}
+        ]
+      },
+      "common_name": {"english": "The Kneeling (Man)", "pronounce": "Al-Jathi"}
+    },
+    {
+      "id": "CON arabic 028",
+      "lines": [[42799, 42402, 42313, 43109, 43234, 42799], [43234, 43813, 45336, 46776, 46509, 46390, 48356, 49841, 51069, 52943, 56343, 57936, 64166, 64962, 68895, 72571]],
+      "image": {
+        "file": "illustrations/The-Brave.webp",
+        "size": [1024, 1024],
+        "anchors": [
+          {"pos": [640, 380], "hip": 46390},
+          {"pos": [473, 660], "hip": 56922},
+          {"pos": [250, 640], "hip": 64962}
+        ]
+      },
+      "common_name": {"english": "The Brave", "pronounce": "Ash-Shuja'a"}
+    },
+    {
+      "id": "CON arabic 029",
+      "lines": [[57632, 54879, 49669, 49583, 50583, 54872, 57632], [50583, 50335, 48455, 47908], [54872, 54879]],
+      "image": {
+        "file": "illustrations/The-Lion.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [42, 369], "hip": 57632},
+          {"pos": [293, 242], "hip": 49669},
+          {"pos": [110, 181], "hip": 53417}
+        ]
+      },
+      "common_name": {"english": "The Lion", "pronounce": "Al-A'sad"}
+    },
+    {
+      "id": "CON arabic 030",
+      "lines": [[28910, 28103, 27288, 25985, 24305], [25985, 27654, 27072, 25606, 23685], [25985, 25606], [24305, 24845], [24305, 24327], [23685, 24305], [24327, 24244], [24845, 24873]],
+      "image": {
+        "file": "illustrations/The-Hare.webp",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [214, 77], "hip": 24305},
+          {"pos": [105, 170], "hip": 27072},
+          {"pos": [59, 48], "hip": 28103}
+        ]
+      },
+      "common_name": {"english": "The Hare", "pronounce": "Al-A'rnab"}
+    },
+    {
+      "id": "CON arabic 031",
+      "lines": [[77853, 76333, 74785, 72622, 73714, 76333]],
+      "image": {
+        "file": "illustrations/The-Balance.webp",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [89, 185], "hip": 74785},
+          {"pos": [55, 89], "hip": 72622},
+          {"pos": [214, 144], "hip": 77853}
+        ]
+      },
+      "common_name": {"english": "The Balance", "pronounce": "Al-Mizan"}
+    },
+    {
+      "id": "CON arabic 032",
+      "lines": [[91262, 91971, 92420, 93194, 92791, 91971]],
+      "image": {
+        "file": "illustrations/The-Turtle.webp",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [173, 69], "hip": 91262},
+          {"pos": [62, 107], "hip": 94481},
+          {"pos": [146, 189], "hip": 93194}
+        ]
+      },
+      "common_name": {"english": "The Turtle", "pronounce": "As-Sulhofat"}
+    },
+    {
+      "id": "CON arabic 033",
+      "lines": [[86032, 86742], [84012, 86742], [86032, 83000, 79882, 81377, 84012, 85755]],
+      "image": {
+        "file": "illustrations/The-Snake-Charmer.webp",
+        "size": [1024, 1024],
+        "anchors": [
+          {"pos": [750, 598], "hip": 79882},
+          {"pos": [783, 723], "hip": 78727},
+          {"pos": [651, 679], "hip": 81377}
+        ]
+      },
+      "common_name": {"english": "The Snake Charmer", "pronounce": "Al-Hawwa'"}
+    },
+    {
+      "id": "CON arabic 034",
+      "lines": [[26727, 26311, 25930], [28691, 29426, 29038, 27913], [29426, 28614, 27989, 26727, 27366, 24436, 25930, 25336, 26207, 27989], [25336, 22449, 22549, 22730, 23123], [22449, 22509, 22845], [29038, 28614]],
+      "image": {
+        "file": "illustrations/The-Giant.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [302, 190], "hip": 25336},
+          {"pos": [193, 181], "hip": 27989},
+          {"pos": [237, 423], "hip": 27366}
+        ]
+      },
+      "common_name": {"english": "The Giant", "pronounce": "Al-Jabbar"}
+    },
+    {
+      "id": "CON arabic 035",
+      "lines": [[1067, 113963], [113881, 112158, 109352], [113881, 112748, 112440, 109176, 107354], [113963, 112447, 112029, 109427, 107315], [677, 113881], [677, 1067]],
+      "image": {
+        "file": "illustrations/The-Great-Horse.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [264, 70], "hip": 107315},
+          {"pos": [194, 318], "hip": 113881},
+          {"pos": [372, 414], "hip": 1067}
+        ]
+      },
+      "common_name": {"english": "The Great Horse", "pronounce": "Al-Faras Al-A'adham"}
+    },
+    {
+      "id": "CON arabic 036",
+      "lines": [[17448, 18246, 18614, 18532, 17358, 15863, 14328, 13268], [15863, 14576, 14354, 13254]],
+      "image": {
+        "file": "illustrations/Bearer-of-the-Demons-Head.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [335, 245], "hip": 14576},
+          {"pos": [205, 247], "hip": 17358},
+          {"pos": [329, 426], "hip": 18246}
+        ]
+      },
+      "common_name": {"english": "Bearer of the Demon's Head", "pronounce": "Hamil Ra's Al-Ghul"}
+    },
+    {
+      "id": "CON arabic 037",
+      "lines": [[4889, 5742], [4889, 6193, 5742, 7097, 8198, 9487, 8833, 7884, 7007, 4906, 3760, 1645, 118268, 116771, 116928, 115738, 114971, 115830, 116771]],
+      "image": {
+        "file": "illustrations/The-Whale.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [122, 457], "hip": 6193},
+          {"pos": [396, 472], "hip": 9487},
+          {"pos": [255, 77], "hip": 114971}
+        ]
+      },
+      "common_name": {"english": "The Whale", "pronounce": "Al-Hut"}
+    },
+    {
+      "id": "CON arabic 038",
+      "lines": [[113368, 111954, 108661, 107608, 107380, 108085], [109422, 108085], [109422, 111188, 113246]],
+      "image": {
+        "file": "illustrations/The-Southern-Whale.webp",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [184, 115], "hip": 108085},
+          {"pos": [129, 33], "hip": 108661},
+          {"pos": [33, 127], "hip": 113246}
+        ]
+      },
+      "common_name": {"english": "The Southern Whale", "pronounce": "Al-Hut Al-Janubi"}
+    },
+    {
+      "id": "CON arabic 039",
+      "lines": [[96837, 97365, 96757], [97365, 98337, 98920]],
+      "image": {
+        "file": "illustrations/The-Arrow.webp",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [122, 93], "hip": 98920},
+          {"pos": [119, 204], "hip": 96837},
+          {"pos": [133, 206], "hip": 96757}
+        ]
+      },
+      "common_name": {"english": "The Arrow", "pronounce": "As-Sahm"}
+    },
+    {
+      "id": "CON arabic 040",
+      "lines": [[89931, 90496], [90185, 88635, 89931, 90185], [93506, 92041, 89931], [92041, 90496, 89341], [93506, 93864, 92855, 92041], [92855, 93085, 93683, 94820, 95168], [93506, 93667, 96465, 98688, 98842, 98412, 98761, 98032], [98412, 95347, 95241], [90496, 88635], [89642, 91918, 93506]],
+      "image": {
+        "file": "illustrations/The-Archer.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [399, 172], "hip": 90496},
+          {"pos": [395, 299], "hip": 90185},
+          {"pos": [284, 225], "hip": 93506}
+        ]
+      },
+      "common_name": {"english": "The Archer", "pronounce": "Ar-Rami"}
+    },
+    {
+      "id": "CON arabic 041",
+      "lines": [[85927, 86670, 87073, 86228, 84143, 82671, 82514, 82396, 81266, 80763, 78401], [80763, 78265], [80763, 78820]],
+      "image": {
+        "file": "illustrations/The-Scorpion.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [280, 194], "hip": 80763},
+          {"pos": [183, 389], "hip": 82671},
+          {"pos": [55, 367], "hip": 87073}
+        ]
+      },
+      "common_name": {"english": "The Scorpion", "pronounce": "Al-'Aqrab"}
+    },
+    {
+      "id": "CON arabic 042",
+      "lines": [[25428, 21881, 20889], [21421, 26451], [20205, 20455], [20205, 18724, 15900], [21421, 20889], [21421, 20894, 20205], [20889, 20648, 20455, 17847]],
+      "image": {
+        "file": "illustrations/The-Bull.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [223, 227], "hip": 21421},
+          {"pos": [471, 376], "hip": 15900},
+          {"pos": [404, 137], "hip": 17847}
+        ]
+      },
+      "common_name": {"english": "The Bull", "pronounce": "Ath-Thawr"}
+    },
+    {
+      "id": "CON arabic 043",
+      "lines": [[10559, 10064, 8796, 10559]],
+      "image": {
+        "file": "illustrations/The-Triangle.webp",
+        "size": [128, 128],
+        "anchors": [
+          {"pos": [41, 12], "hip": 10064},
+          {"pos": [14, 44], "hip": 10670},
+          {"pos": [107, 101], "hip": 8796}
+        ]
+      },
+      "common_name": {"english": "The Triangle", "pronounce": "Al-Muthallath"}
+    },
+    {
+      "id": "CON arabic 044",
+      "lines": [[67301, 65378, 62956, 59774, 54061, 53910, 58001, 59774], [58001, 57399, 54539, 50372], [54539, 50801], [53910, 48402, 46853, 44471], [46853, 44127], [48402, 48319, 41704, 46733, 54061], [57399, 55219], [57399, 55203]],
+      "image": {
+        "file": "illustrations/The-Greater-Bear.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [81, 392], "hip": 65378},
+          {"pos": [390, 379], "hip": 55219},
+          {"pos": [330, 66], "hip": 44127}
+        ]
+      },
+      "common_name": {"english": "The Greater Bear", "pronounce": "Ad-Dubb Al-A'kbar"}
+    },
+    {
+      "id": "CON arabic 045",
+      "lines": [[11767, 85822, 82080, 77055, 79822, 75097, 72607, 77055]],
+      "image": {
+        "file": "illustrations/The-Lesser-Bear.webp",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [227, 213], "hip": 11767},
+          {"pos": [138, 62], "hip": 79822},
+          {"pos": [80, 115], "hip": 70692}
+        ]
+      },
+      "common_name": {"english": "The Lesser Bear", "pronounce": "Ad-Dubb Al-A'sghar"}
+    },
+    {
+      "id": "CON arabic 046",
+      "lines": [[30438, 32768, 37469], [28328, 31685, 37004], [35264, 38170, 39757, 39429, 44816, 46651, 50191, 48774, 45556, 41037, 38827, 35264], [39429, 42515, 42828, 43409]],
+      "image": {
+        "file": "illustrations/The-Ship.webp",
+        "size": [1024, 1024],
+        "anchors": [
+          {"pos": [823, 877], "hip": 30438},
+          {"pos": [765, 239], "hip": 39757},
+          {"pos": [381, 441], "hip": 46651}
+        ]
+      },
+      "common_name": {"english": "The Ship", "pronounce": "As-Safinah"}
+    },
+    {
+      "id": "CON arabic 047",
+      "lines": [[57380, 60030, 61941, 65474, 69427, 69701, 71957], [65474, 66249, 68520, 72220], [66249, 63090, 63608], [63090, 61941]],
+      "image": {
+        "file": "illustrations/The-Maiden.webp",
+        "size": [512, 512],
+        "anchors": [
+          {"pos": [266, 412], "hip": 69427},
+          {"pos": [220, 298], "hip": 66249},
+          {"pos": [316, 317], "hip": 65474}
+        ]
+      },
+      "common_name": {"english": "The Maiden", "pronounce": "Al-'Athra'"}
+    },
+    {
+      "id": "CON arabic 048",
+      "lines": [[77516, 77622, 77070, 76276, 77233, 78072, 77450, 77233], [92946, 89962, 86565, 86263, 84880]],
+      "common_name": {"english": "The Snake", "pronounce": "Al-Hayyah"}
+    },
+    {
+      "id": "CON arabic 049",
+      "lines": [[77634, 78970, 78384, 77634], [78384, 76297, 75141, 75177], [75141, 73273], [76297, 76552, 74395, 71860], [74395, 71536], [71860, 70576], [71860, 73273]],
+      "common_name": {"english": "The Beast of Prey", "pronounce": "As-Sab'a"}
+    }
+  ],
+  "common_names": {
+    "HIP 677": [{"english": "Horse navel"}],
+    "HIP 746": [{"english": "Tinted palm"}],
+    "HIP 1067": [{"english": "Horse flank"}],
+    "HIP 3179": [{"english": "The breast"}],
+    "HIP 3419": [{"english": "The second frog"}],
+    "HIP 5447": [{"english": "The rope"}],
+    "HIP 6686": [{"english": "The knee"}],
+    "HIP 7588": [{"english": "End of the river"}],
+    "HIP 8645": [{"english": "Belly of Cetus"}],
+    "HIP 8796": [{"english": "The triangle - The first companionable"}],
+    "HIP 8832": [{"english": "The second sign"}],
+    "HIP 8903": [{"english": "The first sign"}],
+    "HIP 9487": [{"english": "The rope knot"}],
+    "HIP 9640": [{"english": "Earthkid"}],
+    "HIP 9884": [{"english": "A butter"}],
+    "HIP 11767": [{"english": "The goat"}],
+    "HIP 13701": [{"english": "The hatching-place"}],
+    "HIP 13847": [{"english": "The aggrieved-end of the river"}],
+    "HIP 14135": [{"english": "The nostril"}],
+    "HIP 14576": [{"english": "The ghoul"}],
+    "HIP 14838": [{"english": "The little belly"}],
+    "HIP 15863": [{"english": "The elbow of the Pleiades"}],
+    "HIP 17448": [{"english": "Shoulder of the Pleiades"}],
+    "HIP 17702": [{"english": "The Pleiades"}],
+    "HIP 18614": [{"english": "Shoulder of the Pleiades"}],
+    "HIP 19587": [{"english": "One of the eggs"}],
+    "HIP 19849": [{"english": "One of the eggs shells"}],
+    "HIP 20889": [{"english": "Eye of the Bull"}],
+    "HIP 21421": [{"english": "Follower of the Pleiades"}],
+    "HIP 23875": [{"english": "Footstool of the giant"}],
+    "HIP 24436": [{"english": "The giant foot"}],
+    "HIP 24608": [{"english": "The Pleiades watcher"}],
+    "HIP 25336": [{"english": "The molar"}],
+    "HIP 25428": [{"english": "Heel of the Reins holder"}],
+    "HIP 25606": [{"english": "The camels quenching their thirst"}],
+    "HIP 25930": [{"english": "The zone"}],
+    "HIP 25985": [{"english": "The hare"}],
+    "HIP 26207": [{"english": "White spot"}],
+    "HIP 26311": [{"english": "The string of pearls"}],
+    "HIP 26634": [{"english": "The dove"}],
+    "HIP 26727": [{"english": "The belt"}],
+    "HIP 27366": [{"english": "The sword"}],
+    "HIP 27628": [{"english": "The weight"}],
+    "HIP 27989": [{"english": "Shoulder of the giant"}],
+    "HIP 28360": [{"english": "Shoulder of Reins holder"}],
+    "HIP 29655": [{"english": "Forward foot"}],
+    "HIP 30122": [{"english": "Individual stars"}],
+    "HIP 30324": [{"english": "The announcer of the southern Shining one"}],
+    "HIP 30343": [{"english": "Tejat"}],
+    "HIP 30438": [{"english": "Suhayl"}],
+    "HIP 31681": [{"english": "First one of the brand-mark"}],
+    "HIP 32246": [{"english": "The outstretched paw"}],
+    "HIP 32349": [{"english": "The southern Shining one"}],
+    "HIP 33579": [{"english": "The maidens"}],
+    "HIP 34045": [{"english": "The tow juror"}],
+    "HIP 34088": [{"english": "The pulled-in paw"}],
+    "HIP 34444": [{"english": "The weight"}],
+    "HIP 35550": [{"english": "Middle of the sky"}],
+    "HIP 35904": [{"english": "The maidenhood"}],
+    "HIP 36188": [{"english": "The announcer of the northern Shining one"}],
+    "HIP 36850": [{"english": "The twins forward head"}],
+    "HIP 37279": [{"english": "The northern Shining one"}],
+    "HIP 37826": [{"english": "The twins posterior head"}],
+    "HIP 39429": [{"english": "Suhayl hadar"}],
+    "HIP 39953": [{"english": "Sworn Suhayl"}],
+    "HIP 41704": [{"english": "One of the antelopes"}],
+    "HIP 42806": [{"english": "Northern donkey"}],
+    "HIP 42911": [{"english": "Southern donkey"}],
+    "HIP 44066": [{"english": "The claw"}],
+    "HIP 44127": [{"english": "The third leap"}],
+    "HIP 44816": [{"english": "Suhayl the weight"}],
+    "HIP 46390": [{"english": "The solitary one"}],
+    "HIP 46750": [{"english": "The glance of the lion"}],
+    "HIP 48455": [{"english": "Head of the lion"}],
+    "HIP 49669": [{"english": "Heart of the lion"}],
+    "HIP 50372": [{"english": "The northern one of the second leap"}],
+    "HIP 50583": [{"english": "The forehead of the lion"}],
+    "HIP 50801": [{"english": "The southern one of the second leap"}],
+    "HIP 53740": [{"english": "The cup"}],
+    "HIP 53910": [{"english": "The loins"}],
+    "HIP 54061": [{"english": "The bear"}],
+    "HIP 54872": [{"english": "One of Al-zubarah"}],
+    "HIP 54879": [{"english": "Second Al-zubarah"}],
+    "HIP 55203": [{"english": "The southern one of the first leap"}],
+    "HIP 55219": [{"english": "The northern one of the first leap"}],
+    "HIP 57632": [{"english": "Tail of the lion"}],
+    "HIP 57757": [{"english": "Corner of the barker"}],
+    "HIP 58001": [{"english": "The thigh"}],
+    "HIP 59199": [{"english": "The tent"}],
+    "HIP 59774": [{"english": "The insertion-point of the Bear's tail"}],
+    "HIP 59803": [{"english": "The wing"}],
+    "HIP 60965": [{"english": "The raven"}],
+    "HIP 62956": [{"english": "The inlet"}],
+    "HIP 63125": [{"english": "The lion Liver"}],
+    "HIP 63608": [{"english": "Vine-harvestress"}],
+    "HIP 65378": [{"english": "Embrace"}],
+    "HIP 65474": [{"english": "The Undefended one"}],
+    "HIP 65477": [{"english": "Al-suha"}],
+    "HIP 67301": [{"english": "Leader-daughter of the bier"}],
+    "HIP 67927": [{"english": "Single one of the lance-bearer"}],
+    "HIP 68702": [{"english": "Hadar"}],
+    "HIP 68933": [{"english": "shoulder of the centaur"}],
+    "HIP 69673": [{"english": "The Spear Thrower"}],
+    "HIP 69701": [{"english": "One of Al-ghofer's"}],
+    "HIP 71075": [{"english": "The shepherd"}],
+    "HIP 71683": [{"english": "Centaur foot"}],
+    "HIP 72105": [{"english": "The loin-cloth"}],
+    "HIP 72607": [{"english": "The brighter Pherkad"}],
+    "HIP 72622": [{"english": "The southern claw"}],
+    "HIP 73555": [{"english": "The cattleman"}],
+    "HIP 74785": [{"english": "The northern claw"}],
+    "HIP 75097": [{"english": "The dimmer Pherkad"}],
+    "HIP 75411": [{"english": "Shepherd's crook"}],
+    "HIP 75458": [{"english": "The hyena"}],
+    "HIP 75695": [{"english": "The two series"}],
+    "HIP 76267": [{"english": "The broken ring of stars"}],
+    "HIP 77070": [{"english": "Neck of the snake"}],
+    "HIP 78401": [{"english": "Scorpion forehead"}],
+    "HIP 78820": [{"english": "The scorpion"}],
+    "HIP 79593": [{"english": "The preceding hand"}],
+    "HIP 79882": [{"english": "The succeeding hand"}],
+    "HIP 80112": [{"english": "The arteries"}],
+    "HIP 80763": [{"english": "The scorpion heart"}],
+    "HIP 80883": [{"english": "The elbow"}],
+    "HIP 83608": [{"english": "The dancer"}],
+    "HIP 84012": [{"english": "The preceding"}],
+    "HIP 84345": [{"english": "Head of the kneeling one"}],
+    "HIP 85670": [{"english": "Head of the dragon"}],
+    "HIP 85693": [{"english": "The wrist of the kneeling one"}],
+    "HIP 85696": [{"english": "The sting"}],
+    "HIP 85822": [{"english": "Second one of the bier daughters"}],
+    "HIP 85927": [{"english": "The raised tail"}],
+    "HIP 86032": [{"english": "Head of the snake-charmer"}],
+    "HIP 86742": [{"english": "Dog of the shepherd"}],
+    "HIP 87585": [{"english": "The third incantation"}],
+    "HIP 87833": [{"english": "The first incantation"}],
+    "HIP 88635": [{"english": "Arrowhead"}],
+    "HIP 89931": [{"english": "The middle one of the bow"}],
+    "HIP 90185": [{"english": "The southern one of the bow"}],
+    "HIP 90496": [{"english": "The northern one of the bow"}],
+    "HIP 91262": [{"english": "The swooping eagle"}],
+    "HIP 92420": [{"english": "The harp"}],
+    "HIP 92855": [{"english": "Second outgoing ostriches"}],
+    "HIP 92946": [{"english": "The fatty tail"}],
+    "HIP 93194": [{"english": "The tortoise"}],
+    "HIP 93506": [{"english": "The outgoing ostriches"}],
+    "HIP 94376": [{"english": "One of the andiron's"}],
+    "HIP 95241": [{"english": "The heel-tendon"}],
+    "HIP 95347": [{"english": "The archer knee"}],
+    "HIP 95947": [{"english": "The hen-bill"}],
+    "HIP 96757": [{"english": "The arrow"}],
+    "HIP 97278": [{"english": "One of the balance's"}],
+    "HIP 97649": [{"english": "The flying eagle"}],
+    "HIP 98036": [{"english": "One of the balance's"}],
+    "HIP 100027": [{"english": "First lucky star of the slaughterer"}],
+    "HIP 100345": [{"english": "Second lucky star of the slaughterer"}],
+    "HIP 100453": [{"english": "The breast - one of the cavalry's"}],
+    "HIP 101769": [{"english": "One of the sitting's"}],
+    "HIP 101958": [{"english": "Second one of the sitting's"}],
+    "HIP 102098": [{"english": "Tail of the hen"}],
+    "HIP 102488": [{"english": "The wing- one of the cavalry's"}],
+    "HIP 102618": [{"english": "One of swallower luck"}],
+    "HIP 104987": [{"english": "Part of the horse"}],
+    "HIP 105199": [{"english": "The right forearm"}],
+    "HIP 106032": [{"english": "Second of the Alfirk's"}],
+    "HIP 106278": [{"english": "One of the Luck of lucks"}],
+    "HIP 106985": [{"english": "One of the Nashira luck"}],
+    "HIP 107315": [{"english": "The horse nose"}],
+    "HIP 107556": [{"english": "Tail of the goat - Second Nashira luck"}],
+    "HIP 108917": [{"english": "The blaze on a horse's brow"}],
+    "HIP 109074": [{"english": "First lucky star of the king"}],
+    "HIP 109068": [{"english": "Second lucky star of the livestock"}],
+    "HIP 109427": [{"english": "First lucky star of the livestock"}],
+    "HIP 110003": [{"english": "The hip"}],
+    "HIP 110395": [{"english": "First lucky star of the tents"}],
+    "HIP 112029": [{"english": "First lucky star of the high-minded man"}],
+    "HIP 112158": [{"english": "First lucky star of the rain"}],
+    "HIP 112748": [{"english": "First lucky star of the excellent one"}],
+    "HIP 113136": [{"english": "The shin"}],
+    "HIP 113368": [{"english": "Mouth of the fish"}],
+    "HIP 113881": [{"english": "The great horse shoulder"}],
+    "HIP 113963": [{"english": "The great horse back"}],
+    "HIP 20648": [{"english": "Fourth one of Alkalaes"}],
+    "HIP 20455": [{"english": "Third one of Alkalaes"}],
+    "HIP 20205": [{"english": "Second one of Alkalaes"}],
+    "HIP 20894": [{"english": "One of Alkalaes"}],
+    "HIP 42556": [{"english": "The Scattered stars"}],
+    "HIP 86782": [{"english": "The quarter"}],
+    "HIP 89341": [{"english": "The wronged"}],
+    "HIP 89642": [{"english": "Incoming ostriches"}],
+    "HIP 92041": [{"english": "First outgoing ostriches"}],
+    "HIP 93864": [{"english": "Third outgoing ostriches"}],
+    "HIP 97165": [{"english": "Fourth one of the cavalry's"}],
+    "HIP 98032": [{"english": "First shrike"}],
+    "HIP 98412": [{"english": "Second shrike"}],
+    "HIP 102281": [{"english": "Fourth one of the sitting's"}],
+    "HIP 102532": [{"english": "Third one of the sitting's"}],
+    "HIP 104732": [{"english": "Second one of the cavalry's"}],
+    "HIP 109268": [{"english": "The shining"}],
+    "HIP 112051": [{"english": "Second lucky star of the rain"}],
+    "HIP 112440": [{"english": "Lucky star of the excellent one"}],
+    "HIP 112447": [{"english": "Second lucky star of the high-minded man"}],
+    "HIP 115250": [{"english": "Second one of the anguish"}],
+    "HIP 115623": [{"english": "First one of the anguish"}],
+    "HIP 83895": [{"english": "First wolf"}],
+    "HIP 80331": [{"english": "Second wolf"}],
+    "HIP 85805": [{"english": "First wolf paw"}],
+    "HIP 86201": [{"english": "Second wolf paw"}],
+    "HIP 89937": [{"english": "Second one of the andiron's"}],
+    "HIP 97433": [{"english": "Third one of the andiron's"}],
+    "HIP 85829": [{"english": "The forth incantation"}],
+    "HIP 10064": [{"english": "The second companionable"}],
+    "HIP 32362": [{"english": "Second one of the brand-mark"}],
+    "HIP 69974": [{"english": "The second Al-ghofer"}],
+    "HIP 69427": [{"english": "The third Al-ghofer"}],
+    "HIP 103045": [{"english": "Second One of swallower luck"}],
+    "HIP 104459": [{"english": "Third One of swallower luck"}],
+    "HIP 106786": [{"english": "Second one of the Luck of lucks"}],
+    "HIP 107382": [{"english": "Third one of the Luck of lucks"}],
+    "HIP 108874": [{"english": "Second lucky star of the king"}],
+    "HIP 110960": [{"english": "Second lucky star of the tents"}],
+    "HIP 111497": [{"english": "Third lucky star of the tents"}],
+    "HIP 110672": [{"english": "Fourth lucky star of the tents"}],
+    "HIP 82080": [{"english": "Third one of the bier daughters"}]
+  }
+}

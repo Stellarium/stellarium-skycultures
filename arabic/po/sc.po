@@ -1,0 +1,1154 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Last-Translator: Stellarium's developers\n"
+"Language-Team: Sardinian (https://www.transifex.com/stellarium/teams/80998/sc/)\n"
+"Language: sc\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Sky culture name
+msgid "Arabic"
+msgstr "Arabu"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"This Arabic sky culture, which is in use now for more than a thousand years,"
+" had been influenced greatly by Greek astronomy, particularly Ptolemy's "
+"astronomy."
+msgstr ""
+
+# Sky culture description section in markdown format
+msgid ""
+"![Book of Fixed Stars](Book_of_Fixed_Stars3.webp)\n"
+"The depiction of Orion, as seen from Earth (left) and a mirror-image, from a 13th-century copy of al-Sufi's _Book of Fixed Stars_ [#4]. In this version, Orion's shield has become a long sleeve, typical of Islamic dress.\n"
+"{: .img_and_caption }\n"
+"\n"
+"_Ptolemy_, the Greek astronomer who lived and worked around _100-178 CE_ in Alexandria, Egypt, collected ancient Greek descriptions of 1,022 stars in his famous book _The Great System of Astronomy_, popularised under its shortened Arabic title, the _Almagest_.\n"
+"Ptolemy's catalogue of stars arranged into _48 constellations_, with estimates of their brightness, based largely on the observations of the Greek earlier astronomers, such as _Hipparchus_.\n"
+"\n"
+"Ptolemy's book was translated twice into Arabic in the 9th century and became famous. Many of the Arabic-language star descriptions in the Almagest came to be used widely as names for stars.\n"
+"\n"
+"### Constellations\n"
+"\n"
+"This Arabic sky culture uses the classical _48 constellations_ of the Greeks.\n"
+"These constellations were described by several Arab and Islamic authors, one of those who left an indelible influence on the Arabic observation and study of stars is the astronomer _Abū al-Husayn ‘Abd Al-Rahmān al-Sūfī_ (903-986), known also by his Latinized name of _Azophi_, who systematically revised Ptolemy's catalogue of stars.\n"
+"_Al-Sūfī_ produced a revised and updated version of Ptolemy's _Almagest_ in a major book called _Kitab suwar al-kawakib_, _The Book of Fixed Stars_ [#4], completed around 964 CE.\n"
+"Built on the basis of the Greek astronomical heritage, the work of _Al-Sūfī_ contained a listing of the Arabs' own star names, magnitudes determined by _al-Sūfī_ himself, and two drawings of each constellation, one as it is seen in the sky and one reversed right to left as it would appear on a celestial globe.\n"
+"The oldest surviving copy was produced by his son around _1010 CE_ and is preserved in the Bodleian Library, Oxford (MS Marsh 144).\n"
+"\n"
+"![Book of Fixed Stars](al_sufi_altre_006_copia.webp)\n"
+"Cetus as seen in the sky in an old manuscript of Al-Sufi book [#3].\n"
+"{: .img_and_caption }\n"
+"\n"
+"### The origin of star names\n"
+"\n"
+"Regardless of origin, almost all star names belong to old traditions. They are a part of the collective cultural heritage of humanity.\n"
+"\n"
+"Official star names are essentially limited to the _old names_, and typically only bright stars have names. The majority of stars names are related to their constellation, e.g., the star _Deneb_ means \"tail\" and labels that part of _Cygnus_ the Swan.\n"
+"\n"
+"Others describe the star itself, such as _Sirius_, which translates literally as \"scorching\", apt enough for the brightest star in the sky. Quite a lot of prominent stars bear Arabic names, in which \"al\" corresponds to the article \"the\" and often appears in front, e.g., _Algol, \"The Ghoul\". Its inclusion has become somewhat arbitrary over time. Hence, several star names of Arabic origin are given elsewhere with or without the al- prefix. Most other names of stars inherited from the past have _Greek, Latin or Chinese_ labels.\n"
+"\n"
+"When the Arabic texts were translated into Latin beginning from the _12th century_, the Arabic tradition of star names was passed down to the Latin world. However, this happened often in a highly corrupted form that either changed the meaning, or in extreme cases gave birth to words with no meaning at all. Other names were mistakenly transferred from one star to another, so that a name might even refer to a different constellation (Greek or Arabic) rather than to the one of the star's actual residence.\n"
+"\n"
+"Nevertheless, even with these shortcomings, the majority of star names adopted since the Renaissance are Arabic in origin.\n"
+"\n"
+"Local tradition of the peoples of _Islamic lands_ in the Arabian Peninsula and in the Middle East had their own names for various bright stars such as _Aldebaran_, and they commonly regarded single stars as representing _animals or people_. For example, the stars we know as _Alpha_ and _Beta Ophiuchi_ were regarded by them as a _shepherd_ and _his dog_, while neighbouring stars made up the outlines of a _field with sheep_. Some of the Arabic names were already so many centuries old that their meanings were lost even to _al-Sūfī_ and his contemporaries, and they remain unknown today. Other star names used by _al-Sūfī_ and his compatriots were direct translations of Ptolemy's descriptions. For example, the star name _Fomalhaut_ comes from the Arabic meaning \"mouth of the southern fish\", which is where _Ptolemy_ had described it in the _Almagest_.\n"
+"\n"
+"### Thanks\n"
+"\n"
+" - [The Arab Astronomy Forum](http://www.jas.org.jo/forum/viewtopic.php)\n"
+" - [The Islamic Crescent's Observation Project \"ICOP\"](http://www.icoproject.org/star.html) for granting a permission to use there lists of \"Arabic\" Constellations and star names.\n"
+" - Arabic Stellarium Translation team"
+msgstr ""
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: Star Tales on [Ian Ridpath website](http://www.ianridpath.com/startales/startales1b.htm)\n"
+" - [#2]: Abd al-Rahman Al-Sufi [article on Wikipedia](http://en.wikipedia.org/wiki/Abd_al-Rahman_al-Sufi)\n"
+" - [#3]: Constellations Illustrations by Al-Sufi. Images of a manuscript of Al-Sufi book with sample artistic illustrations and star table samples. [Link](http://www.atlascoelestis.com/alsufi%20Suwar.htm)\n"
+" - [#4]: The Original \"Ulg Beack\" manuscript of the \"Kitab suwar al-kawakib\" (The Book of Fixed Stars). Paris Digital Library \"Gallica\". [Link](http://gallica.bnf.fr/ark:/12148/btv1b60006156.image.f7.pagination)\n"
+" - [#5]: List of Arabic Star Names [article on Wikipedia](http://en.wikipedia.org/wiki/List_of_Arabic_star_names).\n"
+" - [#6]: Richard Hinckley Allen. _Star Names — Their Lore and Meaning_. [Link](http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/home.html)\n"
+" - [#7]: Islamic science heritage. _Arabic Star Names: A Treasure of Knowledge Shared by the World._ [Link](http://www.muslimheritage.com/article/arabic-star-names-treasure-knowledge-shared-world)"
+msgstr ""
+
+# Sky culture authors section in markdown format
+msgid ""
+"The Arabic star names were compiled and added to Stellarium by Khalid Alajaji.\n"
+"Constellation lines, images & English translation by [Kutaibaa Akraa](email:kutaibaa@gmail.com)."
+msgstr ""
+
+# Sky culture licence section in markdown format
+msgid "GNU GPL v2.0"
+msgstr ""
+
+# Arabic constellation, pronounce: Al-Mara'ah Al-Musalsalah
+msgid "The Shackled Woman"
+msgstr "The Shackled Woman"
+
+# Arabic constellation, pronounce: Ad-Dalw
+msgid "The Well-bucket"
+msgstr "The Well-bucket"
+
+# Arabic constellation, pronounce: Al-'Okab
+msgid "The Eagle"
+msgstr "The Eagle"
+
+# Arabic constellation, pronounce: Al-Mijmarah
+msgid "The Censer"
+msgstr "The Censer"
+
+# Arabic constellation, pronounce: Al-Hamal
+msgid "The Ram"
+msgstr "The Ram"
+
+# Arabic constellation, pronounce: Momsek Al-A'aennah
+msgid "The Reins-holder"
+msgstr "The Reins-holder"
+
+# Arabic constellation, pronounce: Al-'Awwa'
+msgid "The Howler"
+msgstr "The Howler"
+
+# Arabic constellation, pronounce: As-Sarattan
+msgid "The Crab"
+msgstr "The Crab"
+
+# Arabic constellation, pronounce: Al-Kalb Al-A'kbar
+msgid "The Greater Dog"
+msgstr "The Greater Dog"
+
+# Arabic constellation, pronounce: Al-Kalb Al-A'sghar
+msgid "The Lesser Dog"
+msgstr "The Lesser Dog"
+
+# Arabic constellation, pronounce: Al-Jadi
+msgid "The Young Goat"
+msgstr "The Young Goat"
+
+# Arabic constellation, pronounce: That Al-Korsi
+msgid "Who (Lady) Has Chair"
+msgstr "Who (Lady) Has Chair"
+
+# Arabic constellation, pronounce: Qanttorus
+msgid "Centaur"
+msgstr "Centaur"
+
+# Arabic constellation, pronounce: Al-Multaheb
+msgid "Inflammatus"
+msgstr "Inflammatus"
+
+# Arabic constellation, pronounce: Al-Hulbah
+msgid "Bristle"
+msgstr "Bristle"
+
+# Arabic constellation, pronounce: Al-I'klil Al-Janobi
+msgid "The Southern Crown"
+msgstr "The Southern Crown"
+
+# Arabic constellation, pronounce: Al-I'klil Ash-Shamali
+msgid "The Northern Crown"
+msgstr "The Northern Crown"
+
+# Arabic constellation, pronounce: Al-Ghurab
+msgid "The Raven"
+msgstr "The Raven"
+
+# Arabic constellation, pronounce: Al-Battiyah
+msgid "The Great Cup"
+msgstr "The Great Cup"
+
+# Arabic constellation, pronounce: Ad-Dajajah
+msgid "The Hen"
+msgstr "The Hen"
+
+# Arabic constellation, pronounce: Ad-Dulfin
+msgid "The Dolphin"
+msgstr "The Dolphin"
+
+# Arabic constellation, pronounce: At-Tinneen
+msgid "The Dragon"
+msgstr "The Dragon"
+
+# Arabic constellation, pronounce: Qett'at Al-Faras
+msgid "Part of the Horse"
+msgstr "Part of the Horse"
+
+# Arabic constellation, pronounce: An-Nahr
+msgid "The River"
+msgstr "The River"
+
+# Arabic constellation, pronounce: At-Tawa'man
+msgid "The Twins"
+msgstr "The Twins"
+
+# Arabic constellation, pronounce: Al-Jathi
+msgid "The Kneeling (Man)"
+msgstr "The Kneeling (Man)"
+
+# Arabic constellation, pronounce: Ash-Shuja'a
+msgid "The Brave"
+msgstr "The Brave"
+
+# Arabic constellation, pronounce: Al-A'sad
+msgid "The Lion"
+msgstr "The Lion"
+
+# Arabic constellation, pronounce: Al-A'rnab
+msgid "The Hare"
+msgstr "The Hare"
+
+# Arabic constellation, pronounce: Al-Mizan
+msgid "The Balance"
+msgstr "The Balance"
+
+# Arabic constellation, pronounce: As-Sulhofat
+msgid "The Turtle"
+msgstr "The Turtle"
+
+# Arabic constellation, pronounce: Al-Hawwa'
+msgid "The Snake Charmer"
+msgstr "The Snake Charmer"
+
+# Arabic constellation, pronounce: Al-Jabbar
+msgid "The Giant"
+msgstr "The Giant"
+
+# Arabic constellation, pronounce: Al-Faras Al-A'adham
+msgid "The Great Horse"
+msgstr "The Great Horse"
+
+# Arabic constellation, pronounce: Hamil Ra's Al-Ghul
+msgid "Bearer of the Demon's Head"
+msgstr "Bearer of the Demon's Head"
+
+# Arabic constellation, pronounce: Al-Hut
+msgid "The Whale"
+msgstr "The Whale"
+
+# Arabic constellation, pronounce: Al-Hut Al-Janubi
+msgid "The Southern Whale"
+msgstr "The Southern Whale"
+
+# Arabic constellation, pronounce: As-Sahm
+msgid "The Arrow"
+msgstr "The Arrow"
+
+# Arabic constellation, pronounce: Ar-Rami
+msgid "The Archer"
+msgstr "The Archer"
+
+# Arabic constellation, pronounce: Al-'Aqrab
+msgid "The Scorpion"
+msgstr "The Scorpion"
+
+# Arabic constellation, pronounce: Ath-Thawr
+msgid "The Bull"
+msgstr "The Bull"
+
+# Arabic constellation, pronounce: Al-Muthallath
+msgid "The Triangle"
+msgstr "The Triangle"
+
+# Arabic constellation, pronounce: Ad-Dubb Al-A'kbar
+msgid "The Greater Bear"
+msgstr "The Greater Bear"
+
+# Arabic constellation, pronounce: Ad-Dubb Al-A'sghar
+msgid "The Lesser Bear"
+msgstr "The Lesser Bear"
+
+# Arabic constellation, pronounce: As-Safinah
+msgid "The Ship"
+msgstr "The Ship"
+
+# Arabic constellation, pronounce: Al-'Athra'
+msgid "The Maiden"
+msgstr "The Maiden"
+
+# Arabic constellation, pronounce: Al-Hayyah
+msgid "The Snake"
+msgstr "The Snake"
+
+# Arabic constellation, pronounce: As-Sab'a
+msgid "The Beast of Prey"
+msgstr "The Beast of Prey"
+
+# Name for HIP 677
+msgid "Horse navel"
+msgstr "Horse navel"
+
+# Name for HIP 746
+msgid "Tinted palm"
+msgstr "Tinted palm"
+
+# Name for HIP 1067
+msgid "Horse flank"
+msgstr "Horse flank"
+
+# Name for HIP 3179
+msgid "The breast"
+msgstr "The breast"
+
+# Name for HIP 3419
+msgid "The second frog"
+msgstr "The second frog"
+
+# Name for HIP 5447
+msgid "The rope"
+msgstr "The rope"
+
+# Name for HIP 6686
+msgid "The knee"
+msgstr "The knee"
+
+# Name for HIP 7588
+msgid "End of the river"
+msgstr "End of the river"
+
+# Name for HIP 8645
+msgid "Belly of Cetus"
+msgstr "Belly of Cetus"
+
+# Name for HIP 8796
+msgid "The triangle - The first companionable"
+msgstr "The triangle - The first companionable"
+
+# Name for HIP 8832
+msgid "The second sign"
+msgstr "The second sign"
+
+# Name for HIP 8903
+msgid "The first sign"
+msgstr "The first sign"
+
+# Name for HIP 9487
+msgid "The rope knot"
+msgstr "The rope knot"
+
+# Name for HIP 9640
+msgid "Earthkid"
+msgstr "Earthkid"
+
+# Name for HIP 9884
+msgid "A butter"
+msgstr "A butter"
+
+# Name for HIP 11767
+msgid "The goat"
+msgstr "The goat"
+
+# Name for HIP 13701
+msgid "The hatching-place"
+msgstr "The hatching-place"
+
+# Name for HIP 13847
+msgid "The aggrieved-end of the river"
+msgstr "The aggrieved-end of the river"
+
+# Name for HIP 14135
+msgid "The nostril"
+msgstr "The nostril"
+
+# Name for HIP 14576
+msgid "The ghoul"
+msgstr "The ghoul"
+
+# Name for HIP 14838
+msgid "The little belly"
+msgstr "The little belly"
+
+# Name for HIP 15863
+msgid "The elbow of the Pleiades"
+msgstr "The elbow of the Pleiades"
+
+# Name for HIP 17448
+msgid "Shoulder of the Pleiades"
+msgstr "Shoulder of the Pleiades"
+
+# Name for HIP 17702
+msgid "The Pleiades"
+msgstr "The Pleiades"
+
+# Name for HIP 19587
+msgid "One of the eggs"
+msgstr "One of the eggs"
+
+# Name for HIP 19849
+msgid "One of the eggs shells"
+msgstr "One of the eggs shells"
+
+# Name for HIP 20889
+msgid "Eye of the Bull"
+msgstr "Eye of the Bull"
+
+# Name for HIP 21421
+msgid "Follower of the Pleiades"
+msgstr "Follower of the Pleiades"
+
+# Name for HIP 23875
+msgid "Footstool of the giant"
+msgstr "Footstool of the giant"
+
+# Name for HIP 24436
+msgid "The giant foot"
+msgstr "The giant foot"
+
+# Name for HIP 24608
+msgid "The Pleiades watcher"
+msgstr "The Pleiades watcher"
+
+# Name for HIP 25336
+msgid "The molar"
+msgstr "The molar"
+
+# Name for HIP 25428
+msgid "Heel of the Reins holder"
+msgstr "Heel of the Reins holder"
+
+# Name for HIP 25606
+msgid "The camels quenching their thirst"
+msgstr "The camels quenching their thirst"
+
+# Name for HIP 25930
+msgid "The zone"
+msgstr "The zone"
+
+# Name for HIP 25985
+msgid "The hare"
+msgstr "The hare"
+
+# Name for HIP 26207
+msgid "White spot"
+msgstr "White spot"
+
+# Name for HIP 26311
+msgid "The string of pearls"
+msgstr "The string of pearls"
+
+# Name for HIP 26634
+msgid "The dove"
+msgstr "The dove"
+
+# Name for HIP 26727
+msgid "The belt"
+msgstr "The belt"
+
+# Name for HIP 27366
+msgid "The sword"
+msgstr "The sword"
+
+# Name for HIP 27628
+msgid "The weight"
+msgstr "The weight"
+
+# Name for HIP 27989
+msgid "Shoulder of the giant"
+msgstr "Shoulder of the giant"
+
+# Name for HIP 28360
+msgid "Shoulder of Reins holder"
+msgstr "Shoulder of Reins holder"
+
+# Name for HIP 29655
+msgid "Forward foot"
+msgstr "Forward foot"
+
+# Name for HIP 30122
+msgid "Individual stars"
+msgstr "Individual stars"
+
+# Name for HIP 30324
+msgid "The announcer of the southern Shining one"
+msgstr "The announcer of the southern Shining one"
+
+# Name for HIP 30438
+msgid "Suhayl"
+msgstr "Suhayl"
+
+# Name for HIP 31681
+msgid "First one of the brand-mark"
+msgstr "First one of the brand-mark"
+
+# Name for HIP 32246
+msgid "The outstretched paw"
+msgstr "The outstretched paw"
+
+# Name for HIP 32349
+msgid "The southern Shining one"
+msgstr "The southern Shining one"
+
+# Name for HIP 33579
+msgid "The maidens"
+msgstr "The maidens"
+
+# Name for HIP 34045
+msgid "The tow juror"
+msgstr "The tow juror"
+
+# Name for HIP 34088
+msgid "The pulled-in paw"
+msgstr "The pulled-in paw"
+
+# Name for HIP 35550
+msgid "Middle of the sky"
+msgstr "Middle of the sky"
+
+# Name for HIP 35904
+msgid "The maidenhood"
+msgstr "The maidenhood"
+
+# Name for HIP 36188
+msgid "The announcer of the northern Shining one"
+msgstr "The announcer of the northern Shining one"
+
+# Name for HIP 36850
+msgid "The twins forward head"
+msgstr "The twins forward head"
+
+# Name for HIP 37279
+msgid "The northern Shining one"
+msgstr "The northern Shining one"
+
+# Name for HIP 37826
+msgid "The twins posterior head"
+msgstr "The twins posterior head"
+
+# Name for HIP 39429
+msgid "Suhayl hadar"
+msgstr "Suhayl hadar"
+
+# Name for HIP 39953
+msgid "Sworn Suhayl"
+msgstr "Sworn Suhayl"
+
+# Name for HIP 41704
+msgid "One of the antelopes"
+msgstr "One of the antelopes"
+
+# Name for HIP 42806
+msgid "Northern donkey"
+msgstr "Northern donkey"
+
+# Name for HIP 42911
+msgid "Southern donkey"
+msgstr "Southern donkey"
+
+# Name for HIP 44066
+msgid "The claw"
+msgstr "The claw"
+
+# Name for HIP 44127
+msgid "The third leap"
+msgstr "The third leap"
+
+# Name for HIP 44816
+msgid "Suhayl the weight"
+msgstr "Suhayl the weight"
+
+# Name for HIP 46390
+msgid "The solitary one"
+msgstr "The solitary one"
+
+# Name for HIP 46750
+msgid "The glance of the lion"
+msgstr "The glance of the lion"
+
+# Name for HIP 48455
+msgid "Head of the lion"
+msgstr "Head of the lion"
+
+# Name for HIP 49669
+msgid "Heart of the lion"
+msgstr "Heart of the lion"
+
+# Name for HIP 50372
+msgid "The northern one of the second leap"
+msgstr "The northern one of the second leap"
+
+# Name for HIP 50583
+msgid "The forehead of the lion"
+msgstr "The forehead of the lion"
+
+# Name for HIP 50801
+msgid "The southern one of the second leap"
+msgstr "The southern one of the second leap"
+
+# Name for HIP 53740
+msgid "The cup"
+msgstr "The cup"
+
+# Name for HIP 53910
+msgid "The loins"
+msgstr "The loins"
+
+# Name for HIP 54061
+msgid "The bear"
+msgstr "The bear"
+
+# Name for HIP 54872
+msgid "One of Al-zubarah"
+msgstr "One of Al-zubarah"
+
+# Name for HIP 54879
+msgid "Second Al-zubarah"
+msgstr "Second Al-zubarah"
+
+# Name for HIP 55203
+msgid "The southern one of the first leap"
+msgstr "The southern one of the first leap"
+
+# Name for HIP 55219
+msgid "The northern one of the first leap"
+msgstr "The northern one of the first leap"
+
+# Name for HIP 57632
+msgid "Tail of the lion"
+msgstr "Tail of the lion"
+
+# Name for HIP 57757
+msgid "Corner of the barker"
+msgstr "Corner of the barker"
+
+# Name for HIP 58001
+msgid "The thigh"
+msgstr "The thigh"
+
+# Name for HIP 59199
+msgid "The tent"
+msgstr "The tent"
+
+# Name for HIP 59774
+msgid "The insertion-point of the Bear's tail"
+msgstr "The insertion-point of the Bear's tail"
+
+# Name for HIP 59803
+msgid "The wing"
+msgstr "The wing"
+
+# Name for HIP 60965
+msgid "The raven"
+msgstr "The raven"
+
+# Name for HIP 62956
+msgid "The inlet"
+msgstr "The inlet"
+
+# Name for HIP 63125
+msgid "The lion Liver"
+msgstr "The lion Liver"
+
+# Name for HIP 63608
+msgid "Vine-harvestress"
+msgstr "Vine-harvestress"
+
+# Name for HIP 65378
+msgid "Embrace"
+msgstr "Embrace"
+
+# Name for HIP 65474
+msgid "The Undefended one"
+msgstr "The Undefended one"
+
+# Name for HIP 65477
+msgid "Al-suha"
+msgstr "Al-suha"
+
+# Name for HIP 67301
+msgid "Leader-daughter of the bier"
+msgstr "Leader-daughter of the bier"
+
+# Name for HIP 67927
+msgid "Single one of the lance-bearer"
+msgstr "Single one of the lance-bearer"
+
+# Name for HIP 68933
+msgid "shoulder of the centaur"
+msgstr "shoulder of the centaur"
+
+# Name for HIP 69673
+msgid "The Spear Thrower"
+msgstr "The Spear Thrower"
+
+# Name for HIP 69701
+msgid "One of Al-ghofer's"
+msgstr "One of Al-ghofer's"
+
+# Name for HIP 71075
+msgid "The shepherd"
+msgstr "The shepherd"
+
+# Name for HIP 71683
+msgid "Centaur foot"
+msgstr "Centaur foot"
+
+# Name for HIP 72105
+msgid "The loin-cloth"
+msgstr "The loin-cloth"
+
+# Name for HIP 72607
+msgid "The brighter Pherkad"
+msgstr "The brighter Pherkad"
+
+# Name for HIP 72622
+msgid "The southern claw"
+msgstr "The southern claw"
+
+# Name for HIP 73555
+msgid "The cattleman"
+msgstr "The cattleman"
+
+# Name for HIP 74785
+msgid "The northern claw"
+msgstr "The northern claw"
+
+# Name for HIP 75097
+msgid "The dimmer Pherkad"
+msgstr "The dimmer Pherkad"
+
+# Name for HIP 75411
+msgid "Shepherd's crook"
+msgstr "Shepherd's crook"
+
+# Name for HIP 75458
+msgid "The hyena"
+msgstr "The hyena"
+
+# Name for HIP 75695
+msgid "The two series"
+msgstr "The two series"
+
+# Name for HIP 76267
+msgid "The broken ring of stars"
+msgstr "The broken ring of stars"
+
+# Name for HIP 77070
+msgid "Neck of the snake"
+msgstr "Neck of the snake"
+
+# Name for HIP 78401
+msgid "Scorpion forehead"
+msgstr "Scorpion forehead"
+
+# Name for HIP 78820
+msgid "The scorpion"
+msgstr "The scorpion"
+
+# Name for HIP 79593
+msgid "The preceding hand"
+msgstr "The preceding hand"
+
+# Name for HIP 79882
+msgid "The succeeding hand"
+msgstr "The succeeding hand"
+
+# Name for HIP 80112
+msgid "The arteries"
+msgstr "The arteries"
+
+# Name for HIP 80763
+msgid "The scorpion heart"
+msgstr "The scorpion heart"
+
+# Name for HIP 80883
+msgid "The elbow"
+msgstr "The elbow"
+
+# Name for HIP 83608
+msgid "The dancer"
+msgstr "The dancer"
+
+# Name for HIP 84012
+msgid "The preceding"
+msgstr "The preceding"
+
+# Name for HIP 84345
+msgid "Head of the kneeling one"
+msgstr "Head of the kneeling one"
+
+# Name for HIP 85670
+msgid "Head of the dragon"
+msgstr "Head of the dragon"
+
+# Name for HIP 85693
+msgid "The wrist of the kneeling one"
+msgstr "The wrist of the kneeling one"
+
+# Name for HIP 85696
+msgid "The sting"
+msgstr "The sting"
+
+# Name for HIP 85822
+msgid "Second one of the bier daughters"
+msgstr "Second one of the bier daughters"
+
+# Name for HIP 85927
+msgid "The raised tail"
+msgstr "The raised tail"
+
+# Name for HIP 86032
+msgid "Head of the snake-charmer"
+msgstr "Head of the snake-charmer"
+
+# Name for HIP 86742
+msgid "Dog of the shepherd"
+msgstr "Dog of the shepherd"
+
+# Name for HIP 87585
+msgid "The third incantation"
+msgstr "The third incantation"
+
+# Name for HIP 87833
+msgid "The first incantation"
+msgstr "The first incantation"
+
+# Name for HIP 88635
+msgid "Arrowhead"
+msgstr "Arrowhead"
+
+# Name for HIP 89931
+msgid "The middle one of the bow"
+msgstr "The middle one of the bow"
+
+# Name for HIP 90185
+msgid "The southern one of the bow"
+msgstr "The southern one of the bow"
+
+# Name for HIP 90496
+msgid "The northern one of the bow"
+msgstr "The northern one of the bow"
+
+# Name for HIP 91262
+msgid "The swooping eagle"
+msgstr "The swooping eagle"
+
+# Name for HIP 92420
+msgid "The harp"
+msgstr "The harp"
+
+# Name for HIP 92855
+msgid "Second outgoing ostriches"
+msgstr "Second outgoing ostriches"
+
+# Name for HIP 92946
+msgid "The fatty tail"
+msgstr "The fatty tail"
+
+# Name for HIP 93194
+msgid "The tortoise"
+msgstr "The tortoise"
+
+# Name for HIP 93506
+msgid "The outgoing ostriches"
+msgstr "The outgoing ostriches"
+
+# Name for HIP 94376
+msgid "One of the andiron's"
+msgstr "One of the andiron's"
+
+# Name for HIP 95241
+msgid "The heel-tendon"
+msgstr "The heel-tendon"
+
+# Name for HIP 95347
+msgid "The archer knee"
+msgstr "The archer knee"
+
+# Name for HIP 95947
+msgid "The hen-bill"
+msgstr "The hen-bill"
+
+# Name for HIP 96757
+msgid "The arrow"
+msgstr "The arrow"
+
+# Name for HIP 97278
+msgid "One of the balance's"
+msgstr "One of the balance's"
+
+# Name for HIP 97649
+msgid "The flying eagle"
+msgstr "The flying eagle"
+
+# Name for HIP 100027
+msgid "First lucky star of the slaughterer"
+msgstr "First lucky star of the slaughterer"
+
+# Name for HIP 100345
+msgid "Second lucky star of the slaughterer"
+msgstr "Second lucky star of the slaughterer"
+
+# Name for HIP 100453
+msgid "The breast - one of the cavalry's"
+msgstr "The breast - one of the cavalry's"
+
+# Name for HIP 101769
+msgid "One of the sitting's"
+msgstr "One of the sitting's"
+
+# Name for HIP 101958
+msgid "Second one of the sitting's"
+msgstr "Second one of the sitting's"
+
+# Name for HIP 102098
+msgid "Tail of the hen"
+msgstr "Tail of the hen"
+
+# Name for HIP 102488
+msgid "The wing- one of the cavalry's"
+msgstr "The wing- one of the cavalry's"
+
+# Name for HIP 102618
+msgid "One of swallower luck"
+msgstr "One of swallower luck"
+
+# Name for HIP 104987
+msgid "Part of the horse"
+msgstr "Part of the horse"
+
+# Name for HIP 105199
+msgid "The right forearm"
+msgstr "The right forearm"
+
+# Name for HIP 106032
+msgid "Second of the Alfirk's"
+msgstr "Second of the Alfirk's"
+
+# Name for HIP 106278
+msgid "One of the Luck of lucks"
+msgstr "One of the Luck of lucks"
+
+# Name for HIP 106985
+msgid "One of the Nashira luck"
+msgstr "One of the Nashira luck"
+
+# Name for HIP 107315
+msgid "The horse nose"
+msgstr "The horse nose"
+
+# Name for HIP 107556
+msgid "Tail of the goat - Second Nashira luck"
+msgstr "Tail of the goat - Second Nashira luck"
+
+# Name for HIP 108917
+msgid "The blaze on a horse's brow"
+msgstr "The blaze on a horse's brow"
+
+# Name for HIP 109074
+msgid "First lucky star of the king"
+msgstr "First lucky star of the king"
+
+# Name for HIP 109068
+msgid "Second lucky star of the livestock"
+msgstr "Second lucky star of the livestock"
+
+# Name for HIP 109427
+msgid "First lucky star of the livestock"
+msgstr "First lucky star of the livestock"
+
+# Name for HIP 110003
+msgid "The hip"
+msgstr "The hip"
+
+# Name for HIP 110395
+msgid "First lucky star of the tents"
+msgstr "First lucky star of the tents"
+
+# Name for HIP 112029
+msgid "First lucky star of the high-minded man"
+msgstr "First lucky star of the high-minded man"
+
+# Name for HIP 112158
+msgid "First lucky star of the rain"
+msgstr "First lucky star of the rain"
+
+# Name for HIP 112748
+msgid "First lucky star of the excellent one"
+msgstr "First lucky star of the excellent one"
+
+# Name for HIP 113136
+msgid "The shin"
+msgstr "The shin"
+
+# Name for HIP 113368
+msgid "Mouth of the fish"
+msgstr "Mouth of the fish"
+
+# Name for HIP 113881
+msgid "The great horse shoulder"
+msgstr "The great horse shoulder"
+
+# Name for HIP 113963
+msgid "The great horse back"
+msgstr "The great horse back"
+
+# Name for HIP 20648
+msgid "Fourth one of Alkalaes"
+msgstr "Fourth one of Alkalaes"
+
+# Name for HIP 20455
+msgid "Third one of Alkalaes"
+msgstr "Third one of Alkalaes"
+
+# Name for HIP 20205
+msgid "Second one of Alkalaes"
+msgstr "Second one of Alkalaes"
+
+# Name for HIP 20894
+msgid "One of Alkalaes"
+msgstr "One of Alkalaes"
+
+# Name for HIP 42556
+msgid "The Scattered stars"
+msgstr "The Scattered stars"
+
+# Name for HIP 86782
+msgid "The quarter"
+msgstr "The quarter"
+
+# Name for HIP 89341
+msgid "The wronged"
+msgstr "The wronged"
+
+# Name for HIP 89642
+msgid "Incoming ostriches"
+msgstr "Incoming ostriches"
+
+# Name for HIP 92041
+msgid "First outgoing ostriches"
+msgstr "First outgoing ostriches"
+
+# Name for HIP 93864
+msgid "Third outgoing ostriches"
+msgstr "Third outgoing ostriches"
+
+# Name for HIP 97165
+msgid "Fourth one of the cavalry's"
+msgstr "Fourth one of the cavalry's"
+
+# Name for HIP 98032
+msgid "First shrike"
+msgstr "First shrike"
+
+# Name for HIP 98412
+msgid "Second shrike"
+msgstr "Second shrike"
+
+# Name for HIP 102281
+msgid "Fourth one of the sitting's"
+msgstr "Fourth one of the sitting's"
+
+# Name for HIP 102532
+msgid "Third one of the sitting's"
+msgstr "Third one of the sitting's"
+
+# Name for HIP 104732
+msgid "Second one of the cavalry's"
+msgstr "Second one of the cavalry's"
+
+# Name for HIP 109268
+msgid "The shining"
+msgstr "The shining"
+
+# Name for HIP 112051
+msgid "Second lucky star of the rain"
+msgstr "Second lucky star of the rain"
+
+# Name for HIP 112440
+msgid "Lucky star of the excellent one"
+msgstr "Lucky star of the excellent one"
+
+# Name for HIP 112447
+msgid "Second lucky star of the high-minded man"
+msgstr "Second lucky star of the high-minded man"
+
+# Name for HIP 115250
+msgid "Second one of the anguish"
+msgstr "Second one of the anguish"
+
+# Name for HIP 115623
+msgid "First one of the anguish"
+msgstr "First one of the anguish"
+
+# Name for HIP 83895
+msgid "First wolf"
+msgstr "First wolf"
+
+# Name for HIP 80331
+msgid "Second wolf"
+msgstr "Second wolf"
+
+# Name for HIP 85805
+msgid "First wolf paw"
+msgstr "First wolf paw"
+
+# Name for HIP 86201
+msgid "Second wolf paw"
+msgstr "Second wolf paw"
+
+# Name for HIP 89937
+msgid "Second one of the andiron's"
+msgstr "Second one of the andiron's"
+
+# Name for HIP 97433
+msgid "Third one of the andiron's"
+msgstr "Third one of the andiron's"
+
+# Name for HIP 85829
+msgid "The forth incantation"
+msgstr "The forth incantation"
+
+# Name for HIP 10064
+msgid "The second companionable"
+msgstr "The second companionable"
+
+# Name for HIP 32362
+msgid "Second one of the brand-mark"
+msgstr "Second one of the brand-mark"
+
+# Name for HIP 69974
+msgid "The second Al-ghofer"
+msgstr "The second Al-ghofer"
+
+# Name for HIP 69427
+msgid "The third Al-ghofer"
+msgstr "The third Al-ghofer"
+
+# Name for HIP 103045
+msgid "Second One of swallower luck"
+msgstr "Second One of swallower luck"
+
+# Name for HIP 104459
+msgid "Third One of swallower luck"
+msgstr "Third One of swallower luck"
+
+# Name for HIP 106786
+msgid "Second one of the Luck of lucks"
+msgstr "Second one of the Luck of lucks"
+
+# Name for HIP 107382
+msgid "Third one of the Luck of lucks"
+msgstr "Third one of the Luck of lucks"
+
+# Name for HIP 108874
+msgid "Second lucky star of the king"
+msgstr "Second lucky star of the king"
+
+# Name for HIP 110960
+msgid "Second lucky star of the tents"
+msgstr "Second lucky star of the tents"
+
+# Name for HIP 111497
+msgid "Third lucky star of the tents"
+msgstr "Third lucky star of the tents"
+
+# Name for HIP 110672
+msgid "Fourth lucky star of the tents"
+msgstr "Fourth lucky star of the tents"
+
+# Name for HIP 82080
+msgid "Third one of the bier daughters"
+msgstr "Third one of the bier daughters"
