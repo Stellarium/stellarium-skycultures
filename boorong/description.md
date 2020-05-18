@@ -10,136 +10,37 @@ One hundred and forty years ago, a Boorong family at Lake Tyrrell (North-Western
 
 ### Constellations and other celestial objects
 
-<table class="nomenclature">
-<tr>
-<td><b>Name</b></td>
-<td><b>Explanation</b></td>
-<td><b>Celestial Clue</b></td>
-</tr>
-<tr>
-<td>Boorong</td>
-<td>Night; small mallee; starry firmament</td>
-<td>Starry firmament at night</td>
-</tr>
-<tr>
-<td>Bittur</td>
-<td>Larvae of the woodant</td>
-<td>—</td>
-</tr>
-<tr>
-<td>Millee</td>
-<td>Murray River</td>
-<td>Part of the Milky Way</td>
-</tr>
-<tr>
-<td>Mindi</td>
-<td>The maned snake</td>
-<td>Part of the Milky Way</td>
-</tr>
-<tr>
-<td>Neilloan</td>
-<td>Mallee fowl</td>
-<td>Lyra</td>
-</tr>
-<tr>
-<td>Nurrumbunguttias</td>
-<td>Old man, black faced mallee kangaroo</td>
-<td>White aura of the Milky Way</td>
-</tr>
-<tr>
-<td>Otchocut</td>
-<td>Great fish</td>
-<td>Delphinus</td>
-</tr>
-<tr>
-<td>Porkelong toute</td>
-<td>Loss of tooth</td>
-<td>Shooting star</td>
-</tr>
-<tr>
-<td>Pupperimbul</td>
-<td>Diamond firetail finch or shy hylacola</td>
-<td>Carried the emu egg to become the Sun</td>
-</tr>
-<tr>
-<td>Purra</td>
-<td>Red kangaroo</td>
-<td>Capella</td>
-</tr>
-<tr>
-<td>Tchingal</td>
-<td>The tall one; emu</td>
-<td>Dark space near Cross</td>
-</tr>
-<tr>
-<td>Totyarguil</td>
-<td>Purple crowned lorikeet</td>
-<td>Altair</td>
-</tr>
-<tr>
-<td>Tourchingboiongerra</td>
-<td>Needlewood hakea and willie wagtails</td>
-<td>Coma Berenices</td>
-</tr>
-<tr>
-<td>Tourte</td>
-<td>Star</td>
-<td>Any star</td>
-</tr>
-<tr>
-<td>Tyrille</td>
-<td>Space; night sky</td>
-<td>Space; night sky</td>
-</tr>
-<tr>
-<td>Unurgunite</td>
-<td>Jacky lizard</td>
-<td>Sigma Canis Majoris</td>
-</tr>
-<tr>
-<td>Wanjel</td>
-<td>Long-necked tortoise</td>
-<td>Pollux</td>
-</tr>
-<tr>
-<td>War</td>
-<td>Crow</td>
-<td>Canopus</td>
-</tr>
-<tr>
-<td>Warepil</td>
-<td>Wedge tailed eagle</td>
-<td>Sirius</td>
-</tr>
-<tr>
-<td>Warring</td>
-<td>Galaxy</td>
-<td>Milky Way</td>
-</tr>
-<tr>
-<td>Weetkurrk</td>
-<td>Singing bushlark</td>
-<td>Star in Bootes west of Arcturus</td>
-</tr>
-<tr>
-<td>Won</td>
-<td>Boomerang</td>
-<td>Corona Australis</td>
-</tr>
-<tr>
-<td>Yerredetkurrk</td>
-<td>Owlet nightjar</td>
-<td>Achernar</td>
-</tr>
-<tr>
-<td>Yurree</td>
-<td>Fan-tailed cockatoo</td>
-<td>Castor</td>
-</tr>
-</table>
+| Name 			| Explanation 		| Celestial Clue 									|
+|---------------|-------------------|-----------------|
+|Boorong 		| Night; small mallee; starry firmament  	| Starry firmament at night |
+|Bittur 		| Larvae of the woodant 					| -- 						|
+|Millee 		| Murray River 		| Part of the Milky Way 							|
+|Mindi 			|The maned snake	|Part of the Milky Way 								|
+|Neilloan 		| Mallee fowl 		| Lyra 												|
+|Nurrumbunguttias | Old man, black faced mallee kangaroo 	|White aura of the Milky Way|
+|Otchocut 		| Great fish 		| Delphinus 										|
+|Porkelong toute | Loss of tooth 	| Shooting star 									|
+|Pupperimbul 	|Diamond firetail finch or shy hylacola | Carried the emu egg to become the Sun|
+|Purra 			|Red kangaroo		| Capella 											|
+|Tchingal		|The tall one; emu 	| Dark space near Cross								|
+|Totyarguil		|Purple crowned lorikeet 					| Altair 					|
+|Tourchingboiongerra | Needlewood hakea and willie wagtails | Coma Berenices 			|
+|Tourte 		| Star 				| Any star 											|
+|Tyrille		|Space; night sky 	| Space; night sky 									|
+|Unurgunite		| Jacky lizard    	| Sigma Canis Majoris |
+|Wanjel 		| Long-necked tortoise | Pollux |
+|War 			| Crow 				| Canopus |
+|Warepil 		| Wedge tailed eagle |Sirius |
+|Warring 		| Galaxy 			| Milky Way |
+|Weetkurrk 		|Singing bushlark 	| Star in Bootes west of Arcturus |
+|Won 			| Boomerang 		| Corona Australis |
+|Yerredetkurrk 	| Owlet nightjar 	| Achernar											|
+|Yurree 		| Fan-tailed cockatoo | Castor |
 
 ## References
+Morison, John: The Night Sky of the Boorong, Partial Reconstruction of a Disappeared Culture in North-West Victoria, Master Thesis (MA of Arts), University of Melbourne, 1966
 
+[Aboriginal Astronomy](http://www.aboriginalastronomy.com.au/)
 
 ## Authors
 

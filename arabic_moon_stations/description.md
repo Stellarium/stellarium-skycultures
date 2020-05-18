@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Arabic Moon stations sky culture describes the 28 sky areas chosen in ancient Arabia to define the daily location of the moon during its lunar month trip around the sky.
+The Arabic lunar stations sky culture describes the 28 sky areas chosen in ancient Arabia to define the daily location of the moon during its lunar month trip around the sky.
 
 ## Description
 
