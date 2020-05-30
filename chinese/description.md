@@ -53,7 +53,7 @@ Each enclosure has two walls, called the left wall and the right wall which are 
 
 The Purple Forbidden Palace represents the inner palace of the emperor because the whole celestial sphere with all other xingguans is turning around this polar region. Thus, in the ancient Chinese belief, the Purple Forbidden Palace lies in the middle of the sky and covers the modern constellations Ursa Minor, Draco, Camelopardalis, Cepheus, Cassiopeia, Auriga, Boötes, and parts of Ursa Major, Canes Venatici, Leo Minor, Hercules. It contains 37 traditional xingguans.
 
-*   [Purple Forbidden enclosure (Wikipedia)](https://en.wikipedia.org/wiki/Purple_Forbidden_enclosure)
+*   [Purple Forbidden Enclosure (Wikipedia)](https://en.wikipedia.org/wiki/Purple_Forbidden_enclosure)
 
 The enclosure of the Supreme Palace is the place where the emperor and the courtiers deal with their politics. The Supreme Palace includes a variety of officials and government agencies, a total of 20 traditional Xingguans. It covers the modern constellations Virgo, Coma Berenices and Leo, and parts of Canes Venatici, Ursa Major and Leo Minor.
 
