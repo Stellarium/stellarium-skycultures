@@ -2,29 +2,27 @@
 
 ## Introduction
 
-Chinese astronomy was developed independently and Chinese had its own system to connect the stars. Chinese Traditional Sky Culture has far-reaching implications in East Asia. In ancient China, constellations and planets were associated with astrology.
+Chinese astronomy was developed independently; the Chinese had its own system to connect the stars. The traditional Chinese sky culture has far-reaching implications in East Asia. In ancient China, constellations and planets were associated with astrology but different from the Babylonian concepts.
 
 ## Description
 
-Stellarium currently provides roughly 300 Chinese Xingguans (Chinese: 星官; pinyin: xīngguān, Meaning:Star officials) sets, and is without any Chinese star names. A project conducted by community member G.S.K.Lee is now underway to construct a complete Chinese sky culture set for Stellarium based on the information inside _Complete Studies of Astronomical Instruments_ (Chinese: 仪象考成; pinyin: Yíxiàngkǎochéng), an imperial record of astronomy finished in 1756. It was revised in 1844, published _The Continuation of Complete Studies of Astronomical Instruments_ (Chinese: 仪象考成续编; pinyin: Yíxiàngkǎochéng xùbiān), which is the major reference to the traditional Chinese Xingguans and star names used today.
+Stellarium currently provides roughly 300 Chinese asterisms, called Xingguan (Chinese: 星官; pinyin: xīngguān, meaning: Star officials), and is without any Chinese star names. A project conducted by community member G.S.K.Lee is now underway to construct a complete Chinese sky culture set for Stellarium based on the information inside _Complete Studies of Astronomical Instruments_ (Chinese: 仪象考成; pinyin: Yíxiàngkǎochéng), an imperial record of astronomy finished in 1756. It was revised in 1844, published _The Continuation of Complete Studies of Astronomical Instruments_ (Chinese: 仪象考成续编; pinyin: Yíxiàngkǎochéng xùbiān), which is the major reference to the traditional Chinese Xingguans and star names used today.
 
 ### Sun, Moon and Planets
 
 The Western countries named the planets in mythical characters. The ancient Chinese understanding of five planets is based on five-element concepts. The wood is green, the fire is red, the earth is yellow, the metal is white, the water is black. So, Mercury is named Water Star, Venus is named Metal Star, Mars is named Fire Star, Jupiter is named Wood Star, Saturn is named Earth Star.
 
-In Chinese, the sun and the moon are named after Yin and Yang (which contain "great (Chinese:太, pinyin:tài)"), respectively Taiyang (Sun, Chinese:太阳) and Taiyin (Moon，Chinese:太阴, pinyin:tàiyīn). Their other name belongs to pictographic characters Ri (Sun, Chinese:日) And Yue (Moon, Chinese:月). But the more commonly used name for the moon is Yueliang (Chinese:月亮, pinyin: yuèliàng).
+In Chinese, the Sun and the Moon are named after Yin and Yang (which contain "great (Chinese:太, pinyin:tài)"), respectively Taiyang (Sun, Chinese:太阳) and Taiyin (Moon. Chinese: 太阴, pinyin: tàiyīn). Their other name belongs to pictographic characters Ri (Sun, Chinese:日) And Yue (Moon, Chinese:月). But the more commonly used name for the moon is Yueliang (Chinese:月亮, pinyin: yuèliàng).
 
-The sun, the moon and the five planets form Seven Luminaries (Chinese:七曜,pinyin:qīyào), which correspond to the Five Elements and Yin and Yang.
+The Sun, the Moon and the five planets form Seven Luminaries (Chinese:七曜,pinyin:qīyào), which correspond to the Five Elements and Yin and Yang.
 
 ### Xingguans
 
-Traditional Chinese astronomy has a system of dividing the celestial sphere into asterisms or constellations, known as "Xingguan" . 
+Traditional Chinese astronomy has a system of grouping stars to asterisms or constellations, known as "Xingguan". Their names and layout are very social, concerning the kingdom, the mountains, the goods, the industry in order to project everything of the world of humans into the sky.
 
-The name and layout of the Xingguans are very social, the kingdom, the mountains, the goods, the industry all move to the sky, according to the Earth's way in the sky to copy a world.
+Most Xingguans are smaller than the constellations of Hellenistic tradition. In the Song dynasty (13th century), the Suzhou astronomical map was engraved in marble. It shows a total of 283 Xingguans, comprising a total of 1,565 individual stars. The Xingguan are divided into 31 regions, i.e. the 28 lunar mansions along the ecliptic, and the 3 enclosures of the northern sky. Due to precession, six Xingguans near the southern horizon became difficult to see and were not included.
 
-The Xingguans are generally smaller than the constellations of Hellenistic tradition. The Song dynasty (13th-century), Suzhou Stone Carving Astronomical Map shows a total of 283 Xingguans, comprising a total of 1,565 individual stars. The Xingguan are divided into 31 regions, the Twenty-Eight Mansions along the ecliptic, and the Three Enclosures of the northern sky. Due to the precession, six Xingguans near the southern horizon became difficult to see and were lost.
-
-Before the Ming Dynasty, Xingguans did not include the sky around the south celestial pole. The Southern Asterisms was added as a fifth group in the late Ming Dynasty based on European star charts, comprising an additional 23 Xingguans.
+Before the Ming dynasty, Xingguans did not include the sky around the celestial south pole. The Southern Asterisms were added as a fifth group in the late Ming dynasty based on European star charts, comprising an additional 23 Xingguans.
 
 _Complete Studies of Astronomical Instruments_ has 300 Xingguans in total.
 
@@ -32,418 +30,77 @@ Modern constellations refer to specific areas of the celestial sphere. Xingguans
 
 ### Star names
 
-A Xingguan contain more than dozens of stars, and fewer are only one. For Xingguan of two or more stars, each star has a number. The naming of stars in ancient China is the name of the Xingguan plus a number. But there are also a few Xingguans in which each star has a special name.
+A Xingguan can contain from one to several dozens of stars. The so called single star asterisms among the Xingguans can be treated like star names. In Xingguan of two or more stars, each star has a number; the naming of stars in ancient China is the name of the Xingguan plus a number. However, there can be more than one way of numbering the stars within one asterism, thus, there can be more than one "name" for a certain star.
 
-In the Chinese catalogue, some of the stars are "principle" (Chinese:正星, pinyin:zhèngxīng). These stars were first discovered and well-known. On the contrary, some of the stars are "added" (Chinese:增星, pinyin:zēngxīng). They were recorded and named in later catalogues.
+Very few stars of the Xingguans have proper name additional to their number, e.g. alpha Leonis has the Chinese name "the Queen's Star" and is also referred to as "Xuanyuan 14" or (rarely) "Xuanyuan 1". The counting depends on the purpose (normal astronomy or observation of the Moon's path). 
 
-_The Continuation of Complete Studies of Astronomical Instruments_ has 3240 Stars names in total. Yi Shitong has conducted textual research and summary of these records in his book _Chinese and Western Contrast Star Chart and Catalogue 1950.0_ (Chinese:中西对照恒星图表 1950.0; pinyin: Zhōngxī Duìzhào Héngxīng Túbiǎo ).
+In the traditional Chinese catalogues before 1650, coordinates were only given for one star per constellation, the so called main star or principle star [#1]. This is the star with the number "1" in the constellation where counting is started. It is usually the star with the westernmost right ascension. 
+
+The Suzhou map  [#3] is based on coordinates and asterisms defined in antiquity which became canonical [#1],[#2] but later further stars were "added stars" (Chinese: 增星, pinyin:zēng xīng). The stars of the original catalogue are called "proper stars" (Chinese: 正星, pinyin: zhèng xīng). 
+
+_The Continuation of Complete Studies of Astronomical Instruments_ has 3240 Stars names in total. Yi Shitong has conducted textual research and summary of these records in his book _Chinese and Western Contrast Star Chart and Catalogue 1950.0_ (Chinese: 中西对照恒星图表 1950.0; pinyin: Zhōngxī Duìzhào Héngxīng Túbiǎo).
 
 Unlike Xingguans, traditional Chinese star names are still in common usage today, even more common than Bayer/Flamsteed designations.
 
 ![](suzhouskxt.webp)  
-_Suzhou Stone Carving Astronomical Map (1247)_
+_The astronomical map of Suzhou, engraved in black marble (1247)_
 
 ### Three Enclosures
 
-Three Enclosures is three regions in the area around the ecliptic. Three Enclosures is Purple Forbidden Enclosure (Chinese:紫微垣,pinyin:Zǐwēiyuán),Supreme Palace Enclosure (Chinese:太微垣,pinyin:Tàiwēiyuán),Heavenly Market Enclosure (Chinese:天市垣,pinyin:Tiānshìyuán).
+The 3 enclosures are regions which are summarizing many smaller asterisms. The enclosure of the Purple Forbidden Palace (Chinese: 紫微垣, pinyin: Zǐwēi yuán) surrounds almost the whole circumpolar area while the enclosures of the Supreme Palace (Chinese: 太微垣, pinyin: Tàiwēi yuán) and the Heavenly Market Place (Chinese: 天市垣, pinyin: Tiānshì yuán) are located close to the ecliptic.
 
-Each Enclosure has two walls, called the left wall and the right wall which are the main Xingguans.The walls are surrounded by many Xingguans. There are also Xingguans in the vicinity of the wall that belong to this Enclosure.
+Each enclosure has two walls, called the left wall and the right wall which are the main xingguans. There are Xingguans at these "wall" asterisms (such as guards of the palace) as well as within the area that they are surrounding, e.g. within the Forbidden Palace xingguan, there are the xingguans of the Emperor, the Crown Prince and other. 
 
-Purple Forbidden enclosure is the inner palace of the emperor, it covers the northernmost area of the night sky.From the viewpoint of the ancient Chinese, the Purple Forbidden Enclosure lies in the middle of the sky and is circled by all the other stars. It covers the modern constellations Ursa Minor, Draco, Camelopardalis, Cepheus, Cassiopeia, Auriga, Boötes, and parts of Ursa Major, Canes Venatici, Leo Minor, Hercules. Purple Forbidden enclosure has 37 Xingguans.
+The Purple Forbidden Palace represents the inner palace of the emperor because the whole celestial sphere with all other xingguans is turning around this polar region. Thus, in the ancient Chinese belief, the Purple Forbidden Palace lies in the middle of the sky and covers the modern constellations Ursa Minor, Draco, Camelopardalis, Cepheus, Cassiopeia, Auriga, Boötes, and parts of Ursa Major, Canes Venatici, Leo Minor, Hercules. It contains 37 traditional xingguans.
 
 *   [Purple Forbidden enclosure (Wikipedia)](https://en.wikipedia.org/wiki/Purple_Forbidden_enclosure)
 
-Supreme Palace Enclosure is the place where the emperor and the courtiers deal with their politics. Supreme Palace Enclosure has a variety of officials and government agencies.It covers the modern constellations Virgo, Coma Berenices and Leo, and parts of Canes Venatici, Ursa Major and Leo Minor. Supreme Palace Enclosure has 20 Xingguans.
+The enclosure of the Supreme Palace is the place where the emperor and the courtiers deal with their politics. The Supreme Palace includes a variety of officials and government agencies, a total of 20 traditional Xingguans. It covers the modern constellations Virgo, Coma Berenices and Leo, and parts of Canes Venatici, Ursa Major and Leo Minor.
 
 *   [Supreme Palace Enclosure (Wikipedia)](https://en.wikipedia.org/wiki/Supreme_Palace_enclosure)
 
-Heavenly Market Enclosure is a bazaar in the sky, a place where ordinary people live.The Heavenly Market Enclosure covers the modern constellations Serpens, Ophiuchus, Aquila and Corona Borealis, and parts of Hercules. Heavenly Market Enclosure has 19 Xingguans. They were named after the participants of the bazaar and the facilities of the bazaar.
+Heavenly Market Enclosure is a bazaar in the sky, a place where ordinary people meet and are represented with their bazaar facilities in 19 xingguans. The Heavenly Market Place covers the modern constellations Serpens, Ophiuchus, Aquila and Corona Borealis, and parts of Hercules. 
 
 *   [Heavenly Market Enclosure (Wikipedia)](https://en.wikipedia.org/wiki/Heavenly_Market_enclosure)
 
 ### Twenty-Eight Mansions
 
-The Twenty-Eight Mansions(28 Lunar Mansions) is the ancient China divides the ecliptic and the sky area near the equator to divide into 28 regions according to the right ascension. Each region is called a Mansion (Chinese:宿,pinyin:xiù)，the Ancients let the Moon change a Mansion every day to rest.
+The 28 Lunar Mansions (Chinese: 宿, pinyin: xiù) are slices of right ascensions that are bases in the path of the Moon ±5° around the ecliptic. The lunar mansion asterisms are not of equal size, they are 28 constellations north and south of the ecliptic but the regions of the Xiú (mansions) extend from there towards the equatorial pole where the right ascension lines intersect. The inital intention was to define the mansions in a way that the Moon changes the mansion every day but due to variability of the orbit and speed of the Moon, this concept does not apply any more. The smallest slice is only 1° right ascension. 
 
-Each mansion has a Xingguan of the same name near the ecliptic, which is the main Xingguan.Where the constellation in this area belongs to the Mansion.
+Traditional Chinese coordinates are given in "degrees right ascension" within a lunar mansion. The star where the measurement starts for this lunar mansion is called the determinative star (Chinese: 距星, pinyin: jùxīng) of the mansions. The equatorial degrees of the lodge (Chinese: 宿度, pinyin: xiùdù) are all right ascensions between the determinative star of a mansion the determinative star of the next one. However, the traditional Chinese right ascension "degrees" are smaller than in the sexagesimal system we are used to because the traditional Chinese "degrees" reflect the motion of the mean Sun as one degree per day. Thus, a Chinese "degree" is not 1/360 of the full circle but 1/365.25 of the circle. 
 
-The star used to measure the Right ascension standard is called the Determinative Star (Chinese:距星,pinyin:jùxīng) of the Mansions. The difference between the Determinative Star of the Mansion and the Determinative Star of the next Mansion on the Right ascension is the equatorial lodge degrees (Chinese:宿度,pinyin:xiùdù) of the Mansion. The traditional equatorial coordinate system of China divides the equator into 365.25 degrees, and the Sun runs one day for one degree.
+The 28 mansion asterisms are grouped into Four Holy Beasts (Chinese: 象 pinyin: xiàng), each containing seven mansions corresponding to seven luminaries. The Four Holy Beasts are the White Tiger of the East, The Red Bird of the South, the Azure Dragon of the West and the Dark Warrier of the North. As they all lay around the ecliptic, the association with the compass direction does not correspond to the real horizon.
 
-The Twenty-Eight Mansions are grouped into Four Symbols (Chinese:象pinyin:xiàng), each associated with a compass direction and containing seven Mansions，corresponds to Seven Luminaries.
+### The List of The Twenty-Eight Mansions
 
-### The List of The Twenty-Eight Mansions (J2000)
+-------------------------------
+|Seven Luminaries| |Wood| Metal| Earth| Sun| Moon| Fire| Water|
+ |Chinese Name|东方苍龙|角宿|亢宿|氐宿|房宿|心宿|尾宿|箕宿|
+|Pinyin|Dōngfāng Cānglóng|Jiǎoxiù|Kàngxiù|Dīxiù|Fángxiù|Xīnxiù|Wěixiù|Jīxiù|
+|English Name|Azure Dragon of the East|Horn Mansion|Neck Mansion|Root Mansion|Room Mansion|Heart Mansion|Tail Mansion|Winnowing Basket Mansion|
+|Number of Xinguans|46|11|7|11|7|2|5|3|
+|Determinative Star||α Vir|κ Vir|α2 Lib|π Sco|σ Sco|μ1 Sco|γ Sgr|
 
-<table class="nomenclature">
-<tr>
-<td>Seven Luminaries</td>
-<td></td>
-<td>Wood</td>
-<td>Metal</td>
-<td>Earth</td>
-<td>Sun</td>
-<td>Moon</td>
-<td>Fire</td>
-<td>Water</td>
-</tr>
-<tr>
-<td>Chinese Name</td>
-<td>东方苍龙</td>
-<td>角宿</td>
-<td>亢宿</td>
-<td>氐宿</td>
-<td>房宿</td>
-<td>心宿</td>
-<td>尾宿</td>
-<td>箕宿</td>
-</tr>
-<tr>
-<td>Pinyin</td>
-<td>Dōngfāng Cānglóng</td>
-<td>Jiǎoxiù</td>
-<td>Kàngxiù</td>
-<td>Dīxiù</td>
-<td>Fángxiù</td>
-<td>Xīnxiù</td>
-<td>Wěixiù</td>
-<td>Jīxiù</td>
-</tr>
-<tr>
-<td>Engish Name</td>
-<td>Azure Dragon of the East</td>
-<td>Horn Mansion</td>
-<td>Neck Mansion</td>
-<td>Root Mansion</td>
-<td>Room Mansion</td>
-<td>Heart Mansion</td>
-<td>Tail Mansion</td>
-<td>Winnowing Basket Mansion</td>
-</tr>
-<tr>
-<td>Number of Xinguans</td>
-<td>46</td>
-<td>11</td>
-<td>7</td>
-<td>11</td>
-<td>7</td>
-<td>2</td>
-<td>5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Determinative Star</td>
-<td></td>
-<td>α Vir</td>
-<td>κ Vir</td>
-<td>α2 Lib</td>
-<td>π Sco</td>
-<td>σ Sco</td>
-<td>μ1 Sco</td>
-<td>γ Sgr</td>
-</tr>
-<tr>
-<td>RA of Determinative Star</td>
-<td></td>
-<td>13h25m11.6s</td>
-<td>14h12m53.8s</td>
-<td>14h50m52.8s</td>
-<td>15h58m51.1s</td>
-<td>16h21m11.3s</td>
-<td>16h51m52.2s</td>
-<td>18h05m48.5s</td>
-</tr>
-<tr>
-<td>Equatorial Lodge Degrees 1</td>
-<td></td>
-<td>47m42s</td>
-<td>37m59s</td>
-<td>1h07m58s</td>
-<td>22m20s</td>
-<td>30m41s</td>
-<td>1h13m57s</td>
-<td>39m51s</td>
-</tr>
-<tr>
-<td>Equatorial Lodge Degrees 2</td>
-<td></td>
-<td>12.10°</td>
-<td>9.63°</td>
-<td>17.24°</td>
-<td>5.67°</td>
-<td>7.78°</td>
-<td>18.76°</td>
-<td>10.11°</td>
-</tr>
-<tr>
-<td>Chinese Name</td>
-<td>北方玄武</td>
-<td>斗宿</td>
-<td>牛宿</td>
-<td>女宿</td>
-<td>虚宿</td>
-<td>危宿</td>
-<td>室宿</td>
-<td>壁宿</td>
-</tr>
-<tr>
-<td>Pinyin</td>
-<td>Běifāng Xuánwǔ</td>
-<td>Dǒuxiù</td>
-<td>Niúxiù</td>
-<td>Nǚxiù</td>
-<td>Xūxiù</td>
-<td>Wēixiù</td>
-<td>Shìxiù</td>
-<td>Bìxiù</td>
-</tr>
-<tr>
-<td>Engish Name</td>
-<td>Black Tortoise of the North</td>
-<td>Dipper Mansion</td>
-<td>Ox Mansion</td>
-<td>Girl Mansion</td>
-<td>Emptiness Mansion</td>
-<td>Rooftop Mansion</td>
-<td>Encampment Mansion</td>
-<td>Wall Mansion</td>
-</tr>
-<tr>
-<td>Number of Xinguans</td>
-<td>65</td>
-<td>10</td>
-<td>11</td>
-<td>8</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>6</td>
-</tr>
-<tr>
-<td>Determinative Star</td>
-<td></td>
-<td>μ Sgr</td>
-<td>β Cap</td>
-<td>ε Aqr</td>
-<td>β Aqr</td>
-<td>α Aqr</td>
-<td>α Peg</td>
-<td>γ Peg</td>
-</tr>
-<tr>
-<td>RA of Determinative Star</td>
-<td></td>
-<td>18h45m39.4s</td>
-<td>20h21m0.7s</td>
-<td>20h47m40.6s</td>
-<td>21h31m33.5s</td>
-<td>22h05m47.0s</td>
-<td>23h04m45.7s</td>
-<td>00h13m14.2s</td>
-</tr>
-<tr>
-<td>Equatorial Lodge Degrees 1</td>
-<td></td>
-<td>1h35m21s</td>
-<td>26m40s</td>
-<td>43m53s</td>
-<td>34m13s</td>
-<td>58m59s</td>
-<td>1h08s29s</td>
-<td>34m06s</td>
-</tr>
-<tr>
-<td>Equatorial Lodge Degrees 2</td>
-<td></td>
-<td>24.19°</td>
-<td>6.76°</td>
-<td>11.13°</td>
-<td>8.68°</td>
-<td>14.96°</td>
-<td>17.37°</td>
-<td>8.65°</td>
-</tr>
-<tr>
-<td>Chinese Name</td>
-<td>西方白虎</td>
-<td>奎宿</td>
-<td>娄宿</td>
-<td>胃宿</td>
-<td>昴宿</td>
-<td>毕宿</td>
-<td>觜宿</td>
-<td>参宿</td>
-</tr>
-<tr>
-<td>Pinyin</td>
-<td>Xīfāng Báihǔ</td>
-<td>Kuíxiù</td>
-<td>Loúxiù</td>
-<td>Wèixiù</td>
-<td>Mǎoxiù</td>
-<td>Bìxiù</td>
-<td>Zīxiù</td>
-<td>Shēnxiù</td>
-</tr>
-<tr>
-<td>Engish Name</td>
-<td>White Tiger of the West</td>
-<td>Legs Mansion</td>
-<td>Bond Mansion</td>
-<td>Stomach Mansion</td>
-<td>Hairy Head Mansion</td>
-<td>Net Mansion</td>
-<td>Turtle Beak Mansion</td>
-<td>Three Stars Mansion</td>
-</tr>
-<tr>
-<td>Number of Xinguans</td>
-<td>54</td>
-<td>9</td>
-<td>6</td>
-<td>7</td>
-<td>9</td>
-<td>14</td>
-<td>3</td>
-<td>6</td>
-</tr>
-<tr>
-<td>Determinative Star</td>
-<td></td>
-<td>ζ And</td>
-<td>β Ari</td>
-<td>35 Ari</td>
-<td>17 Tau</td>
-<td>ε Tau</td>
-<td>λ Ori</td>
-<td>ζ Ori</td>
-</tr>
-<tr>
-<td>RA of Determinative Star</td>
-<td></td>
-<td>00h47m20.3s</td>
-<td>01h54m38.4s</td>
-<td>02h43m27.1s</td>
-<td>03h44m52.5s</td>
-<td>04h28m37.0s</td>
-<td>5h35m8.3s</td>
-<td>05h40m45.5s</td>
-</tr>
-<tr>
-<td>Equatorial Lodge Degrees 1</td>
-<td></td>
-<td>1h07m18s</td>
-<td>48m49s</td>
-<td>1h01m26s</td>
-<td>43m44s</td>
-<td>1h06m31s</td>
-<td>5m32s</td>
-<td>42m12s</td>
-</tr>
-<tr>
-<td>Equatorial Lodge Degrees 2</td>
-<td></td>
-<td>17.07°</td>
-<td>12.38°</td>
-<td>15.58°</td>
-<td>11.09°</td>
-<td>16.87°</td>
-<td>1.40°</td>
-<td>10.70°</td>
-</tr>
-<tr>
-<td>Chinese Name</td>
-<td>南方朱雀</td>
-<td>井宿</td>
-<td>鬼宿</td>
-<td>柳宿</td>
-<td>星宿</td>
-<td>张宿</td>
-<td>翼宿</td>
-<td>轸宿</td>
-</tr>
-<tr>
-<td>Pinyin</td>
-<td>Nánfāng Zhūquè</td>
-<td>Jǐngxiù</td>
-<td>Guǐxiù</td>
-<td>Liǔxiù</td>
-<td>Xīngxiù</td>
-<td>Zhāngxiù</td>
-<td>Yìxiù</td>
-<td>Zhěnxiù</td>
-</tr>
-<tr>
-<td>Engish Name</td>
-<td>Vermilion Bird of the South</td>
-<td>Well Mansion</td>
-<td>Ghosts Mansion</td>
-<td>Willow Mansion</td>
-<td>Star Mansion</td>
-<td>Extended Net Mansion</td>
-<td>Wings Mansion</td>
-<td>Chariot Mansion</td>
-</tr>
-<tr>
-<td>Number of Xinguans</td>
-<td>42</td>
-<td>19</td>
-<td>7</td>
-<td>2</td>
-<td>5</td>
-<td>2</td>
-<td>2</td>
-<td>5</td>
-</tr>
-<tr>
-<td>Determinative Star</td>
-<td></td>
-<td>μ Gem</td>
-<td>θ Cnc</td>
-<td>δ Hya</td>
-<td>α Hya</td>
-<td>υ1 Hya</td>
-<td>α Crt</td>
-<td>γ Crv</td>
-</tr>
-<tr>
-<td>RA of Determinative Star</td>
-<td></td>
-<td>6h22m57.6s</td>
-<td>8h31m35.7s</td>
-<td>8h37m39.4s</td>
-<td>09h27m35.2s</td>
-<td>09h51m28.7s</td>
-<td>10h59m45.9s</td>
-<td>12h15m48.4s</td>
-</tr>
-<tr>
-<td>Equatorial Lodge Degrees 1</td>
-<td></td>
-<td>2h08m38s</td>
-<td>6m3s</td>
-<td>49m58s</td>
-<td>23m54s</td>
-<td>1h08m17s</td>
-<td>1h16m02s</td>
-<td>1h09m23s</td>
-</tr>
-<tr>
-<td>Equatorial Lodge Degrees 2</td>
-<td></td>
-<td>32.63°</td>
-<td>1.54°</td>
-<td>12.67°</td>
-<td>6.06°</td>
-<td>17.32°</td>
-<td>19.29°</td>
-<td>17.60°</td>
-</tr>
-</table>
+|Chinese Name|北方玄武|斗宿|牛宿|女宿|虚宿|危宿|室宿|壁宿|
+|Pinyin|Běifāng Xuánwǔ|Dǒuxiù|Niúxiù|Nǚxiù|Xūxiù|Wēixiù|Shìxiù|Bìxiù|
+|English Name|Black Tortoise of the North|Dipper Mansion|Ox Mansion|Girl Mansion|Emptiness Mansion|Rooftop Mansion|Encampment Mansion|Wall Mansion|
+|Number of Xinguans|65|10|11|8|10|10|10|6|
+|Determinative Star||μ Sgr|β Cap|ε Aqr|β Aqr|α Aqr|α Peg|γ Peg|
 
-note 1：Equatorial Lodge Degrees 1:Modern equatorial coordinate system.
+|Chinese Name|西方白虎|奎宿|娄宿|胃宿|昴宿|毕宿|觜宿|参宿|
+|Pinyin|Xīfāng Báihǔ|Kuíxiù|Loúxiù|Wèixiù|Mǎoxiù|Bìxiù|Zīxiù|Shēnxiù|
+|Engish Name|White Tiger of the West|Legs Mansion|Bond Mansion|Stomach Mansion|Hairy Head Mansion|Net Mansion|Turtle Beak Mansion|Three Stars Mansion|
+|Number of Xinguans|54|9|6|7|9|14|3|6|
+|Determinative Star||ζ And|β Ari|35 Ari|17 Tau|ε Tau|λ Ori|ζ Ori|
 
-note 2：Equatorial Lodge Degrees 2:The traditional equatorial coordinate system of China, divides the equator into 365.25 degrees
+|Chinese Name|南方朱雀|井宿|鬼宿|柳宿|星宿|张宿|翼宿|轸宿|
+|Pinyin|Nánfāng Zhūquè|Jǐngxiù|Guǐxiù|Liǔxiù|Xīngxiù|Zhāngxiù|Yìxiù|Zhěnxiù|
+|Engish Name|Vermilion Bird of the South|Well Mansion|Ghosts Mansion|Willow Mansion|Star Mansion|Extended Net Mansion|Wings Mansion|Chariot Mansion|
+|Number of Xinguans|42|19|7|2|5|2|2|5|
+|Determinative Star||μ Gem|θ Cnc|δ Hya|α Hya|υ1 Hya|α Crt|γ Crv|
+------------------------------
 
-*   [Twenty-Eight Mansions (Wikipedia)](https://en.wikipedia.org/wiki/Twenty-Eight_Mansions)
+*   [28 Mansions (Wikipedia)](https://en.wikipedia.org/wiki/Twenty-Eight_Mansions)
 
 ### The Southern Asterisms
 
@@ -454,79 +111,41 @@ _Xingguans Map of Celestial Globe(Su Song，Song dynasty)_
 
 ### Deep Space Objects
 
-Ancient China also found some deep space objects. Included in the Xingguans.
+In ancient China, even some deep space objects were included in the xingguans.
 
 Include the following:
 
-<table class="nomenclature">
-<tr>
-<td>General name</td>
-<td>Chinese Name</td>
-<td>Pinyin</td>
-<td>Chinese Name</td>
-<td>Nick name</td>
-</tr>
-<tr>
-<td>NGC 6231</td>
-<td>神宫</td>
-<td>shéngōng</td>
-<td>God's Palace</td>
-<td>Northern Jewel Box Cluster</td>
-</tr>
-<tr>
-<td>NGC 6475/M 7</td>
-<td>鱼</td>
-<td>Yú</td>
-<td>Fish</td>
-<td>Ptolemy Cluster</td>
-</tr>
-<tr>
-<td>NGC 2632/M 44</td>
-<td>积尸</td>
-<td>JīShī</td>
-<td>Cumulative Corpses</td>
-<td>Beehive Cluster</td>
-</tr>
-<tr>
-<td>NGC 5139</td>
-<td>库楼增一</td>
-<td>Kùlóu Zēng I</td>
-<td>Arsenal Added I</td>
-<td>Omega Centauri</td>
-</tr>
-<tr>
-<td>NGC 224/M 31</td>
-<td>奎宿增廿一</td>
-<td>Kuíxiù Zēng XXI</td>
-<td>Legs Mansion XXI</td>
-<td>Andromeda Galaxy</td>
-</tr>
-<tr>
-<td>NGC 3372 </td>
-<td>海山二</td>
-<td>Hǎishān II</td>
-<td>Sea and Mountain II</td>
-<td>Homunculus Nebula，Eta Carinae</td>
-</tr>
-</table>
+-----------------------------
+|General name|Chinese Name|Pinyin|Chinese Name|Nick name|
+-----------------------------
+|NGC 6231|神宫|shéngōng|God's Palace|Northern Jewel Box Cluster|
+|NGC 6475/M 7|鱼|Yú|Fish|Ptolemy Cluster|
+|NGC 2632/M 44|积尸|JīShī|Cumulative Corpses|Beehive Cluster|
+|NGC 5139|库楼增一|Kùlóu Zēng I|Arsenal Added I|Omega Centauri|
+|NGC 224/M 31|奎宿增廿一|Kuíxiù Zēng XXI|Legs Mansion XXI|Andromeda Galaxy|
+|NGC 3372 |海山二|Hǎishān II|Sea and Mountain II|Homunculus Nebula，Eta Carinae|
+-----------------------------
 
 ### Notes
 
-This Sky Culture is Based on the information inside _Chinese and Western Contrast Stars Chart and Star Catalogue 1950.0_ (Star Catalogue). (Chinese：中西对照恒星图表1950.0(星表分册))，and _Complete Studies of Astronomical Instruments_ (Chinese：仪象考成).
+This sky culture is based on the information in _Chinese and Western Contrast Stars Chart and Star Catalogue 1950.0_ (Star Catalogue). (Chinese： 中西对照恒星图表1950.0(星表分册))，and _Complete Studies of Astronomical Instruments_ (Chinese： 仪象考成).
 
-Special thanks to Liu Chunbin for the collation of the_Chinese and Western Contrast Stars Chart and Star Catalogue 1950.0(Star Catalogue)_ .he produced Chinese Star Catalogue for Stellarium (Chinese：Stellarium 中国星官体系下中文星名扩展包) is a very important reference.
+Special thanks to Liu Chunbin for the collation of the _Chinese and Western Contrast Stars Chart and Star Catalogue 1950.0(Star Catalogue)_. He produced Chinese Star Catalogue for Stellarium (Chinese： Stellarium 中国星官体系下中文星名扩展包) is a very important reference.
 
-For the translation of constellations, the use of the Hong Kong Space Museum produced the English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Names (Chinese：中国星区、星官及星名英译表). Only a small portion of the translation is changed, for example, the translation of the two different Xingguans is the same.
-
+For the translation of constellations, the use of the Hong Kong Space Museum produced the English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Names (Chinese： 中国星区、星官及星名英译表). Only a small portion of the translation is changed, for example, the translation of the two different Xingguans is the same.
+ 
 The cultural connotations of the name cannot be explained perfectly, because thousands of years passed, the connotations behind some names are controversial. These are only possible translations.
 
 ## References
 
-*   [English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Names](http://www.lcsd.gov.hk/CE/Museum/Space/en_US/web/spm/starshine/resources/constemyth/glossary.html)
-*   [AEEA Astronomy Education Information-Ancient Chinese constellation system ](http://aeea.nmns.edu.tw/aeea/contents_list/star_sign.html)
-*   [Chinese constellations (Wikipedia)](http://en.wikipedia.org/wiki/Chinese_constellations)
-*   [Traditional Chinese star names (Wikipedia)](https://en.wikipedia.org/wiki/Traditional_Chinese_star_names)
-*   <http://www.chinapage.com/astronomy/astronomy.html>
+[#1] Sun Xiaochun and Jacob Kistemaker: The Chinese sky during the Han, Brill, Leiden, 2007 
+[#2] Rufus, Carl and Tien, Hsing-Chih: The Soochow Astronomical Chart, University of Michigan Press, Ann Arbor, Michigan, USA, 1945
+[#3] The Suzhou map [digitized](http://www.chinesehsc.org/zoomify/suzhou_planisphere.html)
+[#4] [English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Names](http://www.lcsd.gov.hk/CE/Museum/Space/en_US/web/spm/starshine/resources/constemyth/glossary.html)
+[#4] [AEEA Astronomy Education Information-Ancient Chinese constellation system ](http://aeea.nmns.edu.tw/aeea/contents_list/star_sign.html)
+[#5] [Chinese constellations (Wikipedia)](http://en.wikipedia.org/wiki/Chinese_constellations)
+[#6] [Traditional Chinese star names (Wikipedia)](https://en.wikipedia.org/wiki/Traditional_Chinese_star_names)
+
 
 ## Authors
 
