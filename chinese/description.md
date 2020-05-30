@@ -12,7 +12,7 @@ Stellarium currently provides roughly 300 Chinese asterisms, called Xingguan (Ch
 
 In western astronomy, the planets are named after gods. The ancient Chinese understanding of five planets is based on five-element concepts. The wood is green, the fire is red, the earth is yellow, the metal is white, the water is black. So, Mercury is named Water Star, Venus is named Metal Star, Mars is named Fire Star, Jupiter is named Wood Star, Saturn is named Earth Star.
 
-In Chinese, the Sun and the Moon are named after Yin and Yang (which contain "great (Chinese:太, pinyin:tài)"), respectively Taiyang (Sun, Chinese:太阳) and Taiyin (Moon. Chinese: 太阴, pinyin: tàiyīn). Their other name belongs to pictographic characters Ri (Sun, Chinese:日) And Yue (Moon, Chinese:月). But the more commonly used name for the moon is Yueliang (Chinese:月亮, pinyin: yuèliàng).
+In Chinese, the Sun and the Moon are named after Yin and Yang (which contain "great (Chinese:太, pinyin:tài)"), respectively Taiyang (Sun, Chinese:太阳) and Taiyin (Moon. Chinese: 太阴, pinyin: tàiyīn). Their other name belongs to pictographic characters Ri (Sun, Chinese:日) and Yue (Moon, Chinese:月) but the more commonly used name for the moon is Yueliang (Chinese:月亮, pinyin: yuèliàng).
 
 The Sun, the Moon and the five planets form Seven Luminaries (Chinese:七曜,pinyin:qīyào), which correspond to the Five Elements and Yin and Yang.
 
