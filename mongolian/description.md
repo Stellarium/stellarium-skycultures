@@ -109,6 +109,8 @@ This skyculture is a contribution from two users of Stellarium, __Anthony Lagain
 
 To learn more about them: <a href="http://souslecieldemongolie.wordpress.com/" title="http://souslecieldemongolie.wordpress.com/">www.souslecieldemongolie.wordpress.com</a> (in French).
 
+re-worked and adapted by Susanne M Hoffmann
+
 ## Licence
 
 GNU GPL v2.0
