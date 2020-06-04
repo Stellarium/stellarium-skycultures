@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Mongolia lies in central Asia. The native people are 
+Mongolia lies in central Asia. The native people are nomads moving between the territory of the Far Eastern (Chinese) and the Near Eastern (Persian, Babylonian, Greek) culture and, thus, experiencing many different influences. 
 
 ## Description
 
@@ -38,7 +38,7 @@ Mongolian constellations and cosmogony were inherited from the occidental civili
 
 \[Note by G. Zotti: This is a variant of the old Seven Buddha Sutra described by _Elverskog_. There however, the association of the stars goes in an up-and-down movement, i.e., Dubhe/Rat, Merak/Ox,... Mizar/Snake, Alkaid/Horse, Mizar/Goat, ... Merak/Pig.\]
 
-<img src="doloon_burkhan.webp" width="550"/>
+![](doloon_burkhan.webp)
 
 #### Shooting stars
 
@@ -93,21 +93,20 @@ According to a Mongolian legend, a woman devoting herself to count one hundred s
 ### Acknowledgements and Further Reading
 
 *   Bayrlalaa (thank you) to Mongolians, for their kindness and their help in the gathering of these informations about their culture and their cosmogony
-*   <a href="http://uranoscope.free.fr" title="http://uranoscope.free.fr">L'Uranoscope de France</a>
-*   <a href="http://www.afanet.fr" title="http://www.afanet.fr">
-	   L'Association Française d'Astronomie / The French Astronomy Association</a>
-*   <a href="http://www.outofnowhere.asia" title="http://www.outofnowhere.asia">OutOfNowhere</a>
+*   [L'Uranoscope de France](http://uranoscope.free.fr) 
+*   [L'Association Française d'Astronomie / The French Astronomy Association](http://www.afanet.fr)
+*   [OutOfNowhere](http://www.outofnowhere.asia) 
 
 ## References
 
  [#1] Les astres chez les Turcs et les Mongols_ by Jean-Paul Roux(French). _Revue de l'histoire des religions_, tome 195 n°2,1979. pp; 153-192.
- [#2] [Johan Elverskog: The Mongolian Big Dipper Sutra. ](https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/download/8974/2867) Journal of the International Association of Buddhist Studies 29 Nr1 2006(2008), pp87-123.
+ [#2] [Johan Elverskog: The Mongolian Big Dipper Sutra.](https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/download/8974/2867) Journal of the International Association of Buddhist Studies 29 Nr1 2006(2008), pp87-123.
 
 ## Authors
 
-This skyculture is a contribution from two users of Stellarium, __Anthony Lagain__ (anthony.lagain(at)gmail.com) and __Batiste Rousseau__ (batiste.rousseau(at)gmail.com) mainly based on oral tales of numerous Mongolians met during a two months stay in Mongolia. 
+This skyculture is a contribution from two users of Stellarium, [*Anthony Lagain*](mailto:anthony.lagain(at)gmail.com) and [*Batiste Rousseau*](mailto:batiste.rousseau(at)gmail.com) mainly based on oral tales of numerous Mongolians met during a two months stay in Mongolia. 
 
-To learn more about them: <a href="http://souslecieldemongolie.wordpress.com/" title="http://souslecieldemongolie.wordpress.com/">www.souslecieldemongolie.wordpress.com</a> (in French).
+To learn more about them:  [www.souslecieldemongolie.wordpress.com](http://souslecieldemongolie.wordpress.com/) (in French).
 
 re-worked and adapted by Susanne M Hoffmann
 
