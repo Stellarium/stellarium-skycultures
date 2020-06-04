@@ -8,7 +8,7 @@ Tupi-Guarani is a name given to a family of languages spoken by the indigenous p
 
 ### Constellations
 
-As with many cultures, constellations were identified and used to help keep track of the seasons and predict the seasonal variations which affect daily life. In the book _Histoire de la Mission de Pères Capucins en l'Isle de Maragnan etterres circonvoisins_, published in Paris, 1614, it is stated that the Tupi people identified some thirty constellations, but the book only details seven.
+As with many cultures, constellations were identified and used to help keep track of the seasons and predict the seasonal variations which affect daily life. In the book _Histoire de la Mission de Pères Capucins en l'Isle de Maragnan etterres circonvoisins_, published in Paris, 1614, it is stated that the Tupi people identified some thirty constellations but the book only details seven.
 
 #### Ema
 
@@ -20,7 +20,7 @@ In the first two weeks of June this constellation is fully visible in the Easter
 
 This constellation depicts an old man holding a stick.
 
-In the second half of December, the constellation is fully visible in the evening Eastern sky. This marks the beginning of summer in the southern parts of Brazil and the start of the rainy season in the North.
+In the second half of December, the constellation is fully visible in the Eastern evening sky. This marks the beginning of summer in the southern parts of Brazil and the start of the rainy season in the North.
 
 ## References
 
@@ -29,7 +29,8 @@ In the second half of December, the constellation is fully visible in the evenin
 
 ## Authors
 
-This sky culture was contributed by Stellarium user _Paulo Marcelo Pontes_.
+This sky culture was contributed by Stellarium user _Paulo Marcelo Pontes_,
+adapted by Susanne M Hoffmann 
 
 ## Licence
 
