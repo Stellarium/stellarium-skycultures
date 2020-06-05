@@ -10,7 +10,7 @@ The sun also passes through these stations. In the _Al-Jabhah_ lunar mansion the
 
 ### Historical Overview
 
-Originally, the _Manazil al-Qamar_, the Arabic for the lunar mansions, or stations of the moon, were a system of 28 stars, group of stars, or spots in the sky near which the moon can be found in each of the 28 nights of its monthly revolution. Early mentions of the complete list of the lunar stations is reported by Abd al-Malik Ibn Habeeb (d. 852) on the authority of Malik ibn Anas(d. 795).[#1] However, this system had been adopted already in the pre-Islamic period, prior to the 7th century of the common era.
+Originally, the _Manazil al-Qamar_, the Arabic for the lunar mansions, or stations of the moon, were a system of 28 stars, group of stars, or spots in the sky near which the moon can be found in each of the 28 nights of its monthly revolution. Early mentions of the complete list of the lunar stations is reported by Abd al-Malik Ibn Habeeb (d. 852) on the authority of Malik ibn Anas (d. 795).[#1] However, this system had been adopted already in the pre-Islamic period, prior to the 7th century of the common era.
 
  Using heliacal observations, the asterisms of the lunar mansions served to divide the siderial and solar year of 365 days into 28 periods of 13 days each except for one period that is given 14 days. These 28 periods are called _Anwa'a_, plural of _Nawa'a_. Each _Nawa'a_ is determined by a characteristical star: when this star rises in the morning during dawn (in the east, so, shortly before the Sun), this is the beginning of the next _Nawa'a_. The name of the _Nawa'a_ (period of time, half month), gives the lunar mansion its name. One complete cycle of setting and rising for each of the 28 lunar mansions, one after the other, makes a solar year. 
 This system was used to determine the seasons and predict weather, especially rain.[#2] The Arabs said: each _Nawa'a_ \[period of 13/14 days\] is characterized by a distinctive weather pattern of rain, wind, and temperature.[#4] 
@@ -31,11 +31,11 @@ An example of Al-Sufi definitions of the stars of the lunar mansions, here is th
 
 ### Notes on Star Names and Asterisms of this Sky Culture
 
-Ancient Arabs frequently named groups of stars, for example, the 3 stars at the belt of Orion (δ\_Ori, ε\_Ori and ζ\_Ori), are named "String of beads" _al-Nazhm_ (النظم). In this sky culture they are designated as "String of beads 1", "String of beads 2" and "String of beads 3".
+Ancient Arabs frequently named groups of stars, for example, the 3 stars at the belt of Orion (δ Ori, ε Ori and ζ Ori), are named "String of beads" _al-Nazhm_ (النظم). In this sky culture they are designated as "String of beads 1", "String of beads 2" and "String of beads 3".
 
 All star names in this sky culture are of ancient Arabic origin, prior to Hellenistic influence, that has been reported by Al-Sufi in his _Book of the Fixed Stars_, with the addition of the following star names:
 
-1.   The Oath star, α\_Eri _al-Muhlif_ (المحلف): This star was not reported by Ptolemy or Al-Sufi because it couldn't be seen from their northern latitude. Prof. Kunitzsch concluded that it's the star named _al-Muhnith_ (المحنث) which was mentioned in some early resources.[#13] This star is still known on the Arabian peninsula and has the name of _al-Muhlif_ (المحلف) with the same meaning.
+1.   The Oath star, α Eri _al-Muhlif_ (المحلف): This star was not reported by Ptolemy or Al-Sufi because it couldn't be seen from their northern latitude. Prof. Kunitzsch concluded that it's the star named _al-Muhnith_ (المحنث) which was mentioned in some early resources.[#13] This star is still known on the Arabian peninsula and has the name of _al-Muhlif_ (المحلف) with the same meaning.
 2.   The First One (beginning of spring), α UMa and β UMa _al-Awwalaan_ (الأولان): This name of this pair of stars is mentioned by the seafarer Ibn Majid (d. ~1500).[#14] The name is still in use by fishermen of the Red Sea.
 3.   The Obscure one, δ UMa _al-Khafi_ (الخافي): This name is mentioned by the seafarer Ibn Majid (d. ~1500).[#15]
 4.   The gazelles, 42 Ori, θ2 Ori and ι Ori _al-Jawazi_ (الجوازي): This name was reported by Ibn Qutaybah in his _Book of Anwaa_.[#16]
@@ -59,7 +59,7 @@ The asterisms of the lunar stations in this sky culture are defined along the id
 1.   _Al-Sharatan_ or _Al-Ashrat_ (The two signs or the signs) composed of the 3 stars: α Ari (Hamal), β Ari (Sheratan) and γ<sub>2</sub> Ari (Mesarthim)
 2.   _Al-Botain_ (The small belly \[of the little ram\]) composed of the 3 stars: ε Ari, δ Ari (Botein), and ρ<sub>3</sub> Ari
 3.   _Al-Thurayya_ (Pleiades) composed of the star cluster of the Pleiades 
-4.   _Al-Dabaran_ (The Follower \[of the Pleiades\]) composed of the single star α\_Tau (Aldebaran) and bright stars of the Hyades
+4.   _Al-Dabaran_ (The Follower \[of the Pleiades\]) composed of the single star α Tau (Aldebaran) and bright stars of the Hyades
 5.   _Al-Hakaah_ (The mark on the horse side) composed of the three stars on the head of Orion: λ Ori (Meissa), φ<sub>1</sub> Ori and φ<sub>2</sub> Ori
 6.   _Al-Hanaah_ (The bend in the neck of a camel) composed of the 2 stars: γ Gem (Alhena) and ξ Gem
 7.   _Al-Thira-a_ (The arm of the lion) composed of the 2 stars of the twin heads: α Gem (Castor) and β Gem (Pollux)
@@ -87,9 +87,9 @@ The asterisms of the lunar stations in this sky culture are defined along the id
 
 ### The Superlion and Al-Jawza figures of the ancient Arab star lore
 
-One may notice from the names of the 7th to the 15th lunar stations that they are part of a lion figure. This Arab lion figure covers around 100 degrees, a little bit more than half the sky dome. From the names of these stars a lion figure can be constructed.
+One may notice from the names of the 7th to the 15th lunar stations that they are part of a lion figure. This Arab lion figure covers around 100 degrees, a little bit more than half of the sky dome. From the names of these stars a lion figure can be constructed.
 
-Two of the lunar stations, _Al-Hakaah_ and _Al-Hanaah_, are part of Al-Jawza stars. Al-Jawza is the figure covering Orion plus some stars around it. The ancient Arabs imagined these stars as a figure of a woman with a bow and arrow aimed at the lion.
+Two of the lunar stations, _Al-Hakaah_ and _Al-Hanaah_, are part of Al-Jawza stars. Al-Jawza is the figure covering Orion plus some stars around it. The ancient Arabs imagined these stars as a figure of a woman with a bow and arrow aimed at the lion (an image, probably influenced from Roman Egypt: see depiction on Denderah zodiac which shows Babylonian as well as Greek traces of constellations).
 
 Mr Roland Laffitte discussed these two figure and offered a depiction of each in his article: [Our Arab Heritage in the Celestial Vault](http://www.muslimheritage.com/article/our-arab-heritage-celestial-vault). A more detailed discussion of ancient Arab starlore is found in his book: "Le Ciel des Arabes" [#26].
 
@@ -125,6 +125,7 @@ Mr Roland Laffitte discussed these two figure and offered a depiction of each in
 ## Authors
 
 This sky culture and the compilation of Arabic star names were authored by Khalid AlAjaji.
+slightly reworked by Susanne M Hoffmann 
 
 ## Licence
 
