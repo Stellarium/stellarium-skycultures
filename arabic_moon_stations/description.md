@@ -124,8 +124,7 @@ Mr Roland Laffitte discussed these two figure and offered a depiction of each in
 
 ## Authors
 
-This sky culture and the compilation of Arabic star names were authored by Khalid AlAjaji.
-slightly reworked by Susanne M Hoffmann 
+This sky culture and the compilation of Arabic star names were authored by Khalid AlAjaji and slightly reworked by Susanne M Hoffmann.
 
 ## Licence
 
