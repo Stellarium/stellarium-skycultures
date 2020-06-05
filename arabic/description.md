@@ -42,7 +42,7 @@ When the Arabic texts were translated into Latin from the beginning of the _12th
 Of course, there are also star names from other than the Arabic language: Some names are inherited from the past have _Greek_, _Latin_ or _Chinese_.
 Nevertheless, even with the above mentioned shortcomings, the majority of star names adopted since the Renaissance time is of Arabic origin. 
 
-Local tradition of the peoples of _Islamic lands_ in the Arabian Peninsula and in the Middle East had their own names for various bright stars such as _Aldebaran_, The Follower (of the Star Cluster we name the Pliades). They usually regarded single stars as representing _animals or people_, e.g. Diphda (_beta Ceti_), the Second Frog. The stars we know as _Alpha_ and _Beta Ophiuchi_ were regarded as a _shepherd_ and _his dog_, while neighbouring stars made up the outlines of a _field with sheep_. Some of the Arabic names were already many centuries old and their meanings were lost even for _al-Sūfī_ and his contemporaries, and they remain unknown until today. 
+Local tradition of the peoples of _Islamic lands_ in the Arabian Peninsula and in the Middle East had their own names for various bright stars such as _Aldebaran_, The Follower (of the Star Cluster we name the Pleiades). They usually regarded single stars as representing _animals or people_, e.g. Diphda (_beta Ceti_), the Second Frog. The stars we know as _Alpha_ and _Beta Ophiuchi_ were regarded as a _shepherd_ and _his dog_, while neighbouring stars made up the outlines of a _field with sheep_. Some of the Arabic names were already many centuries old and their meanings were lost even for _al-Sūfī_ and his contemporaries, and they remain unknown until today. 
 
 ### Thanks
 
