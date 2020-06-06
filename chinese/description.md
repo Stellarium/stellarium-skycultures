@@ -74,12 +74,12 @@ The 28 mansion asterisms are grouped into Four Holy Beasts (Chinese: 象 pinyin:
 ### The List of The Twenty-Eight Mansions
 
 -------------------------------
-|Seven Luminaries| |Wood| Metal| Earth| Sun| Moon| Fire| Water|
- |Chinese Name|东方苍龙|角宿|亢宿|氐宿|房宿|心宿|尾宿|箕宿|
-|Pinyin|Dōngfāng Cānglóng|Jiǎoxiù|Kàngxiù|Dīxiù|Fángxiù|Xīnxiù|Wěixiù|Jīxiù|
-|English Name|Azure Dragon of the East|Horn Mansion|Neck Mansion|Root Mansion|Room Mansion|Heart Mansion|Tail Mansion|Winnowing Basket Mansion|
-|Number of Xinguans|46|11|7|11|7|2|5|3|
-|Determinative Star||α Vir|κ Vir|α2 Lib|π Sco|σ Sco|μ1 Sco|γ Sgr|
+|Seven Luminaries|        |Wood| Metal| Earth | Sun| Moon | Fire | Water|
+|Chinese Name    |东方苍龙 |角宿 |亢宿   |氐宿   |房宿 |心宿  |尾宿   |箕宿   |
+|Pinyin          |Dōngfāng Cānglóng |Jiǎoxiù |Kàngxiù |Dīxiù |Fángxiù |Xīnxiù |Wěixiù |Jīxiù |
+|English Name |Azure Dragon of the East |Horn Mansion |Neck Mansion |Root Mansion |Room Mansion |Heart Mansion |Tail Mansion |Winnowing Basket Mansion|
+|Number of Xinguans |46 |11 |7 |11 |7 |2 |5 |3 |
+|Determinative Star |  |α Vir |κ Vir |α2 Lib |π Sco |σ Sco |μ1 Sco |γ Sgr |
 
 |Chinese Name|北方玄武|斗宿|牛宿|女宿|虚宿|危宿|室宿|壁宿|
 |Pinyin|Běifāng Xuánwǔ|Dǒuxiù|Niúxiù|Nǚxiù|Xūxiù|Wēixiù|Shìxiù|Bìxiù|
