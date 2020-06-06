@@ -74,30 +74,36 @@ The 28 mansion asterisms are grouped into Four Holy Beasts (Chinese: 象 pinyin:
 ### The List of The Twenty-Eight Mansions
 
 -------------------------------
-|Seven Luminaries|        |Wood| Metal| Earth | Sun| Moon | Fire | Water|
-|Chinese Name    |东方苍龙 |角宿 |亢宿   |氐宿   |房宿 |心宿  |尾宿   |箕宿   |
+|Seven Luminaries|        | Wood | Metal | Earth | Sun | Moon | Fire | Water |
+|Chinese Name    |东方苍龙 | 角宿 | 亢宿   | 氐宿   | 房宿 | 心宿  | 尾宿   | 箕宿   |
 |Pinyin          |Dōngfāng Cānglóng |Jiǎoxiù |Kàngxiù |Dīxiù |Fángxiù |Xīnxiù |Wěixiù |Jīxiù |
-|English Name |Azure Dragon of the East |Horn Mansion |Neck Mansion |Root Mansion |Room Mansion |Heart Mansion |Tail Mansion |Winnowing Basket Mansion|
-|Number of Xinguans |46 |11 |7 |11 |7 |2 |5 |3 |
-|Determinative Star |  |α Vir |κ Vir |α2 Lib |π Sco |σ Sco |μ1 Sco |γ Sgr |
+|English Name    |Azure Dragon of the East |Horn Mansion |Neck Mansion |Root Mansion |Room Mansion |Heart Mansion |Tail Mansion |Winnowing Basket Mansion |
+|Number of Xinguans | 46 | 11 | 7 | 11 | 7 | 2 | 5 | 3 |
+|Determinative Star |  | α Vir | κ Vir | α2 Lib | π Sco | σ Sco | μ1 Sco | γ Sgr |
+-------------------------------
 
-|Chinese Name|北方玄武|斗宿|牛宿|女宿|虚宿|危宿|室宿|壁宿|
-|Pinyin|Běifāng Xuánwǔ|Dǒuxiù|Niúxiù|Nǚxiù|Xūxiù|Wēixiù|Shìxiù|Bìxiù|
-|English Name|Black Tortoise of the North|Dipper Mansion|Ox Mansion|Girl Mansion|Emptiness Mansion|Rooftop Mansion|Encampment Mansion|Wall Mansion|
-|Number of Xinguans|65|10|11|8|10|10|10|6|
-|Determinative Star||μ Sgr|β Cap|ε Aqr|β Aqr|α Aqr|α Peg|γ Peg|
+-------------------------------
+|Chinese Name    | 北方玄武  | 斗宿 | 牛宿 | 女宿 | 虚宿 | 危宿 | 室宿 | 壁宿 |
+|Pinyin | Běifāng Xuánwǔ | Dǒuxiù | Niúxiù | Nǚxiù | Xūxiù | Wēixiù | Shìxiù | Bìxiù |
+|English Name | Black Tortoise of the North | Dipper Mansion | Ox Mansion | Girl Mansion | Emptiness Mansion | Rooftop Mansion | Encampment Mansion | Wall Mansion |
+| Number of Xinguans | 65 | 10 | 11 | 8 | 10 | 10 | 10 | 6 |
+|Determinative Star  |    |μ Sgr | β Cap | ε Aqr | β Aqr | α Aqr | α Peg | γ Peg |
+-------------------------------
 
-|Chinese Name|西方白虎|奎宿|娄宿|胃宿|昴宿|毕宿|觜宿|参宿|
-|Pinyin|Xīfāng Báihǔ|Kuíxiù|Loúxiù|Wèixiù|Mǎoxiù|Bìxiù|Zīxiù|Shēnxiù|
-|Engish Name|White Tiger of the West|Legs Mansion|Bond Mansion|Stomach Mansion|Hairy Head Mansion|Net Mansion|Turtle Beak Mansion|Three Stars Mansion|
-|Number of Xinguans|54|9|6|7|9|14|3|6|
-|Determinative Star||ζ And|β Ari|35 Ari|17 Tau|ε Tau|λ Ori|ζ Ori|
+-------------------------------
+| Chinese Name | 西方白虎 | 奎宿 | 娄宿 | 胃宿 | 昴宿 | 毕宿 | 觜宿 | 参宿 |
+| Pinyin |Xīfāng Báihǔ | Kuíxiù | Loúxiù | Wèixiù | Mǎoxiù | Bìxiù | Zīxiù | Shēnxiù |
+|English Name | White Tiger of the West | Legs Mansion | Bond Mansion | Stomach Mansion | Hairy Head Mansion | Net Mansion | Turtle Beak Mansion | Three Stars Mansion |
+| Number of Xinguans | 54 | 9 | 6 | 7 | 9 | 14 | 3 | 6 |
+| Determinative Star |    | ζ And | β Ari | 35 Ari | 17 Tau | ε Tau | λ Ori | ζ Ori | 
+-------------------------------
 
-|Chinese Name|南方朱雀|井宿|鬼宿|柳宿|星宿|张宿|翼宿|轸宿|
-|Pinyin|Nánfāng Zhūquè|Jǐngxiù|Guǐxiù|Liǔxiù|Xīngxiù|Zhāngxiù|Yìxiù|Zhěnxiù|
-|Engish Name|Vermilion Bird of the South|Well Mansion|Ghosts Mansion|Willow Mansion|Star Mansion|Extended Net Mansion|Wings Mansion|Chariot Mansion|
-|Number of Xinguans|42|19|7|2|5|2|2|5|
-|Determinative Star||μ Gem|θ Cnc|δ Hya|α Hya|υ1 Hya|α Crt|γ Crv|
+-------------------------------
+| Chinese Name | 南方朱雀 | 井宿 | 鬼宿 | 柳宿 | 星宿 | 张宿 | 翼宿 | 轸宿 |
+| Pinyin | Nánfāng Zhūquè | Jǐngxiù | Guǐxiù | Liǔxiù | Xīngxiù | Zhāngxiù | Yìxiù | Zhěnxiù |
+| English Name | Vermilion Bird of the South | Well Mansion | Ghosts Mansion | Willow Mansion | Star Mansion | Extended Net Mansion | Wings Mansion | Chariot Mansion |
+| Number of Xinguans | 42 | 19 | 7 | 2 | 5 | 2 | 2 | 5 |
+| Determinative Star |  | μ Gem | θ Cnc | δ Hya | α Hya | υ1 Hya | α Crt | γ Crv |
 ------------------------------
 
 *   [28 Mansions (Wikipedia)](https://en.wikipedia.org/wiki/Twenty-Eight_Mansions)
@@ -107,7 +113,7 @@ The 28 mansion asterisms are grouped into Four Holy Beasts (Chinese: 象 pinyin:
 The sky around the south celestial pole was unknown to ancient Chinese. Therefore, it was not included in the Three Enclosures and Twenty-Eight Mansions system. However, by the end of the Ming Dynasty, Xu Guangqi (Chinese:徐光启,pinyin:Xú Guāngqǐ) introduced another 23 Xingguans based on the knowledge of European star charts. These Xingguans were since incorporated into the traditional Chinese star maps.
 
 ![](hunxiang.webp)  
-_Xingguans Map of Celestial Globe(Su Song，Song dynasty)_
+_Xingguans Map of Celestial Globe(Su Song，Song dynasty)_ {: img. and caption}
 
 ### Deep Space Objects
 
@@ -116,14 +122,14 @@ In ancient China, even some deep space objects were included in the xingguans.
 Include the following:
 
 -----------------------------
-|General name|Chinese Name|Pinyin|Chinese Name|Nick name|
+| General name | Chinese Name | Pinyin   | Chinese Name | Nick name | 
 -----------------------------
-|NGC 6231|神宫|shéngōng|God's Palace|Northern Jewel Box Cluster|
-|NGC 6475/M 7|鱼|Yú|Fish|Ptolemy Cluster|
-|NGC 2632/M 44|积尸|JīShī|Cumulative Corpses|Beehive Cluster|
-|NGC 5139|库楼增一|Kùlóu Zēng I|Arsenal Added I|Omega Centauri|
-|NGC 224/M 31|奎宿增廿一|Kuíxiù Zēng XXI|Legs Mansion XXI|Andromeda Galaxy|
-|NGC 3372 |海山二|Hǎishān II|Sea and Mountain II|Homunculus Nebula，Eta Carinae|
+| NGC 6231     | 神宫          | shéngōng | God's Palace | Northern Jewel Box Cluster |
+| NGC 6475/M 7 | 鱼           | Yú        | Fish         | Ptolemy Cluster |
+| NGC 2632/M 44 | 积尸         | JīShī    | Cumulative Corpses | Beehive Cluster |
+| NGC 5139     | 库楼增一      | Kùlóu Zēng I | Arsenal Added I | Omega Centauri |
+| NGC 224/M 31 | 奎宿增廿一     | Kuíxiù Zēng XXI | Legs Mansion XXI | Andromeda Galaxy |
+| NGC 3372     | 海山二        | Hǎishān II   | Sea and Mountain II  | Homunculus Nebula，Eta Carinae |
 -----------------------------
 
 ### Notes
