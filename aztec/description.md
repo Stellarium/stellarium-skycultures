@@ -67,12 +67,12 @@ In a section of the Paris Codex called zodiac pages [#3],[#10], the scorpion is 
  - [#5]: [Los códices de México](http://www.iconio.com/ABCD/F/INDEX.PDF)
  - [#6]: [Los códices coloniales de México](http://es.wikipedia.org/wiki/C%C3%B3dices_coloniales_de_M%C3%A9xico)
  - [#7]: [Real cédula prohibiendo la historia general de las cosas de Nueva España de Fray Bernardino de Sahagún](http://www.traduccionliteraria.org/1611/esc/america/sahagun.htm)
- - [#8]: [Akapochtli](http://commons.wikimedia.org/wiki/User:Akapochtli)
+ - [#8]: repository [Akapochtli](http://commons.wikimedia.org/wiki/User:Akapochtli)
  - [#9]: [Iconografía mexicana, Volumen 3](http://books.google.com.mx/books?id=kxPjdY1PJjEC&amp;pg=PA118&amp;lpg=PA118&amp;dq=Colotlixayac&amp;source=bl&amp;ots=F6xlTU1rer&amp;sig=9q_8ApdMTw5l9kagolArj5cPSMk&amp;hl=es&amp;ei=xoMeS8ToJoS1tgfpwv2cCg&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=5&amp;ved=0CBsQ6AEwBA#v=onepage&amp;q=Colotlixayac&amp;f=false)
  - [#10]: [El Códice París](http://www.famsi.org/spanish/mayawriting/codices/paris.html)
  - [#11]: [El nacimiento del sol y la luna](http://redescolar.ilce.edu.mx/redescolar/biblioteca/literatura/leyenda/mexicas/mexsolun.html)
  - [#12]: [Diccionario náhuatl - español en línea en AULEX](http://aulex.org/nah-es/)
- - [#13]: [Tlachtli](http://sepiensa.org.mx/contenidos/fd_depo/nahuatl/tlach_1.html)
+ - [#13]: language: [Tlachtli](http://sepiensa.org.mx/contenidos/fd_depo/nahuatl/tlach_1.html)
 
 ### Conclusion
 
