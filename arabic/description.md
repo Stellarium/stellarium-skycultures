@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Arabic sky culture, which is in use for more than a thousand years, had been influenced greatly by Greek astronomy, particularly by Ptolemy's astronomy.
+This Arabic sky culture, which is in use for more than a thousand years, had been influenced greatly by Greek astronomy, particularly by Ptolemy's astronomy but also by the nomad's tradition from the Arabic peninsula.
 
 ## Description
 
