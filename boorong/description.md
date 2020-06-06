@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Boorong were very much acquainted with the night sky, and William Stanbridge wrote in 1857 that they "Pride themselves upon knowing more of Astronomy than any other tribe".
+The Boorong are indigenous Australians who were very much acquainted with the night sky. William Stanbridge wrote in 1857 that they "Pride themselves upon knowing more of Astronomy than any other tribe".
 
 ## Description
 
@@ -38,9 +38,9 @@ One hundred and forty years ago, a Boorong family at Lake Tyrrell (North-Western
 |Yurree 		| Fan-tailed cockatoo | Castor |
 
 ## References
-Morison, John: The Night Sky of the Boorong, Partial Reconstruction of a Disappeared Culture in North-West Victoria, Master Thesis (MA of Arts), University of Melbourne, 1966
+[#1] Morison, John: The Night Sky of the Boorong, Partial Reconstruction of a Disappeared Culture in North-West Victoria, Master Thesis (MA of Arts), University of Melbourne, 1966
 
-[Aboriginal Astronomy](http://www.aboriginalastronomy.com.au/)
+[#2] [Aboriginal Astronomy](http://www.aboriginalastronomy.com.au/)
 
 ## Authors
 
