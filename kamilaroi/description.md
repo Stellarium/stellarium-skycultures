@@ -1,4 +1,4 @@
-# Kamilaroi/Euahlayi
+# Aboriginal (Kamilaroi/Euahlayi)
 
 ## Introduction
 
@@ -6,13 +6,11 @@ The Kamilaroi (also known as Gomeroi) and Euahlayi peoples are Australian Aborig
 
 ## Description
 
-### Background
+This Stellarium Skyculture is the result of a Higher Degree Research project by Robert Fuller at Macquarie University, Sydney, finished in 2014. Stellarium was chosen as a part of the project for Giving Back of the collected knowledge to the Kamilaroi and Euahlayi communities in the form of a documentary video (Star Stories of the Dreaming) and a student's Study Guide. Clips from the Stellarium were used in the documentary to illustrate certain sky objects.
 
-This Stellarium Skyculture is the result of a Higher Degree Research project by Robert Fuller at Macquarie University, Sydney, finishing in 2014. Stellarium was chosen as a part of the project for Giving Back of the collected knowledge to the Kamilaroi and Euahlayi communities in the form of a documentary video (Star Stories of the Dreaming) and a student's Study Guide. Clips from the Stellarium were used in the documentary to illustrate certain sky objects.
+## Constellations: Cultural objects
 
-### Cultural objects
-
-### Gawaargay
+### Gawaargay 
 
 Gawaargay is the spirit Emu in the Sky, located with its head in the Coal Sack, and its neck and body stretching out through the dust lanes of the Milky Way (Warrambul) past Scorpius. The Euahlayi and the Kamilaroi see it with legs in April and May, when it is female and chasing the males. From June to August it is male and sitting on its nest without legs (the males brood the chicks), and this is a signal to collect the eggs. In the evening in late August it is vertical in the sky, and the head and body form two "eggs", meaning the eggs should not be collected. Later in the year, it appears on the horizon, so it is believed to be sitting in a waterhole, meaning the waterholes are full. When it is below the horizon, then it is on Earth as the Black Emu, which is rarely seen.
 
@@ -62,11 +60,13 @@ Warrawilbaarru is the whirlwind spirit who lives in the constellation Scorpius. 
 
 ## References
 
-More detailed information on the astronomy of the Kamilaroi and Euahlayi peoples can be found at <a class="external" href="https://unsw.academia.edu/RobertFuller">https://unsw.academia.edu/RobertFuller</a>.
+More detailed information on the astronomy of the Kamilaroi and Euahlayi peoples can be found at [https://unsw.academia.edu/RobertFuller](https://unsw.academia.edu/RobertFuller).
 
 ## Authors
 
 Robert S. Fuller and Ghillar Michael Anderson
+
+technical re-work by Susanne M Hoffmann 
 
 ## Licence
 

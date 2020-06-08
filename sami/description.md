@@ -12,19 +12,17 @@ This sky culture is a conglomeration of at least three slightly different cultur
 
 Stellarium's Sami sky culture is based on the work of Bo Lundmark *Bæi'vi mánno nástit* [#3], who based much of his work on the writings of the Sami artist and author Johan Turi.
 
-### Constellations and Stars
+**Constellations and Stars**
 
-The Sami constellations are probably very old but were recorded in writing during the 19th century. In is unclear if the written record is complete. The constellations and stars included here are all connected to the dominant constellation, _Sarva_ — the elk. Sarva is the Sami name for elk, an alternative name is _Sarvvis_ — Bull elk. The origin of this constellation probably dates back to the old hunter culture before reindeer were domesticated.
+The Sami constellations are probably very old but were recorded in writing during the 19th century. It is unclear if the written record is complete. The constellations and stars included here are all connected to the dominant constellation, _Sarva_ — the elk. Sarva is the Sami name for elk, an alternative name is _Sarvvis_ — Bull elk. The origin of this constellation probably dates back to the old hunter culture before reindeer were domesticated.
 
-_Sarva_ consists of the Western constellations Cassiopeia, Perseus and parts of Auriga. Constellations and stars surrounding Sarva represent hunters of the elk. _Favdna_(also transcribed as _Favtna_) is the star Arcturus, and represents the Hunter who aims at the elk with his bow and arrow (_Fauna davgge_ — the Big Dipper). Favdna must aim well, for if he hits the Sky Support _Boahjenaste_ (the star Polaris), legend has it that the world will come to an end.
+_Sarva_ consists of the modern constellations Cassiopeia, Perseus and parts of Auriga. Constellations and stars surrounding Sarva represent hunters of the elk. _Favdna_ (also transcribed as _Favtna_) is the star Arcturus, and represents the Hunter who aims at the elk with his bow and arrow (_Fauna davgge_ — the Big Dipper). _Favdna_ must aim well, for if he hits the Sky Support _Boahjenaste_ (the star Polaris), legend has it that the world will come to an end.
 
-Favdna has a number of helpers: _Galla_ (Procyon[^1]) and his sons _Gallabarneck_ (Orion's belt), the "Ski Runners", _Cuoigahægjek_ (Castor and Pollux) and "The Runner" (Vega). The Pleiades are called _Rougot_ (dog pack) or _Miese-cora_ (calfpack).
+_Favdna_ has a number of helpers: _Galla_ (Procyon) and his sons _Gallabarneck_ (Orion's belt), the "Ski Runners", _Cuoigahægjek_ (Castor and Pollux) and "The Runner" (Vega). The Pleiades are called _Rougot_ (dog pack) or _Miese-cora_ (calfpack). The identification of Procyon with _Galla_ is not certain: It could be Procyon, Rigel, or Sirius - we suggest Procyon as _Galla_ in this sky culture because Sirius is very hard to spot from the latitude where the Sami live.
 
 The Milky Way is called _Lodde-raiddaras_ (lit. bird path) or _Jakke-mærka_ (lit. year mark). The name used depends on the season. In the sky chart of Johan Turi, one can observe a star _Guovso-naste_, morning star, that can be identified as Venus, but this is not certain as it can also be identified as Altair, a star showing the morning is approaching (similar to Arcturus in the Norse sky culture).
 
 The Sami sky culture does not have a large number of constellations. This is thought to be mainly because of the high Northerly latitude of the Sami people's range. Two factors contribute to this: that the Southern sky stays below the horizon to a large extent, and that the Aurora Borealis is frequently bright enough to obscure many stars.
-
-[^1]: The exact star which represents _Galla_ is uncertain. It is probably Procyon, Rigel or Sirius - Procyon was chosen as Galla for this sky culture since Sirius is very hard to spot from the latitude where the Sami live.
 
 ## References
 
@@ -35,6 +33,8 @@ The Sami sky culture does not have a large number of constellations. This is tho
 ## Authors
 
 Jonas Persson (jonas.persson@physics.org)
+
+technical rework by Susanne M Hoffmann
 
 ## Licence
 

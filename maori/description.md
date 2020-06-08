@@ -6,17 +6,17 @@ The Maori (New Zealand) night sky is similar to the Polynesian night sky. But it
 
 ## Description
 
+Only four constellations are known from the native navigators of New Zealand. 
 
-### External links
+## References
 
 *    [Maori sky culture on Stellarium Wiki](http://www.stellarium.org/wiki/index.php/Sky_cultures#Maori_.28New_Zealand.29): a more complete version of this text.
 *    [The Phoenix Astronomical Society](http://www.astronomynz.org/): a very good website on Maori sky culture (Wairarapa, New Zealand).
 
-## References
 
 ## Authors
 
-This sky culture was contributed by Stellarium user _Dan Smale_, d.smale(at)niwa.co.nz
+This sky culture was contributed by Stellarium user [_Dan Smale_](mailto:d.smale(at)niwa.co.nz)
 
 ## Licence
 
