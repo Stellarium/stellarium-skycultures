@@ -16,7 +16,7 @@ This sky culture was contributed by Stellarium user _Jonas Persson_, jonas.perss
 
 ## Authors
 
-Jonas Persson <jonas.persson@mna.hkr.se>
+[Jonas Persson](mailto:jonas.persson@mna.hkr.se)
 
 ## Licence
 

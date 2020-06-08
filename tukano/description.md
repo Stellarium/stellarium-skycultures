@@ -12,81 +12,80 @@ One circular calendar developed in 2007. For more details, please refer to [#1][
 
 ### Tukano Constellations
 
-Constellations within Tukano astronomical culture are related with natural phenomena as a whole. We gathered twelve constellations with a group who speaks Tukano language. This is not the definitive number of constellations. There are, surely, more constellations to be described. We presented here essentially "the main cycle" [#2] of the Tukano constellations. Sometimes someone relate new discoveries about these Indians sky conceptions or presents new constellation descriptions. Though we are establishing limits and configurations to these constellations that are new to us (non- Indians), they don’t organize this body of knowledge in the same way. Their conceptions about sky and Universe are different when compared with ours. They don’t organize and conceive ideas about the Universe as a whole, like us.
+Constellations within Tukano astronomical culture are related with natural phenomena as a whole. We gathered twelve constellations with a group who speaks Tukano language. This is not the definitive number of constellations. There are, surely, more constellations to be described. We presented here essentially "the main cycle" [#2] of the Tukano constellations. Sometimes someone relates new discoveries about these Indians sky concepts or presents new constellation descriptions. Though we are establishing limits and configurations to these constellations that are new to us (non- Indians), they don’t organize this body of knowledge in the same way. Their conceptions about sky and Universe are different when compared with ours. They don’t organize and conceive ideas about the Universe as a whole, like us.
 
 Hereby we present few data from a research carried out with living people and this data may be variable in near future. We worked with basic school students, elders and story tellers comparing the talks and summarizing it as you’ll see below.
 
-In general, we can say that a Tukano constellation, or parts of it, are observed when its setting occurs, like the sunset (heliacal setting) during the short period of an year. There are an amount of natural phenomena related with this astronomical event. For example we can consider Aña’s head setting during November and its relation with the increase and decrease of the Tiquié river level. The variation of the river level is accompanied with an emerging of different fishes which appear as the result of these changeable natural conditions. Other larger fishes follow the first group for multiple purposes (eating smaller ones for example). All of them eat some fruits which eventually fall over the river surface. Ground animals and microorganisms are interested on these fruits, as well as either. So, a phenomenon first described as an astronomical set for us can be seen inside a more complex behavior for Tukanos and their neighbors around this region. Animals, plants and also spiritual manifestations are in a complex relationship under the cosmological view that we can’t more ignore. 
+In general, we can say that a Tukano constellation, or parts of it, are observed when its setting occurs, like the sunset (heliacal setting) during the short period of an year. There are an amount of natural phenomena related to this astronomical event. For example we can consider Aña’s head setting during November and its relation with the increase and decrease of the Tiquié river level. The variation of the river level is accompanied with an emerging of different fishes which appear as the result of these changeable natural conditions. Other larger fishes follow the first group for multiple purposes (eating smaller ones for example). All of them eat some fruits which eventually fall over the river surface. Ground animals and microorganisms are interested on these fruits, as well as either. So, a phenomenon first described as an astronomical set for us can be seen inside a more complex behavior for Tukanos and their neighbors around this region. Animals, plants and also spiritual manifestations are in a complex relationship under the cosmological view that we can’t ignore anymore. 
 
-The name of each constellation was written in this sequence: Tukano, Portuguese and English. Ex. Pamõ\\Tatu\\Armadillo.
+The name of each constellation was written in this sequence: Tukano, Portuguese and English. Ex. Pamõ - Tatu - Armadillo.
 
-### Aña or Aña Diaso\\Jararaca\\Fer-de-lance  
+### Aña or Aña Diaso - Jararaca - Fer-de-lance  
 
-<a href="http://en.wikipedia.org/wiki/Bothrops_jararaca">Aña  - Jararaca - Jararaca (snake)</a>
+[Aña  - Jararaca - Jararaca (snake)](http://en.wikipedia.org/wiki/Bothrops_jararaca)
 
 A big snake that is found in part of our Scorpius, Sagittarius and Corona Australis constellations. Its setting with the sunset correspond of the beginning of the year to this group of Tukanos.
 
-### Pamõ\\Tatu\\Armadillo  
+### Pamõ - Tatu - Armadillo  
 
-<a href="http://en.wikipedia.org/wiki/Armadillo">Pamõ - Tatu - Armadillo</a>
+[Pamõ - Tatu - Armadillo](http://en.wikipedia.org/wiki/Armadillo)
 
-This constellation is found in our Dolphin constellation and part of Aquila constellation. This group of faint stars takes place inside a poor stellar field with exception of the bright Altair (Alfa Aquilae).
+This constellation is found in the modern constellations of the Dolphin and parts of Aquila constellation. This group of faint stars is placed inside a poor stellar field with exception of the bright Altair (Alfa Aquilae).
 
-### Darsiu\\camarão de rio\\freshwater shrimp  
+### Darsiu - camarão de rio - freshwater shrimp  
 
-<a href="http://en.wikipedia.org/wiki/Caridea">Darsiu - Pitu - Caridean Shrimp</a>
+[Darsiu - Pitu - Caridean Shrimp](http://en.wikipedia.org/wiki/Caridea)
 
-### Mhua\\Jacundá (peixe)\\A kind of fish  
+### Mhua - Jacundá (peixe) - A kind of fish  
 
-<a href="http://pt.wikipedia.org/wiki/Jacund%C3%A1">Mhua - Jacundá (peixe) - Jacundá (a kind of fish)</a>
+ [Mhua - Jacundá (peixe) - Jacundá](http://pt.wikipedia.org/wiki/Jacund%C3%A1) [(a kind of fish)](https://en.wikipedia.org/wiki/Crenicichla)  
 
-Both constellations are jointed together in a few bright stars of Aquarius and Pisces area. But it is a wonderful challenge to try to see it during the night.
+Both constellations are joined together in a few bright stars of the Aquarius and Pisces area. As they are faint, it is a wonderful challenge to try to see it during the night.
 
-### Yai\\onça\\puma or jaguar  
+### Yai - onça - puma or jaguar  
 
-<a href="http://en.wikipedia.org/wiki/Jaguar">Yai - Onça - Jaguar</a>
+[Yai - Onça - Jaguar](http://en.wikipedia.org/wiki/Jaguar)
 
 It is a big constellation – one of the biggest – inside the north portions of night skies. All night long near the horizon, the big puma is described inside our Cepheus, Cassiopeia and Perseus constellations.
 
-### Yhe\\garça\\egret  
+### Yhe - garça - egret  
 
-<a href="http://en.wikipedia.org/wiki/Egret">Yhé - Garça - Egret</a>
+[Yhé - Garça - Egret](http://en.wikipedia.org/wiki/Egret)
 
-It is still in discussion the real position of this constellation, if those stars are in the Berenices’ hair region or inside the Corvus. We choose the first region because it was present as the real one by the Tukanos of São José II tribe.
+The real position of this constellation is still in discussion: Are those stars are in the Berenices’ hair region or inside the Corvus? We choose the first region because it was present as the real one by the Tukanos of São José II tribe.
 
-### Yurara\\tartaruga\\turtle  
+### Yurara - tartaruga - turtle  
 
-<a href="http://en.wikipedia.org/wiki/Tortoise">Yurara - Cágado - Tortoise</a>
+[Yurara - Cágado - Tortoise](http://en.wikipedia.org/wiki/Tortoise)
 
-This constellation is described as the occidental Southern Cross constellation. Sometimes this traditional occidental constellation also means an Otter or a turtle by the Tukano people.
+This constellation is described as the occidental Southern Cross constellation. Sometimes this traditional occidental constellation also meant an Otter or a turtle for the Tukano people.
 
-### Nhorkoatero\\grupo de estrelas\\Pleiades  
-Nhorkoatero - Grupo de Estrelas - Group of Stars  
+### Nhorkoatero - grupo de estrelas - Pleiades  
 
-The translation of _nhorkoatero_ is literally group of stars. Identified as our Pleiades this is very significant as a time keeper within a complex calendar to Tukano people. It is also used as a rainy period pointer.
+The translation of _nhorkoatero_ is literally 'group of stars'. Identified as our Pleiades this is very significant as a time keeper within a complex calendar to Tukano people. It is also used as a harbinger of the rainy period.
 
-### Waikhasa\\moquém\\a kind of recipient to cook fish  
+### Waikhasa - moquém - a kind of recipient to cook fish  
 
-<a href="http://cozinhacomz.com.br/?food=muquiar-ou-moquear">Waikasa - Moquém - Moquém (a kind of grill to cook fish)</a>
+[Waikasa - Moquém - Moquém (a kind of grill to cook fish)](http://cozinhacomz.com.br/?food=muquiar-ou-moquear)
 
 It is identified with our Taurus Hyades open cluster of stars with the bright Aldebaran following the Pleiades. This is an easy asterism to be seen all over the sky.
 
-### Sioyahpu\\enxó\\instrument do carve wood  
+### Sioyahpu - enxó - instrument do carve wood  
 
-<a href="http://en.wikipedia.org/wiki/Adze">Sioyahpu - Cabo do Enxó - Adze Handle</a>
+[Sioyahpu - Cabo do Enxó - Adze Handle](http://en.wikipedia.org/wiki/Adze)
 
-As a part of Orion belt and two of the others brightest stars of this constellation – our Betelgeuse and Bellatrix – this constellation represents to Tukano group a part of a tool which is used to carve wood.
+As a part of Orion belt and two of the others brightest stars of this constellation – our Betelgeuse and Bellatrix – this constellation represents a part of a tool which is used to carve wood.
 
-### Sipé Phairo\\cobra de ânus grande\\a snake  
-Sipé Phairo - Cobra de Ânus Grande - Snake Large Anus
+### Sipé Phairo - cobra de ânus grande - a snake  
+Sipé Phairo - Cobra de Ânus Grande - Snake of Large Anus
 
-This snake corresponds to our brightest Big Dipper stars. In a legend when this constellation touches the horizon after the sunset almost all fishes in the main river are swallowed by it.
+This snake corresponds to the brightest stars of the Big Dipper. In a legend when this constellation touches the horizon after the sunset almost all fishes in the main river are swallowed by it.
 
-### Diayo/lontra/otter
+### Diayo - lontra - otter
 
-Described as our Southern Cross by part of the Tukanos in half Tiquié river, this constellation is also associated with star as Sirius in Cannis Major in that region.
+Described as our Southern Cross by part of the Tukanos in half Tiquié river, this constellation is also associated with star as Sirius in Canis Major in that region.
 
-### Kai Sariró/Circulo de dança/Circle dances
+### Kai Sariró - Circulo de dança - Circle dances
 
 Those stars are mainly at Orion constellation and mean a circle of dances in some special Tukano ceremonies.
 
@@ -96,15 +95,16 @@ This work is part of an amount of researches developed as a survey, conducted be
 
 ## References
 
- - [#1]: Cardoso, Walmir Thomazi. 2007. [Thesis Abstract](https://www.sapientia.pucsp.br/handle/handle/11272)
- - [#2]: Cardoso, Walmir Thomazi. 2007. [Thesis](https://www.sapientia.pucsp.br/bitstream/handle/11272/1/Walmir%20Thomazi%20Cardoso.pdf)
-
+ - [#1]: Cardoso, Walmir Thomazi. Sao Paulo, 2007. [Thesis Abstract](https://www.sapientia.pucsp.br/handle/handle/11272)
+ - [#2]: Cardoso, Walmir Thomazi. Sao Paulo, 2007. [Thesis](https://www.sapientia.pucsp.br/bitstream/handle/11272/1/Walmir%20Thomazi%20Cardoso.pdf)
 
 ## Authors
 
 [Walmir Thomazi Cardoso](mailto:walmir.astronomia@gmail.com) gathered this information in a survey that is part of his PhD. Thesis of Ethnomathematics.
 
 Illustrations were made by Antonio Gumercindo Taques dos Santos (Ticão) and [Youssif Ganthous Filho](mailto:youssif@gmail.com).
+
+technical adaption: Susanne M Hoffmann 
 
 ## Licence
 

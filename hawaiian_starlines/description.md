@@ -6,7 +6,7 @@ These are the star lines developed by Nainoa Thompson and used by the Polynesian
 
 ## Description
 
-For years, Hawaiian navigators have memorized the position of stars as they rise and set in order to know oneʻs bearing. Wayfinder Nainoa Thompson developed a system of organization to help memorize the position of stars throughout the celestial sphere by dividing the sky into four evenly sized star lines.
+For years, Hawaiian navigators have memorized the position of stars as they rise and set in order to know oneʻs bearing. Wayfinder Nainoa Thompson (born 1953, Hawaii) is a graduated navigator and famous for being the first Hawaiian to practice Polynesian art of navigation since the 14th century with a double-hulled canoe. He developed a system of organization to help memorize the position of stars throughout the celestial sphere by dividing the sky into four evenly sized star lines. This system roots in ancient Hawaiian constellations which he had got to know during his studies. 
 
 ### History
 
@@ -16,12 +16,12 @@ The knowledge of Hawaiian star navigation has been passed down orally for many g
 
 Each star line is a group of main stars that will be remembered by the navigators. The stars connect making constellations. Navigators remember the rising/setting houses of these stars, the stars that connect in each line, and the lines that point directly to North and South. The star lines’ position in the night sky slowly change over time, each starline being more prevalent at night according to the season. The star lines with their according season are as follows: 
 
-<table>
-<tr><td>1.</td><td><em>Ke Ka o Makali‘i </em></td><td>November to April    </td></tr>
-<tr><td>2.</td><td><em>Ka Iwikuamo‘o    </em></td><td>April to July        </td></tr>
-<tr><td>3.</td><td><em>Manaiakalani     </em></td><td>May to October       </td></tr>
-<tr><td>4.</td><td><em>Ka Lupe o Kawelo </em></td><td>September to February</td></tr>
-</table>
+| 1. | _Ke Ka o Makali‘i_ | November to April    | 
+|----|--------------------|----------------------|
+| 2. | _Ka Iwikuamo‘o_    | April to July        | 
+| 3. | _Manaiakalani_    | May to October       | 
+| 4. | _Ka Lupe o Kawelo_ | September to February| 
+
 
 #### Ke Ka o Makali’i
 
@@ -39,7 +39,7 @@ The star line itself starts with _Hokupa’a_ (North Star), the ultimate norther
 
 _Manaiakalani_ translates to “The Chief's Fishline”. This refers to the legend of the demi god Maui and his fish hook. Maui is credited for pulling up the islands with his magical fish hook. 
 
-This star line consists of two constellations. The Navigator’s Triangle on the north and Maui’s fish hook on the south. The Navigator’s Triangle is made of three stars _Hawaiki_ (Deneb), _Keoe_ (Vega), and _Humu_ (Altair). (It is the same figure as the Summer Triangle for modern amateur astronomers.)These stars also represent the Polynesian triangle: Hawai’i (_Hawaiki_), Rapanui (_Keoe_), and Aotearoa (_Humu_). These three islands are pulled by the fish hook of Maui (Scorpius). 
+This star line consists of two constellations. The Navigator’s Triangle on the north and Maui’s fish hook on the south. The Navigator’s Triangle is made of three stars _Hawaiki_ (Deneb), _Keoe_ (Vega), and _Humu_ (Altair). (It is the same figure as the Summer Triangle for modern amateur astronomers.) These stars also represent the Polynesian triangle: Hawai’i (_Hawaiki_), Rapanui (_Keoe_), and Aotearoa (_Humu_). These three islands are pulled by the fish hook of Maui (Scorpius). 
 
 The northern pointer is found in the Navigator’s Triangle when you connect _Hawaiki_ (Deneb) and _Momonapikowalu_ (γ Cyg, Sadr). Southern pointers are in the fish hook when you connect _Mili’opu_ (δ Sco, Dschubba) and _Kahe_ (π Sco, Nur), the stars on the top of the hook.
 
@@ -66,11 +66,10 @@ The _master navigator_ behind this sky culture was Mau Piailug of Satawal, who t
 
 The technical implementation of the sky culture included here was contributed in 2017 by teachers Darren Kamalu and Christopher Blake, Students Jonah Apo, Nicholas Koanui, Brenden Aila and the Celestial Navigation class at Kamehameha Schools Kapalama, Honolulu, Hawai’i. Artwork by Kealoha Kaneakua. 
 
-## References
-
 ## Authors
 
-Darren Kamalu
+the Hawaiian ethnic community. 
+markup re-worked by Susanne M Hoffmann
 
 ## Licence
 
