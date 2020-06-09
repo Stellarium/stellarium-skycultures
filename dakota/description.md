@@ -1,4 +1,4 @@
-# Dakota/Lakota/Nakota
+# Sioux (Dakota/Lakota/Nakota)
 
 ## Introduction
 
@@ -8,7 +8,7 @@ Dakota, Lakota, and Nakota are one of the groups of indigenous people of north-c
 
 The D(L)akota Star Knowledge files available for Stellarium are an adaptation of the ___Makoce Wicanhpi Wowapi, D(L)akota Star Map___, created by A. Lee, J. Rock, 2012. More details can be found in the constellation guidebook ___D(L)akota Star Map Constellation Guide: An Introduction to D(L)akota Star Knowledge___. Also available are D(L)akota star map posters, D(L)akota planispheres, curriculum, and other ressources.
 
-### Celestial Objects
+## Celestial Objects
 
 |   _Nape_ | Hand  | lower Orion & β Eridanus  | 
 |----------|-------|-------|
@@ -50,11 +50,9 @@ The D(L)akota Star Knowledge files available for Stellarium are an adaptation of
 
 ## References
 
-[#1]   [D(L)akota Map webpage, includes audio recordings of D(L)akota pronunciation and other resources.](http://web.stcloudstate.edu/aslee/DAKOTAMAP/home.html)
-
-[#2]   Annette Sharon Lee, Jim Rock, Charlene O'Rourke: D(L)akota Star Map Constellation Guide, Native Skywatchers, St. Cloud 2014
-
-[#3]   [_Native Skywatchers’_ main webpage, includes education, art, and community workshops and other resources.](http://www.nativeskywatchers.com)
+- [#1]   [D(L)akota Map webpage, includes audio recordings of D(L)akota pronunciation and other resources.](http://web.stcloudstate.edu/aslee/DAKOTAMAP/home.html)
+- [#2]   Annette Sharon Lee, Jim Rock, Charlene O'Rourke: D(L)akota Star Map Constellation Guide, Native Skywatchers, St. Cloud 2014
+- [#3]   [_Native Skywatchers’_ main webpage, includes education, art, and community workshops and other resources.](http://www.nativeskywatchers.com)
 
 ## Authors
 
@@ -64,7 +62,7 @@ Constellation Paintings by A. Lee.
 
 Contact [A. Lee](mailto:aslee@stcloudstate.edu) for more information.
 
-clean up: Susanne M Hoffmann 
+clean-up: Susanne M Hoffmann 
 
 ## Licence
 
