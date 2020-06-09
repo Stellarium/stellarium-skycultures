@@ -6,6 +6,8 @@ Dakota, Lakota, and Nakota are one of the groups of indigenous people of north-c
 
 ## Description
 
+The term "Sioux" was possibly not polite: It stems from colonial time and is a French shortform of the Ojibwe word "Nadouessioux" meaning "little snakes" which was a metaphor for enemies of the Ojibwe. 
+
 The D(L)akota Star Knowledge files available for Stellarium are an adaptation of the ___Makoce Wicanhpi Wowapi, D(L)akota Star Map___, created by A. Lee, J. Rock, 2012. More details can be found in the constellation guidebook ___D(L)akota Star Map Constellation Guide: An Introduction to D(L)akota Star Knowledge___. Also available are D(L)akota star map posters, D(L)akota planispheres, curriculum, and other ressources.
 
 ## Celestial Objects
