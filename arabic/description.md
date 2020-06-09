@@ -11,11 +11,11 @@ The depiction of Orion, as seen from Earth (left) and a mirror-image, from a 13t
 {: .img_and_caption }
 
 _Ptolemy_, the Greek astronomer who lived and worked around _100-178 CE_ in Alexandria, Egypt, collected ancient Greek descriptions of 1,022 stars in his famous book _The Great System of Astronomy_, popularised under its shortened Arabic title, the _Almagest_.
-Ptolemy's catalogue of stars listed orthogonal coordinates in the ecliptical coordinate system and brightness estimates for the stars arranged in _48 constellations_ As Ptolemy's work was largely based on his predecessors in Greek mathematical astronomy, especially _Hipparchus_, his book has been considered the last compendium of ancient knowledge.
+Ptolemy's catalogue of stars listed orthogonal coordinates in the ecliptical coordinate system and brightness estimates for the stars arranged in _48 constellations_. Ptolemy's work was largely based on his predecessors in Greek mathematical astronomy, especially _Hipparchus_. Thus, his book has been considered the last compendium of ancient knowledge.
 
 Ptolemy's _Almagest_ was translated into Arabic twice in the 9th century and the Arabic translation was translated into Medieval Latin earlier than the Greek original. Thus, many modern star names are (or are based on) the star descriptions in the Arabic Almagest.
 
-### Constellations
+**Constellations**
 
 This Arabic sky culture uses the classical _48 constellations_ of the Greek _Almagest_.
 These constellations were described by several Arab and Islamic authors, one of those who left an indelible influence on the Arabic observation and study of stars is the astronomer _Abū al-Husayn ‘Abd Al-Rahmān al-Sūfī_ (903-986), known also by his Latinized name of _Azophi_, who systematically revised Ptolemy's catalogue of stars.
@@ -27,7 +27,7 @@ The oldest surviving copy was produced by his son around _1010 CE_ and is preser
 Cetus as seen in the sky in an old manuscript of Al-Sufi book [#3].
 {: .img_and_caption }
 
-### The origin of star names
+**The origin of star names**
 
 Almost all modern star names originate from long traditions. They are a part of the collective cultural heritage of humanity. 
 
@@ -44,7 +44,7 @@ Nevertheless, even with the above mentioned shortcomings, the majority of star n
 
 Local tradition of the peoples of _Islamic lands_ in the Arabian Peninsula and in the Middle East had their own names for various bright stars such as _Aldebaran_, The Follower (of the Star Cluster we name the Pleiades). They usually regarded single stars as representing _animals or people_, e.g. Diphda (_beta Ceti_), the Second Frog. The stars we know as _Alpha_ and _Beta Ophiuchi_ were regarded as a _shepherd_ and _his dog_, while neighbouring stars made up the outlines of a _field with sheep_. Some of the Arabic names were already many centuries old and their meanings were lost even for _al-Sūfī_ and his contemporaries, and they remain unknown until today. 
 
-### Thanks
+## Thanks
 
  - [The Arab Astronomy Forum](http://www.jas.org.jo/forum/viewtopic.php)
  - [The Islamic Crescent's Observation Project "ICOP"](http://www.icoproject.org/star.html) for granting a permission to use there lists of "Arabic" Constellations and star names.
