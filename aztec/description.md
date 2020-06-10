@@ -58,6 +58,10 @@ According to the Florentino Codex, Sahagun's informants identified a group of st
 In a section of the Paris Codex called zodiac pages [#3],[#10], the scorpion is also mentioned. In this codex the icons shows figures of animals hanging from the body of the Celestial Dragon.
 {: .img_and_caption }
 
+## Conclusion
+
+It is noteworthy that the interpretation of some of these constellations are still in discussion, and of course there must be other constellations to represent. Any comments and/or collaboration are welcome in order to preserve the stellar knowledge, myths and starlore of the Aztec culture.
+
 ## References
 
  - [#1]: [Fuego Nuevo](http://biblioteca.itam.mx/estudios/estudio/letras30/notas3/sec_1.html)
@@ -74,11 +78,7 @@ In a section of the Paris Codex called zodiac pages [#3],[#10], the scorpion is 
  - [#12]: [Diccionario náhuatl - español en línea en AULEX](http://aulex.org/nah-es/)
  - [#13]: language: [Tlachtli](http://sepiensa.org.mx/contenidos/fd_depo/nahuatl/tlach_1.html)
 
-## Conclusion
-
-It is noteworthy that the interpretation of some of these constellations are still in discussion, and of course there must be other constellations to represent. Any comments and/or collaboration are welcome in order to preserve the stellar knowledge, myths and starlore of the Aztec culture.
-
-## Thanks to
+**Thanks to**
 
  - Javier Gómez Sandoval
  - Martha Patricia Rivera

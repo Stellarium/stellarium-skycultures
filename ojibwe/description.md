@@ -1,14 +1,14 @@
-# Ojibwe
+# Northeast America (Ojibwe)
 
 ## Introduction
 
-Ojibwe are one of the largest groups of indigenous people of North America (United States and Canada). Please also see the "Lakota Sky Culture" which is comparable because it is a neighbouring culture. 
+Ojibwe are one of the largest groups of indigenous people of North America (United States and Canada). Please also see the neighboring "Sioux" Sky Culture which is comparable in northeast America. 
 
 ## Description
 
 Depending on the region, Ojibwe are known for birch bark canoes, wildrice-_manoomin_, and maple syrup. Also known as Anishinaabe and Chippewa. The word Ojibwe means ‘cooks food outside’. The Ojibwe Star Knowledge files available for Stellarium are an adaptation of the ___“Ojibwe Giizhig Anung Masinaaigan, Ojibiwe Sky Star Map”___, created by A. Lee, W. Wilson, C. Gawboy, 2012. More details can be found in the constellation guidebook ___Ojibwe Sky Star Map Constellation Guide: An Introduction to Ojibwe Star Knowledge___. Also available are Ojibwe star map posters, Ojibwe planispheres, curriculum, and other resources.
 
-### Celestial Objects
+## Celestial Objects
 
 |native term | translation | international constellation area |
 |------------|-------------|----------------------------------|
@@ -46,13 +46,10 @@ Depending on the region, Ojibwe are known for birch bark canoes, wildrice-_manoo
 
 ## References
 
- [#1]: [Ojibwe Map webpage, includes audio recordings of Ojibwe pronunciation and other resources.](http://web.stcloudstate.edu/aslee/OJIBWEMAP/home.html)
- 
- [#2]: [Ojibwe Sky Star Map Constellation Guide](http://www.amazon.com/Ojibwe-Sky-Star-Map-Constellation/dp/0615986781?ie=UTF8&amp;keywords=ojibwe%20stars&amp;qid=1461769178&amp;ref_=sr_1_1&amp;sr=8-1) book on amazon.com
- 
- [#3]: [_Native Skywatchers’_ main webpage, includes education, art, and community workshops and other resources.](http://www.nativeskywatchers.com)
- 
- [#4]: A. Lee, W. Wilson, C. Gawboy, Ojibwe Giizhig Anung Masinaaigan, Ojibiwe Sky Star Map, 2012 
+ - [#1]: [Ojibwe Map webpage, includes audio recordings of Ojibwe pronunciation and other resources.](http://web.stcloudstate.edu/aslee/OJIBWEMAP/home.html)
+ - [#2]: [Ojibwe Sky Star Map Constellation Guide](http://www.amazon.com/Ojibwe-Sky-Star-Map-Constellation/dp/0615986781?ie=UTF8&amp;keywords=ojibwe%20stars&amp;qid=1461769178&amp;ref_=sr_1_1&amp;sr=8-1) book on amazon.com
+ - [#3]: [_Native Skywatchers’_ main webpage, includes education, art, and community workshops and other resources.](http://www.nativeskywatchers.com)
+ - [#4]: A. Lee, W. Wilson, C. Gawboy, Ojibwe Giizhig Anung Masinaaigan, Ojibiwe Sky Star Map, 2012 
 
 ## Authors
 

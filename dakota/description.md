@@ -1,12 +1,12 @@
-# Sioux (Dakota/Lakota/Nakota)
+# Northeast America (Sioux)
 
 ## Introduction
 
-Dakota, Lakota, and Nakota are one of the groups of indigenous people of north-central United States and Canada. Known as the Oceti Sakowin – Seven (Council) Fires. This council of seven consists of: four Dakota bands, two Nakota bands and one Lakota band, where D/N/L are dialectic distinctions. Well known for following the buffalo. The word D(N/L)akota means "Alliance". Also known as Sioux or the Sioux Nation.
+The Sioux are several tribes in the Northeast American cultural group (United States and Canada), They formed a first "nation" known as the Oceti Sakowin – Seven (Council) Fires. This council of seven consists of: four Dakota bands, two Nakota bands and one Lakota band, where D/N/L are dialectic distinctions. The word D(N/L)akota means "Alliance". Also known as Sioux or the Sioux Nation.
 
 ## Description
 
-The term "Sioux" was possibly not polite: It stems from colonial time and is a French shortform of the Ojibwe word "Nadouessioux" meaning "little snakes" which was a metaphor for enemies of the Ojibwe. 
+The term "Sioux" was possibly impolite: It stems from colonial time and is a French shortform of the Ojibwe word "Nadouessioux" meaning "little snakes" which was a metaphor for enemies of the Ojibwe. The correct term is Dakota, Lakota, and Nakota are one of the groups of indigenous people of north-central. Well known for following the buffalo.
 
 The D(L)akota Star Knowledge files available for Stellarium are an adaptation of the ___Makoce Wicanhpi Wowapi, D(L)akota Star Map___, created by A. Lee, J. Rock, 2012. More details can be found in the constellation guidebook ___D(L)akota Star Map Constellation Guide: An Introduction to D(L)akota Star Knowledge___. Also available are D(L)akota star map posters, D(L)akota planispheres, curriculum, and other ressources.
 
