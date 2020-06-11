@@ -23,7 +23,7 @@ Examples how these depictions deviate in naming and depiction of constellations 
  * The figure of the Lion near the Scales (which is not the zodiacal Lion) is the constellation Centaurus [#1].
  * There are two Shooters: one human with two legs, one centaur-like with four legs. The centaur-like shooter is Sagittarius from the (Babylonian) zodiac, the human bow-shooter represents the two constellations "Bow" and "Arrow" in our constellation of Canis Maior (the Arrow including Sirius) [#4].
 
-Earlier constellations are more problematic, but some indications exist that some modern zodiac signs are very ancient indeed [#3], although the constellations did change significantly over time [#3].
+Earlier constellations are more problematic, but some indications exist that some modern zodiac signs are very ancient indeed [#2],[#3],[#4],[#13], although the constellations did change significantly over time [#3],[#13],[#4].
 
 The Egyptians recognized five planets and called them the "stars that knew no rest" or (more ancient way) "eyes of [god] Horus". Their movement across the heavens reminded the Egyptians of five gods sailing across the sky in their solar barque (boat). The planet now known as Jupiter was called "Horus Who Limits the Two Lands"; Mars was "Horus of the Horizon"; Mercury was "Sebegu", associated with Set; Saturn was "Horus the Bull of the Sky"; and Venus was "the God of the Morning" [#8].
 
@@ -41,6 +41,7 @@ The Egyptians recognized five planets and called them the "stars that knew no re
 * [#10] [Circular "Zodiac" of Denderah](https://upload.wikimedia.org/wikipedia/commons/3/37/Dendera.jpg) 
 * [#11] [Rectangular "Zodiac" of Denderah](https://en.wikipedia.org/wiki/Egyptian_astronomy#/media/File:Dendera_Deckenrelief_08.JPG) 
 * [#12] [Dendera Zodiac, Linda Hall](https://napoleon.lindahall.org/zodiac_dendera.shtml)
+* [#13] Hoffmann, S.M.: History of Constellations as popularization of uranometry, in: Wolfschmidt, Gudrun: Nuncius Hamburgensis Bd. 41, tredition Verlag, 2017
 
 ## Authors
 
