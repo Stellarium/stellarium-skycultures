@@ -6,9 +6,9 @@ The Navajo are the largest Native American tribe in the United States; the Navaj
 
 ## Description
 
-The Navajo are the largest Native American tribe in the United States; the Navajo Nation extends acrossnortheastern Arizona, southeastern Utah, and northwestern New Mexico.
+This sky culture is contributed for educational purposes and based on the findings dissiminated by the Clark Foundation. 
 
-### External links
+## References
 
 *   [The Navajo Nation](http://www.navajo.org) official website
 *   [Clark Foundation: Dilyehe](http://www.clarkfoundation.org/astro-utah/vondel/dilyehe.html)
@@ -16,7 +16,6 @@ The Navajo are the largest Native American tribe in the United States; the Navaj
 *   <http://www.clarkfoundation.org/astro-utah/vondel/laws.html>
 *   [http://www.windows.ucar.edu/tour/link=/mythology/northamerican\_culture.html](http://www.windows.ucar.edu/tour/link=/mythology/northamerican_culture.html)
 
-## References
 
 ## Authors
 
