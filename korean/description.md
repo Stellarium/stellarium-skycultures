@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Chinese, Korean, and Japanese constellations have the same origin and look very similar in shape. They are represented respectively in the Dun Huang starmap from the 8th century, the _Cheon-Sang-Yeol-Cha-Bun-Ya-Ji-Do_ map and in the Kitora skymap painted in the 7th to 8th century CE. Their positions and their names are similar in the Chinese alphabet. The name of the constellations first appear in the Records of the Grand Historian(史記) in Han dynasty describing Xia dynasty in about 2000 BCE. 
+The Chinese, Korean, and Japanese constellations have the same origin and look very similar in shape. They are represented respectively in the Dun Huang starmap from the 8th century, the _Cheon-Sang-Yeol-Cha-Bun-Ya-Ji-Do_ map and in the Kitora skymap painted in the 7th to 8th century CE. Their positions and their names are similar in the Chinese alphabet. The name of the constellations first appear in the Records of the Grand Historian (史記) in Han dynasty describing Xia dynasty in about 2000 BCE. 
 
 ## Description
 
@@ -16,11 +16,9 @@ The origin of this Korean celestial map is another sky map which existed about 2
 
 ## References
 
-[#1]   [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/Cheonsang_Yeolcha_Bunyajido)
-
-[#2]   [digitalized map](https://digicult2.thulb.uni-jena.de/rsc/viewer/digicult_derivate_00115090/Sternkarte2.tif)
-
-[#3]   [Data for the digitalized reproduction](http://sammlungen.uni-jena.de/sammlungsobjekte/p/1/h/1/nc/1.html?tx_jomuseo_pi1009%5BjoDetailView%5D=DE-MUS-046828%2Flido%2Fdc00000039)
+- [#1]   [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/Cheonsang_Yeolcha_Bunyajido)
+- [#2]   [digitalized map](https://digicult2.thulb.uni-jena.de/rsc/viewer/digicult_derivate_00115090/Sternkarte2.tif)
+- [#3]   [Data for the digitalized reproduction](http://sammlungen.uni-jena.de/sammlungsobjekte/p/1/h/1/nc/1.html?tx_jomuseo_pi1009%5BjoDetailView%5D=DE-MUS-046828%2Flido%2Fdc00000039)
 
 ## Authors
 
