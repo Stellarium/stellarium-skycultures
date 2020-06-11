@@ -12,6 +12,10 @@ In the 4th century BCE, the Macedonian general Alexander the Great conquered Egy
 
 The belief that the stars could influence human destinies appears to not have reached Egypt until the Ptolemaic period. The temple of Hathor at Denderah dates from Ptolemaic times, i.e. probably the first century BCE. Features a wonderful huge symbolic map of the sky in Egyptian painting style, it provides two versions: a circular shaped one [#10] and a rectangularly shaped one [#11]. The rectangular "zodiac" of Denderah shows a sequence of Egyptian figures in the typical box-pattern, each with a file of symbolic stars next to it showing how many stars form this constellations. The round "zodiac" tries to organize these figures like they are placed in the sky.
 
+![](dendera_zodiac.webp) 
+One of the first depictions of the Dendera "zodiac", produced by engineer-archaeologists Prosper Jollois and Edouard Devilliers in the 19th century. 
+The large figure on the right is the Goddess of Heaven, Nut. first published in: Description de l'Égypte Antiquités, v. 4, [#12] {: .img_and_caption }
+
 Examples how these depictions deviate in naming and depiction of constellations from the typical Greek style:
 
  * Cancer, the Crab, is represented by the Scarab Beetle. 
@@ -26,26 +30,17 @@ The Egyptians recognized five planets and called them the "stars that knew no re
 ## References
 
 * [#1] (http://members.westnet.com.au/Gary-David-Thompson/page11-17.html) 
- 
 * [#2] [Astronomical Artifacts and Cuneiform Tablets, etc](http://members.westnet.com.au/Gary-David-Thompson/page11-15.html) 
- 
 * [#3] [Three archaic Egyptian constellations used as seasonal markers?](http://www.catchpenny.org/thoth/3arch.htm) 
- 
 * [#4] Hoffmann, Susanne M.: Hipparchs Himmelsglobus, Springer, Wiesbaden/ New York, 2017
- 
 * [#5] [http://ecuip.lib.uchicago.edu/diglib/science/cultural\_astronomy/cultures\_egypt-2.html](http://ecuip.lib.uchicago.edu/diglib/science/cultural_astronomy/cultures_egypt-2.html)
- 
 * [#6] [egyptology online](http://www.egyptologyonline.com/astronomy.htm)
- 
 * [#7] [Start Teaching Astronomy](http://www.starteachastronomy.com/egyptian.html)
- 
 * [#8] Pat Remler: Egyptian mythology A to Z / 3rd ed., 2010, Chelsea House, ISBN 978-1-60413-926-6
- 
 * [#9] [Wikipedia: Dendera](https://en.wikipedia.org/wiki/Dendera)
-
 * [#10] [Circular "Zodiac" of Denderah](https://upload.wikimedia.org/wikipedia/commons/3/37/Dendera.jpg) 
- 
 * [#11] [Rectangular "Zodiac" of Denderah](https://en.wikipedia.org/wiki/Egyptian_astronomy#/media/File:Dendera_Deckenrelief_08.JPG) 
+* [#12] [Dendera Zodiac, Linda Hall](https://napoleon.lindahall.org/zodiac_dendera.shtml)
 
 ## Authors
 
