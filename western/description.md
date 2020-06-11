@@ -22,7 +22,7 @@ In the "Fin de siècle", there were upcoming suggestions in the IAU to unify the
 
 As the IAU in 1928 only defined the boundaries of these areas [#4] and not the way of drawing artwork within them, several sub-cultures of painting figures and drawing simplified stickfigures were developed during the 20th and 21st century. We provide some of them as further sky cultures. 
 
-**Constellations**
+### Constellations 
 
 These constellations are based mainly on the Ptolemaic tradition which had been used in all three Abrahamitic religions and, thus, was common in the Near East, in Europe and its colonies on all continents. However, between the ancient Greek constellations there were gaps of areas with only faint stars belonging to no constellation.[#8] In the Modern Epoch, several astronomers suggested constellation figures for these gaps (e.g. the constellation of "the lynx" for an area close to the Great Bear but with stars so faint that you would need the eyes of a lynx to see them), among them many political constellations to the honor of certain kings or patrons. In the beginning of the 20th century, the IAU aimed for a huge clean-up. 
 
@@ -32,7 +32,7 @@ These "constellations" are naked areas in the sky without any stick figures or d
 
 Stellarium by default displays the precise RA-DEC-boundaries and a set of artwork constellations on the basis of Ptolemaic figures but following our contemporary taste of art. 
 
-**Proper names of stars**
+### Proper names of stars
 
 Ptolemy's star catalogue had the layout of a table: 
 
