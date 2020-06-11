@@ -1,20 +1,22 @@
-# Indian Vedic
+# Indian Vedic-Hindu
 
 ## Introduction
 
-Vedic sky culture with some commonly known constellations related to _Nakṣatra_-s.
+In the second half of the 2nd millennium BCE, people from the Persian area moved eastwards into the region of today's Pakistan and north of India. They settled along the rivers Indus and Ganges and founded the Vedic culture. It is the base for all Hindu cultures. 
 
 ## Description
 
-### Rāśi (राशिः)
+The Vedic sky culture shows some similiarities with the Parthian one, e.g. some commonly known constellations related to lunar mansions, called _Nakṣatra_-s. 
+
+**Rāśi (राशिः)**
 
 The sidereal zodiac is an imaginary belt of 360 degrees (like the tropical zodiac), divided into 12 equal parts. Each twelfth part (of 30 degrees) is called a sign or rashi. Their names are shown in (brackets).
 
 In Vedic astronomy there are two systems of measuring time: the lunar calender and the solar calender. In both cases one year is devided into 12 months or "māsā". The names of the solar months originated from these constellation's names.
 
-### Nakṣatra (नक्षत्रम्)
+**Nakṣatra (नक्षत्रम्)**
 
-In Hindu tradition the ecliptic is divided into 27 parts of approximately 13°20", mirroring the siderial month and corresponding to 27 asterisms known as the _nakṣatra_-s (full list, with western equivalents [here.](https://goo.gl/2PVi28) ). In the earliest extant layers of the tradition this number was made 28. This division is critical for several purposes including timing rituals and determining the birth lunar mansions. Since these asterisms define an area in the sky, technically they are also constellations.
+In Hindu tradition the ecliptic is divided into 27 parts of approximately 13°20", mirroring the siderial month and corresponding to 27 asterisms known as the _nakṣatra_-s (full list, with [modern equivalents](https://goo.gl/2PVi28) ). In the earliest extant layers of the tradition this number was made 28. This division is critical for several purposes including timing rituals and determining the birth lunar mansions. Since these asterisms define an area in the sky, technically they are also constellations.
 
 Surya Siddhanta and Vedanga-Jyotisha specify start coordinates for the 13°20" divisions using some stars (Please see penultimate paragraph in [this page.](https://archive.org/stream/HistoryOfCalendarPanchangaCommittee/History-of-Calendar-Panchanga-Committee\#page/n42/mode/1up) )
 
@@ -43,7 +45,7 @@ The names of the lunar months originated from those 12 division names in which f
 
 A few of the _yogatārā_-s or prominent asterisms in the _nakṣatra_-s (going by their mainstream identification) lie slightly outside their constellation boundaries. In these cases, any resultant problem (with regards to ritual timing or astrology) should be solved by other means, e.g. some people propose alternate identifications for such _yogatārā_-s.
 
-### Navagraha - Nine planets
+**Navagraha - Nine planets**
 
 They observed that some celestial bodies move independently relative to the background stars; they named them planets or "graha". By this definition (moving), the Sun and Moon are also treated as _graha_ or planet. The Vedic also named the lunar nodes as planets as these points are very inportant to calculate the eclipses. The name of Vedic days originated from these planet's names.
 
@@ -60,24 +62,18 @@ They observed that some celestial bodies move independently relative to the back
  | Ketú | lunar node |  -  | 
 
 
-### External links
-
-*   [Nakshatra](https://sa.wikipedia.org/wiki/नक्षत्रम्  ) article at Sanskrit Wikipedia
-*   [Nakshatra](http://en.wikipedia.org/wiki/Nakshatra) article at English Wikipedia  
-* 	[List on Nakshatra](https://goo.gl/2PVi28) at Sanskrit Wikipedia
-
 ## References
 
- [#1] Saha, M.N. and Lahiri, N.C.: History of the Calendar, New Delhi 1992 
- 
- [#2] [History Of Calendar-Panchanga Committee Report](https://archive.org/stream/HistoryOfCalendarPanchangaCommittee/History-of-Calendar-Panchanga-Committee#page/n77/mode/2up)  
- 
- [#3] [Possible period of the design of Nakshatras and Abhijit](http://www.tifr.res.in/~archaeo/papers/Others/Possible%20period%20of%20the%20design%20of%20Nakshatras.pdf) 
+ - [#1] Saha, M.N. and Lahiri, N.C.: History of the Calendar, New Delhi 1992 
+ - [#2] [History Of Calendar-Panchanga Committee Report](https://archive.org/stream/HistoryOfCalendarPanchangaCommittee/History-of-Calendar-Panchanga-Committee#page/n77/mode/2up)  
+ - [#3] [Possible period of the design of Nakshatras and Abhijit](http://www.tifr.res.in/~archaeo/papers/Others/Possible%20period%20of%20the%20design%20of%20Nakshatras.pdf) 
+ - [#4] [Nakshatra](https://sa.wikipedia.org/wiki/नक्षत्रम्  ) article at Sanskrit Wikipedia
+ - [#5] [Nakshatra](http://en.wikipedia.org/wiki/Nakshatra) article at English Wikipedia  
+ - [#6]	[List on Nakshatra](https://goo.gl/2PVi28) at Sanskrit Wikipedia
 
-### Contributors
+**Thanks to our Contributors**
 
-*   Tanmoy Saha
-*   Contributors from the [sanskrit-coders community](https://github.com/sanskrit-coders).
+ - [#7] Contributors from the [sanskrit-coders community](https://github.com/sanskrit-coders).
 
 ## Authors
 
