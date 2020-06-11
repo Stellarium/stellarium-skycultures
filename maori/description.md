@@ -6,6 +6,7 @@ The Maori (New Zealand) night sky is similar to the Polynesian night sky. But it
 
 ## Description
 
+Only four constellations are known from the native navigators of New Zealand. 
 
 ## References
 
