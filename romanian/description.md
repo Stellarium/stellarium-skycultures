@@ -14,7 +14,7 @@ Considered as a whole, Romanian popular stellar mythology has three essential co
 
  3) The origin of the Romanian people: This people was formed after the conquest of Dacia by the Romans. Dramatic scenes from this history of Dacians mixing with the Romans are projected in the sky. 
  
-__Note__: One of the differences of the Romanian from the modern sky culture is in the constellation of Orion, the Hunter. There are four traditional Romanian constellations overlapping in this modern constellation area.
+__Note__: One of the differences between the Romanian from the modern sky culture is in the constellation of Orion, the Hunter. There are four traditional Romanian constellations overlapping in this modern constellation area.
 
 ## Thanks
 
