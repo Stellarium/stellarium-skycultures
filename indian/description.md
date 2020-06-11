@@ -8,13 +8,13 @@ In the second half of the 2nd millennium BCE, people from the Persian area moved
 
 The Vedic sky culture shows some similiarities with the Parthian one, e.g. some commonly known constellations related to lunar mansions, called _Nakṣatra_-s. 
 
-**Rāśi (राशिः)**
+### Rāśi (राशिः)
 
 The sidereal zodiac is an imaginary belt of 360 degrees (like the tropical zodiac), divided into 12 equal parts. Each twelfth part (of 30 degrees) is called a sign or rashi. Their names are shown in (brackets).
 
 In Vedic astronomy there are two systems of measuring time: the lunar calender and the solar calender. In both cases one year is devided into 12 months or "māsā". The names of the solar months originated from these constellation's names.
 
-**Nakṣatra (नक्षत्रम्)**
+### Nakṣatra (नक्षत्रम्)
 
 In Hindu tradition the ecliptic is divided into 27 parts of approximately 13°20", mirroring the siderial month and corresponding to 27 asterisms known as the _nakṣatra_-s (full list, with [modern equivalents](https://goo.gl/2PVi28) ). In the earliest extant layers of the tradition this number was made 28. This division is critical for several purposes including timing rituals and determining the birth lunar mansions. Since these asterisms define an area in the sky, technically they are also constellations.
 
@@ -45,7 +45,7 @@ The names of the lunar months originated from those 12 division names in which f
 
 A few of the _yogatārā_-s or prominent asterisms in the _nakṣatra_-s (going by their mainstream identification) lie slightly outside their constellation boundaries. In these cases, any resultant problem (with regards to ritual timing or astrology) should be solved by other means, e.g. some people propose alternate identifications for such _yogatārā_-s.
 
-**Navagraha - Nine planets**
+### Navagraha - Nine planets 
 
 They observed that some celestial bodies move independently relative to the background stars; they named them planets or "graha". By this definition (moving), the Sun and Moon are also treated as _graha_ or planet. The Vedic also named the lunar nodes as planets as these points are very inportant to calculate the eclipses. The name of Vedic days originated from these planet's names.
 
