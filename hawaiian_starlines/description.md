@@ -8,11 +8,11 @@ These are the star lines developed by Nainoa Thompson and used by the Polynesian
 
 For years, Hawaiian navigators have memorized the position of stars as they rise and set in order to know oneʻs bearing. Wayfinder Nainoa Thompson (born 1953, Hawaii) is a graduated navigator and famous for being the first Hawaiian to practice Polynesian art of navigation since the 14th century with a double-hulled canoe. He developed a system of organization to help memorize the position of stars throughout the celestial sphere by dividing the sky into four evenly sized star lines. This system roots in ancient Hawaiian constellations which he had got to know during his studies. 
 
-**History**
+### History
 
 The knowledge of Hawaiian star navigation has been passed down orally for many generations. &nbsp;Much of the knowledge regarding stars and navigation were lost until the Hawaiian Renaissance in the early 1970s. Polynesian Voyage Society (PVS), founded in 1973, created Hokule’a in 1975. Hokule’a is a traditional Hawaiian voyaging canoe with the mission to revive the art of way finding. A man from Satawal, Micronesia named Mau Piailug was a master navigator/wayfinder. The knowledge of wayfinding and using the sky to navigate was passed down to Mau from his ancestors. Nainoa Thompson, current President of PVS, asked Mau to teach his knowledge of navigation to him with the intention of reviving the knowledge that was once lost to the Hawaiians. With the knowledge learned from Mau, the Hawaiian star compass and star lines were created.
 
-**Star Lines**
+### Star Lines
 
 Each star line is a group of main stars that will be remembered by the navigators. The stars connect making constellations. Navigators remember the rising/setting houses of these stars, the stars that connect in each line, and the lines that point directly to North and South. The star lines’ position in the night sky slowly change over time, each starline being more prevalent at night according to the season. The star lines with their according season are as follows: 
 
