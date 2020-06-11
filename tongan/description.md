@@ -2,7 +2,7 @@
 
 ## Introduction
 
-As in all Polynesian star lore, Tongan sky culture descends from the practical application of nautical navigation
+As in all Polynesian star lore, Tongan sky culture descends from the practical application of nautical navigation.
 
 ## Description
 
