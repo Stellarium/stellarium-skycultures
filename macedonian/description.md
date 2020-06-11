@@ -6,8 +6,7 @@ Ethnoastronomical research among Macedonian people began in 1982, organized by t
 
 ## Description
 
-
-### Constellations
+** Constellations **
  
  |constellation | comment |
  |-------|--------------|
@@ -33,19 +32,13 @@ Ethnoastronomical research among Macedonian people began in 1982, organized by t
 
 ## References
 
-[#1] Cenev G, Sky over Macedonia, 2004
-
-[#2] [Macedonian Research Society](http://mid.org.mk/ethnoastronomy/)
-
-[#3] [Cenev, Gjore (1985). _The astronomical knowledge of the south-west Macedonia's people._ "Publications of the Astronomical Society of "Rudjer Bošković", No. 4, p. 139 - 146". Belgrade, Yugoslavia](http://adsabs.harvard.edu/abs/1985PASRB...4..139C)
-
-[#4] Cenev, Gjore (2004). _Sky Map of Macedonian People._ Skopje, Mladinski kulturen centar
-
-[#5] Cenev, Gjore (2004). _Neboto nad Makedonija (Sky over Macedonia)._ Skopje, Mladinski kulturen centar.
-
-[#6] [Cenev, Gjore (2008). _Macedonian Folk Constellations._ Publications of the Astronomical Observatory of Belgrade, vol. 85, p. 97-109. Belgrade, Serbia.](http://adsabs.harvard.edu/abs/2008POBeo..85...97C)
-
-[#7] [Cenev, Gjore (2014). _The Ancient Sky Map Of The Macedonian People._ Cosmos – The Journal of the Traditional Cosmology Society, volume 30, Edinburgh, Scotland, United Kingdom.](http://www.academia.edu/18707131/The_Ancient_Sky_Map_Of_The_Macedonian_People)
+- [#1] Cenev G, Sky over Macedonia, 2004
+- [#2] [Macedonian Research Society](http://mid.org.mk/ethnoastronomy/)
+- [#3] [Cenev, Gjore (1985). _The astronomical knowledge of the south-west Macedonia's people._ "Publications of the Astronomical Society of "Rudjer Bošković", No. 4, p. 139 - 146". Belgrade, Yugoslavia](http://adsabs.harvard.edu/abs/1985PASRB...4..139C)
+- [#4] Cenev, Gjore (2004). _Sky Map of Macedonian People._ Skopje, Mladinski kulturen centar
+- [#5] Cenev, Gjore (2004). _Neboto nad Makedonija (Sky over Macedonia)._ Skopje, Mladinski kulturen centar.
+- [#6] [Cenev, Gjore (2008). _Macedonian Folk Constellations._ Publications of the Astronomical Observatory of Belgrade, vol. 85, p. 97-109. Belgrade, Serbia.](http://adsabs.harvard.edu/abs/2008POBeo..85...97C)
+- [#7] [Cenev, Gjore (2014). _The Ancient Sky Map Of The Macedonian People._ Cosmos – The Journal of the Traditional Cosmology Society, volume 30, Edinburgh, Scotland, United Kingdom.](http://www.academia.edu/18707131/The_Ancient_Sky_Map_Of_The_Macedonian_People)
 
 ## Authors
 
