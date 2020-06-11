@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Romania is a land in southeast Europe. Romanian popular stellar mythology.
+Romania is a land in southeast Europe. Romanian popular stellar mythology is a mixture of several historical epochs from pre-Christian to modern.
 
 ## Description
 
@@ -16,21 +16,17 @@ Considered as a whole, Romanian popular stellar mythology has three essential co
  
 __Note__: One of the differences of the Romanian from the modern sky culture is in the constellation of Orion, the Hunter. There are four traditional Romanian constellations overlapping in this modern constellation area.
 
-### Thanks
+## Thanks
 
 Thanks to Andrei Dorian Gheorghe and Alastair McBeth – SARM members
 
 ## References
 
-[#1]: Website for [Traditional Romanian Constellation](http://www.crt-ro.com)
-
-[#2]: On-line booklet in ro/en about [39 Traditional Romanian Constellations](http://www.slideshare.net/planetariubm/broura-constelaii-romanesti-tradiionale)
-
-[#3]: 30 seconds movies made from scripts and with subtitle in English. [Video on YouTube](http://www.youtube.com/playlist?list=PLwaYDxThuSyGt1Pw55UxfI9802pq5fFro)
-
-[#4]: _Romanian peasants beliefs in stars and sky_ – Translation of texts adapted from Ion Ottescu. [link](http://www.sarm.ro/newsite/index.php?id=1&zi=29&luna=12&an=2009&act=news)
-
-[#5]: PLANETARIUL BAIA MARE – MARAMURES. [link](http://planetariubm.ro/)
+- [#1]: Website for [Traditional Romanian Constellation](http://www.crt-ro.com)
+- [#2]: On-line booklet in ro/en about [39 Traditional Romanian Constellations](http://www.slideshare.net/planetariubm/broura-constelaii-romanesti-tradiionale)
+- [#3]: 30 seconds movies made from scripts and with subtitle in English. [Video on YouTube](http://www.youtube.com/playlist?list=PLwaYDxThuSyGt1Pw55UxfI9802pq5fFro)
+- [#4]: _Romanian peasants beliefs in stars and sky_ – Translation of texts adapted from Ion Ottescu. [link](http://www.sarm.ro/newsite/index.php?id=1&zi=29&luna=12&an=2009&act=news)
+- [#5]: PLANETARIUL BAIA MARE – MARAMURES. [link](http://planetariubm.ro/)
 
 ## Authors
 
