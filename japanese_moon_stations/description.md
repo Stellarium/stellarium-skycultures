@@ -1,10 +1,12 @@
-# Japanese Moon Stations
+# Japanese Lunar Stations
 
 ## Introduction
 
-Most astronomical observation in Japan until the Meiji Restoration was closely tied to astrological purposes. For ancient Chinese and later Korean and Japanese cartographers four seasons and four cardinal directions are marked as four talismanic animals - the Azure Dragon of the East (Spring), the Red Bird of the South (Summer), the White Tiger of the West (Fall), and the "Genbu" (Black Tortoise) of the North (Winter). Corresponding to each of the talismanic animals the celestial "palaces" were seven _sei shuku_ or what are sometimes called "lunar lodges". The moon "stations" or "lodges" probably might be used to determine position of Sun and planets as well as the Moon, and their number may or may not have been related to the period of the moon's orbit. Origins of these associations are obscure and even controversial.
+The Japanese astronomy adopted the Chinese concepts and constellations, i.e. the asterisms as well as the division of the path of the Moon into 28 "stations" (lunar mansions) as a frame of reference in right ascension.  
 
 ## Description
+
+Most astronomical observation in Japan until the Meiji Restoration was closely tied to astrological purposes. For ancient Chinese and later Korean and Japanese cartographers four seasons and four cardinal directions are marked as four talismanic animals - the Azure Dragon of the East (Spring), the Red Bird of the South (Summer), the White Tiger of the West (Fall), and the "Genbu" (Black Tortoise) of the North (Winter). Corresponding to each of the talismanic animals the celestial "palaces" were seven _sei shuku_ or what are sometimes called "lunar lodges" or lunar mansions or lunar houses. The lunar stations probably might be used to determine position of Sun and planets as well as the Moon, and their number may or may not have been related to the period of the moon's orbit. Origins of these associations are obscure and even controversial.
 
 Determination of the talismanic animals and associated star "palaces" together with the associated 28 _sei shuku_ or lunar lodges represent some of the most complex aspects of Asian "astronomy". An apparent anomaly is the fact that the actual positional path of the sun seems to move in a direction opposite the seasonal associations of spring and fall. Some scientists argue that this is due to the animals and _sei shuku_ being created some 17 to 18 millennia ago (precession creating the anomaly), but it does not really explain the apparent "backward" motion of the Sun through seasons.
 
@@ -17,11 +19,11 @@ The lore related to lunar mansions is one of the most interesting aspects of Asi
 Below is an example of a star chart from the Japanese Edo Era.
 
 ![](chart.webp)  
-_Close-Up of Yasui's Map Showing the First 15 Moon Stations_ {: .img_and_caption}
+_Close-Up of Yasui's Map Showing the First 15 Lunar Stations_ {: .img_and_caption}
 
-### The Azure Dragon of the East (Spring)
+**The Azure Dragon of the East (Spring)**
 
-The 7 Moon Stations of the "East" or "Blue Dragon".
+The 7 Lunar Stations of the "East" or "Blue Dragon".
 
  | # | Chinese Character | Meaning | Key Star | Japanese Name | 
  |---|----------------|--------------------------------|-----------|---------|
@@ -34,9 +36,9 @@ The 7 Moon Stations of the "East" or "Blue Dragon".
  | 7 | ![](mn07.webp) | Basket | Gamma Sgr; sometimes Eta Sgr | MiBoshi | 
 
 
-### The "Genbu" (Black Tortoise) of the North (Winter)
+**The "Genbu" (Black Tortoise) of the North (Winter)**
 
-The 7 Moon Stations of the "North" (Genbu) or "Black Tortoise of Winter" (also "Somber" or "Black" Warrior).
+The 7 Lunar Stations of the "North" (Genbu) or "Black Tortoise of Winter" (also "Somber" or "Black" Warrior).
 
  | # | Chinese Character | Meaning | Key Star | Japanese Name | 
  |---|----------------|-------------------|-----------|---------|
@@ -50,9 +52,9 @@ The 7 Moon Stations of the "North" (Genbu) or "Black Tortoise of Winter" (also "
 --------------------------
 
 
-### The White Tiger of the West (Fall)
+**The White Tiger of the West (Fall)**
 
-The 7 Moon Stations of the "West" or "White Tiger".
+The 7 Lunar Stations of the "West" or "White Tiger".
 
  | # | Chinese Character | Meaning | Key Star | Japanese Name | 
  |---|----------------|-------------------------|-----------|---------|
@@ -65,9 +67,9 @@ The 7 Moon Stations of the "West" or "White Tiger".
  | 21 | ![](mn21.webp) | Investigator, Three | Delta Ori; sometimes Beta Ori | KagasukiBoshi | 
 
 
-### The Red Bird of the South (Summer)
+**The Red Bird of the South (Summer)**
 
-The 7 Moon Stations of the "South" or "Red Bird".
+The 7 Lunar Stations of the "South" or "Red Bird".
 
  | # | Chinese Character | Meaning | Key Star | Japanese Name | 
  |---|----------------|----------------|-----------|---------|
@@ -80,12 +82,12 @@ The 7 Moon Stations of the "South" or "Red Bird".
  | 28 | ![](mn28.webp) | Chariot Cross-Board, perhaps strings of Koto | Gamma Crv | MitsukakeBoshi | 
 
 
-### External links
-
-*   [A Cultural History of Astronomy in Japan](http://www.academia.edu/5293593/A_Cultural_History_of_Astronomy_in_Japan) by Steve Renshaw
 
 ## References
 
+- [A Cultural History of Astronomy in Japan](http://www.academia.edu/5293593/A_Cultural_History_of_Astronomy_in_Japan) by Steve Renshaw
+- Z Xu, W Pankenier, Y Jiang: East-Asian Archaeoastronomy: Historical Records of Astronomical Observations of China, Japan and Korea, Cambria Press, New York,  2000
+- David W. Pankenier, Xu Zhentao, and Jiang Yaotiao: East-Asian Archaeoastronomy: Historical Observational Records of Comets and Meteor Showers from China, Japan, and Korea, Cambria Press, NY, 2008
 
 
 ## Authors
