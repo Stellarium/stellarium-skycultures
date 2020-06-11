@@ -6,7 +6,7 @@ The modern sky culture is used internationally by astronomers since 1928, and is
 
 ## Description
 
-In the 2nd century CE, Klaudios Ptolemaios (Ptolemy) in Alexandria published a multi-volume book which summarised the knowledge of the time and rooted in a tradition of mathematical astronomy since Hipparchus (at least 265 year earlier). In the subsequent centuries, this book has been translated from Greek into Arabic (6th to 9th century), from Arabic into Latin, and later, from the original ancient Greek into medieval Latin. Due to this transformation, it is now known under the artifical name Almagest, derived from the Arabic title. [#7]
+In the 2nd century CE, Klaudios Ptolemaios (Ptolemy) in Alexandria published a multi-volume book which summarised the knowledge of the time and rooted in a tradition of mathematical astronomy since Hipparchus (at least 265 year earlier). In the subsequent centuries, this book has been translated from Greek into Arabic (6th to 9th century), from Arabic into Latin, and later, from the original ancient Greek into medieval Latin. Due to this transformation, it is now known under the artifical name Almagest, derived from the Arabic title.[#7]
 
 The Almagest's star catalogue (book VII and VIII) has been depicted many times in the Islamic as well as in the Christian astronomical traditions. Often, the figures were re-drawn in order to adopt them to the taste of art of the epoch. In the Arabic more than in the Latin tradition, the Ptolemaic figures were enriched and transformed by native Arabic constellations and star names. Therefore, this sky culture displays a modern descendant of the Ptolemaic one with traces of translations, misunderstandings, transformations, and purposly additions. 
 
