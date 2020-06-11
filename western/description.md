@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This sky culture is based on the artifical definition by the International Astronomical Union (IAU), successively in the 1920s [#1]. However, the definition only designates areas in the sky deliminated by coordinate lines [#5] and all artwork is up to the user. The early Stellarium developer team took liberties to draw of the constellation in the stickfigures according to a commonly used patters but as close as possible matching the ancient Greek tradition.
+The modern sky culture is used internationally by astronomers since 1928, and is the official scheme of The International Astronomical Union. It has historical roots in Ancient Greek astronomy, with influences from Islamic astronomy.
 
 ## Description
 
-In the 2nd century CE, Klaudios Ptolemaios (Ptolemy) in Alexandria published a multi-volume book which summarised the knowledge of the time and rooted in an at least 265 year old Greek tradition of mathematical astronomy since Hipparchus. In the subsequent centuries, this book has been translated from Greek into Arabic (6th to 9th century) and from Arabic into Latin as well as, later, from the original ancient Greek into medieval Latin. Due to this transformation, it is now known under the artifical name Almagest, derived from the Arabic title. [#7]
+In the 2nd century CE, Klaudios Ptolemaios (Ptolemy) in Alexandria published a multi-volume book which summarised the knowledge of the time and rooted in a tradition of mathematical astronomy since Hipparchus (at least 265 year earlier). In the subsequent centuries, this book has been translated from Greek into Arabic (6th to 9th century), from Arabic into Latin, and later, from the original ancient Greek into medieval Latin. Due to this transformation, it is now known under the artifical name Almagest, derived from the Arabic title. [#7]
 
 The Almagest's star catalogue (book VII and VIII) has been depicted many times in the Islamic as well as in the Christian astronomical traditions. Often, the figures were re-drawn in order to adopt them to the taste of art of the epoch. In the Arabic more than in the Latin tradition, the Ptolemaic figures were enriched and transformed by native Arabic constellations and star names. Therefore, this sky culture displays a modern descendant of the Ptolemaic one with traces of translations, misunderstandings, transformations, and purposly additions. 
 
@@ -22,15 +22,17 @@ In the "Fin de siècle", there were upcoming suggestions in the IAU to unify the
 
 As the IAU in 1928 only defined the boundaries of these areas [#4] and not the way of drawing artwork within them, several sub-cultures of painting figures and drawing simplified stickfigures were developed during the 20th and 21st century. We provide some of them as further sky cultures. 
 
-### Constellations
+**Constellations**
 
-This artificial sky culture is based mainly on the Ptolemaic tradition which had been used in all three Abrahamitic religions and, thus, was common in the Near East, in Europe and its colonies on all continents. In 1922, the IAU officially accepted the list of 88 constellation names and their official abbreviations with three letters. The Belgian priest E. Delporte got the task to define constellation boundaries according to coordinates. In 1928, he finished the work and the IAU accepted his delimitations [#1]. 
+These constellations are based mainly on the Ptolemaic tradition which had been used in all three Abrahamitic religions and, thus, was common in the Near East, in Europe and its colonies on all continents. However, between the ancient Greek constellations there were gaps of areas with only faint stars belonging to no constellation.[#8] In the Modern Epoch, several astronomers suggested constellation figures for these gaps (e.g. the constellation of "the lynx" for an area close to the Great Bear but with stars so faint that you would need the eyes of a lynx to see them), among them many political constellations to the honor of certain kings or patrons. In the beginning of the 20th century, the IAU aimed for a huge clean-up. 
+
+In 1922, the IAU officially accepted the list of 88 constellation names and their official abbreviations with three letters. The only remaining political constellations is Scutum, the shield of a Polish king but without mentioning the political reference anymore. The Belgian priest E. Delporte got the task to define constellation boundaries according to coordinates. In 1928, he finished the work and the IAU accepted his delimitations [#1]. 
 
 These "constellations" are naked areas in the sky without any stick figures or depictions [#5]. The borders simply follow the lines of right ascension and declination. These constellations became the standard way to describe the sky, replacing similar sets in other sky cultures exhaustively in daily usage.
 
 Stellarium by default displays the precise RA-DEC-boundaries and a set of artwork constellations on the basis of Ptolemaic figures but following our contemporary taste of art. 
 
-### Proper names of stars
+**Proper names of stars**
 
 Ptolemy's star catalogue had the layout of a table: 
 
@@ -54,12 +56,13 @@ However, there are also a few original Greek words like the red star "Antares", 
  - [#5]: Constellation english names are from the [IAU Constellations Page](https://www.iau.org/public/themes/constellations/)
  - [#6]: IAU Working Group Star Names [WGSN](https://www.iau.org/science/scientific_bodies/working_groups/280/)
  - [#7]: Grasshoff, Gerd: The History of Ptolemy's Star Catalogue, Springer, New York, 1990
+ - [#8]: Hoffmann, Susanne M.: Hipparchs Himmelsglobus, Springer, Wiesbaden/ New York, 2017
  
  ## Further Links
  
- - [#7]: [Constellation](http://en.wikipedia.org/wiki/Constellation) article at Wikipedia
- - [#8]: [Star Catalogue](http://en.wikipedia.org/wiki/Star_catalogue) article at Wikipedia
- - [#9]: [Constellation image library](http://hubblesource.stsci.edu/sources/illustrations/constellations/) of the U.S. Naval Observatory and the Space Telescope Science Institute. Johannes Hevelius Engravings.
+ - [#9]: [Constellation](http://en.wikipedia.org/wiki/Constellation) article at Wikipedia
+ - [#10]: [Star Catalogue](http://en.wikipedia.org/wiki/Star_catalogue) article at Wikipedia
+ - [#11]: [Constellation image library](http://hubblesource.stsci.edu/sources/illustrations/constellations/) of the U.S. Naval Observatory and the Space Telescope Science Institute. Johannes Hevelius Engravings.
 
 ## Authors
 

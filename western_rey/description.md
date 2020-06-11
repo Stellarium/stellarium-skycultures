@@ -1,9 +1,8 @@
 # Modern (H.A.Rey,1952)
 
 ## Introduction
-Nowadays, the sky is devided into 88 areas which have the same names as historical constellations, mostly originating from the ancient Greek star catalogues (see "Modern (default)" sky culture for description). 
 
-However, the International Astronomical Union (IAU) in 1928 only defined the boundaries of these areas [#4] and not the way of drawing artwork within them. The simplified way of drawing stick figures was made popular since Rey's book in 1952. Thus, several sub-cultures were developed during the past century. 
+When a decision of the International Astronomical Union (IAU) made the boundaries of constellation areas canonical [#4], astronomers did not define a way of imagining the line patterns within these borders. A simplified way of drawing stick figures them was made popular since Rey's book in 1952.   
 
 ## Description
 
@@ -17,14 +16,13 @@ Later, varous artists compete to suggest stick figures that connect some bright 
 
 H. A. Rey (Hans Augusto Reyersbach, 1898-1977) was a poster artist of German descent who became extraordinarily successful as author of children's books in New York. His answer to the astronomical stick figure problem is published in the book _The Stars - A New Way To See Them_, (1952).
 
-
-### The Constellations
+## The Constellations
 
 In this book, which has become very popular especially in the U.S., Rey connected the stars of every constellation "in such a way that the resulting shape makes sense." What surprised him was "that nobody has done it before. The basic idea is so simple." 
 
 Rey's new stick figures make it indeed very simple to recognize the depicted constellation figures. Rey's work does not include figurative artwork, therefore this sky culture deliberately only comes with Rey's original stick figures. Rey's constellation names were also always given in English. If you switch to "Native" name display mode, you may see exactly the spelling used in his book. Also the stars named here are limited to those included in the book.
 
-### Rey's Figures and the Classic Constellations
+## Rey's Figures and the Classic Constellations
 
 Rey's constellations adhere to the tradition of the modern international sky culture of 88 official constellation areas. However, he includes some asterisms commonly used for the orientation, such as the two Northern Dippers of the Greco-Babylonian tradition and the "Great Square" (in Pegasus and Andromeda). However, at several points Rey's figures deviate from the canonical figures described since Ptolemy's Almagest (2nd century AD), where also positions of the stars in their constellations had been described in their names. For example:
 
