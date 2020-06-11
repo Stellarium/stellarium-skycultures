@@ -21,7 +21,7 @@ Below is an example of a star chart from the Japanese Edo Era.
 ![](chart.webp)  
 _Close-Up of Yasui's Map Showing the First 15 Lunar Stations_ {: .img_and_caption}
 
-**The Azure Dragon of the East (Spring)**
+### The Azure Dragon of the East (Spring)
 
 The 7 Lunar Stations of the "East" or "Blue Dragon".
 
@@ -36,7 +36,7 @@ The 7 Lunar Stations of the "East" or "Blue Dragon".
  | 7 | ![](mn07.webp) | Basket | Gamma Sgr; sometimes Eta Sgr | MiBoshi | 
 
 
-**The "Genbu" (Black Tortoise) of the North (Winter)**
+### The "Genbu" (Black Tortoise) of the North (Winter)
 
 The 7 Lunar Stations of the "North" (Genbu) or "Black Tortoise of Winter" (also "Somber" or "Black" Warrior).
 
@@ -49,10 +49,9 @@ The 7 Lunar Stations of the "North" (Genbu) or "Black Tortoise of Winter" (also 
  | 12 | ![](mn12.webp) | Roof Top, perhaps Danger, Steep | Alpha Aqr | UmiyameBoshi | 
  | 13 | ![](mn13.webp) | Room, perhaps Encampment | Alpha Peg | HatsuiBoshi | 
  | 14 | ![](mn14.webp) | Wall | Gamma Peg | NamameBoshi | 
---------------------------
 
 
-**The White Tiger of the West (Fall)**
+### The White Tiger of the West (Fall)
 
 The 7 Lunar Stations of the "West" or "White Tiger".
 
@@ -66,8 +65,7 @@ The 7 Lunar Stations of the "West" or "White Tiger".
  | 20 | ![](mn20.webp) | Turtle Snout, perhaps Tuft on Owl's Head | Turtle Snout, perhaps Tuft on Owl's Head | TorokiBoshi | 
  | 21 | ![](mn21.webp) | Investigator, Three | Delta Ori; sometimes Beta Ori | KagasukiBoshi | 
 
-
-**The Red Bird of the South (Summer)**
+### The Red Bird of the South (Summer)
 
 The 7 Lunar Stations of the "South" or "Red Bird".
 
@@ -80,8 +78,6 @@ The 7 Lunar Stations of the "South" or "Red Bird".
  | 26 | ![](mn26.webp) | Stretched Net | Nu Hya | ChirikoBoshi | 
  | 27 | ![](mn27.webp) | Wings | Alpha Crt | TasukiBoshi | 
  | 28 | ![](mn28.webp) | Chariot Cross-Board, perhaps strings of Koto | Gamma Crv | MitsukakeBoshi | 
-
-
 
 ## References
 
