@@ -8,7 +8,7 @@ The Arabic lunar stations describe the 28 sky areas chosen in ancient Arabia to 
 
 The sun also passes through these stations. In the _Al-Jabhah_ lunar mansion the sun spends 14 days [#3][#4], while in all others 13 days, completing 27 x 13 + 14 = 365 days in its yearly trip through the 28 stations. Each lunar station is defined by a star or a group of stars.
 
-**Historical Overview**
+### Historical Overview 
 
 Originally, the _Manazil al-Qamar_, the Arabic for the lunar mansions, or stations of the moon, were a system of 28 stars, group of stars, or spots in the sky near which the moon can be found in each of the 28 nights of its monthly revolution. Early mentions of the complete list of the lunar stations is reported by Abd al-Malik Ibn Habeeb (d. 852) on the authority of Malik ibn Anas (d. 795).[#1] However, this system had been adopted already in the pre-Islamic period, prior to the 7th century of the common era.
 
@@ -19,17 +19,17 @@ A detailed description of the stars of each lunar mansion, the times of their he
 
  The usage of the lunar mansions continued and even influenced astrological belief, causing agricultural, travel and medicine practices associated with the lunar mansions. Due to the importance of observing the times of their heliacal risings, poems have been composed describing the relevant asteris short treatises and poems have been written on these asterisms, e.g. a poem dedicated to description of the stars of the lunar mansions was published by Gustave-Adolphe de Calassanti-Motylinski in 1899 in his book "Les mansions lunaires chez les Arabes", attributed to Muhammadal-Mukri (1578-1638).[#6][#7] A sample treatise is the one written by Shaikh Salih Al-Shethri (d. ~1891), titled "A time-table for farmers".[#8]
 
-**Current Usage of Lunar Stations**
+### Current Usage of Lunar Stations 
 
 Agricultural almanacs based on the heliacal rising of lunar stations are still in active use today. The official calendar of Saudi Arabia includes these times.[#9] The following is an example of the use of a lunar station based calendar for the 13 days period starting with the rise of the 3rd lunar station _Al-Thurayya_ (Pleiades) on June 7th: "Weather gets hotter and wind gets stronger. Wild grasses dries. Water in wells gets shallower. Rain is rare during this time. Spring insects start to disappear. Palm tree dates starts to get its colors. It is recommended to irrigate trees with the right amounts and stop irrigation of vines when grapes starts to get its color."[#10]
 
-**Identification of the Lunar Stations**
+### Identification of the Lunar Stations 
 
  Ibn Qutabah (b. 828 - d. 884 or 889) in his _Book of Anwaa_ gives detailed description of the stars of each lunar station while an accurate identification can be extracted from the _Book of Fixed Stars_ by Al-Sufi (d. 986). In his book, Al-Sufi maps the stars as known to ancient Arabs to those of the Ptolemaic Constellations.
 
 An example of Al-Sufi definitions of the stars of the lunar mansions, here is the definition of _Al-Ghafr_: "And the 22nd \[star of Virgo\] and the 23rd which is on the tail \[hem of the garment\] with the 25th on the left foot \[of Virgo\] are named \[by the Arabs\] _Al-Ghafr_ which is the 15th lunar mansion."[#11][#12]. Because the stars of the Ptolemaic constellations have known coordinates, it is relatively easy to identify the Arab star names.
 
-**Notes on Star Names and Asterisms of this Sky Culture**
+### Notes on Star Names and Asterisms of this Sky Culture 
 
 Ancient Arabs frequently named groups of stars, for example, the 3 stars at the belt of Orion (δ Ori, ε Ori and ζ Ori), are named "String of beads" _al-Nazhm_ (النظم). In this sky culture they are designated as "String of beads 1", "String of beads 2" and "String of beads 3".
 
@@ -54,7 +54,7 @@ The asterisms of the lunar stations in this sky culture are defined along the id
 3.    The 20th lunar station _Al-Naayem_ (The Ostriches) is the area around the stars: ζ Sgr (Ascella), φ Sgr, δ Sgr (Kaus Media) and ε Sgr (Kaus Australis) according to al-Sufi. Ibn Qutaybah describes this lunar station as composed of 8 stars: ς Sgr, φ Sgr, τ Sgr, ζ Sgr, γ Sgr, δ Sgr, ε Sgr, η Sgr.[#24] The Poems of Muhammad al-Mukrī[#6] and Mohammad al-Qadhi[#22] adds a 9th star λ Sgr.
 4.   The 21st lunar station _Al-Baldah_ (The empty area) is the area where there are no bright stars between _Al-Naayem_ and _Saad Al-Thabih_. I made an asterism of stars around this spot.
 
-**The 28 stations**
+### The 28 stations 
 
 1.   _Al-Sharatan_ or _Al-Ashrat_ (The two signs or the signs) composed of the 3 stars: α Ari (Hamal), β Ari (Sheratan) and γ<sub>2</sub> Ari (Mesarthim)
 2.   _Al-Botain_ (The small belly \[of the little ram\]) composed of the 3 stars: ε Ari, δ Ari (Botein), and ρ<sub>3</sub> Ari
@@ -85,7 +85,7 @@ The asterisms of the lunar stations in this sky culture are defined along the id
 27.   _Al-Muakhar_ (The back side of the bucket for water pouring) composed of the 2 stars: β Peg (Scheat) and α Peg (Markab)
 28.   _Al-Risha_ or _Batn Al-Hoot_ (The rope of the well bucket or The Belly of the Fish) composed of the star β And (Mirach) and two arcs of stars making a figure of a fish
 
-**The Superlion and Al-Jawza figures of the ancient Arab star lore**
+### The Superlion and Al-Jawza figures of the ancient Arab star lore 
 
 One may notice from the names of the 7th to the 15th lunar stations that they are part of a lion figure. This Arab lion figure covers around 100 degrees, a little bit more than half of the sky dome. From the names of these stars a lion figure can be constructed.
 
