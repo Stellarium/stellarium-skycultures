@@ -1,4 +1,4 @@
-# Boorong
+# Aboriginal (Boorong)
 
 ## Introduction
 
@@ -38,13 +38,14 @@ One hundred and forty years ago, a Boorong family at Lake Tyrrell (North-Western
 |Yurree 		| Fan-tailed cockatoo | Castor |
 
 ## References
-[#1] Morison, John: The Night Sky of the Boorong, Partial Reconstruction of a Disappeared Culture in North-West Victoria, Master Thesis (MA of Arts), University of Melbourne, 1966
-
-[#2] [Aboriginal Astronomy](http://www.aboriginalastronomy.com.au/)
+- [#1] Morison, John: The Night Sky of the Boorong, Partial Reconstruction of a Disappeared Culture in North-West Victoria, Master Thesis (MA of Arts), University of Melbourne, 1966
+- [#2] [Aboriginal Astronomy](http://www.aboriginalastronomy.com.au/)
 
 ## Authors
 
 This sky culture was contributed by John Morieson and [Alex Cherney](http://www.terrastro.com).
+
+technical rework: Susanne M Hoffmann
 
 ## Licence
 
