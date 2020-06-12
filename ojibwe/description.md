@@ -1,4 +1,4 @@
-# Northeast America (Ojibwe)
+# Ojibwe
 
 ## Introduction
 

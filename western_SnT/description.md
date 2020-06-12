@@ -1,4 +1,4 @@
-# Modern (Sky & Telescope, 2014)
+# Modern (Sky & Telescope,2014)
 
 ## Introduction
 

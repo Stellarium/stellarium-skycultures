@@ -1,4 +1,4 @@
-# Aboriginal (Kamilaroi/Euahlayi)
+# Kamilaroi/Euahlayi
 
 ## Introduction
 

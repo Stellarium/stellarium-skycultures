@@ -1,4 +1,4 @@
-# Hawaiian Starlines
+# Hawaiian
 
 ## Introduction
 
