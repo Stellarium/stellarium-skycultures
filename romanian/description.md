@@ -16,7 +16,7 @@ Considered as a whole, Romanian popular stellar mythology has three essential co
  
 __Note__: One of the differences between the Romanian from the modern sky culture is in the constellation of Orion, the Hunter. There are four traditional Romanian constellations overlapping in this modern constellation area.
 
-## Thanks
+### Thanks
 
 Thanks to Andrei Dorian Gheorghe and Alastair McBeth – SARM members
 

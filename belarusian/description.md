@@ -10,39 +10,39 @@ Belarus is landlocked and contains large tracts of marshy land and thousands of 
 
 ## Constellations
 
-**Elias's Cart**
+##### Elias's Cart
 
 The burning cart that is ridden by Elias, the Christianized version of a constellation previously seen as simply a large cart.
 
-**The Cross**
+##### The Cross
 
 A Peter’s cross.
 
-**The Crown**
+##### The Crown
 
 The thorn wreath that was put on Christ’s head.
 
-**The Mowers**
+##### The Mowers
 
 These three stars stand one after another in the manner of people mowing the fields.
 
-**The Nail**
+##### The Nail
 
 The north star is seen as a nail around which the skies revolve.
 
-**The Serpent**
+##### The Serpent
 
 St. Yuri killed this serpent and hung it near the star that always stands in the same place.
 
-**The Sieve**
+##### The Sieve
 
 It was said that "God used to sift grains of _zhito_ through it".
 
-**The Small Cart**
+##### The Small Cart
 
 Ursa Minor resembles the large cart of Ursa Major.
 
-**The Throne**
+##### The Throne
 
 Lord Jesus's chair.
 

@@ -14,51 +14,51 @@ The _Lokono_, also known as _Arawak_, are an indigenous people of the Guianas, w
 
 As a consequence, the modern knowledge about celestial bodies appears to be but a fraction of what the Lokono knew about stars in the past. Several constellations mentioned in older sources are forgotten or are only known from their names, while the combinations of stars they represent and the oral traditions explaining their origin and significance have been forgotten. The sky culture presented here includes only identified constellations but the following description provides a more comprehensive account of Lokono astronomical knowledge including information extracted from historical sources about all the celestial objects named in the table below.
 
-### Lokono constellations and other celestial objects 
+### Lokono constellations and other celestial objects
 
- | Lokono name  | Literal translation in English | Approximate location |
- |--------------|--------------------------------|----------------------|
- | _Hadali_ |  | Sun | 
- | _Kathi_ |  | Moon | 
- | _Warhokoma_ |  | Venus | 
- | _Waya nukuthi bunaha_ | Path of the carriers of clay | Milky Way | 
- | _Mali_ |  | Sirius | 
- | _Yôkoro wiwa_ | Scores of stars | Pleiades | 
- | _Wiwa kalemero_ | Shining star | Jupiter | 
- | _Yorhada_ | Grill | Pegasus | 
- | _Kamodokoya_ | Spirit of the green anaconda | unclear | 
- | _Kibiwarhakoya_ | Spirit of the capibara | unknown | 
- | _Mabukuli_ | Man without a thigh | Orion's belt | 
- | _Kama tâla_ | Jaw of the tapir | Hyades | 
- | _Hithikoya_ | Spirit of the black curassow | Crux | 
- | _Yokhârhin_ | Hunter | α Centauri | 
- | _Alêti_ | Torch | β Centauri  | 
- | _Anorhâkoya_ | Spirit of the cocoi heron | Ursa Major | 
- | _Honolikoya_ | Spirit of the rufescent tiger heron | unknown | 
- | _Kasorhowakoya _ | Spirit of the four-eyed fish | λ Sco and υ Sco | 
- | _Katarokoya_ | Spirit of the green sea turtle | Hercules | 
- | _Hikorhikoya_ | Spirit of the yellow-footed tortoise | unknown | 
- | _Kwakoya_ | Spirit of the blue crab | Orion | 
- | _Ifakoya_ | Spirit of the Muscovy duck | Corona Australis | 
- | _Awarhakoya_ | Spirit of the awara palm | Coma Berenices | 
- | _Hadorhikoya_ | Spirit of the red acouchi  | unknown | 
- | _Hokorherokoya_ | Spirit of the red-rumped agouti | unknown | 
- | _Kabadarokoya _ | Spirit of the jaguar | unknown | 
- | _Korhirhwathekoya _ | Spirit of the ocelot | unknown | 
- | _Hawkoya_ | Spirit of the pale-throated sloth | unknown | 
- | _Warhemedokoya_ | Spirit of the two-toed sloth | unknown | 
- | _Yôwanakoya_ | Spirit of the green iguana | unknown | 
- | _Yarheyarherokoya_ | Spirit of the lilac-tailed parrot | unknown | 
- | _Marodikoya_ | Spirit of the marail guan | unknown | 
- | _Hikarowanakoya_ | Spirit of the little cuckoo | unknown | 
- | _Sûtukoya_ | Spirit of the red-handed tamarin | unknown | 
- | _Howakoya_ | Spirit of the white-faced saki | unknown | 
- | _Imenarikoya_ | Spirit of the scorpion | unknown | 
- | _Korherokoya_ | Spirit of the parrot | unknown | 
- | _Kasipenikoya_ | Spirit of a tortoise | unknown | 
- | _Shimarhabokoya_ | Spirit of the bow and arrow | unknown | 
- | _Arakabosakoya_ | Spirit of the gun | unknown | 
- | _Maraka_ | Medicine-men’s rattle | unknown | 
+| Lokono name  | Literal translation in English | Approximate location |
+|--------------|--------------------------------|----------------------|
+| _Hadali_ |  | Sun |
+| _Kathi_ |  | Moon |
+| _Warhokoma_ |  | Venus |
+| _Waya nukuthi bunaha_ | Path of the carriers of clay | Milky Way |
+| _Mali_ |  | Sirius |
+| _Yôkoro wiwa_ | Scores of stars | Pleiades |
+| _Wiwa kalemero_ | Shining star | Jupiter |
+| _Yorhada_ | Grill | Pegasus |
+| _Kamodokoya_ | Spirit of the green anaconda | unclear |
+| _Kibiwarhakoya_ | Spirit of the capibara | unknown |
+| _Mabukuli_ | Man without a thigh | Orion's belt |
+| _Kama tâla_ | Jaw of the tapir | Hyades |
+| _Hithikoya_ | Spirit of the black curassow | Crux |
+| _Yokhârhin_ | Hunter | α Centauri |
+| _Alêti_ | Torch | β Centauri  |
+| _Anorhâkoya_ | Spirit of the cocoi heron | Ursa Major |
+| _Honolikoya_ | Spirit of the rufescent tiger heron | unknown |
+| _Kasorhowakoya _ | Spirit of the four-eyed fish | λ Sco and υ Sco |
+| _Katarokoya_ | Spirit of the green sea turtle | Hercules |
+| _Hikorhikoya_ | Spirit of the yellow-footed tortoise | unknown |
+| _Kwakoya_ | Spirit of the blue crab | Orion |
+| _Ifakoya_ | Spirit of the Muscovy duck | Corona Australis |
+| _Awarhakoya_ | Spirit of the awara palm | Coma Berenices |
+| _Hadorhikoya_ | Spirit of the red acouchi  | unknown |
+| _Hokorherokoya_ | Spirit of the red-rumped agouti | unknown |
+| _Kabadarokoya _ | Spirit of the jaguar | unknown |
+| _Korhirhwathekoya _ | Spirit of the ocelot | unknown |
+| _Hawkoya_ | Spirit of the pale-throated sloth | unknown |
+| _Warhemedokoya_ | Spirit of the two-toed sloth | unknown |
+| _Yôwanakoya_ | Spirit of the green iguana | unknown |
+| _Yarheyarherokoya_ | Spirit of the lilac-tailed parrot | unknown |
+| _Marodikoya_ | Spirit of the marail guan | unknown |
+| _Hikarowanakoya_ | Spirit of the little cuckoo | unknown |
+| _Sûtukoya_ | Spirit of the red-handed tamarin | unknown |
+| _Howakoya_ | Spirit of the white-faced saki | unknown |
+| _Imenarikoya_ | Spirit of the scorpion | unknown |
+| _Korherokoya_ | Spirit of the parrot | unknown |
+| _Kasipenikoya_ | Spirit of a tortoise | unknown |
+| _Shimarhabokoya_ | Spirit of the bow and arrow | unknown |
+| _Arakabosakoya_ | Spirit of the gun | unknown |
+| _Maraka_ | Medicine-men’s rattle | unknown |
 
 
 ### Lokono astronomical knowledge: an introduction
@@ -256,53 +256,31 @@ _Kasipenikoya_ 'Spirit of the sea turtle'
 
 The constellation _Kasipenikoya_ ‘Spirit of the sea turtle’ was mentioned by Claudius de Goeje.[#11] It refers to the spirit of an unidentified species of a turtle. It may be the case that it is the same as _Katarokoya_. The term _kataro_ (_Chelonia mydas_) appears to be a term borrowed from Kari’na, it is thus possible that _kasipeni_ is the original Lokono term for the same turtle. However, there are several species of turtles in the Guianas, thus _kataro_ and _kasipeni_ can also refer to different species, and their spirits be identified with different constellations.
 
-### References
+## References
 
-[#1] Rybka, Konrad. 2015. [State-of-the-Art in the Development of the Lokono Language.](https://scholarspace.manoa.hawaii.edu/handle/10125/24635) Language Documentation and Conservation 9: 110–13.
-
-[#2] Rybka, Konrad. 2017. [Contact-Induced Phenomena in Lokono (Arawakan).](https://www.degruyter.com/view/books/9781614514886/9781614514886-010/9781614514886-010.xml) In Boundaries and Bridges, edited by Kofi Yakpo and Pieter C. Muysken. Berlin, Boston: De Gruyter, pp 257-281.
-
-[#3] Navarette, Rodrigo Pérez de. 1964. “Relación de Las Provicias y Naciones Que Los Indios Llamados Aruacas [Tienen] [...].” In Relaciones Geográficas de Venezuela, edited by Antonio Arellano Moreno, 83–87. Caracas: Academia Nacional de la Historia.
-
-[#4] Roth, Walter Edmund. 1924. An Introductory Study of the Arts, Crafts, and Customs of the Guiana Indians. Washington, DC: U.S. Government Printing Office.
-
-[#5] Goeje, Claudius Henricus de. 1943. Philosophy, Initiation and Myths of the Indians of Guiana and Adjacent Countries. Archives Internationales d’ethnographie. 44.
-
-[#6] Abbenhuis, M.F. 1939. Arawakken in Suriname: Enquête-Materiaal Voor Een Volkenkundige Studie. Paramaribo: Leo Victor.
-
-[#7] Coll, Cornelius van. 1903. “Gegevens over Land En Volk van Suriname I - Suriname’s Oorspronkelijke Bevolking.” Bijdragen Tot de Taal-, Land- En Volkenkunde / Journal of the Humanities and Social Sciences of Southeast Asia 55 (1): 453–529.
-
-[#8] Goeje, Claudius Henricus de. 1928. The Arawak Language of Guiana. Amsterdam: Uitgave van der Koninklijke Akademie von Wetenschappen te Amsterdam.
-
-[#9] Brett, William Henry. 1880. Legends and Myths of the Aboriginal Indians of British Guiana. London: Williams Wells Gardner.
-
-[#10] Roth, Walter Edmund. 1915. An Inquiry into the Animism and Folk-Lore of the Guiana Indians. Annual Report, Smithsonian Institution Bureau of American Ethnology 30. Washington: U.S. Government Printing Office.
-
-[#11] Goeje, Claudius Henricus de. 1942. “De Inwijding Tot Medicijnman Bij de Arawakken (Guyana) in Tekst En Mythe.” Bijdragen Tot de Taal-, Land- En Volkenkunde van Nederlandsch-Indië 101: 211–76.
-
-[#12] Im Thurn, Everard Ferdinand. 1883. Among the Indians of Guiana: Being Sketches Chiefly Anthropologic from the Interior of British Guiana. London: K. Paul, Trench &amp; Company.
-
-[#13] Laet, Joannes de. 1633. Novus Orbis, Seu Descriptionis Indiae Occidentalis Libri XVIII. Leiden: Apud Elzevirios.
-
-[#14] Brett, William Henry. 1868. The Indian Tribes of Guiana: Their Condition and Habits. London: Bell and Daldy.
-
-[#15] Baarle, Peter van, Mauricius Alberto Sabajo, van der Stap Gerdy, Sabajo Andreas L., and Sabajo Lucia L. 1989. Arhwaka lokonong djang: Arowakse taalkursus en woordenboek. Haarlem; Amsterdam: Sociaal-culturele Vereniging Ikyoshie ; Instituut voor Algemene Taalwetenschap, Universiteit van Amsterdam.
-
-[#16] Dance, Charles D. 1881. Chapters from a Guianese Log Book. Georgetown, Guyana.
-
-[#17] Penard, Frederik Paul, and Arthur Philip Penard. 1907. De Menschetende Aanbidders Der Zonneslang. Paramaribo: H.B. Heyde.
-
-[#18] Magaña, Edmundo, and Fabiola Jara. 1982. “The Carib sky.” Journal de la Société des Américanistes 68 (1): 105–32.
-
-[#19] Bennett, John P. 1995. Twenty-Eight Lessons in Loko (Arawak): A Teaching Guide. Georgetown, Guyana: Walter Roth Museum of Anthropology.
-
-[#20] Ahlbrinck, Willem. 1931. Encyclopaedie Der Karaïben. Amsterdam: Koninklijke Akademie van Wetenschappen.
-
-[#21] Schumann, Christian Ludwig. 1882. “Arawakish-Deutsches Wörterbuch.” In Grammaires Et Vocabulaires Roucouyenne, Arrouague, Piapoco Et D’autres Langues De La Région Des Guyanes, Par J. Crevaux, P . Sagot, L. Adam..., edited by Jules Nicolas Crevaux, Paul Antoine Sagot, and Lucien Adam, 7–165. Paris: Maisonneuve.
-
-[#22] Courtz, H. 2008. A Carib Grammar and Dictionary. Toronto, ON, Canada: Magoria Books.
-
-[#23] Arawak manuscripts, American Philosophical Society, manuscript number: [Mss.498.3.Sch8](https://search.amphilsoc.org/collections/view?docId=ead/Mss.498.3.Sch8-ead.xml), Page 562 in the original manuscript, which corresponds to page 576 in the digitalized document. The image was reduced in size, cropped, and reproduced here with the kind permission of the American Philosophical Society.
+ - [#1]: Rybka, Konrad. 2015. [State-of-the-Art in the Development of the Lokono Language.](https://scholarspace.manoa.hawaii.edu/handle/10125/24635) Language Documentation and Conservation 9: 110–13.
+ - [#2]: Rybka, Konrad. 2017. [Contact-Induced Phenomena in Lokono (Arawakan).](https://www.degruyter.com/view/books/9781614514886/9781614514886-010/9781614514886-010.xml) In Boundaries and Bridges, edited by Kofi Yakpo and Pieter C. Muysken. Berlin, Boston: De Gruyter, pp 257-281.
+ - [#3]: Navarette, Rodrigo Pérez de. 1964. “Relación de Las Provicias y Naciones Que Los Indios Llamados Aruacas [Tienen] [...].” In Relaciones Geográficas de Venezuela, edited by Antonio Arellano Moreno, 83–87. Caracas: Academia Nacional de la Historia.
+ - [#4]: Roth, Walter Edmund. 1924. An Introductory Study of the Arts, Crafts, and Customs of the Guiana Indians. Washington, DC: U.S. Government Printing Office.
+ - [#5]: Goeje, Claudius Henricus de. 1943. Philosophy, Initiation and Myths of the Indians of Guiana and Adjacent Countries. Archives Internationales d’ethnographie. 44.
+ - [#6]: Abbenhuis, M.F. 1939. Arawakken in Suriname: Enquête-Materiaal Voor Een Volkenkundige Studie. Paramaribo: Leo Victor.
+ - [#7]: Coll, Cornelius van. 1903. “Gegevens over Land En Volk van Suriname I - Suriname’s Oorspronkelijke Bevolking.” Bijdragen Tot de Taal-, Land- En Volkenkunde / Journal of the Humanities and Social Sciences of Southeast Asia 55 (1): 453–529.
+ - [#8]: Goeje, Claudius Henricus de. 1928. The Arawak Language of Guiana. Amsterdam: Uitgave van der Koninklijke Akademie von Wetenschappen te Amsterdam.
+ - [#9]: Brett, William Henry. 1880. Legends and Myths of the Aboriginal Indians of British Guiana. London: Williams Wells Gardner.
+ - [#10]: Roth, Walter Edmund. 1915. An Inquiry into the Animism and Folk-Lore of the Guiana Indians. Annual Report, Smithsonian Institution Bureau of American Ethnology 30. Washington: U.S. Government Printing Office.
+ - [#11]: Goeje, Claudius Henricus de. 1942. “De Inwijding Tot Medicijnman Bij de Arawakken (Guyana) in Tekst En Mythe.” Bijdragen Tot de Taal-, Land- En Volkenkunde van Nederlandsch-Indië 101: 211–76.
+ - [#12]: Im Thurn, Everard Ferdinand. 1883. Among the Indians of Guiana: Being Sketches Chiefly Anthropologic from the Interior of British Guiana. London: K. Paul, Trench &amp; Company.
+ - [#13]: Laet, Joannes de. 1633. Novus Orbis, Seu Descriptionis Indiae Occidentalis Libri XVIII. Leiden: Apud Elzevirios.
+ - [#14]: Brett, William Henry. 1868. The Indian Tribes of Guiana: Their Condition and Habits. London: Bell and Daldy.
+ - [#15]: Baarle, Peter van, Mauricius Alberto Sabajo, van der Stap Gerdy, Sabajo Andreas L., and Sabajo Lucia L. 1989. Arhwaka lokonong djang: Arowakse taalkursus en woordenboek. Haarlem; Amsterdam: Sociaal-culturele Vereniging Ikyoshie ; Instituut voor Algemene Taalwetenschap, Universiteit van Amsterdam.
+ - [#16]: Dance, Charles D. 1881. Chapters from a Guianese Log Book. Georgetown, Guyana.
+ - [#17]: Penard, Frederik Paul, and Arthur Philip Penard. 1907. De Menschetende Aanbidders Der Zonneslang. Paramaribo: H.B. Heyde.
+ - [#18]: Magaña, Edmundo, and Fabiola Jara. 1982. “The Carib sky.” Journal de la Société des Américanistes 68 (1): 105–32.
+ - [#19]: Bennett, John P. 1995. Twenty-Eight Lessons in Loko (Arawak): A Teaching Guide. Georgetown, Guyana: Walter Roth Museum of Anthropology.
+ - [#20]: Ahlbrinck, Willem. 1931. Encyclopaedie Der Karaïben. Amsterdam: Koninklijke Akademie van Wetenschappen.
+ - [#21]: Schumann, Christian Ludwig. 1882. “Arawakish-Deutsches Wörterbuch.” In Grammaires Et Vocabulaires Roucouyenne, Arrouague, Piapoco Et D’autres Langues De La Région Des Guyanes, Par J. Crevaux, P . Sagot, L. Adam..., edited by Jules Nicolas Crevaux, Paul Antoine Sagot, and Lucien Adam, 7–165. Paris: Maisonneuve.
+ - [#22]: Courtz, H. 2008. A Carib Grammar and Dictionary. Toronto, ON, Canada: Magoria Books.
+ - [#23]: Arawak manuscripts, American Philosophical Society, manuscript number: [Mss.498.3.Sch8](https://search.amphilsoc.org/collections/view?docId=ead/Mss.498.3.Sch8-ead.xml), Page 562 in the original manuscript, which corresponds to page 576 in the digitalized document. The image was reduced in size, cropped, and reproduced here with the kind permission of the American Philosophical Society.
 
 ## Authors
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Japanese astronomy adopted the Chinese concepts and constellations, i.e. the asterisms as well as the division of the path of the Moon into 28 "stations" (lunar mansions) as a frame of reference in right ascension.  
+The Japanese astronomy adopted the Chinese concepts and constellations, i.e. the asterisms as well as the division of the path of the Moon into 28 "stations" (lunar mansions) as a frame of reference in right ascension.
 
 ## Description
 
@@ -81,10 +81,9 @@ The 7 Lunar Stations of the "South" or "Red Bird".
 
 ## References
 
-- [A Cultural History of Astronomy in Japan](http://www.academia.edu/5293593/A_Cultural_History_of_Astronomy_in_Japan) by Steve Renshaw
-- Z Xu, W Pankenier, Y Jiang: East-Asian Archaeoastronomy: Historical Records of Astronomical Observations of China, Japan and Korea, Cambria Press, New York,  2000
-- David W. Pankenier, Xu Zhentao, and Jiang Yaotiao: East-Asian Archaeoastronomy: Historical Observational Records of Comets and Meteor Showers from China, Japan, and Korea, Cambria Press, NY, 2008
-
+ - [#1]: [A Cultural History of Astronomy in Japan](http://www.academia.edu/5293593/A_Cultural_History_of_Astronomy_in_Japan) by Steve Renshaw
+ - [#2]: Z Xu, W Pankenier, Y Jiang: East-Asian Archaeoastronomy: Historical Records of Astronomical Observations of China, Japan and Korea, Cambria Press, New York,  2000
+ - [#3]: David W. Pankenier, Xu Zhentao, and Jiang Yaotiao: East-Asian Archaeoastronomy: Historical Observational Records of Comets and Meteor Showers from China, Japan, and Korea, Cambria Press, NY, 2008
 
 ## Authors
 

@@ -15,7 +15,7 @@ Ptolemy's catalogue of stars listed orthogonal coordinates in the ecliptical coo
 
 Ptolemy's _Almagest_ was translated into Arabic twice in the 9th century and the Arabic translation was translated into Medieval Latin earlier than the Greek original. Thus, many modern star names are (or are based on) the star descriptions in the Arabic Almagest.
 
-### Constellations 
+### Constellations
 
 This Arabic sky culture uses the classical _48 constellations_ of the Greek _Almagest_.
 These constellations were described by several Arab and Islamic authors, one of those who left an indelible influence on the Arabic observation and study of stars is the astronomer _Abū al-Husayn ‘Abd Al-Rahmān al-Sūfī_ (903-986), known also by his Latinized name of _Azophi_, who systematically revised Ptolemy's catalogue of stars.
@@ -27,7 +27,7 @@ The oldest surviving copy was produced by his son around _1010 CE_ and is preser
 Cetus as seen in the sky in an old manuscript of Al-Sufi book [#3].
 {: .img_and_caption }
 
-### The origin of star names 
+### The origin of star names
 
 Almost all modern star names originate from long traditions. They are a part of the collective cultural heritage of humanity. 
 
@@ -53,9 +53,9 @@ Local tradition of the peoples of _Islamic lands_ in the Arabian Peninsula and i
  - [#5]: List of Arabic Star Names [article on Wikipedia](http://en.wikipedia.org/wiki/List_of_Arabic_star_names).
  - [#6]: Richard Hinckley Allen. _Star Names — Their Lore and Meaning_. [Link](http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/home.html)
  - [#7]: Islamic science heritage. _Arabic Star Names: A Treasure of Knowledge Shared by the World._ [Link](http://www.muslimheritage.com/article/arabic-star-names-treasure-knowledge-shared-world)
- - [#8] [The Arab Astronomy Forum](http://www.jas.org.jo/forum/viewtopic.php)
- - [#9] [The Islamic Crescent's Observation Project "ICOP"](http://www.icoproject.org/star.html) for granting a permission to use there lists of "Arabic" Constellations and star names.
- - [#10] Arabic Stellarium Translation team
+ - [#8]: [The Arab Astronomy Forum](http://www.jas.org.jo/forum/viewtopic.php)
+ - [#9]: [The Islamic Crescent's Observation Project "ICOP"](http://www.icoproject.org/star.html) for granting a permission to use there lists of "Arabic" Constellations and star names.
+ - [#10]: Arabic Stellarium Translation team
 
 ## Authors
 

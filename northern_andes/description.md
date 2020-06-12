@@ -2,11 +2,11 @@
 
 ## Introduction
 
-The Northern Andes in the South American subcontinent provide a human culture with strong relations to the surrounding nature: They observed the sky through nature "mirrors" (lakes of plain water level) and the changing trails of Sun, Moon, and stars with the help of mountain shapes. This way, they determined the calendar, knew when to seek rescueage from snow and ice or heat for themselves or their animals and plants. 
+The Northern Andes in the South American subcontinent provide a human culture with strong relations to the surrounding nature: They observed the sky through nature "mirrors" (lakes of plain water level) and the changing trails of Sun, Moon, and stars with the help of mountain shapes. This way, they determined the calendar, knew when to seek rescueage from snow and ice or heat for themselves or their animals and plants.
 
 ## Description
 
-### Northern Andes 
+### Northern Andes
 
 The have a complex laboratory that teaches us about the different sciences that humanity has contemplated in its history. Starting from observation to the various elements that surround us, with the need to ensure our survival as a species and lineage, the human being learned to understand the constantly emitted signals of the cosmos: in plants, animals, the climate and other elements. Then the wise learned to warn about the changes that affect living beings.
 
@@ -16,7 +16,7 @@ The Stellarium simulation allows us to recreate these "cosmic mirrors" and analy
 
 Here we tell what we found in the equatorial skies:
 
-### The Sun (Punchao o Wilca) 
+### The Sun (Punchao o Wilca)
 
 When we find ourselves in the center of the planet, the apparent movement that the sun makes through our annual journey around it is equidistant and proportional. At the equinoxes the sun will cross the center of the sky (zenith), on the solstice of June it will travel its southernmost road (it will go north) and on the solstice of December the northernmost path will be traveled (more to the south). These natural phenomena are the marks of the four main festivals that celebrate a specific part of the agricultural calendar because they are the points of inflection between the climatic seasons.
 
@@ -58,10 +58,10 @@ Here we describe the constellations decoded to date:
 
 #### Dark Constellations
 
- | description | image |
+| description | image |
 |-----------|------------------|
 | Estelina Quinatoa (The Jaguar): Constellation that governs the male cycle, also called "Wilca" or "Otorongo", indicates the arrival of the crops of tender grains. | ![](jaguar.webp) |
-|  Mercedes Cotacachi (The Monkey): Constellation that governs the female cycle, indicates the arrival of rains and the start of agricultural processes. | ![](mono.webp) |
+| Mercedes Cotacachi (The Monkey): Constellation that governs the female cycle, indicates the arrival of rains and the start of agricultural processes. | ![](mono.webp) |
 | Hernán Crespo Toral (The Frog): The "Hampatu" is the animal that has several stages, like the Andean thought, it appears on the night of the June solstice and it is related to the contact with the world of the dead. | ![]{sapo.webp) |
 | Ana Jaramillo de Velasteguí (The Warrior): Known as "the Man and the Spear" or "The Dancer", the constellation governs the December solstice. | ![](guerrero.webp) |
  

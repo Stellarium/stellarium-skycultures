@@ -8,11 +8,11 @@ Mongolia lies in central Asia. The native people are nomads moving between the t
 
 Mongolian constellations and cosmogony were inherited from the occidental civilisation notably by the contact with Alexander the Great whose scholars considered Babylonian astral science as highest standard. It was also largely influenced by Chinese civilisation and Buddhist religion, resulting in numerous myths and beliefs linked with what surrounds them. The local wild and fauna are the main themes of this skyculture. The wealth of their cosmogony is probably to link with the observation conditions for whom they benefit even now. In the past, the necessity for them to move and to get one's bearing even during the night and at different seasons, is probably one of the elements which developed their imagination facing the sky. 
 
-###  Constellations 
+### Constellations
 
  Generally, stars represent animals turning around the North Star which is symbolized by the golden stick (_Altan Hadaas_). Almost all Mongolian asterisms are similar to the modern ones but some of them have different names, e.g.: the Swan is named _Num Sum_ (The Bow and the Arrow) and the Big Dipper is called _Doloon Burkhan_. In the Mongolian imagination, the stars of the summer triangle, i.e. Vega, Deneb and Altair, refer to three stags (_Gurvan Maral Od_ inMongolian) and Cassiopeia represents the Five Stars Woman (_Hun Tavan Od_).
 
-###  Planets and Stars 
+### Planets and Stars
 
  Originally, Tibeto-Mongolian astrology calculated the positions of each of the five naked eye planets (Mercury, Venus, Mars, Jupiter, Saturn): planets beyond Saturn were not recognized in the pre-telescopic era. 
 
@@ -22,7 +22,7 @@ Mongolian constellations and cosmogony were inherited from the occidental civili
 
  From a historic point of view, this excellent knowledge of the sky goes back to _Ulug Beg_ (AD 1394-1449; _Taraghay_ by his real name), astronomer, mathematician and vice-king in Samarkand. His empire extended to Central Asia. Turning away from his royal obligations, he examined celestial bodies and astronomical questions of his time. He is the first to extremely precisely measure Saturn's revolution period (_Sanchir_) with a sextant of 40 meters radius. 
 
-###  Myths and Legends 
+### Myths and Legends
 
 #### The Great Bear
 
@@ -44,7 +44,7 @@ Mongolian constellations and cosmogony were inherited from the occidental civili
 
  Shooting stars have also a specific meaning: they are personified through their beliefs. When they see these shooting stars they imagine that it is a star which falls from the sky and which symbolizes somebody who just died. Whereas occidental people make a wish, Mongolians say: "Phew, it is not me!" (which is also a common belief among nomadic people of the West Sahara and some Arabic tribes). 
 
-#### Neglected Legends 
+#### Neglected Legends
 
  Three legends just as rich in meaning concern the Sun, eclipses and _Hun Tavan Od_ (Cassiopeia). However, they are nowadays neglected and almost forgotten by most Mongolians: 
 
@@ -68,7 +68,7 @@ When there is an eclipse, Mongolians know that it means that _Raah_ devours the 
 > "Some \[Mongolian people\] have knowledge in astronomy and predict them \[to other Mongolian people\] the Lunar and Solar eclipses and, when it is about to produce one, everybody stocks up on food because they do not pass the door of their habitation. And while the eclipse happens, they play the drum and instruments and make big noise and clamors. When the eclipse is finished, they devote themselves to beverage and festivity and make a big party."
 > 
 
-(Source: [#1]) 
+(Source: [#1])
 
 Eclipse travelers in 2008 still witnessed drivers and cooks hiding in their tents and making noise with the pots. It seemed authentic, not a show for the tourists. Also note the similarity of _Raah_ with Indian _Rahu_.
 
@@ -80,13 +80,13 @@ Cassiopeia (_Hun Tavan Od_) symbolises unity, brotherhood, solidarity for the Mo
 > Them did not get well along with each other and squabbled all the time. Their mother decided to strongly tie five ropes, and each one should try to untie a knot. If they succeeded, it meant that they didn't remain united with other, and that the brotherhood didn't gather in hard times. Conversely, if the knots withstood the test, the five brothers would remain united and close for the rest of their lives and would be victorious at the time of wars.
 > 
 
-####  Other Beliefs Linked to the Sky
+#### Other Beliefs Linked to the Sky
 
 According to a Mongolian legend, a woman devoting herself to count one hundred stars in the sky will dream about her future husband.
 
  Sometimes, Mongolians honor the Great Bear (_Doloon Burkhan_) by throwing milk in its direction. Milk, of white color, symbolizes purity in Mongolia. They pray so that something may be fulfilled, but for several persons, not for just one person, because this would bring bad luck. Milk can be replaced by vodka which, due to its colorlessness, symbolizes the dark color and the strength for Mongolians. By doing this, it avoids bad luck, quarrels, fear and fends off evil spirits.
 
-###  Conclusion
+### Conclusion
 
  The constellations are inspired by occidental ones, but the Mongolian cosmogony, briefly exposed here, highlights a notable identity of beliefs which are associated with it. Mongolian culture and knowledge transmission is essentially verbal, and so few written traces exist about these subjects. It is therefore particularly hard to relate their cosmogony with high fidelity and precision. In order to preserve knowledge about this cosmogony, every observation, suggestions or collaboration are welcome!
 
@@ -99,9 +99,8 @@ According to a Mongolian legend, a woman devoting herself to count one hundred s
 
 ## References
 
- [#1] Les astres chez les Turcs et les Mongols_ by Jean-Paul Roux(French). _Revue de l'histoire des religions_, tome 195 n°2,1979. pp; 153-192.
-
- [#2] [Johan Elverskog: The Mongolian Big Dipper Sutra.](https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/download/8974/2867) Journal of the International Association of Buddhist Studies 29 Nr1 2006(2008), pp87-123.
+ - [#1]: Les astres chez les Turcs et les Mongols_ by Jean-Paul Roux(French). _Revue de l'histoire des religions_, tome 195 n°2,1979. pp; 153-192.
+ - [#2]: [Johan Elverskog: The Mongolian Big Dipper Sutra.](https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/download/8974/2867) Journal of the International Association of Buddhist Studies 29 Nr1 2006(2008), pp87-123.
 
 ## Authors
 

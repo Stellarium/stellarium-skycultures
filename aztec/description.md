@@ -20,13 +20,13 @@ Unfortunately, there is only little astronomical knowledge of the Aztec preserve
 
 ## Constellations
 
-**Mamalhuaztli**
+##### Mamalhuaztli
 
 Ancient Aztec named Orion's Belt 'Mamalhuaztli'. It represented the wood sticks used to light the new fire in the commemoration celebrated every 52 years by the Mexicans and their neighbors. This celebration was named _toxiuh molpilia_ which means 'binding of the years' and coincided with the beginning of the new year named _xiuhtzitzquilo_.
 
 ![](mamalhuaztli_image.webp)
 
-**Tianquiztli**
+##### Tianquiztli
 
 For the Mexicans, the group of stars known as Pleiades symbolized _Tianquiztli_ (the Market), perhaps because of the crowd that gathers on them. Normally, they are represented by one or two people inside a circle with goods.
 
@@ -34,11 +34,11 @@ For the Mexicans, the group of stars known as Pleiades symbolized _Tianquiztli_ 
 
 Nowadays, in Mexico the informal market or street markets are called _Tianguis_.
 
-**Citlaltlachtli**
+##### Citlaltlachtli
 
 The constellation of Gemini was called _Citlaltlachtli_, which means the ball game of the stars. This game was endowed with a ritual significance and used a natural rubber ball. It is said that the movement of the ball within the playing field refers to the movement of the Sun and Moon.
 
-**Xonecuilli**
+##### Xonecuilli
 
 The constellation of Ursa Minor, the Little Bear, is identified as _Xonecuilli_ (the Twisted foot). It is related to _Nanahuatzin_, a character represented with twisted feet, filled with boils and sores. This sick and poor God sacrificed himself to become _Tonatiuh_, the Sun god.
 
@@ -50,7 +50,7 @@ Apparently, this constellation name can also be associated with the Southern Cro
 Xonecuilli
 {: .img_and_caption }
 
-**Colotl Ixayac**
+##### Colotl Ixayac
 
 According to the Florentino Codex, Sahagun's informants identified a group of stars known as _Citlalcolotl_ with the stars of the Scorpion. In turn, Tezozomoc also mentions the scorpion star and he called it _Colotlixayac_, which means face of a scorpion.
 
@@ -58,9 +58,19 @@ According to the Florentino Codex, Sahagun's informants identified a group of st
 In a section of the Paris Codex called zodiac pages [#3],[#10], the scorpion is also mentioned. In this codex the icons shows figures of animals hanging from the body of the Celestial Dragon.
 {: .img_and_caption }
 
-## Conclusion
+### Conclusion
 
 It is noteworthy that the interpretation of some of these constellations are still in discussion, and of course there must be other constellations to represent. Any comments and/or collaboration are welcome in order to preserve the stellar knowledge, myths and starlore of the Aztec culture.
+
+### Thanks
+
+ - Javier Gómez Sandoval
+ - Martha Patricia Rivera
+ - Emilio Ramón Bolaños Guerra
+ - Hector Vega
+ - Rafael Rojas Segoviano
+ - Juan Caballero
+ - SAAGS
 
 ## References
 
@@ -78,15 +88,6 @@ It is noteworthy that the interpretation of some of these constellations are sti
  - [#12]: [Diccionario náhuatl - español en línea en AULEX](http://aulex.org/nah-es/)
  - [#13]: language: [Tlachtli](http://sepiensa.org.mx/contenidos/fd_depo/nahuatl/tlach_1.html)
 
-**Thanks to**
-
- - Javier Gómez Sandoval
- - Martha Patricia Rivera
- - Emilio Ramón Bolaños Guerra
- - Hector Vega
- - Rafael Rojas Segoviano
- - Juan Caballero
- - SAAGS
 
 ## Authors
 

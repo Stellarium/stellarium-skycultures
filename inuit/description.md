@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Inuit are the indigenous peoples in the arctic areas of America, i.e. central and northeast Canada and Greenland. Their culture is part of the various arctic and subarctic cultures but the term "Eskimo" refers to a much larger group (also including peoples from Alaska and on both sides of the Behring Strait). 
+The Inuit are the indigenous peoples in the arctic areas of America, i.e. central and northeast Canada and Greenland. Their culture is part of the various arctic and subarctic cultures but the term "Eskimo" refers to a much larger group (also including peoples from Alaska and on both sides of the Behring Strait).
 
 ## Description
 

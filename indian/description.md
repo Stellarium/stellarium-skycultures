@@ -26,26 +26,25 @@ In mythology the Nakshatras are considered to be the 27 daughters of Daksha Praj
 
 The names of the lunar months originated from those 12 division names in which full moon or "Purnimā" occurs. Unlike a solar day which is defined by a sunrise to next sunrise, a lunar day or moon's position in a nakshatra doesn't depends on the Sun's or Moon's rise. Thus a lunar day may start at any time of a solar day. Like other ancient human cultures, Vedic people invented a number of systems for intercalation of lunar months, i.e. adding another month every 32.5 months on average or 4 months in every 11 years to correct the mismatch between lunar and solar year.
 
- | Solar Months | Lunar Months | Modern | Season | 
- |--------------|--------------|--------|--------|
- | Meṣa 		| Vaiśakhā 	| Apr-May 	| Grīṣma (Summer) | 
- | Vṛṣabha 		| Jyeṣṭha 	| May–June 	| Grīṣma (Summer) | 
- | Mithuna 		| āṣāṛā 	| June–July | Varṣā (Monsoon) | 
- | Karkaṭa 		| śrabaṇā 	| July-Aug 	| Varṣā (Monsoon) | 
- | Siṃha 		| Bhādra 	| Aug-Sept 	| Śarad (Autumn) | 
- | Kanyā 		| Aśvin 	| Sept-Oct 	| Śarad (Autumn) | 
- | Tulā 		| Kārtik 	| Oct-Nov 	| Hemanta (Pre-Winter) | 
- | Vṛścika 		| Agāhāna 	| Nov-Dec 	| Hemanta (Pre-Winter) | 
- | Dhanu 		| Pauṣa 	| Dec-Jan 	| Śiśira (Winter) | 
+| Solar Months | Lunar Months | Modern | Season |
+|--------------|--------------|--------|--------|
+| Meṣa 		| Vaiśakhā 	| Apr-May 	| Grīṣma (Summer) |
+| Vṛṣabha 		| Jyeṣṭha 	| May–June 	| Grīṣma (Summer) |
+| Mithuna 		| āṣāṛā 	| June–July | Varṣā (Monsoon) |
+| Karkaṭa 		| śrabaṇā 	| July-Aug 	| Varṣā (Monsoon) |
+| Siṃha 		| Bhādra 	| Aug-Sept 	| Śarad (Autumn) |
+| Kanyā 		| Aśvin 	| Sept-Oct 	| Śarad (Autumn) |
+| Tulā 		| Kārtik 	| Oct-Nov 	| Hemanta (Pre-Winter) |
+| Vṛścika 		| Agāhāna 	| Nov-Dec 	| Hemanta (Pre-Winter) |
+| Dhanu 		| Pauṣa 	| Dec-Jan 	| Śiśira (Winter) |
  | Makara 		| Magha 	| Jan-Feb 	| Śiśira (Winter) | 
- | Kumbha 		| phālguna 	| Feb-Mar 	| Vasanta (Spring) | 
- | Mīna 		| Chaitrā 	| Mar-Apr 	| Vasanta (Spring) | 
- |  -  			| Adhikā 	| Leap month |  -  | 
-
+| Kumbha 		| phālguna 	| Feb-Mar 	| Vasanta (Spring) |
+| Mīna 		| Chaitrā 	| Mar-Apr 	| Vasanta (Spring) |
+|  -  			| Adhikā 	| Leap month |  -  |
 
 A few of the _yogatārā_-s or prominent asterisms in the _nakṣatra_-s (going by their mainstream identification) lie slightly outside their constellation boundaries. In these cases, any resultant problem (with regards to ritual timing or astrology) should be solved by other means, e.g. some people propose alternate identifications for such _yogatārā_-s.
 
-### Navagraha - Nine planets 
+### Navagraha - Nine planets
 
 They observed that some celestial bodies move independently relative to the background stars; they named them planets or "graha". By this definition (moving), the Sun and Moon are also treated as _graha_ or planet. The Vedic also named the lunar nodes as planets as these points are very inportant to calculate the eclipses. The name of Vedic days originated from these planet's names.
 
@@ -64,21 +63,17 @@ They observed that some celestial bodies move independently relative to the back
 
 ## References
 
- - [#1] Saha, M.N. and Lahiri, N.C.: History of the Calendar, New Delhi 1992 
- - [#2] [History Of Calendar-Panchanga Committee Report](https://archive.org/stream/HistoryOfCalendarPanchangaCommittee/History-of-Calendar-Panchanga-Committee#page/n77/mode/2up)  
- - [#3] [Possible period of the design of Nakshatras and Abhijit](http://www.tifr.res.in/~archaeo/papers/Others/Possible%20period%20of%20the%20design%20of%20Nakshatras.pdf) 
- - [#4] [Nakshatra](https://sa.wikipedia.org/wiki/नक्षत्रम्  ) article at Sanskrit Wikipedia
- - [#5] [Nakshatra](http://en.wikipedia.org/wiki/Nakshatra) article at English Wikipedia  
- - [#6]	[List on Nakshatra](https://goo.gl/2PVi28) at Sanskrit Wikipedia
-
-**Thanks to our Contributors**
-
- - [#7] Contributors from the [sanskrit-coders community](https://github.com/sanskrit-coders).
+ - [#1]: Saha, M.N. and Lahiri, N.C.: History of the Calendar, New Delhi 1992
+ - [#2]: [History Of Calendar-Panchanga Committee Report](https://archive.org/stream/HistoryOfCalendarPanchangaCommittee/History-of-Calendar-Panchanga-Committee#page/n77/mode/2up)
+ - [#3]: [Possible period of the design of Nakshatras and Abhijit](http://www.tifr.res.in/~archaeo/papers/Others/Possible%20period%20of%20the%20design%20of%20Nakshatras.pdf)
+ - [#4]: [Nakshatra](https://sa.wikipedia.org/wiki/नक्षत्रम्  ) article at Sanskrit Wikipedia
+ - [#5]: [Nakshatra](http://en.wikipedia.org/wiki/Nakshatra) article at English Wikipedia
+ - [#6]: [List on Nakshatra](https://goo.gl/2PVi28) at Sanskrit Wikipedia
 
 ## Authors
 
 Tanmoy Saha, groups.google.com/forum/#!forum/sanskrit-programmers
-
+Contributors from the [sanskrit-coders community](https://github.com/sanskrit-coders).
 Re-worked by Susanne M Hoffmann 
 
 ## Licence

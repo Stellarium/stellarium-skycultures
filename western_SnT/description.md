@@ -1,4 +1,4 @@
-# Modern (Sky & Telescope,2014)
+# Modern (Sky & Telescope, 2014)
 
 ## Introduction
 
@@ -6,15 +6,15 @@ In 1928, the International Astronomical Union (IAU) only defined the boundaries 
 
 ## Description
 
-Nowadays, the sky is divided into 88 areas that have the same names as historical constellations, mostly originating from ancient Greek star catalogues (see "Modern (default)" sky culture for description). 
+Nowadays, the sky is divided into 88 areas that have the same names as historical constellations, mostly originating from ancient Greek star catalogues (see "Modern (default)" sky culture for description).
 
 The popular American magazine of astronomy "Sky & Telescope" [#1] hired an own painter for stick figures but no constellation artwork. As readers of this magazine, the Sky Atlas 2000.0, and the S&T Pocket Sky Atlas are used to this style and might prefer it, Stellarium was enabled to display it.
 
-**Constellations**
+### Constellations
 
 The areas of the 88 constellations with precise boundaries are taken from the International Astronomical Union [#4].
 
-**Star names**
+### Star names
 
 The method used by Sky & Telescope to select "their" star names from historical ones is explained in detail in their Style Book: SnT_star_names.docx file. It is strongly based on Bayer's and Flamsteed's historical atlases and strongly influenced by [#6], [#7], and [#8].
 

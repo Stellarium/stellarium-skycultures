@@ -8,7 +8,7 @@ Chinese astronomy was developed independently; the Chinese had its own system to
 
 Stellarium currently provides roughly 300 Chinese asterisms, called Xingguan (Chinese: 星官; pinyin: xīngguān, meaning: Star officials), and is without any Chinese star names. A project conducted by community member G.S.K.Lee is now underway to construct a complete Chinese sky culture set for Stellarium based on the information inside _Complete Studies of Astronomical Instruments_ (Chinese: 仪象考成; pinyin: Yíxiàngkǎochéng), an imperial record of astronomy finished in 1756. It was revised in 1844, published _The Continuation of Complete Studies of Astronomical Instruments_ (Chinese: 仪象考成续编; pinyin: Yíxiàngkǎochéng xùbiān), which is the major reference to the traditional Chinese Xingguans and star names used today.
 
-### Sun, Moon and Planets 
+### Sun, Moon and Planets
 
 In western astronomy, the planets are named after gods. The ancient Chinese understanding of five planets is based on five-element concepts. The wood is green, the fire is red, the earth is yellow, the metal is white, the water is black. So, Mercury is named Water Star, Venus is named Metal Star, Mars is named Fire Star, Jupiter is named Wood Star, Saturn is named Earth Star.
 
@@ -16,7 +16,7 @@ In Chinese, the Sun and the Moon are named after Yin and Yang (which contain "gr
 
 The Sun, the Moon and the five planets form Seven Luminaries (Chinese:七曜,pinyin:qīyào), which correspond to the Five Elements and Yin and Yang.
 
-### Xingguans (asterisms) 
+### Xingguans (asterisms)
 
 Traditional Chinese astronomy has a system of grouping stars to asterisms or constellations, known as "Xingguan". Their names and layout are very social, concerning the kingdom, the mountains, the goods, the industry in order to project everything of the world of humans into the sky.
 
@@ -28,7 +28,7 @@ _Complete Studies of Astronomical Instruments_ has 300 Xingguans in total.
 
 Modern constellations refer to specific areas of the celestial sphere. Xingguans refer only to the way stars are distributed, with no specific boundaries between Xingguans.
 
-### Star names 
+### Star names
 
 A Xingguan can contain from one to several dozens of stars. The so called single star asterisms among the Xingguans can be treated like star names. In Xingguan of two or more stars, each star has a number; the naming of stars in ancient China is the name of the Xingguan plus a number. However, there can be more than one way of numbering the stars within one asterism, thus, there can be more than one "name" for a certain star.
 
@@ -45,7 +45,7 @@ Unlike Xingguans, traditional Chinese star names are still in common usage today
 ![](suzhouskxt.webp)  
 _The astronomical map of Suzhou, engraved in black marble (1247)_  {: .img_and_caption }
 
-### Three Enclosures 
+### Three Enclosures
 
 The 3 enclosures are regions which are summarizing many smaller asterisms. The enclosure of the Purple Forbidden Palace (Chinese: 紫微垣, pinyin: Zǐwēi yuán) surrounds almost the whole circumpolar area while the enclosures of the Supreme Palace (Chinese: 太微垣, pinyin: Tàiwēi yuán) and the Heavenly Market Place (Chinese: 天市垣, pinyin: Tiānshì yuán) are located close to the ecliptic.
 
@@ -71,7 +71,7 @@ Traditional Chinese coordinates are given in "degrees right ascension" within a 
 
 The 28 mansion asterisms are grouped into Four Holy Beasts (Chinese: 象 pinyin: xiàng), each containing seven mansions corresponding to seven luminaries. The Four Holy Beasts are the White Tiger of the East, The Red Bird of the South, the Azure Dragon of the West and the Dark Warrier of the North. As they all lay around the ecliptic, the association with the compass direction does not correspond to the real horizon.
 
-**The List of The Twenty-Eight Mansions** 
+List of The Twenty-Eight Mansions:
 
 |Seven Luminaries|        | Wood | Metal | Earth | Sun | Moon | Fire | Water |
 |---------------|---------|------|-------|-------|-----|------|------|-------|
@@ -139,13 +139,13 @@ The cultural connotations of the name cannot be explained perfectly, because tho
 
 ## References
 
-- [#1] Sun Xiaochun and Jacob Kistemaker: The Chinese sky during the Han, Brill, Leiden, 2007 
-- [#2] Rufus, Carl and Tien, Hsing-Chih: The Soochow Astronomical Chart, University of Michigan Press, Ann Arbor, Michigan, USA, 1945
-- [#3] The Suzhou map [digitized](http://www.chinesehsc.org/zoomify/suzhou_planisphere.html)
-- [#4] [English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Names](http://www.lcsd.gov.hk/CE/Museum/Space/en_US/web/spm/starshine/resources/constemyth/glossary.html)
-- [#4] [AEEA Astronomy Education Information-Ancient Chinese constellation system ](http://aeea.nmns.edu.tw/aeea/contents_list/star_sign.html)
-- [#5] [Chinese constellations (Wikipedia)](http://en.wikipedia.org/wiki/Chinese_constellations)
-- [#6] [Traditional Chinese star names (Wikipedia)](https://en.wikipedia.org/wiki/Traditional_Chinese_star_names)
+ - [#1]: Sun Xiaochun and Jacob Kistemaker: The Chinese sky during the Han, Brill, Leiden, 2007
+ - [#2]: Rufus, Carl and Tien, Hsing-Chih: The Soochow Astronomical Chart, University of Michigan Press, Ann Arbor, Michigan, USA, 1945
+ - [#3]: The Suzhou map [digitized](http://www.chinesehsc.org/zoomify/suzhou_planisphere.html)
+ - [#4]: [English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Names](http://www.lcsd.gov.hk/CE/Museum/Space/en_US/web/spm/starshine/resources/constemyth/glossary.html)
+ - [#4]: [AEEA Astronomy Education Information-Ancient Chinese constellation system ](http://aeea.nmns.edu.tw/aeea/contents_list/star_sign.html)
+ - [#5]: [Chinese constellations (Wikipedia)](http://en.wikipedia.org/wiki/Chinese_constellations)
+ - [#6]: [Traditional Chinese star names (Wikipedia)](https://en.wikipedia.org/wiki/Traditional_Chinese_star_names)
 
 
 ## Authors

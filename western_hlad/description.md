@@ -2,19 +2,19 @@
 
 ## Introduction
 
-This Czech print atlas was commonly used in the pre-digital era and, therefore, displays canonical modern constellations that had been defined by the International Astronomical Union (IAU) in 1928.  
+This Czech print atlas was commonly used in the pre-digital era and, therefore, displays canonical modern constellations that had been defined by the International Astronomical Union (IAU) in 1928.
 
 ## Description
 
 The constellations in this sky culture follow the 88 IAU-constellations but the lines connect only bright stars. The sky culture addresses the modern city downtown inhabitant in a light polluted environement.
 
-This set of stickfigures reproduces the classical Czech publication: Hlad, Hovorka, Polechová, Weiselová (1988): Hvězdná obloha 2000.0. Praha: Geodetický a kartografický podnik - according to classical Czech publication [#1]. This is a folder of loose sheets (62x46cm) with 85,000 celestial objects and very decent line prints of the modern constellations. 
+This set of stickfigures reproduces the classical Czech publication: Hlad, Hovorka, Polechová, Weiselová (1988): Hvězdná obloha 2000.0. Praha: Geodetický a kartografický podnik - according to classical Czech publication [#1]. This is a folder of loose sheets (62x46cm) with 85,000 celestial objects and very decent line prints of the modern constellations.
 
 ![](hvezdna_obloha_2000.webp)![](obloha_na_dlani.webp)
 
 There are (rather similar) Czech and Slovak references: [#2] and [#3]. 
 
-The atlas contains not only stars but also deep sky objects and transients (novae and supernovae); newer editions are based on the data hosted online by the Centre des données stellaires, Observatoire de Strasbourg. 
+The atlas contains not only stars but also deep sky objects and transients (novae and supernovae); newer editions are based on the data hosted online by the Centre des données stellaires, Observatoire de Strasbourg.
 
 These Czech constellation lines are designed to basically connect stars with Greek-letter (α, β, γ, ...) designations, which are the brightest stars of the constellations. In some cases, similarly bright stars without such position in the classical Greek figure are included, especially when they form a mnemotechnic figure (like the 'W' in case of Cas, or 'hurdles-runner' instead of Vir).
 
@@ -26,7 +26,7 @@ Notes on deviations from the commonly known depiction:
    * Gem is a similar case.
    * Cam appears upside-down compared to the traditional mythological figure, but HIP 29997, 33694 stars are indeed brighter.
 
-## Updates
+### Updates
 
 Version 1.0 for Stellarium 0.13.1
 

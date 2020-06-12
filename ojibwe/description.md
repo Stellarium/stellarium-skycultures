@@ -2,13 +2,13 @@
 
 ## Introduction
 
-Ojibwe are one of the largest groups of indigenous people of North America (United States and Canada). Please also see the neighboring "Sioux" Sky Culture which is comparable in northeast America. 
+Ojibwe are one of the largest groups of indigenous people of North America (United States and Canada). Please also see the neighboring "Sioux" Sky Culture which is comparable in northeast America.
 
 ## Description
 
 Depending on the region, Ojibwe are known for birch bark canoes, wildrice-_manoomin_, and maple syrup. Also known as Anishinaabe and Chippewa. The word Ojibwe means ‘cooks food outside’. The Ojibwe Star Knowledge files available for Stellarium are an adaptation of the ___“Ojibwe Giizhig Anung Masinaaigan, Ojibiwe Sky Star Map”___, created by A. Lee, W. Wilson, C. Gawboy, 2012. More details can be found in the constellation guidebook ___Ojibwe Sky Star Map Constellation Guide: An Introduction to Ojibwe Star Knowledge___. Also available are Ojibwe star map posters, Ojibwe planispheres, curriculum, and other resources.
 
-## Celestial Objects
+### Celestial Objects
 
 |native term | translation | international constellation area |
 |------------|-------------|----------------------------------|
