@@ -10,41 +10,50 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 # Sky culture name
-msgid "Western (Sky & Telescope)"
-msgstr "Západná (Sky & Telescope)"
+msgid "Modern (Sky & Telescope,2014)"
+msgstr ""
 
 # Sky culture introduction section in markdown format
 msgid ""
-"Constellation figures and star names from Sky & Telescope's definitions "
-"which should be familiar to users of Sky & Telescope's Pocket Sky Atlas, Sky"
-" Atlas 2000.0, and the figures in Sky & Telescope magazine."
+"In 1928, the International Astronomical Union (IAU) only defined the "
+"boundaries of these areas [#4] and not the way of drawing art work within "
+"them. Thus, several sub-cultures were developed during the past century: "
+"This sky culture was developed by the Sky and Telescope Magazine."
 msgstr ""
 
 # Sky culture description section in markdown format
 msgid ""
-"Western sky culture is used internationally by modern astronomers, and is the official scheme of The International Astronomical Union. It has historical roots in Ancient Greek astronomy, with influences from Islamic astronomy.\n"
+"Nowadays, the sky is divided into 88 areas that have the same names as historical constellations, mostly originating from ancient Greek star catalogues (see \"Modern (default)\" sky culture for description).\n"
+"\n"
+"The popular American magazine of astronomy \"Sky & Telescope\" [#1] hired an own painter for stick figures but no constellation artwork. As readers of this magazine, the Sky Atlas 2000.0, and the S&T Pocket Sky Atlas are used to this style and might prefer it, Stellarium was enabled to display it.\n"
 "\n"
 "### Constellations\n"
 "\n"
-"The Western culture divides the celestial sphere into 88 areas of various sizes called _constellations_, each with precise boundary, issued by the International Astronomical Union. These constellations have become the standard way to describe the sky, replacing similar sets in other sky cultures exhaustively in daily usage.\n"
+"The areas of the 88 constellations with precise boundaries are taken from the International Astronomical Union [#4].\n"
 "\n"
 "### Star names\n"
 "\n"
-"The method used by Sky &amp; Telescope to determine star names is detailed in the included _SnT\\_star\\_names.docx_ file."
+"The method used by Sky & Telescope to select \"their\" star names from historical ones is explained in detail in their Style Book: SnT_star_names.docx file. It is strongly based on Bayer's and Flamsteed's historical atlases and strongly influenced by [#6], [#7], and [#8]."
 msgstr ""
 
 # Sky culture references section in markdown format
 msgid ""
+" \n"
 " - [#1]: [Sky & Telescope](https://www.skyandtelescope.com) homepage\n"
-" - [#2]: [Constellation](http://en.wikipedia.org/wiki/Constellation) article at Wikipedia\n"
+" - [#2]: [S&T Stylebook, A13](https://fossies.org/linux/stellarium/skycultures/western_SnT/SnT_star_names.docx) Flanders, Tony: S&T's stylebook, Appendix 13, 2014\n"
 " - [#3]: [Star Catalogue](http://en.wikipedia.org/wiki/Star_catalogue) article at Wikipedia\n"
-" - [#4]: [Official IAU constellation information](http://www.iau.org/public/constellations/)"
+" - [#4]: [Official IAU constellation information](http://www.iau.org/public/constellations/)\n"
+" - [#5]: [Constellation](http://en.wikipedia.org/wiki/Constellation) article at Wikipedia\n"
+" - [#6]: Hoffleit, Dorrit. The Bright Star Catalogue, 4th rev. Yale University Observatory, 1982. \n"
+" - [#7]: Kunitzsch, Paul, and Tim Smart. Short Guide to Modern Star Names and Their Derivations. Otto Harrassowitz, 1986, republished by Sky and Telescope in 2006.\n"
+" - [#8]: Davis, George A. “The Pronunciations, Derivations, and Meanings of a Selected List of Star Names.” Popular Astronomy, Jan 1944."
 msgstr ""
 
 # Sky culture authors section in markdown format
 msgid ""
-"[Paul Krizak](mailto:paul.krizak@gmail.com>) and [Jonathan E. "
-"Piskor](mailto:jonathan.e.piskor@gmail.com)"
+"[Paul Krizak](mailto:paul.krizak@gmail.com) and [Jonathan E. Piskor](mailto:jonathan.e.piskor@gmail.com)\n"
+"\n"
+"reworked by Stellarium Team (Susanne M Hoffmann)"
 msgstr ""
 
 # Sky culture licence section in markdown format
