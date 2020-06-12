@@ -21,6 +21,9 @@ import polib
 import html
 import utils
 
+# Set to true to activate auto-translation of missing pieces
+# Requires to be logged in to google cloud API, e.g. using
+# export GOOGLE_APPLICATION_CREDENTIALS=path to credential.json
 USE_GOOGLE_TANSLATE = False
 if USE_GOOGLE_TANSLATE:
     from google.cloud import translate_v2 as translate
