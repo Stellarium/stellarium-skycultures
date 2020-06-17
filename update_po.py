@@ -10,11 +10,6 @@
 # repository.
 
 import sys
-try:
-    import ujson as json
-except ImportError:
-    print("Fallback to standard JSON parser")
-    import json
 import os.path
 import re
 import polib
@@ -263,7 +258,7 @@ def main():
             # Complete missing translations using Google Translate service
             if (USE_GOOGLE_TANSLATE
                     and lang in utils.OFFICIAL_LANGS
-                    and sc['id'] in CLEAN_SKYCULTURES):
+                    and sc['id'] != 'lokono'):
                 auto_translate_po(po_md)
 
             # Replace the current source po file
