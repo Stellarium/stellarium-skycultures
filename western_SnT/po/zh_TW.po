@@ -11,7 +11,7 @@ msgstr ""
 
 # Sky culture name
 msgid "Modern (Sky & Telescope,2014)"
-msgstr ""
+msgstr "現代（天空與望遠鏡，2014）"
 
 # Sky culture introduction section in markdown format
 msgid ""
@@ -20,6 +20,7 @@ msgid ""
 "them. Thus, several sub-cultures were developed during the past century: "
 "This sky culture was developed by the Sky and Telescope Magazine."
 msgstr ""
+"1928年，國際天文學聯合會（IAU）僅定義了這些區域的邊界[#4]，而不是其中定義繪畫工作的方式。因此，在過去的一個世紀中發展了幾種亞文化：這種天空文化是由《天空與望遠鏡雜誌》開發的。"
 
 # Sky culture description section in markdown format
 msgid ""
@@ -35,6 +36,17 @@ msgid ""
 "\n"
 "The method used by Sky & Telescope to select \"their\" star names from historical ones is explained in detail in their Style Book: SnT_star_names.docx file. It is strongly based on Bayer's and Flamsteed's historical atlases and strongly influenced by [#6], [#7], and [#8]."
 msgstr ""
+"如今，天空被劃分為88個與歷史星座同名的區域，這些區域主要起源於古希臘的星表（有關描述，請參見“現代（默認）”天空文化））。\n"
+"\n"
+"頗受歡迎的美國天文學雜誌“ Sky＆Telescope” [#1]僱用了自己的畫家來創作簡筆劃，但沒有星座圖。作為本雜誌的讀者，Sky Atlas 2000.0和S＆T Pocket Sky Atlas都習慣這種風格，因此可能更喜歡使用Stellarium來顯示它。\n"
+"\n"
+"###星座\n"
+"\n"
+"具有精確邊界的88個星座的面積取自國際天文學聯合會[#4]。\n"
+"\n"
+"###星星名稱\n"
+"\n"
+"Sky＆Telescope用於從歷史名稱中選擇“其”星星名稱的方法在其樣式書：SnT_star_names.docx文件中進行了詳細說明。它強烈地基於拜耳和弗拉姆斯特德的歷史地圖集，並受到[#6]，[#7]和[#8]的強烈影響。"
 
 # Sky culture references section in markdown format
 msgid ""
@@ -48,6 +60,15 @@ msgid ""
 " - [#7]: Kunitzsch, Paul, and Tim Smart. Short Guide to Modern Star Names and Their Derivations. Otto Harrassowitz, 1986, republished by Sky and Telescope in 2006.\n"
 " - [#8]: Davis, George A. “The Pronunciations, Derivations, and Meanings of a Selected List of Star Names.” Popular Astronomy, Jan 1944."
 msgstr ""
+"\n"
+" - [#1]: [Sky＆Telescope](https://www.skyandtelescope.com)主頁\n"
+" - [#2]: [S＆T風格手冊，A13](https://fossies.org/linux/stellarium/skycultures/western_SnT/SnT_star_names.docx)法蘭德斯，托尼：S＆T風格手冊，2014年附錄13\n"
+" - [#3]: 維基百科上的[星級目錄](http://en.wikipedia.org/wiki/Star_catalogue)文章\n"
+" - [#4]: [IAU官方星座信息](http://www.iau.org/public/constellations/)\n"
+" - [#5]: 維基百科上的[星座](http://en.wikipedia.org/wiki/星座)文章\n"
+" - [#6]: Hoffleit，Dorrit。明亮之星目錄，第四版。耶魯大學天文台，1982年。\n"
+" - [#7]: Kunitzsch，Paul和Tim Smart。現代星名及其派生簡短指南。奧托·哈拉索維茨（Otto Harrassowitz），1986年，天空和望遠鏡於2006年重新出版。\n"
+" - [#8]: 戴維斯（George A），“星星名稱選定列表的發音，派生和含義”。大眾天文學，1944年1月。"
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -55,6 +76,9 @@ msgid ""
 "\n"
 "reworked by Stellarium Team (Susanne M Hoffmann)"
 msgstr ""
+"[Paul Krizak]（電子郵件：paul.krizak@gmail.com）和[Jonathan E. Piskor]（電子郵件：jonathan.e.piskor@gmail.com）\n"
+"\n"
+"由恆星隊（Susanne M Hoffmann）重做"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"

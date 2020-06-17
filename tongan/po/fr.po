@@ -18,6 +18,8 @@ msgid ""
 "As in all Polynesian star lore, Tongan sky culture descends from the "
 "practical application of nautical navigation."
 msgstr ""
+"Comme dans toutes les traditions stellaires polynésiennes, la culture du "
+"ciel tongan découle de l'application pratique de la navigation nautique."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -72,6 +74,56 @@ msgid ""
 "\n"
 "--------------------"
 msgstr ""
+"Dans certaines circonstances, la séparation des noms d'étoiles individuels des noms de \"chemin d'étoile\" ne peut pas être résolue. Une étoile peut avoir plusieurs noms 1) si l'étoile fait partie de nombreux chemins stellaires et 2) car la dénomination des étoiles peut différer selon le groupe d'îles tongiennes dont elle est originaire. La nomenclature des étoiles est approximative en fonction des ressources limitées disponibles.\n"
+"\n"
+"Alors que les étoiles et les constellations les plus notables / communes (c.-à-d. Orion, Pléiades, Crux) sont identifiées dans la tradition des étoiles tonganes, il y a deux exceptions notables. Il n'y a pas de dénomination de l'étoile polaire (Polaris: α UMi). Cela est particulier compte tenu de la latitude des îles Tonga et de l'importance de cette étoile à certaines périodes de l'année. En cas de voyages vers le nord depuis les Tonga, un point de repère de navigation aussi important ne pouvait pas passer inaperçu. La constellation du Scorpion (parties ou étoiles de) est également absente de la tradition des étoiles tonganes. Cela est surprenant car la grande majorité des traditions stellaires - à l'échelle mondiale et polynésienne - a le Scorpion comme constellation centrale car il est facilement identifiable et qu'il est presque directement en face d'Orion dans le ciel nocturne (Stellarium accueillerait favorablement toute autre connaissance sur ces deux anomalies ).\n"
+"\n"
+"L'ascendance commune des traditions stellaires polynésiennes est évidente dans les similitudes dans l'étiquetage des étoiles. Par exemple, les Pléiades s'appellent Mataliki en tongan, Matariki en maori et Makali'i en hawaïen.\n"
+"\n"
+"### Nomenclature\n"
+"\n"
+"| Terme tonguien | Désignation |\n"
+"| ------------- | ------- |\n"
+"| Humu | Sac de charbon |\n"
+"| Kaniva | Voie lactée |\n"
+"| Ma'afulele | Grand nuage de Magellan |\n"
+"| Ma'afutoka | Petit nuage de Magellan |\n"
+"| 'otu Ma'afu | Nuages magellaniques (les deux) |\n"
+"| Ha'amonga | Écliptique |\n"
+"| Mahina | Lune |\n"
+"| La'a | Soleil |\n"
+"| Fetu'u | Étoile (en général) |\n"
+"| Fetu'ufuka | Comète |\n"
+"| «Umata | Rainbow |\n"
+"| Fetu'u'Esiafi | Étoile filante |\n"
+"| tapukitea | Vénus |\n"
+"| Matamemea | Mars |\n"
+"| Ma'afutoka (comme SMC) | Canopus |\n"
+"| Ma'afulele (comme LMC) | Sirius |\n"
+"| Velitoa hififo | Rigel |\n"
+"| Velitoa hahake | Betelguese |\n"
+"| Hikule'o | Arcturus |\n"
+"| Monuafe | Meissa |\n"
+"| Motuliki | Pléiades |\n"
+"| Tu'ulalupe | Hyades |\n"
+"| Toloatonga | Croix du Sud |\n"
+"| Toloalahi | Fausse croix |\n"
+"\n"
+"\n"
+"__Constellations de tongan__\n"
+"\n"
+"| Nom tongan | Désignation ou notes |\n"
+"| ------------- | ------- |\n"
+"| Tuinga ika | Partie d'Orion, ceinture et épée |\n"
+"| Ae e'Uvea | Corona Borealis (_Speculative_) |\n"
+"| Fatanalua | Coma Berenices (_Speculative_) |\n"
+"| Kapakau'o'tafahi | Cassiopée (_Spéculative_) |\n"
+"| Toloa | Ceinture d'Orion |\n"
+"| Lua tangata | Castor et / ou Pollux |\n"
+"| Fungasia | Toliman et / ou Agena |\n"
+"| Houmatoloa (Toloa, toloatonga, toloalahi) | - |\n"
+"\n"
+"--------------------"
 
 # Sky culture references section in markdown format
 msgid ""
@@ -79,6 +131,9 @@ msgid ""
 " - [#2]: T.H Fale, _Tongan astronomy_, 1990 Polynesian Eyes foundation, Nuku'alofa, TongaChoice printing.\n"
 " - [#3]: E. E. V. Collocott, _Tongan astronomy and calendar_, 1992 Occasional Papers of the Bernice Pauahi Bishop Museum of Polynesian ethnology and Natural History, Vol. 8, No. 4 Honolulu, Hawaii, Bishop Museum Press 1922, p. 157-173."
 msgstr ""
+" - [#1]: Velt Kik, _Ko E Ngaahi fetu'u 'o, Stars over tonga_, 1990' Université d'Atenisi, Nuku'alofa, Département d'impression du gouvernement des Tonga.\n"
+" - [#2]: TH Fale, _Tongan astronomy_, 1990 Polynesian Eyes foundation, Nuku'alofa, impression TongaChoice.\n"
+" - [#3]: EEV Collocott, _Tongan astronomy and calendar_, 1992 Articles occasionnels du Bernice Pauahi Bishop Museum d'ethnologie polynésienne et d'histoire naturelle, vol. 8, no 4 Honolulu, Hawaï, Bishop Museum Press 1922, p. 157-173."
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -86,6 +141,9 @@ msgid ""
 "\n"
 "technical adaption: Susanne M Hoffmann "
 msgstr ""
+"Cette culture du ciel a été apportée par l'utilisateur de Stellarium [Dan Smale](d.smale@niwa.co.nz)\n"
+"\n"
+"adaptation technique: Susanne M Hoffmann"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"
@@ -93,44 +151,44 @@ msgstr "GNU GPL v2.0"
 
 # Tongan constellation, native: Toloatonga
 msgid "Southern Wild Duck"
-msgstr ""
+msgstr "Canard sauvage du Sud"
 
 # Tongan constellation, native: Lua tangata
 msgid "Two Men"
-msgstr ""
+msgstr "Deux hommes"
 
 # Tongan constellation, native: Toloa
 msgid "Wild Duck"
-msgstr ""
+msgstr "Canard sauvage"
 
 # Tongan constellation, native: Tu'ulalupe
 msgid "Pigeon Perch"
-msgstr ""
+msgstr "Perche de pigeon"
 
 # Tongan constellation, native: Toloalahi
 msgid "Big Wild Duck"
-msgstr ""
+msgstr "Grand canard sauvage"
 
 # Tongan constellation, native: Fungasia
 msgid "Mound Top"
-msgstr ""
+msgstr "Top monticule"
 
 # Tongan constellation, native: Tuinga ika
 msgid "String of fishes"
-msgstr ""
+msgstr "Chaîne de poissons"
 
 # Tongan constellation, native: Houmatoloa
 msgid "Wild Duck's Point of Land"
-msgstr ""
+msgstr "Pointe de terre de canard sauvage"
 
 # Tongan constellation, native: Fatanalua
 msgid "Two Carriers"
-msgstr ""
+msgstr "Deux transporteurs"
 
 # Tongan constellation, native: ʻAo ʻo ʻUvea
 msgid "Cloud of 'Uvea"
-msgstr ""
+msgstr "Nuage d'Uvea"
 
 # Tongan constellation, native: Kapakau'o'tafahi
 msgid "Wing of Tafahi"
-msgstr ""
+msgstr "Aile de Tafahi"

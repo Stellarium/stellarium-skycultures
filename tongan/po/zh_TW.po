@@ -17,7 +17,7 @@ msgstr "Tongan"
 msgid ""
 "As in all Polynesian star lore, Tongan sky culture descends from the "
 "practical application of nautical navigation."
-msgstr ""
+msgstr "像所有波利尼西亞的星際傳說一樣，湯加的天空文化源於航海的實際應用。"
 
 # Sky culture description section in markdown format
 msgid ""
@@ -72,6 +72,56 @@ msgid ""
 "\n"
 "--------------------"
 msgstr ""
+"在某些情況下，無法解決將單個星形名稱與“星形路徑”名稱分開的問題。一顆恆星可能有多個名稱1）如果該恆星是眾多恆星路徑的一部分，則2）由於恆星的命名可能會有所不同，具體取決於它來自哪個湯加島群。恆星的命名是根據有限的可用資源來估算的。\n"
+"\n"
+"雖然在湯加星絕中發現了最著名/最常見的恆星和星座（即獵戶座，P宿星，克魯剋星），但有兩個值得注意的例外。沒有北極星的命名（北極星：αUMi）。考慮到湯加群島的緯度和該星在一年中的某些時候的突出地位，這是很特殊的。如果從湯加向北行駛，那麼這樣一個重要的航海地標可能就不會被忽視。湯加星絕也沒有天蠍座（部分星系或星系）。這是令人驚訝的，因為全球星際絕大部分（全球和波利尼西亞人）都以天蠍座為中心星座，因為它很容易識別，並且在夜空中幾乎與獵戶座相對（Stellarium歡迎您提供有關這兩個異常的進一步了解）。\n"
+"\n"
+"波利尼西亞星際傳說的共同血統可以從恆星標記的相似性中看出。例如，the宿星在湯加被稱為Mataliki，在毛利人被稱為Matariki，夏威夷人被稱為Makali'i。\n"
+"\n"
+"###命名法\n"
+"\n"
+"|湯加詞|名稱\n"
+"| ------------- | --------- |\n"
+"| u煤袋|\n"
+"|卡尼瓦|銀河系|\n"
+"| Ma'afulele |大型麥哲倫雲|\n"
+"| Ma'afutoka |小麥哲倫雲|\n"
+"| 'otu Ma'afu |麥哲倫星雲（兩者）|\n"
+"|哈阿蒙加|黃道|\n"
+"| Mahina |月亮|\n"
+"| La'a |太陽|\n"
+"| Fetu'u |星（一般）|\n"
+"| Fetu'ufuka |彗星\n"
+"| 'Umata |彩虹\n"
+"| Fetu'u'Esiafi |流星|\n"
+"| Tapukitea |金星|\n"
+"| Matamemea |火星|\n"
+"| Ma'afutoka（與SMC相同）| Canopus |\n"
+"| Ma'afulele（與LMC相同）|天狼星|\n"
+"| Velitoa hififo | Rigel |\n"
+"| Velitoa hahake |檳榔|\n"
+"| Hikule'o | Arcturus |\n"
+"| Monuafe |梅薩|\n"
+"| Motuliki | P\n"
+"| Tu'ulalupe | Hyades |\n"
+"| Toloatonga |南十字|\n"
+"| Toloalahi |假十字架|\n"
+"\n"
+"\n"
+"__同安星座__\n"
+"\n"
+"|湯加名稱|名稱或註釋|\n"
+"| ------------- | --------- |\n"
+"| Tuinga ika |獵戶座，皮帶和劍的一部分|\n"
+"| Ae e'Uvea |電暈（_Speculative_）|\n"
+"| Fatanalua |昏迷Berenices（_Speculative_）|\n"
+"| Kapakau'o'tafahi |仙后座（_Speculative_）|\n"
+"| Toloa |獵戶座腰帶|\n"
+"|盧加坦塔塔|腳輪和/或北河三|\n"
+"|真菌Toliman和/或Agena |\n"
+"| Houmatoloa（Toloa，toloatonga，toloalahi）| — |\n"
+"\n"
+"--------------------"
 
 # Sky culture references section in markdown format
 msgid ""
@@ -79,6 +129,9 @@ msgid ""
 " - [#2]: T.H Fale, _Tongan astronomy_, 1990 Polynesian Eyes foundation, Nuku'alofa, TongaChoice printing.\n"
 " - [#3]: E. E. V. Collocott, _Tongan astronomy and calendar_, 1992 Occasional Papers of the Bernice Pauahi Bishop Museum of Polynesian ethnology and Natural History, Vol. 8, No. 4 Honolulu, Hawaii, Bishop Museum Press 1922, p. 157-173."
 msgstr ""
+" - [#1]: Velt Kik，_Ko E Ngaahi fetu'u'o，《湯加上空的星星》，1990年，Atenisi大學，努庫阿洛法，湯加政府印刷部門。\n"
+" - [#2]: TH Fale，《湯加天文》，1990年，波利尼西亞人眼基金會，努庫阿洛法，湯加。\n"
+" - [#3]: EEV Collocott，《湯加天文學和日曆》，1992年，波利尼西亞民族學和自然歷史的伯尼絲·鮑伊·畢曉普博物館主編，第一卷。 8，第4號，夏威夷，檀香山，畢曉普博物館出版社，1922年，第1頁。 157-173。"
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -86,6 +139,9 @@ msgid ""
 "\n"
 "technical adaption: Susanne M Hoffmann "
 msgstr ""
+"這種天空文化是由恆星用戶[Dan Smale]（d.smale@niwa.co.nz）貢獻的\n"
+"\n"
+"技術適應：Susanne M Hoffmann"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"
@@ -93,44 +149,44 @@ msgstr "GNU GPL v2.0"
 
 # Tongan constellation, native: Toloatonga
 msgid "Southern Wild Duck"
-msgstr ""
+msgstr "南部野鴨"
 
 # Tongan constellation, native: Lua tangata
 msgid "Two Men"
-msgstr ""
+msgstr "兩名男子"
 
 # Tongan constellation, native: Toloa
 msgid "Wild Duck"
-msgstr ""
+msgstr "野鴨"
 
 # Tongan constellation, native: Tu'ulalupe
 msgid "Pigeon Perch"
-msgstr ""
+msgstr "鴿子棲息"
 
 # Tongan constellation, native: Toloalahi
 msgid "Big Wild Duck"
-msgstr ""
+msgstr "大野鴨"
 
 # Tongan constellation, native: Fungasia
 msgid "Mound Top"
-msgstr ""
+msgstr "丘頂"
 
 # Tongan constellation, native: Tuinga ika
 msgid "String of fishes"
-msgstr ""
+msgstr "魚串"
 
 # Tongan constellation, native: Houmatoloa
 msgid "Wild Duck's Point of Land"
-msgstr ""
+msgstr "野鴨的土地"
 
 # Tongan constellation, native: Fatanalua
 msgid "Two Carriers"
-msgstr ""
+msgstr "兩個承運人"
 
 # Tongan constellation, native: ʻAo ʻo ʻUvea
 msgid "Cloud of 'Uvea"
-msgstr ""
+msgstr "烏韋阿雲"
 
 # Tongan constellation, native: Kapakau'o'tafahi
 msgid "Wing of Tafahi"
-msgstr ""
+msgstr "塔法希翼"

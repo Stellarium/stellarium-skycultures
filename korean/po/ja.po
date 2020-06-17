@@ -23,6 +23,9 @@ msgid ""
 "the constellations first appear in the Records of the Grand Historian (史記) "
 "in Han dynasty describing Xia dynasty in about 2000 BCE."
 msgstr ""
+"中国、韓国、日本の星座は同じ起源を持ち、形が非常に似ています。それらはそれぞれ、8世紀の敦煌スターマップ、_Cheon-Sang-Yeol-Cha-"
+"Bun-Ya-Ji-Do_マップ、およびCE "
+"7〜8世紀に描かれたKitoraスカイマップに表示されます。彼らの位置と名前は中国語のアルファベットで似ています。星座の名前は、紀元前2000年頃に夏の時代を描いた漢王朝の大歴史家の記録（史記）に最初に現れました。"
 
 # Sky culture description section in markdown format
 msgid ""
@@ -34,6 +37,13 @@ msgid ""
 "\n"
 "The origin of this Korean celestial map is another sky map which existed about 2,000 years ago, the Chinese Suzhou map (cf: Chinese sky culture). The original Korean map grouped the 1467 stars in about 190 constellations. The shapes of the depictions are slightly different from the Chinese ones. "
 msgstr ""
+"###起源\n"
+"\n"
+"このステラリウムスカイカルチャーに表示される272の星座は、1395年に石に刻まれた韓国の星座マップである_Cheon-Sang-Yeol-Cha-Bun-Ya-Zi-Do_に基づいています。黒い石のプレートの幅は122.5 cmでした、高さ211 cm、奥行き12 cm。星は白で強調表示されました。マップには、1,467の星、[#1] 264の星座とその名前、黄道と赤道の線、および全円の中国の「度」が表示されます。それは、中国のルーツの以前の韓国の地図（高句麗星図）のコピーとして編集され、最近の観測により詳細が変更されました。したがって、いくつかの星は座標の千年前までに彫刻されており、いくつかの（グループの）星には歳差運動が適用されます。\n"
+"\n"
+"マップの解釈は簡単ではありません。マップが古すぎて、実際の星と一致する星は約300しか見つかりません。地図の星はすべて円に描かれているため、赤道は南端よりも小さく見えます。星座の密度は位置に関して変化しないので、星座の位置とサイズは作者が知らない方法で多少変更されました。どの星座にも属さない明るい星は存在しないはずです。著者の作品は解釈の対象であり、後で変更される可能性があります。しかし、それは韓国の星座がどのようなものかを大まかに示します。\n"
+"\n"
+"この韓国の天体図の起源は、約2,000年前に存在したもう1つの天空図である中国の蘇州地図です（cf：中国の空の文化）。元の韓国の地図は、約190の星座に1467の星をグループ化しました。描写の形は中国のものとは少し異なります。"
 
 # Sky culture references section in markdown format
 msgid ""
@@ -41,6 +51,9 @@ msgid ""
 " - [#2]: [digitalized map](https://digicult2.thulb.uni-jena.de/rsc/viewer/digicult_derivate_00115090/Sternkarte2.tif)\n"
 " - [#3]: [Data for the digitalized reproduction](http://sammlungen.uni-jena.de/sammlungsobjekte/p/1/h/1/nc/1.html?tx_jomuseo_pi1009%5BjoDetailView%5D=DE-MUS-046828%2Flido%2Fdc00000039)"
 msgstr ""
+" - [#1]: [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/Cheonsang_Yeolcha_Bunyajido)\n"
+" - [#2]: [デジタル化された地図](https://digicult2.thulb.uni-jena.de/rsc/viewer/digicult_derivate_00115090/Sternkarte2.tif)\n"
+" - [#3]: [デジタル化された複製のデータ]（http://sammlungen.uni-jena.de/sammlungsobjekte/p/1/h/1/nc/1.html?tx_jomuseo_pi1009%5BjoDetailView%5D=DE-MUS- 046828％2Flido％2Fdc00000039）"
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -48,6 +61,9 @@ msgid ""
 "\n"
 "Reworked by Susanne M Hoffmann"
 msgstr ""
+"この空の文化は、ステラリウムユーザー[Jeong、Tae-Min]（http://user.chollian.net/~jtm71/）によって提供されました\n"
+"\n"
+"Susanne M Hoffmannによる再加工"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"
@@ -83,7 +99,7 @@ msgstr "攝提"
 
 # Korean constellation, pronounce: DaeGaak
 msgid "Position of Holy King"
-msgstr ""
+msgstr "聖なる王の位置"
 
 # Korean constellation, pronounce: Hang
 msgid "Neck of Dragon"
@@ -91,7 +107,7 @@ msgstr "竜の首"
 
 # Korean constellation, pronounce: JeolWii
 msgid "Beheading"
-msgstr ""
+msgstr "斬首"
 
 # Korean constellation, pronounce: DuunWaan
 msgid "Judge"
@@ -99,23 +115,23 @@ msgstr "裁判官"
 
 # Korean constellation, pronounce: ChoYo
 msgid "Flutting Flag"
-msgstr ""
+msgstr "毛羽立ちフラグ"
 
 # Korean constellation, pronounce: GyeongHaa
 msgid "Javelin of Sky"
-msgstr ""
+msgstr "空のジャベリン"
 
 # Korean constellation, pronounce: JaeSeok
 msgid "Seat for Longevity"
-msgstr ""
+msgstr "長寿のための座席"
 
 # Korean constellation, pronounce: HangJii
 msgid "Oar for visitor"
-msgstr ""
+msgstr "訪問者のためのオール"
 
 # Korean constellation, pronounce: CheonYuu
 msgid "Milk of Sky"
-msgstr ""
+msgstr "空のミルク"
 
 # Korean constellation, pronounce: Jeo
 msgid "House of Queen"
@@ -123,23 +139,23 @@ msgstr "女王の家"
 
 # Korean constellation, pronounce: JinGeo
 msgid "Ancient Chariot"
-msgstr ""
+msgstr "古代の戦車"
 
 # Korean constellation, pronounce: CheonPouk
 msgid "Carriage for King"
-msgstr ""
+msgstr "キングのためのキャリッジ"
 
 # Korean constellation, pronounce: GiJinJangGuun
 msgid "General of Cavalry"
-msgstr ""
+msgstr "騎兵将軍"
 
 # Korean constellation, pronounce: GiGwan
 msgid "Cavalry of Emperor"
-msgstr ""
+msgstr "皇帝の騎兵"
 
 # Korean constellation, pronounce: GeoGii
 msgid "General of Mobile Troops"
-msgstr ""
+msgstr "機動部隊の将軍"
 
 # Korean constellation, pronounce: DongHaam
 msgid "East Road"
@@ -147,19 +163,19 @@ msgstr "東側の道路"
 
 # Korean constellation, pronounce: GeonPae
 msgid "Gate Bolt"
-msgstr ""
+msgstr "ゲートボルト"
 
 # Korean constellation, pronounce: GuGeom
 msgid "Door Lock and Key"
-msgstr ""
+msgstr "ドアのロックとキー"
 
 # Korean constellation, pronounce: Beol
 msgid "Penalty"
-msgstr ""
+msgstr "ペナルティ"
 
 # Korean constellation, pronounce: Baang
 msgid "Royal Hall"
-msgstr ""
+msgstr "ロイヤルホール"
 
 # Korean constellation, pronounce: JongGwan
 msgid "Chamberlain"
@@ -171,7 +187,7 @@ msgstr "西道路"
 
 # Korean constellation, pronounce: Shim
 msgid "Seat of Emperor"
-msgstr ""
+msgstr "皇帝の座"
 
 # Korean constellation, pronounce: JeokJol
 msgid "Five Troops"
@@ -179,11 +195,11 @@ msgstr "5部隊"
 
 # Korean constellation, pronounce: CheonGang
 msgid "River of Sky"
-msgstr ""
+msgstr "空の川"
 
 # Korean constellation, pronounce: BuYeol
 msgid "Prayer for Progeny"
-msgstr ""
+msgstr "子孫のための祈り"
 
 # Korean constellation, pronounce: Eo
 msgid "Fish"
@@ -191,11 +207,11 @@ msgstr "魚"
 
 # Korean constellation, pronounce: Ku
 msgid "Forcast"
-msgstr ""
+msgstr "予報"
 
 # Korean constellation, pronounce: Mii
 msgid "Yard for Empresses"
-msgstr ""
+msgstr "女帝の庭"
 
 # Korean constellation, pronounce: ShinGuung
 msgid "Holy Palace"
@@ -203,11 +219,11 @@ msgstr "聖宮"
 
 # Korean constellation, pronounce: Kii
 msgid "Winnow"
-msgstr ""
+msgstr "Winnow"
 
 # Korean constellation, pronounce: WaeJeo
 msgid "Outer Pestle"
-msgstr ""
+msgstr "外乳棒"
 
 # Korean constellation, pronounce: Gaang
 msgid "Chaff"
@@ -215,19 +231,19 @@ msgstr "糠(こう)"
 
 # Korean constellation, pronounce: CheonByeon
 msgid "Head of Town"
-msgstr ""
+msgstr "町長"
 
 # Korean constellation, pronounce: Geon
 msgid "Build"
-msgstr ""
+msgstr "ビルド"
 
 # Korean constellation, pronounce: CheonGae
 msgid "Fowl of Sky"
-msgstr ""
+msgstr "空の鳥"
 
 # Korean constellation, pronounce: NaamDoo
 msgid "Shrine of Sky"
-msgstr ""
+msgstr "空の神社"
 
 # Korean constellation, pronounce: Goo
 msgid "Dog"
@@ -243,19 +259,19 @@ msgstr "古い農夫"
 
 # Korean constellation, pronounce: Byeol
 msgid "Snapping Turtle"
-msgstr ""
+msgstr "スッポン"
 
 # Korean constellation, pronounce: YeonDo
 msgid "Road for Emperor"
-msgstr ""
+msgstr "天皇の道"
 
 # Korean constellation, pronounce: JikNyeo
 msgid "The Weaver"
-msgstr ""
+msgstr "ウィーバー"
 
 # Korean constellation, pronounce: JaamDae
 msgid "River adjoining Tower"
-msgstr ""
+msgstr "川に隣接する塔"
 
 # Korean constellation, pronounce: JwaGi
 msgid "Left Flag"
@@ -263,11 +279,11 @@ msgstr "左旗(さき)"
 
 # Korean constellation, pronounce: HaGo
 msgid "Drum of River"
-msgstr ""
+msgstr "川の太鼓"
 
 # Korean constellation, pronounce: CheonBu
 msgid "Drumstick of Sky"
-msgstr ""
+msgstr "空のバチ"
 
 # Korean constellation, pronounce: UuGi
 msgid "Right Flag"
@@ -275,23 +291,23 @@ msgstr "右旗(うき)"
 
 # Korean constellation, pronounce: GyeonUu
 msgid "Cow leading Man"
-msgstr ""
+msgstr "牛を導く男"
 
 # Korean constellation, pronounce: NaaEon
 msgid "Bank Spread"
-msgstr ""
+msgstr "銀行スプレッド"
 
 # Korean constellation, pronounce: BuuGwang
 msgid "Basket for Silkworm"
-msgstr ""
+msgstr "カイコ用バスケット"
 
 # Korean constellation, pronounce: HaeJuung
 msgid "Officer for Cart"
-msgstr ""
+msgstr "カートの役員"
 
 # Korean constellation, pronounce: CheonJin
 msgid "Ferry of Sky"
-msgstr ""
+msgstr "空のフェリー"
 
 # Korean constellation, pronounce: Gwa
 msgid "Fruit"
@@ -303,55 +319,55 @@ msgstr "種"
 
 # Korean constellation, pronounce: iiJuu
 msgid "Storage for Lady"
-msgstr ""
+msgstr "女性用収納"
 
 # Korean constellation, pronounce: SuuNyeo
 msgid "Court Lady"
-msgstr ""
+msgstr "コート・レディ"
 
 # Korean constellation, pronounce: SaaBii
 msgid "Judge Fault"
-msgstr ""
+msgstr "裁判官の過ち"
 
 # Korean constellation, pronounce: SaaWii
 msgid "Amend Fault"
-msgstr ""
+msgstr "障害を修正"
 
 # Korean constellation, pronounce: SaaRok
 msgid "Grant Life"
-msgstr ""
+msgstr "グラントライフ"
 
 # Korean constellation, pronounce: SaaMyeong
 msgid "Punish"
-msgstr ""
+msgstr "罰する"
 
 # Korean constellation, pronounce: Heo
 msgid "Empty House"
-msgstr ""
+msgstr "空の家"
 
 # Korean constellation, pronounce: Gok
 msgid "Weep"
-msgstr ""
+msgstr "泣く"
 
 # Korean constellation, pronounce: Eup
 msgid "Sob"
-msgstr ""
+msgstr "下"
 
 # Korean constellation, pronounce: CheonRuSeong
 msgid "Castle with Rampart"
-msgstr ""
+msgstr "城壁と城"
 
 # Korean constellation, pronounce: Guu
 msgid "Hook for Dress"
-msgstr ""
+msgstr "ドレス用フック"
 
 # Korean constellation, pronounce: ChoBo
 msgid "Groom"
-msgstr ""
+msgstr "新郎"
 
 # Korean constellation, pronounce: GeoBuu
 msgid "Charioteer"
-msgstr ""
+msgstr "戦車"
 
 # Korean constellation, pronounce: iinSeong
 msgid "Human"
@@ -359,7 +375,7 @@ msgstr "人間"
 
 # Korean constellation, pronounce: NaeJeo
 msgid "Inner Pestle"
-msgstr ""
+msgstr "内乳棒"
 
 # Korean constellation, pronounce: Gu
 msgid "Mortar"
@@ -367,7 +383,7 @@ msgstr "臼(きゅう)"
 
 # Korean constellation, pronounce: Wii
 msgid "Warehouse of Sky"
-msgstr ""
+msgstr "空の倉庫"
 
 # Korean constellation, pronounce: BunMyo
 msgid "Tomb"
@@ -375,15 +391,15 @@ msgstr "墓"
 
 # Korean constellation, pronounce: GaeOok
 msgid "Cover of House"
-msgstr ""
+msgstr "家のカバー"
 
 # Korean constellation, pronounce: PaeGuu
 msgid "Broken Mortar"
-msgstr ""
+msgstr "壊れたモルタル"
 
 # Korean constellation, pronounce: DeungSaa
 msgid "Climbing Serpent"
-msgstr ""
+msgstr "登山蛇"
 
 # Korean constellation, pronounce: Shil
 msgid "Palace of Emperor"
@@ -391,7 +407,7 @@ msgstr "皇帝の宮殿"
 
 # Korean constellation, pronounce: iiGuung
 msgid "Detached Palace"
-msgstr ""
+msgstr "戸建宮殿"
 
 # Korean constellation, pronounce: TouGongRi
 msgid "Official for Materials Supply"
@@ -399,27 +415,27 @@ msgstr "土公吏(どこうり)"
 
 # Korean constellation, pronounce: JeonNwoe
 msgid "Lightening"
-msgstr ""
+msgstr "軽量化"
 
 # Korean constellation, pronounce: NuByeokJin
 msgid "Rampart"
-msgstr ""
+msgstr "城壁"
 
 # Korean constellation, pronounce: URimGuun
 msgid "Troops of Sky"
-msgstr ""
+msgstr "空の軍隊"
 
 # Korean constellation, pronounce: BukRakSaMuun
 msgid "Village for Patrol"
-msgstr ""
+msgstr "パトロールのための村"
 
 # Korean constellation, pronounce: CheonMang
 msgid "Net of Sky"
-msgstr ""
+msgstr "空のネット"
 
 # Korean constellation, pronounce: CheonGu
 msgid "Stable of Sky"
-msgstr ""
+msgstr "空の安定"
 
 # Korean constellation, pronounce: DongByeok
 msgid "Eastern Wall"
@@ -427,7 +443,7 @@ msgstr "東壁"
 
 # Korean constellation, pronounce: TouGong
 msgid "Civil Engineer"
-msgstr ""
+msgstr "土木技師"
 
 # Korean constellation, pronounce: ByeokRyeok
 msgid "Thunderbolts"
@@ -447,7 +463,7 @@ msgstr "策(さく)"
 
 # Korean constellation, pronounce: WaangRaang
 msgid "Officer for Chariot of"
-msgstr ""
+msgstr "戦車の役員"
 
 # Korean constellation, pronounce: BuRo
 msgid "Side Road"
@@ -455,19 +471,19 @@ msgstr "側道"
 
 # Korean constellation, pronounce: Gyu
 msgid "Armory"
-msgstr ""
+msgstr "武器庫"
 
 # Korean constellation, pronounce: GuunNaamMun
 msgid "Southern Gate of Emperator"
-msgstr ""
+msgstr "皇帝の南門"
 
 # Korean constellation, pronounce: WaeByeong
 msgid "Outer Folding Screen"
-msgstr ""
+msgstr "外側の屏風"
 
 # Korean constellation, pronounce: CheonHoun
 msgid "Toilet of Sky"
-msgstr ""
+msgstr "空のトイレ"
 
 # Korean constellation, pronounce: SaaGong
 msgid "Architect"
@@ -475,7 +491,7 @@ msgstr "建築家"
 
 # Korean constellation, pronounce: CheonJaangGuun
 msgid "Emperator"
-msgstr ""
+msgstr "皇帝"
 
 # Korean constellation, pronounce: Ruu
 msgid "Watchtower"
@@ -483,27 +499,27 @@ msgstr "望楼"
 
 # Korean constellation, pronounce: JwaGyeong
 msgid "Left Elm"
-msgstr ""
+msgstr "左エルム"
 
 # Korean constellation, pronounce: UuGyeong
 msgid "Right Elm"
-msgstr ""
+msgstr "右エルム"
 
 # Korean constellation, pronounce: CheonChang
 msgid "Storehouse of Sky"
-msgstr ""
+msgstr "空の蔵"
 
 # Korean constellation, pronounce: CheonYu
 msgid "Stack of Cereals"
-msgstr ""
+msgstr "シリアルのスタック"
 
 # Korean constellation, pronounce: CheonSeon
 msgid "Ship of Sky"
-msgstr ""
+msgstr "空の船"
 
 # Korean constellation, pronounce: JeokSuu
 msgid "Store of Water"
-msgstr ""
+msgstr "水の店"
 
 # Korean constellation, pronounce: DaeReung
 msgid "Mausoleum"
@@ -511,19 +527,19 @@ msgstr "大陵(たいりょう)"
 
 # Korean constellation, pronounce: JeokShi
 msgid "Heap of Corpse"
-msgstr ""
+msgstr "死体の山"
 
 # Korean constellation, pronounce: Wii
 msgid "Stomach of Tiger"
-msgstr ""
+msgstr "タイガーの胃"
 
 # Korean constellation, pronounce: CheonReum
 msgid "Store of Millet for"
-msgstr ""
+msgstr "ミレーのお店"
 
 # Korean constellation, pronounce: CheonGyun
 msgid "Storehouse for Cereals"
-msgstr ""
+msgstr "穀物倉庫"
 
 # Korean constellation, pronounce: RyeoSeok
 msgid "Whetstone"
@@ -535,39 +551,39 @@ msgstr "巻舌(けんぜつ)"
 
 # Korean constellation, pronounce: CheonCham
 msgid "Shaman of Sky"
-msgstr ""
+msgstr "空のシャーマン"
 
 # Korean constellation, pronounce: Myo
 msgid "Ear and Eye of"
-msgstr ""
+msgstr "耳と目"
 
 # Korean constellation, pronounce: CheonAa
 msgid "Hill of Sky"
-msgstr ""
+msgstr "空の丘"
 
 # Korean constellation, pronounce: CheonEum
 msgid "Conspiracy of Sky"
-msgstr ""
+msgstr "空の陰謀"
 
 # Korean constellation, pronounce: ChuuGo
 msgid "Fodder"
-msgstr ""
+msgstr "飼料"
 
 # Korean constellation, pronounce: OoGeo
 msgid "Garage for Chariot"
-msgstr ""
+msgstr "チャリオット用ガレージ"
 
 # Korean constellation, pronounce: HaamJii
 msgid "Pond for Fish"
-msgstr ""
+msgstr "魚の池"
 
 # Korean constellation, pronounce: Ju
 msgid "Pillar"
-msgstr ""
+msgstr "柱"
 
 # Korean constellation, pronounce: CheonHwang
 msgid "Puddle of Sky"
-msgstr ""
+msgstr "空の水たまり"
 
 # Korean constellation, pronounce: JaeWaang
 msgid "Kings"
@@ -575,31 +591,31 @@ msgstr "公達"
 
 # Korean constellation, pronounce: CheonGwan
 msgid "Gateway of Sky"
-msgstr ""
+msgstr "空のゲートウェイ"
 
 # Korean constellation, pronounce: SaamGii
 msgid "Flage of Saam"
-msgstr ""
+msgstr "FlageまたはTogether"
 
 # Korean constellation, pronounce: CheonGa
 msgid "Village of Sky"
-msgstr ""
+msgstr "空の村"
 
 # Korean constellation, pronounce: CheonGo
 msgid "Belvedere of Sky"
-msgstr ""
+msgstr "空のベルヴェデーレ"
 
 # Korean constellation, pronounce: Piil
 msgid "General of Border"
-msgstr ""
+msgstr "国境の将軍"
 
 # Korean constellation, pronounce: CheonJeol
 msgid "Celebration of Sky"
-msgstr ""
+msgstr "空の祭典"
 
 # Korean constellation, pronounce: GuuYuu
 msgid "Flag of Emperor"
-msgstr ""
+msgstr "皇帝の旗"
 
 # Korean constellation, pronounce: GuJuJuGu
 msgid "Nine Territory"
@@ -607,39 +623,39 @@ msgstr "9地域"
 
 # Korean constellation, pronounce: CheonWon
 msgid "Garden of Sky"
-msgstr ""
+msgstr "空の庭"
 
 # Korean constellation, pronounce: JwaGii
 msgid "Settled Flag"
-msgstr ""
+msgstr "決済済みの旗"
 
 # Korean constellation, pronounce: SaaGwae
 msgid "Forcast Calamity"
-msgstr ""
+msgstr "予報の災難"
 
 # Korean constellation, pronounce: Zaa
 msgid "Scout of Three Troups"
-msgstr ""
+msgstr "三部隊のスカウト"
 
 # Korean constellation
 msgid "Saam"
-msgstr ""
+msgstr "一緒"
 
 # Korean constellation, pronounce: Beol
 msgid "Expeditionary Force"
-msgstr ""
+msgstr "遠征軍"
 
 # Korean constellation, pronounce: GuunJeong
 msgid "Well for Millitary"
-msgstr ""
+msgstr "ミリタリーのために"
 
 # Korean constellation, pronounce: OkJeong
 msgid "Well of Jade"
-msgstr ""
+msgstr "ジェイドの井戸"
 
 # Korean constellation, pronounce: Byeong
 msgid "Folding Screen"
-msgstr ""
+msgstr "屏風"
 
 # Korean constellation, pronounce: Cheuk
 msgid "Toilet"
@@ -651,11 +667,11 @@ msgstr "矢"
 
 # Korean constellation, pronounce: JeokShin
 msgid "Piled Brushwood"
-msgstr ""
+msgstr "パイルドブラシウッド"
 
 # Korean constellation, pronounce: BuukHa
 msgid "Northern River"
-msgstr ""
+msgstr "ノーザンリバー"
 
 # Korean constellation, pronounce: OJeHuu
 msgid "Five Lords"
@@ -663,23 +679,23 @@ msgstr "五諸侯(ごしょこう)"
 
 # Korean constellation, pronounce: CheonJuun
 msgid "Wine Glass of Sky"
-msgstr ""
+msgstr "空のワイングラス"
 
 # Korean constellation, pronounce: DongJeong
 msgid "Eastern Well"
-msgstr ""
+msgstr "イースタンウェル"
 
 # Korean constellation, pronounce: SuuBuu
 msgid "Flood control"
-msgstr ""
+msgstr "治水"
 
 # Korean constellation, pronounce: SuuWii
 msgid "Balance of Water"
-msgstr ""
+msgstr "水のバランス"
 
 # Korean constellation, pronounce: SaaDok
 msgid "Four Spirit of River"
-msgstr ""
+msgstr "フォースピリットオブリバー"
 
 # Korean constellation, pronounce: NamHa
 msgid "Southern River"
@@ -687,7 +703,7 @@ msgstr "南川"
 
 # Korean constellation, pronounce: GwolGu
 msgid "Twin Gate"
-msgstr ""
+msgstr "ツインゲート"
 
 # Korean constellation, pronounce: Ho
 msgid "Bow"
@@ -699,15 +715,15 @@ msgstr "狼の星"
 
 # Korean constellation, pronounce: YaGae
 msgid "Wild Fowls"
-msgstr ""
+msgstr "野鳥"
 
 # Korean constellation, pronounce: GuunShii
 msgid "Market for Army"
-msgstr ""
+msgstr "軍の市場"
 
 # Korean constellation, pronounce: Soun
 msgid "Grandchildren"
-msgstr ""
+msgstr "孫"
 
 # Korean constellation, pronounce: Za
 msgid "Son"
@@ -715,15 +731,15 @@ msgstr "子(し)/子息"
 
 # Korean constellation, pronounce: Zaang_iin
 msgid "Grown-up"
-msgstr ""
+msgstr "大人"
 
 # Korean constellation, pronounce: Noin
 msgid "Oldman"
-msgstr ""
+msgstr "老人"
 
 # Korean constellation, pronounce: Gwan
 msgid "Beacon"
-msgstr ""
+msgstr "ビーコン"
 
 # Korean constellation, pronounce: Kwii
 msgid "Eye of Sky"
@@ -731,11 +747,11 @@ msgstr "空の目"
 
 # Korean constellation, pronounce: JeokShii
 msgid "Pile of Dead"
-msgstr ""
+msgstr "死者の山"
 
 # Korean constellation, pronounce: CheonGu
 msgid "Green Ridge"
-msgstr ""
+msgstr "緑の尾根"
 
 # Korean constellation, pronounce: WaeJuu
 msgid "Outer Kitchen"
@@ -743,19 +759,19 @@ msgstr "外厨(がいちゅう)"
 
 # Korean constellation, pronounce: CheonGu
 msgid "Dog of Sky"
-msgstr ""
+msgstr "空の犬"
 
 # Korean constellation, pronounce: CheonSa
 msgid "Spirit of GuRyoung"
-msgstr ""
+msgstr "GuRyoungの精神"
 
 # Korean constellation, pronounce: JuuGii
 msgid "Flag of Wine Officer"
-msgstr ""
+msgstr "ワインオフィサーの旗"
 
 # Korean constellation, pronounce: Ryu
 msgid "Officer of Kitchen"
-msgstr ""
+msgstr "キッチンオフィサー"
 
 # Korean constellation, pronounce: NaePyeong
 msgid "Equality and Fair"
@@ -763,23 +779,23 @@ msgstr "平等と公正"
 
 # Korean constellation, pronounce: HeonWon
 msgid "Emperor HeonWon"
-msgstr ""
+msgstr "天元皇后"
 
 # Korean constellation, pronounce: Seong
 msgid "Capital of Sky"
-msgstr ""
+msgstr "空の首都"
 
 # Korean constellation, pronounce: Jiik
 msgid "Chief of Farming"
-msgstr ""
+msgstr "農業局長"
 
 # Korean constellation, pronounce: Jaang
 msgid "Officer of Tomb"
-msgstr ""
+msgstr "墓の役員"
 
 # Korean constellation, pronounce: CheonMyo
 msgid "Tomb of Sky"
-msgstr ""
+msgstr "空の墓"
 
 # Korean constellation, pronounce: iik
 msgid "Wing of Red Bird"
@@ -787,19 +803,19 @@ msgstr "赤い鳥の翼"
 
 # Korean constellation, pronounce: DonGu
 msgid "Eastern Pottery"
-msgstr ""
+msgstr "東陶器"
 
 # Korean constellation, pronounce: Jin
 msgid "Chariot of Emperor"
-msgstr ""
+msgstr "皇帝の戦車"
 
 # Korean constellation, pronounce: JangSaa
 msgid "Sand for Life"
-msgstr ""
+msgstr "人生のための砂"
 
 # Korean constellation, pronounce: GuunMuun
 msgid "Gateway for Troops"
-msgstr ""
+msgstr "軍のゲートウェイ"
 
 # Korean constellation, pronounce: NangJaang
 msgid "Guardian Knight"
@@ -815,15 +831,15 @@ msgstr "5大名"
 
 # Korean constellation
 msgid "SangJiin"
-msgstr ""
+msgstr "サンジン"
 
 # Korean constellation, pronounce: SoMii
 msgid "Low Fence"
-msgstr ""
+msgstr "ローフェンス"
 
 # Korean constellation, pronounce: TaeMi
 msgid "Tall Fence"
-msgstr ""
+msgstr "高いフェンス"
 
 # Korean constellation, pronounce: GuGyeong
 msgid "Nine Lords"
@@ -831,7 +847,7 @@ msgstr "9大名"
 
 # Korean constellation, pronounce: HoBuun
 msgid "Dung of Tiger"
-msgstr ""
+msgstr "虎の糞"
 
 # Korean constellation, pronounce: TeaJaa
 msgid "Crown Prince"
@@ -843,39 +859,39 @@ msgstr "五帝"
 
 # Korean constellation, pronounce: SaamGongNaeJwa
 msgid "Three Minister"
-msgstr ""
+msgstr "三大臣"
 
 # Korean constellation, pronounce: AlZaa
 msgid "Officer for Audience"
-msgstr ""
+msgstr "聴衆の役員"
 
 # Korean constellation, pronounce: MyeongDang
 msgid "Grave Front"
-msgstr ""
+msgstr "墓前"
 
 # Korean constellation, pronounce: YeongDae
 msgid "Observatory"
-msgstr ""
+msgstr "展望台"
 
 # Korean constellation, pronounce: YeoEoGwan
 msgid "Female Officer"
-msgstr ""
+msgstr "女将校"
 
 # Korean constellation, pronounce: JeonSaa
 msgid "Wide Lodging Area"
-msgstr ""
+msgstr "広い宿泊エリア"
 
 # Korean constellation, pronounce: PalGok
 msgid "Eight Cereals"
-msgstr ""
+msgstr "8つのシリアル"
 
 # Korean constellation, pronounce: CheonBae
 msgid "Advance Guard"
-msgstr ""
+msgstr "アドバンスガード"
 
 # Korean constellation, pronounce: SamGong
 msgid "Three Ministers"
-msgstr ""
+msgstr "三大臣"
 
 # Korean constellation, pronounce: BukDuu
 msgid "Northern Dipper"
@@ -883,15 +899,15 @@ msgstr "北斗(ほくと)"
 
 # Korean constellation, pronounce: EumDeok
 msgid "Virtue"
-msgstr ""
+msgstr "美徳"
 
 # Korean constellation, pronounce: Cheon_iil
 msgid "Emperor's God of War"
-msgstr ""
+msgstr "天皇の戦争の神"
 
 # Korean constellation, pronounce: Tae_iil
 msgid "Emperor's God of Weather"
-msgstr ""
+msgstr "天皇の天候の神"
 
 # Korean constellation, pronounce: NaeJuu
 msgid "Inner Kitchen"
@@ -899,39 +915,39 @@ msgstr "内厨(ないちゅう)"
 
 # Korean constellation, pronounce: HyeonGwa
 msgid "Flap of Flag"
-msgstr ""
+msgstr "旗のフラップ"
 
 # Korean constellation, pronounce: Saang
 msgid "Minister"
-msgstr ""
+msgstr "大臣"
 
 # Korean constellation, pronounce: TaeYaangSuu
 msgid "General and Minister"
-msgstr ""
+msgstr "総務大臣"
 
 # Korean constellation, pronounce: CheonRyoe
 msgid "Jail of Sky"
-msgstr ""
+msgstr "空の刑務所"
 
 # Korean constellation, pronounce: MunChang
 msgid "Six Department"
-msgstr ""
+msgstr "六部"
 
 # Korean constellation, pronounce: NaeGae
 msgid "Inner Stairway"
-msgstr ""
+msgstr "内階段"
 
 # Korean constellation, pronounce: CheonChang
 msgid "Spear of Sky"
-msgstr ""
+msgstr "空の槍"
 
 # Korean constellation, pronounce: HwaGae
 msgid "Cover for Emperor"
-msgstr ""
+msgstr "皇帝のカバー"
 
 # Korean constellation, pronounce: OJeJwa
 msgid "Place for Five Emperor"
-msgstr ""
+msgstr "5人の皇帝のための場所"
 
 # Korean constellation, pronounce: YuukGaap
 msgid "60 Years"
@@ -939,7 +955,7 @@ msgstr "60年"
 
 # Korean constellation, pronounce: CheonJu
 msgid "Kitchen of Sky"
-msgstr ""
+msgstr "空の台所"
 
 # Korean constellation, pronounce: BukGeuk
 msgid "North Pole"
@@ -947,59 +963,59 @@ msgstr "北極点"
 
 # Korean constellation, pronounce: GuJiin
 msgid "Wound Lodge"
-msgstr ""
+msgstr "創傷ロッジ"
 
 # Korean constellation, pronounce: Gaang
 msgid "Single-log Bridge"
-msgstr ""
+msgstr "単一ログブリッジ"
 
 # Korean constellation, pronounce: CheonHwangTaeJae
 msgid "Great Emperor"
-msgstr ""
+msgstr "大帝"
 
 # Korean constellation, pronounce: SaangSeo
 msgid "Officer for Opinion"
-msgstr ""
+msgstr "意見担当官"
 
 # Korean constellation, pronounce: CheonJu
 msgid "Pillar of Sky"
-msgstr ""
+msgstr "空の柱"
 
 # Korean constellation, pronounce: JuHaSa
 msgid "Secretary"
-msgstr ""
+msgstr "秘書"
 
 # Korean constellation, pronounce: YeoSa
 msgid "Maid"
-msgstr ""
+msgstr "メイド"
 
 # Korean constellation, pronounce: YeoSaang
 msgid "Desk of Woman"
-msgstr ""
+msgstr "女性の机"
 
 # Korean constellation, pronounce: DaeRii
 msgid "Judge Prison"
-msgstr ""
+msgstr "刑務所裁判官"
 
 # Korean constellation, pronounce: JaMi
 msgid "Purple Fence"
-msgstr ""
+msgstr "紫色のフェンス"
 
 # Korean constellation, pronounce: CheonGii
 msgid "Order of Sky"
-msgstr ""
+msgstr "空のオーダー"
 
 # Korean constellation, pronounce: ChilGong
 msgid "Seven Minister"
-msgstr ""
+msgstr "七大臣"
 
 # Korean constellation, pronounce: GwanSak
 msgid "Thread Straw"
-msgstr ""
+msgstr "糸わら"
 
 # Korean constellation, pronounce: CheonShi
 msgid "Market Fence"
-msgstr ""
+msgstr "市場フェンス"
 
 # Korean constellation, pronounce: Huu
 msgid "Feudal Lord"
@@ -1007,35 +1023,35 @@ msgstr "藩主"
 
 # Korean constellation, pronounce: JaeJwa
 msgid "Seat for Emperor"
-msgstr ""
+msgstr "天皇席"
 
 # Korean constellation, pronounce: JongSeong
 msgid "Royal Family"
-msgstr ""
+msgstr "王室"
 
 # Korean constellation, pronounce: JongJeong
 msgid "Head of Family"
-msgstr ""
+msgstr "家族の頭"
 
 # Korean constellation, pronounce: Jong_iin
 msgid "Record of Family"
-msgstr ""
+msgstr "家族の記録"
 
 # Korean constellation, pronounce: JongDaeBuu
 msgid "Officer for Family"
-msgstr ""
+msgstr "家族の役員"
 
 # Korean constellation, pronounce: ShiRuu
 msgid "Tower in Market"
-msgstr ""
+msgstr "市場の塔"
 
 # Korean constellation, pronounce: Gok
 msgid "Measure Cereal"
-msgstr ""
+msgstr "穀物を測定する"
 
 # Korean constellation, pronounce: Duu
 msgid "Cereal Measure Regulation"
-msgstr ""
+msgstr "穀物対策規制"
 
 # Korean constellation, pronounce: HwanJaa
 msgid "Eunuch"
@@ -1043,40 +1059,40 @@ msgstr "勢(せい)"
 
 # Korean constellation, pronounce: GeoSaa
 msgid "Officer for Chariots"
-msgstr ""
+msgstr "戦車の役員"
 
 # Korean constellation, pronounce: BaekTaak
 msgid "Measure Amount"
-msgstr ""
+msgstr "量を測定"
 
 # Korean constellation, pronounce: DoSaa
 msgid "Butchery"
-msgstr ""
+msgstr "肉屋"
 
 # Korean constellation, pronounce: YeolSaa
 msgid "Officer for Jewel"
-msgstr ""
+msgstr "ジュエルのオフィサー"
 
 # Korean constellation, pronounce: JwaHaal
 msgid "Royal"
-msgstr ""
+msgstr "王立"
 
 # Korean constellation, pronounce: UuHaal
 msgid "Lord"
-msgstr ""
+msgstr "主"
 
 # Korean constellation, pronounce: JwaJipBeop
 msgid "Left Executor"
-msgstr ""
+msgstr "左の執行者"
 
 # Korean constellation, pronounce: UuJipBeop
 msgid "Right Executor"
-msgstr ""
+msgstr "右の執行者"
 
 # Korean constellation, pronounce: HeoRyang
 msgid "Crossbeam for Heo"
-msgstr ""
+msgstr "Heoのクロスビーム"
 
 # Korean constellation, pronounce: CheonJeon
 msgid "Threading Coins"
-msgstr ""
+msgstr "スレッディングコイン"

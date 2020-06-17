@@ -19,6 +19,9 @@ msgid ""
 "the night sky. William Stanbridge wrote in 1857 that they \"Pride themselves"
 " upon knowing more of Astronomy than any other tribe\"."
 msgstr ""
+"De Boorong zijn inheemse Australiërs die de nachtelijke hemel goed kenden. "
+"William Stanbridge schreef in 1857 dat ze \"er trots op zijn meer van "
+"astronomie te kennen dan welke andere stam ook\"."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -53,12 +56,44 @@ msgid ""
 "|Yerredetkurrk | Owlet nightjar | Achernar|\n"
 "|Yurree | Fan-tailed cockatoo | Castor |"
 msgstr ""
+"Honderdveertig jaar geleden vertelde een familie Boorong aan Lake Tyrrell (Noordwest-Victoria, Australië) William Stanbridge iets van hun verhalen over de nachtelijke hemel. Zo'n veertig sterren, sterrenbeelden en andere hemelverschijnselen werden genoemd en gelokaliseerd. Hij schreef ze op en bracht deze informatie in 1857 in verband met het Philosophical Institute in Melbourne. In zijn paper schreef hij de Aboriginal-term op en gaf zijn Europese equivalent. Wat John Morieson heeft gedaan, is deze hemelverschijnselen van dichtbij bekijken, proberen ze op bevredigende wijze te identificeren en de manier waarop de Boorong-bevolking ze heeft gezien, te imiteren. John's interpretatie werd gebruikt om de sterrenbeelden in Stellarium te creëren.\n"
+"\n"
+"### Sterrenbeelden en andere hemellichamen\n"
+"\n"
+"| Naam | Toelichting | Hemelse Aanwijzing |\n"
+"| --------------- | ------------------- | ------------- ---- |\n"
+"| Boorong | Nacht; kleine mallee; sterrenhemel firmament Sterrenhemel firmament 's nachts |\n"
+"| Bittur | Larven van het bos | - |\n"
+"| Millee | Murray River | Een deel van de Melkweg |\n"
+"| Mindi | De manen slang | Een deel van de Melkweg |\n"
+"| Neilloan | Mallee gevogelte | Lyra |\n"
+"| Nurrumbunguttias | Oude man, mallee kangoeroe met zwarte kop | Witte uitstraling van de Melkweg |\n"
+"| Otchocut | Geweldige vis | Delphinus |\n"
+"| Porkelong toute | Verlies van tand | Vallende ster |\n"
+"| Pupperimbul | Diamond firetail finch of verlegen hylacola | Droeg het emoe-ei om de zon te worden\n"
+"| Purra | Rode kangoeroe | Capella |\n"
+"| Tchingal | De lange; emoe | Donkere ruimte bij Cross |\n"
+"| Totyarguil | Paars gekroonde parkiet | Altair |\n"
+"| Tourchingboiongerra | Needlewood hakea en willie kwikstaarten | Coma Berenices |\n"
+"| Tourte | Ster | Elke ster |\n"
+"| Tyrille | Ruimte; nachtelijke hemel | Ruimte; nachtelijke hemel |\n"
+"| Unurgunite | Jacky hagedis | Sigma Canis Majoris |\n"
+"| Wanjel | Schildpad met lange hals | Pollux |\n"
+"| Oorlog | Kraai | Canopus |\n"
+"| Warepil | Wigstaartarend | Sirius |\n"
+"| Oorlog voeren | Galaxy | Melkweg |\n"
+"| Weetkurrk | Zingende bushlark | Ster in Bootes ten westen van Arcturus |\n"
+"| Gewonnen | Boemerang | Corona Australis |\n"
+"| Yerredetkurrk | Owlet nachtzwaluw | Achernar |\n"
+"| Yurree | Waaierstaartkaketoe | Castor |"
 
 # Sky culture references section in markdown format
 msgid ""
 " - [#1]: Morison, John: The Night Sky of the Boorong, Partial Reconstruction of a Disappeared Culture in North-West Victoria, Master Thesis (MA of Arts), University of Melbourne, 1966\n"
 " - [#2]: [Aboriginal Astronomy](http://www.aboriginalastronomy.com.au/)"
 msgstr ""
+" - [#1]: Morison, John: The Night Sky of the Boorong, Partial Reconstruction of a Disappeared Culture in North-West Victoria, Master Thesis (MA of Arts), University of Melbourne, 1966\n"
+" - [#2]: [Aboriginal Astronomy](http://www.aboriginalastronomy.com.au/)"
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -66,10 +101,13 @@ msgid ""
 "\n"
 "technical rework: Susanne M Hoffmann"
 msgstr ""
+"Deze luchtcultuur werd bijgedragen door John Morieson en [Alex Cherney](http://www.terrastro.com).\n"
+"\n"
+"technisch rework: Susanne M Hoffmann"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"
-msgstr ""
+msgstr "GNU GPL v2.0"
 
 # Boorong constellation, native: Wanjel
 msgid "Long-necked tortoise"
@@ -133,11 +171,11 @@ msgstr "Amphibolurus muricatus"
 
 # Boorong constellation, native: Kourt-chin
 msgid "Female brolga"
-msgstr ""
+msgstr "Vrouwelijke brolga"
 
 # Boorong constellation, native: Kourt-chin
 msgid "Male brolga"
-msgstr ""
+msgstr "Man brolga"
 
 # Boorong constellation, native: Otchocut
 msgid "Great fish"

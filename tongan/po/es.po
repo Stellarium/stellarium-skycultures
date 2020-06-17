@@ -18,6 +18,8 @@ msgid ""
 "As in all Polynesian star lore, Tongan sky culture descends from the "
 "practical application of nautical navigation."
 msgstr ""
+"Como en toda la tradición estelar polinesia, la cultura del cielo de Tonga "
+"desciende de la aplicación práctica de la navegación náutica."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -72,6 +74,56 @@ msgid ""
 "\n"
 "--------------------"
 msgstr ""
+"En algunas circunstancias, la separación de los nombres de estrellas individuales de los nombres de \"ruta de estrellas\" no se puede resolver. Una estrella puede tener múltiples nombres 1) si la estrella es parte de numerosos caminos estelares y 2) ya que el nombre de las estrellas puede diferir dependiendo del grupo de islas de Tonga del que se origina. La nomenclatura de las estrellas se aproxima en función de los recursos limitados disponibles.\n"
+"\n"
+"Si bien las estrellas y constelaciones más notables / comunes (es decir, Orión, Pléyades, Crux) se identifican en la tradición estelar de Tonga, hay dos excepciones notables. Hay una ausencia de nomenclatura de la estrella del Norte (Polaris: α UMi). Esto es peculiar considerando la latitud de las islas Tongan y la prominencia de esta estrella en ciertas épocas del año. En el caso de cualquier viaje hacia el norte desde Tonga, un hito de navegación tan importante no podría pasar desapercibido. La constelación de Escorpio (partes en, o estrellas de) también están ausentes de la tradición estelar de Tonga. Esto es sorprendente ya que la gran mayoría de la tradición estelar, global y polinesia, tiene a Escorpio como una constelación central debido a que se identifica fácilmente y está casi directamente enfrente de Orión en el cielo nocturno (Stellarium agradecería cualquier conocimiento adicional sobre estas dos anomalías )\n"
+"\n"
+"La ascendencia común de las estrellas polinesias es evidente en las similitudes en el etiquetado de las estrellas. Por ejemplo, las Pléyades se llaman Mataliki en tongano, Matariki en maorí y Makali'i en hawaiano.\n"
+"\n"
+"### Nomenclatura\n"
+"\n"
+"El | Término tongano | Designación |\n"
+"| ------------- | ------- |\n"
+"El | Humu | Saco de carbón |\n"
+"El | Kaniva | Vía Láctea |\n"
+"El | Ma'afulele | Gran nube de Magallanes |\n"
+"El | Ma'afutoka | Pequeña nube de Magallanes |\n"
+"El | 'otu Ma'afu | Nubes de Magallanes (ambos) |\n"
+"El | Ha'amonga | Ecliptic |\n"
+"El | Mahina | Luna |\n"
+"El | La'a | Sol |\n"
+"El | Fetu'u | Estrella (en general) |\n"
+"El | Fetu'ufuka | Cometa |\n"
+"El | «Umata | Arcoiris |\n"
+"El | Fetu'u'Esiafi | Estrella fugaz |\n"
+"El | tapukitea | Venus |\n"
+"El | Matamemea | Marte |\n"
+"El | Ma'afutoka (igual que SMC) | Canopus |\n"
+"El | Ma'afulele (igual que LMC) | Sirius |\n"
+"El | Velitoa hififo | Rigel\n"
+"El | Velitoa hahake | Betelguese |\n"
+"El | Hikule'o | Arcturus |\n"
+"El | Monuafe | Meissa\n"
+"El | Motuliki | Pléyades |\n"
+"El | Tu'ulalupe | Hyades |\n"
+"El | Toloatonga | Cruz del sur |\n"
+"El | Toloalahi | Cruz falsa |\n"
+"\n"
+"\n"
+"__ Constelaciones de Tonga__\n"
+"\n"
+"El | Nombre tongano | Designación o notas |\n"
+"| ------------- | ------- |\n"
+"El | Tuinga ika | Parte de Orión, cinturón y espada |\n"
+"El | Ae e'Uvea | Corona Boreal (_Especulativa_) |\n"
+"El | Fatanalua | Coma Berenices (_Especulativo_) |\n"
+"El | Kapakau'o'tafahi | Casiopea (_Especulativa_) |\n"
+"El | Toloa | Cinturón de Orión |\n"
+"El | Lua tangata | Cástor y / o Pólux |\n"
+"El | Fungasia Tolimán y / o Agena |\n"
+"El | Houmatoloa (Toloa, toloatonga, toloalahi) | - |\n"
+"\n"
+"--------------------"
 
 # Sky culture references section in markdown format
 msgid ""
@@ -79,6 +131,9 @@ msgid ""
 " - [#2]: T.H Fale, _Tongan astronomy_, 1990 Polynesian Eyes foundation, Nuku'alofa, TongaChoice printing.\n"
 " - [#3]: E. E. V. Collocott, _Tongan astronomy and calendar_, 1992 Occasional Papers of the Bernice Pauahi Bishop Museum of Polynesian ethnology and Natural History, Vol. 8, No. 4 Honolulu, Hawaii, Bishop Museum Press 1922, p. 157-173."
 msgstr ""
+" - [#1]: Velt Kik, _Ko E Ngaahi fetu'u 'o, Estrellas sobre tonga_, 1990' Universidad de Atenisi, Nuku'alofa, departamento de impresión del gobierno de Tonga.\n"
+" - [#2]: TH Fale, astronomía de Tonga, fundación Polynesian Eyes de 1990, Nuku'alofa, impresión TongaChoice.\n"
+" - [#3]: EEV Collocott, _Tongan astronomy and calendar_, 1992 Documentos ocasionales del Museo Episcopal Bernice Pauahi de Etnología e Historia Natural Polinesia, vol. 8, N ° 4 Honolulu, Hawai, Bishop Museum Press 1922, p. 157-173."
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -86,6 +141,9 @@ msgid ""
 "\n"
 "technical adaption: Susanne M Hoffmann "
 msgstr ""
+"Esta cultura del cielo fue aportada por el usuario de Stellarium [Dan Smale](d.smale@niwa.co.nz)\n"
+"\n"
+"adaptación técnica: Susanne M Hoffmann"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"
@@ -93,44 +151,44 @@ msgstr "GNU GPL v2.0"
 
 # Tongan constellation, native: Toloatonga
 msgid "Southern Wild Duck"
-msgstr ""
+msgstr "Pato salvaje del sur"
 
 # Tongan constellation, native: Lua tangata
 msgid "Two Men"
-msgstr ""
+msgstr "Dos hombres"
 
 # Tongan constellation, native: Toloa
 msgid "Wild Duck"
-msgstr ""
+msgstr "Pato salvaje"
 
 # Tongan constellation, native: Tu'ulalupe
 msgid "Pigeon Perch"
-msgstr ""
+msgstr "Perca"
 
 # Tongan constellation, native: Toloalahi
 msgid "Big Wild Duck"
-msgstr ""
+msgstr "Pato salvaje grande"
 
 # Tongan constellation, native: Fungasia
 msgid "Mound Top"
-msgstr ""
+msgstr "Montículo superior"
 
 # Tongan constellation, native: Tuinga ika
 msgid "String of fishes"
-msgstr ""
+msgstr "Cadena de peces"
 
 # Tongan constellation, native: Houmatoloa
 msgid "Wild Duck's Point of Land"
-msgstr ""
+msgstr "Punto de tierra del pato salvaje"
 
 # Tongan constellation, native: Fatanalua
 msgid "Two Carriers"
-msgstr ""
+msgstr "Dos portadores"
 
 # Tongan constellation, native: ʻAo ʻo ʻUvea
 msgid "Cloud of 'Uvea"
-msgstr ""
+msgstr "Nube de 'Uvea"
 
 # Tongan constellation, native: Kapakau'o'tafahi
 msgid "Wing of Tafahi"
-msgstr ""
+msgstr "Ala de Tafahi"

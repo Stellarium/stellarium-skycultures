@@ -11,7 +11,7 @@ msgstr ""
 
 # Sky culture name
 msgid "Modern (Sky & Telescope,2014)"
-msgstr ""
+msgstr "モダン（Sky＆Telescope、2014）"
 
 # Sky culture introduction section in markdown format
 msgid ""
@@ -20,6 +20,8 @@ msgid ""
 "them. Thus, several sub-cultures were developed during the past century: "
 "This sky culture was developed by the Sky and Telescope Magazine."
 msgstr ""
+"1928年に、国際天文学連合（IAU）はこれらの領域の境界のみを定義し[#4]、その中でのアート作品の描画方法は定義しませんでした。したがって、過去1世紀にいくつかのサブカルチャーが開発されました。この空のカルチャーは、Sky"
+" and Telescope Magazineによって開発されました。"
 
 # Sky culture description section in markdown format
 msgid ""
@@ -35,6 +37,17 @@ msgid ""
 "\n"
 "The method used by Sky & Telescope to select \"their\" star names from historical ones is explained in detail in their Style Book: SnT_star_names.docx file. It is strongly based on Bayer's and Flamsteed's historical atlases and strongly influenced by [#6], [#7], and [#8]."
 msgstr ""
+"現在、空は歴史的な星座と同じ名前の88のエリアに分かれており、そのほとんどは古代ギリシャの星カタログに由来しています（説明については、「モダン（デフォルト）」の空の文化を参照してください）。\n"
+"\n"
+"アメリカの人気天文学誌「Sky＆Telescope」[#1]は、スティックフィギュア専用の画家を雇いましたが、星座のアートワークはありませんでした。この雑誌の読者、Sky Atlas 2000.0、およびS＆T Pocket Sky Atlasはこのスタイルに慣れており、好むかもしれませんが、Stellariumはそれを表示できるようになりました。\n"
+"\n"
+"###星座\n"
+"\n"
+"正確な境界を持つ88の星座の領域は、国際天文学連合[#4]から取得されます。\n"
+"\n"
+"###星の名前\n"
+"\n"
+"Sky＆Telescopeが歴史的な星の名前から「自分の」星の名前を選択する方法については、スタイルブックのSnT_star_names.docxファイルで詳しく説明しています。これは、バイエルとフラムスティードの歴史的アトラスに強く基づいており、[#6]、[#7]、および[#8]の影響を強く受けています。"
 
 # Sky culture references section in markdown format
 msgid ""
@@ -48,6 +61,15 @@ msgid ""
 " - [#7]: Kunitzsch, Paul, and Tim Smart. Short Guide to Modern Star Names and Their Derivations. Otto Harrassowitz, 1986, republished by Sky and Telescope in 2006.\n"
 " - [#8]: Davis, George A. “The Pronunciations, Derivations, and Meanings of a Selected List of Star Names.” Popular Astronomy, Jan 1944."
 msgstr ""
+"\n"
+" - [#1]: [Sky＆Telescope](https://www.skyandtelescope.com)ホームページ\n"
+" - [#2]: [S＆Tスタイルブック、A13](https://fossies.org/linux/stellarium/skycultures/western_SnT/SnT_star_names.docx)フランダース、トニー：S＆Tのスタイルブック、付録13、2014\n"
+" - [#3]: ウィキペディアの[スターカタログ](http://en.wikipedia.org/wiki/Star_catalogue)の記事\n"
+" - [#4]: [公式のIAU星座情報](http://www.iau.org/public/constellations/)\n"
+" - [#5]: ウィキペディアの[コンステレーション](http://en.wikipedia.org/wiki/Constellation)の記事\n"
+" - [#6]: ホフライト、ドリット。ブライトスターカタログ、第4回転。イェール大学天文台、1982年。\n"
+" - [#7]: Kunitzsch、Paul、Tim Smart。モダンスターの名前とその派生への短いガイド。 Otto Harrassowitz、1986年、Sky and Telescopeにより2006年に再版。\n"
+" - [#8]: デービス、ジョージA.「スター名の選択されたリストの発音、派生、および意味。」人気の天文学、1944年1月。"
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -55,6 +77,9 @@ msgid ""
 "\n"
 "reworked by Stellarium Team (Susanne M Hoffmann)"
 msgstr ""
+"[Paul Krizak]（mailto：paul.krizak@gmail.com）および[Jonathan E. Piskor]（mailto：jonathan.e.piskor@gmail.com）\n"
+"\n"
+"Stellarium Team（Susanne M Hoffmann）により再作成"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"

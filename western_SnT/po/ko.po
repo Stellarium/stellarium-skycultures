@@ -11,7 +11,7 @@ msgstr ""
 
 # Sky culture name
 msgid "Modern (Sky & Telescope,2014)"
-msgstr ""
+msgstr "현대 (Sky & Telescope, 2014)"
 
 # Sky culture introduction section in markdown format
 msgid ""
@@ -20,6 +20,8 @@ msgid ""
 "them. Thus, several sub-cultures were developed during the past century: "
 "This sky culture was developed by the Sky and Telescope Magazine."
 msgstr ""
+"1928 년, 국제 천문 연맹 (IAU)은이 분야의 경계를 정의하고 [#4] 그 안에 예술 작품을 그리는 방식은 정의하지 않았습니다. "
+"따라서 지난 세기 동안 여러 하위 문화가 개발되었습니다.이 하늘 문화는 Sky and Telescope Magazine에서 개발했습니다."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -35,6 +37,17 @@ msgid ""
 "\n"
 "The method used by Sky & Telescope to select \"their\" star names from historical ones is explained in detail in their Style Book: SnT_star_names.docx file. It is strongly based on Bayer's and Flamsteed's historical atlases and strongly influenced by [#6], [#7], and [#8]."
 msgstr ""
+"오늘날, 하늘은 역사적 별자리와 같은 이름을 가진 88 개의 지역으로 나뉘어져 있으며, 대부분 고대 그리스 스타 카탈로그에서 유래합니다 (설명은 \"현대 (기본)\"하늘 문화 참조).\n"
+"\n"
+"미국의 유명한 천문학 잡지 인 \"Sky & Telescope\"[#1]는 별자리는 없지만 별자리 예술 작품은 자신의 화가를 고용했습니다. 이 잡지의 독자 인 Sky Atlas 2000.0 및 S & T Pocket Sky Atlas는이 스타일에 익숙하며 선호 할 수도 있습니다. Stellarium은이를 표시 할 수있었습니다.\n"
+"\n"
+"별자리\n"
+"\n"
+"정확한 경계를 가진 88 개의 별자리 영역은 국제 천문 연합 [#4]에서 가져 왔습니다.\n"
+"\n"
+"### 별 이름\n"
+"\n"
+"Sky & Telescope가 역사적인 별에서 \"그들의\"별 이름을 선택하기 위해 사용하는 방법은 스타일 북 : SnT_star_names.docx 파일에 자세히 설명되어 있습니다. Bayer와 Flamsteed의 역사적인지도 책을 기반으로하며 [#6], [#7] 및 [#8]의 영향을 많이받습니다."
 
 # Sky culture references section in markdown format
 msgid ""
@@ -48,6 +61,15 @@ msgid ""
 " - [#7]: Kunitzsch, Paul, and Tim Smart. Short Guide to Modern Star Names and Their Derivations. Otto Harrassowitz, 1986, republished by Sky and Telescope in 2006.\n"
 " - [#8]: Davis, George A. “The Pronunciations, Derivations, and Meanings of a Selected List of Star Names.” Popular Astronomy, Jan 1944."
 msgstr ""
+"\n"
+" - [#1]: [하늘 및 망원경](https://www.skyandtelescope.com) 홈페이지\n"
+" - [#2]: [S & T Stylebook, A13](https://fossies.org/linux/stellarium/skycultures/western_SnT/SnT_star_names.docx) Flanders, Tony : S & T의 스타일북, 부록 13, 2014\n"
+" - [#3]: [Star Catalogue](http://en.wikipedia.org/wiki/Star_catalogue) Wikipedia 기사\n"
+" - [#4]: [공식 IAU 별자리 정보](http://www.iau.org/public/constellations/)\n"
+" - [#5]: [별자리] (http://en.wikipedia.org/wiki/ 별자리) Wikipedia 기사\n"
+" - [#6]: 호 플리트, 도리 트. 밝은 별 카탈로그, 제 4 개정. 예일대 학교 천문대, 1982.\n"
+" - [#7]: Kunitzsch, Paul 및 Tim Smart. 현대의 별명과 그 파생물에 대한 짧은 안내서. 1986 년 Otto Harrassowitz는 Sky and Telescope에 의해 2006 년에 다시 출판되었습니다.\n"
+" - [#8]: Davis, George A.“선택된 별 이름 목록의 발음, 파생 및 의미” 1944 년 1 월"
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -55,6 +77,9 @@ msgid ""
 "\n"
 "reworked by Stellarium Team (Susanne M Hoffmann)"
 msgstr ""
+"[Paul Krizak] (mailto : paul.krizak@gmail.com) 및 [Jonathan E. Piskor] (mailto : jonathan.e.piskor@gmail.com)\n"
+"\n"
+"스텔라 리움 팀 (Susanne M Hoffmann)의 재 작업"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"

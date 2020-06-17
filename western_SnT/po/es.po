@@ -11,7 +11,7 @@ msgstr ""
 
 # Sky culture name
 msgid "Modern (Sky & Telescope,2014)"
-msgstr ""
+msgstr "Moderno (Sky & Telescope, 2014)"
 
 # Sky culture introduction section in markdown format
 msgid ""
@@ -20,6 +20,10 @@ msgid ""
 "them. Thus, several sub-cultures were developed during the past century: "
 "This sky culture was developed by the Sky and Telescope Magazine."
 msgstr ""
+"En 1928, la Unión Astronómica Internacional (IAU) solo definió los límites "
+"de estas áreas [#4] y no la forma de dibujar obras de arte dentro de ellas. "
+"Por lo tanto, se desarrollaron varias subculturas durante el siglo pasado: "
+"esta cultura del cielo fue desarrollada por la revista Sky and Telescope."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -35,6 +39,17 @@ msgid ""
 "\n"
 "The method used by Sky & Telescope to select \"their\" star names from historical ones is explained in detail in their Style Book: SnT_star_names.docx file. It is strongly based on Bayer's and Flamsteed's historical atlases and strongly influenced by [#6], [#7], and [#8]."
 msgstr ""
+"Hoy en día, el cielo está dividido en 88 áreas que tienen los mismos nombres que las constelaciones históricas, en su mayoría procedentes de catálogos de estrellas griegas antiguas (consulte la cultura del cielo \"Moderno (predeterminado)\" para obtener una descripción).\n"
+"\n"
+"La popular revista estadounidense de astronomía \"Sky & Telescope\" [#1] contrató a un propio pintor para figuras de palo pero no para obras de arte de constelaciones. Como lectores de esta revista, el Sky Atlas 2000.0 y el S&T Pocket Sky Atlas están acostumbrados a este estilo y podrían preferirlo, Stellarium estaba habilitado para mostrarlo.\n"
+"\n"
+"### Constelaciones\n"
+"\n"
+"Las áreas de las 88 constelaciones con límites precisos se toman de la Unión Astronómica Internacional [#4].\n"
+"\n"
+"### Nombres de estrellas\n"
+"\n"
+"El método utilizado por Sky & Telescope para seleccionar \"sus\" nombres de estrellas de los históricos se explica en detalle en su archivo Style Book: SnT_star_names.docx. Está fuertemente basado en los atlas históricos de Bayer y Flamsteed y fuertemente influenciado por [#6], [#7] y [#8]."
 
 # Sky culture references section in markdown format
 msgid ""
@@ -48,6 +63,15 @@ msgid ""
 " - [#7]: Kunitzsch, Paul, and Tim Smart. Short Guide to Modern Star Names and Their Derivations. Otto Harrassowitz, 1986, republished by Sky and Telescope in 2006.\n"
 " - [#8]: Davis, George A. “The Pronunciations, Derivations, and Meanings of a Selected List of Star Names.” Popular Astronomy, Jan 1944."
 msgstr ""
+"\n"
+" - [#1]: página de inicio de [Sky & Telescope](https://www.skyandtelescope.com)\n"
+" - [#2]: [S&T Stylebook, A13](https://fossies.org/linux/stellarium/skycultures/western_SnT/SnT_star_names.docx) Flanders, Tony: Libro de estilo de S&T, Apéndice 13, 2014\n"
+" - [#3]: [Star Catalog](http://en.wikipedia.org/wiki/Star_catalogue) artículo en Wikipedia\n"
+" - [#4]: [Información oficial de la constelación de IAU](http://www.iau.org/public/constellations/)\n"
+" - [#5]: [Constellation](http://en.wikipedia.org/wiki/Constellation) artículo en Wikipedia\n"
+" - [#6]: Hoffleit, Dorrit. The Bright Star Catalogue, 4ª rev. Observatorio de la Universidad de Yale, 1982.\n"
+" - [#7]: Kunitzsch, Paul y Tim Smart. Guía breve de nombres de estrellas modernos y sus derivaciones. Otto Harrassowitz, 1986, republicado por Sky and Telescope en 2006.\n"
+" - [#8]: Davis, George A. \"Las pronunciaciones, derivaciones y significados de una lista seleccionada de nombres de estrellas\". Astronomía popular, enero de 1944."
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -55,6 +79,9 @@ msgid ""
 "\n"
 "reworked by Stellarium Team (Susanne M Hoffmann)"
 msgstr ""
+"[Paul Krizak] (mailto: paul.krizak@gmail.com) y [Jonathan E. Piskor] (mailto: jonathan.e.piskor@gmail.com)\n"
+"\n"
+"reelaborado por el Equipo Stellarium (Susanne M Hoffmann)"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"

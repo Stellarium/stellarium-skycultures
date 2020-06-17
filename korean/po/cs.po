@@ -23,6 +23,12 @@ msgid ""
 "the constellations first appear in the Records of the Grand Historian (史記) "
 "in Han dynasty describing Xia dynasty in about 2000 BCE."
 msgstr ""
+"Čínské, korejské a japonské souhvězdí mají stejný původ a vypadají velmi "
+"podobným tvarem. Jsou zastoupeny v časopise Dun Huang z 8. století, na mapě "
+"_Cheon-Sang-Yeol-Cha-Bun-Ya-Ji-Do_ a na mapě Kitora namalované v 7. až 8. "
+"století CE. Jejich pozice a jména jsou v čínské abecedě podobné. Název "
+"souhvězdí se poprvé objevil v Záznamech velkého historika (史記) v dynastii "
+"Han popisující dynastii Xia v roce 2000 před naším letopočtem."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -34,6 +40,13 @@ msgid ""
 "\n"
 "The origin of this Korean celestial map is another sky map which existed about 2,000 years ago, the Chinese Suzhou map (cf: Chinese sky culture). The original Korean map grouped the 1467 stars in about 190 constellations. The shapes of the depictions are slightly different from the Chinese ones. "
 msgstr ""
+"### Původ\n"
+"\n"
+"272 souhvězdí zobrazených v této kultuře nebe Stellarium jsou založeny na Korejské souhvězdí Korejského souhvězdí, které bylo vytesáno do kamene 1395. Šířka černé koruny byla 122,5 cm na šířku , 211 cm na výšku a 12 cm na hloubku; hvězdy byly zvýrazněny bíle. Mapa zobrazuje 1 467 hvězd, [#1] 264 souhvězdí a jejich jména, ekliptické a rovníkové linie a 365 čínských \"stupňů\" celého kruhu. Byl sestaven jako kopie dřívější korejské mapy (hvězdná mapa Goguryeo) čínských kořenů a díky nedávným pozorováním se v detailech změnil. Proto jsou některé hvězdy vyryty na svých souřadnicích až o tisíciletí dříve a pro některé (skupiny) hvězd je použita precese.\n"
+"\n"
+"Interpretace mapy není jednoduchá: mapa je tak stará, že se najde jen asi 300 hvězd, které odpovídají skutečným hvězdám. Všechny hvězdy mapy byly nakresleny na kruhu, takže se rovník zdá menší než jižní hranice. Protože hustota souhvězdí se nemění s ohledem na polohu, poloha a velikost souhvězdí byly autorem poněkud změněny způsobem neznámým. Předpokládá se, že by neměly existovat žádné jasné hvězdy, které nepatří k žádné souhvězdí. Dílo autora podléhá interpretaci a mohlo by být později změněno. Zhruba však ukáže, jaké jsou korejské souhvězdí.\n"
+"\n"
+"Původ této korejské nebeské mapy je další mapa oblohy, která existovala před asi 2 000 lety, mapa čínského Su-čou (srov. Čínská obloha) Původní korejská mapa seskupila 1467 hvězd do asi 190 souhvězdí. Tvary zobrazení se mírně liší od čínských."
 
 # Sky culture references section in markdown format
 msgid ""
@@ -41,6 +54,9 @@ msgid ""
 " - [#2]: [digitalized map](https://digicult2.thulb.uni-jena.de/rsc/viewer/digicult_derivate_00115090/Sternkarte2.tif)\n"
 " - [#3]: [Data for the digitalized reproduction](http://sammlungen.uni-jena.de/sammlungsobjekte/p/1/h/1/nc/1.html?tx_jomuseo_pi1009%5BjoDetailView%5D=DE-MUS-046828%2Flido%2Fdc00000039)"
 msgstr ""
+" - [#1]: [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/Cheonsang_Yeolcha_Bunyajido)\n"
+" - [#2]: [digitalizovaná mapa](https://digicult2.thulb.uni-jena.de/rsc/viewer/digicult_derivate_00115090/Sternkarte2.tif)\n"
+" - [#3]: [Data pro digitalizovanou reprodukci] (http://sammlungen.uni-jena.de/sammlungsobjekte/p/1/h/1/nc/1.html?tx_jomuseo_pi1009%5BjoDetailView%5D=DE-MUS- 046828% 2Flido% 2Fdc00000039)"
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -48,10 +64,13 @@ msgid ""
 "\n"
 "Reworked by Susanne M Hoffmann"
 msgstr ""
+"K této kultuře oblohy přispěl uživatel Stellarium [Jeong, Tae-Min](http://user.chollian.net/~jtm71/)\n"
+"\n"
+"Přepracoval Susanne M. Hoffmann"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"
-msgstr ""
+msgstr "GNU GPL v2.0"
 
 # Korean constellation, pronounce: JuJeong
 msgid "Holy Kettle"

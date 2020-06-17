@@ -18,6 +18,8 @@ msgid ""
 "As in all Polynesian star lore, Tongan sky culture descends from the "
 "practical application of nautical navigation."
 msgstr ""
+"Stejně jako ve všech polynéských hvězdných povstáních i Tonganská nebe "
+"pochází z praktické aplikace námořní navigace."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -72,6 +74,56 @@ msgid ""
 "\n"
 "--------------------"
 msgstr ""
+"Za určitých okolností nelze oddělit jednotlivé názvy hvězd od názvů „hvězdných cest“. Hvězda může mít více jmen 1), pokud je hvězda součástí mnoha hvězdných cest a 2), protože pojmenování hvězd se může lišit v závislosti na tom, ze které skupiny ostrovů Tongan pochází. Nomenklatura hvězd je aproximována na základě omezených dostupných zdrojů.\n"
+"\n"
+"Zatímco nejvýznamnější / společné hvězdy a souhvězdí (tj. Orion, Plejády, Crux) jsou identifikovány v tradici Tonganských hvězd, existují dvě významné výjimky. Není přítomna pojmenování severní hvězdy (Polaris: α UMi). To je zvláštní vzhledem k zeměpisné šířce Tonganských ostrovů a významu této hvězdy v určitých obdobích roku. V případě jakýchkoli severních cest z Tongy by tak důležitá navigační orientační bod nemohla zůstat bez povšimnutí. Souhvězdí Štíra (části nebo hvězdy) také chybí v Tonganské hvězdné tradici. To je překvapivé, protože převážná většina hvězdných filmů - globálně a polynéských - má Štíra jako ústřední souhvězdí, protože je snadno identifikovatelná a že je téměř přímo naproti Orionu na noční obloze (Stellarium by uvítala jakékoli další znalosti o těchto dvou anomáliích) ).\n"
+"\n"
+"Obyčejný předek polynéské hvězdné tradice je patrný v podobnosti v označování hvězd. Například Plejády se nazývají Mataliki v Tonganu, Matariki v Maori a Makali'i v Havaji.\n"
+"\n"
+"### Nomenklatura\n"
+"\n"
+"| Tonganský termín | Označení\n"
+"| ------------- | ------- |\n"
+"| Humu | Pytel na uhlí |\n"
+"| Kaniva | Mléčná dráha\n"
+"| Ma'afulele | Velký Magellanův oblak |\n"
+"| Ma'afutoka | Malý Magellanův oblak |\n"
+"| 'otu Ma'afu | Magellanské mraky (obojí)\n"
+"| Ha'amonga | Ecliptic |\n"
+"| Mahina | Měsíc |\n"
+"| La'a | Slunce |\n"
+"| Fetu'u | Hvězda (obecně)\n"
+"| Fetu'ufuka | Kometa |\n"
+"| 'Umata | Duha |\n"
+"| Fetu'u'Esiafi | Padající hvězda |\n"
+"| tapukitea | Venuše |\n"
+"| Matamemea | Mars |\n"
+"| Ma'afutoka (stejné jako SMC) | Canopus |\n"
+"| Ma'afulele (stejné jako LMC) Sirius |\n"
+"| Velitoa hififo | Rigel |\n"
+"| Velitoa hahake | Betelština |\n"
+"| Hikule'o | Arcturus |\n"
+"| Monuafe | Meissa |\n"
+"| Motuliki | Plejády |\n"
+"| Tu'ulalupe | Hyády |\n"
+"| Toloatonga | Jižní kříž |\n"
+"| Toloalahi | Falešný kříž |\n"
+"\n"
+"\n"
+"__Tonganské souhvězdí__\n"
+"\n"
+"| Tonganské jméno | Označení nebo poznámky\n"
+"| ------------- | ------- |\n"
+"| Tuinga ika | Část Orionu, opasek a meče\n"
+"| Ae e'Uvea | Corona Borealis (_Speculative_) |\n"
+"| Fatanalua | Berenice z kómatu (_Speculative_) |\n"
+"| Kapakau'o'tafahi | Cassiopeia (_Speculative_) |\n"
+"| Toloa | Orionův pás |\n"
+"| Lua tangata | Castor a / nebo Pollux |\n"
+"| Houba | Toliman a / nebo Agena |\n"
+"| Houmatoloa (Toloa, toloatonga, toloalahi) | - |\n"
+"\n"
+"--------------------"
 
 # Sky culture references section in markdown format
 msgid ""
@@ -79,6 +131,9 @@ msgid ""
 " - [#2]: T.H Fale, _Tongan astronomy_, 1990 Polynesian Eyes foundation, Nuku'alofa, TongaChoice printing.\n"
 " - [#3]: E. E. V. Collocott, _Tongan astronomy and calendar_, 1992 Occasional Papers of the Bernice Pauahi Bishop Museum of Polynesian ethnology and Natural History, Vol. 8, No. 4 Honolulu, Hawaii, Bishop Museum Press 1922, p. 157-173."
 msgstr ""
+" - [#1]: Velt Kik, _Ko E Ngaahi fetu'u 'o, Stars over tonga_, 1990' Atenisi University, Nuku'alofa, Tonga Government printing printing department.\n"
+" - [#2]: TH Fale, _Tonganská astronomie_, Polynéská nadace 1990, tisk Nuong'alofa, tisk TongaChoice.\n"
+" - [#3]: EEV Collocott, _Tonganská astronomie a kalendář_, 1992 Příležitostné noviny biskupského muzea polynéské etnologie a přírodní historie Bernice Pauahi, sv. 8, č. 4 Honolulu, Havaj, Bishop Museum Press 1922, s. 8. 157-173."
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -86,51 +141,54 @@ msgid ""
 "\n"
 "technical adaption: Susanne M Hoffmann "
 msgstr ""
+"K této kultuře oblohy přispěl uživatel Stellarium [Dan Smale](d.smale@niwa.co.nz)\n"
+"\n"
+"technické úpravy: Susanne M Hoffmann"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"
-msgstr ""
+msgstr "GNU GPL v2.0"
 
 # Tongan constellation, native: Toloatonga
 msgid "Southern Wild Duck"
-msgstr ""
+msgstr "Jižní divoká kachna"
 
 # Tongan constellation, native: Lua tangata
 msgid "Two Men"
-msgstr ""
+msgstr "Dva muži"
 
 # Tongan constellation, native: Toloa
 msgid "Wild Duck"
-msgstr ""
+msgstr "Divoká kachna"
 
 # Tongan constellation, native: Tu'ulalupe
 msgid "Pigeon Perch"
-msgstr ""
+msgstr "Holub okoun"
 
 # Tongan constellation, native: Toloalahi
 msgid "Big Wild Duck"
-msgstr ""
+msgstr "Velká divoká kachna"
 
 # Tongan constellation, native: Fungasia
 msgid "Mound Top"
-msgstr ""
+msgstr "Mound Top"
 
 # Tongan constellation, native: Tuinga ika
 msgid "String of fishes"
-msgstr ""
+msgstr "Řetězec ryb"
 
 # Tongan constellation, native: Houmatoloa
 msgid "Wild Duck's Point of Land"
-msgstr ""
+msgstr "Bod země divoké kachny"
 
 # Tongan constellation, native: Fatanalua
 msgid "Two Carriers"
-msgstr ""
+msgstr "Dva nosiče"
 
 # Tongan constellation, native: ʻAo ʻo ʻUvea
 msgid "Cloud of 'Uvea"
-msgstr ""
+msgstr "Cloud 'Uvea"
 
 # Tongan constellation, native: Kapakau'o'tafahi
 msgid "Wing of Tafahi"
-msgstr ""
+msgstr "Křídlo Tafahi"

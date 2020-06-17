@@ -19,6 +19,7 @@ msgid ""
 "Chinese star names and the constellations that are defined internationally. "
 "This mixture has a great practical value."
 msgstr ""
+"現在、中国で使用されている空の文化は、伝統的な中国のスター名と国際的に定義されている星座の組み合わせです。この混合物は非常に実用的な価値があります。"
 
 # Sky culture description section in markdown format
 msgid ""
@@ -36,6 +37,19 @@ msgid ""
 "\n"
 "However, the traditional Chinese proper names of stars are used instead of western star names. When a foreign astronomical book is translated into Chinese, the star names will also be translated into traditional Chinese star names. There are some special stars that use names which are not traditional Chinese but also not in any tradition, e.g. as Proxima Centauri for the closest star, Van Maanen's star for the first single white dwarf discovered by van Maanen 1917. These stars are not visible to the naked eye but have special astronomical significance. "
 msgstr ""
+"伝統的な中国の空の文化は、数千年前に独立して開発されました。およそ2000年前の数世紀の間、独自の星座を持つ3つの大きな中国の天文学学校は、1〜数十の星を含む283個のアステリズムの新しいシステムに統合されました。彼らの名前は、中国の神話、民話、宗教にその伝統がありました。\n"
+"\n"
+"1920年代に国際天文学連合（IAU）が公式の星座を定義することで合意して以来、中国の天文学者は公式のコミュニケーションに国際システムを使用していますが、可能な限り伝統的なスターロアと組み合わせています。\n"
+"\n"
+"伝統的な中国の星座と伝統的な中国の名前の詳細については、ステラリウムの_Chinese_空の文化を参照してください。\n"
+"\n"
+"###星座\n"
+"\n"
+"現代中国人は国際天文学連合の星座を使用しています。伝統的な中国の星座には、それらの間に特定の境界はありません。それらは、stickfiguresに接続された対応する明るい星のセットを表します。天球を異なる領域に分割することを意図したものではなく、それらのパターンは新しく定義された現代の領域から大きく逸脱しているため、天文学には適用されません。\n"
+"\n"
+"###星の名前\n"
+"\n"
+"ただし、西洋の星の名前の代わりに、伝統的な中国の星の固有名が使用されます。外国の天文学的な本が中国語に翻訳されるとき、星の名前は伝統的な中国の星の名前にも翻訳されます。伝統的な中国語ではなく、どの伝統にもない名前を使用するいくつかの特別な星があります。たとえば、最も近い星のプロキシマケンタウリ、van Maanen 1917によって発見された最初の単一の白色矮星のVan Maanenの星などです。これらの星は、肉眼でも特別な天文学的意義があります。"
 
 # Sky culture references section in markdown format
 msgid ""
@@ -44,6 +58,10 @@ msgid ""
 " - [#3]: [constellations](http://en.wikipedia.org/wiki/Constellation) Wikipedia\n"
 " - [#4]: [Constellation image library](http://hubblesource.stsci.edu/sources/illustrations/constellations/) of the U.S. Naval Observatory and the Space Telescope Science Institute. Johannes Hevelius Engravings."
 msgstr ""
+" - [#1]: [中国の星座](http://en.wikipedia.org/wiki/Chinese_constellations)ウィキペディア\n"
+" - [#2]: [伝統的な中国の星の名前](https://en.wikipedia.org/wiki/Traditional_Chinese_star_names)ウィキペディア\n"
+" - [#3]: [コンステレーション](http://en.wikipedia.org/wiki/Constellation)ウィキペディア\n"
+" - [#4]: 米国海軍天文台と宇宙望遠鏡科学研究所の[星座画像ライブラリ](http://hubblesource.stsci.edu/sources/illustrations/constellations/)。ヨハネスヘヴェリウスの彫刻。"
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -55,6 +73,13 @@ msgid ""
 "\n"
 "Slightly reworked: Susanne M Hoffmann (Stellarium team)"
 msgstr ""
+"この空の文化は、Stellariumユーザー_Sun Shuwei_によって提供されました。\n"
+"\n"
+"星座アート、星座の_モダンスカイカルチャー_に基づく星座ライン。\n"
+"\n"
+"アステリズムラインとステラリウムの_Chinese Traditional Sky Culture_に基づく中国の伝統的な星の名前。\n"
+"\n"
+"少し手直し：Susanne M Hoffmann（Stellariumチーム）"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"
@@ -94,7 +119,7 @@ msgstr "紐星"
 
 # "Added" chinese star name
 msgid "Added"
-msgstr ""
+msgstr "追加されました"
 
 # Chinese star name for HIP 51384
 msgid "Four Advisors"
@@ -1594,4 +1619,4 @@ msgstr "小斗一"
 
 # Chinese star name for HIP 104382
 msgid "Southern Star"
-msgstr ""
+msgstr "サザンスター"

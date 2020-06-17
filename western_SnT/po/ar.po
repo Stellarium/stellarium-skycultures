@@ -11,7 +11,7 @@ msgstr ""
 
 # Sky culture name
 msgid "Modern (Sky & Telescope,2014)"
-msgstr ""
+msgstr "حديث (Sky & Telescope، 2014)"
 
 # Sky culture introduction section in markdown format
 msgid ""
@@ -20,6 +20,9 @@ msgid ""
 "them. Thus, several sub-cultures were developed during the past century: "
 "This sky culture was developed by the Sky and Telescope Magazine."
 msgstr ""
+"في عام 1928 ، حدد الاتحاد الفلكي الدولي (IAU) حدود هذه المناطق فقط [#4] وليس"
+" طريقة رسم العمل الفني داخلها. وهكذا ، تم تطوير العديد من الثقافات الفرعية "
+"خلال القرن الماضي: تم تطوير ثقافة السماء هذه من قبل مجلة Sky and Telescope."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -35,6 +38,17 @@ msgid ""
 "\n"
 "The method used by Sky & Telescope to select \"their\" star names from historical ones is explained in detail in their Style Book: SnT_star_names.docx file. It is strongly based on Bayer's and Flamsteed's historical atlases and strongly influenced by [#6], [#7], and [#8]."
 msgstr ""
+"في الوقت الحاضر ، تنقسم السماء إلى 88 منطقة لها نفس أسماء الأبراج التاريخية ، تنشأ في الغالب من كتالوجات النجوم اليونانية القديمة (انظر ثقافة السماء \"الحديثة (الافتراضية)\" للوصف).\n"
+"\n"
+"استأجرت المجلة الأمريكية الشهيرة لعلم الفلك \"Sky & Telescope\" [#1] رسامًا خاصًا لأشكال العصي ولكن دون عمل فني كوكبي. كقراء لهذه المجلة ، يتم استخدام Sky Atlas 2000.0 و S&T Pocket Sky Atlas على هذا النمط وقد يفضلونه ، تم تمكين Stellarium لعرضه.\n"
+"\n"
+"### الأبراج\n"
+"\n"
+"تؤخذ مناطق الأبراج الـ 88 ذات الحدود الدقيقة من الاتحاد الفلكي الدولي [#4].\n"
+"\n"
+"### أسماء النجوم\n"
+"\n"
+"الطريقة المستخدمة من قبل Sky & Telescope لتحديد أسماء النجوم \"الخاصة بهم\" من الأسماء التاريخية موضحة بالتفصيل في كتاب الأنماط: SnT_star_names.docx file. وهو يعتمد بشدة على الأطالس التاريخية لباير وفلامستيد ويتأثر بشدة بـ [#6] و [#7] و [#8]."
 
 # Sky culture references section in markdown format
 msgid ""
@@ -48,6 +62,15 @@ msgid ""
 " - [#7]: Kunitzsch, Paul, and Tim Smart. Short Guide to Modern Star Names and Their Derivations. Otto Harrassowitz, 1986, republished by Sky and Telescope in 2006.\n"
 " - [#8]: Davis, George A. “The Pronunciations, Derivations, and Meanings of a Selected List of Star Names.” Popular Astronomy, Jan 1944."
 msgstr ""
+"\n"
+" - [#1]: [Sky & Telescope](https://www.skyandtelescope.com) الصفحة الرئيسية\n"
+" - [#2]: [S&T Stylebook، A13](https://fossies.org/linux/stellarium/skycultures/western_SnT/SnT_star_names.docx) فلاندرز ، توني: كتاب أنماط S & T ، الملحق 13 ، 2014\n"
+" - [#3]: مقال [Star Catalog](http://en.wikipedia.org/wiki/Star_catalogue) مقالة في Wikipedia\n"
+" - [#4]: [معلومات كوكبة الاتحاد الفلكي الدولي الرسمية](http://www.iau.org/public/constellations/)\n"
+" - [#5]: مقالة [كوكبة](http://en.wikipedia.org/wiki/Constellation) مقالة في Wikipedia\n"
+" - [#6]: هوفليت ، دوريت. كتالوج النجم الساطع ، المراجعة الرابعة. مرصد جامعة ييل ، 1982.\n"
+" - [#7]: كونيتش ، بول ، وتيم سمارت. دليل قصير لأسماء النجوم الحديثة ومشتقاتها. Otto Harrassowitz ، 1986 ، أعيد نشره Sky and Telescope في عام 2006.\n"
+" - [#8]: ديفيس ، جورج أ. \"التلفظ ، الاشتقاقات ، والمعاني لقائمة مختارة من أسماء النجوم.\" علم الفلك الشعبي ، يناير 1944."
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -55,6 +78,9 @@ msgid ""
 "\n"
 "reworked by Stellarium Team (Susanne M Hoffmann)"
 msgstr ""
+"[بول كريزاك] (mailto: paul.krizak@gmail.com) و [جوناثان إ. بيسكور] (mailto: jonathan.e.piskor@gmail.com)\n"
+"\n"
+"أعيدت صياغتها بواسطة فريق ستيلاريوم (سوزان هوفمان)"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"

@@ -17,7 +17,7 @@ msgstr "トンガ"
 msgid ""
 "As in all Polynesian star lore, Tongan sky culture descends from the "
 "practical application of nautical navigation."
-msgstr ""
+msgstr "ポリネシアのすべての星の伝承と同様に、トンガンの空の文化は、航海の実用的な応用から生まれています。"
 
 # Sky culture description section in markdown format
 msgid ""
@@ -72,6 +72,56 @@ msgid ""
 "\n"
 "--------------------"
 msgstr ""
+"状況によっては、個々のスター名と「スターパス」名の分離を解決できない場合があります。スターは複数の名前を持つ場合があります。1）スターが多数のスターパスの一部である場合。2）スターの命名は、元のトンガ島グループによって異なる場合があるため。星の命名法は、利用可能な限られたリソースに基づいて概算されます。\n"
+"\n"
+"最も注目すべき/共通の星と星座（つまり、オリオン、プレアデス、核心）は、トンガの星の伝承で識別されますが、2つの注目すべき例外があります。北の星（ポラリス：αUMi）の名前の欠如があります。これは、トンガ諸島の緯度と、1年の特定の時期にこの星が目立つことを考慮すると、独特です。トンガから北への旅があった場合、そのような重要な航海のランドマークは見過ごされることはなかったでしょう。蠍座の星座（の一部、または星）もトンガの星の伝承にはありません。スターロアの大多数（世界的にもポリネシア人も）は、容易に識別され、夜空のオリオンのほぼ真向かいにある蠍座を中心的な星座として持っているため、これは驚くべきことです（ステラリウムはこれら2つの異常に関するさらなる知識を歓迎します） ）。\n"
+"\n"
+"ポリネシアのスターの伝承の共通の祖先は、星のラベル付けの類似性から明らかです。たとえば、プレアデス星団は、トンガンではマタリキ、マオリではマタリキ、ハワイではマカリイと呼ばれています。\n"
+"\n"
+"###命名法\n"
+"\n"
+"|トンガ語|指定|\n"
+"| ------------- | ------- |\n"
+"|フム|石炭袋|\n"
+"|カニバ|天の川|\n"
+"|マアフレレ|大マゼラン雲|\n"
+"|マアフトカ|小さなマゼラン雲|\n"
+"| 'otu Ma'afu |マゼラン雲（両方）|\n"
+"|ハアモンガ|黄道|\n"
+"|マヒナ|ムーン|\n"
+"|ラア|太陽|\n"
+"| Fetu'u |スター（一般）|\n"
+"|フェトゥフカ|彗星|\n"
+"|うまた|レインボー|\n"
+"| Fetu'u'Esiafi |流れ星|\n"
+"|タプキティー|金星|\n"
+"|マタメメア火星|\n"
+"|マアフトカ（SMCと同じ）|カノープス|\n"
+"| Ma'afulele（LMCと同じ）|シリウス|\n"
+"| Velitoa hififo |リゲル|\n"
+"| Velitoa hahake |ベテルグ語|\n"
+"|ヒクレオアルクトゥルス|\n"
+"|モヌアフェ|メイッサ|\n"
+"|モトゥリキ|プレアデス星団|\n"
+"|トゥウラルペ|ハイアデス|\n"
+"|トロアトンガ|サザンクロス|\n"
+"|トロアラヒ|偽の十字架|\n"
+"\n"
+"\n"
+"__トンガ星座__\n"
+"\n"
+"|トンガ名|指定またはメモ|\n"
+"| ------------- | ------- |\n"
+"| Tuinga ika |オリオン、ベルト、剣の一部|\n"
+"| Ae e'Uvea |コロナボレアリス（_Speculative_）|\n"
+"|ファタナルア|昏睡ベニス（_Speculative_）|\n"
+"|カパカウオタファヒ|カシオペア（_Speculative_）|\n"
+"|トロア|オリオンのベルト|\n"
+"|ルアタンガタ|キャスターおよび/またはポルックス|\n"
+"|ファンガジア| Tolimanおよび/またはAgena |\n"
+"| Houmatoloa（トロア、トロアトンガ、トロアラヒ）| — |\n"
+"\n"
+"--------------------"
 
 # Sky culture references section in markdown format
 msgid ""
@@ -79,6 +129,9 @@ msgid ""
 " - [#2]: T.H Fale, _Tongan astronomy_, 1990 Polynesian Eyes foundation, Nuku'alofa, TongaChoice printing.\n"
 " - [#3]: E. E. V. Collocott, _Tongan astronomy and calendar_, 1992 Occasional Papers of the Bernice Pauahi Bishop Museum of Polynesian ethnology and Natural History, Vol. 8, No. 4 Honolulu, Hawaii, Bishop Museum Press 1922, p. 157-173."
 msgstr ""
+" - [#1]: Velt Kik、_Ko E Ngaahi fetu'u 'o、Stars over tonga_、1990' Atenisi University、Nuku'alofa、トンガ政府印刷部。\n"
+" - [#2]: TH Fale、_Tongan astronomy_、1990 Polynesian Eyes Foundation、Nuku'alofa、TongaChoice印刷。\n"
+" - [#3]: EEV Collocott、_Tongan astronomy and calendar_、1992 Occasional Papers of the Bernice Pauahi Bishop Museum of Polynesian ethnology and Natural History、Vol。 8、No. 4ハワイ、ホノルル、ビショップミュージアムプレス1922年、p。 157-173。"
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -86,6 +139,9 @@ msgid ""
 "\n"
 "technical adaption: Susanne M Hoffmann "
 msgstr ""
+"この空の文化は、Stellariumユーザー[Dan Smale]（d.smale@niwa.co.nz）によって提供されました\n"
+"\n"
+"技術的な適応：Susanne M Hoffmann"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"
@@ -93,44 +149,44 @@ msgstr "GNU GPL v2.0"
 
 # Tongan constellation, native: Toloatonga
 msgid "Southern Wild Duck"
-msgstr ""
+msgstr "サザンワイルドダック"
 
 # Tongan constellation, native: Lua tangata
 msgid "Two Men"
-msgstr ""
+msgstr "2人の男性"
 
 # Tongan constellation, native: Toloa
 msgid "Wild Duck"
-msgstr ""
+msgstr "鴨"
 
 # Tongan constellation, native: Tu'ulalupe
 msgid "Pigeon Perch"
-msgstr ""
+msgstr "ピジョンパーチ"
 
 # Tongan constellation, native: Toloalahi
 msgid "Big Wild Duck"
-msgstr ""
+msgstr "大きな野生のアヒル"
 
 # Tongan constellation, native: Fungasia
 msgid "Mound Top"
-msgstr ""
+msgstr "マウンドトップ"
 
 # Tongan constellation, native: Tuinga ika
 msgid "String of fishes"
-msgstr ""
+msgstr "魚のひも"
 
 # Tongan constellation, native: Houmatoloa
 msgid "Wild Duck's Point of Land"
-msgstr ""
+msgstr "ワイルドダックのポイントオブランド"
 
 # Tongan constellation, native: Fatanalua
 msgid "Two Carriers"
-msgstr ""
+msgstr "2つのキャリア"
 
 # Tongan constellation, native: ʻAo ʻo ʻUvea
 msgid "Cloud of 'Uvea"
-msgstr ""
+msgstr "ウベアの雲"
 
 # Tongan constellation, native: Kapakau'o'tafahi
 msgid "Wing of Tafahi"
-msgstr ""
+msgstr "タファヒの翼"

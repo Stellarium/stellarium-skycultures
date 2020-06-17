@@ -11,7 +11,7 @@ msgstr ""
 
 # Sky culture name
 msgid "Modern (default)"
-msgstr ""
+msgstr "Moderno (predeterminado)"
 
 # Sky culture introduction section in markdown format
 msgid ""
@@ -20,6 +20,10 @@ msgid ""
 "historical roots in Ancient Greek astronomy, with influences from Islamic "
 "astronomy."
 msgstr ""
+"La cultura moderna del cielo es utilizada internacionalmente por los "
+"astrónomos desde 1928, y es el esquema oficial de la Unión Astronómica "
+"Internacional. Tiene raíces históricas en la astronomía griega antigua, con "
+"influencias de la astronomía islámica."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -64,6 +68,46 @@ msgid ""
 "\n"
 "However, there are also a few original Greek words like the red star \"Antares\", the counterpart of Ares (Mars) and even a few original Babylonian terms like \"Shargaz\", the Sting, in Scorpius. Our modern, most recent IAU star names [#6] are a huge mixture, also with influences or even politically wanted additions of star names from the none-Ptolemaic sky cultures, e.g. the traditional Pingsing, a Chinese star name for a star in Hydra (its meaning is only \"star\", a reminescence to his lonely position) or newly adopted star names from Polynesian, Hawaiian, or Aboriginal cultures for names of stars with exoplanets. "
 msgstr ""
+"En el siglo II EC, Ptolomeo en Alejandría publicó un libro de varios volúmenes que resumía el conocimiento de la época, enraizado en una tradición de astronomía matemática desde Hiparco (al menos 265 años antes). En los siglos posteriores, este libro ha sido traducido del griego al árabe (siglos VI al IX), del árabe al latín y, más tarde, del griego antiguo original al latín medieval. Debido a esta transformación, ahora se conoce con el nombre artificial _Almagest_, derivado del título árabe [#7].\n"
+"\n"
+"El catálogo de estrellas del Almagest (libro VII y VIII) ha sido representado muchas veces en las tradiciones astronómicas islámicas y cristianas. A menudo, las figuras se volvieron a dibujar para adaptarlas al gusto del arte de la época. En el árabe más que en la tradición latina, las figuras ptolemaicas fueron enriquecidas y transformadas por constelaciones árabes nativas y nombres de estrellas. Por lo tanto, esta cultura del cielo muestra un descendiente moderno del ptolemaico con rastros de traducciones, malentendidos, transformaciones y adiciones intencionales.\n"
+"\n"
+"En 1603, el abogado y astrónomo aficionado Johann Bayer de Augsburgo, Alemania, creó un nuevo atlas celestial, llamado Uranometria [#2]. En este atlas, introdujo un nombre sistemático de estrellas que comienzan con alfa, la más brillante, beta, la segunda más brillante, gamma, la tercera ... dentro de una constelación. Posteriormente, se estableció para nombrar una estrella con una letra griega y el nombre de la constelación latina en casus genitivo.\n"
+"\n"
+"En el siglo XVIII, el siglo de los grandes atlas (Flamsteed, Fortin, Bode: [#3] [#4]), se agregaron nuevas constelaciones para llenar los espacios entre las constelaciones del norte. Además, hubo sugerencias para crear nuevas constelaciones en la parte sur del cielo que no habían sido visibles para Ptolomeo. Los astrónomos europeos visitaron las colonias europeas y, en lugar de preguntar a los nativos por sus constelaciones, los europeos fueron creativos. De esta manera, muchos nuevos inventos técnicos del período moderno temprano se representaron en constelaciones (por ejemplo, una máquina química, un globo, una bomba de aire), así como en animales exóticos (por ejemplo, un camaleón, un tucán, un ave del paraíso).\n"
+"\n"
+"El problema era que a veces los astrónomos no estaban de acuerdo entre sí y, por lo tanto, los atlas mostraban desviaciones entre sí.\n"
+"\n"
+"Después de muchos siglos de astrónomos que se tomaron libertades en la interpretación del original ptolemaico, hubo muchas variantes de constelaciones. Como las constelaciones son un sistema de posicionamiento, es decir, los astrónomos describen posiciones en el cielo en relación con las estrellas y las estrellas en relación con las constelaciones (como \"Betelgeuse\", el hombro derecho de Orión), es necesario usar nombres de constelaciones y nombres de estrellas de manera uniforme en todo el mundo.\n"
+"\n"
+"En el \"Fin de siècle\", hubo sugerencias próximas en la IAU para unificar el sistema de constelaciones y nombres de estrellas [#5].\n"
+"\n"
+"Como la IAU en 1928 solo definió los límites de estas áreas [#4] y no la forma de dibujar obras de arte dentro de ellas, se desarrollaron varias subculturas de figuras de pintura y figuras simplificadas de dibujo durante los siglos XX y XXI. Proporcionamos algunos de ellos como otras culturas del cielo.\n"
+"\n"
+"### Constelaciones\n"
+"\n"
+"Estas constelaciones se basan principalmente en la tradición ptolemaica que se había utilizado en las tres religiones abrahamitas y, por lo tanto, era común en el Cercano Oriente, en Europa y sus colonias en todos los continentes. Sin embargo, entre las antiguas constelaciones griegas había espacios de áreas con estrellas débiles que no pertenecían a ninguna constelación. [#8] En la Época Moderna, varios astrónomos sugirieron figuras de constelaciones para estos espacios (por ejemplo, la constelación de \"el lince\" para un área cercana). al Gran Oso pero con estrellas tan débiles que necesitarías los ojos de un lince para verlas), entre ellas muchas constelaciones políticas en honor de ciertos reyes o mecenas. A principios del siglo XX, la IAU buscaba una gran limpieza.\n"
+"\n"
+"En 1922, la IAU aceptó oficialmente la lista de 88 nombres de constelaciones y sus abreviaturas oficiales con tres letras. Las únicas constelaciones políticas restantes son Scutum, el escudo de un rey polaco pero sin mencionar la referencia política. El sacerdote belga E. Delporte se encargó de definir los límites de la constelación de acuerdo con las coordenadas. En 1928, terminó el trabajo y la IAU aceptó sus delimitaciones [#1].\n"
+"\n"
+"Estas \"constelaciones\" son áreas desnudas en el cielo sin figuras de palo o representaciones [#5]. Las fronteras simplemente siguen las líneas de ascensión recta y declinación. Estas constelaciones se convirtieron en la forma estándar de describir el cielo, reemplazando conjuntos similares en otras culturas del cielo exhaustivamente en el uso diario.\n"
+"\n"
+"Stellarium muestra de forma predeterminada los límites precisos RA-DEC y un conjunto de constelaciones de obras de arte sobre la base de figuras ptolemaicas, pero siguiendo nuestro gusto contemporáneo del arte.\n"
+"\n"
+"### Nombres propios de estrellas\n"
+"\n"
+"El catálogo de estrellas de Ptolomeo tenía el diseño de una mesa:\n"
+"\n"
+"----------------------------\n"
+"El | descripción de la posición de la estrella en la figura | eclíptica | coordenadas | magnitud |\n"
+"| ------ | ---- | ---- | ---- |\n"
+"El | | λ | β | mag |\n"
+"El | eg | El | El | El |\n"
+"El | la estrella en la punta de la cola de la Osa Menor | Gema 0 1/6 | +66 | 3 |\n"
+"\n"
+"En la mayoría de los casos, los nombres de las estrellas evolucionaron por las abreviaturas sistemáticas del astrónomo de estas descripciones, por ejemplo, el primer astrónomo abreviado en un texto \"punta de la cola\", un astrónomo siguiente dibujó un mapa con menos espacio y escribió solo \"cola\" al lado de la estrella y Este nombre se mantuvo. Con siglos, estas descripciones se tradujeron al árabe y al latín, y en algunos casos los traductores o escritores cometen errores debido a errores de lectura o errores ortográficos o las palabras árabes (por ejemplo, el árabe \"yad al gauza\", la mano de la mujer gigante, al término común \"Betelgeuse\").\n"
+"\n"
+"Sin embargo, también hay algunas palabras griegas originales como la estrella roja \"Antares\", la contraparte de Ares (Marte) e incluso algunos términos babilónicos originales como \"Shargaz\", el aguijón, en Scorpius. Nuestros nombres de estrellas de IAU modernos y más recientes [#6] son una gran mezcla, también con influencias o incluso adiciones políticamente buscadas de nombres de estrellas de las culturas del cielo no ptolemaicas, por ejemplo, el Pingsing tradicional, un nombre de estrella chino para una estrella en Hydra ( su significado es solo \"estrella\", una reminiscencia de su posición solitaria) o nombres de estrellas recién adoptados de las culturas polinesia, hawaiana o aborigen para nombres de estrellas con exoplanetas."
 
 # Sky culture references section in markdown format
 msgid ""
@@ -82,12 +126,28 @@ msgid ""
 " - [#10]: [Star Catalogue](http://en.wikipedia.org/wiki/Star_catalogue) article at Wikipedia\n"
 " - [#11]: [Constellation image library](http://hubblesource.stsci.edu/sources/illustrations/constellations/) of the U.S. Naval Observatory and the Space Telescope Science Institute. Johannes Hevelius Engravings."
 msgstr ""
+" - [#1]: Delporte, Eugene: Delimitation scientifique des constellations (tables et cartes), Cambridge, 1930\n"
+" - [#2]: facsímil: Uranometria von Johannes Bayer, Kunstschätzeverlag, Gerchsheim, 2010\n"
+" - [#3]: facsímil: Die große Flamsteed Edition - Himmelskartographie nach John Flamsteed von 1776 bis 1805, Albireo Verlag, Köln, 2017\n"
+" - [#4]: Latußeck, Arndt y Hoffmann, Susanne M: \"Ein nützliches Unternehmen\", Albireo Verlag, Köln, 2017\n"
+" - [#5]: los nombres en inglés de Constellation provienen de la [Página de Constelaciones de IAU](https://www.iau.org/public/themes/constellations/)\n"
+" - [#6]: Nombres de estrellas del grupo de trabajo de la IAU [WGSN](https://www.iau.org/science/scientific_bodies/working_groups/280/)\n"
+" - [#7]: Grasshoff, Gerd: La historia del catálogo de estrellas de Ptolomeo, Springer, Nueva York, 1990\n"
+" - [#8]: Hoffmann, Susanne M .: Hipparchs Himmelsglobus, Springer, Wiesbaden / Nueva York, 2017\n"
+"\n"
+"### Otros enlaces\n"
+"\n"
+" - [#9]: artículo [Constellation](http://en.wikipedia.org/wiki/Constellation) en Wikipedia\n"
+" - [#10]: artículo del [Catálogo de estrellas](http://en.wikipedia.org/wiki/Star_catalogue) en Wikipedia\n"
+" - [#11]: [Biblioteca de imágenes de la constelación](http://hubblesource.stsci.edu/sources/illustrations/constellations/) del Observatorio Naval de EE. UU. Y el Instituto de Ciencia del Telescopio Espacial. Grabados de Johannes Hevelius."
 
 # Sky culture authors section in markdown format
 msgid ""
 "Stellarium's team:\n"
 "Susanne M Hoffmann "
 msgstr ""
+"El equipo de Stellarium:\n"
+"Susanne M Hoffmann"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"
@@ -95,328 +155,328 @@ msgstr "GNU GPL v2.0"
 
 # Modern (default) constellation, native: Aquila
 msgid "Eagle"
-msgstr ""
+msgstr "Águila"
 
 # Modern (default) constellation, native: Andromeda
 msgid "Chained Maiden"
-msgstr ""
+msgstr "Doncella encadenada"
 
 # Modern (default) constellation, native: Ara
 msgid "Altar"
-msgstr ""
+msgstr "Altar"
 
 # Modern (default) constellation, native: Libra
 msgid "Scales"
-msgstr ""
+msgstr "Escamas"
 
 # Modern (default) constellation, native: Cetus
 msgid "Sea Monster"
-msgstr ""
+msgstr "Monstruo marino"
 
 # Modern (default) constellation, native: Aries
 msgid "Ram"
-msgstr ""
+msgstr "RAM"
 
 # Modern (default) constellation, native: Scutum
 msgid "Shield"
-msgstr ""
+msgstr "Proteger"
 
 # Modern (default) constellation, native: Pyxis
 msgid "Compass"
-msgstr ""
+msgstr "Brújula"
 
 # Modern (default) constellation, native: Bootes
 msgid "Herdsman"
-msgstr ""
+msgstr "Pastor"
 
 # Modern (default) constellation, native: Caelum
 msgid "Engraving Tool"
-msgstr ""
+msgstr "Herramienta de grabado"
 
 # Modern (default) constellation, native: Chamaeleon
 msgid "Chameleon"
-msgstr ""
+msgstr "Camaleón"
 
 # Modern (default) constellation, native: Cancer
 msgid "Crab"
-msgstr ""
+msgstr "Cangrejo"
 
 # Modern (default) constellation, native: Capricornus
 msgid "Sea Goat"
-msgstr ""
+msgstr "Cabra de mar"
 
 # Modern (default) constellation, native: Carina
 msgid "Keel"
-msgstr ""
+msgstr "Idioma"
 
 # Modern (default) constellation, native: Cassiopeia
 msgid "Seated Queen"
-msgstr ""
+msgstr "Reina sentada"
 
 # Modern (default) constellation, native: Centaurus
 msgid "Centaur"
-msgstr ""
+msgstr "Centauro"
 
 # Modern (default) constellation, native: Cepheus
 msgid "King"
-msgstr ""
+msgstr "Rey"
 
 # Modern (default) constellation, native: Coma Berenices
 msgid "Bernice's Hair"
-msgstr ""
+msgstr "El pelo de bernice"
 
 # Modern (default) constellation, native: Canes Venatici
 msgid "Hunting Dogs"
-msgstr ""
+msgstr "Perros de caza"
 
 # Modern (default) constellation, native: Auriga
 msgid "Charioteer"
-msgstr ""
+msgstr "Auriga"
 
 # Modern (default) constellation, native: Columba
 msgid "Dove"
-msgstr ""
+msgstr "Dónde está"
 
 # Modern (default) constellation, native: Crater
 msgid "Cup"
-msgstr ""
+msgstr "taza"
 
 # Modern (default) constellation, native: Corona Australis
 msgid "Southern Crown"
-msgstr ""
+msgstr "Corona del sur"
 
 # Modern (default) constellation, native: Corona Borealis
 msgid "Northern Crown"
-msgstr ""
+msgstr "Corona del norte"
 
 # Modern (default) constellation, native: Corvus
 msgid "Crow"
-msgstr ""
+msgstr "Cuervo"
 
 # Modern (default) constellation, native: Crux
 msgid "Southern Cross"
-msgstr ""
+msgstr "Cruz del Sur"
 
 # Modern (default) constellation, native: Cygnus
 msgid "Swan"
-msgstr ""
+msgstr "Cisne"
 
 # Modern (default) constellation, native: Delphinus
 msgid "Dolphin"
-msgstr ""
+msgstr "Delfín"
 
 # Modern (default) constellation, native: Dorado
 msgid "Swordfish"
-msgstr ""
+msgstr "Pez espada"
 
 # Modern (default) constellation, native: Draco
 msgid "Dragon"
-msgstr ""
+msgstr "Continuar"
 
 # Modern (default) constellation, native: Norma
 msgid "Carpenter's Square"
-msgstr ""
+msgstr "Plaza del carpintero"
 
 # Modern (default) constellation, native: Eridanus
 msgid "River"
-msgstr ""
+msgstr "Río"
 
 # Modern (default) constellation, native: Sagitta
 msgid "Arrow"
-msgstr ""
+msgstr "Flecha"
 
 # Modern (default) constellation, native: Fornax
 msgid "Furnace"
-msgstr ""
+msgstr "Horno"
 
 # Modern (default) constellation, native: Gemini
 msgid "Twins"
-msgstr ""
+msgstr "Gemelos"
 
 # Modern (default) constellation, native: Camelopardalis
 msgid "Giraffe"
-msgstr ""
+msgstr "Jirafa"
 
 # Modern (default) constellation, native: Canis Major
 msgid "Great Dog"
-msgstr ""
+msgstr "Gran perro"
 
 # Modern (default) constellation, native: Ursa Major
 msgid "Great Bear"
-msgstr ""
+msgstr "Gran oso"
 
 # Modern (default) constellation, native: Grus
 msgid "Crane"
-msgstr ""
+msgstr "Grua"
 
 # Modern (default) constellation, native: Horologium
 msgid "Clock"
-msgstr ""
+msgstr "Reloj"
 
 # Modern (default) constellation, native: Hydra
 msgid "Female Water Snake"
-msgstr ""
+msgstr "Serpiente de agua hembra"
 
 # Modern (default) constellation, native: Hydrus
 msgid "Male Water Snake"
-msgstr ""
+msgstr "Serpiente de agua macho"
 
 # Modern (default) constellation, native: Indus
 msgid "Indian"
-msgstr ""
+msgstr "indio"
 
 # Modern (default) constellation, native: Lacerta
 msgid "Lizard"
-msgstr ""
+msgstr "Lagartija"
 
 # Modern (default) constellation, native: Monoceros
 msgid "Unicorn"
-msgstr ""
+msgstr "Unicornio"
 
 # Modern (default) constellation, native: Lepus
 msgid "Hare"
-msgstr ""
+msgstr "liebre"
 
 # Modern (default) constellation, native: Leo
 msgid "Lion"
-msgstr ""
+msgstr "León"
 
 # Modern (default) constellation, native: Lupus
 msgid "Wolf"
-msgstr ""
+msgstr "Lobo"
 
 # Modern (default) constellation, native: Lyra
 msgid "Lyre"
-msgstr ""
+msgstr "Lira"
 
 # Modern (default) constellation, native: Antlia
 msgid "Air Pump"
-msgstr ""
+msgstr "Bomba de aire"
 
 # Modern (default) constellation, native: Microscopium
 msgid "Microscope"
-msgstr ""
+msgstr "Microscopio"
 
 # Modern (default) constellation, native: Musca
 msgid "Fly"
-msgstr ""
+msgstr "Volar"
 
 # Modern (default) constellation, native: Octans
 msgid "Octant"
-msgstr ""
+msgstr "Octante"
 
 # Modern (default) constellation, native: Apus
 msgid "Bird of Paradise"
-msgstr ""
+msgstr "AVE del Paraiso"
 
 # Modern (default) constellation, native: Ophiuchus
 msgid "Serpent Bearer"
-msgstr ""
+msgstr "Portador de serpiente"
 
 # Modern (default) constellation, native: Orion
 msgid "Hunter"
-msgstr ""
+msgstr "Cazador"
 
 # Modern (default) constellation, native: Pegasus
 msgid "Winged Horse"
-msgstr ""
+msgstr "Caballo alado"
 
 # Modern (default) constellation, native: Pictor
 msgid "Painter's Easel"
-msgstr ""
+msgstr "Caballete del pintor"
 
 # Modern (default) constellation, native: Perseus
 msgid "Hero"
-msgstr ""
+msgstr "Héroe"
 
 # Modern (default) constellation, native: Equuleus
 msgid "Little Horse"
-msgstr ""
+msgstr "Pequeño caballo"
 
 # Modern (default) constellation, native: Canis Minor
 msgid "Lesser Dog"
-msgstr ""
+msgstr "Perro menor"
 
 # Modern (default) constellation, native: Leo Minor
 msgid "Lesser Lion"
-msgstr ""
+msgstr "León menor"
 
 # Modern (default) constellation, native: Vulpecula
 msgid "Fox"
-msgstr ""
+msgstr "zorro"
 
 # Modern (default) constellation, native: Ursa Minor
 msgid "Little Bear"
-msgstr ""
+msgstr "Osito"
 
 # Modern (default) constellation, native: Pisces
 msgid "Fishes"
-msgstr ""
+msgstr "Peces"
 
 # Modern (default) constellation, native: Piscis Austrinus
 msgid "Southern Fish"
-msgstr ""
+msgstr "Pez del sur"
 
 # Modern (default) constellation, native: Volans
 msgid "Flying Fish"
-msgstr ""
+msgstr "Pez volador"
 
 # Modern (default) constellation, native: Puppis
 msgid "Stern"
-msgstr ""
+msgstr "Popa"
 
 # Modern (default) constellation, native: Reticulum
 msgid "Reticle"
-msgstr ""
+msgstr "Retículo"
 
 # Modern (default) constellation, native: Sagittarius
 msgid "Archer"
-msgstr ""
+msgstr "Arquero"
 
 # Modern (default) constellation, native: Scorpius
 msgid "Scorpion"
-msgstr ""
+msgstr "Escorpión"
 
 # Modern (default) constellation, native: Serpens
 msgid "Serpent"
-msgstr ""
+msgstr "Serpiente"
 
 # Modern (default) constellation, native: Sextans
 msgid "Sextant"
-msgstr ""
+msgstr "Sextante"
 
 # Modern (default) constellation, native: Mensa
 msgid "Table Mountain"
-msgstr ""
+msgstr "Montaña de la Mesa"
 
 # Modern (default) constellation, native: Taurus
 msgid "Bull"
-msgstr ""
+msgstr "Toro"
 
 # Modern (default) constellation, native: Telescopium
 msgid "Telescope"
-msgstr ""
+msgstr "Telescopio"
 
 # Modern (default) constellation, native: Tucana
 msgid "Toucan"
-msgstr ""
+msgstr "Tucán"
 
 # Modern (default) constellation, native: Triangulum
 msgid "Triangle"
-msgstr ""
+msgstr "Triángulo"
 
 # Modern (default) constellation, native: Triangulum Australe
 msgid "Southern Triangle"
-msgstr ""
+msgstr "Triángulo sur"
 
 # Modern (default) constellation, native: Aquarius
 msgid "Water Bearer"
-msgstr ""
+msgstr "Portador de agua"
 
 # Modern (default) constellation, native: Virgo
 msgid "Maiden"
-msgstr ""
+msgstr "Doncella"
 
 # Modern (default) constellation, native: Vela
 msgid "Sails"
-msgstr ""
+msgstr "Paño"

@@ -17,7 +17,7 @@ msgstr "サーミ"
 msgid ""
 "The Sami people are considered to be the native population of northern "
 "Norway, Sweden, Finland and West Russia (the Kola Peninsula)."
-msgstr ""
+msgstr "サミ族の人々は、ノルウェー北部、スウェーデン、フィンランド、西ロシア（コラ半島）の先住民と見なされています。"
 
 # Sky culture description section in markdown format
 msgid ""
@@ -39,6 +39,23 @@ msgid ""
 "\n"
 "The Sami sky culture does not have a large number of constellations. This is thought to be mainly because of the high Northerly latitude of the Sami people's range. Two factors contribute to this: that the Southern sky stays below the horizon to a large extent, and that the Aurora Borealis is frequently bright enough to obscure many stars."
 msgstr ""
+"サミの星座は、古い宗教に関連するサミの遺物で観察できます。夜空が過ぎ去った年のサミ族の人々に重要な文化的役割を果たしたことを示唆しています。サミスカイ文化は、ユーラシアの他の北極圏および亜北極圏の文化と多くの共通点があります。残念な類似点の1つは、適切に記録される前に文化の多くが失われたことです。\n"
+"\n"
+"この空の文化は、南サーミ人、北サーミ人、ロシアサーミ人の人々からの少なくとも3つのわずかに異なる文化の集まりです。これらのグループはそれぞれ少しずつ異なる言語を使用しているため、一部の参照とは多少の違いがある場合があります。詳細については、[#1]および[#2]を参照してください。\n"
+"\n"
+"StellariumのSamiスカイカルチャーは、Bo Lundmark *Bæi'vimánnonástit* [#3]の作品に基づいています。彼の作品の多くは、Samiアーティストであり作家のJohan Turiの著作に基づいています。\n"
+"\n"
+"**星座と星**\n"
+"\n"
+"サミ星座はおそらく非常に古いですが、19世紀の間に書面で記録されました。書面による記録が完全かどうかは不明です。ここに含まれる星座と星はすべて、支配的な星座である_Sarva_ —ヘラジカに接続されています。 Sarvaはエルクのサーミ名で、別名は_Sarvvis_ — Bull elkです。この星座の起源は、トナカイが家畜化される前の古いハンター文化にさかのぼります。\n"
+"\n"
+"_Sarva_は、カシオペア座、ペルセウス座、およびアウリガの一部で構成されています。サルバを取り巻く星座や星は、エルクのハンターを表しています。 _Favdna_（_Favtna_とも表記されます）はスターアークトゥルスで、弓と矢でエルクを狙うハンター（_Fauna davgge_ —北斗七星）を表しています。 _Favdna_はうまく狙う必要があります。もし彼がSky Support _Boahjenaste_（星のポラリス）に当たった場合、世界は終焉を迎えるという伝説があります。\n"
+"\n"
+"_Favdna_にはいくつかのヘルパーがあります。プレアデス星団は_Rougot_（ドッグパック）または_Miese-cora_（カーフパック）と呼ばれます。 _Galla_を使用したProcyonの識別は不明です：Procyon、Rigel、またはSiriusの可能性があります-SiriusはSamiが住んでいる緯度から見つけるのが非常に難しいため、この空の文化ではProcyonを_Galla_として提案します。\n"
+"\n"
+"天の川は_Lodde-raiddaras_（明るい鳥の道）または_Jakke-mærka_（明るい年のマーク）と呼ばれています。使用される名前は季節によって異なります。ヨハントゥリのスカイチャートでは、金星として識別できる星_Guovso-naste_の朝の星を見ることができますが、朝が近づいていることを示す星であるAltairとしても識別できるため、これは確実ではありません（同様の北欧の空の文化のアークトゥルスへ）。\n"
+"\n"
+"サミスカイカルチャーには星座があまりありません。これは主にサミ族の範囲の北緯が高いためと考えられています。 2つの要因がこれに寄与します。南の空が水平線の下の大部分にとどまることと、オーロラが頻繁に明るく、多くの星を覆い隠してしまうことです。"
 
 # Sky culture references section in markdown format
 msgid ""
@@ -46,6 +63,9 @@ msgid ""
 "- [#2]: Sami people [article in Wikipedia](http://en.wikipedia.org/wiki/Sami_people).\n"
 "- [#3]: Bo Lundmark. *Bæi'vi mánno nástit* (Swedish title: *Sol- och månkult samt astrala och celesta föreställninga bland samerna*), *Sun and Moon cult and astral and celestial concepts among the Sami*, 1982."
 msgstr ""
+"-[#1]：サミスに関するウェブサイト。 [Samer.se](http://samer.se/english)\n"
+"-[#2]：サミ族[ウィキペディアの記事]（http://en.wikipedia.org/wiki/Sami_people）。\n"
+"-[#3]：Bo Lundmark。 *Bæi'vimánnonástit*（スウェーデン語のタイトル：*太陽と月のカルト、およびサミの間のアストラルと天体のパフォーマンス*）、*太陽と月のカルトとサミの間のアストラルおよび天体の概念*、1982年。"
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -53,6 +73,9 @@ msgid ""
 "\n"
 "technical rework by Susanne M Hoffmann"
 msgstr ""
+"ジョナス・パーソン（jonas.persson@physics.org）\n"
+"\n"
+"Susanne M Hoffmannによるテクニカルリワーク"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"
@@ -60,40 +83,40 @@ msgstr "GNU GPL v2.0"
 
 # Sami constellation
 msgid "Sarva the Elk"
-msgstr ""
+msgstr "エルクのサルバ"
 
 # Sami constellation
 msgid "Favdna's Bow and Arrow"
-msgstr ""
+msgstr "ファブドナの弓と矢"
 
 # Sami constellation
 msgid "Galla's Sons"
-msgstr ""
+msgstr "ガラの息子"
 
 # Sami constellation
 msgid "Sky Support"
-msgstr ""
+msgstr "スカイサポート"
 
 # Sami constellation
 msgid "Favdna"
-msgstr ""
+msgstr "Favdna"
 
 # Sami constellation
 msgid "The Runner"
-msgstr ""
+msgstr "ランナー"
 
 # Sami constellation
 msgid "Morning Star"
-msgstr ""
+msgstr "明けの明星"
 
 # Sami constellation
 msgid "Pack of Dogs"
-msgstr ""
+msgstr "犬のパック"
 
 # Sami constellation
 msgid "Galla"
-msgstr ""
+msgstr "欠陥"
 
 # Sami constellation
 msgid "The Ski Runners"
-msgstr ""
+msgstr "スキーランナー"

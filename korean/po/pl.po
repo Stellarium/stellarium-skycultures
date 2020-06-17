@@ -23,6 +23,13 @@ msgid ""
 "the constellations first appear in the Records of the Grand Historian (史記) "
 "in Han dynasty describing Xia dynasty in about 2000 BCE."
 msgstr ""
+"Konstelacje chińskie, koreańskie i japońskie mają to samo pochodzenie i mają"
+" bardzo podobny kształt. Są one reprezentowane odpowiednio na starmapie Dun "
+"Huanga z VIII wieku, na mapie Cheon-Sang-Yeol-Cha-Bun-Ya-Ji-Do oraz na mapie"
+" Kitora namalowanej w VII-VIII wieku n.e. Ich pozycje i nazwy są podobne w "
+"chińskim alfabecie. Nazwa konstelacji pojawia się po raz pierwszy w "
+"Zapiskach Wielkiego Historyka (史記) z dynastii Han, opisujących dynastię Xia "
+"około 2000 roku p.n.e."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -34,6 +41,13 @@ msgid ""
 "\n"
 "The origin of this Korean celestial map is another sky map which existed about 2,000 years ago, the Chinese Suzhou map (cf: Chinese sky culture). The original Korean map grouped the 1467 stars in about 190 constellations. The shapes of the depictions are slightly different from the Chinese ones. "
 msgstr ""
+"### Pochodzenie\n"
+"\n"
+"272 konstelacje przedstawione w tej kulturze nieba Stellarium są oparte na _Cheon-Sang-Yeol-Cha-Bun-Ya-Zi-Do_, koreańskiej mapie konstelacji, która została wyrzeźbiona w kamieniu 1395. Czarna kamienna płyta miała 122,5 cm szerokości , 211 cm wysokości i 12 cm głębokości; gwiazdy zostały podświetlone na biało. Mapa pokazuje 1467 gwiazd, [#1] 264 konstelacje i ich nazwy, linie ekliptyki i równikowe oraz 365 chińskich „stopni” pełnego koła. Został on skompilowany jako kopia wcześniejszej mapy Korei (mapa Goguryeo) chińskich korzeni i został zmieniony w szczegółach z powodu ostatnich obserwacji. Dlatego niektóre gwiazdy wygrawerowano na ich współrzędnych do tysiąclecia wcześniej, a dla niektórych (grup) gwiazd stosuje się precesję.\n"
+"\n"
+"Interpretacja mapy nie jest łatwa: mapa jest tak stara, że znaleziono tylko około 300 gwiazd pasujących do prawdziwych gwiazd. Wszystkie gwiazdy na mapie zostały narysowane na okręgu, więc równik wydaje się mniejszy niż południowa granica. Ponieważ gęstość konstelacji nie zmienia się w odniesieniu do pozycji, pozycja i rozmiar konstelacji zostały nieco zmienione w sposób nieznany przez autora. Zakłada się, że nie powinno być jasnych gwiazd, które nie należą do żadnych konstelacji. Praca autora podlega interpretacji i może ulec zmianie w późniejszym terminie. Z grubsza pokaże jednak, jaka jest konstelacja koreańska.\n"
+"\n"
+"Pochodzenie tej koreańskiej mapy niebieskiej to kolejna mapa nieba, która istniała około 2000 lat temu, chińska mapa Suzhou (por. Chińska kultura nieba). Oryginalna koreańska mapa grupowała 1467 gwiazd w około 190 gwiazdozbiorach. Kształty przedstawień są nieco inne niż chińskie."
 
 # Sky culture references section in markdown format
 msgid ""
@@ -41,6 +55,9 @@ msgid ""
 " - [#2]: [digitalized map](https://digicult2.thulb.uni-jena.de/rsc/viewer/digicult_derivate_00115090/Sternkarte2.tif)\n"
 " - [#3]: [Data for the digitalized reproduction](http://sammlungen.uni-jena.de/sammlungsobjekte/p/1/h/1/nc/1.html?tx_jomuseo_pi1009%5BjoDetailView%5D=DE-MUS-046828%2Flido%2Fdc00000039)"
 msgstr ""
+" - [#1]: [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/Cheonsang_Yeolcha_Bunyajido)\n"
+" - [#2]: [mapa cyfrowa](https://digicult2.thulb.uni-jena.de/rsc/viewer/digicult_derivate_00115090/Sternkarte2.tif)\n"
+" - [#3]: [Dane do zdigitalizowanego odtwarzania] (http://sammlungen.uni-jena.de/sammlungsobjekte/p/1/h/1/nc/1.html?tx_jomuseo_pi1009%5BjoDetailView%5D=DE-MUS- 046828% 2Flido% 2Fdc00000039)"
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -48,6 +65,9 @@ msgid ""
 "\n"
 "Reworked by Susanne M Hoffmann"
 msgstr ""
+"Tę kulturę nieba wniósł użytkownik Stellarium [Jeong, Tae-Min](http://user.chollian.net/~jtm71/)\n"
+"\n"
+"Opracowano ponownie przez Susanne M. Hoffmann"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"
@@ -227,7 +247,7 @@ msgstr "Ptactwo Nieba"
 
 # Korean constellation, pronounce: NaamDoo
 msgid "Shrine of Sky"
-msgstr ""
+msgstr "Świątynia Nieba"
 
 # Korean constellation, pronounce: Goo
 msgid "Dog"
@@ -351,7 +371,7 @@ msgstr "Pan młody"
 
 # Korean constellation, pronounce: GeoBuu
 msgid "Charioteer"
-msgstr ""
+msgstr "Rydwan"
 
 # Korean constellation, pronounce: iinSeong
 msgid "Human"
@@ -395,7 +415,7 @@ msgstr "Wolnostojący pałac"
 
 # Korean constellation, pronounce: TouGongRi
 msgid "Official for Materials Supply"
-msgstr ""
+msgstr "Urzędnik ds. Zaopatrzenia w materiały"
 
 # Korean constellation, pronounce: JeonNwoe
 msgid "Lightening"
@@ -595,7 +615,7 @@ msgstr "Generał Granicy"
 
 # Korean constellation, pronounce: CheonJeol
 msgid "Celebration of Sky"
-msgstr ""
+msgstr "Celebration of Sky"
 
 # Korean constellation, pronounce: GuuYuu
 msgid "Flag of Emperor"

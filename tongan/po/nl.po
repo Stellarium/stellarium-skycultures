@@ -18,6 +18,8 @@ msgid ""
 "As in all Polynesian star lore, Tongan sky culture descends from the "
 "practical application of nautical navigation."
 msgstr ""
+"Zoals in alle Polynesische sterrenkunde, stamt de Tongaanse luchtcultuur af "
+"van de praktische toepassing van nautische navigatie."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -72,6 +74,56 @@ msgid ""
 "\n"
 "--------------------"
 msgstr ""
+"In sommige gevallen kan de scheiding van individuele sternamen van \"sterpad\" -namen niet worden opgelost. Een ster kan meerdere namen hebben 1) als de ster deel uitmaakt van talloze sterpaden en 2) omdat de naamgeving van sterren kan verschillen afhankelijk van de Tongaanse eilandengroep waaruit ze afkomstig is. De nomenclatuur van sterren wordt benaderd op basis van de beperkte beschikbare middelen.\n"
+"\n"
+"Terwijl de meest opvallende / gemeenschappelijke sterren en sterrenbeelden (dwz Orion, Pleiaden, Crux) worden geïdentificeerd in de Tongaanse sterrenoverlevering, zijn er twee opmerkelijke uitzonderingen. Er is geen naamgeving van de noordster (Polaris: α UMi). Dit is eigenaardig gezien de breedtegraad van de Tongaanse eilanden en de bekendheid van deze ster op bepaalde tijden van het jaar. In het geval van noordelijke reizen vanuit Tonga kon zo'n belangrijk navigatiepunt onmogelijk onopgemerkt zijn gebleven. Het sterrenbeeld Schorpioen (delen in of sterren van) zijn ook afwezig in de Tongaanse sterrenkunde. Dit is verrassend omdat de overgrote meerderheid van de sterrenkunde - wereldwijd en Polynesisch - Schorpioen als een centraal sterrenbeeld heeft omdat het gemakkelijk te identificeren is en omdat het zich bijna direct tegenover Orion aan de nachtelijke hemel bevindt (Stellarium zou elke verdere kennis over deze twee afwijkingen verwelkomen) ).\n"
+"\n"
+"De gemeenschappelijke afkomst van Polynesische sterrenleer blijkt duidelijk uit de overeenkomsten in de etikettering van sterren. Zo wordt de Pleiaden Mataliki genoemd in het Tongaans, Matariki in het Maori en Makali'i in het Hawaïaans.\n"
+"\n"
+"### Nomenclatuur\n"
+"\n"
+"| Tongaanse term | Benaming |\n"
+"| ------------- | ------- |\n"
+"| Humu | Kolenzak |\n"
+"| Kaniva | Melkweg |\n"
+"| Ma'afulele | Grote Magellan-wolk |\n"
+"| Ma'afutoka | Kleine Magellan-wolk |\n"
+"| 'otu Ma'afu | Magelhaense wolken (beide) |\n"
+"| Ha'amonga | Ecliptica |\n"
+"| Mahina | Maan |\n"
+"| La'a | Zo |\n"
+"| Fetu'u | Ster (in het algemeen) |\n"
+"| Fetu'ufuka | Komeet |\n"
+"| 'Umata | Regenboog |\n"
+"| Fetu'u'Esiafi | Vallende ster |\n"
+"| tapukitea | Venus |\n"
+"| Matamemea | Mars |\n"
+"| Ma'afutoka (hetzelfde als SMC) | Canopus |\n"
+"| Ma'afulele (zelfde als LMC) | Sirius |\n"
+"| Velitoa hififo | Rigel |\n"
+"| Velitoa hahake | Betelguese |\n"
+"| Hikule'o | Arcturus |\n"
+"| Monuafe | Meissa |\n"
+"| Motuliki | Pleiaden |\n"
+"| Tu'ulalupe | Hyades |\n"
+"| Toloatonga | Zuiderkruis |\n"
+"| Toloalahi | False Cross |\n"
+"\n"
+"\n"
+"__Tongan sterrenbeelden__\n"
+"\n"
+"| Tongaanse naam | Benaming of aantekeningen |\n"
+"| ------------- | ------- |\n"
+"| Tuinga ika | Onderdeel van Orion, riem en zwaard |\n"
+"| Ae e'Uvea | Corona Borealis (_Speculative_) |\n"
+"| Fatanalua | Coma Berenices (_Speculative_) |\n"
+"| Kapakau'o'tafahi | Cassiopeia (_Speculative_) |\n"
+"| Toloa | Gordel van Orion |\n"
+"| Lua tangata | Castor en / of Pollux |\n"
+"| Fungasia | Toliman en / of Agena |\n"
+"| Houmatoloa (Toloa, toloatonga, toloalahi) | - |\n"
+"\n"
+"--------------------"
 
 # Sky culture references section in markdown format
 msgid ""
@@ -79,6 +131,9 @@ msgid ""
 " - [#2]: T.H Fale, _Tongan astronomy_, 1990 Polynesian Eyes foundation, Nuku'alofa, TongaChoice printing.\n"
 " - [#3]: E. E. V. Collocott, _Tongan astronomy and calendar_, 1992 Occasional Papers of the Bernice Pauahi Bishop Museum of Polynesian ethnology and Natural History, Vol. 8, No. 4 Honolulu, Hawaii, Bishop Museum Press 1922, p. 157-173."
 msgstr ""
+" - [#1]: Velt Kik, _Ko E Ngaahi fetu'u 'o, Stars over tonga_, 1990' Atenisi University, Nuku'alofa, Tonga Government printing department.\n"
+" - [#2]: TH Fale, _Tongan astronomy_, 1990 Polynesian Eyes foundation, Nuku'alofa, TongaChoice printing.\n"
+" - [#3]: EEV Collocott, _Tongan astronomy and calendar_, 1992 Occasional Papers of the Bernice Pauahi Bishop Museum of Polynesian etnology and Natural History, Vol. 8, No.4 Honolulu, Hawaii, Bishop Museum Press 1922, p. 157-173."
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -86,51 +141,54 @@ msgid ""
 "\n"
 "technical adaption: Susanne M Hoffmann "
 msgstr ""
+"Deze hemelcultuur werd bijgedragen door Stellarium-gebruiker [Dan Smale](d.smale@niwa.co.nz)\n"
+"\n"
+"technische aanpassing: Susanne M Hoffmann"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"
-msgstr ""
+msgstr "GNU GPL v2.0"
 
 # Tongan constellation, native: Toloatonga
 msgid "Southern Wild Duck"
-msgstr ""
+msgstr "Zuidelijke wilde eend"
 
 # Tongan constellation, native: Lua tangata
 msgid "Two Men"
-msgstr ""
+msgstr "Twee mannen"
 
 # Tongan constellation, native: Toloa
 msgid "Wild Duck"
-msgstr ""
+msgstr "Wilde eend"
 
 # Tongan constellation, native: Tu'ulalupe
 msgid "Pigeon Perch"
-msgstr ""
+msgstr "Duif baars"
 
 # Tongan constellation, native: Toloalahi
 msgid "Big Wild Duck"
-msgstr ""
+msgstr "Grote wilde eend"
 
 # Tongan constellation, native: Fungasia
 msgid "Mound Top"
-msgstr ""
+msgstr "Mound Top"
 
 # Tongan constellation, native: Tuinga ika
 msgid "String of fishes"
-msgstr ""
+msgstr "String van vissen"
 
 # Tongan constellation, native: Houmatoloa
 msgid "Wild Duck's Point of Land"
-msgstr ""
+msgstr "Het punt van het land van de wilde eend"
 
 # Tongan constellation, native: Fatanalua
 msgid "Two Carriers"
-msgstr ""
+msgstr "Twee dragers"
 
 # Tongan constellation, native: ʻAo ʻo ʻUvea
 msgid "Cloud of 'Uvea"
-msgstr ""
+msgstr "Wolk van 'Uvea"
 
 # Tongan constellation, native: Kapakau'o'tafahi
 msgid "Wing of Tafahi"
-msgstr ""
+msgstr "Vleugel van Tafahi"
