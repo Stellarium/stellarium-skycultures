@@ -2,23 +2,23 @@
 
 ## Introduction
 
-This sky culture maps the depictions of the famous astronomical ceiling from Denderah onto the stars. 
+This sky culture maps the depictions of the famous astronomical ceiling from Denderah onto the stars.
 
-This is a late Egyptian sky culture, meaning Egyptian drawing style but the constellations are only partially ancient Egyptian: The setup shows Babylonian and Greco-Roman influences. 
+This is a late Egyptian sky culture, meaning Egyptian drawing style but the constellations are only partially ancient Egyptian: The setup shows Babylonian and Greco-Roman influences.
 
 ## Description
 
-In the 4th century BCE, the Macedonian general Alexander the Great conquered Egypt, founded the city of Alexandria and became pharao of the country. His successors, the Ptolemaic dynasty ruled Egypt from Alexander's death in 323 to the death of Cleopatra in 30 BCE. Since Alexander's conquest, the Babylonian mathematical astral science with its zodiac and the sexagesimal division of the ecliptic became the new standard. Late Egyptian astronomy and astrology follows that of Greco-Roman culture which roots in the Babylonian one. 
+In the 4th century BCE, the Macedonian general Alexander the Great conquered Egypt, founded the city of Alexandria and became pharao of the country. His successors, the Ptolemaic dynasty ruled Egypt from Alexander's death in 323 to the death of Cleopatra in 30 BCE. Since Alexander's conquest, the Babylonian mathematical astral science with its zodiac and the sexagesimal division of the ecliptic became the new standard. Late Egyptian astronomy and astrology follows that of Greco-Roman culture which roots in the Babylonian one.
 
 The belief that the stars could influence human destinies appears to not have reached Egypt until the Ptolemaic period. The temple of Hathor at Denderah dates from Ptolemaic times, i.e. probably the first century BCE. Features a wonderful huge symbolic map of the sky in Egyptian painting style, it provides two versions: a circular shaped one [#10] and a rectangularly shaped one [#11]. The rectangular "zodiac" of Denderah shows a sequence of Egyptian figures in the typical box-pattern, each with a file of symbolic stars next to it showing how many stars form this constellations. The round "zodiac" tries to organize these figures like they are placed in the sky.
 
-![](dendera_zodiac.webp) 
+![](dendera_zodiac.webp)
 One of the first depictions of the Dendera "zodiac", produced by engineer-archaeologists Prosper Jollois and Edouard Devilliers in the 19th century.
 The large figure on the right is the Goddess of Heaven, Nut. first published in: Description de l'Égypte Antiquités, v. 4, [#12] {: .img_and_caption }
 
 Examples how these depictions deviate in naming and depiction of constellations from the typical Greek style:
 
- * Cancer, the Crab, is represented by the Scarab Beetle. 
+ * Cancer, the Crab, is represented by the Scarab Beetle.
  * the Big Dipper is not called Bear but "the Bull's Foreleg" refering to the Foreleg of God Seth, an ancient Egyptian constellation
  * The figure of the Lion near the Scales (which is not the zodiacal Lion) is the constellation Centaurus [#1].
  * There are two Shooters: one human with two legs, one centaur-like with four legs. The centaur-like shooter is Sagittarius from the (Babylonian) zodiac, the human bow-shooter represents the two constellations "Bow" and "Arrow" in our constellation of Canis Maior (the Arrow including Sirius) [#4].

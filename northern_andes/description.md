@@ -27,7 +27,7 @@ According to the colonial chronicler Juan de Betanzos "the Indians knew the leap
 We consider that by means of "stellar mirrors" the sages could register the stellar traffic; Through this observation they noticed that during the nightfalls of each equinox and solstice, specific stars appear in the sky, as if they were marking the climatic changes to which we are exposed, so these cosmic signals were recorded in the Andean prehispanic patrimony giving rise to the Andean geometrical forms.
 
 __March Equinox__
- 
+
  *"Antonio Quinatoa" Cross:* At dusk the first stars to appear are: Sirius - Procyon - Rigel - Betelgeuse, which form a square or the cross named "Antonio Quinatoa". It is the constellation that governs the masculine cycle.
 
 __September Equinox__
@@ -50,7 +50,7 @@ The asterisms that we include are the first stars to appear at the end of each e
 
 #### The Milky Way
 
- Our planet belongs to the galaxy of the Milky Way, whose shape is that of a large disk with two bulging arms; this form and the rotation of the earth means that at the evenings of the equinoxes and solstices we can appreciate a specific part of it, thus becoming a signal that the ancestors appreciated to measure the times. Called in the Andes as the "Muyun" for many peoples, it represents a gigantic life-giving serpent. 
+ Our planet belongs to the galaxy of the Milky Way, whose shape is that of a large disk with two bulging arms; this form and the rotation of the earth means that at the evenings of the equinoxes and solstices we can appreciate a specific part of it, thus becoming a signal that the ancestors appreciated to measure the times. Called in the Andes as the "Muyun" for many peoples, it represents a gigantic life-giving serpent.
 
 Contrary to the West, the constellations are not made up of bright points or stars; the astral beings are housed in the "dark spots" existing in the brilliance of the Milky Way, so at each of the turning points in our annual path around the sun (Solstices and Equinoxes), we will find a guiding constellation in each "visible end" of the galaxy. As with lunar or solar movements, the movements of the constellations in the Northern Andes marked the beginning or end of specific eras, agricultural, civil, reproductive or festive. They determined the fate of beings, receiving respect and veneration for those who came for their wisdom; thus developing a religious thought similar to that of the sun or the moon throughout the continent.
 
@@ -64,7 +64,7 @@ Here we describe the constellations decoded to date:
 | Mercedes Cotacachi (The Monkey): Constellation that governs the female cycle, indicates the arrival of rains and the start of agricultural processes. | ![](mono.webp) |
 | Hernán Crespo Toral (The Frog): The "Hampatu" is the animal that has several stages, like the Andean thought, it appears on the night of the June solstice and it is related to the contact with the world of the dead. | ![]{sapo.webp) |
 | Ana Jaramillo de Velasteguí (The Warrior): Known as "the Man and the Spear" or "The Dancer", the constellation governs the December solstice. | ![](guerrero.webp) |
- 
+
 ## References
 
 These constellations, asterisms and measurements are part of __the legacy of Ancestral Knowledge__ protected and compiled by the __Clan Quinatoa, guardians of the millenary knowledge of the Lundauco Valley in Imbabura - Ecuador__.

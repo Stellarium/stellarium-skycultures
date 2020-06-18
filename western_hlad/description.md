@@ -12,7 +12,7 @@ This set of stickfigures reproduces the classical Czech publication: Hlad, Hovor
 
 ![](hvezdna_obloha_2000.webp)![](obloha_na_dlani.webp)
 
-There are (rather similar) Czech and Slovak references: [#2] and [#3]. 
+There are (rather similar) Czech and Slovak references: [#2] and [#3].
 
 The atlas contains not only stars but also deep sky objects and transients (novae and supernovae); newer editions are based on the data hosted online by the Centre des données stellaires, Observatoire de Strasbourg.
 

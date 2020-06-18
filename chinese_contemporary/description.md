@@ -8,7 +8,7 @@ Nowadays, the sky culture used in China is a combination of traditional Chinese 
 
 The traditional Chinese sky culture had been developed independently some millennia ago. During some centuries roughly 2000 years ago, three big Chinese astronomy schools with their own constellations had been unified to a new system of 283 asterisms containing between one and several dozen stars. Their names had their traditions in Chinese mythology, folklore, and religion.
 
-Since the agreement in the International Astronomical Union (IAU) in the 1920s to define offical constellations, Chinese astronomers use the international system for official communication but they combine it with their traditional starlore where ever possible. 
+Since the agreement in the International Astronomical Union (IAU) in the 1920s to define offical constellations, Chinese astronomers use the international system for official communication but they combine it with their traditional starlore where ever possible.
 
 For a detailed introduction to traditional Chinese constellations and traditional Chinese names, see the _Chinese_ sky culture in Stellarium.
 
@@ -18,7 +18,7 @@ Contemporary Chinese use the constellations of the International Astronomical Un
 
 ### Star names
 
-However, the traditional Chinese proper names of stars are used instead of western star names. When a foreign astronomical book is translated into Chinese, the star names will also be translated into traditional Chinese star names. There are some special stars that use names which are not traditional Chinese but also not in any tradition, e.g. as Proxima Centauri for the closest star, Van Maanen's star for the first single white dwarf discovered by van Maanen 1917. These stars are not visible to the naked eye but have special astronomical significance. 
+However, the traditional Chinese proper names of stars are used instead of western star names. When a foreign astronomical book is translated into Chinese, the star names will also be translated into traditional Chinese star names. There are some special stars that use names which are not traditional Chinese but also not in any tradition, e.g. as Proxima Centauri for the closest star, Van Maanen's star for the first single white dwarf discovered by van Maanen 1917. These stars are not visible to the naked eye but have special astronomical significance.
 
 ## References
 

@@ -14,46 +14,46 @@ Common ancestry of Polynesian star lore's is evident in the similarities in the 
 
 ### Nomenclature
 
- | Tongan term | Designation | 
+ | Tongan term | Designation |
  |-------------|-------|
- | Humu | Coal sack | 
- | Kaniva | Milky Way | 
- | Ma'afulele | Large Magellan cloud | 
- | Ma'afutoka | Small Magellan cloud | 
- | 'otu Ma'afu | Magellanic clouds (both) | 
- | Ha'amonga | Ecliptic | 
- | Mahina | Moon | 
- | La'a | Sun | 
- | Fetu'u | Star (in general) | 
- | Fetu'ufuka | Comet | 
- | 'Umata | Rainbow | 
- | Fetu'u'Esiafi | Falling star | 
- | tapukitea | Venus | 
- | Matamemea | Mars | 
- | Ma'afutoka (same as SMC) | Canopus | 
- | Ma'afulele (same as LMC) | Sirius | 
- | Velitoa hififo | Rigel | 
- | Velitoa hahake | Betelguese | 
- | Hikule'o | Arcturus | 
- | Monuafe | Meissa | 
- | Motuliki | Pleiades | 
- | Tu'ulalupe | Hyades | 
- | Toloatonga | Southern Cross | 
- | Toloalahi | False Cross | 
- 
+ | Humu | Coal sack |
+ | Kaniva | Milky Way |
+ | Ma'afulele | Large Magellan cloud |
+ | Ma'afutoka | Small Magellan cloud |
+ | 'otu Ma'afu | Magellanic clouds (both) |
+ | Ha'amonga | Ecliptic |
+ | Mahina | Moon |
+ | La'a | Sun |
+ | Fetu'u | Star (in general) |
+ | Fetu'ufuka | Comet |
+ | 'Umata | Rainbow |
+ | Fetu'u'Esiafi | Falling star |
+ | tapukitea | Venus |
+ | Matamemea | Mars |
+ | Ma'afutoka (same as SMC) | Canopus |
+ | Ma'afulele (same as LMC) | Sirius |
+ | Velitoa hififo | Rigel |
+ | Velitoa hahake | Betelguese |
+ | Hikule'o | Arcturus |
+ | Monuafe | Meissa |
+ | Motuliki | Pleiades |
+ | Tu'ulalupe | Hyades |
+ | Toloatonga | Southern Cross |
+ | Toloalahi | False Cross |
+
 
 __Tongan constellations__
 
- | Tongan name | Designation or notes | 
+ | Tongan name | Designation or notes |
  |-------------|-------|
- | Tuinga ika | Part of Orion, belt and sword | 
- | Ae e'Uvea | Corona Borealis ( _Speculative_ ) | 
- | Fatanalua | Coma Berenices ( _Speculative_ ) | 
- | Kapakau'o'tafahi | Cassiopeia ( _Speculative_ ) | 
- | Toloa | Belt of Orion | 
- | Lua tangata | Castor and/or Pollux | 
- | Fungasia | Toliman and/or Agena | 
- | Houmatoloa (Toloa, toloatonga, toloalahi) | — | 
+ | Tuinga ika | Part of Orion, belt and sword |
+ | Ae e'Uvea | Corona Borealis ( _Speculative_ ) |
+ | Fatanalua | Coma Berenices ( _Speculative_ ) |
+ | Kapakau'o'tafahi | Cassiopeia ( _Speculative_ ) |
+ | Toloa | Belt of Orion |
+ | Lua tangata | Castor and/or Pollux |
+ | Fungasia | Toliman and/or Agena |
+ | Houmatoloa (Toloa, toloatonga, toloalahi) | — |
 
 --------------------
 
@@ -67,7 +67,7 @@ __Tongan constellations__
 
 This sky culture was contributed by Stellarium user [Dan Smale](d.smale@niwa.co.nz)
 
-technical adaption: Susanne M Hoffmann 
+technical adaption: Susanne M Hoffmann
 
 ## Licence
 

@@ -10,10 +10,10 @@ Considered as a whole, Romanian popular stellar mythology has three essential co
 
  1) The ancestral pastoral-agricultural is pre-Christian, in which the sky seen both as an agrarian clock for specific activities and as an "exhibition" of agricultural tools used by peasants.
 
- 2) More recently, corresponding to the Christianization of Romanian geographical space, there was also a repositioning in the sky: Christian and pre-Christian elements and constellations are associated with cosmogonical and theogonical myths, so that the sky is seen more like a church. 
+ 2) More recently, corresponding to the Christianization of Romanian geographical space, there was also a repositioning in the sky: Christian and pre-Christian elements and constellations are associated with cosmogonical and theogonical myths, so that the sky is seen more like a church.
 
- 3) The origin of the Romanian people: This people was formed after the conquest of Dacia by the Romans. Dramatic scenes from this history of Dacians mixing with the Romans are projected in the sky. 
- 
+ 3) The origin of the Romanian people: This people was formed after the conquest of Dacia by the Romans. Dramatic scenes from this history of Dacians mixing with the Romans are projected in the sky.
+
 __Note__: One of the differences between the Romanian from the modern sky culture is in the constellation of Orion, the Hunter. There are four traditional Romanian constellations overlapping in this modern constellation area.
 
 ### Thanks

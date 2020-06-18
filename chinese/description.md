@@ -32,24 +32,24 @@ Modern constellations refer to specific areas of the celestial sphere. Xingguans
 
 A Xingguan can contain from one to several dozens of stars. The so called single star asterisms among the Xingguans can be treated like star names. In Xingguan of two or more stars, each star has a number; the naming of stars in ancient China is the name of the Xingguan plus a number. However, there can be more than one way of numbering the stars within one asterism, thus, there can be more than one "name" for a certain star.
 
-Very few stars of the Xingguans have proper name additional to their number, e.g. alpha Leonis has the Chinese name "the Queen's Star" and is also referred to as "Xuanyuan 14" or (rarely) "Xuanyuan 1". The counting depends on the purpose (normal astronomy or observation of the Moon's path). 
+Very few stars of the Xingguans have proper name additional to their number, e.g. alpha Leonis has the Chinese name "the Queen's Star" and is also referred to as "Xuanyuan 14" or (rarely) "Xuanyuan 1". The counting depends on the purpose (normal astronomy or observation of the Moon's path).
 
-In the traditional Chinese catalogues before 1650, coordinates were only given for one star per constellation, the so called main star or principle star [#1]. This is the star with the number "1" in the constellation where counting is started. It is usually the star with the westernmost right ascension. 
+In the traditional Chinese catalogues before 1650, coordinates were only given for one star per constellation, the so called main star or principle star [#1]. This is the star with the number "1" in the constellation where counting is started. It is usually the star with the westernmost right ascension.
 
-The Suzhou map  [#3] is based on coordinates and asterisms defined in antiquity which became canonical [#1],[#2] but later further stars were "added stars" (Chinese: 增星, pinyin:zēng xīng). The stars of the original catalogue are called "proper stars" (Chinese: 正星, pinyin: zhèng xīng). 
+The Suzhou map  [#3] is based on coordinates and asterisms defined in antiquity which became canonical [#1],[#2] but later further stars were "added stars" (Chinese: 增星, pinyin:zēng xīng). The stars of the original catalogue are called "proper stars" (Chinese: 正星, pinyin: zhèng xīng).
 
 _The Continuation of Complete Studies of Astronomical Instruments_ has 3240 Stars names in total. Yi Shitong has conducted textual research and summary of these records in his book _Chinese and Western Contrast Star Chart and Catalogue 1950.0_ (Chinese: 中西对照恒星图表 1950.0; pinyin: Zhōngxī Duìzhào Héngxīng Túbiǎo).
 
 Unlike Xingguans, traditional Chinese star names are still in common usage today, even more common than Bayer/Flamsteed designations.
 
-![](suzhouskxt.webp)  
+![](suzhouskxt.webp)
 _The astronomical map of Suzhou, engraved in black marble (1247)_  {: .img_and_caption }
 
 ### Three Enclosures
 
 The 3 enclosures are regions which are summarizing many smaller asterisms. The enclosure of the Purple Forbidden Palace (Chinese: 紫微垣, pinyin: Zǐwēi yuán) surrounds almost the whole circumpolar area while the enclosures of the Supreme Palace (Chinese: 太微垣, pinyin: Tàiwēi yuán) and the Heavenly Market Place (Chinese: 天市垣, pinyin: Tiānshì yuán) are located close to the ecliptic.
 
-Each enclosure has two walls, called the left wall and the right wall which are the main xingguans. There are Xingguans at these "wall" asterisms (such as guards of the palace) as well as within the area that they are surrounding, e.g. within the Forbidden Palace xingguan, there are the xingguans of the Emperor, the Crown Prince and other. 
+Each enclosure has two walls, called the left wall and the right wall which are the main xingguans. There are Xingguans at these "wall" asterisms (such as guards of the palace) as well as within the area that they are surrounding, e.g. within the Forbidden Palace xingguan, there are the xingguans of the Emperor, the Crown Prince and other.
 
 The Purple Forbidden Palace represents the inner palace of the emperor because the whole celestial sphere with all other xingguans is turning around this polar region. Thus, in the ancient Chinese belief, the Purple Forbidden Palace lies in the middle of the sky and covers the modern constellations Ursa Minor, Draco, Camelopardalis, Cepheus, Cassiopeia, Auriga, Boötes, and parts of Ursa Major, Canes Venatici, Leo Minor, Hercules. It contains 37 traditional xingguans.
 
@@ -59,15 +59,15 @@ The enclosure of the Supreme Palace is the place where the emperor and the court
 
 *   [Supreme Palace Enclosure (Wikipedia)](https://en.wikipedia.org/wiki/Supreme_Palace_enclosure)
 
-Heavenly Market Enclosure is a bazaar in the sky, a place where ordinary people meet and are represented with their bazaar facilities in 19 xingguans. The Heavenly Market Place covers the modern constellations Serpens, Ophiuchus, Aquila and Corona Borealis, and parts of Hercules. 
+Heavenly Market Enclosure is a bazaar in the sky, a place where ordinary people meet and are represented with their bazaar facilities in 19 xingguans. The Heavenly Market Place covers the modern constellations Serpens, Ophiuchus, Aquila and Corona Borealis, and parts of Hercules.
 
 *   [Heavenly Market Enclosure (Wikipedia)](https://en.wikipedia.org/wiki/Heavenly_Market_enclosure)
 
 ### Twenty-Eight Mansions (Xiù)
 
-The 28 Lunar Mansions (Chinese: 宿, pinyin: xiù) are slices of right ascensions that are bases in the path of the Moon ±5° around the ecliptic. The lunar mansion asterisms are not of equal size, they are 28 constellations north and south of the ecliptic but the regions of the Xiú (mansions) extend from there towards the equatorial pole where the right ascension lines intersect. The inital intention was to define the mansions in a way that the Moon changes the mansion every day but due to variability of the orbit and speed of the Moon, this concept does not apply any more. The smallest slice is only 1° right ascension. 
+The 28 Lunar Mansions (Chinese: 宿, pinyin: xiù) are slices of right ascensions that are bases in the path of the Moon ±5° around the ecliptic. The lunar mansion asterisms are not of equal size, they are 28 constellations north and south of the ecliptic but the regions of the Xiú (mansions) extend from there towards the equatorial pole where the right ascension lines intersect. The inital intention was to define the mansions in a way that the Moon changes the mansion every day but due to variability of the orbit and speed of the Moon, this concept does not apply any more. The smallest slice is only 1° right ascension.
 
-Traditional Chinese coordinates are given in "degrees right ascension" within a lunar mansion. The star where the measurement starts for this lunar mansion is called the determinative star (Chinese: 距星, pinyin: jùxīng) of the mansions. The equatorial degrees of the lodge (Chinese: 宿度, pinyin: xiùdù) are all right ascensions between the determinative star of a mansion the determinative star of the next one. However, the traditional Chinese right ascension "degrees" are smaller than in the sexagesimal system we are used to because the traditional Chinese "degrees" reflect the motion of the mean Sun as one degree per day. Thus, a Chinese "degree" is not 1/360 of the full circle but 1/365.25 of the circle. 
+Traditional Chinese coordinates are given in "degrees right ascension" within a lunar mansion. The star where the measurement starts for this lunar mansion is called the determinative star (Chinese: 距星, pinyin: jùxīng) of the mansions. The equatorial degrees of the lodge (Chinese: 宿度, pinyin: xiùdù) are all right ascensions between the determinative star of a mansion the determinative star of the next one. However, the traditional Chinese right ascension "degrees" are smaller than in the sexagesimal system we are used to because the traditional Chinese "degrees" reflect the motion of the mean Sun as one degree per day. Thus, a Chinese "degree" is not 1/360 of the full circle but 1/365.25 of the circle.
 
 The 28 mansion asterisms are grouped into Four Holy Beasts (Chinese: 象 pinyin: xiàng), each containing seven mansions corresponding to seven luminaries. The Four Holy Beasts are the White Tiger of the East, The Red Bird of the South, the Azure Dragon of the West and the Dark Warrier of the North. As they all lay around the ecliptic, the association with the compass direction does not correspond to the real horizon.
 
@@ -94,7 +94,7 @@ List of The Twenty-Eight Mansions:
 | Pinyin |Xīfāng Báihǔ | Kuíxiù | Loúxiù | Wèixiù | Mǎoxiù | Bìxiù | Zīxiù | Shēnxiù |
 |English Name | White Tiger of the West | Legs Mansion | Bond Mansion | Stomach Mansion | Hairy Head Mansion | Net Mansion | Turtle Beak Mansion | Three Stars Mansion |
 | Number of Xinguans | 54 | 9 | 6 | 7 | 9 | 14 | 3 | 6 |
-| Determinative Star |    | ζ And | β Ari | 35 Ari | 17 Tau | ε Tau | λ Ori | ζ Ori | 
+| Determinative Star |    | ζ And | β Ari | 35 Ari | 17 Tau | ε Tau | λ Ori | ζ Ori |
 
 | Chinese Name | 南方朱雀 | 井宿 | 鬼宿 | 柳宿 | 星宿 | 张宿 | 翼宿 | 轸宿 |
 |---------------|---------|------|-------|-------|-----|------|------|-------|
@@ -109,7 +109,7 @@ List of The Twenty-Eight Mansions:
 
 The sky around the south celestial pole was unknown to ancient Chinese. Therefore, it was not included in the Three Enclosures and Twenty-Eight Mansions system. However, by the end of the Ming Dynasty, Xu Guangqi (Chinese:徐光启,pinyin:Xú Guāngqǐ) introduced another 23 Xingguans based on the knowledge of European star charts. These Xingguans were since incorporated into the traditional Chinese star maps.
 
-![](hunxiang.webp)  
+![](hunxiang.webp)
 _Xingguans Map of Celestial Globe(Su Song，Song dynasty)_ {: .img_and_caption}
 
 ### Deep Space Objects
@@ -118,7 +118,7 @@ In ancient China, even some deep space objects were included in the xingguans.
 
 Include the following:
 
-| General name | Chinese Name | Pinyin   | Chinese Name | Nick name | 
+| General name | Chinese Name | Pinyin   | Chinese Name | Nick name |
 |--------------|--------------|----------|--------------|-----------|
 | NGC 6231     | 神宫          | shéngōng | God's Palace | Northern Jewel Box Cluster |
 | NGC 6475/M 7 | 鱼           | Yú        | Fish         | Ptolemy Cluster |
@@ -134,7 +134,7 @@ This sky culture is based on the information in _Chinese and Western Contrast St
 Special thanks to Liu Chunbin for the collation of the _Chinese and Western Contrast Stars Chart and Star Catalogue 1950.0(Star Catalogue)_. He produced Chinese Star Catalogue for Stellarium (Chinese： Stellarium 中国星官体系下中文星名扩展包) is a very important reference.
 
 For the translation of constellations, the use of the Hong Kong Space Museum produced the English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Names (Chinese： 中国星区、星官及星名英译表). Only a small portion of the translation is changed, for example, the translation of the two different Xingguans is the same.
- 
+
 The cultural connotations of the name cannot be explained perfectly, because thousands of years passed, the connotations behind some names are controversial. These are only possible translations.
 
 ## References

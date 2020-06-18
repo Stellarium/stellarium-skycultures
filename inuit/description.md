@@ -18,7 +18,7 @@ Illustrations are done by Johan Meuris, released under the Free Art License.
 
 Karrie Berglund (content) & Johan Meuris (illustrations)
 
-description edited by Susanne M Hoffmann 
+description edited by Susanne M Hoffmann
 
 ## Licence
 

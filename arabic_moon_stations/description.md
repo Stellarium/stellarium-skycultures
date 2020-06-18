@@ -12,8 +12,8 @@ The sun also passes through these stations. In the _Al-Jabhah_ lunar mansion the
 
 Originally, the _Manazil al-Qamar_, the Arabic for the lunar mansions, or stations of the moon, were a system of 28 stars, group of stars, or spots in the sky near which the moon can be found in each of the 28 nights of its monthly revolution. Early mentions of the complete list of the lunar stations is reported by Abd al-Malik Ibn Habeeb (d. 852) on the authority of Malik ibn Anas (d. 795).[#1] However, this system had been adopted already in the pre-Islamic period, prior to the 7th century of the common era.
 
- Using heliacal observations, the asterisms of the lunar mansions served to divide the siderial and solar year of 365 days into 28 periods of 13 days each except for one period that is given 14 days. These 28 periods are called _Anwa'a_, plural of _Nawa'a_. Each _Nawa'a_ is determined by a characteristical star: when this star rises in the morning during dawn (in the east, so, shortly before the Sun), this is the beginning of the next _Nawa'a_. The name of the _Nawa'a_ (period of time, half month), gives the lunar mansion its name. One complete cycle of setting and rising for each of the 28 lunar mansions, one after the other, makes a solar year. 
-This system was used to determine the seasons and predict weather, especially rain.[#2] The Arabs said: each _Nawa'a_ \[period of 13/14 days\] is characterized by a distinctive weather pattern of rain, wind, and temperature.[#4] 
+ Using heliacal observations, the asterisms of the lunar mansions served to divide the siderial and solar year of 365 days into 28 periods of 13 days each except for one period that is given 14 days. These 28 periods are called _Anwa'a_, plural of _Nawa'a_. Each _Nawa'a_ is determined by a characteristical star: when this star rises in the morning during dawn (in the east, so, shortly before the Sun), this is the beginning of the next _Nawa'a_. The name of the _Nawa'a_ (period of time, half month), gives the lunar mansion its name. One complete cycle of setting and rising for each of the 28 lunar mansions, one after the other, makes a solar year.
+This system was used to determine the seasons and predict weather, especially rain.[#2] The Arabs said: each _Nawa'a_ \[period of 13/14 days\] is characterized by a distinctive weather pattern of rain, wind, and temperature.[#4]
 
 A detailed description of the stars of each lunar mansion, the times of their heliacal rising and a compilation of astronomical and meteorological knowledge of the ancient Arabs can be found in the _Book of Anwaa_, authored by Ibn Qutaybah (b. 828 - d. 884 or 889). Copies of this book manuscripts survived, and it was printed in India in 1956.[#5]
 
@@ -58,7 +58,7 @@ The asterisms of the lunar stations in this sky culture are defined along the id
 
 1.   _Al-Sharatan_ or _Al-Ashrat_ (The two signs or the signs) composed of the 3 stars: α Ari (Hamal), β Ari (Sheratan) and γ<sub>2</sub> Ari (Mesarthim)
 2.   _Al-Botain_ (The small belly \[of the little ram\]) composed of the 3 stars: ε Ari, δ Ari (Botein), and ρ<sub>3</sub> Ari
-3.   _Al-Thurayya_ (Pleiades) composed of the star cluster of the Pleiades 
+3.   _Al-Thurayya_ (Pleiades) composed of the star cluster of the Pleiades
 4.   _Al-Dabaran_ (The Follower \[of the Pleiades\]) composed of the single star α Tau (Aldebaran) and bright stars of the Hyades
 5.   _Al-Hakaah_ (The mark on the horse side) composed of the three stars on the head of Orion: λ Ori (Meissa), φ<sub>1</sub> Ori and φ<sub>2</sub> Ori
 6.   _Al-Hanaah_ (The bend in the neck of a camel) composed of the 2 stars: γ Gem (Alhena) and ξ Gem

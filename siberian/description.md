@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Siberia is the Asian part of Russia, i.e. the northern third of the Asian continent. As it belongs to Russia, the modern constellations are used there since many centuries. 
+Siberia is the Asian part of Russia, i.e. the northern third of the Asian continent. As it belongs to Russia, the modern constellations are used there since many centuries.
 
 ## Description
 
-The names of the constellations of the native Siberian peoples and tribes is poorly studied. Additonally, due to the large territory, the knowledge about constellations is difficult to reconcile in a single integrated picture. In this sky culture, only specific names and objects are marked which are typical for whole of Siberia. There had been more in only certain areas of Siberia, used by only a smaller group of people. 
+The names of the constellations of the native Siberian peoples and tribes is poorly studied. Additonally, due to the large territory, the knowledge about constellations is difficult to reconcile in a single integrated picture. In this sky culture, only specific names and objects are marked which are typical for whole of Siberia. There had been more in only certain areas of Siberia, used by only a smaller group of people.
 
 ### Milky Way
 
@@ -35,7 +35,7 @@ Of the constellation of Orion, Siberians usually use only three stars of the bel
 
 Alexander Wolf
 
-adapted by Susanne M Hoffmann 
+adapted by Susanne M Hoffmann
 
 ## Licence
 

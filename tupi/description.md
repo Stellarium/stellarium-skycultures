@@ -12,7 +12,7 @@ As with many cultures, constellations were identified and used to help keep trac
 
 #### Ema
 
-The Tupi name for this constellation is _Iandutim_ (_Guirá Nhandu_ inGuarani), which literally translates to _White Ostrich_. The constellation depicts a large bird. 
+The Tupi name for this constellation is _Iandutim_ (_Guirá Nhandu_ inGuarani), which literally translates to _White Ostrich_. The constellation depicts a large bird.
 
 In the first two weeks of June this constellation is fully visible in the Eastern sky in the evening, indicating the beginning of Winter in the South of Brazil, and the start of the dry season in the North.
 
@@ -30,7 +30,7 @@ In the second half of December, the constellation is fully visible in the Easter
 ## Authors
 
 This sky culture was contributed by Stellarium user _Paulo Marcelo Pontes_,
-adapted by Susanne M Hoffmann 
+adapted by Susanne M Hoffmann
 
 ## Licence
 

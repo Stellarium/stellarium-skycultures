@@ -6,7 +6,7 @@ The Aztecs were an indigene group of peoples in Mesoamerica, especially central 
 
 ## Description
 
-For ancient Aztecs, the knowledge of the night sky and star's movement had great importance for their calendars and the measurement of both agricultural and sacred cycles. The elements of the Aztec society such as culture, economy and science is preserved in the _tlacuilos_. This term loans from _tlacuiloa_, a word in the ancient Aztec language (Nahuatl,[#12],[#13]) that means _writing with drawings_. These Tlacuilos where stored in the _amoxcalli_ (books) and _calli_ (house). Later, they became known as _codices_; a word that came from the Latin word Codex meaning 'written book'. They were drawn in many different materials such as deer skin, _amate_ (paper) or cotton fabric and they had no text only drawings called _glifos_ [#5],[#6]. 
+For ancient Aztecs, the knowledge of the night sky and star's movement had great importance for their calendars and the measurement of both agricultural and sacred cycles. The elements of the Aztec society such as culture, economy and science is preserved in the _tlacuilos_. This term loans from _tlacuiloa_, a word in the ancient Aztec language (Nahuatl,[#12],[#13]) that means _writing with drawings_. These Tlacuilos where stored in the _amoxcalli_ (books) and _calli_ (house). Later, they became known as _codices_; a word that came from the Latin word Codex meaning 'written book'. They were drawn in many different materials such as deer skin, _amate_ (paper) or cotton fabric and they had no text only drawings called _glifos_ [#5],[#6].
 
 Although, many of the pre-hispanic Codices were destroyed during the Spanish conquest, some native Americans and some Spanish priests have been working for keeping collections and continuing the Mesoamerican customs from earlier epochs. In the newly produced Colonial Codices, there is a change of the drawing style because of new techniques and the new materials imported from Europe. Additionally, descriptive text in these new manuscripts have been written in a mixture of both languages, Spanish and Nahuatl.
 
@@ -95,7 +95,7 @@ Enrique Gómez Candelario [aldeaglobal@gmail.com](mailto:aldeaglobal@gmail.com),
 
 English translation by Rafael Rojas Segoviano
 
-re-worked by Susanne M Hoffmann 
+re-worked by Susanne M Hoffmann
 
 ## Licence
 

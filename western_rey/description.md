@@ -6,9 +6,9 @@ When a decision of the International Astronomical Union (IAU) made the boundarie
 
 ## Description
 
-Due to the rapidly increasing number of known stars and nebulae, richly illustrated atlases with sumptuously engraved mythological figures had fallen out of fashion in the 19th century. The last atlas of this style was Bode, Uranographia, Berlin, 1801 and its format had to be huge (92 x 130 cm) in order to depict all contemporarily known objects below the detailed drawings. 
+Due to the rapidly increasing number of known stars and nebulae, richly illustrated atlases with sumptuously engraved mythological figures had fallen out of fashion in the 19th century. The last atlas of this style was Bode, Uranographia, Berlin, 1801 and its format had to be huge (92 x 130 cm) in order to depict all contemporarily known objects below the detailed drawings.
 
-The development was split up: The popular maps for beginner's guides and public relation were illustrated with beautiful paintings of constellations but abstained from displying all astronomical content known while the maps used in professional observatories (e.g. the international Cartes du Ciel project) abstained from any lines and constellations drawings but depicted the stars and nebulae only. 
+The development was split up: The popular maps for beginner's guides and public relation were illustrated with beautiful paintings of constellations but abstained from displying all astronomical content known while the maps used in professional observatories (e.g. the international Cartes du Ciel project) abstained from any lines and constellations drawings but depicted the stars and nebulae only.
 
 Later, varous artists compete to suggest stick figures that connect some bright stars within the constellation areas but these suggestions were initially not meaningful. Thus, Rey's suggestion in 1952 to draw stick figures that trigger the reader's phantasy had some impact: It shows that over several decades, the figures had ceased to resemble the figures they were named after and appeared incomprehensible to beginning stargazers.
 
@@ -18,7 +18,7 @@ H. A. Rey (Hans Augusto Reyersbach, 1898-1977) was a poster artist of German des
 
 ### The Constellations
 
-In this book, which has become very popular especially in the U.S., Rey connected the stars of every constellation "in such a way that the resulting shape makes sense." What surprised him was "that nobody has done it before. The basic idea is so simple." 
+In this book, which has become very popular especially in the U.S., Rey connected the stars of every constellation "in such a way that the resulting shape makes sense." What surprised him was "that nobody has done it before. The basic idea is so simple."
 
 Rey's new stick figures make it indeed very simple to recognize the depicted constellation figures. Rey's work does not include figurative artwork, therefore this sky culture deliberately only comes with Rey's original stick figures. Rey's constellation names were also always given in English. If you switch to "Native" name display mode, you may see exactly the spelling used in his book. Also the stars named here are limited to those included in the book.
 
@@ -43,7 +43,7 @@ Mike Richards and Georg Zotti
 
 This sky culture used to be for a long time an easy user-installable addon example contributed by Mike Richards. It has been reworked following the 41st reprint and completed with this description by Georg Zotti.
 
-Slightly re-worked by Susanne M Hoffmann 
+Slightly re-worked by Susanne M Hoffmann
 
 ## Licence
 

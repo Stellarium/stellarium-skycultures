@@ -29,20 +29,20 @@ Cetus as seen in the sky in an old manuscript of Al-Sufi book [#3].
 
 ### The origin of star names
 
-Almost all modern star names originate from long traditions. They are a part of the collective cultural heritage of humanity. 
+Almost all modern star names originate from long traditions. They are a part of the collective cultural heritage of humanity.
 
- The majority of common star names in the Western cultures is Arabic or derives from abbreviations and misunderstandings of Arabic phrases. This way, only star names (labels) for bright stars survived in abbreviations and transcriptions. 
- 
+ The majority of common star names in the Western cultures is Arabic or derives from abbreviations and misunderstandings of Arabic phrases. This way, only star names (labels) for bright stars survived in abbreviations and transcriptions.
+
  For instance, in the Almagest, stars were described by their position within the constellation figure, e.g. "the star at the tip of the tail of the Bird". This was translated into Arabic but in the map the label was reduced to the term "tail" (the figure of the bird is obvious), "danab" in Arabic. The translation into Latin, then, transformed the "Bird" into "Swan" _Cygnus_ and the Arabic label was taken as star name _Deneb_. Other star names used by _al-Sūfī_ and his compatriots were direct translations from Ptolemy's descriptions. For example, the modern star name _Fomalhaut_ comes from the Arabic "mouth of the southern fish", which is where _Ptolemy_ had described the star's position in the _Almagest_.
- 
- Other star names describe the star itself, such as _Sirius_, which is derived from  the Greek original and means "the brightest one" (literally as "scorching"). Another name describing the star's appearance is _Algol_, derived from the name of a desert demon whose Arabic name was "The Ghoul", at the eye of a demon figure as if the demon twinkeled at us. Quite a lot of prominent stars bear Arabic names, in which "al" corresponds to the article "the" but its inclusion has become somewhat arbitrary over time. Several star names of Arabic origin are given with or without the al- prefix. 
+
+ Other star names describe the star itself, such as _Sirius_, which is derived from  the Greek original and means "the brightest one" (literally as "scorching"). Another name describing the star's appearance is _Algol_, derived from the name of a desert demon whose Arabic name was "The Ghoul", at the eye of a demon figure as if the demon twinkeled at us. Quite a lot of prominent stars bear Arabic names, in which "al" corresponds to the article "the" but its inclusion has become somewhat arbitrary over time. Several star names of Arabic origin are given with or without the al- prefix.
 
 When the Arabic texts were translated into Latin from the beginning of the _12th century_ on, the Arabic tradition of star names was passed down to the Latin world. However, this happened often in a highly corrupted form that either changed the meaning, or in extreme cases gave birth to words with no meaning at all. Other names were mistakenly transferred from one star to another, so that a name might even refer to a different constellation (Greek or Arabic) rather than to the one of the star's actual location.
 
 Of course, there are also star names from other than the Arabic language: Some names are inherited from the past have _Greek_, _Latin_ or _Chinese_.
-Nevertheless, even with the above mentioned shortcomings, the majority of star names adopted since the Renaissance time is of Arabic origin. 
+Nevertheless, even with the above mentioned shortcomings, the majority of star names adopted since the Renaissance time is of Arabic origin.
 
-Local tradition of the peoples of _Islamic lands_ in the Arabian Peninsula and in the Middle East had their own names for various bright stars such as _Aldebaran_, The Follower (of the Star Cluster we name the Pleiades). They usually regarded single stars as representing _animals or people_, e.g. Diphda (_beta Ceti_), the Second Frog. The stars we know as _Alpha_ and _Beta Ophiuchi_ were regarded as a _shepherd_ and _his dog_, while neighbouring stars made up the outlines of a _field with sheep_. Some of the Arabic names were already many centuries old and their meanings were lost even for _al-Sūfī_ and his contemporaries, and they remain unknown until today. 
+Local tradition of the peoples of _Islamic lands_ in the Arabian Peninsula and in the Middle East had their own names for various bright stars such as _Aldebaran_, The Follower (of the Star Cluster we name the Pleiades). They usually regarded single stars as representing _animals or people_, e.g. Diphda (_beta Ceti_), the Second Frog. The stars we know as _Alpha_ and _Beta Ophiuchi_ were regarded as a _shepherd_ and _his dog_, while neighbouring stars made up the outlines of a _field with sheep_. Some of the Arabic names were already many centuries old and their meanings were lost even for _al-Sūfī_ and his contemporaries, and they remain unknown until today.
 
 ## References
 

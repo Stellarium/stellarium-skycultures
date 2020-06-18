@@ -10,7 +10,7 @@ The Lokono, also known as Arawak, are an indigenous people of the Guianas, whose
 
 ![](lokono_map_1.webp)
 
-The _Lokono_, also known as _Arawak_, are an indigenous people of the Guianas, whose territory stretches along the coast of the Atlantic Ocean, from northwestern Guyana, through Suriname, to northwestern French Guiana (see map).[#1] The Lokono speak a language that belongs to the Arawakan language family, one of the largest linguistic groupings on the continent. Like many of their linguistic relatives, the Lokono are agriculturalists specializing in the farming of manioc (_Manihot esculenta_), who also practice fishing, hunting, and gathering of wild plant. However, as one of the first indigenous groups that was encountered by the Europeans at the time of conquest, the Lokono have been in contact with non-indigenous populations for over 500 years.[#2] This contact has intensified in the last century, leading to a substantial loss of the Lokono language, traditional material and immaterial culture, changes in subsistence practices, and in particular to the disappearance of _medicine-men_ — the traditional carriers of spiritual knowledge, most likely including ethnoastronomical knowledge. 
+The _Lokono_, also known as _Arawak_, are an indigenous people of the Guianas, whose territory stretches along the coast of the Atlantic Ocean, from northwestern Guyana, through Suriname, to northwestern French Guiana (see map).[#1] The Lokono speak a language that belongs to the Arawakan language family, one of the largest linguistic groupings on the continent. Like many of their linguistic relatives, the Lokono are agriculturalists specializing in the farming of manioc (_Manihot esculenta_), who also practice fishing, hunting, and gathering of wild plant. However, as one of the first indigenous groups that was encountered by the Europeans at the time of conquest, the Lokono have been in contact with non-indigenous populations for over 500 years.[#2] This contact has intensified in the last century, leading to a substantial loss of the Lokono language, traditional material and immaterial culture, changes in subsistence practices, and in particular to the disappearance of _medicine-men_ — the traditional carriers of spiritual knowledge, most likely including ethnoastronomical knowledge.
 
 As a consequence, the modern knowledge about celestial bodies appears to be but a fraction of what the Lokono knew about stars in the past. Several constellations mentioned in older sources are forgotten or are only known from their names, while the combinations of stars they represent and the oral traditions explaining their origin and significance have been forgotten. The sky culture presented here includes only identified constellations but the following description provides a more comprehensive account of Lokono astronomical knowledge including information extracted from historical sources about all the celestial objects named in the table below.
 
@@ -70,7 +70,7 @@ Navarette's _cemetu_, the medicine-men known in modern Lokono as _semethi_, have
 ![](schulz.webp)
 Fig.1 List of Lokono stars by Theodor Schulz, circa 1803 [#23]. {: .img_and_caption }
 
-It is this literature that allows us to party reconstruct the Lokono stellar knowledge, described below. Before discussing the individual celestial bodies, however, several general features of Lokono astronomy merit a mention, namely: 
+It is this literature that allows us to party reconstruct the Lokono stellar knowledge, described below. Before discussing the individual celestial bodies, however, several general features of Lokono astronomy merit a mention, namely:
 
 *   the overlap with the astronomical traditions of neighboring indigenous groups.
 *   the oral traditions explaining the origin and significance of celestial bodies.
@@ -284,7 +284,7 @@ The constellation _Kasipenikoya_ ‘Spirit of the sea turtle’ was mentioned by
 
 ## Authors
 
-This sky culture was contributed by [Konrad Rybka](https://uva.academia.edu/KonradRybka) and produced with the help of Lokono speakers in Suriname (Cassipora) and Guyana (Wakapoa). The research was carried out as part of the project supported by a Rubicon postdoctoral grant from the Netherlands Organization for Scientific Research (project number 446-15-012). 
+This sky culture was contributed by [Konrad Rybka](https://uva.academia.edu/KonradRybka) and produced with the help of Lokono speakers in Suriname (Cassipora) and Guyana (Wakapoa). The research was carried out as part of the project supported by a Rubicon postdoctoral grant from the Netherlands Organization for Scientific Research (project number 446-15-012).
 
 Quote as: Rybka, Konrad 2018. _Lokono sky culture: a description of Lokono ethnoastronomical knowledge for Stellarium software._ Version 1.0
 

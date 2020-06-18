@@ -2,11 +2,11 @@
 
 ## Introduction
 
-In the second half of the 2nd millennium BCE, people from the Persian area moved eastwards into the region of today's Pakistan and north of India. They settled along the rivers Indus and Ganges and founded the Vedic culture. It is the base for all Hindu cultures. 
+In the second half of the 2nd millennium BCE, people from the Persian area moved eastwards into the region of today's Pakistan and north of India. They settled along the rivers Indus and Ganges and founded the Vedic culture. It is the base for all Hindu cultures.
 
 ## Description
 
-The Vedic sky culture shows some similiarities with the Parthian one, e.g. some commonly known constellations related to lunar mansions, called _Nakṣatra_-s. 
+The Vedic sky culture shows some similiarities with the Parthian one, e.g. some commonly known constellations related to lunar mansions, called _Nakṣatra_-s.
 
 ### Rāśi (राशिः)
 
@@ -37,7 +37,7 @@ The names of the lunar months originated from those 12 division names in which f
 | Tulā 		| Kārtik 	| Oct-Nov 	| Hemanta (Pre-Winter) |
 | Vṛścika 		| Agāhāna 	| Nov-Dec 	| Hemanta (Pre-Winter) |
 | Dhanu 		| Pauṣa 	| Dec-Jan 	| Śiśira (Winter) |
- | Makara 		| Magha 	| Jan-Feb 	| Śiśira (Winter) | 
+ | Makara 		| Magha 	| Jan-Feb 	| Śiśira (Winter) |
 | Kumbha 		| phālguna 	| Feb-Mar 	| Vasanta (Spring) |
 | Mīna 		| Chaitrā 	| Mar-Apr 	| Vasanta (Spring) |
 |  -  			| Adhikā 	| Leap month |  -  |
@@ -48,17 +48,17 @@ A few of the _yogatārā_-s or prominent asterisms in the _nakṣatra_-s (going 
 
 They observed that some celestial bodies move independently relative to the background stars; they named them planets or "graha". By this definition (moving), the Sun and Moon are also treated as _graha_ or planet. The Vedic also named the lunar nodes as planets as these points are very inportant to calculate the eclipses. The name of Vedic days originated from these planet's names.
 
- | Graha | Designation | Name of Solar days | 
+ | Graha | Designation | Name of Solar days |
  |-------|-------------|--------------------|
- | Sūrya (Sun) | Sun God | Ravivāsara (Sunday) | 
- | Chandra/Soma (Moon) | Moon god | Somavāsara (Monday) | 
- | Maṅgala (Mars) | God of war | Maṅgalavāsara (Twesday) | 
- | Budha (Mercury) | Son of Moon | Budhavāsara (Wednesday) | 
- | Bṛihaspati/Guru (Jupiter) | Teacher of Gods | Guruvāsara (Thursday) | 
- | Śukra (Venus) | Mentor of Demons | Śukravāsara (Friday) | 
- | Śani (Saturn) | God of Misfortune | Śanivāsara (Saturday) | 
- | Rahu | lunar node |  -  | 
- | Ketú | lunar node |  -  | 
+ | Sūrya (Sun) | Sun God | Ravivāsara (Sunday) |
+ | Chandra/Soma (Moon) | Moon god | Somavāsara (Monday) |
+ | Maṅgala (Mars) | God of war | Maṅgalavāsara (Twesday) |
+ | Budha (Mercury) | Son of Moon | Budhavāsara (Wednesday) |
+ | Bṛihaspati/Guru (Jupiter) | Teacher of Gods | Guruvāsara (Thursday) |
+ | Śukra (Venus) | Mentor of Demons | Śukravāsara (Friday) |
+ | Śani (Saturn) | God of Misfortune | Śanivāsara (Saturday) |
+ | Rahu | lunar node |  -  |
+ | Ketú | lunar node |  -  |
 
 
 ## References
@@ -74,7 +74,7 @@ They observed that some celestial bodies move independently relative to the back
 
 Tanmoy Saha, groups.google.com/forum/#!forum/sanskrit-programmers
 Contributors from the [sanskrit-coders community](https://github.com/sanskrit-coders).
-Re-worked by Susanne M Hoffmann 
+Re-worked by Susanne M Hoffmann
 
 ## Licence
 

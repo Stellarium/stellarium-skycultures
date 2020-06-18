@@ -6,7 +6,7 @@ The Navajo are the largest Native American tribe in the United States; the Navaj
 
 ## Description
 
-This sky culture is contributed for educational purposes and based on the findings dissiminated by the Clark Foundation. 
+This sky culture is contributed for educational purposes and based on the findings dissiminated by the Clark Foundation.
 
 ## References
 

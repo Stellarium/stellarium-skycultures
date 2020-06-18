@@ -26,13 +26,13 @@ Depending on the region, Ojibwe are known for birch bark canoes, wildrice-_manoo
 |   _Nanaboujou_ | Nanaboujou | Scorpio |
 |   _Anung_ | Star| |
 |   _Anung aki_ | Star World | |
-|   _Dibik-giizis_ | Night Sun | Moon |  
+|   _Dibik-giizis_ | Night Sun | Moon |
 |   _Giizis_ | | Sun |
 |   _Giizhig_ | | Sky |
 |   _Ikwe'anung_  |Women's Star  | Venus | |
 |  _Onaagoshi'anung_ | Venus-Evening Star| |
 |   _Waabun'anung_ | Venus-Morning Star | |
-|   _Maingan Mikan_ | Wolf Trail | Ecliptic | 
+|   _Maingan Mikan_ | Wolf Trail | Ecliptic |
 |   _Jiibaykona_ | Spirit Path  | Milky Way | |
 |  _Jiibay Ziibi_ | River of Souls  | Milky Way| |
 |   _Bangishin anung_ | Meteor/Falling star |
@@ -49,7 +49,7 @@ Depending on the region, Ojibwe are known for birch bark canoes, wildrice-_manoo
  - [#1]: [Ojibwe Map webpage, includes audio recordings of Ojibwe pronunciation and other resources.](http://web.stcloudstate.edu/aslee/OJIBWEMAP/home.html)
  - [#2]: [Ojibwe Sky Star Map Constellation Guide](http://www.amazon.com/Ojibwe-Sky-Star-Map-Constellation/dp/0615986781?ie=UTF8&amp;keywords=ojibwe%20stars&amp;qid=1461769178&amp;ref_=sr_1_1&amp;sr=8-1) book on amazon.com
  - [#3]: [_Native Skywatchers’_ main webpage, includes education, art, and community workshops and other resources.](http://www.nativeskywatchers.com)
- - [#4]: A. Lee, W. Wilson, C. Gawboy, Ojibwe Giizhig Anung Masinaaigan, Ojibiwe Sky Star Map, 2012 
+ - [#4]: A. Lee, W. Wilson, C. Gawboy, Ojibwe Giizhig Anung Masinaaigan, Ojibiwe Sky Star Map, 2012
 
 ## Authors
 

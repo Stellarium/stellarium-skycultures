@@ -66,7 +66,7 @@ More detailed information on the astronomy of the Kamilaroi and Euahlayi peoples
 
 Robert S. Fuller and Ghillar Michael Anderson
 
-technical re-work by Susanne M Hoffmann 
+technical re-work by Susanne M Hoffmann
 
 ## Licence
 

@@ -24,7 +24,7 @@ As the IAU in 1928 only defined the boundaries of these areas [#4] and not the w
 
 ### Constellations
 
-These constellations are based mainly on the Ptolemaic tradition which had been used in all three Abrahamitic religions and, thus, was common in the Near East, in Europe and its colonies on all continents. However, between the ancient Greek constellations there were gaps of areas with only faint stars belonging to no constellation.[#8] In the Modern Epoch, several astronomers suggested constellation figures for these gaps (e.g. the constellation of "the lynx" for an area close to the Great Bear but with stars so faint that you would need the eyes of a lynx to see them), among them many political constellations to the honor of certain kings or patrons. In the beginning of the 20th century, the IAU aimed for a huge clean-up. 
+These constellations are based mainly on the Ptolemaic tradition which had been used in all three Abrahamitic religions and, thus, was common in the Near East, in Europe and its colonies on all continents. However, between the ancient Greek constellations there were gaps of areas with only faint stars belonging to no constellation.[#8] In the Modern Epoch, several astronomers suggested constellation figures for these gaps (e.g. the constellation of "the lynx" for an area close to the Great Bear but with stars so faint that you would need the eyes of a lynx to see them), among them many political constellations to the honor of certain kings or patrons. In the beginning of the 20th century, the IAU aimed for a huge clean-up.
 
 In 1922, the IAU officially accepted the list of 88 constellation names and their official abbreviations with three letters. The only remaining political constellations is Scutum, the shield of a Polish king but without mentioning the political reference anymore. The Belgian priest E. Delporte got the task to define constellation boundaries according to coordinates. In 1928, he finished the work and the IAU accepted his delimitations [#1].
 
@@ -34,23 +34,23 @@ Stellarium by default displays the precise RA-DEC-boundaries and a set of artwor
 
 ### Proper names of stars
 
-Ptolemy's star catalogue had the layout of a table: 
+Ptolemy's star catalogue had the layout of a table:
 
 ----------------------------
-| description of the star's position in the figure | ecliptical | coordinates  | magnitude | 
+| description of the star's position in the figure | ecliptical | coordinates  | magnitude |
 |------|----|----|----|
-|      |λ | β | mag | 
+|      |λ | β | mag |
 | e.g. | | | |
-| the star at the tip of the tail of Ursa Minor | Gem 0 1/6 | +66 | 3 | 
+| the star at the tip of the tail of Ursa Minor | Gem 0 1/6 | +66 | 3 |
 
-In most cases, the star names evolved by astronomer's systematical abbreviations of these descriptions, e.g. first astronomer abbreviated in a text "tip of the tail", a next astronomer drew a map with less space and wrote only "tail" next to the star and this name remained. With centuries, these descriptions were translated into Arabic and Latin, and in some cases the translators or writers make mistakes because of misreading or misspelling or the Arabic words (e.g. the Arabic "yad al gauza", the hand of the giant woman, to the common term "Betelgeuse"). 
+In most cases, the star names evolved by astronomer's systematical abbreviations of these descriptions, e.g. first astronomer abbreviated in a text "tip of the tail", a next astronomer drew a map with less space and wrote only "tail" next to the star and this name remained. With centuries, these descriptions were translated into Arabic and Latin, and in some cases the translators or writers make mistakes because of misreading or misspelling or the Arabic words (e.g. the Arabic "yad al gauza", the hand of the giant woman, to the common term "Betelgeuse").
 
-However, there are also a few original Greek words like the red star "Antares", the counterpart of Ares (Mars) and even a few original Babylonian terms like "Shargaz", the Sting, in Scorpius. Our modern, most recent IAU star names [#6] are a huge mixture, also with influences or even politically wanted additions of star names from the none-Ptolemaic sky cultures, e.g. the traditional Pingsing, a Chinese star name for a star in Hydra (its meaning is only "star", a reminescence to his lonely position) or newly adopted star names from Polynesian, Hawaiian, or Aboriginal cultures for names of stars with exoplanets. 
+However, there are also a few original Greek words like the red star "Antares", the counterpart of Ares (Mars) and even a few original Babylonian terms like "Shargaz", the Sting, in Scorpius. Our modern, most recent IAU star names [#6] are a huge mixture, also with influences or even politically wanted additions of star names from the none-Ptolemaic sky cultures, e.g. the traditional Pingsing, a Chinese star name for a star in Hydra (its meaning is only "star", a reminescence to his lonely position) or newly adopted star names from Polynesian, Hawaiian, or Aboriginal cultures for names of stars with exoplanets.
 
 ## References
 
  - [#1]: Delporte, Eugene: Delimitation scientifique des constellations (tables et cartes), Cambridge, 1930
- - [#2]: facsimile: Uranometria von Johannes Bayer, Kunstschätzeverlag, Gerchsheim, 2010 
+ - [#2]: facsimile: Uranometria von Johannes Bayer, Kunstschätzeverlag, Gerchsheim, 2010
  - [#3]: facsimile: Die große Flamsteed Edition - Himmelskartographie nach John Flamsteed von 1776 bis 1805, Albireo Verlag, Köln, 2017
  - [#4]: Latußeck, Arndt and Hoffmann, Susanne M: "Ein nützliches Unternehmen", Albireo Verlag, Köln, 2017
  - [#5]: Constellation english names are from the [IAU Constellations Page](https://www.iau.org/public/themes/constellations/)
@@ -67,7 +67,7 @@ However, there are also a few original Greek words like the red star "Antares", 
 ## Authors
 
 Stellarium's team:
-Susanne M Hoffmann 
+Susanne M Hoffmann
 
 ## Licence
 
