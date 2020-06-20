@@ -34,14 +34,7 @@ Stellarium by default displays the precise RA-DEC-boundaries and a set of artwor
 
 ### Proper names of stars
 
-Ptolemy's star catalogue had the layout of a table:
-
-----------------------------
-| description of the star's position in the figure | ecliptical | coordinates  | magnitude |
-|------|----|----|----|
-|      |λ | β | mag |
-| e.g. | | | |
-| the star at the tip of the tail of Ursa Minor | Gem 0 1/6 | +66 | 3 |
+Ptolemy's star catalogue had the layout of a table listing the description of the star's position in the constellation's figure, the ecliptical coordinates, and the magnitude e.g.: "The star at the tip of the tail of Ursa Minor", "Gem 0 1/6, +66", "Mag 3".
 
 In most cases, the star names evolved by astronomer's systematical abbreviations of these descriptions, e.g. first astronomer abbreviated in a text "tip of the tail", a next astronomer drew a map with less space and wrote only "tail" next to the star and this name remained. With centuries, these descriptions were translated into Arabic and Latin, and in some cases the translators or writers make mistakes because of misreading or misspelling or the Arabic words (e.g. the Arabic "yad al gauza", the hand of the giant woman, to the common term "Betelgeuse").
 
@@ -66,8 +59,9 @@ However, there are also a few original Greek words like the red star "Antares", 
 
 ## Authors
 
-Stellarium's team:
-Susanne M Hoffmann
+Stellarium's team
+
+Reworked by Susanne M Hoffmann
 
 ## Licence
 
