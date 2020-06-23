@@ -15,18 +15,28 @@ import re
 import polib
 import html
 import utils
-
-# Set to true to activate auto-translation of missing pieces
-# Requires to be logged in to google cloud API, e.g. using
-# export GOOGLE_APPLICATION_CREDENTIALS=path to credential.json
-USE_GOOGLE_TANSLATE = False
-if USE_GOOGLE_TANSLATE:
-    from google.cloud import translate_v2 as translate
-    translate_client = translate.Client()
+import argparse
 
 if sys.version_info[0] < 3:
     raise Exception("Please use Python 3 (current is {})".format(
         sys.version_info[0]))
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--sky_culture",
+                    help="process only for the specified sky culture.")
+parser.add_argument("--lang", help="process only for the specified language.")
+parser.add_argument("--use_google_translate",
+                    help="translate missing text with google translate.",
+                    action="store_true")
+args = parser.parse_args()
+
+# Set to true to activate auto-translation of missing pieces
+# Requires to be logged in to google cloud API, e.g. using
+# export GOOGLE_APPLICATION_CREDENTIALS=path to credential.json
+USE_GOOGLE_TANSLATE = args.use_google_translate
+if USE_GOOGLE_TANSLATE:
+    from google.cloud import translate_v2 as translate
+    translate_client = translate.Client()
 
 DIR = os.path.abspath(os.path.dirname(__file__))
 
@@ -226,6 +236,11 @@ def main():
     # Update all po files from the sky culture english content
     sclist = [d for d in os.listdir(DIR) if os.path.isdir(d)]
     sclist.sort()
+
+    if args.sky_culture:
+        # The user passed a specific sky culture to process
+        sclist = [args.sky_culture]
+
     for sky_culture in sclist:
         data_path = os.path.join(DIR, sky_culture)
         index_file = os.path.join(data_path, 'index.json')
@@ -236,8 +251,12 @@ def main():
         sc = utils.load_skyculture(data_path)
 
         langs = []
-        for filename in os.listdir(os.path.join(data_path, 'po')):
-            langs.append(filename.replace('.po', ''))
+        if args.lang:
+            langs = [args.lang]
+            print('only in ' + langs[0])
+        else:
+            for filename in os.listdir(os.path.join(data_path, 'po')):
+                langs.append(filename.replace('.po', ''))
         for lang in langs:
             # Load existing translations
             current_po_path = os.path.join(data_path, 'po', '%s.po' % lang)
