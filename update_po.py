@@ -212,6 +212,9 @@ def translate_markdown(str, lang):
     # Fix spaces between links parts [xx] (url) -> [xx](url)
     text = re.sub(r'( \[.+\]) (\(\S+\))', '\\1\\2', text)
     text = re.sub(r'( \[.+\])（(\S+)）', '\\1(\\2)', text)
+    # Fix spaces between email:links parts [xx] (email: url) -> [xx](email:url)
+    text = re.sub(r'( \[.+\]) \(email: (\S+?)\)', '\\1(email:\\2)', text)
+    text = re.sub(r'( \[.+\])（email: (\S+)）', '\\1(email:\\2)', text)
     # Fix images links extra space
     text = re.sub(r'! ?(\[.*\]) ?(\(\S+\))', '!\\1\\2', text)
     # Fix images links extra space (asian version)
@@ -220,6 +223,10 @@ def translate_markdown(str, lang):
     # Fix extra style content missing space
     text = re.sub(r'{: (.*)}', '{: \\1 }', text)
     text = re.sub(r'{：(.*)}', '{: \\1 }', text)
+    # Fix wrongly spaced escaped [
+    text = re.sub(r' \\ \[', ' \\[', text)
+    text = re.sub(r'\s+\\ \]', '\\]', text)
+    text = re.sub(r'\s+\\]', '\\]', text)
     print(text)
     return text
 
