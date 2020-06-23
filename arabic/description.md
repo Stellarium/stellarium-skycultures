@@ -60,8 +60,10 @@ Local tradition of the peoples of _Islamic lands_ in the Arabian Peninsula and i
 ## Authors
 
 The Arabic star names were compiled and added to Stellarium by Khalid Alajaji.
-Constellation lines, images & English translation by [Kutaibaa Akraa](email:kutaibaa@gmail.com).
-Rework of the English text: Susanne M Hoffmann
+
+Constellations lines, images & English translation by [Kutaibaa Akraa](email:kutaibaa@gmail.com).
+
+Text rework: Susanne M. Hoffmann
 
 ## Licence
 
