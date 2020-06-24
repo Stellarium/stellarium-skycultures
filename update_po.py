@@ -195,7 +195,7 @@ def translate_markdown(str, lang):
     # Convert [#123] refs to something more google translate-friendly
     str = re.sub(r'\[#(\d+)\]', '[RefX\\1]', str)
     # Remove \n in multiline blocs to avoid confusing google translate
-    str = re.sub(r'([^\n])\n([\w])', '\\1\\2', str)
+    str = re.sub(r'([^\n])\n(?!\d+\.)(\w)', '\\1 \\2', str)
     tr = translate_client.translate(str, target_language=lang,
                                     source_language='en',
                                     format_='text')
