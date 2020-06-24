@@ -114,7 +114,7 @@ def dumps_sky_culture_json(sc):
     return json.dumps(sc, indent=2, ensure_ascii=False, cls=NoIndentEncoder)
 
 
-SKY_CULTURE_MD_KEYS = ['Introduction', 'Description', 'References',
+SKY_CULTURE_MD_KEYS = ['Introduction', 'Description', 'Extras', 'References',
                        'Authors', 'Licence']
 SKY_CULTURE_MD_KEYSL = [k.lower() for k in SKY_CULTURE_MD_KEYS]
 
