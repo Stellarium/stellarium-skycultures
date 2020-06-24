@@ -207,13 +207,12 @@ def translate_markdown(str, lang):
     text = re.sub(r' - \[#(\d+)\]：', ' - [#\\1]: ', text)
     # Fix references lists in korean
     text = re.sub(r' - \[#(\d+)\] : ', ' - [#\\1]: ', text)
-    # Fix references lists, google translates seems to drop the new lines..
     # Fix spaces between links parts [xx] (url) -> [xx](url)
     text = re.sub(r'(\s\[.+\]) (\(\S+\))', '\\1\\2', text)
     text = re.sub(r'(\s\[.+\])（(\S+)）', '\\1(\\2)', text)
-    # Fix spaces between email:links parts [xx] (email: url) -> [xx](email:url)
-    text = re.sub(r'(\s\[.+\]) \(email: (\S+?)\)', '\\1(email:\\2)', text)
-    text = re.sub(r'(\s\[.+\])（email: (\S+)）', '\\1(email:\\2)', text)
+    # Fix spaces between email:links parts [xx] (mailto: url) -> [xx](mailto:url)
+    text = re.sub(r'(\[.+\]) \(mailto: (\S+?)\)', '\\1(mailto:\\2)', text)
+    text = re.sub(r'(\[.+\])mailto: (\S+)）', '\\1(mailto:\\2)', text)
     # Fix images links extra space
     text = re.sub(r'! ?(\[.*\]) ?(\(\S+\))', '!\\1\\2', text)
     # Fix images links extra space (asian version)
