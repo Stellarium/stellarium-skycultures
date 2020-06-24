@@ -196,12 +196,14 @@ def translate_markdown(str, lang):
     str = re.sub(r'\[#(\d+)\]', '[RefX\\1]', str)
     str = re.sub(r'\n - ', '\n<lli>', str)
     str = re.sub(r'^ - ', '<lli>', str)
-    str = str.replace('\n', '<br>\n')
+    # Make sure to preserve double line breaks: google translate seems to just
+    # replace them with single line break.
+    str = re.sub(r'\n\n', '<br>', str)
     tr = translate_client.translate(str, target_language=lang)
     text = tr['translatedText']
     text = html.unescape(text)
     # Re-convert refs to proper format
-    text = re.sub(r' ?<br> ?', '\n', text)
+    text = re.sub(r' ?<br> ?', '\n\n', text)
     text = re.sub(r' ?<lli> ?', ' - ', text)
     text = re.sub(r'\[RefX(\d+)\]', '[#\\1]', text)
     # Fix references lists in japanese
