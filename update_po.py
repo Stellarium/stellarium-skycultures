@@ -73,13 +73,14 @@ def po_for_skyculture(sc, lang, team, legacy):
 
     # Sky culture description elements
     for key in utils.SKY_CULTURE_MD_KEYSL:
+        if key == 'extras' and key not in sc:
+            continue
         entry = polib.POEntry(msgid=sc[key],
                               msgstr=legacy.get(sc[key], ''),
                               tcomment='Sky culture ' + key +
                               ' section in markdown format')
         try:
-            if sc[key]:
-                po.append(entry)
+            po.append(entry)
         except Exception as e:
             print('Error while adding entry for ' + key + ' in sky culture ' +
                   sc['id'])
