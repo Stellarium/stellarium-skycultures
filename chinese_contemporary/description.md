@@ -2,23 +2,24 @@
 
 ## Introduction
 
-Nowadays, the sky culture used in China is a combination of traditional Chinese star names and the constellations that are defined internationally. This mixture has a great practical value.
+The Chinese Contemporary Sky Culture is a combination of traditional Chinese
+star names and modern constellations. This is the skyculture that the Chinese
+actually use now, with a great practical value.
 
 ## Description
 
-The traditional Chinese sky culture had been developed independently some millennia ago. During some centuries roughly 2000 years ago, three big Chinese astronomy schools with their own constellations had been unified to a new system of 283 asterisms containing between one and several dozen stars. Their names had their traditions in Chinese mythology, folklore, and religion.
+Contemporary Chinese use the constellations defined by the International
+Astronomical Union but they combine it with their traditional starlore wherever
+possible.
 
-Since the agreement in the International Astronomical Union (IAU) in the 1920s to define offical constellations, Chinese astronomers use the international system for official communication but they combine it with their traditional starlore where ever possible.
+The 300 traditional Chinese asterisms deviate largely from the newly defined
+modern areas and are no longer applicable in astronomy. However, the
+traditional Chinese star names are still in common usage today, even more
+common than Bayer/Flamsteed designations. They are composed of the name of the
+traditional asterism plus a number.
 
-For a detailed introduction to traditional Chinese constellations and traditional Chinese names, see the _Chinese_ sky culture in Stellarium.
-
-### Constellations
-
-Contemporary Chinese use the constellations of the International Astronomical Union. The traditional Chinese constellations have no specific boundaries between them. They represent the corresponding set of bright stars connected to stickfigures. As they were never meant to divide the celestial sphere into different areas and their patterns deviate largely from the newly defined modern areas, they are no longer applicable in astronomy.
-
-### Star names
-
-However, the traditional Chinese proper names of stars are used instead of western star names. When a foreign astronomical book is translated into Chinese, the star names will also be translated into traditional Chinese star names. There are some special stars that use names which are not traditional Chinese but also not in any tradition, e.g. as Proxima Centauri for the closest star, Van Maanen's star for the first single white dwarf discovered by van Maanen 1917. These stars are not visible to the naked eye but have special astronomical significance.
+A few stars also have proper names, such as Alpha Leonis which is called "the
+Queen's Star".
 
 ## References
 
@@ -29,13 +30,12 @@ However, the traditional Chinese proper names of stars are used instead of weste
 
 ## Authors
 
-This sky culture was contributed by Stellarium user _Sun Shuwei_.
+This sky culture was originally contributed by Stellarium user _Sun Shuwei_ and
+reworked by Stellarium team.
 
-Constellation art，Constellation lines based on _Modern Sky culture_ for Stellarium.
-
-Asterism lines and traditional Chinese star names based on _Chinese Traditional sky culture_ for Stellarium.
-
-Slightly reworked: Susanne M Hoffmann (Stellarium team)
+Constellation illustrations and lines are based on the _Modern Sky Culture_ of
+Stellarium and traditional Chinese star names are based on _Chinese Sky
+Culture_ of Stellarium.
 
 ## Licence
 
