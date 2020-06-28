@@ -2,15 +2,26 @@
 
 ## Introduction
 
-The Sioux are several tribes in the Northeast American cultural group (United States and Canada). They formed a first "nation" known as the Oceti Sakowin – Seven (Council) Fires. This council of seven consists of: four Dakota bands, two Nakota bands and one Lakota band, where D/N/L are dialectic distinctions. The word D(N/L)akota means "Alliance". Also known as Sioux or the Sioux Nation.
+The Sioux are one of the groups of indigenous people of north-central America,
+well known for following the buffalo.
 
 ## Description
 
-The term "Sioux" was possibly impolite: It stems from colonial time and is a French shortform of the Ojibwe word "Nadouessioux" meaning "little snakes" which was a metaphor for enemies of the Ojibwe. The correct term is Dakota, Lakota, and Nakota and are one of the groups of indigenous people of north-central America, well known for following the buffalo.
+The Sioux are several tribes in the Northeast American cultural group (United
+States and Canada). They formed a first "nation" known as the _Oceti Sakowin_,
+the Seven (Council) Fires. This council of seven consists of: four Dakota
+bands, two Nakota bands and one Lakota band, where D/N/L are dialectic
+distinctions. The word D(N/L)akota means "Alliance".
 
-The D(L)akota Star Knowledge files available for Stellarium are an adaptation of the ___Makoce Wicanhpi Wowapi, D(L)akota Star Map___, created by A. Lee, J. Rock, 2012. More details can be found in the constellation guidebook ___D(L)akota Star Map Constellation Guide: An Introduction to D(L)akota Star Knowledge___. Also available are D(L)akota star map posters, D(L)akota planispheres, curriculum, and other ressources.
+The term "Sioux" was possibly impolite: It stems from colonial time and is a
+French shortform of the Ojibwe word "Nadouessioux" meaning "little snakes"
+which was a metaphor for enemies of the Ojibwe. The correct term is Dakota,
+Lakota, and Nakota.
+
+## Extras
 
 ### Celestial Objects
+
 | Native name | English Name | Modern designation |
 |----------|-------|-------|
 |   _Nape_ | Hand  | lower Orion & β Eridanus  |
@@ -48,7 +59,6 @@ The D(L)akota Star Knowledge files available for Stellarium are an adaptation of
 | _Wamakohnaka/Wamakhognaka/Makasitomni_  | | Universe |
 | _Wiçanhpi Sintetun/Wiçanhpi Sinte Yukan/Wicanpisinteton_ |  |  Comet  |
 
-------------------------
 
 ## References
 
@@ -58,7 +68,12 @@ The D(L)akota Star Knowledge files available for Stellarium are an adaptation of
 
 ## Authors
 
-This D(L)akota star knowledge was contributed by Annette S. Lee, Director of _Native Skywatchers_, a research and programming initiative aimed at revitalizing native star knowledge, in particular Ojibwe and D(L)akota. Based on the star map ___Makoce Wicanhpi Wowapi - D(L)akota Star Map___ created by A. Lee, J. Rock and the book ___D(L)akota Star Map Constellation Guide: An Introduction to D(L)akota Star Knowledge___ by A. Lee, J. Rock, C. O’Rourke.
+This D(L)akota star knowledge was contributed by Annette S. Lee, Director of
+_Native Skywatchers_, a research and programming initiative aimed at
+revitalizing native star knowledge, in particular Ojibwe and D(L)akota. Based
+on the star map ___Makoce Wicanhpi Wowapi - D(L)akota Star Map___ created by A.
+Lee, J. Rock and the book ___D(L)akota Star Map Constellation Guide: An
+Introduction to D(L)akota Star Knowledge___ by A. Lee, J. Rock, C. O’Rourke.
 
 Constellation Paintings by A. Lee.
 
