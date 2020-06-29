@@ -52,8 +52,8 @@ Yueliang (Chinese: 月亮, yuèliàng).
 ### Star names
 
 The naming of stars in ancient China is composed of the name of the Xingguan
-plus a number. Only very few stars also have common name, such as Alpha
-Leonis which is called "the Queen's Star".
+plus a number. Some stars also have a common name, such as Alpha Leonis which
+is called "the Queen's Star".
 
 Unlike Xingguans, traditional Chinese star names are still in common usage
 today, even more common than Bayer/Flamsteed designations.
