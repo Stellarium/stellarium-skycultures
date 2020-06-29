@@ -226,7 +226,7 @@ def translate_markdown(str, lang):
     text = re.sub(r'\s+\\ \]', '\\]', text)
     text = re.sub(r'\s+\\]', '\\]', text)
     # Re-add space after header ###, useful for asian languages
-    text = re.sub(r'^(#+)(\S)', '\\1 \\2', text, flags=re.MULTILINE)
+    text = re.sub(r'^(#+)(?![# ])', '\\1 ', text, flags=re.MULTILINE)
     print(text)
     return text
 
