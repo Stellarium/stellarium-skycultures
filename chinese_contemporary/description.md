@@ -3,7 +3,7 @@
 ## Introduction
 
 The Chinese Contemporary Sky Culture is a combination of traditional Chinese
-star names and modern constellations. This is the skyculture that the Chinese
+star names and modern constellations. This is the sky culture that the Chinese
 actually use now, with a great practical value.
 
 ## Description
