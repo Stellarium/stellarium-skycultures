@@ -90,7 +90,7 @@ his contemporaries, and they remain unknown until today.
 
 The Arabic star names were compiled and added to Stellarium by Khalid Alajaji.
 
-Constellations lines, images & English translation by [Kutaibaa Akraa](email:kutaibaa@gmail.com).
+Constellations lines, images & English translation by [Kutaibaa Akraa](mailto:kutaibaa@gmail.com).
 
 Text rework: Stellarium's team
 
