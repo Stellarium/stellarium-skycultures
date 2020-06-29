@@ -195,7 +195,7 @@ def translate_markdown(str, lang):
     # Convert [#123] refs to something more google translate-friendly
     str = re.sub(r'\[#(\d+)\]', '[RefX\\1]', str)
     # Remove \n in multiline blocs to avoid confusing google translate
-    str = re.sub(r'([^\n])\n(?!\d+\.)([\w"\'\(\),_\[\]])', '\\1 \\2', str)
+    str = re.sub(r'([^\n])\n(?!\d+\.)([\w"\'\(\);,_\[\]])', '\\1 \\2', str)
     if lang.startswith('zh') or lang == 'ko':
         # Remove emphasis for those languages
         str = re.sub(r'(\W)(_+?)(.+?)(_+?)(\W)', '\\1\\3\\5', str)
@@ -289,9 +289,7 @@ def main():
             po_md = po_for_skyculture(sc, lang, team, legacy)
 
             # Complete missing translations using Google Translate service
-            if (USE_GOOGLE_TANSLATE
-                    and lang in utils.OFFICIAL_LANGS
-                    and sc['id'] != 'lokono'):
+            if USE_GOOGLE_TANSLATE and lang in utils.OFFICIAL_LANGS:
                 auto_translate_po(po_md)
 
             # Replace the current source po file
