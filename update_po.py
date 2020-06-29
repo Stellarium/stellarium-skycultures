@@ -197,6 +197,9 @@ def translate_markdown(str, lang):
     str = re.sub(r'\[#(\d+)\]', '[RefX\\1]', str)
     # Remove \n in multiline blocs to avoid confusing google translate
     str = re.sub(r'([^\n])\n(?!\d+\.)(\w)', '\\1 \\2', str)
+    if lang.startswith('zh') or lang == 'ko':
+        # Remove emphasis for those languages
+        str = re.sub(r'(\W)(_+?)(.+?)(_+?)(\W)', '\\1\\3\\5', str)
     tr = translate_client.translate(str, target_language=lang,
                                     source_language='en',
                                     format_='text')
