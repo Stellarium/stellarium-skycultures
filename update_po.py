@@ -217,10 +217,7 @@ def translate_markdown(str, lang):
     text = re.sub(r'(\[.+\]) \(mailto: (\S+?)\)', '\\1(mailto:\\2)', text)
     text = re.sub(r'(\[.+\])mailto: (\S+)）', '\\1(mailto:\\2)', text)
     # Fix images links extra space
-    text = re.sub(r'! ?(\[.*\]) ?(\(\S+\))', '!\\1\\2', text)
-    # Fix images links extra space (asian version)
-    text = re.sub(r'！(\[.*\]) ?(\(\S+\))', '!\\1\\2', text)
-    text = re.sub(r'！(\[.*\]) ?（(\S+)）', '!\\1(\\2)', text)
+    text = re.sub(r'[！!] ?(\[.*?\]) ?[\(（](\S+?)[\)）]', '!\\1(\\2)', text)
     # Fix extra style content missing space
     text = re.sub(r'{: (.*)}', '{: \\1 }', text)
     text = re.sub(r'{：(.*)}', '{: \\1 }', text)
@@ -228,6 +225,8 @@ def translate_markdown(str, lang):
     text = re.sub(r' \\ \[', ' \\[', text)
     text = re.sub(r'\s+\\ \]', '\\]', text)
     text = re.sub(r'\s+\\]', '\\]', text)
+    # Re-add space after header ###, useful for asian languages
+    text = re.sub(r'^(#+)(\S)', '\\1 \\2', text, flags=re.MULTILINE)
     print(text)
     return text
 

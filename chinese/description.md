@@ -11,10 +11,10 @@ astrology.
 
 ### Asterisms (Xingguans)
 
-Traditional Chinese astronomy has a system of grouping stars to form asterisms,
-known as "Xingguan" (Chinese: 星官, xīngguān, meaning "Star officials"). With
-names and layout related to elements of the ancient Chinese society such as the
-kingdom, the mountains, the goods or the industry, the Xinguuans are projecting
+In traditional Chinese astronomy stars are grouped to form asterisms, known as
+"Xingguan" (Chinese: 星官, xīngguān, meaning "Star officials"). Xinguuans have
+names and shapes related to elements of the ancient Chinese society such as the
+kingdom, the mountains, the goods or the industry. They are in a way projecting
 the world of humans into the sky.
 
 Xingguans can contain from one to several dozens of stars. Most of them
@@ -58,14 +58,13 @@ Leonis which is called "the Queen's Star".
 Unlike Xingguans, traditional Chinese star names are still in common usage
 today, even more common than Bayer/Flamsteed designations.
 
-
 ### The three Enclosures
 
-The 3 enclosures are regions containing smaller asterisms. The
-enclosure of the Purple Forbidden Palace (Chinese: 紫微垣, Zǐwēi yuán)
-surrounds almost the whole circumpolar area while the enclosures of the Supreme
-Palace (Chinese: 太微垣, Tàiwēi yuán) and the Heavenly Market Place
-(Chinese: 天市垣, Tiānshì yuán) are located close to the ecliptic.
+The 3 enclosures are regions containing smaller asterisms. The enclosure of the
+Purple Forbidden Palace (Chinese: 紫微垣, Zǐwēi yuán) surrounds almost the whole
+circumpolar area while the enclosures of the Supreme Palace (Chinese: 太微垣,
+Tàiwēi yuán) and the Heavenly Market (Chinese: 天市垣, Tiānshì yuán) are located
+close to the ecliptic.
 
 Each enclosure has two walls, called the left wall and the right wall which are
 the main Xingguans. Some Xingguans are located within these "wall" (such as
