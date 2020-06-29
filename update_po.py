@@ -189,7 +189,6 @@ def po_for_skyculture(sc, lang, team, legacy):
                     po.append(entry)
     return po
 
-
 # Translate the passed markdown string using google translate
 def translate_markdown(str, lang):
     print(str)
@@ -229,7 +228,12 @@ def translate_markdown(str, lang):
     text = re.sub(r'\s+\\ \]', '\\]', text)
     text = re.sub(r'\s+\\]', '\\]', text)
     # Re-add space after header ###, useful for asian languages
+    text = re.sub(r'＃', '#', text)
     text = re.sub(r'^(#+)(?![# ])', '\\1 ', text, flags=re.MULTILINE)
+    # Fix tables
+    def remove_space(matchobj):
+        return matchobj.group(0).replace(' ', '-')
+    text = re.sub(r'^\|[ \|-]+\|$', remove_space, text, flags=re.MULTILINE)
     print(text)
     return text
 
