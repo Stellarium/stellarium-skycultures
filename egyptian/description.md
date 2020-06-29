@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This is a late Egyptian sky culture showing ancient Egyptian constellations
-with Babylonian and Greco-Roman influences depicted on the famous astronomical
-ceiling from Denderah.
+The late Egyptian sky culture was influenced by Babylonian and Greco-Roman
+astronomy. Constellations are depicted on the famous astronomical ceiling from
+Denderah.
 
 ## Description
 
@@ -13,17 +13,17 @@ reached Egypt until the Ptolemaic period. The temple of Hathor at Denderah
 dates from Ptolemaic times (probably the first century BCE) and features a
 wonderful and huge symbolic map of the sky in Egyptian painting style.
 
-It provides two versions: a circular shaped one [#10] and a rectangularly
-shaped one [#11]. The rectangular "zodiac" of Denderah shows a sequence of
-Egyptian figures in the typical box-pattern, each with a file of symbolic stars
-next to it showing how many stars form this constellations. The round "zodiac"
-tries to organize these figures as if they were placed in the sky.
+It provides two versions: a circular shaped one [#10] and a rectangularly shaped
+one [#11]. The rectangular "zodiac" of Denderah shows a sequence of Egyptian
+figures next to a set of symbolic stars indicating how many stars form each
+constellations. The round "zodiac" organizes these figures as if they were
+placed in the sky.
 
 ![](dendera_zodiac.webp)
 One of the first depictions of the Dendera "zodiac", produced by
 engineer-archaeologists Prosper Jollois and Edouard Devilliers in the 19th
-century. The large figure on the right is the Goddess of Heaven, Nut. first
-published in: Description de l'Égypte Antiquités, v. 4, [#12]
+century. The large figure on the right is the Goddess of Heaven, Nut. First
+published in: Description de l'Égypte Antiquités, v. 4 [#12]
 {: .img_and_caption }
 
 These constellations deviate in naming and depiction from the typical Greek
@@ -40,8 +40,8 @@ human bow-shooter represents the two constellations "Bow" and "Arrow", located
 in the modern constellation Canis Maior (the "Arrow" includes Sirius) [#4].
 
 Earlier constellations are more problematic, but some indications exist that
-some modern zodiac signs are very ancient indeed [#2],[#3],[#4],[#13], although
-the constellations did change significantly over time [#3],[#13],[#4].
+some modern zodiac signs are very ancient indeed [#2][#3][#4][#13], although
+the constellations did change significantly over time [#3][#13][#4].
 
 The Egyptians recognized five planets and called them the "stars that knew no
 rest" or (more ancient way) "eyes of [god] Horus". Their movement across the
@@ -53,8 +53,8 @@ God of the Morning" [#8].
 
 ## References
 
- - [#1]: (http://members.westnet.com.au/Gary-David-Thompson/page11-17.html)
- - [#2]: [Astronomical Artifacts and Cuneiform Tablets, etc](http://members.westnet.com.au/Gary-David-Thompson/page11-15.html)
+ - [#1]: Gary D. Thompson: [Website](http://members.westnet.com.au/gary-david-thompson/page11-11.html)
+ - [#2]: Astronomical Artifacts and Cuneiform Tablets: [link](http://members.westnet.com.au/Gary-David-Thompson/page11-15.html)
  - [#3]: [Three archaic Egyptian constellations used as seasonal markers?](http://www.catchpenny.org/thoth/3arch.htm)
  - [#4]: Hoffmann, Susanne M.: Hipparchs Himmelsglobus, Springer, Wiesbaden/ New York, 2017
  - [#5]: Cultural Astronomy: [eCUIP](http://ecuip.lib.uchicago.edu/diglib/science/cultural_astronomy/cultures_egypt-2.html)
