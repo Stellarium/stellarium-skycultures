@@ -8,19 +8,19 @@ and sacred cycles.
 
 ## Description
 
-The Aztecs were an indigene group of peoples in Mesoamerica, especially central
-parts of Mexico. Their culture flourished from 13th to 15th century. However, a
-great part of this knowledge was lost as a consequence of the Spanish conquest
-which occurred on continental America in the 16th century.
+The Aztecs were a group of indigenous peoples in Mesoamerica, especially in
+central parts of Mexico. Their culture flourished from 13th to 15th century but
+a great part of their knowledge was lost as a consequence of the Spanish
+conquest which occurred in the 16th century.
 
 The elements of the Aztec society such as culture, economy and science are
 preserved in the _tlacuilos_. This term loans from _tlacuiloa_, a word in the
-ancient Aztec language (Nahuatl,[#12],[#13]) that means _writing with
+ancient Aztec language (Nahuatl [#12][#13]) that means _writing with
 drawings_. These Tlacuilos where stored in the _amoxcalli_ (books) and _calli_
 (house). Later, they became known as _codices_; a word that came from the Latin
 word Codex meaning 'written book'. They were drawn in many different materials
 such as deer skin, _amate_ (paper) or cotton fabric and they had no text only
-drawings called _glifos_ [#5],[#6].
+drawings called _glifos_ [#5][#6].
 
 Although, many of the pre-hispanic Codices were destroyed during the Spanish
 conquest, some native Americans and some Spanish priests have been working for
@@ -119,12 +119,12 @@ the body of the Celestial Dragon.
  - [#4]: [Aztec Mythology](http://www.windows2universe.org/mythology/aztec_culture.html)
  - [#5]: [Los códices de México](http://www.iconio.com/ABCD/F/INDEX.PDF)
  - [#6]: [Los códices coloniales de México](http://es.wikipedia.org/wiki/C%C3%B3dices_coloniales_de_M%C3%A9xico)
- - [#7]: [Real cédula prohibiendo la historia general de las cosas de Nueva España de Fray Bernardino de Sahagún](http://www.traduccionliteraria.org/1611/esc/america/sahagun.htm)
+ - [#7]: Real cédula prohibiendo la historia general de las cosas de Nueva España de Fray Bernardino de Sahagún: [link](http://www.traduccionliteraria.org/1611/esc/america/sahagun.htm)
  - [#8]: repository [Akapochtli](http://commons.wikimedia.org/wiki/User:Akapochtli)
  - [#9]: [Iconografía mexicana, Volumen 3](https://books.google.com.mx/books?id=kxPjdY1PJjEC)
  - [#10]: [El Códice París](http://www.famsi.org/spanish/mayawriting/codices/paris.html)
  - [#11]: [El nacimiento del sol y la luna](http://redescolar.ilce.edu.mx/redescolar/biblioteca/literatura/leyenda/mexicas/mexsolun.html)
- - [#12]: [Diccionario náhuatl - español en línea en AULEX](http://aulex.org/nah-es/)
+ - [#12]: Diccionario náhuatl - español en línea: [AULEX](http://aulex.org/nah-es/)
  - [#13]: language: [Tlachtli](http://sepiensa.org.mx/contenidos/fd_depo/nahuatl/tlach_1.html)
 
 
@@ -134,7 +134,7 @@ the body of the Celestial Dragon.
 
 English translation by Rafael Rojas Segoviano
 
-Stellarium's team
+Rework by Stellarium's team.
 
 ### Thanks
 
