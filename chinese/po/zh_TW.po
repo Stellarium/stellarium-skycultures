@@ -15,80 +15,194 @@ msgstr "中國"
 
 # Sky culture introduction section in markdown format
 msgid ""
-"Chinese astronomy was developed independently; the Chinese had its own "
-"system to connect the stars. The traditional Chinese sky culture has far-"
-"reaching implications in East Asia. In ancient China, constellations and "
-"planets were associated with astrology but different from the Babylonian "
-"concepts."
-msgstr ""
-"中國天文學是獨立發展的；中國人有自己的星際連接系統。中國傳統的天空文化在東亞具有深遠的影響。在中國古代，星座和行星與占星術有關，但不同於巴比倫的概念。"
+"Chinese astronomy was developed independently and use its own system to connect\n"
+"the stars. The traditional Chinese Sky Culture has far-reaching implications in\n"
+"East Asia. In ancient China, constellations and planets were associated with\n"
+"astrology."
+msgstr "中國天文學是獨立發展的，並使用自己的系統將恆星連接起來。中國傳統的天空文化在東亞具有深遠的影響。在中國古代，星座和行星與占星術有關。"
 
 # Sky culture description section in markdown format
 msgid ""
-"Stellarium currently provides roughly 300 Chinese asterisms, called Xingguan (Chinese: 星官; pinyin: xīngguān, meaning: Star officials), and is without any Chinese star names. A project conducted by community member G.S.K.Lee is now underway to construct a complete Chinese sky culture set for Stellarium based on the information inside _Complete Studies of Astronomical Instruments_ (Chinese: 仪象考成; pinyin: Yíxiàngkǎochéng), an imperial record of astronomy finished in 1756. It was revised in 1844, published _The Continuation of Complete Studies of Astronomical Instruments_ (Chinese: 仪象考成续编; pinyin: Yíxiàngkǎochéng xùbiān), which is the major reference to the traditional Chinese Xingguans and star names used today.\n"
+"### Asterisms (Xingguans)\n"
+"\n"
+"Traditional Chinese astronomy has a system of grouping stars to form asterisms,\n"
+"known as \"Xingguan\" (Chinese: 星官, xīngguān, meaning \"Star officials\"). With\n"
+"names and layout related to elements of the ancient Chinese society such as the\n"
+"kingdom, the mountains, the goods or the industry, the Xinguuans are projecting\n"
+"the world of humans into the sky.\n"
+"\n"
+"Xingguans can contain from one to several dozens of stars. Most of them\n"
+"are smaller than the constellations of Hellenistic tradition. In the Song\n"
+"dynasty (13th century), the Suzhou astronomical map [#3] was engraved in\n"
+"marble. It shows a total of 283 Xingguans, comprising a total of 1,565\n"
+"individual stars divided into 31 regions: the 28 lunar mansions along the\n"
+"ecliptic, and the 3 enclosures of the northern sky.\n"
+"\n"
+"![](suzhouskxt.webp)\n"
+"The astronomical map of Suzhou, engraved in black marble (1247)\n"
+"{: .img_and_caption }\n"
+"\n"
+"Due to precession, six Xingguans near the southern horizon became difficult to\n"
+"observe and were not included in the Suzhou map. Before the Ming dynasty,\n"
+"Xingguans did not include the sky around the celestial south pole. The Southern\n"
+"Asterisms were added as a fifth group in the late Ming dynasty based on\n"
+"European star charts, defining an additional 23 Xingguans [#11].\n"
 "\n"
 "### Sun, Moon and Planets\n"
 "\n"
-"In western astronomy, the planets are named after gods. The ancient Chinese understanding of five planets is based on five-element concepts. The wood is green, the fire is red, the earth is yellow, the metal is white, the water is black. So, Mercury is named Water Star, Venus is named Metal Star, Mars is named Fire Star, Jupiter is named Wood Star, Saturn is named Earth Star.\n"
+"For ancient Chinese, the Sun, the Moon and the five planets form _Seven\n"
+"Luminaries_ (Chinese: 七曜, qīyào), which correspond to the Yin, the Yang and the\n"
+"Five Elements. The wood is green, the fire is red, the earth is yellow, the\n"
+"metal is white, the water is black. So, Mercury is named Water Star, Venus is\n"
+"named Metal Star, Mars is named Fire Star, Jupiter is named Wood Star,\n"
+"Saturn is named Earth Star.\n"
 "\n"
-"In Chinese, the Sun and the Moon are named after Yin and Yang (which contain \"great (Chinese:太, pinyin:tài)\"), respectively Taiyang (Sun, Chinese:太阳) and Taiyin (Moon. Chinese: 太阴, pinyin: tàiyīn). Their other name belongs to pictographic characters Ri (Sun, Chinese:日) and Yue (Moon, Chinese:月) but the more commonly used name for the moon is Yueliang (Chinese:月亮, pinyin: yuèliàng).\n"
-"\n"
-"The Sun, the Moon and the five planets form Seven Luminaries (Chinese:七曜,pinyin:qīyào), which correspond to the Five Elements and Yin and Yang.\n"
-"\n"
-"### Xingguans (asterisms)\n"
-"\n"
-"Traditional Chinese astronomy has a system of grouping stars to asterisms or constellations, known as \"Xingguan\". Their names and layout are very social, concerning the kingdom, the mountains, the goods, the industry in order to project everything of the world of humans into the sky.\n"
-"\n"
-"Most Xingguans are smaller than the constellations of Hellenistic tradition. In the Song dynasty (13th century), the Suzhou astronomical map was engraved in marble. It shows a total of 283 Xingguans, comprising a total of 1,565 individual stars. The Xingguan are divided into 31 regions, i.e. the 28 lunar mansions along the ecliptic, and the 3 enclosures of the northern sky. Due to precession, six Xingguans near the southern horizon became difficult to see and were not included.\n"
-"\n"
-"Before the Ming dynasty, Xingguans did not include the sky around the celestial south pole. The Southern Asterisms were added as a fifth group in the late Ming dynasty based on European star charts, comprising an additional 23 Xingguans.\n"
-"\n"
-"_Complete Studies of Astronomical Instruments_ has 300 Xingguans in total.\n"
-"\n"
-"Modern constellations refer to specific areas of the celestial sphere. Xingguans refer only to the way stars are distributed, with no specific boundaries between Xingguans.\n"
+"The Sun and the Moon are named Taiyang (Sun, Chinese: 太阳) and Taiyin (Moon,\n"
+"Chinese: 太阴) composed from the words \"tài\" (Great, Chinese: 太) and \"Yin\" or\n"
+"\"Yang\". Their other name belongs to pictographic characters Ri (Sun, Chinese:\n"
+"日) and Yue (Moon, Chinese: 月) but the more commonly used name for the moon is\n"
+"Yueliang (Chinese: 月亮, yuèliàng).\n"
 "\n"
 "### Star names\n"
 "\n"
-"A Xingguan can contain from one to several dozens of stars. The so called single star asterisms among the Xingguans can be treated like star names. In Xingguan of two or more stars, each star has a number; the naming of stars in ancient China is the name of the Xingguan plus a number. However, there can be more than one way of numbering the stars within one asterism, thus, there can be more than one \"name\" for a certain star.\n"
+"The naming of stars in ancient China is composed of the name of the Xingguan\n"
+"plus a number. Only very few stars also have common name, such as Alpha\n"
+"Leonis which is called \"the Queen's Star\".\n"
 "\n"
-"Very few stars of the Xingguans have proper name additional to their number, e.g. alpha Leonis has the Chinese name \"the Queen's Star\" and is also referred to as \"Xuanyuan 14\" or (rarely) \"Xuanyuan 1\". The counting depends on the purpose (normal astronomy or observation of the Moon's path). \n"
+"Unlike Xingguans, traditional Chinese star names are still in common usage\n"
+"today, even more common than Bayer/Flamsteed designations.\n"
 "\n"
-"In the traditional Chinese catalogues before 1650, coordinates were only given for one star per constellation, the so called main star or principle star [#1]. This is the star with the number \"1\" in the constellation where counting is started. It is usually the star with the westernmost right ascension. \n"
 "\n"
-"The Suzhou map  [#3] is based on coordinates and asterisms defined in antiquity which became canonical [#1],[#2] but later further stars were \"added stars\" (Chinese: 增星, pinyin:zēng xīng). The stars of the original catalogue are called \"proper stars\" (Chinese: 正星, pinyin: zhèng xīng). \n"
+"### The three Enclosures\n"
 "\n"
-"_The Continuation of Complete Studies of Astronomical Instruments_ has 3240 Stars names in total. Yi Shitong has conducted textual research and summary of these records in his book _Chinese and Western Contrast Star Chart and Catalogue 1950.0_ (Chinese: 中西对照恒星图表 1950.0; pinyin: Zhōngxī Duìzhào Héngxīng Túbiǎo).\n"
+"The 3 enclosures are regions containing smaller asterisms. The\n"
+"enclosure of the Purple Forbidden Palace (Chinese: 紫微垣, Zǐwēi yuán)\n"
+"surrounds almost the whole circumpolar area while the enclosures of the Supreme\n"
+"Palace (Chinese: 太微垣, Tàiwēi yuán) and the Heavenly Market Place\n"
+"(Chinese: 天市垣, Tiānshì yuán) are located close to the ecliptic.\n"
 "\n"
-"Unlike Xingguans, traditional Chinese star names are still in common usage today, even more common than Bayer/Flamsteed designations.\n"
+"Each enclosure has two walls, called the left wall and the right wall which are\n"
+"the main Xingguans. Some Xingguans are located within these \"wall\" (such as\n"
+"Guards of the Palace), others are located in the area that they are\n"
+"surrounding. For example, the Xingguans of the Emperor and of the Crown Prince\n"
+"are located inside the Xingguan of the Forbidden Palace.\n"
 "\n"
-"![](suzhouskxt.webp)  \n"
-"_The astronomical map of Suzhou, engraved in black marble (1247)_  {: .img_and_caption }\n"
+"The enclosure of Purple Forbidden Palace [#7] represents the inner palace of\n"
+"the emperor because the whole celestial sphere with all other Xingguans is\n"
+"turning around this polar region. In the ancient Chinese belief, the Purple\n"
+"Forbidden Palace lies in the middle of the sky and covers the modern\n"
+"constellations Ursa Minor, Draco, Camelopardalis, Cepheus, Cassiopeia, Auriga,\n"
+"Boötes, and parts of Ursa Major, Canes Venatici, Leo Minor, Hercules. It\n"
+"contains 37 traditional Xingguans.\n"
 "\n"
-"### Three Enclosures\n"
+"The enclosure of the Supreme Palace [#8] is the place where the emperor and the\n"
+"courtiers deal with their politics. The Supreme Palace includes a variety of\n"
+"officials and government agencies, a total of 20 traditional Xingguans. It\n"
+"covers the modern constellations Virgo, Coma Berenices and Leo, and parts of\n"
+"Canes Venatici, Ursa Major and Leo Minor.\n"
 "\n"
-"The 3 enclosures are regions which are summarizing many smaller asterisms. The enclosure of the Purple Forbidden Palace (Chinese: 紫微垣, pinyin: Zǐwēi yuán) surrounds almost the whole circumpolar area while the enclosures of the Supreme Palace (Chinese: 太微垣, pinyin: Tàiwēi yuán) and the Heavenly Market Place (Chinese: 天市垣, pinyin: Tiānshì yuán) are located close to the ecliptic.\n"
+"Heavenly Market enclosure [#9] is a bazaar in the sky, a place where ordinary\n"
+"people meet and are represented with their bazaar facilities in 19 Xingguans.\n"
+"The Heavenly Market Place covers the modern constellations Serpens, Ophiuchus,\n"
+"Aquila and Corona Borealis, and parts of Hercules.\n"
 "\n"
-"Each enclosure has two walls, called the left wall and the right wall which are the main xingguans. There are Xingguans at these \"wall\" asterisms (such as guards of the palace) as well as within the area that they are surrounding, e.g. within the Forbidden Palace xingguan, there are the xingguans of the Emperor, the Crown Prince and other. \n"
+"### Twenty-Eight Lunar Mansions\n"
 "\n"
-"The Purple Forbidden Palace represents the inner palace of the emperor because the whole celestial sphere with all other xingguans is turning around this polar region. Thus, in the ancient Chinese belief, the Purple Forbidden Palace lies in the middle of the sky and covers the modern constellations Ursa Minor, Draco, Camelopardalis, Cepheus, Cassiopeia, Auriga, Boötes, and parts of Ursa Major, Canes Venatici, Leo Minor, Hercules. It contains 37 traditional xingguans.\n"
+"The 28 Lunar Mansions (Chinese: 宿, xiù) [#10] are slices of right ascensions in\n"
+"the path of the Moon around the ecliptic. The lunar mansion asterisms are not\n"
+"of equal size: there are 28 constellations north and south of the ecliptic but\n"
+"the regions of the Xiú (mansions) extend from there towards the equatorial pole\n"
+"where the right ascension lines intersect. The inital intention was to define\n"
+"the mansions in a way so that the Moon changes of mansion every day but due to\n"
+"variability of the orbit and speed of the Moon, this concept does not apply any\n"
+"more. The smallest slice extends on only 1° of right ascension."
+msgstr ""
+"###星空（星冠）\n"
 "\n"
-"*   [Purple Forbidden Enclosure (Wikipedia)](https://en.wikipedia.org/wiki/Purple_Forbidden_enclosure)\n"
+"中國傳統的天文學具有將星團分組以形成星體的系統，稱為“星官”。與中國古代社會的元素（例如王國，山脈，商品或工業）相關的名稱和佈局，新光人正將人類的世界投射到空中。\n"
 "\n"
-"The enclosure of the Supreme Palace is the place where the emperor and the courtiers deal with their politics. The Supreme Palace includes a variety of officials and government agencies, a total of 20 traditional Xingguans. It covers the modern constellations Virgo, Coma Berenices and Leo, and parts of Canes Venatici, Ursa Major and Leo Minor.\n"
+"星冠可以容納一到幾十顆恆星。它們中的大多數比希臘化傳統星座小。在宋朝（13世紀），蘇州天文圖[#3]上刻有大理石。它顯示了總共283個星冠，包括總共1,565個單獨的恆星，分為31個區域：沿黃道的28座月球豪宅和北部天空的3個包圍圈。\n"
 "\n"
-"*   [Supreme Palace Enclosure (Wikipedia)](https://en.wikipedia.org/wiki/Supreme_Palace_enclosure)\n"
+"![](suzhouskxt.webp）蘇州的天文圖，上面刻有黑色大理石（1247)\n"
+"{: .img_and_caption }\n"
 "\n"
-"Heavenly Market Enclosure is a bazaar in the sky, a place where ordinary people meet and are represented with their bazaar facilities in 19 xingguans. The Heavenly Market Place covers the modern constellations Serpens, Ophiuchus, Aquila and Corona Borealis, and parts of Hercules. \n"
+"由於進動，南地平線附近的六個星觀變得難以觀察，因此並未包含在蘇州地圖中。在明朝以前，星關沒有包括天球南極周圍的天空。根據歐洲星空圖，明朝末期增加了南方星空作為第五組，另外定義了23個星冠[#11]。\n"
 "\n"
-"*   [Heavenly Market Enclosure (Wikipedia)](https://en.wikipedia.org/wiki/Heavenly_Market_enclosure)\n"
+"###太陽，月亮和行星\n"
 "\n"
-"### Twenty-Eight Mansions (Xiù)\n"
+"對於古代中國人來說，太陽，月亮和五顆行星形成了“七夜”（中文：七曜，qīyào），它們對應於陰，陽和五要素。木頭是綠色，火是紅色，大地是黃色，金屬是白色，水是黑色。因此，水星被命名為水星，金星被命名為金屬星，火星被命名為火星，木星被命名為木星，土星被命名為地球星。\n"
 "\n"
-"The 28 Lunar Mansions (Chinese: 宿, pinyin: xiù) are slices of right ascensions that are bases in the path of the Moon ±5° around the ecliptic. The lunar mansion asterisms are not of equal size, they are 28 constellations north and south of the ecliptic but the regions of the Xiú (mansions) extend from there towards the equatorial pole where the right ascension lines intersect. The inital intention was to define the mansions in a way that the Moon changes the mansion every day but due to variability of the orbit and speed of the Moon, this concept does not apply any more. The smallest slice is only 1° right ascension. \n"
+"太陽和月亮分別由“tài”（太極，中文：太）和“ Yin”兩個詞組成，分別稱為太陽（Taiyang）和太陽（Taiyin）（月亮，中文：太陰）。\n"
+"“楊”它們的其他名稱屬於象形文字Ri（日文，中文：日）和Yue（月文，中文：月），但更常用的月球名稱為Yueliang（月文，中文：月亮，yuèliàng）。\n"
 "\n"
-"Traditional Chinese coordinates are given in \"degrees right ascension\" within a lunar mansion. The star where the measurement starts for this lunar mansion is called the determinative star (Chinese: 距星, pinyin: jùxīng) of the mansions. The equatorial degrees of the lodge (Chinese: 宿度, pinyin: xiùdù) are all right ascensions between the determinative star of a mansion the determinative star of the next one. However, the traditional Chinese right ascension \"degrees\" are smaller than in the sexagesimal system we are used to because the traditional Chinese \"degrees\" reflect the motion of the mean Sun as one degree per day. Thus, a Chinese \"degree\" is not 1/360 of the full circle but 1/365.25 of the circle. \n"
+"###星星名稱\n"
 "\n"
-"The 28 mansion asterisms are grouped into Four Holy Beasts (Chinese: 象 pinyin: xiàng), each containing seven mansions corresponding to seven luminaries. The Four Holy Beasts are the White Tiger of the East, The Red Bird of the South, the Azure Dragon of the West and the Dark Warrier of the North. As they all lay around the ecliptic, the association with the compass direction does not correspond to the real horizon.\n"
+"中國古代的星星命名由星冠的名稱加上一個數字組成。只有極少數的星星也有共同的名字，例如被稱為“女王之星”的阿爾法·萊昂尼斯。\n"
+"\n"
+"與星冠不同，傳統的中國明星名字如今仍很普遍，甚至比拜耳/弗拉姆斯蒂德的名字更普遍。\n"
+"\n"
+"\n"
+"###三個機箱\n"
+"\n"
+"3個圍牆是包含較小星號的區域。紫禁宮（中文：紫微垣，Zǐwēiyuán）的圍牆幾乎圍繞整個極地地區，而至尊宮（中文：太微垣，Tàiwēiyuán）和天市場的圍牆\n"
+"（中文：天市垣，Tiānshìyuán）位於黃道附近。\n"
+"\n"
+"每個圍牆都有兩堵牆，分別稱為左牆和右牆，這是主要的星管。一些星冠位於這些“城牆”內（例如宮殿護衛隊），其他星冠則位於其周圍區域。例如，皇帝和皇太子的星冠位於禁宮星冠內。\n"
+"\n"
+"紫禁宮[#7]的圍牆代表了皇帝的內宮，因為整個天球以及所有其他星觀都圍繞著這個極地地區轉彎。按照中國古代的信仰，紫禁宮位於天空中間，覆蓋著現代星座，如小熊座，德拉科，駱駝科，仙王座，仙后座，奧里加，布特斯，以及大熊座的部分，韋納蒂西，小獅子座，大力神。它包含37個傳統的星觀。\n"
+"\n"
+"最高宮[#8]的圍牆是皇帝和朝臣們處理其政治的地方。至尊宮包括各種官員和政府機構，共有20個傳統的星觀。它涵蓋了處女座，彗星貝倫尼斯和獅子座的現代星座，以及Canes Venatici，Ursa Major和Leo Minor的部分地區。\n"
+"\n"
+"天市場市場[#9]是天空中的集市，在這個地方，普通百姓相聚並以其在19個關關的集市設施為代表。天上市場涵蓋了現代的星座，如蛇形，蛇夫座，天鷹座和北極光，以及大力神的部分區域。\n"
+"\n"
+"###二十八個月球大廈\n"
+"\n"
+"28座月球大廈（中文：宿，xiù）[#10]是黃道周圍月球路徑上的正確提升點。月球大廈的星像大小不相等：黃道以南和北面有28個星座，但是Xiú（豪宅）的區域從那裡延伸到赤道極，在這里赤道線與右邊的提升線相交。最初的意圖是對豪宅進行定義，以使月球每天都在改變豪宅，但由於軌道的變化和月球速度的影響，這一概念已不再適用。最小的切片僅向右上角延伸1°。"
+
+# Sky culture extras section in markdown format
+msgid ""
+"### Notes on star names\n"
+"\n"
+"There can be more than one way of numbering the stars within one\n"
+"asterism, thus, there can be more than one \"name\" for a certain star. For\n"
+"example, \"the Queen's Star\" is also referred to as \"Xuanyuan 14\" or (rarely)\n"
+"\"Xuanyuan 1\". The number depending on the purpose (normal astronomy or\n"
+"observation of the Moon's path).\n"
+"\n"
+"In the traditional Chinese catalogues before 1650, coordinates were only given\n"
+"for one star per constellation, the so called main star or principle star [#1].\n"
+"This is the star with the number \"1\" in the constellation where counting is\n"
+"started. It is usually the star with the westernmost right ascension.\n"
+"\n"
+"The Suzhou map [#3] is based on coordinates and asterisms defined in antiquity\n"
+"which became canonical [#1],[#2] but later further stars were added. These are\n"
+"called \"added stars\" (Chinese: 增星, zēng xīng) while the stars from the\n"
+"original catalogue are called \"proper stars\" (Chinese: 正星, zhèng xīng).\n"
+"\n"
+"_The Continuation of Complete Studies of Astronomical Instruments_ has 3240\n"
+"Stars names in total. Yi Shitong has conducted textual research and summary of\n"
+"these records in his book _Chinese and Western Contrast Star Chart and\n"
+"Catalogue 1950.0_ (Chinese: 中西对照恒星图表 1950.0, Zhōngxī Duìzhào Héngxīng Túbiǎo).\n"
+"\n"
+"\n"
+"### Notes on Lunar Mansion\n"
+"\n"
+"Traditional Chinese coordinates are given in \"degrees right ascension\" within a\n"
+"lunar mansion. The star where the measurement starts for this lunar mansion is\n"
+"called the determinative star (Chinese: 距星, jùxīng) of the mansions. The\n"
+"equatorial degrees of the lodge (Chinese: 宿度, xiùdù) are all right ascensions\n"
+"between the determinative star of a mansion the determinative star of the next\n"
+"one. However, the traditional Chinese right ascension \"degrees\" are smaller\n"
+"than in the sexagesimal system we are used to because the traditional Chinese\n"
+"\"degrees\" reflect the motion of the mean Sun as one degree per day. Thus, a\n"
+"Chinese \"degree\" is not 1/360 of the full circle but 1/365.25 of the circle.\n"
+"\n"
+"The 28 mansion asterisms are grouped into Four Holy Beasts (Chinese: 象, xiàng),\n"
+"each containing seven mansions corresponding to seven luminaries. The Four Holy\n"
+"Beasts are the White Tiger of the East, The Red Bird of the South, the Azure\n"
+"Dragon of the West and the Dark Warrier of the North. As they all lay around\n"
+"the ecliptic, the association with the compass direction does not correspond to\n"
+"the real horizon.\n"
 "\n"
 "List of The Twenty-Eight Mansions:\n"
 "\n"
@@ -113,7 +227,7 @@ msgid ""
 "| Pinyin |Xīfāng Báihǔ | Kuíxiù | Loúxiù | Wèixiù | Mǎoxiù | Bìxiù | Zīxiù | Shēnxiù |\n"
 "|English Name | White Tiger of the West | Legs Mansion | Bond Mansion | Stomach Mansion | Hairy Head Mansion | Net Mansion | Turtle Beak Mansion | Three Stars Mansion |\n"
 "| Number of Xinguans | 54 | 9 | 6 | 7 | 9 | 14 | 3 | 6 |\n"
-"| Determinative Star |    | ζ And | β Ari | 35 Ari | 17 Tau | ε Tau | λ Ori | ζ Ori | \n"
+"| Determinative Star |    | ζ And | β Ari | 35 Ari | 17 Tau | ε Tau | λ Ori | ζ Ori |\n"
 "\n"
 "| Chinese Name | 南方朱雀 | 井宿 | 鬼宿 | 柳宿 | 星宿 | 张宿 | 翼宿 | 轸宿 |\n"
 "|---------------|---------|------|-------|-------|-----|------|------|-------|\n"
@@ -122,22 +236,26 @@ msgid ""
 "| Number of Xinguans | 42 | 19 | 7 | 2 | 5 | 2 | 2 | 5 |\n"
 "| Determinative Star |  | μ Gem | θ Cnc | δ Hya | α Hya | υ1 Hya | α Crt | γ Crv |\n"
 "\n"
-"*   [28 Mansions (Wikipedia)](https://en.wikipedia.org/wiki/Twenty-Eight_Mansions)\n"
-"\n"
 "### The Southern Asterisms\n"
 "\n"
-"The sky around the south celestial pole was unknown to ancient Chinese. Therefore, it was not included in the Three Enclosures and Twenty-Eight Mansions system. However, by the end of the Ming Dynasty, Xu Guangqi (Chinese:徐光启,pinyin:Xú Guāngqǐ) introduced another 23 Xingguans based on the knowledge of European star charts. These Xingguans were since incorporated into the traditional Chinese star maps.\n"
+"The sky around the south celestial pole was unknown to ancient Chinese.\n"
+"Therefore, it was not included in the Three Enclosures and Twenty-Eight\n"
+"Mansions system. However, by the end of the Ming Dynasty, Xu Guangqi\n"
+"(Chinese:徐光启, Xú Guāngqǐ) introduced another 23 Xingguans based on the\n"
+"knowledge of European star charts. These Xingguans were since incorporated into\n"
+"the traditional Chinese star maps.\n"
 "\n"
-"![](hunxiang.webp)  \n"
-"_Xingguans Map of Celestial Globe(Su Song，Song dynasty)_ {: .img_and_caption}\n"
+"![](hunxiang.webp)\n"
+"_Xingguans Map of Celestial Globe(Su Song，Song dynasty)_\n"
+"{: .img_and_caption}\n"
 "\n"
 "### Deep Space Objects\n"
 "\n"
-"In ancient China, even some deep space objects were included in the xingguans.\n"
+"In ancient China, even some deep space objects were included in the Xingguans.\n"
 "\n"
 "Include the following:\n"
 "\n"
-"| General name | Chinese Name | Pinyin   | Chinese Name | Nick name | \n"
+"| General name | Chinese Name | Pinyin   | Chinese Name | Nick name |\n"
 "|--------------|--------------|----------|--------------|-----------|\n"
 "| NGC 6231     | 神宫          | shéngōng | God's Palace | Northern Jewel Box Cluster |\n"
 "| NGC 6475/M 7 | 鱼           | Yú        | Fish         | Ptolemy Cluster |\n"
@@ -148,93 +266,59 @@ msgid ""
 "\n"
 "### Notes\n"
 "\n"
-"This sky culture is based on the information in _Chinese and Western Contrast Stars Chart and Star Catalogue 1950.0_ (Star Catalogue). (Chinese： 中西对照恒星图表1950.0(星表分册))，and _Complete Studies of Astronomical Instruments_ (Chinese： 仪象考成).\n"
+"This sky culture is based on the information in _Chinese and Western Contrast\n"
+"Stars Chart and Star Catalogue 1950.0_ (Star Catalogue). (Chinese：\n"
+"中西对照恒星图表1950.0(星表分册))，and _Complete Studies of Astronomical Instruments_\n"
+"(Chinese： 仪象考成).\n"
 "\n"
-"Special thanks to Liu Chunbin for the collation of the _Chinese and Western Contrast Stars Chart and Star Catalogue 1950.0(Star Catalogue)_. He produced Chinese Star Catalogue for Stellarium (Chinese： Stellarium 中国星官体系下中文星名扩展包) is a very important reference.\n"
+"Special thanks to Liu Chunbin for the collation of the _Chinese and Western\n"
+"Contrast Stars Chart and Star Catalogue 1950.0(Star Catalogue)_. He produced\n"
+"Chinese Star Catalogue for Stellarium (Chinese： Stellarium 中国星官体系下中文星名扩展包) is a\n"
+"very important reference.\n"
 "\n"
-"For the translation of constellations, the use of the Hong Kong Space Museum produced the English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Names (Chinese： 中国星区、星官及星名英译表). Only a small portion of the translation is changed, for example, the translation of the two different Xingguans is the same.\n"
-" \n"
-"The cultural connotations of the name cannot be explained perfectly, because thousands of years passed, the connotations behind some names are controversial. These are only possible translations."
+"For the translation of constellations, the use of the Hong Kong Space Museum\n"
+"produced the English-Chinese Glossary of Chinese Star Regions, Asterisms and\n"
+"Star Names (Chinese： 中国星区、星官及星名英译表). Only a small portion of the translation is\n"
+"changed, for example, the translation of the two different Xingguans is the\n"
+"same.\n"
+"\n"
+"The cultural connotations of the name cannot be explained perfectly, because\n"
+"thousands of years passed, the connotations behind some names are\n"
+"controversial. These are only possible translations."
 msgstr ""
-"恆星目前提供大約300種中國星號，稱為星官（中文：星官；拼音：xīngguān，意思是：星官），並且沒有任何中文星名。社區成員GSKLee正在進行的一個項目，正在根據《天文學儀器的完整研究_》（中文：儀象考成；拼音：Yíxiàngkǎochéng）中的信息構建星象的完整中國天空文化背景，這是一份完成於1756年。它於1844年進行了修訂，出版了《天文學儀器的完整研究的延續_》（中文：儀象考成續編；拼音：Yíxiàngkǎochéngxùbiān），它主要參考了當今使用的繁體中文星冠和星號。\n"
+"###關於星星名稱的注意事項\n"
 "\n"
-"###太陽，月亮和行星\n"
+"在一個星號中可能有不止一種對星星進行編號的方法，因此，對於某顆恆星，可以有多個“名稱”。例如，“女王之星”也稱為“軒X 14”或（很少）\n"
+"《軒yuan1》。該數字取決於目的（正常的天文學或對月球路徑的觀察）。\n"
 "\n"
-"在西方天文學中，行星是以神命名的。中國古代對五顆行星的理解是基於五元素的概念。木頭是綠色，火是紅色，大地是黃色，金屬是白色，水是黑色。因此，水星被命名為水星，金星被命名為金屬星，火星被命名為火星，木星被命名為木星，土星被命名為地球星。\n"
+"在1650年前的繁體中文星表中，每個星座只給出一顆恆星的坐標，即所謂的主星或主星[#1]。這是開始計數的星座中編號為“ 1”的星星。通常是最西端上升的恆星。\n"
 "\n"
-"在中文中，太陽和月亮分別以陰和陽（包含“大（中文：太，拼音：tài）”）命名，分別是太陽（陽，中文：太陽）和太陰（月亮。中文：太陰，拼音） ：tàiyīn）。它們的別稱屬於象形文字Ri（太陽，中文：日）和Yue（月亮，中文：月），但更常用的月球名字是Yueliang（漢語：月亮，拼音：yuèliàng）。\n"
+"蘇州地圖[#3]基於上古定義的坐標和星象，這已成為規範的[#1]，[#2]，但後來又添加了一些恆星。這些被稱為“附加星”（中文：增星，zēngxīng），而原始目錄中的星星被稱為“適當星”（中文：正星，zhèngxīng）。\n"
 "\n"
-"太陽，月亮和五個行星形成七個發光體（中文：七曜，拼音：qīyào），分別對應於五個元素以及陰陽。\n"
+"_繼續進行天文儀器的研究_共有3240個星號。易世同在他的《中西對照恆星圖和目錄1950.0 _》（中文：中西對照恆星圖1950.0，中西雙Du興興圖碧圖）中對這些記錄進行了文字研究和總結。\n"
 "\n"
-"###星冠（星空）\n"
 "\n"
-"中國傳統的天文學有一個將星團劃分為星空或星座的系統，稱為“星冠”。它們的名稱和佈局非常具有社會意義，涉及王國，山脈，商品和工業，以便將人類世界的所有事物投射到空中。\n"
+"###月球大廈注意事項\n"
 "\n"
-"大多數星冠都小於古希臘傳統的星座。在宋朝（13世紀），蘇州天文圖刻在大理石上。它顯示了總共283個星冠，包括總共1,565個單獨的恆星。星冠分為31個區域，即沿黃道的28座月球豪宅和北部天空的3個圍牆。由於進動，南地平線附近的六個星觀變得很難看，沒有包括在內。\n"
+"繁體中文的坐標在月球大廈內以“度數提升”給出。從此月球大廈開始測量的恆星被稱為大廈的決定性恆星（中文：距星，jùxīng）。旅館的赤道度（中文：宿度，xiùdù）可以在豪宅的決定性星與下一個決定性星之間提升。但是，繁體中文的權利提升“度”小於我們習慣的六進制系統，因為繁體中文\n"
+"“度”反映平均太陽的運動為每天1度。因此，中文“度”不是整個圓的1/360，而是圓的1 / 365.25。\n"
 "\n"
-"在明朝以前，星關沒有包括天球南極周圍的天空。根據歐洲星圖，明朝末年增加了南方星空作為第五組，另外還有23個星冠。\n"
-"\n"
-"_完整的天文儀器研究_共有300個星冠。\n"
-"\n"
-"現代星座是指天球的特定區域。星冠僅指恆星的分佈方式，星冠之間沒有特定的邊界。\n"
-"\n"
-"###星星名稱\n"
-"\n"
-"一個星冠可以包含一到幾十顆恆星。星冠之間的所謂單星星象可以像星名一樣對待。在兩個或兩個以上恆星的星冠中，每個恆星都有一個數字。中國古代的星星命名是星冠的名稱加上一個數字。但是，對一個星號內的恆星進行編號的方法不只一種，因此，對於某顆恆星可以有多個“名稱”。\n"
-"\n"
-"星冠中很少有星星具有其名稱之外的專有名稱，例如alpha Leonis的中文名稱是“女王之星”，也被稱為“軒yuan 14”或（很少有）“軒yuan 1”。計數取決於目的（正常的天文學或對月球路徑的觀察）。\n"
-"\n"
-"在1650年之前的繁體中文星表中，每個星座僅給出一顆恆星的坐標，即所謂的主星或主星[#1]。這是開始計數的星座中具有數字“ 1”的星星。通常是最西端向右提升的恆星。\n"
-"\n"
-"蘇州地圖[#3]基於古代定義的坐標和星號，這些坐標和星號已成為典範[#1]，[#2]，但後來的其他恆星是“附加星”（中文：增星，拼音：zēngxīng）。原始目錄中的星星稱為“適當的星星”（中文：正星，拼音：zhèngxīng）。\n"
-"\n"
-"_繼續進行天文儀器的研究_共有3240個星號。易世同在他的《中西對照恆星圖和目錄1950.0 _》（中文：中西對照恆星圖1950.0；拼音：ZhōngxīDuìzhàoHéngxīngTúbiǎo）中對這些記錄進行了文字研究和總結。\n"
-"\n"
-"與星冠不同，傳統的中國明星名字如今仍很普遍，甚至比拜耳/弗拉姆斯蒂德的名字更普遍。\n"
-"\n"
-"![](suzhouskxt.webp)\n"
-"_刻有黑色大理石的蘇州天文圖（1247）_ {: .img_and_caption }\n"
-"\n"
-"###三個機箱\n"
-"\n"
-"3個圍牆是匯總許多較小星號的區域。紫禁宮（中文：紫微垣，拼音：Zǐwēiyuán）的圍牆幾乎圍繞整個極地地區，而至尊宮（中文：太微垣，拼音：Tàiwēiyuán）和天市場（中文：天市垣，拼音：Tiānshìyuán）位於黃道附近。\n"
-"\n"
-"每個圍牆都有兩堵牆，分別稱為左牆和右牆，它們是主要的星型管。這些“牆”形星體（例如宮殿的守衛）以及它們周圍的區域中都有星冠，例如在紫禁宮星冠內，有皇帝，皇太子等人的星冠。\n"
-"\n"
-"紫禁宮代表皇帝的內宮，因為整個天球以及所有其他星觀都圍繞著這個極地地區旋轉。因此，按照中國古代的信仰，紫禁宮位於天空中間，覆蓋著現代的星座，例如小熊座，德拉科，駱駝科，塞弗斯，仙后座，奧里加，布特斯，以及大熊座的某些部分，維納西蒂，小獅子座，大力神。它包含37個傳統的星觀。\n"
-"\n"
-"* [Purple Forbidden Enclosure（Wikipedia）](https://en.wikipedia.org/wiki/Purple_Forbidden_enclosure)\n"
-"\n"
-"至尊宮的圍牆是皇帝和朝臣們處理政治的地方。至尊宮包括各種官員和政府機構，共有20個傳統的星觀。它涵蓋了處女座，彗星貝倫尼斯和獅子座的現代星座，以及Canes Venatici，Ursa Major和Leo Minor的部分地區。\n"
-"\n"
-"* [至尊宮殿附件（Wikipedia）](https://en.wikipedia.org/wiki/Supreme_Palace_enclosure)\n"
-"\n"
-"天市場市場圍欄是天空中的集市，在這個地方，普通百姓會聚在一起，並在19個觀關區以集市設施為代表。天上市場涵蓋了現代的星座，如塞爾彭，蛇夫座，天鷹座和北極光，以及大力神的一部分。\n"
-"\n"
-"* [天堂市場附件（Wikipedia）](https://en.wikipedia.org/wiki/Heavenly_Market_enclosure)\n"
-"\n"
-"###二十八個大廈（Xiù）\n"
-"\n"
-"28座月球大廈（中文：宿，拼音：xiù）是右上生的片，是黃道周圍月球±5°的基礎。月球大廈的星像大小不相等，它們在黃道以北和以南是28個星座，但是Xiú（豪宅）的區域從那裡延伸到赤道極，在這里赤道線與右邊的提升線相交。最初的意圖是以這樣的方式定義豪宅，即月球每天都會改變豪宅，但是由於軌道的變化和月球速度的影響，這一概念已不再適用。最小的切片僅向右提升1°。\n"
-"\n"
-"繁體中文的坐標在月球大廈內以“度數提升”給出。從此月球大廈開始測量的恆星被稱為大廈的確定性恆星（中文：距星，拼音：jùxīng）。旅館的赤道度（中文：宿度，拼音：xiùdù）可以在大廈的確定性星與下一個確定性星之間提升。但是，繁體中文的權利提升“度”小於我們習慣使用的六進制系統，因為繁體中文的“度”將平均太陽的運動反映為每天1度。因此，中文的“度”不是整個圓的1/360，而是整個圓的1 / 365.25。\n"
-"\n"
-"28個宅邸星像被分為四類聖獸（中文：象拼音：xiàng），每個野獸都包含對應於七個燈具的七個宅邸。四種聖獸是東方的白虎，南方的紅鳥，西方的天青龍和北方的黑暗守望者。當它們全部圍繞黃道時，與羅盤方向的關聯並不對應於真實的地平線。\n"
+"28個宅邸星像被分組為“四大聖獸”（中文：象，xiàng），每個野獸都包含對應於七個發光體的七個大廈。四種聖獸是東方的白虎，南方的紅鳥，西方的天青龍和北方的黑暗守望者。當它們全部圍繞黃道時，與羅盤方向的關聯並不對應於真實的地平線。\n"
 "\n"
 "二十八個豪宅清單：\n"
 "\n"
 "|七支燈具| |木|金屬|地球|太陽|月亮|火水|\n"
 "| --------------- | --------- | ------ | ------- | ------- | ----- | ------ | -------- || ------- |\n"
 "|中文名稱|東方蒼龍|角宿|亢宿|氐宿|房宿|心宿|尾宿|箕宿|\n"
-"|拼音|東芳倉隆|Jiǎoxiù|Kangngxiù|Dīxiù|Fanggxiù|Xīnxiù|Wixixiù|Jīxiù|\n"
-"|英文名稱|東方東方的天青龍|角大廈|脖子大廈|根大廈|房間大廈|心臟大廈|尾巴大廈|風籃大廈|\n"
+"|拼音|東芳倉隆|薊西|康秀|狄秀|方秀|新秀|魏西|吉秀|\n"
+"|英文名稱|東方天青龍|角大廈|脖子大廈|根大廈|房間大廈|心臟大廈|尾樓|風籃大廈|\n"
 "|新館數| 46 | 11 | 7 | 11 | 7 | 2 | 5 | 3 |\n"
-"|確定性星| | αVir | κVir | α2庫| π斯科| σSco | μ1積分γSgr |\n"
+"|確定性星| | αVir | κVir | α2庫| π斯科| σSco | μ1Sco | γSgr |\n"
 "\n"
 "|中文名稱|北方玄武|鬥宿|牛宿|女宿|虛宿|危宿|室宿|壁宿|\n"
 "| --------------- | --------- | ------ | ------- | ------- | ----- | ------ | -------- || ------- |\n"
 "|拼音|貝凡·軒án| Dǒuxiù|牛溪| Nǚxiù|徐秀| Wēixiù| ì| Bìxiù|\n"
-"|英文名稱|北方黑龜|北斗大廈|牛大廈|女孩大廈|空樓|屋頂大廈|營地大廈|牆大廈|\n"
+"|英文名稱|北方黑龜|北斗大廈|牛大廈|女孩大廈|空虛大廈|屋頂大廈|營地大廈|牆大廈|\n"
 "|新館數量| 65 | 10 | 11 | 8 | 10 | 10 | 10 | 6 |\n"
 "|確定性星| |μSgr | β帽| εAqr | βAqr | αAqr | α釘| γ釘|\n"
 "\n"
@@ -248,23 +332,22 @@ msgstr ""
 "\n"
 "|中文名|南方朱雀|井宿|鬼宿|柳宿|星宿|張宿|翼宿|軫宿|\n"
 "| --------------- | --------- | ------ | ------- | ------- | ----- | ------ | -------- || ------- |\n"
-"|拼音| NánfāngZhūquè| ǐ|古ǐ秀| Liǔxiù|鑫秀|張秀| ì zhnxixiù|\n"
+"|拼音| NánfāngZhūquè| ǐ古ǐ秀| Liǔxiù|鑫秀| xi | ì浙西|\n"
 "|英文名|南方朱紅鳥|豪宅|鬼屋|柳樓|明星大廈|擴展網絡大廈|翼大廈|戰車大廈|\n"
 "|新館數量| 42 | 19 | 7 | 2 | 5 | 2 | 2 | 5 |\n"
 "|決定性明星| | μ寶石| θCnc | δHya | αHya | υ1Hya | αCrt | γCrv |\n"
 "\n"
-"* [28座豪宅（Wikipedia）](https://en.wikipedia.org/wiki/20-Eight_Mansions)\n"
-"\n"
 "###南方星空\n"
 "\n"
-"中國古代人不知道南天極周圍的天空。因此，它沒有包括在“三個外殼和二十八個大廈”系統中。然而，到明末，徐光啟（徐光啟，拼音：XúGuāngqǐ）根據歐洲星圖的介紹又引進了23個星冠。此後，這些星冠被併入了中國傳統星圖。\n"
+"中國古代人不知道南天極周圍的天空。因此，它沒有包括在“三個外殼和二十八個大廈”系統中。然而，到明末徐光啟\n"
+"（XuanGuāngqǐ，徐光啟，中文）根據歐洲星圖的介紹，又介紹了23個星冠。此後，這些星冠被併入了傳統的中國星圖。\n"
 "\n"
-"![](hunxiang.webp)\n"
-"_天球星冠地圖（蘇宋，宋朝）_ {: .img_and_caption }\n"
+"![](hunxiang.webp）_天球星空地圖（宋宋)_\n"
+"{: .img_and_caption }\n"
 "\n"
 "###深空物體\n"
 "\n"
-"在中國古代，甚至一些深空物體也被包含在星冠之中。\n"
+"在中國古代，甚至有些深空物體也被包含在星冠之中。\n"
 "\n"
 "包括以下這些：\n"
 "\n"
@@ -279,41 +362,60 @@ msgstr ""
 "\n"
 "###注意\n"
 "\n"
-"這種天空文化的基礎是《中西對比星圖和星表1950.0_（星表）》中的信息。 （中文：中西對照恆星圖表1950.0（星表分冊））和_天文儀器的完整研究_（中文：儀象考成）。\n"
+"這種天空文化的基礎是《中西對比星圖和星表1950.0_（星表）》中的信息。 （中文：中西對照恆星圖表1950.0（星表分冊）），和_天文儀器的完整研究_\n"
+"（中文：儀象考成）。\n"
 "\n"
-"特別感謝劉春斌對《中西對比星圖和星表1950.0（星表）》的整理。他製作的《中國星狀星表目錄》（中文：Stellarium中國星官體系下中文星名擴展包）是非常重要的參考資料。\n"
+"特別感謝劉春斌對《中西對比星圖和星表1950.0（星表）》的整理。他製作的《中國恆星星表》（中文：Stellarium中國星官體系下中文星名擴展包）是非常重要的參考資料。\n"
 "\n"
-"為了翻譯星座，使用香港太空館製作了《中國星區，星空和星名的英漢詞彙表》（中文：中國星區，星官及星名英譯表）。只有一小部分翻譯被更改，例如，兩個不同的星冠的翻譯是相同的。\n"
+"為了翻譯星座，使用香港太空館製作了《中國星區，星空和星名的英漢詞彙表》。只有一小部分翻譯被更改，例如，兩個不同的星冠的翻譯是相同的。\n"
 "\n"
-"名稱的文化含義無法完美地解釋，因為數千年過去了，某些名稱背後的含義存在爭議。這些只是可能的翻譯。"
+"名稱的文化含義無法完美地解釋，因為數千年來，某些名稱背後的含義存在爭議。這些只是可能的翻譯。"
 
 # Sky culture references section in markdown format
 msgid ""
 " - [#1]: Sun Xiaochun and Jacob Kistemaker: The Chinese sky during the Han, Brill, Leiden, 2007\n"
 " - [#2]: Rufus, Carl and Tien, Hsing-Chih: The Soochow Astronomical Chart, University of Michigan Press, Ann Arbor, Michigan, USA, 1945\n"
 " - [#3]: The Suzhou map [digitized](http://www.chinesehsc.org/zoomify/suzhou_planisphere.html)\n"
-" - [#4]: [English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Names](http://www.lcsd.gov.hk/CE/Museum/Space/en_US/web/spm/starshine/resources/constemyth/glossary.html)\n"
-" - [#4]: [AEEA Astronomy Education Information-Ancient Chinese constellation system ](http://aeea.nmns.edu.tw/aeea/contents_list/star_sign.html)\n"
-" - [#5]: [Chinese constellations (Wikipedia)](http://en.wikipedia.org/wiki/Chinese_constellations)\n"
-" - [#6]: [Traditional Chinese star names (Wikipedia)](https://en.wikipedia.org/wiki/Traditional_Chinese_star_names)"
+" - [#4]: English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Names. [Link](http://www.lcsd.gov.hk/CE/Museum/Space/en_US/web/spm/starshine/resources/constemyth/glossary.html)\n"
+" - [#4]: AEEA Astronomy Education Information [Ancient Chinese constellation system](http://aeea.nmns.edu.tw/aeea/contents_list/star_sign.html)\n"
+" - [#5]: Chinese constellations article on [Wikipedia](http://en.wikipedia.org/wiki/Chinese_constellations)\n"
+" - [#6]: Traditional Chinese star names article on [Wikipedia](https://en.wikipedia.org/wiki/Traditional_Chinese_star_names)\n"
+" - [#7]: Purple Forbidden Enclosure article on [Wikipedia](https://en.wikipedia.org/wiki/Purple_Forbidden_enclosure)\n"
+" - [#8]: Supreme Palace Enclosure on article [Wikipedia](https://en.wikipedia.org/wiki/Supreme_Palace_enclosure)\n"
+" - [#9]: Heavenly Market Enclosure on article [Wikipedia](https://en.wikipedia.org/wiki/Heavenly_Market_enclosure)\n"
+" - [#10]: 28 Mansions article on [Wikipedia](https://en.wikipedia.org/wiki/Twenty-Eight_Mansions)\n"
+" - [#11]: _Complete Studies of Astronomical Instruments_ (Chinese： 仪象考成)"
 msgstr ""
-" - [#1]: 孫曉春和雅各布·基斯特梅克（Jacob Kistemaker）：漢族時期的中國天空，布里爾，萊頓，2007\n"
+" - [#1]: 孫曉春和雅各布·基斯特梅克（Jacob Kistemaker）：漢族時期的中國天空，布里爾，萊頓，2007年\n"
 " - [#2]: Rufus，Carl和Tien，Hing-Chih：《東吳天文圖》，密歇根大學出版社，美國密歇根州安阿伯，1945年\n"
 " - [#3]: 蘇州地圖[數字化](http://www.chinesehsc.org/zoomify/suzhou_planisphere.html)\n"
-" - [#4]: [英漢星區，星號和星名詞彙]（http://www.lcsd.gov.hk/CE/Museum/Space/en_US/web/spm/starshine/resources/constemyth/ （glossary.html）\n"
-" - [#4]: [AEEA天文教育信息-中國古代星座系統](http://aeea.nmns.edu.tw/aeea/contents_list/star_sign.html)\n"
-" - [#5]: [中國星座（Wikipedia）](http://en.wikipedia.org/wiki/Chinese_constellations)\n"
-" - [#6]: [繁體中文星級名稱（Wikipedia）](https://en.wikipedia.org/wiki/Traditional_Chinese_star_names)"
+" - [#4]: 漢字中文地區，星號和星名的英漢詞彙。 [鏈接](http://www.lcsd.gov.hk/CE/Museum/Space/en_US/web/spm/starshine/resources/constemyth/glossary.html)\n"
+" - [#4]: AEEA天文教育信息[中國古代星座系統](http://aeea.nmns.edu.tw/aeea/contents_list/star_sign.html)\n"
+" - [#5]: [Wikipedia]上的中國星座文章（http://en.wikipedia.org/wiki/Chinese_constellations）\n"
+" - [#6]: [Wikipedia]上的繁體中文明星名稱文章（https://en.wikipedia.org/wiki/Traditional_Chinese_star_names）\n"
+" - [#7]: [Wikipedia]上的紫禁忌文章（https://en.wikipedia.org/wiki/Purple_Forbidden_enclosure）\n"
+" - [#8]: 關於[Wikipedia](https://en.wikipedia.org/wiki/Supreme_Palace_enclosure)上的最高宮殿附樓\n"
+" - [#9]: 文章[Wikipedia]上的“天堂市場”附件（https://en.wikipedia.org/wiki/Heavenly_Market_enclosure）\n"
+" - [#10]: [Wikipedia]上的28個豪宅文章（https://en.wikipedia.org/wiki/Twenty-Eight_Mansions）\n"
+" - [#11]: _天文儀器的完整研究_（中文：儀象考成）"
 
 # Sky culture authors section in markdown format
 msgid ""
-"This sky culture was contributed by _Karrie Berglund_ of Digitalis Education Solutions, Inc. based on <!-- a href=\"http://www.lcsd.gov.hk/CE/Museum/Space/en_US/web/spm/starshine/interactive-star-maps.html\" -->Hong Kong Space Museum star maps <!--/a--> (no longer available online).\n"
+"This sky culture was contributed by _Karrie Berglund_ of Digitalis Education\n"
+"Solutions, Inc. based on the Hong Kong Space Museum star maps.\n"
 "\n"
-"Sun Shuwei replenishes more than 200 Xingguans and more than 3,000 stars，based primarily on the book_Chinese and Western Contrast Star Chart and Catalogue 1950.0_ by Yi Shitong,And add the description."
+"Sun Shuwei contributed more than 200 Xingguans and more than 3,000 stars，based\n"
+"primarily on the book _Chinese and Western Contrast Star Chart and Catalogue\n"
+"1950.0_ by Yi Shitong.\n"
+"\n"
+"Rework by Stellarium's team."
 msgstr ""
-"天空文化是由Digitalis Education Solutions，Inc.的_Karrie Berglund_貢獻的。 <!-- a href=\"http://www.lcsd.gov.hk/CE/Museum/Space/en_US/web/spm/starshine/interactive-star-maps.html\" -->香港太空館星圖<!--/a--> （不再在線提供）。\n"
+"天空文化是由Digitalis Education Solutions，Inc.的_Karrie Berglund_根據香港太空館的星圖繪製的。\n"
 "\n"
-"孫樹偉主要根據易世同的《中西對比星圖和目錄1950.0_》補充了200多個星觀和3,000顆星，並添加了說明。"
+"孫樹偉貢獻了200多個星觀和3,000顆星，主要基於《中西對比星圖和目錄》\n"
+"1950.0_，易世同。\n"
+"\n"
+"由Stellarium團隊進行返工。"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"
@@ -321,7 +423,7 @@ msgstr "GNU GPL v2.0"
 
 # Chinese constellation, native: 毕宿, pronounce: Bìxiù
 msgid "Net"
-msgstr "畢宿"
+msgstr "毕宿"
 
 # Chinese constellation, native: 壁宿, pronounce: Bìxiù
 msgid "Wall"
@@ -329,7 +431,7 @@ msgstr "壁宿"
 
 # Chinese constellation, native: 参宿, pronounce: Shēnxiù
 msgid "Three Stars"
-msgstr "參宿"
+msgstr "参宿"
 
 # Chinese constellation, native: 氐宿, pronounce: Dīxiù
 msgid "Root"
@@ -373,7 +475,7 @@ msgstr "柳宿"
 
 # Chinese constellation, native: 娄宿, pronounce: Loúxiù
 msgid "Bond"
-msgstr "婁宿"
+msgstr "娄宿"
 
 # Chinese constellation, native: 昴宿, pronounce: Mǎoxiù
 msgid "Hairy Head"
@@ -429,7 +531,7 @@ msgstr "星宿"
 
 # Chinese constellation, native: 虚宿, pronounce: Xūxiù
 msgid "Emptiness"
-msgstr "虛宿"
+msgstr "虚宿"
 
 # Chinese constellation, native: 翼宿, pronounce: Yìxiù
 msgid "Wings"
@@ -437,11 +539,11 @@ msgstr "翼宿"
 
 # Chinese constellation, native: 张宿, pronounce: Zhāngxiù
 msgid "Extended Net"
-msgstr "張宿"
+msgstr "张宿"
 
 # Chinese constellation, native: 轸宿, pronounce: Zhěnxiù
 msgid "Chariot"
-msgstr "軫宿"
+msgstr "轸宿"
 
 # Chinese constellation, native: 紫微右垣, pronounce: Zǐwēi Yòuyuán
 msgid "Purple Forbidden Right Wall"
@@ -457,7 +559,7 @@ msgstr "觜宿"
 
 # Chinese constellation, native: 八谷, pronounce: Bāgǔ
 msgid "Eight Kinds of Crops"
-msgstr "八穀"
+msgstr "八谷"
 
 # Chinese constellation, native: 八魁, pronounce: Bākuí
 msgid "Net for Catching Birds"
@@ -465,11 +567,11 @@ msgstr "八魁"
 
 # Chinese constellation, native: 败瓜, pronounce: Bàiguā
 msgid "Rotten Gourd"
-msgstr "敗瓜"
+msgstr "败瓜"
 
 # Chinese constellation, native: 败臼, pronounce: Bàijiù
 msgid "Decayed Mortar"
-msgstr "敗臼"
+msgstr "败臼"
 
 # Chinese constellation, native: 北斗, pronounce: Běidǒu
 msgid "Northern Dipper"
@@ -481,15 +583,15 @@ msgstr "北河"
 
 # Chinese constellation, native: 北极, pronounce: Běijí
 msgid "Northern Pole"
-msgstr "北極"
+msgstr "北极"
 
 # Chinese constellation, native: 北落师门, pronounce: Běiluò Shīmén
 msgid "North Gate of the Military Camp"
-msgstr "北落師門"
+msgstr "北落师门"
 
 # Chinese constellation, native: 鳖, pronounce: Biē
 msgid "River Turtle"
-msgstr "鼈"
+msgstr "鳖"
 
 # Chinese constellation, native: 波斯, pronounce: Bōsī
 msgid "Persia"
@@ -501,11 +603,11 @@ msgstr "帛度"
 
 # Chinese constellation, native: 参旗, pronounce: Shēnqí
 msgid "Banner of Three Stars"
-msgstr "參旗"
+msgstr "参旗"
 
 # Chinese constellation, native: 厕, pronounce: Cé
 msgid "Toilet"
-msgstr "廁"
+msgstr "厕"
 
 # Chinese constellation, native: 策, pronounce: Cè
 msgid "Whip"
@@ -513,23 +615,23 @@ msgstr "策"
 
 # Chinese constellation, native: 常陈, pronounce: Chángchén
 msgid "Royal Guards"
-msgstr "常陳"
+msgstr "常陈"
 
 # Chinese constellation, native: 车府, pronounce: Chēfǔ
 msgid "Big Yard for Chariots"
-msgstr "車府"
+msgstr "车府"
 
 # Chinese constellation, native: 车骑, pronounce: Chēqí
 msgid "Chariots and Cavalry"
-msgstr "車騎"
+msgstr "车骑"
 
 # Chinese constellation, native: 车肆, pronounce: Chēsì
 msgid "Commodity Market"
-msgstr "車肆"
+msgstr "车肆"
 
 # Chinese constellation, native: 刍藁, pronounce: Chúhāo
 msgid "Hay"
-msgstr "蒭藁"
+msgstr "刍藁"
 
 # Chinese constellation, native: 杵 (箕宿), pronounce: Chǔ (Jīxiù)
 msgid "Pestle (In Winnowing Basket Mansion)"
@@ -541,19 +643,19 @@ msgstr "杵 (危宿)"
 
 # Chinese constellation, native: 长沙 (附轸宿), pronounce: Chángshā
 msgid "Changsha (Vassal of Chariot)"
-msgstr "長沙 (附軫宿)"
+msgstr "长沙 (附轸宿)"
 
 # Chinese constellation, native: 传舍, pronounce: Zhuànshè
 msgid "Guest House"
-msgstr "傳舍"
+msgstr "传舍"
 
 # Chinese constellation, native: 从官 (房宿), pronounce: Cóngguān (Fángxiù)
 msgid "Retinue (In Room Mansion)"
-msgstr "從官 (房宿)"
+msgstr "从官 (房宿)"
 
 # Chinese constellation, native: 从官 (太微垣), pronounce: Cóngguān (Tàiwēiyuán)
 msgid "Retinue (In Supreme Palace Enclosure)"
-msgstr "從官 (太微垣)"
+msgstr "从官 (太微垣)"
 
 # Chinese constellation, native: 大角, pronounce: Dàjiǎo
 msgid "Great Horn"
@@ -569,7 +671,7 @@ msgstr "大陵"
 
 # Chinese constellation, native: 天庙, pronounce: Tiānmiào
 msgid "Celestial Temple"
-msgstr "天廟"
+msgstr "天庙"
 
 # Chinese constellation, native: 帝席, pronounce: Dìxí
 msgid "Mattress of the Emperor"
@@ -581,7 +683,7 @@ msgstr "帝座"
 
 # Chinese constellation, native: 东咸, pronounce: Dōngxián
 msgid "Eastern Door"
-msgstr "東咸"
+msgstr "东咸"
 
 # Chinese constellation, native: 斗, pronounce: Dǒu
 msgid "Dipper for Liquids"
@@ -589,31 +691,31 @@ msgstr "斗"
 
 # Chinese constellation, native: 顿顽, pronounce: Dùnwán
 msgid "Trials"
-msgstr "頓頑"
+msgstr "顿顽"
 
 # Chinese constellation, native: 伐 (附参宿), pronounce: Fá
 msgid "Send Armed Forces To Suppress (Vassal of Three Stars)"
-msgstr "伐 (附參宿)"
+msgstr "伐 (附参宿)"
 
 # Chinese constellation, native: 罚, pronounce: Fá
 msgid "Punishment"
-msgstr "罰"
+msgstr "罚"
 
 # Chinese constellation, native: 飞鱼, pronounce: Fēiyú
 msgid "Flying Fish"
-msgstr "飛魚"
+msgstr "飞鱼"
 
 # Chinese constellation, native: 坟墓 (附危宿), pronounce: Fénmù
 msgid "Tomb (Vassal of Rooftop)"
-msgstr "墳墓 (附危宿)"
+msgstr "坟墓 (附危宿)"
 
 # Chinese constellation, native: 鈇钺, pronounce: Fūyuè
 msgid "Axe"
-msgstr "鈇鉞"
+msgstr "鈇钺"
 
 # Chinese constellation, native: 鈇锧, pronounce: Fūzhì
 msgid "Sickle"
-msgstr "鈇鑕"
+msgstr "鈇锧"
 
 # Chinese constellation, native: 扶筐, pronounce: Fúkuāng
 msgid "Basket for Mulberry Leaves"
@@ -629,19 +731,19 @@ msgstr "附路"
 
 # Chinese constellation, native: 傅说, pronounce: Fù Yuè
 msgid "Fu Yue"
-msgstr "傅說"
+msgstr "傅说"
 
 # Chinese constellation, native: 盖屋, pronounce: Gàiwū
 msgid "Roofing"
-msgstr "葢屋"
+msgstr "盖屋"
 
 # Chinese constellation, native: 杠 (附华盖), pronounce: Gàng
 msgid "Canopy Support (Vassal of Canopy of the Emperor)"
-msgstr "杠 (附華葢)"
+msgstr "杠 (附华盖)"
 
 # Chinese constellation, native: 阁道, pronounce: Gédào
 msgid "Flying Corridor"
-msgstr "閣道"
+msgstr "阁道"
 
 # Chinese constellation, native: 梗河, pronounce: Gěnghé
 msgid "Celestial Lance"
@@ -649,11 +751,11 @@ msgstr "梗河"
 
 # Chinese constellation, native: 勾陈, pronounce: Gōuchén
 msgid "Curved Array"
-msgstr "勾陳"
+msgstr "勾陈"
 
 # Chinese constellation, native: 钩钤 (附房宿), pronounce: Gōuqián
 msgid "Lock (Vassal of Room)"
-msgstr "鈎鈴 (附房宿)"
+msgstr "钩钤 (附房宿)"
 
 # Chinese constellation, native: 狗, pronounce: Gǒu
 msgid "Dog"
@@ -661,11 +763,11 @@ msgstr "狗"
 
 # Chinese constellation, native: 狗国, pronounce: Gǒuguó
 msgid "Territory of Dog"
-msgstr "狗國"
+msgstr "狗国"
 
 # Chinese constellation, native: 贯索, pronounce: Guànsuǒ
 msgid "Coiled Thong"
-msgstr "貫索"
+msgstr "贯索"
 
 # Chinese constellation, native: 爟, pronounce: Guàn
 msgid "Beacon Fire"
@@ -685,7 +787,7 @@ msgstr "海石"
 
 # Chinese constellation, native: 军门, pronounce: Jūnmén
 msgid "Military Gate"
-msgstr "軍門"
+msgstr "军门"
 
 # Chinese constellation, native: 河鼓, pronounce: Hégǔ
 msgid "Drum at the River"
@@ -693,7 +795,7 @@ msgstr "河鼓"
 
 # Chinese constellation, native: 鹤, pronounce: Hè
 msgid "Crane"
-msgstr "鶴"
+msgstr "鹤"
 
 # Chinese constellation, native: 衡, pronounce: Héng
 msgid "Railings"
@@ -713,7 +815,7 @@ msgstr "斛"
 
 # Chinese constellation, native: 虎贲, pronounce: Yézhě
 msgid "Emperor's Bodyguard"
-msgstr "虎賁"
+msgstr "虎贲"
 
 # Chinese constellation, native: 瓠瓜, pronounce: Hùguā
 msgid "Good Gourd"
@@ -721,7 +823,7 @@ msgstr "瓠瓜"
 
 # Chinese constellation, native: 华盖, pronounce: Huágài
 msgid "Canopy of the Emperor"
-msgstr "華葢"
+msgstr "华盖"
 
 # Chinese constellation, native: 宦者, pronounce: Huàngzhě
 msgid "Eunuch Official"
@@ -729,31 +831,31 @@ msgstr "宦者"
 
 # Chinese constellation, native: 火鸟, pronounce: Huǒniǎo
 msgid "Firebird"
-msgstr "火鳥"
+msgstr "火鸟"
 
 # Chinese constellation, native: 积尸, pronounce: Jīshī
 msgid "Cumulative Corpses"
-msgstr "積尸"
+msgstr "积尸"
 
 # Chinese constellation, native: 积尸, pronounce: JīShī
 msgid "Heap of Corpses"
-msgstr "積尸"
+msgstr "积尸"
 
 # Chinese constellation, native: 积水, pronounce: Jīshuǐ
 msgid "Stored water"
-msgstr "積水"
+msgstr "积水"
 
 # Chinese constellation, native: 积薪, pronounce: Jīxīn
 msgid "Pile of Firewood"
-msgstr "積薪"
+msgstr "积薪"
 
 # Chinese constellation, native: 积卒, pronounce: Jīzú
 msgid "Group of Soldiers"
-msgstr "積卒"
+msgstr "积卒"
 
 # Chinese constellation, native: 夹白, pronounce: Jiābái
 msgid "White Patches Attached"
-msgstr "夾白"
+msgstr "夹白"
 
 # Chinese constellation, native: 建, pronounce: Jiàn
 msgid "Establishment"
@@ -761,23 +863,23 @@ msgstr "建"
 
 # Chinese constellation, native: 渐台, pronounce: Jiàntái
 msgid "Clepsydra Terrace"
-msgstr "漸臺"
+msgstr "渐台"
 
 # Chinese constellation, native: 键闭, pronounce: Jiànbì
 msgid "Door Bolt"
-msgstr "鍵閉"
+msgstr "键闭"
 
 # Chinese constellation, native: 金鱼, pronounce: Jīnyú
 msgid "Goldfish"
-msgstr "金魚"
+msgstr "金鱼"
 
 # Chinese constellation, native: 进贤, pronounce: Jìnxiǎn
 msgid "Recommending Virtuous Men"
-msgstr "進賢"
+msgstr "进贤"
 
 # Chinese constellation, native: 积水, pronounce: Jīshuǐ
 msgid "Accumulated Water"
-msgstr "積水"
+msgstr "积水"
 
 # Chinese constellation, native: 九坎, pronounce: Jiǔkǎn
 msgid "Nine Water Wells"
@@ -809,15 +911,15 @@ msgstr "卷舌"
 
 # Chinese constellation, native: 军井, pronounce: Jūnjǐng
 msgid "Military Well"
-msgstr "軍井"
+msgstr "军井"
 
 # Chinese constellation, native: 军南门, pronounce: Nánjūnmén
 msgid "Southern Military Gate"
-msgstr "軍南門"
+msgstr "军南门"
 
 # Chinese constellation, native: 军市, pronounce: Jūnshì
 msgid "Market for Soldiers"
-msgstr "軍市"
+msgstr "军市"
 
 # Chinese constellation, native: 糠, pronounce: Kāng
 msgid "Chaff"
@@ -837,11 +939,11 @@ msgstr "哭"
 
 # Chinese constellation, native: 库楼, pronounce: Kùlóu
 msgid "Arsenal"
-msgstr "庫樓"
+msgstr "库楼"
 
 # Chinese constellation, native: 郎将, pronounce: Lángjiàng
 msgid "Captain of the Bodyguards"
-msgstr "郎將"
+msgstr "郎将"
 
 # Chinese constellation, native: 郎位, pronounce: Lángwèi
 msgid "Officers of the Imperial Guard"
@@ -853,27 +955,27 @@ msgstr "老人"
 
 # Chinese constellation, native: 雷电, pronounce: Léidiàn
 msgid "Thunder and Lightning"
-msgstr "雷電"
+msgstr "雷电"
 
 # Chinese constellation, native: 垒壁阵, pronounce: Lěibìzhèn
 msgid "Line of Ramparts"
-msgstr "壘壁陣"
+msgstr "垒壁阵"
 
 # Chinese constellation, native: 离宫 (附室宿), pronounce: Lígōng
 msgid "Resting Palace (Vassal of Encampment)"
-msgstr "離宮 (附室宿)"
+msgstr "离宫 (附室宿)"
 
 # Chinese constellation, native: 离瑜, pronounce: Líyù
 msgid "Jade Ornament on Ladies' Wear"
-msgstr "離瑜"
+msgstr "离瑜"
 
 # Chinese constellation, native: 离珠, pronounce: Lízhū
 msgid "Pearls on Ladies' Wear"
-msgstr "離珠"
+msgstr "离珠"
 
 # Chinese constellation, native: 砺石, pronounce: Lìshí
 msgid "Whetstone"
-msgstr "礪石"
+msgstr "砺石"
 
 # Chinese constellation, native: 列肆, pronounce: Lièsì
 msgid "Jewel Market"
@@ -881,7 +983,7 @@ msgstr "列肆"
 
 # Chinese constellation, native: 灵台, pronounce: Língtaí
 msgid "Astronomical Observatory"
-msgstr "靈臺"
+msgstr "灵台"
 
 # Chinese constellation, native: 六甲, pronounce: Liùjiǎ
 msgid "Six Jia"
@@ -889,15 +991,15 @@ msgstr "六甲"
 
 # Chinese constellation, native: 罗堰, pronounce: Luóyàn
 msgid "Network of Dykes"
-msgstr "羅堰"
+msgstr "罗堰"
 
 # Chinese constellation, native: 马腹, pronounce: Mǎfù
 msgid "Horse's Abdomen"
-msgstr "馬腹"
+msgstr "马腹"
 
 # Chinese constellation, native: 马尾, pronounce: Mǎwěi
 msgid "Horse's Tail"
-msgstr "馬尾"
+msgstr "马尾"
 
 # Chinese constellation, native: 蜜蜂, pronounce: Mìfēng
 msgid "Bee"
@@ -917,39 +1019,39 @@ msgstr "南河"
 
 # Chinese constellation, native: 东瓯, pronounce: Dōngōu
 msgid "Dongou"
-msgstr "東甌"
+msgstr "东瓯"
 
 # Chinese constellation, native: 南门, pronounce: Nánmén
 msgid "Southern Gate"
-msgstr "南門"
+msgstr "南门"
 
 # Chinese constellation, native: 内厨, pronounce: Nèichú
 msgid "Inner Kitchen"
-msgstr "內廚"
+msgstr "内厨"
 
 # Chinese constellation, native: 内阶, pronounce: Nèijiē
 msgid "Inner Steps"
-msgstr "內階"
+msgstr "内阶"
 
 # Chinese constellation, native: 内平, pronounce: Nèipíng
 msgid "High Judge"
-msgstr "內平"
+msgstr "内平"
 
 # Chinese constellation, native: 内屏, pronounce: Nèipíng
 msgid "Inner Screen"
-msgstr "內屏"
+msgstr "内屏"
 
 # Chinese constellation, native: 辇道, pronounce: Niǎndào
 msgid "Imperial Passageway"
-msgstr "輦道"
+msgstr "辇道"
 
 # Chinese constellation, native: 鸟喙, pronounce: Niǎohuì
 msgid "Bird's Beak"
-msgstr "鳥喙"
+msgstr "鸟喙"
 
 # Chinese constellation, native: 农丈人, pronounce: Nóngzhàngrén
 msgid "Peasant"
-msgstr "農丈人"
+msgstr "农丈人"
 
 # Chinese constellation, native: 女床, pronounce: Nǚchuáng
 msgid "Woman's Bed"
@@ -961,7 +1063,7 @@ msgstr "女史"
 
 # Chinese constellation, native: 霹雳, pronounce: Pīlì
 msgid "Thunderbolt"
-msgstr "霹靂"
+msgstr "霹雳"
 
 # Chinese constellation, pronounce: Ping
 msgid "Judging"
@@ -985,11 +1087,11 @@ msgstr "器府"
 
 # Chinese constellation, native: 骑官, pronounce: Qíguān
 msgid "Imperial Guards"
-msgstr "騎官"
+msgstr "骑官"
 
 # Chinese constellation, native: 骑阵将军, pronounce: Qízhèn Jiāngjūn
 msgid "Chariots and Cavalry General"
-msgstr "騎鎮將軍"
+msgstr "骑阵将军"
 
 # Chinese constellation, native: 泣, pronounce: Qì
 msgid "Weeping"
@@ -1001,11 +1103,11 @@ msgstr "天稷"
 
 # Chinese constellation, native: 青丘, pronounce: Qīngqiū
 msgid "Green Hill"
-msgstr "青邱"
+msgstr "青丘"
 
 # Chinese constellation, native: 阙丘, pronounce: Quèqiū
 msgid "Palace Gate"
-msgstr "闕丘"
+msgstr "阙丘"
 
 # Chinese constellation, native: 人, pronounce: Rén
 msgid "Humans"
@@ -1029,7 +1131,7 @@ msgstr "三角形"
 
 # Chinese constellation, native: 三师, pronounce: Sānshī
 msgid "Three Top Instructors"
-msgstr "三師"
+msgstr "三师"
 
 # Chinese constellation, native: 三台, pronounce: Sāntái
 msgid "Three Steps"
@@ -1037,7 +1139,7 @@ msgstr "三台"
 
 # Chinese constellation, native: 尚书, pronounce: Shàngshū
 msgid "Royal Secretary"
-msgstr "尚書"
+msgstr "尚书"
 
 # Chinese constellation, native: 少微, pronounce: Shàowēi
 msgid "Junior Officers"
@@ -1057,11 +1159,11 @@ msgstr "蛇尾"
 
 # Chinese constellation, native: 神宫 (附尾宿), pronounce: shéngōng
 msgid "Changing Room (Vassal of Tail)"
-msgstr "神宮 (附尾宿)"
+msgstr "神宫 (附尾宿)"
 
 # Chinese constellation, native: 十二国, pronounce: Shíèrguó
 msgid "Twelve States"
-msgstr "十二國"
+msgstr "十二国"
 
 # Chinese constellation, native: 十字架, pronounce: Shízìjià
 msgid "Cross"
@@ -1073,11 +1175,11 @@ msgstr "屎"
 
 # Chinese constellation, native: 市楼, pronounce: Shìlóu
 msgid "Municipal Office"
-msgstr "市樓"
+msgstr "市楼"
 
 # Chinese constellation, native: 势, pronounce: Shì
 msgid "Eunuch"
-msgstr "勢"
+msgstr "势"
 
 # Chinese constellation, native: 水府, pronounce: Shuǐfǔ
 msgid "Official for Irrigation"
@@ -1101,7 +1203,7 @@ msgstr "司怪"
 
 # Chinese constellation, native: 司禄, pronounce: Sīlù
 msgid "Deified Judge of Rank"
-msgstr "司祿"
+msgstr "司禄"
 
 # Chinese constellation, native: 司命, pronounce: Sīmìng
 msgid "Deified Judge of Life"
@@ -1113,19 +1215,19 @@ msgstr "司危"
 
 # Chinese constellation, native: 四渎, pronounce: Sìdú
 msgid "Four Channels"
-msgstr "四瀆"
+msgstr "四渎"
 
 # Chinese constellation, native: 四辅, pronounce: Sìfǔ
 msgid "Four Advisors"
-msgstr "四輔"
+msgstr "四辅"
 
 # Chinese constellation, native: 孙, pronounce: Sūn
 msgid "Grandson"
-msgstr "孫"
+msgstr "孙"
 
 # Chinese constellation, native: 太阳守, pronounce: Tàiyángshǒu
 msgid "Guard of the Sun"
-msgstr "太陽守"
+msgstr "太阳守"
 
 # Chinese constellation, native: 太乙, pronounce: Tàiyǐ
 msgid "First Great One"
@@ -1157,15 +1259,15 @@ msgstr "天弁"
 
 # Chinese constellation, native: 天仓, pronounce: Tiāncāng
 msgid "Square Celestial Granary"
-msgstr "天倉"
+msgstr "天仓"
 
 # Chinese constellation, native: 天谗, pronounce: Tiānchán
 msgid "Celestial Slander"
-msgstr "天讒"
+msgstr "天谗"
 
 # Chinese constellation, native: 天厨, pronounce: Tiānchú
 msgid "Celestial Kitchen"
-msgstr "天廚"
+msgstr "天厨"
 
 # Chinese constellation, native: 天船, pronounce: Tiānchuán
 msgid "Celestial Boat"
@@ -1177,7 +1279,7 @@ msgstr "天床"
 
 # Chinese constellation, native: 天大将军, pronounce: Tiāndàjiāngjūn
 msgid "Great General of Heaven"
-msgstr "天大將軍"
+msgstr "天大将军"
 
 # Chinese constellation, native: 天桴, pronounce: Tiānfú
 msgid "Celestial Drumstick"
@@ -1185,11 +1287,11 @@ msgstr "天桴"
 
 # Chinese constellation, native: 天辐, pronounce: Tiānfú
 msgid "Celestial Spokes"
-msgstr "天輻"
+msgstr "天辐"
 
 # Chinese constellation, native: 天纲, pronounce: Tiāngāng
 msgid "Materials for Making Tents"
-msgstr "天綱"
+msgstr "天纲"
 
 # Chinese constellation, native: 天高, pronounce: Tiāngāo
 msgid "Celestial High Terrace"
@@ -1197,7 +1299,7 @@ msgstr "天高"
 
 # Chinese constellation, native: 天钩, pronounce: Tiāngōu
 msgid "Celestial Hook"
-msgstr "天鉤"
+msgstr "天钩"
 
 # Chinese constellation, native: 天狗, pronounce: Tiāngǒu
 msgid "Celestial Dog"
@@ -1205,7 +1307,7 @@ msgstr "天狗"
 
 # Chinese constellation, native: 天关, pronounce: Tiānguān
 msgid "Celestial Pass"
-msgstr "天關"
+msgstr "天关"
 
 # Chinese constellation, native: 天皇大帝, pronounce: Tiānhuángdàdì
 msgid "Great Emperor of Heaven"
@@ -1221,15 +1323,15 @@ msgstr "天溷"
 
 # Chinese constellation, native: 天鸡, pronounce: Tiānjī
 msgid "Celestial Cock"
-msgstr "天雞"
+msgstr "天鸡"
 
 # Chinese constellation, native: 天记, pronounce: Tiānjì
 msgid "Judge for Estimating the Age of Animals"
-msgstr "天記"
+msgstr "天记"
 
 # Chinese constellation, native: 天纪, pronounce: Tiānjì
 msgid "Celestial Discipline"
-msgstr "天紀"
+msgstr "天纪"
 
 # Chinese constellation, native: 天江, pronounce: Tiānjiāng
 msgid "Celestial River"
@@ -1241,7 +1343,7 @@ msgstr "天街"
 
 # Chinese constellation, native: 天节, pronounce: Tiānjié
 msgid "Celestial Tally"
-msgstr "天節"
+msgstr "天节"
 
 # Chinese constellation, native: 天津, pronounce: Tiānjīn
 msgid "Celestial Ford"
@@ -1249,7 +1351,7 @@ msgstr "天津"
 
 # Chinese constellation, native: 天厩, pronounce: Tiānjiù
 msgid "Celestial Stable"
-msgstr "天廄"
+msgstr "天厩"
 
 # Chinese constellation, native: 天狼, pronounce: Tiānláng
 msgid "Celestial Wolf"
@@ -1261,7 +1363,7 @@ msgstr "天牢"
 
 # Chinese constellation, native: 天垒城, pronounce: Tiānlěichéng
 msgid "Celestial Ramparts"
-msgstr "天壘城"
+msgstr "天垒城"
 
 # Chinese constellation, native: 天理, pronounce: Tiānlǐ
 msgid "Judge for Nobility"
@@ -1269,19 +1371,19 @@ msgstr "天理"
 
 # Chinese constellation, native: 天廪, pronounce: Tiānlǐn
 msgid "Celestial Foodstuff"
-msgstr "天廩"
+msgstr "天廪"
 
 # Chinese constellation, native: 天门, pronounce: Tiānmén
 msgid "Celestial Gate"
-msgstr "天門"
+msgstr "天门"
 
 # Chinese constellation, native: 天钱, pronounce: Tiānqián
 msgid "Celestial Money"
-msgstr "天錢"
+msgstr "天钱"
 
 # Chinese constellation, native: 天枪, pronounce: Tiānqiāng
 msgid "Celestial Spear"
-msgstr "天槍"
+msgstr "天枪"
 
 # Chinese constellation, native: 天囷, pronounce: Tiānqūn
 msgid "Circular Celestial Granary"
@@ -1313,7 +1415,7 @@ msgstr "天乙"
 
 # Chinese constellation, native: 天阴, pronounce: Tiānyīn
 msgid "Celestial Yin Force"
-msgstr "天陰"
+msgstr "天阴"
 
 # Chinese constellation, native: 天庾, pronounce: Tiānyǔ
 msgid "Ricks of Grain"
@@ -1321,11 +1423,11 @@ msgstr "天庾"
 
 # Chinese constellation, native: 天渊, pronounce: Tiānyuān
 msgid "Celestial Spring"
-msgstr "天淵"
+msgstr "天渊"
 
 # Chinese constellation, native: 天园, pronounce: Tiānyuán
 msgid "Celestial Orchard"
-msgstr "天園"
+msgstr "天园"
 
 # Chinese constellation, native: 天苑, pronounce: Tiānyuàn
 msgid "Celestial Meadows"
@@ -1341,7 +1443,7 @@ msgstr "天柱"
 
 # Chinese constellation, native: 天樽, pronounce: Tiānzūn
 msgid "Celestial Wine Cup"
-msgstr "天罇"
+msgstr "天樽"
 
 # Chinese constellation, native: 屠肆, pronounce: Túsì
 msgid "Butcher's Shops"
@@ -1361,7 +1463,7 @@ msgstr "土司空"
 
 # Chinese constellation, native: 外厨, pronounce: Wàichú
 msgid "Outer Kitchen"
-msgstr "外廚"
+msgstr "外厨"
 
 # Chinese constellation, native: 外屏, pronounce: Wàipíng
 msgid "Outer Fence"
@@ -1373,7 +1475,7 @@ msgstr "王良"
 
 # Chinese constellation, native: 王良 (土司空), pronounce: Tǔsīkōng
 msgid "Master of Constructions (In Legs Mansion)"
-msgstr "土司空 (奎宿)"
+msgstr "王良 (土司空)"
 
 # Chinese constellation, native: 文昌, pronounce: Wénchāng
 msgid "Administrative Center"
@@ -1381,11 +1483,11 @@ msgstr "文昌"
 
 # Chinese constellation, native: 五车, pronounce: Wǔchē
 msgid "Five Chariots"
-msgstr "五車"
+msgstr "五车"
 
 # Chinese constellation, native: 五帝内座, pronounce: Wǔdì NèiZuò
 msgid "Interior Seats of the Five Emperors"
-msgstr "五帝內座"
+msgstr "五帝内座"
 
 # Chinese constellation, native: 五帝座, pronounce: Wǔdì Zuò
 msgid "Seats of the Five Emperors"
@@ -1393,11 +1495,11 @@ msgstr "五帝座"
 
 # Chinese constellation, native: 五诸侯, pronounce: Wǔ Zhūhóu
 msgid "Five Feudal Kings"
-msgstr "五諸侯"
+msgstr "五诸侯"
 
 # Chinese constellation, native: 五诸侯, pronounce: Wǔ Zhūhóu
 msgid "Five Lords"
-msgstr "五諸侯"
+msgstr "五诸侯"
 
 # Chinese constellation, native: 西咸, pronounce: Xīxián
 msgid "Western Door"
@@ -1425,39 +1527,39 @@ msgstr "幸臣"
 
 # Chinese constellation, native: 虚梁, pronounce: Xūliáng
 msgid "Temple"
-msgstr "虛梁"
+msgstr "虚梁"
 
 # Chinese constellation, native: 轩辕, pronounce: Xuānyuán
 msgid "Xuanyuan"
-msgstr "軒轅"
+msgstr "轩辕"
 
 # Chinese constellation, native: 玄戈, pronounce: Xuángē
 msgid "Sombre Lance"
-msgstr "元戈"
+msgstr "玄戈"
 
 # Chinese constellation, native: 钺 (附井宿), pronounce: Yué
 msgid "Battle Axe (Vassal of Well)"
-msgstr "鉞 (附井宿)"
+msgstr "钺 (附井宿)"
 
 # Chinese constellation, native: 阳门, pronounce: Yángmén
 msgid "Gate of Yang"
-msgstr "陽門"
+msgstr "阳门"
 
 # Chinese constellation, native: 野鸡, pronounce: Yějī
 msgid "Wild Cockerel"
-msgstr "野雞"
+msgstr "野鸡"
 
 # Chinese constellation, native: 谒者, pronounce: Yézhě
 msgid "Usher to the Court"
-msgstr "謁者"
+msgstr "谒者"
 
 # Chinese constellation, native: 异雀, pronounce: Yìquè
 msgid "Exotic Bird"
-msgstr "異雀"
+msgstr "异雀"
 
 # Chinese constellation, native: 阴德, pronounce: Yīndé
 msgid "Hidden Virtue"
-msgstr "陰德"
+msgstr "阴德"
 
 # Chinese constellation, native: 右更, pronounce: Yòugēng
 msgid "Official in Charge of Pasturing"
@@ -1469,15 +1571,15 @@ msgstr "右旗"
 
 # Chinese constellation, native: 右摄提, pronounce: Yòushètí
 msgid "Right Conductor"
-msgstr "右攝提"
+msgstr "右摄提"
 
 # Chinese constellation, native: 鱼, pronounce: Yú
 msgid "Fish"
-msgstr "魚"
+msgstr "鱼"
 
 # Chinese constellation, native: 羽林军, pronounce: Yǔlínjūn
 msgid "Palace Guard"
-msgstr "羽林軍"
+msgstr "羽林军"
 
 # Chinese constellation, native: 玉井, pronounce: Yùjǐng
 msgid "Jade Well"
@@ -1493,11 +1595,11 @@ msgstr "月"
 
 # Chinese constellation, native: 附耳 (附毕宿), pronounce: Fùěr
 msgid "Whisper (Vassal of Net)"
-msgstr "附耳 (附畢宿)"
+msgstr "附耳 (附毕宿)"
 
 # Chinese constellation, native: 云雨, pronounce: Yúnyǔ
 msgid "Cloud and Rain"
-msgstr "雲雨"
+msgstr "云雨"
 
 # Chinese constellation, native: 造父, pronounce: Zàofǔ
 msgid "Zaofu"
@@ -1505,7 +1607,7 @@ msgstr "造父"
 
 # Chinese constellation, native: 长垣, pronounce: Chángyuán
 msgid "Long Wall"
-msgstr "長垣"
+msgstr "长垣"
 
 # Chinese constellation, native: 丈人, pronounce: Zhàngrén
 msgid "Grandfather"
@@ -1513,11 +1615,11 @@ msgstr "丈人"
 
 # Chinese constellation, native: 招摇, pronounce: Zhāoyáo
 msgid "Twinkling Indicator"
-msgstr "招搖"
+msgstr "招摇"
 
 # Chinese constellation, native: 辅 (附北斗), pronounce: Fǔ
 msgid "Assistant (Vassal of Northern Dipper)"
-msgstr "輔 (附北斗)"
+msgstr "辅 (附北斗)"
 
 # Chinese constellation, native: 折威, pronounce: Zhéwēi
 msgid "Executions"
@@ -1525,19 +1627,19 @@ msgstr "折威"
 
 # Chinese constellation, native: 阵车, pronounce: Zhènchē
 msgid "Battle Chariots"
-msgstr "陣車"
+msgstr "阵车"
 
 # Chinese constellation, native: 右辖 (附轸宿), pronounce: Yoùxiá
 msgid "Right linchpin (Vassal of Chariot)"
-msgstr "右轄 (附軫宿)"
+msgstr "右辖 (附轸宿)"
 
 # Chinese constellation, native: 织女, pronounce: Zhinǚ
 msgid "Weaving Girl"
-msgstr "織女"
+msgstr "织女"
 
 # Chinese constellation, native: 左辖 (附轸宿), pronounce: Zuǒxiá
 msgid "Left linchpin (Vassal of Chariot)"
-msgstr "左轄 (附軫宿)"
+msgstr "左辖 (附轸宿)"
 
 # Chinese constellation, native: 周鼎, pronounce: Zhōudǐng
 msgid "Tripod of the Zhou"
@@ -1545,11 +1647,11 @@ msgstr "周鼎"
 
 # Chinese constellation, native: 诸王, pronounce: Zhūwáng
 msgid "Feudal Kings"
-msgstr "諸王"
+msgstr "诸王"
 
 # Chinese constellation, native: 柱 (毕宿), pronounce: Zhù (Bìxiù)
 msgid "Pillars (In Net Mansion)"
-msgstr "柱 (畢宿)"
+msgstr "柱 (毕宿)"
 
 # Chinese constellation, native: 柱 (角宿), pronounce: Zhù (Jiǎoxiù)
 msgid "Pillars (In Horn Mansion)"
@@ -1585,7 +1687,7 @@ msgstr "左旗"
 
 # Chinese constellation, native: 左摄提, pronounce: Zuǒshètí
 msgid "Left Conductor"
-msgstr "左攝提"
+msgstr "左摄提"
 
 # Chinese constellation, native: 座旗, pronounce: Zuòqí
 msgid "Seat Flags"
