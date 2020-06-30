@@ -14,7 +14,7 @@
           {"pos": [417, 393], "hip": 53910}
         ]
       },
-      "common_name": {"english": "'Aramii' (organized group of thieves)", "native": "арамии"}
+      "common_name": {"english": "Thieves", "pronounce": "Aramii", "native": "арамии"}
     },
     {
       "id": "CON macedonian 002",
@@ -28,7 +28,7 @@
           {"pos": [311, 400], "hip": 17499}
         ]
       },
-      "common_name": {"english": "Mother Hen", "native": "квачка"}
+      "common_name": {"english": "Mother Hen", "pronounce": "Kvachka", "native": "квачка"}
     },
     {
       "id": "CON macedonian 003",
@@ -215,7 +215,7 @@
           {"pos": [443, 233], "hip": 75695}
         ]
       },
-      "common_name": {"english": "Round Table", "native": "софра"}
+      "common_name": {"english": "Sofra", "native": "софра"}
     },
     {
       "id": "CON macedonian 017",
@@ -257,10 +257,13 @@
           {"pos": [213, 304], "hip": 3179}
         ]
       },
-      "common_name": {"english": "Part of Plough 'Ushi'", "native": "уши"}
+      "common_name": {"english": "Ears", "pronounce": "Ushi", "native": "уши"}
     }
   ],
   "common_names": {
-    "HIP 11767": [{"english": "Mediterranean star"}]
+    "HIP 11767": [{"english": "Mediterranean star"}],
+    "HIP 25428": [{"english": "Rooster", "pronounce": "Petal"}],
+    "NAME Andromeda Galaxy": [{"english": "Threshing floor", "pronounce": "Gumno", "description": "Circular and foggy appearance of the Andromeda galaxy (М31) evoked people to see the threshing floor (_Gumno_) with straw from where the Priest was stealing from his Godson."}],
+    "NAME Milky Way": [{"english": "Priest’s Straw", "pronounce": "Popova Slama", "description": "Uur galaxy, the Milky Way by its appearance is dominant on the summer sky."}]
   }
 }
