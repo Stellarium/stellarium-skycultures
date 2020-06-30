@@ -2,7 +2,11 @@
 
 ## Introduction
 
-The Maori (New Zealand) night sky is similar to the Polynesian night sky. But it differs enough to warrant it's own sky culture. Maritime themes are central to the Maori sky culture and were used extensively in nautical navigation. Along with most other cultures, the rising and setting of prominent stars were used to signal planting and harvesting seasons.
+The Maori (New Zealand) night sky is similar to the Polynesian night sky, but
+differs enough to warrant its own sky culture. Maritime themes are central to
+the Maori sky culture and were used extensively in nautical navigation. Like
+for most other sky cultures, the rising and setting of prominent stars were
+used to signal planting and harvesting seasons.
 
 ## Description
 
@@ -15,7 +19,8 @@ Only four constellations are known from the native navigators of New Zealand.
 
 ## Authors
 
-This sky culture was contributed by Stellarium user [_Dan Smale_](mailto:d.smale(at)niwa.co.nz)
+This sky culture is a contribution of Stellarium user [Dan
+Smale](mailto:d.smale@niwa.co.nz)
 
 ## Licence
 
