@@ -2,15 +2,35 @@
 
 ## Introduction
 
-As in all Polynesian star lore, Tongan sky culture descends from the practical application of nautical navigation.
+As in all Polynesian star lore, Tongan sky culture descends from the practical
+application of nautical navigation.
 
 ## Description
 
-In some circumstances separation of individual star names from "star path" names cannot be resolved. A star may have multiple names 1) if the star is part of numerous star paths and 2) since the naming of stars can differ depending on which Tongan island group it originates from. The nomenclature of stars is approximated based on the limited resources available.
+Whilst the most-notable/common stars and constellations (i.e. Orion, Pleiades,
+Crux) are identified in Tongan star lore there are two notable exceptions.
+There is an absence of naming of the North star (Polaris: α UMi). This is
+peculiar considering the latitude of the Tongan islands and the prominence of
+this star at certain times of the year. In the event of any northerly journeys
+from Tonga such an important navigational landmark could not have possibly gone
+unnoticed. The constellation of Scorpio (parts in, or stars of) are also absent
+from Tongan star lore. This is surprising since the vast majority of star lore
+– globally and Polynesian – has Scorpio as a central constellation due to it
+being easily identified and that it is nearly directly opposite Orion in the
+night sky. Stellarium team would welcome any further knowledge on these two
+anomalies.
 
-Whilst the most-notable/common stars and constellations (i.e. Orion, Pleiades, Crux) are identified in Tongan star lore there are two notable exceptions. There is an absence of naming of the North star (Polaris: α UMi). This is peculiar considering the latitude of the Tongan islands and the prominence of this star at certain times of the year. In the event of any northerly journeys from Tonga such an important navigational landmark could not have possibly gone unnoticed. The constellation of Scorpio (parts in, or stars of) are also absent from Tongan star lore. This is surprising since the vast majority of star lore – globally and Polynesian – has Scorpio as a central constellation due to it being easily identified and that it is nearly directly opposite Orion in the night sky (Stellarium would welcome any further knowledge on these two anomalies).
+Common ancestry of Polynesian star lore's is evident in the similarities in the
+naming of stars. For example the Pleiades is called _Mataliki_ in Tongan,
+_Matariki_ in Maori and _Makali'i_ in Hawaiian.
 
-Common ancestry of Polynesian star lore's is evident in the similarities in the labelling of stars. For example the Pleiades is called Mataliki in Tongan, Matariki in Maori and Makali'i in Hawaiian.
+In some circumstances separation of individual star names from "star path"
+names cannot be resolved. A star may have multiple names 1) if the star is part
+of numerous star paths and 2) since the naming of stars can differ depending on
+which Tongan island group it originates from. The nomenclature of stars is
+approximated based on the limited resources available.
+
+## Extras
 
 ### Nomenclature
 
@@ -24,12 +44,12 @@ Common ancestry of Polynesian star lore's is evident in the similarities in the 
  | Ha'amonga | Ecliptic |
  | Mahina | Moon |
  | La'a | Sun |
+ | Tapukitea | Venus |
+ | Matamemea | Mars |
  | Fetu'u | Star (in general) |
  | Fetu'ufuka | Comet |
  | 'Umata | Rainbow |
  | Fetu'u'Esiafi | Falling star |
- | tapukitea | Venus |
- | Matamemea | Mars |
  | Ma'afutoka (same as SMC) | Canopus |
  | Ma'afulele (same as LMC) | Sirius |
  | Velitoa hififo | Rigel |
@@ -42,7 +62,7 @@ Common ancestry of Polynesian star lore's is evident in the similarities in the 
  | Toloalahi | False Cross |
 
 
-__Tongan constellations__
+### Tongan constellations
 
  | Tongan name | Designation or notes |
  |-------------|-------|
@@ -55,8 +75,6 @@ __Tongan constellations__
  | Fungasia | Toliman and/or Agena |
  | Houmatoloa (Toloa, toloatonga, toloalahi) | — |
 
---------------------
-
 ## References
 
  - [#1]: Velt Kik, _Ko E Ngaahi fetu'u 'o, Stars over tonga_, 1990 'Atenisi University, Nuku'alofa , Tonga Government printing department.
@@ -65,9 +83,10 @@ __Tongan constellations__
 
 ## Authors
 
-This sky culture was contributed by Stellarium user [Dan Smale](d.smale@niwa.co.nz)
+This sky culture was contributed by Stellarium user [Dan
+Smale](d.smale@niwa.co.nz)
 
-technical adaption: Susanne M Hoffmann
+Technical adaption: Susanne M Hoffmann
 
 ## Licence
 
