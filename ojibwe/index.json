@@ -98,7 +98,8 @@
           {"pos": [800, 278], "hip": 78265}
         ]
       },
-      "common_name": {"english": "Ojibwe Hero Teacher", "native": "Nanaboujou"}
+      "common_name": {"english": "Nanaboujou", "native": "Nanaboujou"},
+      "description": "Ojibwe Hero Teacher."
     },
     {
       "id": "CON ojibwe 008",
@@ -144,7 +145,12 @@
     }
   ],
   "common_names": {
+    "NAME Venus": [{"english": "Women's Star", "native": "Ikwe'anung"}, {"english": "Morning Star", "native": "Waabun'anung"}, {"english": "Evening Star", "native": "Onaagoshi'anung"}],
+    "NAME Sun": [{"native": "Giizis", "description": "Sun"}],
+    "NAME Moon": [{"english": "Night Sun", "native": "Dibik-giizis"}],
     "HIP 11767": [{"english": "North Star", "native": "Giwedin’Anung"}],
-    "HIP 17702": [{"english": "Sweating Stones", "native": "Madoo’asinik"}]
+    "HIP 17702": [{"english": "Sweating Stones", "native": "Madoo’asinik"}],
+    "NAME Pleiades": [{"english": "Hole in the Sky", "native": "Bugonagiizhig"}, {"english": "Sweating Stones", "native": "Madoo'asinik"}],
+    "NAME Milky Way": [{"english": "Spirit Path", "native": "Jiibaykona"}, {"english": "River of Souls", "native": "Jiibay Ziibi"}]
   }
 }
