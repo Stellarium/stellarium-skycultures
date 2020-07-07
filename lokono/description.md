@@ -15,13 +15,13 @@ northwestern Guyana, through Suriname, to northwestern French Guiana.
 The _Lokono_, also known as _Arawak_, are an indigenous people of the Guianas,
 whose territory stretches along the coast of the Atlantic Ocean, from
 northwestern Guyana, through Suriname, to northwestern French Guiana (see
-map).[#1] The Lokono speak a language that belongs to the Arawakan language
+map) [#1]. The Lokono speak a language that belongs to the Arawakan language
 family, one of the largest linguistic groupings on the continent. Like many of
 their linguistic relatives, the Lokono are agriculturalists specializing in the
 farming of manioc (_Manihot esculenta_), who also practice fishing, hunting,
 and gathering of wild plant. However, as one of the first indigenous groups
 that was encountered by the Europeans at the time of conquest, the Lokono have
-been in contact with non-indigenous populations for over 500 years.[#2] This
+been in contact with non-indigenous populations for over 500 years [#2]. This
 contact has intensified in the last century, leading to a substantial loss of
 the Lokono language, traditional material and immaterial culture, changes in
 subsistence practices, and in particular to the disappearance of _medicine-men_,
@@ -59,7 +59,7 @@ about all the celestial objects named in the table below.
 | _Alêti_ | Torch | β Centauri  |
 | _Anorhâkoya_ | Spirit of the cocoi heron | Ursa Major |
 | _Honolikoya_ | Spirit of the rufescent tiger heron | unknown |
-| _Kasorhowakoya _ | Spirit of the four-eyed fish | λ Sco and υ Sco |
+| _Kasorhowakoya_ | Spirit of the four-eyed fish | λ Sco and υ Sco |
 | _Katarokoya_ | Spirit of the green sea turtle | Hercules |
 | _Hikorhikoya_ | Spirit of the yellow-footed tortoise | unknown |
 | _Kwakoya_ | Spirit of the blue crab | Orion |
@@ -67,8 +67,8 @@ about all the celestial objects named in the table below.
 | _Awarhakoya_ | Spirit of the awara palm | Coma Berenices |
 | _Hadorhikoya_ | Spirit of the red acouchi  | unknown |
 | _Hokorherokoya_ | Spirit of the red-rumped agouti | unknown |
-| _Kabadarokoya _ | Spirit of the jaguar | unknown |
-| _Korhirhwathekoya _ | Spirit of the ocelot | unknown |
+| _Kabadarokoya_ | Spirit of the jaguar | unknown |
+| _Korhirhwathekoya_ | Spirit of the ocelot | unknown |
 | _Hawkoya_ | Spirit of the pale-throated sloth | unknown |
 | _Warhemedokoya_ | Spirit of the two-toed sloth | unknown |
 | _Yôwanakoya_ | Spirit of the green iguana | unknown |
@@ -189,7 +189,7 @@ appearance traditionally commences the Lokono calendar year. Following _Yôkoro
 wiwa_ are the numerous _koya_-constellations, each signaling a different season
 in the Lokono calendar. On the other hand, _Wiwa kalemero_, literally ‘Shining
 star’ (Jupiter) appears to have been singled out solely due to its brightness.
-Apart from _wiwa _and _koya_, there are no generic terms distinguishing
+Apart from _wiwa_ and _koya_, there are no generic terms distinguishing
 planets, stars, moons, suns, galaxies and so on in the Lokono language. For
 this reason, the Lokono equivalent of the Milky Way, for instance, is included
 among other constellations.
@@ -212,7 +212,7 @@ star groups. Finally, there are restrictions on looking at some celestial
 bodies, since it is believed that a spirt can harm one if looked at [#5]. For
 instance, by full moon, mothers covered the eyes of their children so that they
 would not become sick [#6]. Young people were also told not to look at _Yôkoro
-wiwa_ (Pleiades), or else they would not grow.[#7] Such practices applied also
+wiwa_ (Pleiades), or else they would not grow [#7]. Such practices applied also
 to other objects believed to harbor powerful spirits and included other ways of
 avoiding eye-contact with spirits such rubbing peppers, limes, or salt into
 one’s eyes.
@@ -224,11 +224,11 @@ _Hadali_ 'Sun'
 The Lokono term for the Sun is _Hadali_, also pronounced as _Adali_. Claaudius
 de Goeje suggests that the variously spelled names of the Lokono culture hero,
 the first medicine-man known as _Harlitvanli_, _Haliwalika_, _Halwanli_,
-_Hariwalli_, and _Arawanili_, and sometimes _Arawidi,_ may all refer to the
+_Hariwalli_, and _Arawanili_, and sometimes _Arawidi_, may all refer to the
 same hero identified as the Sun [#8]. While we cannot confirm this hypothesis,
 the myth of _Arawidi_ is worth mentioning. In the Lokono myth, _Arawidi_, the
 Sun, is the father of a man that becomes the constellation _Mabukuli_ ‘Man
-without a thigh’ (Orion’s belt) [#9],[#10],[#11]. According to the story, the
+without a thigh’ (Orion’s belt) [#9][#10][#11]. According to the story, the
 Sun used to come to earth in the shape of a man called _Arawidi_ to meet his
 lover with whom he had twins. In a later episode of the myth, one of the twins
 marries a woman, whose mother the couple decide to kill. When they try to
@@ -259,7 +259,7 @@ the Lokono, the face of the moon is dirty today. The Moon appears also in
 another myth. In the Lokono myth about a man stuck on an uninhabited island
 mentioned above, another boat passes the man, but this time inside is the Moon,
 which decides to help the man, since people are always happy to see the Moon
-come out at night.[#11] The Moon and Sun are also depicted as opponents. In
+come out at night [#11]. The Moon and Sun are also depicted as opponents. In
 previous times, the Lokono believed that the eclipse of the Moon is its death
 (_kathi ôdon_ ‘moon dying’) and would keep watch all night.[#6] The Lokono say
 during the eclipse of the Moon that the Moon has fallen asleep on the Sun’s
@@ -271,19 +271,19 @@ _Warhokoma_ 'Venus'
 
 The planet Venus, both when it appears in the morning as the Morning Star and
 when it appears in the evening as the Evening Star, is called _Warhokoma_ by
-the Lokono.[#8],[#14],[#15] Charles Dance, on the other hand, reports the terms
+the Lokono [#8][#14][#15]. Charles Dance, on the other hand, reports the terms
 _Eweiwah_ and _Huewah_, probably the equivalents of the general term _wiwa_
-‘star’ which can be used for any shining celestial body.[#16] The Lokono also
+‘star’ which can be used for any shining celestial body [#16]. The Lokono also
 speak of Venus as _Hiyaro wiwa_ ‘women’s star’. In relation to this, it merits
 a mention that Claudius de Goeje reports that when _Hiyaro wiwa_ appears close
 to the Moon, and a girl is about to have her first menstruation, the Lokono say
-that the girl will soon be touched by the Moon [#5] There is no myth about
-_Warhokoma _specifically and its relation to the Moon, but it is worth
+that the girl will soon be touched by the Moon [#5]. There is no myth about
+_Warhokoma_ specifically and its relation to the Moon, but it is worth
 reminding that the Lokono know a story, in which the Moon was originally a man
 who committed incest with his sister (see the myth mentioned under _Kathi_),
 and has a name as a womanizer [#10]. Interestingly, the name _Warhokoma_ for
 Morning or Evening Star appears also in Kari’na, who see it also as the Moon's
-wife [#17],[#18].
+wife [#17][#18].
 
 _Waya nukuthi bunaha_ 'Milky Way'
 
@@ -291,22 +291,22 @@ The Milky Way is known among the Lokono as _Waya nukuthi bunaha_, literally
 ‘Path of the carriers of clay’. The Milky Way represents the footprints of men
 who once went to fetch clay for making pots, an art that is, rarely if at all,
 practiced by the Lokono today. The origin of the name, however, is still known,
-and is summarized in a myth.[#19] The same name for Milky Way was noted by
+and is summarized in a myth [#19]. The same name for Milky Way was noted by
 William Brett who adds that it is named after a specific whitish type of
-clay.[#14] Charles Dance, on the other hand, says that the Milky Way represents
+clay [#14]. Charles Dance, on the other hand, says that the Milky Way represents
 the footprints of peccaries rooting up the clay, while Walter Roth mentions a
 different Lokono explanation, according to which the Milky way represents a
-tapir chased by a dog and jaguar.[#10][#16] However, these two sources do not
+tapir chased by a dog and jaguar [#10][#16]. However, these two sources do not
 give the corresponding Lokono name for the Milky Way, and it is possible that
 these two explanations are a Kari’na influence, who recognize a constellation
 of a tiger following the constellation of a tapir within that of the Milky
-Way.[#17]
+Way [#17].
 
 _Mali_ 'Sirius'
 
 The modern Lokono call Sirius _Mali_, the literal meaning of which is unknown.
 Cornelius van Coll describes a Lokono star called _Mali_ and explains that it
-is a very powerful star.[#7],[#17] When it comes up in the morning in August,
+is a very powerful star [#7][#17]. When it comes up in the morning in August,
 it kills the fish in the swamps, and one should not point at it or one’s finger
 will become lame. Cornelius van Coll’s _Mali_ marks the beginning of the big
 dry season (August to December), called in Lokono _malidalithe_, a term derived
@@ -314,13 +314,13 @@ from _Mali_. Older sources identified _Mali_ tentatively as Lyra, Aquila, or
 Crux, but given that the big dry season starts around August and that the
 Lokono observe the stars in the morning, these identifications must be
 incorrect; Lyra, Aquila, and Crux cannot be seen at this time from the Lokono
-territories.[#11],[#17] There are no Lokono myths about _Mali_, but there is
+territories [#11][#17]. There are no Lokono myths about _Mali_, but there is
 evidence that is may correspond to the Kari’na constellation _Ombatapo_
 ‘Previous face’. The Kari’na myths explain the origin of the constellation and
 its name, which, like the Lokono _Mali_, is believed to kill the fish in the
 swamps and announces the beginning of the big dry season. Moreover, the Kari’na
 _Ombatapo_ is identified as parts of Puppis and Canis Major, the latter of
-which includes Sirius.[#18][#20]
+which includes Sirius [#18][#20].
 
 ## Constellations
 
@@ -329,17 +329,17 @@ which includes Sirius.[#18][#20]
 The constellation _Yôkoro wiwa_ or _Wiwa yôkoro_, literally ‘Score of stars’,
 refers to the Pleiades and is easily recognized by the contemporary Lokono.
 This is likely because _Yôkoro wiwa_ is described as the most important of
-Lokono constellations, since it announce the beginning of the Lokono year.[#17]
+Lokono constellations, since it announce the beginning of the Lokono year [#17].
 After it comes out first in June in the east, it is followed by the numerous
 _koya_-constellations referring to the spirits of animals and plants that
 constitute the Lokono calendar. At that time of the year, the Lokono say
 _Yôkoro wiwa kayaran_ ‘the birth of _Yôkoro wiwa_’. It is said that if _Yôkoro
 wiwa_ shines strong when it appears for the first time, many people will die in
-the coming year.[#5] Cornelius van Coll also warns that young people should not
-look at it, or else they will not grow.[#7] These omens and warnings are
+the coming year [#5]. Cornelius van Coll also warns that young people should not
+look at it, or else they will not grow [#7]. These omens and warnings are
 related to a Lokono myth. According to the story, there were once twin
 brothers, one of which had a wife, and said that death would come when their
-star, _Yôkoro Wiwa_, rises.[#7] Death came indeed, killing even his wife,
+star, _Yôkoro Wiwa_, rises [#7]. Death came indeed, killing even his wife,
 roasting her on the fire, and the Lokono became angry and brought a giant green
 anaconda to swallow the twins. The snake ate one of the brothers, but because
 it was already 5 am and the day broke, the snake could not eat the other
@@ -347,15 +347,15 @@ brother. The snake is now the constellation _Kamodokoya_ ‘Spirit of the green
 anaconda’, in the belly of which _Yôkoro Wiwa_ is said to be located (see also
 the _Yorhada_ myth). In another narrative, the Lokono explain that the _Yôkoro
 Wiwa_ represents seven brothers lost in a savannah on their way back home, a
-motif also known from a Kari'na story.[#20]
+motif also known from a Kari'na story [#20].
 
 ##### Yorhada
 
 The constellation _Yorhada_ ‘Grill’, or _Wiwa yorhadale_ ‘Star’s grill’,
-represents a wooden grill, on which meat is roasted.[#4],[#11],[#21] Its origin
+represents a wooden grill, on which meat is roasted [#4][#11][#21]. Its origin
 is explained in a myth related by Walter Roth about a man who killed his wife,
 roasted her, and fed her liver to his mother-in-law because she called him a
-worthless hunter.[#10] In revenge, the mother asked her brother, _Kamodo_ to
+worthless hunter [#10]. In revenge, the mother asked her brother, _Kamodo_ to
 kill the man when he went hunting. The man suspected the woman set a trap and
 escaped death by sending his brother instead. The grill on which the wife was
 roasted became the Western constellation Pegasus, according to contemporary
@@ -366,8 +366,8 @@ and may be the same as the man who roasted his wife in the _Yorhada_ myth. In
 both myths, the younger brother killed by the anaconda becomes _Yôkoro wiwa_,
 while the grill becomes _Yorhada_. Claudius de Goeje suggested that _Yorhada_
 is the Western constellation Corvus, but Corvus does not appear at beginning of
-the small dry season.[#11] The neighboring Warao also know Pegasus as the
-grill, and are familiar with the myth.[#10]
+the small dry season [#11]. The neighboring Warao also know Pegasus as the
+grill, and are familiar with the myth [#10].
 
 ##### Kamodokoya
 
