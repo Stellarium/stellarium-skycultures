@@ -205,7 +205,7 @@ def translate_markdown(str, lang):
     text = tr['translatedText']
     text = html.unescape(text)
     # Re-convert refs to proper format
-    text = re.sub(r'\[RefX(\d+)\]', '[#\\1]', text)
+    text = re.sub(r'\[ ?RefX(\d+) ?\]', '[#\\1]', text)
     # Fix references lists in japanese
     text = re.sub(r' - \[#(\d+?)\]：', ' - [#\\1]: ', text)
     # Fix references lists in korean
