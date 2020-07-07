@@ -10,8 +10,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 # Sky culture name
-msgid "Hawaiian"
-msgstr "hawaïen"
+msgid "Hawaiian Starlines"
+msgstr "Hawaïenne"
 
 # Sky culture introduction section in markdown format
 msgid ""
@@ -20,14 +20,10 @@ msgid ""
 "traditional techniques of non instrument navigation across thousands of "
 "miles of open ocean."
 msgstr ""
-"Ce sont les lignes d'étoiles développées par Nainoa Thompson et utilisées "
-"par la Polynesian Voyaging Society pour naviguer sur des canots à voile "
-"polynésiens en utilisant des techniques traditionnelles de navigation sans "
-"instrument sur des milliers de miles de haute mer."
 
 # Sky culture description section in markdown format
 msgid ""
-"For years, Hawaiian navigators have memorized the position of stars as they rise and set in order to know oneʻs bearing. Wayfinder Nainoa Thompson (born 1953, Hawaii) is a graduated navigator and famous for being the first Hawaiian to practice Polynesian art of navigation since the 14th century with a double-hulled canoe. He developed a system of organization to help memorize the position of stars throughout the celestial sphere by dividing the sky into four evenly sized star lines. This system roots in ancient Hawaiian constellations which he had got to know during his studies. \n"
+"For years, Hawaiian navigators have memorized the position of stars as they rise and set in order to know oneʻs bearing. Wayfinder Nainoa Thompson developed a system of organization to help memorize the position of stars throughout the celestial sphere by dividing the sky into four evenly sized star lines.\n"
 "\n"
 "### History\n"
 "\n"
@@ -37,35 +33,34 @@ msgid ""
 "\n"
 "Each star line is a group of main stars that will be remembered by the navigators. The stars connect making constellations. Navigators remember the rising/setting houses of these stars, the stars that connect in each line, and the lines that point directly to North and South. The star lines’ position in the night sky slowly change over time, each starline being more prevalent at night according to the season. The star lines with their according season are as follows: \n"
 "\n"
-"| Nb | Native Name        | Season               |\n"
-"|----|--------------------|----------------------|\n"
-"| 1. | _Ke Ka o Makali‘i_ | November to April    |\n"
-"| 2. | _Ka Iwikuamo‘o_    | April to July        |\n"
-"| 3. | _Manaiakalani_     | May to October       |\n"
-"| 4. | _Ka Lupe o Kawelo_ | September to February|\n"
+"<table>\n"
+"<tr><td>1.</td><td><em>Ke Ka o Makali‘i </em></td><td>November to April    </td></tr>\n"
+"<tr><td>2.</td><td><em>Ka Iwikuamo‘o    </em></td><td>April to July        </td></tr>\n"
+"<tr><td>3.</td><td><em>Manaiakalani     </em></td><td>May to October       </td></tr>\n"
+"<tr><td>4.</td><td><em>Ka Lupe o Kawelo </em></td><td>September to February</td></tr>\n"
+"</table>\n"
 "\n"
-"\n"
-"##### Ke Ka o Makali’i\n"
+"#### Ke Ka o Makali’i\n"
 "\n"
 "The direct translation means the “Bailer of _Makali’i_”. The lines are shaped as a canoe bailer which scoops _Ka Hei-Hei o Na Keiki_ (Orion) and _Makali’i_ (Pleiades) up into the night sky. In voyaging a bailer is used to scoop up water out of the hulls. \n"
 "\n"
 "The main stars of _Ke Ka o Makali’i_ from North to South are _Hokulei_ (Capella), _Nanamua_ (Castor), _Nanahope_ (Pollux), _Puana_ (Procyon), and _‘A’a_ (Sirius). These stars connect together to create the bailer in the sky. Mintaka in Orion is an important star in this line because it rises/sets directly east or west giving the navigator an easy pointer star for direction. Mirzim (next to _‘A’a_ (Sirius)) and _Ke Ali’i Kona i Ka Lewa_ (Canopus) connect together to create a southern pointer. _‘Ekekeuehuehu_ (θ Aur, Mahasim) and _‘Ekekeu’ena’ena_ (β Aur, Menkalinan) connect to create a northern pointer. Different north/south pointers are found in the star lines and used heavily by navigators.\n"
 "\n"
-"##### Ka Iwikuamo’o\n"
+"#### Ka Iwikuamo’o\n"
 "\n"
 "_Ka Iwikuamo’o_ translates to the backbone (directly: Bone back-lizard). This star line is depicted as the backbone of a lizard or _mo’o_ in this sky culture. It can also be representing a genealogical backbone, each star representing a generation.\n"
 "\n"
 "The star line itself starts with _Hokupa’a_ (North Star), the ultimate northern pointer due to the star never moving in the sky, always above north. _Hokupa’a_ connects down to _Na Hiku_ (Big Dipper). _Na Hiku_ translates to “The Seven” as there is seven stars in the Big Dipper. _Hokule’a_ (Arcturus) and _Hikianalia_ (Spica) are the two stars in the middle of the star line. The two PVS canoes are named after these two stars. _Hokule’a_ is the “zenith” star of Hawai’i, meaning it will be directly overhead when you are at the latitude of the Hawaiian Islands. _Hokule’a_ is very important to navigators on finding their way back to Hawai’i. The meaning of _Hokule’a_ is “the star of gladness” because it is the star used to find home bringing joy. Next to _Hikianalia_ is _Me’e_, a combination of four stars that create a box. _Me’e_ connects down to _Hanaiakamalama_ (Southern Cross) which is the southern pointer for _Ka Iwikuamo’o_.\n"
 "\n"
-"##### Manaiakalani\n"
+"#### Manaiakalani\n"
 "\n"
 "_Manaiakalani_ translates to “The Chief's Fishline”. This refers to the legend of the demi god Maui and his fish hook. Maui is credited for pulling up the islands with his magical fish hook. \n"
 "\n"
-"This star line consists of two constellations. The Navigator’s Triangle on the north and Maui’s fish hook on the south. The Navigator’s Triangle is made of three stars _Hawaiki_ (Deneb), _Keoe_ (Vega), and _Humu_ (Altair). (It is the same figure as the Summer Triangle for modern amateur astronomers.) These stars also represent the Polynesian triangle: Hawai’i (_Hawaiki_), Rapanui (_Keoe_), and Aotearoa (_Humu_). These three islands are pulled by the fish hook of Maui (Scorpius). \n"
+"This star line consists of two constellations. The Navigator’s Triangle on the north and Maui’s fish hook on the south. The Navigator’s Triangle is made of three stars _Hawaiki_ (Deneb), _Keoe_ (Vega), and _Humu_ (Altair). (It is the same figure as the Summer Triangle for modern amateur astronomers.)These stars also represent the Polynesian triangle: Hawai’i (_Hawaiki_), Rapanui (_Keoe_), and Aotearoa (_Humu_). These three islands are pulled by the fish hook of Maui (Scorpius). \n"
 "\n"
 "The northern pointer is found in the Navigator’s Triangle when you connect _Hawaiki_ (Deneb) and _Momonapikowalu_ (γ Cyg, Sadr). Southern pointers are in the fish hook when you connect _Mili’opu_ (δ Sco, Dschubba) and _Kahe_ (π Sco, Nur), the stars on the top of the hook.\n"
 "\n"
-"##### Ka Lupe o Kawelo\n"
+"#### Ka Lupe o Kawelo\n"
 "\n"
 "_Ka Lupe o Kawelo_ translates to “The Kite of Kawelo”. Kawelo was a great chief of Kaua’i and O’ahu and this star line represents the kite which was lost as a child.\n"
 "\n"
@@ -73,134 +68,74 @@ msgid ""
 "\n"
 "The northern pointer is found in _Manokalanipo_ (δ Peg, Alpheratz) and _Kealohalani-po-keao_ (β Cas, Caph) of _‘Iwakeli’i_. The southern pointer is connected with _Keawe_ (α Peg, Markab) and _Kukaniloko_ (α PsA, Fomalhaut).\n"
 "\n"
+"#### External links\n"
+"\n"
+"*   [Polynesian Voyaging Society](http://hokulea.com)\n"
+"*   [Hawaiian Voyaging Society](http://pvs.kcc.hawaii.edu/ike/hookele/hawaiian_star_lines.html)\n"
+"*   [Imiloa](http://www.imiloahawaii.org/71/star-paths)\n"
+"*   [Hawaiian Star Lines and Names for Stars](http://archive.hokulea.com/ike/hookele/hawaiian_star_lines.html)\n"
+"\n"
+"The Hawaiian Star Compass landscape which should be used with this skyculture is available at the [Stellarium Landscapes](https://stellarium.org/landscapes.html) collection.\n"
 "\n"
 "### Background and Acknowledgements\n"
 "\n"
 "The _master navigator_ behind this sky culture was Mau Piailug of Satawal, who taught the Polynesian art of celestial navigation to Nainoa Thompson, who developed this version of the sky culture that was used from 2013-17 by Hawaiians to sail around the world during the Malama Honua Voyage of Hokule’a, the Polynesian voyaging canoe. Stellarium has been used as a tool by the navigators of Hokule’a and this sky culture serves as a tool for practicing Polynesian navigation.\n"
 "\n"
-"The technical implementation of the sky culture included here was contributed in 2017 by teachers Darren Kamalu and Christopher Blake, Students Jonah Apo, Nicholas Koanui, Brenden Aila and the Celestial Navigation class at Kamehameha Schools Kapalama, Honolulu, Hawai’i. Artwork by Kealoha Kaneakua."
+"The technical implementation of the sky culture included here was contributed in 2017 by teachers Darren Kamalu and Christopher Blake, Students Jonah Apo, Nicholas Koanui, Brenden Aila and the Celestial Navigation class at Kamehameha Schools Kapalama, Honolulu, Hawai’i. Artwork by Kealoha Kaneakua. "
 msgstr ""
-"Pendant des années, les navigateurs hawaïens ont mémorisé la position des étoiles au fur et à mesure qu’elles se lèvent et se couchent afin de connaître leur position. Wayfinder Nainoa Thompson (né en 1953 à Hawaï) est un navigateur diplômé et célèbre pour être le premier hawaïen à pratiquer l'art de la navigation polynésien depuis le 14ème siècle avec un canoë à double coque. Il a développé un système d'organisation pour aider à mémoriser la position des étoiles dans la sphère céleste en divisant le ciel en quatre lignes d'étoiles de taille égale. Ce système trouve ses racines dans les anciennes constellations hawaïennes qu'il avait connues au cours de ses études.\n"
-"\n"
-"### Histoire\n"
-"\n"
-"La connaissance de la navigation des étoiles hawaïennes est transmise oralement depuis de nombreuses générations. Une grande partie des connaissances concernant les étoiles et la navigation ont été perdues jusqu'à la Renaissance hawaïenne au début des années 1970. La Polynesian Voyage Society (PVS), fondée en 1973, a créé Hokule'a en 1975. Hokule'a est un canoë de voyage hawaïen traditionnel dont la mission est de faire revivre l'art de la découverte des voies. Un homme de Satawal, en Micronésie, nommé Mau Piailug, était un maître navigateur / wayfinder. La connaissance de l'orientation et de l'utilisation du ciel pour naviguer a été transmise à Mau par ses ancêtres. Nainoa Thompson, actuel président de PVS, a demandé à Mau de lui enseigner ses connaissances en navigation avec l'intention de faire revivre les connaissances qui étaient autrefois perdues pour les Hawaïens. Avec les connaissances apprises de Mau, la boussole et les lignes d'étoiles hawaïennes ont été créées.\n"
-"\n"
-"### Star Lines\n"
-"\n"
-"Chaque ligne d'étoiles est un groupe d'étoiles principales dont les navigateurs se souviendront. Les étoiles se connectent en créant des constellations. Les navigateurs se souviennent des maisons montantes / couchées de ces étoiles, des étoiles qui se connectent dans chaque ligne et des lignes qui pointent directement vers le nord et le sud. La position des lignes stellaires dans le ciel nocturne change lentement au fil du temps, chaque ligne stellaire étant plus répandue la nuit selon la saison. Les lignes des étoiles avec leur saison respective sont les suivantes:\n"
-"\n"
-"| Nb | Nom natif | Saison |\n"
-"| ---- | -------------------- | ---------------------- |\n"
-"| 1. | _Ke Ka o Makali'i_ | Novembre à avril |\n"
-"| 2. | _Ka Iwikuamo'o_ | Avril à juillet |\n"
-"| 3. | _Manaiakalani_ | Mai à octobre |\n"
-"| 4. | _Ka Lupe o Kawelo_ | Septembre à février |\n"
-"\n"
-"\n"
-"##### Ke Ka o Makali'i\n"
-"\n"
-"La traduction directe signifie le \"Bailer of _Makali'i_\". Les lignes ont la forme d'une écope de canoë qui ramasse _Ka Hei-Hei o Na Keiki_ (Orion) et _Makali'i_ (Pléiades) dans le ciel nocturne. En voyage, un écope est utilisé pour extraire l'eau des coques.\n"
-"\n"
-"Les principales stars de _Ke Ka o Makali'i_ du nord au sud sont _Hokulei_ (Capella), _Nanamua_ (Castor), _Nanahope_ (Pollux), _Puana_ (Procyon) et _'A'a_ (Sirius). Ces étoiles se connectent ensemble pour créer l'écope dans le ciel. Mintaka à Orion est une étoile importante dans cette ligne car elle monte / se couche directement à l'est ou à l'ouest, donnant au navigateur une étoile facile à pointer pour la direction. Mirzim (à côté de _'A'a_ (Sirius)) et _Ke Ali'i Kona i Ka Lewa_ (Canopus) se connectent ensemble pour créer un pointeur sud. _'Ekekeuehuehu_ (θ Aur, Mahasim) et _'Ekekeu'ena'ena_ (β Aur, Menkalinan) se connectent pour créer un pointeur nord. Différents pointeurs nord / sud se trouvent dans les lignes étoilées et sont largement utilisés par les navigateurs.\n"
-"\n"
-"##### Ka Iwikuamo'o\n"
-"\n"
-"_Ka Iwikuamo'o_ se traduit par la colonne vertébrale (directement: Bone back-lizard). Cette ligne d'étoile est représentée comme l'épine dorsale d'un lézard ou d'un _mo'o_ dans cette culture du ciel. Il peut également représenter un squelette généalogique, chaque étoile représentant une génération.\n"
-"\n"
-"La ligne stellaire elle-même commence par _Hokupa'a_ (North Star), le pointeur nord ultime car l'étoile ne se déplace jamais dans le ciel, toujours au-dessus du nord. _Hokupa'a_ se connecte à _Na Hiku_ (Big Dipper). _Na Hiku_ se traduit par \"Les Sept\" car il y a sept étoiles dans la Grande Ourse. _Hokule'a_ (Arcturus) et _Hikianalia_ (Spica) sont les deux étoiles au milieu de la ligne stellaire. Les deux pirogues PVS portent le nom de ces deux étoiles. _Hokule'a_ est l'étoile «zénithale» d'Hawai'i, ce qui signifie qu'elle sera directement au-dessus lorsque vous serez à la latitude des îles hawaïennes. _Hokule'a_ est très important pour les navigateurs pour retrouver leur chemin vers Hawai'i. Le sens de _Hokule'a_ est \"l'étoile de la joie\" parce que c'est l'étoile utilisée pour trouver la maison apportant de la joie. À côté de _Hikianalia_ se trouve _Me'e_, une combinaison de quatre étoiles qui créent une boîte. _Me'e_ se connecte à _Hanaiakamalama_ (Southern Cross) qui est le pointeur sud de _Ka Iwikuamo'o_.\n"
-"\n"
-"##### Manaiakalani\n"
-"\n"
-"_Manaiakalani_ se traduit par «La ligne de pêche du chef». Cela fait référence à la légende du demi-dieu Maui et son hameçon. Maui est reconnu pour avoir remonté les îles avec son hameçon magique.\n"
-"\n"
-"Cette ligne étoilée se compose de deux constellations. Le triangle du navigateur au nord et l'hameçon de Maui au sud. Le triangle du navigateur est composé de trois étoiles _Hawaiki_ (Deneb), _Keoe_ (Vega) et _Humu_ (Altair). (C'est la même figure que le triangle d'été pour les astronomes amateurs modernes.) Ces étoiles représentent également le triangle polynésien: Hawai'i (_Hawaiki_), Rapanui (_Keoe_) et Aotearoa (_Humu_). Ces trois îles sont tirées par l'hameçon de Maui (Scorpius).\n"
-"\n"
-"Le pointeur nord se trouve dans le triangle du navigateur lorsque vous connectez _Hawaiki_ (Deneb) et _Momonapikowalu_ (γ Cyg, Sadr). Les pointeurs du sud sont dans l'hameçon lorsque vous connectez _Mili'opu_ (δ Sco, Dschubba) et _Kahe_ (π Sco, Nur), les étoiles sur le dessus de l'hameçon.\n"
-"\n"
-"##### Ka Lupe o Kawelo\n"
-"\n"
-"_Ka Lupe o Kawelo_ se traduit par «Le cerf-volant de Kawelo». Kawelo était un grand chef de Kaua'i et O'ahu et cette ligne d'étoile représente le cerf-volant qui a été perdu comme un enfant.\n"
-"\n"
-"La ligne d'étoile commence par _'Iwakeli'i_, ce qui signifie chef frégate Bird (_Fregata Minor_). La forme de cette constellation (qui est le W de Cassiopée à l'Ouest) ressemble à l'oiseau _'iwa_ qui est connu pour amener les voyageurs à atterrir. Le centre de la ligne étoilée est le cerf-volant de Kawelo (égal au Grand Carré de Pégase). Les quatre étoiles qui font le cerf-volant sont nommées d'après les plus grands ancêtres de Kawelo: _Manokalanipo_ (δ Peg, Alpheratz), _Kakuhihewa_ (β Peg, Scheat), _Pi'ilani_ (γ Peg, Algenib) et _Keawe_ (α Peg, Markab). Tous les quatre étaient des chefs célèbres de leur temps. La ligne stellaire relie ensuite le sud à deux étoiles _Pi'ikea_ (β Cet, Deneb Kaitos) et _Kukaniloko_ (α PsA, Fomalhaut).\n"
-"\n"
-"Le pointeur nord se trouve dans _Manokalanipo_ (δ Peg, Alpheratz) et _Kealohalani-po-keao_ (β Cas, Caph) de _'Iwakeli'i_. Le pointeur sud est connecté avec _Keawe_ (α Peg, Markab) et _Kukaniloko_ (α PsA, Fomalhaut).\n"
-"\n"
-"\n"
-"### Contexte et remerciements\n"
-"\n"
-"Le _maître navigateur_ derrière cette culture du ciel était Mau Piailug de Satawal, qui a enseigné l'art polynésien de la navigation céleste à Nainoa Thompson, qui a développé cette version de la culture du ciel qui a été utilisée de 2013 à 2017 par les Hawaïens pour naviguer autour du monde pendant le Malama Honua Voyage de Hokule'a, le canoë de voyage polynésien. Le stellarium a été utilisé comme un outil par les navigateurs de Hokule'a et cette culture du ciel sert d'outil pour pratiquer la navigation polynésienne.\n"
-"\n"
-"La mise en œuvre technique de la culture du ciel incluse ici a été apportée en 2017 par les enseignants Darren Kamalu et Christopher Blake, les étudiants Jonah Apo, Nicholas Koanui, Brenden Aila et la classe de navigation céleste des écoles de Kamehameha Kapalama, Honolulu, Hawai'i. Oeuvre de Kealoha Kaneakua."
-
-# Sky culture references section in markdown format
-msgid ""
-" - [#1]: [Polynesian Voyaging Society](http://hokulea.com)\n"
-" - [#2]: [Hawaiian Voyaging Society](http://pvs.kcc.hawaii.edu/ike/hookele/hawaiian_star_lines.html)\n"
-" - [#3]: [Imiloa](http://www.imiloahawaii.org/71/star-paths)\n"
-" - [#4]: [Hawaiian Star Lines and Names for Stars](http://archive.hokulea.com/ike/hookele/hawaiian_star_lines.html)"
-msgstr ""
-" - [#1]: [Société polynésienne de voyage](http://hokulea.com)\n"
-" - [#2]: [Hawaiian Voyaging Society](http://pvs.kcc.hawaii.edu/ike/hookele/hawaiian_star_lines.html)\n"
-" - [#3]: [Imiloa](http://www.imiloahawaii.org/71/star-paths)\n"
-" - [#4]: [Lignes d'étoiles hawaïennes et noms des étoiles](http://archive.hokulea.com/ike/hookele/hawaiian_star_lines.html)"
 
 # Sky culture authors section in markdown format
-msgid ""
-"the Hawaiian ethnic community. \n"
-"markup re-worked by Susanne M Hoffmann"
+msgid "Darren Kamalu"
 msgstr ""
-"la communauté ethnique hawaïenne.\n"
-"balisage retravaillé par Susanne M Hoffmann"
 
 # Sky culture licence section in markdown format
 msgid "GNU GPL v2.0"
 msgstr "GNU GPL v2.0"
 
-# Hawaiian constellation, native: Ke Ka o Makali`i
+# Hawaiian Starlines constellation, native: Ke Ka o Makali`i
 msgid "The Canoe Bailer of Makali`i"
 msgstr "L'Écopeur du Canoë de Makali`i"
 
-# Hawaiian constellation, native: Ka Hei-Hei o Na Keiki
+# Hawaiian Starlines constellation, native: Ka Hei-Hei o Na Keiki
 msgid "The Cat's Cradle"
 msgstr "Le Berceau du Chat"
 
-# Hawaiian constellation, native: Makali`i
+# Hawaiian Starlines constellation, native: Makali`i
 msgid "The Chief's Eyes"
 msgstr "Les Yeux du Chef"
 
-# Hawaiian constellation, native: Me`e
+# Hawaiian Starlines constellation, native: Me`e
 msgid "Voice of Joy"
 msgstr "Voix de joie"
 
-# Hawaiian constellation, native: Na Hiku
+# Hawaiian Starlines constellation, native: Na Hiku
 msgid "The Seven"
 msgstr "Les Sept"
 
-# Hawaiian constellation, native: Ka Iwikuamo`o
+# Hawaiian Starlines constellation, native: Ka Iwikuamo`o
 msgid "The Backbone"
 msgstr "L'Épine dorsale"
 
-# Hawaiian constellation, native: Manaiakalani
+# Hawaiian Starlines constellation, native: Manaiakalani
 msgid "The Chief's Fishline"
 msgstr "La Ligne de pêche du Chef"
 
-# Hawaiian constellation
+# Hawaiian Starlines constellation
 msgid "Navigator's Triangle"
 msgstr "Triangle du Navigateur"
 
-# Hawaiian constellation, native: Ka Lupe o Kawelo
+# Hawaiian Starlines constellation, native: Ka Lupe o Kawelo
 msgid "Kite of Kawelo"
 msgstr "Cerf-volant de Kawelo"
 
-# Hawaiian constellation, native: `Iwa Keli`i
+# Hawaiian Starlines constellation, native: `Iwa Keli`i
 msgid "Chief Frigate Bird"
 msgstr "La Frégate du Chef"
 
-# Hawaiian constellation, native: Hanaiakamalama
+# Hawaiian Starlines constellation, native: Hanaiakamalama
 msgid "Cared for by Moon"
 msgstr "Aimé de la Lune"
 
-# Hawaiian constellation, native: Nakuhikuhi
+# Hawaiian Starlines constellation, native: Nakuhikuhi
 msgid "The Pointers"
 msgstr "Les Gardes"

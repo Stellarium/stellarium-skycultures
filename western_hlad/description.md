@@ -3,7 +3,7 @@
 ## Introduction
 
 A variation of the Western sky culture with lines reproducing the 1988 Czech
-print atlas _Hvězdná obloha 2000.0_ by Hlad et al. [#1].
+printed atlas _Hvězdná obloha 2000.0_ by Hlad et al. [#1].
 
 ## Description
 
