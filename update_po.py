@@ -207,17 +207,17 @@ def translate_markdown(str, lang):
     # Re-convert refs to proper format
     text = re.sub(r'\[RefX(\d+)\]', '[#\\1]', text)
     # Fix references lists in japanese
-    text = re.sub(r' - \[#(\d+)\]：', ' - [#\\1]: ', text)
+    text = re.sub(r' - \[#(\d+?)\]：', ' - [#\\1]: ', text)
     # Fix references lists in korean
-    text = re.sub(r' - ?\[#(\d+)\] : ', ' - [#\\1]: ', text)
+    text = re.sub(r' - ?\[#(\d+?)\] : ', ' - [#\\1]: ', text)
     # Fix references lists in chinese
-    text = re.sub(r' -\[#(\d+)\]：', ' - [#\\1]: ', text)
+    text = re.sub(r' -\[#(\d+?)\]：', ' - [#\\1]: ', text)
     # Fix spaces between links parts [xx] (url) -> [xx](url)
-    text = re.sub(r'(\[.+\]) (\(\S+\))', '\\1\\2', text)
-    text = re.sub(r'(\[.+\])（(\S+)）', '\\1(\\2)', text)
+    text = re.sub(r'(\[.+?\]) (\(\S+?\))', '\\1\\2', text)
+    text = re.sub(r'(\[.+?\])（(\S+?)）', '\\1(\\2)', text)
     # Fix spaces for email:links parts [xx] (mailto: url) -> [xx](mailto:url)
-    text = re.sub(r'(\[.+\]) \(mailto: (\S+?)\)', '\\1(mailto:\\2)', text)
-    text = re.sub(r'(\[.+\])mailto: (\S+)）', '\\1(mailto:\\2)', text)
+    text = re.sub(r'(\[.+?\]) ?\(mailto: ?(\S+?)\)', '\\1(mailto:\\2)', text)
+    text = re.sub(r'(\[.+?\]) ?mailto: ?(\S+?)）', '\\1(mailto:\\2)', text)
     # Fix images links extra space
     text = re.sub(r'[！!] ?(\[.*?\]) ?[\(（](\S+?)[\)）]', '!\\1(\\2)', text)
     # Fix extra style content missing space
