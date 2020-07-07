@@ -15,28 +15,50 @@ msgstr "因努伊特(Inuit)"
 
 # Sky culture introduction section in markdown format
 msgid ""
-"The Inuit sky culture files available for Stellarium are an adaptation of "
-"John MacDonald's research in his book __The Arctic Sky: Inuit Astronomy, "
-"Star Lore and Legend__. While placements and specifics of Inuit "
-"constellations might differ from tribe to tribe, the information in "
-"Stellarium presents the constellations and general themes of the arctic "
-"universe."
+"The Inuit are the indigenous peoples in the arctic areas of America, i.e.\n"
+"central and northeast Canada and Greenland. Their culture is part of the\n"
+"various arctic and subarctic cultures but the term \"Eskimo\" refers to a much\n"
+"larger group (also including peoples from Alaska and on both sides of the\n"
+"Behring Strait)."
 msgstr ""
+"因紐特人是美國北極地區的土著人民，即加拿大中部和東北部以及格陵蘭。他們的文化是北極和亞北極文化的一部分，但是“愛斯基摩人”一詞是指更大的群體（也包括阿拉斯加和貝林海峽兩岸的人）。"
 
 # Sky culture description section in markdown format
 msgid ""
-"This sky culture was contributed by _Karrie Berglund_ of Digitalis Education Solutions, Inc. based primarily on the book __The Arctic Sky: Inuit Astronomy, Star Lore and Legend__ by John MacDonald.\n"
-"\n"
-"Illustrations are done by Johan Meuris, released under the Free Art License."
+"This sky culture for Stellarium is an adaptation of John MacDonald's research\n"
+"in his book _The Arctic Sky: Inuit Astronomy, Star Lore and Legend_. While\n"
+"placements and specifics of Inuit constellations might differ from tribe to\n"
+"tribe, the information in Stellarium presents the constellations and general\n"
+"themes of the arctic universe."
 msgstr ""
+"斯特拉里姆（Stellarium）的這種天空文化是約翰·麥克唐納（John "
+"MacDonald）在他的書《北極的天空：因紐特人的天文學，星際傳說和傳奇》中的研究的改編。儘管因努伊特人的星座的位置和特徵可能因部落而異，但Stellarium中的信息代表了北極宇宙的星座和一般主題。"
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: John MacDonald. The Arctic Sky: Inuit Astronomy, Star Lore and "
+"Legend."
+msgstr " - [#1]: John MacDonald。北極天空：因紐特人天文學，星際傳說和傳奇。"
 
 # Sky culture authors section in markdown format
-msgid "Karrie Berglund (content) & Johan Meuris (illustrations)"
+msgid ""
+"This sky culture was contributed by _Karrie Berglund_ of Digitalis Education\n"
+"Solutions, Inc. based primarily on the book __The Arctic Sky: Inuit Astronomy,\n"
+"Star Lore and Legend__ by John MacDonald.\n"
+"\n"
+"Illustrations by Johan Meuris.\n"
+"\n"
+"Edited by Susanne M Hoffmann and the Stellarium's team."
 msgstr ""
+"這種天空文化是由Digitalis Education Solutions，Inc.的Karrie Berglund貢獻的，主要基於John MacDonald的《北極天空：因紐特人的天文學，星際傳說和傳奇》一書。\n"
+"\n"
+"Johan Meuris的插圖。\n"
+"\n"
+"由Susanne M Hoffmann和Stellarium團隊編輯。"
 
 # Sky culture licence section in markdown format
 msgid "GPL v2 (content), Free Art License (illustrations)"
-msgstr ""
+msgstr "GPL v2（內容），免費藝術許可（插圖）"
 
 # Inuit constellation, native: Aagjuuk
 msgid "Two Sunbeams"
@@ -44,7 +66,7 @@ msgstr "二道陽光"
 
 # Description of Inuit constellation Two Sunbeams
 msgid "An important constellation for timekeeping."
-msgstr ""
+msgstr "計時的重要星座。"
 
 # Inuit constellation, native: Akkuttujuuk
 msgid "Two Placed Far Apart"
@@ -52,7 +74,7 @@ msgstr "相隔二地"
 
 # Description of Inuit constellation Two Placed Far Apart
 msgid "Two stars signaling the return of sunlight to the arctic"
-msgstr ""
+msgstr "兩顆恆星，指示陽光返回北極"
 
 # Inuit constellation, native: Qimmiitt
 msgid "Dogs"
@@ -60,7 +82,7 @@ msgstr "狗群"
 
 # Description of Inuit constellation Dogs
 msgid "Five dogs harassing Nanook, or Nanurjuk, the polar bear."
-msgstr ""
+msgstr "五隻狗騷擾北極熊Nanook或Nanurjuk。"
 
 # Inuit constellation, native: Quturjuuk
 msgid "Collarbones"
@@ -72,7 +94,7 @@ msgstr "燈座"
 
 # Description of Inuit constellation Lamp Stand
 msgid "Stand containing the burning fuel providing light"
-msgstr ""
+msgstr "裝有燃燒燃料的架子，可提供照明"
 
 # Inuit constellation, native: Tukturjuit
 msgid "Caribou"
@@ -80,7 +102,7 @@ msgstr "馴鹿"
 
 # Description of Inuit constellation Caribou
 msgid "The big dipper is Tukturjuit, the caribou."
-msgstr ""
+msgstr "北斗七星是馴鹿Tukturjuit。"
 
 # Inuit constellation, native: Sivulliik
 msgid "Two in Front"
@@ -89,7 +111,7 @@ msgstr "兩個在前面"
 # Description of Inuit constellation Two in Front
 msgid ""
 "\"The first ones\", Little Orphan Boy being chased by an angry grandfather."
-msgstr ""
+msgstr "“第一個”，小孤兒男孩被生氣的祖父追趕。"
 
 # Inuit constellation, native: Sakiattiak
 msgid "Breastbone"
@@ -97,7 +119,7 @@ msgstr "胸骨"
 
 # Description of Inuit constellation Breastbone
 msgid "The Pleiades, are seen as a breast bone."
-msgstr ""
+msgstr "le宿星被視為胸骨。"
 
 # Inuit constellation, native: Ullaktut
 msgid "Runners"
@@ -107,7 +129,7 @@ msgstr "跑步人"
 msgid ""
 "Orion's Belt is Ullaktut, three hunters lost on a hunting trip for Nanuk, "
 "the polar bear."
-msgstr ""
+msgstr "獵戶座的腰帶是Ullaktut，三隻獵人在尋找北極熊Nanuk的狩獵之旅中喪生。"
 
 # Inuit constellation, native: Uqsuutaattiaq
 msgid "Blubber Container"
@@ -115,7 +137,7 @@ msgstr "鯨脂容器"
 
 # Description of Inuit constellation Blubber Container
 msgid "A seal flipper skin sewn shut, contains fuel for lamps."
-msgstr ""
+msgstr "縫製的密封鰭狀肢皮中裝有燈用燃料。"
 
 # Inuit constellation, native: Kingulliq
 msgid "The One Behind"
@@ -123,7 +145,7 @@ msgstr "後者"
 
 # Description of Inuit constellation The One Behind
 msgid "The grandmother chasing the Two in Front"
-msgstr ""
+msgstr "奶奶追著前面的兩個"
 
 # Name for HIP 91262
 msgid "The Old Woman"
@@ -159,4 +181,4 @@ msgstr "小孤兒"
 
 # Name for NAME Orion Nebula
 msgid "Nephews or Nieces"
-msgstr ""
+msgstr "侄子或侄女"

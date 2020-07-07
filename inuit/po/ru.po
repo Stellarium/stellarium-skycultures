@@ -15,28 +15,59 @@ msgstr "Эскимосская"
 
 # Sky culture introduction section in markdown format
 msgid ""
-"The Inuit sky culture files available for Stellarium are an adaptation of "
-"John MacDonald's research in his book __The Arctic Sky: Inuit Astronomy, "
-"Star Lore and Legend__. While placements and specifics of Inuit "
-"constellations might differ from tribe to tribe, the information in "
-"Stellarium presents the constellations and general themes of the arctic "
-"universe."
+"The Inuit are the indigenous peoples in the arctic areas of America, i.e.\n"
+"central and northeast Canada and Greenland. Their culture is part of the\n"
+"various arctic and subarctic cultures but the term \"Eskimo\" refers to a much\n"
+"larger group (also including peoples from Alaska and on both sides of the\n"
+"Behring Strait)."
 msgstr ""
+"Инуиты - это коренные народы в арктических районах Америки, то есть в "
+"центральной и северо-восточной части Канады и Гренландии. Их культура "
+"является частью различных арктических и субарктических культур, но термин "
+"«эскимос» относится к гораздо большей группе (включая народы Аляски и по обе"
+" стороны пролива Беринг)."
 
 # Sky culture description section in markdown format
 msgid ""
-"This sky culture was contributed by _Karrie Berglund_ of Digitalis Education Solutions, Inc. based primarily on the book __The Arctic Sky: Inuit Astronomy, Star Lore and Legend__ by John MacDonald.\n"
-"\n"
-"Illustrations are done by Johan Meuris, released under the Free Art License."
+"This sky culture for Stellarium is an adaptation of John MacDonald's research\n"
+"in his book _The Arctic Sky: Inuit Astronomy, Star Lore and Legend_. While\n"
+"placements and specifics of Inuit constellations might differ from tribe to\n"
+"tribe, the information in Stellarium presents the constellations and general\n"
+"themes of the arctic universe."
 msgstr ""
+"Эта небесная культура для Stellarium является адаптацией исследований Джона "
+"Макдональда в его книге «Арктическое небо: астрономия инуитов, Звездные "
+"знания и Легенда». Хотя размещение и особенности созвездий инуитов могут "
+"различаться от племени к племени, информация в Stellarium представляет "
+"созвездия и общие темы арктической вселенной."
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: John MacDonald. The Arctic Sky: Inuit Astronomy, Star Lore and "
+"Legend."
+msgstr ""
+" - [#1]: Джон Макдональд. Арктическое Небо: Инуитская Астрономия, Звездные "
+"Знания и Легенда."
 
 # Sky culture authors section in markdown format
-msgid "Karrie Berglund (content) & Johan Meuris (illustrations)"
+msgid ""
+"This sky culture was contributed by _Karrie Berglund_ of Digitalis Education\n"
+"Solutions, Inc. based primarily on the book __The Arctic Sky: Inuit Astronomy,\n"
+"Star Lore and Legend__ by John MacDonald.\n"
+"\n"
+"Illustrations by Johan Meuris.\n"
+"\n"
+"Edited by Susanne M Hoffmann and the Stellarium's team."
 msgstr ""
+"Эту культуру неба внесла Кэрри Берглунд из Digitalis Education Solutions, Inc., основанная главным образом на книге Джона Макдональда «Арктическое небо: астрономия инуитов, Звездные знания и легенда».\n"
+"\n"
+"Иллюстрации Йохана Меуриса.\n"
+"\n"
+"Под редакцией Сюзанны М. Хоффманн и команды Stellarium."
 
 # Sky culture licence section in markdown format
 msgid "GPL v2 (content), Free Art License (illustrations)"
-msgstr ""
+msgstr "GPL v2 (контент), Free Art License (иллюстрации)"
 
 # Inuit constellation, native: Aagjuuk
 msgid "Two Sunbeams"
@@ -44,7 +75,7 @@ msgstr "Два солнечных луча"
 
 # Description of Inuit constellation Two Sunbeams
 msgid "An important constellation for timekeeping."
-msgstr ""
+msgstr "Важное созвездие для хронометража."
 
 # Inuit constellation, native: Akkuttujuuk
 msgid "Two Placed Far Apart"
@@ -52,7 +83,7 @@ msgstr "Двое расположенных далеко друг от друг�
 
 # Description of Inuit constellation Two Placed Far Apart
 msgid "Two stars signaling the return of sunlight to the arctic"
-msgstr ""
+msgstr "Две звезды, сигнализирующие о возвращении солнечного света в Арктику"
 
 # Inuit constellation, native: Qimmiitt
 msgid "Dogs"
@@ -60,7 +91,7 @@ msgstr "Собаки"
 
 # Description of Inuit constellation Dogs
 msgid "Five dogs harassing Nanook, or Nanurjuk, the polar bear."
-msgstr ""
+msgstr "Пять собак, изводящих Нанука, или Нанурьюк, белого медведя."
 
 # Inuit constellation, native: Quturjuuk
 msgid "Collarbones"
@@ -72,7 +103,7 @@ msgstr "Торшер"
 
 # Description of Inuit constellation Lamp Stand
 msgid "Stand containing the burning fuel providing light"
-msgstr ""
+msgstr "Стенд с горящим топливом, обеспечивающим свет"
 
 # Inuit constellation, native: Tukturjuit
 msgid "Caribou"
@@ -80,7 +111,7 @@ msgstr "Карибу"
 
 # Description of Inuit constellation Caribou
 msgid "The big dipper is Tukturjuit, the caribou."
-msgstr ""
+msgstr "Большая Медведица - Tukturjuit, карибу."
 
 # Inuit constellation, native: Sivulliik
 msgid "Two in Front"
@@ -90,6 +121,7 @@ msgstr "Двое друг против друга"
 msgid ""
 "\"The first ones\", Little Orphan Boy being chased by an angry grandfather."
 msgstr ""
+"«Первые», маленький мальчик-сирота, преследуемый разгневанным дедушкой."
 
 # Inuit constellation, native: Sakiattiak
 msgid "Breastbone"
@@ -97,7 +129,7 @@ msgstr "Грудина"
 
 # Description of Inuit constellation Breastbone
 msgid "The Pleiades, are seen as a breast bone."
-msgstr ""
+msgstr "Плеяды рассматриваются как грудная кость."
 
 # Inuit constellation, native: Ullaktut
 msgid "Runners"
@@ -108,6 +140,8 @@ msgid ""
 "Orion's Belt is Ullaktut, three hunters lost on a hunting trip for Nanuk, "
 "the polar bear."
 msgstr ""
+"Пояс Ориона - Уллактут, три охотника, потерянные в охотничьем походе на "
+"Нанука, белого медведя."
 
 # Inuit constellation, native: Uqsuutaattiaq
 msgid "Blubber Container"
@@ -115,7 +149,7 @@ msgstr "Сосуд с жиром"
 
 # Description of Inuit constellation Blubber Container
 msgid "A seal flipper skin sewn shut, contains fuel for lamps."
-msgstr ""
+msgstr "Уплотнение шкурки зашито, содержит топливо для ламп."
 
 # Inuit constellation, native: Kingulliq
 msgid "The One Behind"
@@ -123,7 +157,7 @@ msgstr "Тот, что сзади"
 
 # Description of Inuit constellation The One Behind
 msgid "The grandmother chasing the Two in Front"
-msgstr ""
+msgstr "Бабушка преследует двоих впереди"
 
 # Name for HIP 91262
 msgid "The Old Woman"
@@ -159,4 +193,4 @@ msgstr "Маленький сирота"
 
 # Name for NAME Orion Nebula
 msgid "Nephews or Nieces"
-msgstr ""
+msgstr "Племянники или племянницы"

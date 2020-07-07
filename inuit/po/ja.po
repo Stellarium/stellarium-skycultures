@@ -15,64 +15,86 @@ msgstr "イヌイット"
 
 # Sky culture introduction section in markdown format
 msgid ""
-"The Inuit sky culture files available for Stellarium are an adaptation of "
-"John MacDonald's research in his book __The Arctic Sky: Inuit Astronomy, "
-"Star Lore and Legend__. While placements and specifics of Inuit "
-"constellations might differ from tribe to tribe, the information in "
-"Stellarium presents the constellations and general themes of the arctic "
-"universe."
+"The Inuit are the indigenous peoples in the arctic areas of America, i.e.\n"
+"central and northeast Canada and Greenland. Their culture is part of the\n"
+"various arctic and subarctic cultures but the term \"Eskimo\" refers to a much\n"
+"larger group (also including peoples from Alaska and on both sides of the\n"
+"Behring Strait)."
 msgstr ""
+"イヌイットは、アメリカの北極地域、すなわちカナダの中央部と北東部、およびグリーンランドの先住民です。彼らの文化は、さまざまな北極圏および亜北極圏の文化の一部ですが、「エスキモー」という用語は、はるかに大きなグループ（アラスカおよびベーリング海峡の両側の人々も含む）を指します。"
 
 # Sky culture description section in markdown format
 msgid ""
-"This sky culture was contributed by _Karrie Berglund_ of Digitalis Education Solutions, Inc. based primarily on the book __The Arctic Sky: Inuit Astronomy, Star Lore and Legend__ by John MacDonald.\n"
-"\n"
-"Illustrations are done by Johan Meuris, released under the Free Art License."
+"This sky culture for Stellarium is an adaptation of John MacDonald's research\n"
+"in his book _The Arctic Sky: Inuit Astronomy, Star Lore and Legend_. While\n"
+"placements and specifics of Inuit constellations might differ from tribe to\n"
+"tribe, the information in Stellarium presents the constellations and general\n"
+"themes of the arctic universe."
 msgstr ""
+"このステラリウムの空の文化は、ジョンマクドナルドの著書_The Arctic Sky：Inuit Astronomy、Star Lore and "
+"Legend_の研究を応用したものです。イヌイット星座の配置と詳細は部族によって異なる場合がありますが、ステラリウムの情報は北極圏の星座と一般的なテーマを示しています。"
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: John MacDonald. The Arctic Sky: Inuit Astronomy, Star Lore and "
+"Legend."
+msgstr " - [#1]: ジョンマクドナルド。北極の空：イヌイットの天文学、星の伝承と伝説。"
 
 # Sky culture authors section in markdown format
-msgid "Karrie Berglund (content) & Johan Meuris (illustrations)"
+msgid ""
+"This sky culture was contributed by _Karrie Berglund_ of Digitalis Education\n"
+"Solutions, Inc. based primarily on the book __The Arctic Sky: Inuit Astronomy,\n"
+"Star Lore and Legend__ by John MacDonald.\n"
+"\n"
+"Illustrations by Johan Meuris.\n"
+"\n"
+"Edited by Susanne M Hoffmann and the Stellarium's team."
 msgstr ""
+"このスカイカルチャーは、主にJohn MacDonald著の本「The Arctic Sky：Inuit Astronomy、Star Lore and Legend__」に基づいて、Digitalis Education Solutions、Inc.の_Karrie Berglund_によって寄贈されました。\n"
+"\n"
+"ヨハン・ムーリスによるイラスト。\n"
+"\n"
+"スザンヌMホフマンとステラリウムのチームによって編集されました。"
 
 # Sky culture licence section in markdown format
 msgid "GPL v2 (content), Free Art License (illustrations)"
-msgstr ""
+msgstr "GPL v2（コンテンツ）、無料アートライセンス（イラスト）"
 
 # Inuit constellation, native: Aagjuuk
 msgid "Two Sunbeams"
-msgstr ""
+msgstr "2つの太陽光線"
 
 # Description of Inuit constellation Two Sunbeams
 msgid "An important constellation for timekeeping."
-msgstr ""
+msgstr "計時のための重要な星座。"
 
 # Inuit constellation, native: Akkuttujuuk
 msgid "Two Placed Far Apart"
-msgstr ""
+msgstr "2つは離れて置かれました"
 
 # Description of Inuit constellation Two Placed Far Apart
 msgid "Two stars signaling the return of sunlight to the arctic"
-msgstr ""
+msgstr "日光が北極に戻ったことを示す2つの星"
 
 # Inuit constellation, native: Qimmiitt
 msgid "Dogs"
-msgstr ""
+msgstr "犬"
 
 # Description of Inuit constellation Dogs
 msgid "Five dogs harassing Nanook, or Nanurjuk, the polar bear."
-msgstr ""
+msgstr "シロクマのNanook、またはNanurjukへの嫌がらせをする5匹の犬。"
 
 # Inuit constellation, native: Quturjuuk
 msgid "Collarbones"
-msgstr ""
+msgstr "鎖骨"
 
 # Inuit constellation, native: Pituaq
 msgid "Lamp Stand"
-msgstr ""
+msgstr "ランプスタンド"
 
 # Description of Inuit constellation Lamp Stand
 msgid "Stand containing the burning fuel providing light"
-msgstr ""
+msgstr "光を提供する燃焼燃料を含むスタンド"
 
 # Inuit constellation, native: Tukturjuit
 msgid "Caribou"
@@ -80,16 +102,16 @@ msgstr "カリブー"
 
 # Description of Inuit constellation Caribou
 msgid "The big dipper is Tukturjuit, the caribou."
-msgstr ""
+msgstr "北斗七星はカリブーであるトゥクトゥルジュイトです。"
 
 # Inuit constellation, native: Sivulliik
 msgid "Two in Front"
-msgstr ""
+msgstr "前に2つ"
 
 # Description of Inuit constellation Two in Front
 msgid ""
 "\"The first ones\", Little Orphan Boy being chased by an angry grandfather."
-msgstr ""
+msgstr "「最初のもの」、怒っている祖父に追われているリトル・オーファン・ボーイ。"
 
 # Inuit constellation, native: Sakiattiak
 msgid "Breastbone"
@@ -97,66 +119,66 @@ msgstr "胸骨"
 
 # Description of Inuit constellation Breastbone
 msgid "The Pleiades, are seen as a breast bone."
-msgstr ""
+msgstr "プレアデス星団は胸骨として見られます。"
 
 # Inuit constellation, native: Ullaktut
 msgid "Runners"
-msgstr ""
+msgstr "ランナー"
 
 # Description of Inuit constellation Runners
 msgid ""
 "Orion's Belt is Ullaktut, three hunters lost on a hunting trip for Nanuk, "
 "the polar bear."
-msgstr ""
+msgstr "オリオンのベルトはウラクタットで、ホッキョクグマであるナヌクの狩猟旅行で3人のハンターが負けました。"
 
 # Inuit constellation, native: Uqsuutaattiaq
 msgid "Blubber Container"
-msgstr ""
+msgstr "浮きコンテナ"
 
 # Description of Inuit constellation Blubber Container
 msgid "A seal flipper skin sewn shut, contains fuel for lamps."
-msgstr ""
+msgstr "閉じた状態で縫い付けられたシールフリッパースキンには、ランプ用の燃料が含まれています。"
 
 # Inuit constellation, native: Kingulliq
 msgid "The One Behind"
-msgstr ""
+msgstr "裏方"
 
 # Description of Inuit constellation The One Behind
 msgid "The grandmother chasing the Two in Front"
-msgstr ""
+msgstr "二人を前に追いかける祖母"
 
 # Name for HIP 91262
 msgid "The Old Woman"
-msgstr ""
+msgstr "老婆"
 
 # Name for HIP 21421
 msgid "Spirit of a Polar Bear"
-msgstr ""
+msgstr "ホッキョクグマの精神"
 
 # Name for HIP 11767
 msgid "Never Moves"
-msgstr ""
+msgstr "移動しない"
 
 # Name for HIP 37279
 msgid "Name of a Murdered Man"
-msgstr ""
+msgstr "殺害された男の名前"
 
 # Name for HIP 32349
 msgid "Flickering"
-msgstr ""
+msgstr "ちらつき"
 
 # Name for HIP 26241
 msgid "Nephews"
-msgstr ""
+msgstr "甥の"
 
 # Name for HIP 69673
 msgid "The Old Man"
-msgstr ""
+msgstr "老人"
 
 # Name for HIP 67927
 msgid "The Little Orphan Boy"
-msgstr ""
+msgstr "リトルオーファンボーイ"
 
 # Name for NAME Orion Nebula
 msgid "Nephews or Nieces"
-msgstr ""
+msgstr "甥または姪"
