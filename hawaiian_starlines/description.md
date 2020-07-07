@@ -21,11 +21,11 @@ which he had got to know during his studies.
 ### History
 
 The knowledge of Hawaiian star navigation has been passed down orally for many
-generations. &nbsp;Much of the knowledge regarding stars and navigation were
-lost until the Hawaiian Renaissance in the early 1970s. Polynesian Voyage
-Society (PVS), founded in 1973, created Hokule’a in 1975. Hokule’a is a
-traditional Hawaiian voyaging canoe with the mission to revive the art of way
-finding. A man from Satawal, Micronesia named Mau Piailug was a master
+generations. Much of the knowledge regarding stars and navigation were lost
+until the Hawaiian Renaissance in the early 1970s. Polynesian Voyage Society
+(PVS), founded in 1973, created Hokule’a in 1975. Hokule’a is a traditional
+Hawaiian voyaging canoe with the mission to revive the art of way finding. A
+man from Satawal, Micronesia named Mau Piailug was a master
 navigator/wayfinder. The knowledge of wayfinding and using the sky to navigate
 was passed down to Mau from his ancestors. Nainoa Thompson, current President
 of PVS, asked Mau to teach his knowledge of navigation to him with the
@@ -156,7 +156,7 @@ connected with _Keawe_ (α Peg, Markab) and _Kukaniloko_ (α PsA, Fomalhaut).
 
 The Hawaiian ethnic community.
 
-Markup re-worked by Susanne M Hoffmann
+Reworked by Susanne M Hoffmann
 
 ## Licence
 
