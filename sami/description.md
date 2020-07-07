@@ -65,11 +65,11 @@ bright enough to obscure many stars.
 
 - [#1]: Website about Samis. [samer.se](http://samer.se/english)
 - [#2]: Sami people. [Article in Wikipedia](http://en.wikipedia.org/wiki/Sami_people).
-- [#3]: Bo Lundmark. *Bæi'vi mánno nástit* (Swedish title: *Sol- och månkult samt astrala och celesta föreställninga bland samerna*), *Sun and Moon cult and astral and celestial concepts among the Sami*, 1982.
+- [#3]: Bo Lundmark. _Bæi'vi mánno nástit_ (Swedish title: _Sol-och månkult samt astrala och celesta föreställninga bland samerna_), _Sun and Moon cult and astral and celestial concepts among the Sami_, 1982.
 
 ## Authors
 
-Jonas Persson (jonas.persson@physics.org)
+[Jonas Persson](mailto:jonas.persson@physics.org)
 
 Technical rework by Susanne M Hoffmann
 
