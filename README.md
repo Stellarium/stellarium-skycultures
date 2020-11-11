@@ -1,10 +1,10 @@
 # Sky Cultures for Stellarium
 
-__Draft, work in progress__
 
 This is the documentation of the new format used for defining sky cultures in
-Stellarium Web Engine. This is work in progress and this format is therefore
-still evolving quickly.
+Stellarium Web Engine. This is the first actually tested version of the format
+but it is likely to evolve further in the coming years, hopefully without
+breaking older parsers.
 
 The sky cultures found here are all originating from the ones in Stellarium
 desktop version, but there is no simple one-to-one mapping between the old
@@ -12,7 +12,8 @@ legacy format and this one.
 
 ## Main file format changes
 
-The main changes brought by this new format are the following:
+The main changes brought by this new format with respect to the files in Stellarium
+desktop are the following:
 
  - all the content is now stored in 2 files instead of many files in the legacy
  format:
@@ -183,7 +184,5 @@ under the langs_use_native_names property.
 
 ## Tooling
 
-Beside the file format changes, the new format comes with script tools:
- - a kind of "sky culture compiler" mostly converting markdown data to HTML
-   for display in the app.
- - tool for updating the .po files when the sky culture content was changed.
+Beside the file format changes, the new format comes with a script tool for
+updating the .po files when the sky culture content was changed.
