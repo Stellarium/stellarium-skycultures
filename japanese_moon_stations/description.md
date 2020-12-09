@@ -121,10 +121,12 @@ The 7 Lunar Stations of the "South" or "Red Bird".
 
 ## Authors
 
-Alexander Wolf
+Text and data by Alexander Wolf
 
 Clean-up by Susanne M Hoffmann and the Stellarium's team.
 
 ## Licence
 
-GNU GPL v2.0
+Text and data: CC BY-SA
+
+Yasui's Map close-up: TODO

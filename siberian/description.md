@@ -50,10 +50,10 @@ constellation.
 
 ## Authors
 
-Alexander Wolf
+Text and data by Alexander Wolf
 
-Adapted by Susanne M Hoffmann
+Text adapted by Susanne M Hoffmann
 
 ## Licence
 
-GNU GPL v2.0
+CC BY-SA
