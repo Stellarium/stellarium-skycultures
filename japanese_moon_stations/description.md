@@ -118,6 +118,7 @@ The 7 Lunar Stations of the "South" or "Red Bird".
  - [#1]: Steve Renshaw: [A Cultural History of Astronomy in Japan](http://www.academia.edu/5293593/A_Cultural_History_of_Astronomy_in_Japan)
  - [#2]: Z Xu, W Pankenier, Y Jiang: East-Asian Archaeoastronomy: Historical Records of Astronomical Observations of China, Japan and Korea, Cambria Press, New York,  2000
  - [#3]: David W. Pankenier, Xu Zhentao, and Jiang Yaotiao: East-Asian Archaeoastronomy: Historical Observational Records of Comets and Meteor Showers from China, Japan, and Korea, Cambria Press, NY, 2008
+ - [#4]: Watanabe, T. (1987) Kinsei Nihon Tenmon Gakushi; Vol II: Kansatsu Gijutsu Shi. (A View of Japanese History of Astronomy in Modern Times; Vol II: Techniques of Observation). Koseisha Kosaikaku, Tokyo.
 
 ## Authors
 
@@ -129,4 +130,4 @@ Clean-up by Susanne M Hoffmann and the Stellarium's team.
 
 Text and data: CC BY-SA
 
-Yasui's Map close-up: TODO
+Yasui's Map detail[4] used with authorisation from Steven Renshaw
