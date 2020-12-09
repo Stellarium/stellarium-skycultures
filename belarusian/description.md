@@ -74,4 +74,4 @@ Illustrations by Johan Meuris.
 
 Text and data: TODO
 
-Illustrations: Free Art Licence
+Illustrations: Free Art License

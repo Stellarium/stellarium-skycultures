@@ -171,4 +171,4 @@ Illustrations by Johan Meuris.
 
 Text and data: CC BY-SA
 
-Illustrations: Free Art Licence
+Illustrations: Free Art License

@@ -43,4 +43,4 @@ Illustrations by Johan Meuris.
 
 Text and data: GNU GPL v2.0
 
-Illustration: Free Art Licence
+Illustrations: Free Art License
