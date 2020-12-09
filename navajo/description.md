@@ -21,6 +21,6 @@ This sky culture was contributed by _Karrie Berglund_ of Digitalis Education
 Solutions, Inc. based primarily on the book __Star Trails-Navajo__ by Don
 Childrey.
 
-## Licence
+## License
 
 GNU GPL v2.0

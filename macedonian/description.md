@@ -132,6 +132,6 @@ by Cenev G, 2004 [#1].
 
 Technical re-work: Susanne M Hoffmann
 
-## Licence
+## License
 
 GNU GPL v2.0

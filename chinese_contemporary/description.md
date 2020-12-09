@@ -39,7 +39,7 @@ Culture_ of Stellarium.
 
 Illustrations by Johan Meuris.
 
-## Licence
+## License
 
 Text and data: GNU GPL v2.0
 

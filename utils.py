@@ -4,7 +4,7 @@
 # Stellarium Web Engine - Copyright (c) 2020 - Noctua Software Ltd
 #
 # This program is licensed under the terms of the GNU AGPL v3, or
-# alternatively under a commercial licence.
+# alternatively under a commercial license.
 #
 # The terms of the AGPL v3 license can be found in the main directory of this
 # repository.
@@ -115,7 +115,7 @@ def dumps_sky_culture_json(sc):
 
 
 SKY_CULTURE_MD_KEYS = ['Introduction', 'Description', 'Extras', 'References',
-                       'Authors', 'Licence']
+                       'Authors', 'License']
 SKY_CULTURE_MD_KEYSL = [k.lower() for k in SKY_CULTURE_MD_KEYS]
 
 

@@ -146,6 +146,6 @@ Rework by Stellarium's team.
  - Juan Caballero
  - SAAGS
 
-## Licence
+## License
 
 GNU GPL v2.0

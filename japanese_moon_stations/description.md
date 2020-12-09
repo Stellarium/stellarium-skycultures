@@ -125,7 +125,7 @@ Text and data by Alexander Wolf
 
 Clean-up by Susanne M Hoffmann and the Stellarium's team.
 
-## Licence
+## License
 
 Text and data: CC BY-SA
 

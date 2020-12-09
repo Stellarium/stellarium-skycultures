@@ -167,7 +167,7 @@ Stellarium's team.
 
 Illustrations by Johan Meuris.
 
-## Licence
+## License
 
 Text and data: CC BY-SA
 

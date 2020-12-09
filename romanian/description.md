@@ -54,7 +54,7 @@ Romanian constellation art done by Zamfir Somcutean.
 
 Adapted by Susanne M Hoffmann
 
-## Licence
+## License
 
 All materials related to Traditional Romanian Constellations are released under
 Creative Commons Attribution-ShareAlike 3.0 Unported.

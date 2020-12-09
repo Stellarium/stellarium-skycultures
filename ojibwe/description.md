@@ -55,6 +55,6 @@ Technical adaption by Susanne M Hoffmann
 
 Contact [A. Lee](mailto:aslee@stcloudstate.edu) for more information.
 
-## Licence
+## License
 
 GNU GPL v2.0

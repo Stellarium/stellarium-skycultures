@@ -849,6 +849,6 @@ ethnoastronomical knowledge for Stellarium software_. Version 1.0
 
 Technical clean-up: Susanne M Hoffmann, 2020
 
-## Licence
+## License
 
 GNU GPL v2.0

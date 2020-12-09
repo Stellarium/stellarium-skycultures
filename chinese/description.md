@@ -255,6 +255,6 @@ primarily on the book _Chinese and Western Contrast Star Chart and Catalogue
 
 Rework by Stellarium's team.
 
-## Licence
+## License
 
 GNU GPL v2.0

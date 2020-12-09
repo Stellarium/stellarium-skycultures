@@ -88,6 +88,6 @@ Smale](d.smale@niwa.co.nz)
 
 Technical adaption: Susanne M Hoffmann
 
-## Licence
+## License
 
 GNU GPL v2.0

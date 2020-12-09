@@ -73,6 +73,6 @@ bright enough to obscure many stars.
 
 Technical rework by Susanne M Hoffmann
 
-## Licence
+## License
 
 GNU GPL v2.0

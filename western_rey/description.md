@@ -81,6 +81,6 @@ This sky culture used to be for a long time an easy user-installable addon
 example contributed by Mike Richards. It has been reworked following the 41st
 reprint and completed with this description by Georg Zotti.
 
-## Licence
+## License
 
 GNU GPL v2.0

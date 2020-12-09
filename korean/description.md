@@ -52,6 +52,6 @@ Tae-Min](http://user.chollian.net/~jtm71/)
 
 Reworked by Susanne M Hoffmann
 
-## Licence
+## License
 
 GNU GPL v2.0

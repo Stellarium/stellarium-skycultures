@@ -94,6 +94,6 @@ Constellations lines, images & English translation by Kutaibaa Akraa.
 
 Text rework: Stellarium's team
 
-## Licence
+## License
 
 GNU GPL v2.0

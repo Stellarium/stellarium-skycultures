@@ -152,6 +152,6 @@ Illustrations were made by Antonio Gumercindo Taques dos Santos (Ticão) and
 
 Technical adaption: Stellarium's team
 
-## Licence
+## License
 
 GNU GPL v2.0

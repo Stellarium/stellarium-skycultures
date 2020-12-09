@@ -63,6 +63,6 @@ Cherney](http://www.terrastro.com).
 
 Technical rework by Susanne M Hoffmann
 
-## Licence
+## License
 
 GNU GPL v2.0

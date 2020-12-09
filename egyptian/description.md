@@ -76,6 +76,6 @@ Juan Antonio Belmonte.
 This sky culture was updated by misibacsi (names of planets) and re-worked by
 Susanne M Hoffmann.
 
-## Licence
+## License
 
 GNU GPL v2.0

@@ -234,6 +234,6 @@ Ciel des Arabes" [#26].
 This sky culture and the compilation of Arabic star names were authored by
 Khalid AlAjaji and slightly reworked by Susanne M Hoffmann.
 
-## Licence
+## License
 
 GNU GPL v2.0

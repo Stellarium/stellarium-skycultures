@@ -43,6 +43,6 @@ of Brazil and the start of the rainy season in the North.
 
 This sky culture was contributed by Stellarium user _Paulo Marcelo Pontes_.
 
-## Licence
+## License
 
 GNU GPL v2.0

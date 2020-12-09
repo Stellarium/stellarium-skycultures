@@ -30,7 +30,7 @@ Illustrations by Johan Meuris.
 
 Edited by Susanne M Hoffmann and the Stellarium's team.
 
-## Licence
+## License
 
 Text and data: GNU GPL v2.0
 

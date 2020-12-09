@@ -31,6 +31,6 @@ Putzolu](mailto:giuseppe.putzolu@gmail.com).
 
 Slightly re-added by Susanne M Hoffmann
 
-## Licence
+## License
 
 GNU GPL v2.0

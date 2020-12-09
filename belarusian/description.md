@@ -70,7 +70,7 @@ Text and data by Alexander Wolf, Tsimafei Avilin and Johan Meuris.
 
 Illustrations by Johan Meuris.
 
-## Licence
+## License
 
 Text and data: TODO
 

@@ -121,6 +121,6 @@ page](https://github.com/sanskrit-coders).
 
 Re-worked by Susanne M Hoffmann
 
-## Licence
+## License
 
 GNU GPL v2.0

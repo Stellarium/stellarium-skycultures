@@ -253,6 +253,6 @@ To learn more about them: [www.souslecieldemongolie.wordpress.com](http://sousle
 
 Re-worked and adapted by Susanne M Hoffmann
 
-## Licence
+## License
 
 GNU GPL v2.0

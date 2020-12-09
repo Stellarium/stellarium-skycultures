@@ -22,6 +22,6 @@ Only four constellations are known from the native navigators of New Zealand.
 This sky culture is a contribution of Stellarium user [Dan
 Smale](mailto:d.smale@niwa.co.nz)
 
-## Licence
+## License
 
 GNU GPL v2.0

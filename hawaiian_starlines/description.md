@@ -158,6 +158,6 @@ The Hawaiian ethnic community.
 
 Reworked by Susanne M Hoffmann
 
-## Licence
+## License
 
 GNU GPL v2.0

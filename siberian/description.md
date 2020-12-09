@@ -54,6 +54,6 @@ Text and data by Alexander Wolf
 
 Text adapted by Susanne M Hoffmann
 
-## Licence
+## License
 
 CC BY-SA

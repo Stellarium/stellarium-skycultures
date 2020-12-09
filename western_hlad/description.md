@@ -52,6 +52,6 @@ Miroslav Broz created version 1.0 for Stellarium 0.13.1. Updates are available
 
 Description re-worked by Stellarium's team.
 
-## Licence
+## License
 
 GNU GPL v2.0

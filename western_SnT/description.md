@@ -34,6 +34,6 @@ and Flamsteed's historical atlases and influenced by other sources
 
 Rework by Stellarium Team.
 
-## Licence
+## License
 
 GNU GPL v2.0

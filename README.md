@@ -130,9 +130,9 @@ Description of constellation 2.
 
 Free text about the authors and their credits.
 
-## Licence
+## License
 
-Free text about the licence(s)
+Free text about the license(s)
 ```
 
 

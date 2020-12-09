@@ -133,6 +133,6 @@ Robert S. Fuller and Ghillar Michael Anderson
 
 Technical re-work by Susanne M Hoffmann
 
-## Licence
+## License
 
 GNU GPL v2.0

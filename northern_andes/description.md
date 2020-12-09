@@ -160,6 +160,6 @@ Andres Ayala Quinatoa
 
 reworked by Susanne M Hoffmann
 
-## Licence
+## License
 
 GNU GPL v2.0
