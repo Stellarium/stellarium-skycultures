@@ -66,13 +66,12 @@ Lord Jesus's chair.
 
 ## Authors
 
-The creation of this sky culture for Stellarium was suggested by Alexander Wolf
-to Johan Meuris, based on the article __Astronyms in Belarussian Folk Beliefs__
-by Tsimafei Avilin [#1], published in the peer-reviewed journal Archaeologia
-Baltica.
+Text and data by Alexander Wolf, Tsimafei Avilin and Johan Meuris.
 
 Illustrations by Johan Meuris.
 
 ## Licence
 
-GNU GPL v2.0
+Text and data: TODO
+
+Illustrations: Free Art Licence

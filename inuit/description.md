@@ -32,4 +32,6 @@ Edited by Susanne M Hoffmann and the Stellarium's team.
 
 ## Licence
 
-GPL v2 (content), Free Art License (illustrations)
+Text and data: GNU GPL v2.0
+
+Illustrations: Free Art License

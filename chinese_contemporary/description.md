@@ -37,6 +37,10 @@ Constellation illustrations and lines are based on the _Modern Sky Culture_ of
 Stellarium and traditional Chinese star names are based on _Chinese Sky
 Culture_ of Stellarium.
 
+Illustrations by Johan Meuris.
+
 ## Licence
 
-GNU GPL v2.0
+Text and data: GNU GPL v2.0
+
+Illustration: Free Art Licence
