@@ -96,4 +96,6 @@ Text rework: Stellarium's team
 
 ## License
 
-GNU GPL v2.0
+Illustrations: Public Domain
+
+Text and data: GNU GPL v2.0

@@ -189,7 +189,7 @@ knowledge of European star charts. These Xingguans were since incorporated into
 the traditional Chinese star maps.
 
 ![](hunxiang.webp)
-_Xingguans Map of Celestial Globe(Su Song，Song dynasty)_
+_Xingguans Map of Celestial Globe (Su Song，Song dynasty)_
 {: .img_and_caption}
 
 ### Deep Space Objects
@@ -246,15 +246,17 @@ controversial. These are only possible translations.
 
 ## Authors
 
-This sky culture was contributed by _Karrie Berglund_ of Digitalis Education
-Solutions, Inc. based on the Hong Kong Space Museum star maps.
+This sky culture was initially contributed by _Karrie Berglund_ of Digitalis
+Education Solutions, Inc. based on the Hong Kong Space Museum star maps.
 
 Sun Shuwei contributed more than 200 Xingguans and more than 3,000 stars，based
 primarily on the book _Chinese and Western Contrast Star Chart and Catalogue
 1950.0_ by Yi Shitong.
 
-Rework by Stellarium's team.
+Text rework by Stellarium's team.
 
 ## License
 
-GNU GPL v2.0
+Su Song and Suzhou maps images: Public Domain
+
+Text and line: CC BY-SA

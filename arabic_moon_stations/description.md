@@ -236,4 +236,4 @@ Khalid AlAjaji and slightly reworked by Susanne M Hoffmann.
 
 ## License
 
-GNU GPL v2.0
+CC BY-SA

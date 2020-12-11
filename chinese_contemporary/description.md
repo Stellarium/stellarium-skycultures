@@ -41,6 +41,6 @@ Illustrations by Johan Meuris.
 
 ## License
 
-Text and data: GNU GPL v2.0
+Text and data: CC BY-SA
 
 Illustrations: Free Art License
