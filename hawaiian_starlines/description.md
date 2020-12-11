@@ -156,7 +156,7 @@ connected with _Keawe_ (α Peg, Markab) and _Kukaniloko_ (α PsA, Fomalhaut).
 
 This sky culture was contributed in 2017 by teachers Darren Kamalu and
 Christopher Blake, Students Jonah Apo, Nicholas Koanui, Brenden Aila and the
-Celestial Navigation class at Kamehameha Schools Kapalama, Honolulu, Hawai’i. 
+Celestial Navigation class at Kamehameha Schools Kapalama, Honolulu, Hawai’i.
 
 Artwork by Kealoha Kaneakua.
 
