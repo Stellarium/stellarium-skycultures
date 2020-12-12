@@ -114,13 +114,12 @@ names.
 
 ## Authors
 
-[Tanmoy Saha](https://groups.google.com/forum/#!forum/sanskrit-programmers)
-
-Contributors from the sanskrit-coders community: [github
+[Tanmoy Saha](https://groups.google.com/forum/#!forum/sanskrit-programmers), 
+Vishvas Vasuki and contributors from the sanskrit-coders community: [github
 page](https://github.com/sanskrit-coders).
 
 Re-worked by Susanne M Hoffmann
 
 ## License
 
-GNU GPL v2.0
+CC BY-SA
