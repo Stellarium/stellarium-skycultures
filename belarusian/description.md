@@ -72,6 +72,6 @@ Illustrations by Johan Meuris.
 
 ## License
 
-Text and data: TODO
+Text and data: GNU GPL v2.0
 
 Illustrations: Free Art License
