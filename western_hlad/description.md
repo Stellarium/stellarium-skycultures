@@ -7,10 +7,8 @@ printed atlas _Hvězdná obloha 2000.0_ by Hlad et al. [#1].
 
 ## Description
 
-![](hvezdna_obloha_2000.webp)![](obloha_na_dlani.webp)
 This atlas is is a folder of loose sheets (62x46cm) with 85,000 celestial
 objects and very decent line prints of the modern constellations.
-{: .img_and_caption }
 
 The constellations in this sky culture follow the 88 IAU-constellations. Only
 stars brighter than 5th magnitude are used because the fainter ones are

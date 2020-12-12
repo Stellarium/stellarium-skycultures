@@ -7,8 +7,6 @@ _The Stars - A New Way To See Them_ by H. A. Rey [#1].
 
 ## Description
 
-![Rey Cover](Rey_cover.webp)
-
 During the 19th century the use and further editions of richly illustrated
 atlases with sumptuously engraved mythological figures fell out of fashion. The
 stars of the constellations in atlases of that time started to be shown
