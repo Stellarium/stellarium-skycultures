@@ -40,9 +40,6 @@ if USE_GOOGLE_TANSLATE:
 
 DIR = os.path.abspath(os.path.dirname(__file__))
 
-# Sky cultures with clean descriptions ready to be shipped in SWE
-CLEAN_SKYCULTURES = ['belarusian', 'arabic', 'aztec']
-
 # Generate the list of all know common names (in english)
 all_english_cn = []
 for id, name_data in utils.COMMON_NAMES.items():
