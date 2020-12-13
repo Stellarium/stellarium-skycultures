@@ -69,10 +69,11 @@ bright enough to obscure many stars.
 
 ## Authors
 
-[Jonas Persson](mailto:jonas.persson@physics.org)
+This sky culture was contributed by Stellarium user [Jonas Persson](mailto:jonas.persson@physics.org).
+Homepage [link](https://www.ntnu.edu/employees/jonas.persson).
 
 Technical rework by Susanne M Hoffmann
 
 ## License
 
-GNU GPL v2.0
+CC BY-SA

@@ -48,11 +48,11 @@ Some star names:
 
 ## Authors
 
-This sky culture was contributed by Stellarium user [Jonas
-Persson](mailto:jonas.persson@mna.hkr.se)
+This sky culture was contributed by Stellarium user [Jonas Persson](mailto:jonas.persson@physics.org).
+Homepage [link](https://www.ntnu.edu/employees/jonas.persson).
 
 Description by Susanne M Hoffmann
 
 ## License
 
-GNU GPL v2.0
+CC BY-SA
