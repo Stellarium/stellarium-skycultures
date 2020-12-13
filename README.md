@@ -49,10 +49,13 @@ The main index.json file must have the following format:
   "thumbnail": "my_thumb.webp",
   // Define to true if international names must be used as fallback when no
   // cultural name is explicitly defined for a sky object.
+  // Typically useful for variants of the western sky culture.
   "fallback_to_international_names": true,
-  // Language which will use the native name by default to label objects
+  // Language which will use the native name by default to label objects rather
+  // than the translated words. For example, english speakers prefer to display
+  // "Ursa Major" rather than "Great Bear".
   "langs_use_native_names": ["en", "pt", "es"],
-  // Language used for native names
+  // Language used when defining native names in this file.
   "native_lang": "lat",
   // The list of constellations
   "constellations": [
@@ -186,3 +189,14 @@ under the langs_use_native_names property.
 
 Beside the file format changes, the new format comes with a script tool for
 updating the .po files when the sky culture content was changed.
+
+This tool can also optionally use google translate to auto-translate all missing
+content.
+
+## Credits and License
+
+Each sky culture should explicitely specify the authors and license for all
+text, lines, images and illustrations. Ideally the license for text, lines and
+graphic content should be CC BY-SA (the one used by wikipedia) or similar or
+more permissive.
+
