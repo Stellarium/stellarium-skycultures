@@ -4,7 +4,7 @@ Sky & Telescope Stellarium Skyculture
 Constellation Shapes
 --------------------
 
-### How `constellationship.fab` was generated
+### How constellation lines were generated
 
 The constellation shapes (`constellationship.fab`) were originally generated using
 a python script, found
@@ -14,7 +14,11 @@ The script queried the VizieR service (http://vizier.u-strasbg.fr/viz-bin/VizieR
 to translate the RA/Dec line endpoints in the S&T data, to Hipparcos
 catalog IDs used by Stellarium.
 
-The data provided by Sky & Telescope is in this directory:
+When constellation data was moved out of the main Stellarium repository,
+the Stellarium team converted the `contellationship.fab` data into the
+`index.json` file you see now.
+
+The original data provided by Sky & Telescope is in this directory:
 
 * `SnT_constellations.txt` - Constellation lines in Sky & Telescope's proprietary format
 * `SnT_star_names.docx` - Sky & Telescope's star naming standards
@@ -52,5 +56,7 @@ the names of the stars used in Sky & Telescope publications.  A script was
 used [here](https://github.com/Stellarium/stellarium/pull/562/files#diff-1fe68ae0f46adac2234529aa572caa58e3ce279287f785105db6c456b7af2a42)
 that extracted the star names from this file, and looked up each star in
 the Hipparcos catalog (using VizieR), and returned the `star_names.fab`
-used in this skyculture.
+used in previous versions of Stellarium.
 
+The Stellarium team translated the `star_names.fab` file into the
+`index.json` file you see now.
