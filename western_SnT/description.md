@@ -36,4 +36,4 @@ Rework by Stellarium Team.
 
 ## License
 
-GNU GPL v2.0
+[CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
