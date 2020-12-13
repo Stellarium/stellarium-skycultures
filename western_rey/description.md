@@ -81,4 +81,4 @@ reprint and completed with this description by Georg Zotti.
 
 ## License
 
-GNU GPL v2.0
+CC BY-SA
