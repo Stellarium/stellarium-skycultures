@@ -90,4 +90,4 @@ Technical adaption: Susanne M Hoffmann
 
 ## License
 
-GNU GPL v2.0
+CC BY-SA
