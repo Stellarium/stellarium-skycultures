@@ -129,10 +129,12 @@ willy" or whirlwind, and can be dangerous to children and uninitiated men.
 
 ## Authors
 
-Robert S. Fuller and Ghillar Michael Anderson
+Text and lines: Robert S. Fuller from [Australian Indigenous Astronomy](http://www.aboriginalastronomy.com.au/)
+
+Illustrations: Ghillar Michael Anderson
 
 Technical re-work by Susanne M Hoffmann
 
 ## License
 
-GNU GPL v2.0
+Text, lines and illustrations: CC BY-NC-ND 4.0
