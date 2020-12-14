@@ -90,6 +90,17 @@ The main index.json file must have the following format:
     },
     ...
   ],
+  // A list of common names for sky objects (any object, not just stars).
+  // If "fallback_to_international_names" was set to true, these names will
+  // override  the international names.
+  // If "fallback_to_international_names" was set to false, these names will
+  // be the only ones displayed in the sky. In such a case it's good to add
+  // names for all main objects like planets and bright stars. 
+  "common_names": {
+    "HIP 91262": [{"english": "The Old Woman"}],
+    "HIP 21421": [{"english": "Spirit of a Polar Bear"}],
+    "NAME Orion Nebula": [{"english": "Nephews or Nieces", "native": "Qangimmaariik", "description": "A group of children"}]
+  },
   // Only used for western sky culture
   "edges": [...]
 ```
