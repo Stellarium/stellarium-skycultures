@@ -6,22 +6,28 @@ Constellation Shapes
 
 ### How constellation lines were generated
 
-The constellation shapes (`constellationship.fab`) were originally generated using
-a python script, found
-[here](https://github.com/Stellarium/stellarium/pull/562/files#diff-d3c90f21d14a04a710c820720bedde465d7bdb1e2984902b400276976bd00cac).
+The constellation shapes are generated using the
+`generate_constellations.py` script found in this directory.
+The script takes the `SnT_constellations.txt` file as input on
+`STDIN` and returns the computed constellations JSON blob
+to `STDOUT`.  Diagnostic messages are printed to `STDERR`.
 
-The script queried the VizieR service (http://vizier.u-strasbg.fr/viz-bin/VizieR)
+The generated JSON blob is then manually inserted into the
+`index.json` file in the parent directory.
+
+The script queries the VizieR service (http://vizier.u-strasbg.fr/viz-bin/VizieR)
 to translate the RA/Dec line endpoints in the S&T data, to Hipparcos
 catalog IDs used by Stellarium.
-
-When constellation data was moved out of the main Stellarium repository,
-the Stellarium team converted the `contellationship.fab` data into the
-`index.json` file you see now.
 
 The original data provided by Sky & Telescope is in this directory:
 
 * `SnT_constellations.txt` - Constellation lines in Sky & Telescope's proprietary format
 * `SnT_star_names.docx` - Sky & Telescope's star naming standards
+
+Note that the `generate_constellations.py` script generates
+a cache file so that it doesn't have to query VizieR every time
+it is executed.  To force re-computing star identities, remove
+the `.hip_cache` file and re-run the script.
 
 ### Constellation translation caveats
 
@@ -31,8 +37,10 @@ Sky & Telescope draws constellation lines with various line weights.
 For example, the "teaspoon" asterism to the east of the "teapot" of
 Sagittarius is drawn using lighter lines than the primary constellation.
 
-Stellarium does not have any way to draw different weights of constellation
-lines, so our translation simply draws all of them.
+Stellarium will (eventually) draw lines with heavier weights if they
+are repeated in the constellation line data.  The generation script
+thus repeats the line paths several times (up to 4) to accurately
+render the line weights as shown in the Sky & Telescope atlases.
 
 #### Non-constellation stars
 
@@ -45,8 +53,7 @@ at stars.
 #### Missing constellations
 
 Sky & Telescope does not provide constellation lines for Microscopium
-and Mensa.  Thus this `constellationship.fab` file contains
-only 86 of the 88 constellations.
+and Mensa.  These are hard-coded into the generation script.
 
 Star Names
 ----------
