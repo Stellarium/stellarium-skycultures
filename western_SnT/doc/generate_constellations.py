@@ -226,7 +226,16 @@ def get_hip(ra, dec, mag):
             # work with Table objects.
             continue
         else:
-            return table['HIP'][0]
+            # There seems to be a bug in the Hipparcos catalog in VizieR for
+            # Xi UMa (Alula Australis).  No matter how you query the region
+            # it never seems to return that star.  It's in the catalog, but
+            # I can't figure out how to get a query to return it without
+            # just specifying its ID.  So this just overrides that one star.
+            # See https://github.com/Stellarium/stellarium/issues/1414
+            if table['HIP'][0] == 55302:
+                return 55203
+            else:
+                return table['HIP'][0]
     return None
 
 class Line():
