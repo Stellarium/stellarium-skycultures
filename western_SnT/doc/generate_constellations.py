@@ -328,12 +328,13 @@ if __name__ == '__main__':
         print("Caught KeyboardInterrupt", file=sys.stderr)
 
     # Special case for Mensa and Microscopium constellations (without lines!)
-    constellations['Men'].append(Line(constellation='Men', weight=1))
-    constellations['Men'][-1].add_vertex(26264)
-    constellations['Men'][-1].add_vertex(26264)
-    constellations['Mic'].append(Line(constellation='Mic', weight=1))
-    constellations['Mic'][-1].add_vertex(103882)
-    constellations['Mic'][-1].add_vertex(103882)
+    # So we create a single line for each, using alpha and beta of each one.
+    constellations['Men'].append(Line(constellation='Men', weight=4))
+    constellations['Men'][-1].add_vertex(29271) # alpha Men
+    constellations['Men'][-1].add_vertex(23467) # beta Men
+    constellations['Mic'].append(Line(constellation='Mic', weight=4))
+    constellations['Mic'][-1].add_vertex(102831) # alpha Mic
+    constellations['Mic'][-1].add_vertex(102989) # beta Mic
 
     print("Generating constellation data...", file=sys.stderr)
     output_json = { "constellations": [ ] }
