@@ -234,6 +234,16 @@ def get_hip(ra, dec, mag):
             # See https://github.com/Stellarium/stellarium/issues/1414
             if table['HIP'][0] == 55302:
                 return 55203
+            # The S&T data specifies that the line from nu Pup to Canopus end
+            # at a blank spot in the middle of nowhere due to the fact that
+            # Canopus is in Carina, not Puppis.  Since Canopus is drawn with
+            # an enormous star size due to its brightness, the offset is huge
+            # as well, which means our normal search routine fails to locate
+            # Canopus and instead locates a mag6 star, HIP 30953, for the
+            # line to end at.  So we override that here to force it to end
+            # at Canopus.  See https://github.com/Stellarium/stellarium/issues/1438
+            elif table['HIP'][0] == 30953:
+                return 30438
             else:
                 return table['HIP'][0]
     return None
