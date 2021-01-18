@@ -24,4 +24,4 @@ Smale](mailto:d.smale@niwa.co.nz)
 
 ## License
 
-GNU GPL v2.0
+Text and lines: CC BY-SA
