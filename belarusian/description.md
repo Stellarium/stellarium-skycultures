@@ -66,7 +66,7 @@ Lord Jesus's chair.
 
 ## Authors
 
-Text and data by Alexander Wolf, Tsimafei Avilin and Johan Meuris.
+Text and data by Alexander Wolf, [Tsimafei Avilin](https://nasb-by.academia.edu/TsimafeiAvilin) and Johan Meuris.
 
 Illustrations by Johan Meuris.
 
