@@ -64,7 +64,9 @@ The main index.json file must have the following format:
       // the sky culture
       "id": "CON western Aql",
       // List of lines paths. Each number is a Hipparcos star number.
-      "lines": [[98036, 97649, 97278], [97649, 95501, 97804], [99473, 97804], [95501, 93747, 93244], [95501, 93805]],
+      // Optionally a line can be prefixed by "thin" or "bold" to adjust the
+      // line weight.
+      "lines": [[98036, 97649, 97278], [97649, 95501, 97804], [99473, 97804], ["thin", 95501, 93747, 93244], [95501, 93805]],
       // Image used as illustration in the sky
       "image": {
         "file": "illustrations/aquila.webp",
