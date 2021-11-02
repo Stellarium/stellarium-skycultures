@@ -60,11 +60,6 @@ the Polynesian voyaging canoe. Stellarium has been used as a tool by the
 navigators of Hokule’a and this sky culture serves as a tool for practicing
 Polynesian navigation.
 
-The technical implementation of the sky culture included here was contributed
-in 2017 by teachers Darren Kamalu and Christopher Blake, Students Jonah Apo,
-Nicholas Koanui, Brenden Aila and the Celestial Navigation class at Kamehameha
-Schools Kapalama, Honolulu, Hawai’i. Artwork by Kealoha Kaneakua.
-
 ## Constellations
 
 ##### Ke Ka o Makali’i
