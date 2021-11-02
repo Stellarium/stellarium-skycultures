@@ -3,11 +3,11 @@
 ## Introduction
 
 A variation of the Western sky culture with lines reproducing the 1988 Czech
-printed atlas _Hvězdná obloha 2000.0_ by Hlad et al. [#1].
+printed atlas _Hvězdná obloha 2000.0_ by Hlad et al.
 
 ## Description
 
-This atlas is is a folder of loose sheets (62x46cm) with 85,000 celestial
+This atlas [#1] is is a folder of loose sheets (62x46cm) with 85,000 celestial
 objects and very decent line prints of the modern constellations.
 
 The constellations in this sky culture follow the 88 IAU-constellations. Only

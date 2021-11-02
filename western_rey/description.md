@@ -3,7 +3,7 @@
 ## Introduction
 
 A variation of the Western sky culture with lines reproducing the 1952 book
-_The Stars - A New Way To See Them_ by H. A. Rey [#1].
+_The Stars - A New Way To See Them_ by H. A. Rey.
 
 ## Description
 
@@ -18,7 +18,7 @@ named after and appeared incomprehensible to beginning stargazers in the middle
 of the 20th century. H. A. Rey (Hans Augusto Reyersbach) (1898-1977), an artist
 and author of children's books of German descent but emigrated to the USA,
 published his answer to this problem in 1952 with the book _The Stars - A New
-Way To See Them_.
+Way To See Them_ [#1].
 
 ### The Constellations
 
