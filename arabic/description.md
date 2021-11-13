@@ -8,9 +8,8 @@ An important aspect of the general discussion section of each constellation is A
 
 #### Angular distance units used by Al-Sufi
 
-|   |Schjellerup||Khalid||
-|---|-------|-------------|------|-------------|
-
+|   ||Schjellerup||Khalid| 
+|----|------|------|-------------|-------------|
 |unit|cubits|Angular Value|cubits|Angular Value|
 |spear|6 cubits|14°|6 cubits|14°|
 |Man-Height|||3 cubits|7°|
