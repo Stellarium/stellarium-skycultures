@@ -128,7 +128,7 @@ The single source of the sky culture is the **The Book of the Stars** and the ob
 
 ## References
 
-[^1] The Arabs and the Stars, Paul Kunitzsch,The Astronomer Abu'L-Husayn Al-Sufi And His Book On The Constellations, XI, pg 57\. Northampton [England]: Variorum Reprints, 1989.
+[^1]: The Arabs and the Stars, Paul Kunitzsch,The Astronomer Abu'L-Husayn Al-Sufi And His Book On The Constellations, XI, pg 57\. Northampton [England]: Variorum Reprints, 1989.
 
 [^2] See Al-Sufi description in his book of the 14th star in Auriga.
 
