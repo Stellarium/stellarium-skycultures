@@ -1,101 +1,147 @@
-# Arabic
+# "Book of the Stars"
 
-## Introduction
+**Book of the Stars** (Arabic:كتاب الكواكب) is an astronomical book written shortly before 964 AD by the astronomer Abu 'l-Ḥusayn 'Abd al-Raḥmān ibn 'Umar al-Şūfi (born in Rayy, 903; died 986), referred to as al-Sufi. It is the most outstanding among the works of the prominent astronomer, as professor Paul Kunitzsch described it. In the book, al-Şūfī treats the 48 classical constellations, which were established and transmitted in Ptolemy's Almagest. The description of each constellation comprises the following four sections: first, a general discussion of the constellation and its individual stars; this section also includes alŞūfi's criticism of the Ptolemaic tradition and notices of his own observations. Second, a record of the indigenous Arabic star names falling under that constellation, and the exact identification of the respective stars with the corresponding Ptolemaic stars. Third, two drawings of the constellation, one as it is seen on a celestial globe, and the other one as it is seen in the sky. Fourth, a table of the stars making up that constellation, giving a verbal description of each star's location and its longitude, latitude, and magnitude. This table closely follows the arrangement of Ptolemy's star catalogue in the Almagest." <sup>[[1]](#footnote-1)</sup>. In addition to the four sections of each constellation mentioned by dr. Kunitzsch, Al-Sufi would identify stars within the 6 magnitudes that were neglected by Ptolemy, but he did not catalogue them and was faithful to Ptolemy star catalog.
 
-The Arabic sky culture, which is in use for more than a thousand years, has
-been influenced greatly by Greek astronomy, particularly by Ptolemy's astronomy
-but also by the traditions of the nomads from the Arabic peninsula.
+An important aspect of the general discussion section of each constellation is Al-Sufi method of facilitating the star identification. He describes each individual star in more than one way: By the star position related to the constellation figure, by its magnitude, by the asterism it forms with other stars like triangle or arc shapes, sometimes by the star position related to the Milky way, and by the angular distance from a closeby star. I have counted more than 700 angular distances measured by al-Sufi in his book. The units he uses for angular distances are cubits, spear length, man-height, span, and finger. Al-Sufi explicitly said in his book that a cubit is equal to two degrees and 20 minutes <sup>[[2]](#footnote-2)</sup>. For the other units, Schjellerup concluded some values, but tracking the 700 measurements, I came up with different values. The following table summarizes the units and relationship to the cubit value from Schjellerup<sup>[[3]](#footnote-3)</sup> and from my research.
 
-## Description
+## Angular distance units used by Al-Sufi
 
-![Book of Fixed Stars](Book_of_Fixed_Stars3.webp)
-The depiction of Orion, as seen from Earth (left) and a mirror-image, from a
-13th-century copy of al-Sufi's _Book of Fixed Stars_ [#4]. In this version,
-Orion's shield has become a long sleeve, typical of Islamic dress.
-{: .img_and_caption }
+<table class="nomenclature">
 
-_Ptolemy_, the Greek astronomer who lived and worked around _100-178 CE_ in
-Alexandria, Egypt, collected ancient Greek descriptions of 1,022 stars in his
-famous book _The Great System of Astronomy_, popularised under its shortened
-Arabic title, the _Almagest_. His catalogue of stars listed coordinates
-and brightness estimates for the stars arranged in _48 constellations_.
+<tbody>
 
-The _Almagest_ was translated into Arabic twice in the 9th century and
-the Arabic translation was then translated into Medieval Latin. Thus, many
-modern star names are based on the star descriptions in the Arabic Almagest.
+<tr valign="top">
 
-### Constellations
+<td></td>
 
-This Arabic sky culture uses the classical _48 constellations_ of the Greek
-_Almagest_. These constellations were described by several Arab and Islamic
-authors. One of them left an indelible influence on the Arabic observation and
-study of stars: the astronomer _Abū al-Husayn ‘Abd Al-Rahmān al-Sūfī_
-(903-986), known also by his Latinized name of _Azophi_. _Al-Sūfī_ produced a
-revised and updated version of Ptolemy's _Almagest_ in a major book called
-_Kitab suwar al-kawakib_, _The Book of Fixed Stars_ [#4], completed around 964
-CE. Built on the basis of the Greek astronomical heritage, the work of
-_Al-Sūfī_ contained a listing of the Arabs' star names, stars magnitudes
-determined by _al-Sūfī_ himself, and two drawings of each constellation, one as
-it is seen in the sky and one reversed right to left as it would appear on a
-celestial globe. The oldest surviving copy was produced by his son around _1010
-CE_ and is preserved in the Bodleian Library, Oxford (MS Marsh 144).
+<td colspan="2" style="text-align:center;">**Schjellerup**</td>
 
-![Book of Fixed Stars](al_sufi_altre_006_copia.webp)
-Cetus as seen in the sky in an old manuscript of Al-Sufi book [#3].
-{: .img_and_caption }
+<td colspan="2" style="text-align:center;">**Khalid**</td>
 
-### The origin of star names
+</tr>
 
-In the Almagest, stars were described by their position within the
-constellation figure, e.g. "the star at the tip of the Bird's tail". In the
-arabic version of the map the label was shortened to the term "tail", "danab"
-in Arabic. Other star names used by _al-Sūfī_ and his compatriots were direct
-translations from Ptolemy's descriptions. For example, the modern star name
-_Fomalhaut_ comes from the Arabic "mouth of the southern fish", which is where
-_Ptolemy_ had described the star's position in the _Almagest_.
+<tr valign="top">
 
-Other star names describe the star itself, such as _Sirius_, which is derived
-from the Greek original and means "the brightest one" (literally as
-"scorching"). Another name describing the star's appearance is _Algol_, derived
-from the name of a desert demon whose Arabic name was "The Ghoul", whose eye is
-twinkeling at us. Quite a lot of prominent stars bear Arabic names, in which
-"al" corresponds to the article "the" but its inclusion has become somewhat
-arbitrary over time. Several star names of Arabic origin are given with or
-without the al- prefix.
+<td>**unit**</td>
 
-Local tradition of the peoples of _Islamic lands_ in the Arabian Peninsula and
-in the Middle East had their own names for various bright stars such as
-_Aldebaran_, The Follower (of the Star Cluster we name the Pleiades). They
-usually regarded single stars as representing _animals or people_, e.g. Diphda
-(_beta Ceti_), the Second Frog. The stars we know as _Alpha_ and _Beta
-Ophiuchi_ were regarded as a _shepherd_ and _his dog_, while neighbouring stars
-made up the outlines of a _field with sheep_. Some of the Arabic names were
-already many centuries old and their meanings were lost even for _al-Sūfī_ and
-his contemporaries, and they remain unknown until today.
+<td>**cubits**</td>
 
-## References
+<td>**Angular Value**</td>
 
- - [#1]: Star Tales on [Ian Ridpath website](http://www.ianridpath.com/startales/startales1b.htm)
- - [#2]: Abd al-Rahman Al-Sufi [article on Wikipedia](http://en.wikipedia.org/wiki/Abd_al-Rahman_al-Sufi)
- - [#3]: Constellations Illustrations by Al-Sufi. Images of a manuscript of Al-Sufi book with sample artistic illustrations and star table samples. [Link](http://www.atlascoelestis.com/alsufi%20Suwar.htm)
- - [#4]: The Original manuscript of Al-Sufi's "Kitab suwar al-kawakib" (The Book of Fixed Stars). Paris Digital Library "Gallica". [Link](http://gallica.bnf.fr/ark:/12148/btv1b60006156.image.f7.pagination)
- - [#5]: List of Arabic Star Names [article on Wikipedia](http://en.wikipedia.org/wiki/List_of_Arabic_star_names).
- - [#6]: Richard Hinckley Allen. _Star Names — Their Lore and Meaning_. [Link](http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/home.html)
- - [#7]: Islamic science heritage. _Arabic Star Names: A Treasure of Knowledge Shared by the World._ [Link](http://www.muslimheritage.com/article/arabic-star-names-treasure-knowledge-shared-world)
- - [#8]: [The Arab Astronomy Forum](http://www.jas.org.jo/forum/viewtopic.php)
- - [#9]: [The Islamic Crescent's Observation Project "ICOP"](http://www.icoproject.org/star.html) for granting a permission to use there lists of "Arabic" Constellations and star names.
- - [#10]: Arabic Stellarium Translation team
+<td>**cubits**</td>
 
-## Authors
+<td>**Angular Value**</td>
 
-The Arabic star names were compiled and added to Stellarium by Khalid Alajaji.
+</tr>
 
-Constellations lines, images & English translation by Kutaibaa Akraa.
+<tr valign="top">
 
-Text rework: Stellarium's team
+<td>spear</td>
 
-## License
+<td>6 cubits</td>
 
-Illustrations: Public Domain
+<td><notr>14°</notr></td>
 
-Text and data: GNU GPL v2.0
+<td>6 cubits</td>
+
+<td><notr>14°</notr></td>
+
+</tr>
+
+<tr valign="top">
+
+<td>Man-Height</td>
+
+<td></td>
+
+<td></td>
+
+<td>3 cubits</td>
+
+<td><notr>7°</notr></td>
+
+</tr>
+
+<tr valign="top">
+
+<td>cubit</td>
+
+<td>1 cubit</td>
+
+<td><notr>2°20'</notr></td>
+
+<td>1 cubit</td>
+
+<td><notr>2°20'</notr></td>
+
+</tr>
+
+<tr valign="top">
+
+<td>span</td>
+
+<td>1/3 of a cubit</td>
+
+<td><notr>47'</notr></td>
+
+<td>1/2 of a cubit</td>
+
+<td><notr>1°10'</notr></td>
+
+</tr>
+
+<tr valign="top">
+
+<td>finger</td>
+
+<td>1/32 of a cubit</td>
+
+<td><notr>4.4'</notr></td>
+
+<td>1/16 of a cubit</td>
+
+<td><notr>8.75'</notr></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+Another important aspect of Al-Sufi book is his record of the indigenous Arabic star names falling under each constellation, and the exact identification of the respective stars with the corresponding Ptolemaic stars. This means that we are looking at two layers of stars knowledge at the same time: the Ptolemaic one and the indigenous Arab one.
+
+## The Sky Culture
+
+This sky culture is a result of a research done on several manuscripts of the book, oldest of which is the [Oxford, Bodleian Library Ms. Marsh 144 dated 1009 AD](https://iiif.bodleian.ox.ac.uk/iiif/viewer/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535).
+
+First, the manuscripts of the **The Book of the Stars** were critically edited, and the text was produced. Second, each member star of the 48 constellations was identified according to Al-Sufi description, and new tables were built including modern star designations from the Hipparcos, Bright stars, and Bayer catalogues. Third, Arab indigenous star names were collected and identified as mapped by Al-Sufi to the Ptolemaic ones. All the previous steps were included in a book published digitally of the **The Book of the Stars** plus explanations and commentary by Khalid Al-Ajaji, the author of this sky culture<sup>[[4]](#footnote-4)</sup>.
+
+The sky culture stick figures of the constellations are the images in the Ulugh Beg manuscript of the **The Book of the Stars**, extracted, and adapted for Stellarium by Mr. Kutaibaa Akraa <sup>[[5]](#footnote-5)</sup>. The star names file includes the star number in the constellation as the primary star name and the description of the star in the tables as a secondary name. For example, Polaris primary name that is displayed with the star is: UMi 1, UMi being Ursa Minor and 1 is the first star of this constellation. If the star is selected other secondary names are displayed, which will display "The star on the end of the tail". The constellation lines are constructed according to the constellation shapes with an attempt to include most of the member stars. For indigenous Arab star knowledge, individual star names were added to the star file as secondary names, while names of group of stars were defined through constellation names and constellation lines.
+
+The translation of star descriptions from Arabic into English was extracted from Ernie Wright website<sup>[[6]](#footnote-6)</sup> which was transcribed from Toomer's translation of the Almagest<sup>[[7]](#footnote-7)</sup>. The translation was modified in a few places to agree with Al-Sufi wording.
+
+The single source of the sky culture is the **The Book of the Stars** and the objective is to give a faithful representation of the book content.
+
+## Fair Use
+
+This sky culture is provided for free under CC BY-ND 4.0 International Public License (share-alike, do not change it without consulting the contributor, and cite the contributor). The author wishes that this work be cited according to the common rules.
+
+## Author
+
+This sky culture was compiled and added to Stellarium by Khalid Al-Ajaji: turath.alfalak@gmail.com
+
+## Notes
+
+[1] The Arabs and the Stars, Paul Kunitzsch,The Astronomer Abu'L-Husayn Al-Sufi And His Book On The Constellations, XI, pg 57\. Northampton [England]: Variorum Reprints, 1989.
+
+[2] See Al-Sufi description in his book of the 14th star in Auriga.
+
+[3] DESCRIPTIONS DES ETOILES FIXES, traduction littérale avec des notes par H C F C Schjellerup, St Petersbourg, 1874, pg 26-27.
+
+[4] [Book of Fixed Stars: Critical edition with commentary by Khalid AlAjaji](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).
+
+[5] [Oulough Beg copy of ʿAbd al-Raḥmān ibn ʿUmar al-Ṣūfī. Kitāb ṣuwar al-kawākib al-ṯābita, Paris, Bibliothèque nationale de France Ms. Arabe 5036](https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).
+
+[6] [Seeing Ancient Stars, Visualization of the Almagest Catalog](http://www.etwright.org/astro/almagest.html#cat).
+
+[7] Ptolemy’s ALMAGEST, G. J. Toomer, Princeton University Press, 2nd ed., 1998.
