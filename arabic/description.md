@@ -1,4 +1,4 @@
-# Book of the Stars#
+# Book of the Stars
 ##Introduction
 This sky culture reflects the contents of **Book of the Stars** (Arabic:كتاب الكواكب), written by the famous astronomer: al-Şūfi in the 10th century. The book describes the stars of the 48 classical Greek constellations and map to them the indigenous Arab star names and asterisms.
 ##Description
