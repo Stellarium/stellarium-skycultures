@@ -13,7 +13,7 @@ In addition to the four sections of each constellation mentioned by dr. Kunitzsc
 
 An important aspect of the general discussion section of each constellation is Al-Sufi method of facilitating the star identification. He describes each individual star in more than one way: By the star position related to the constellation figure, by its magnitude, by the asterism it forms with other stars like triangle or arc shapes, sometimes by the star position related to the Milky way, and by the angular distance from a closeby star. I have counted more than 700 angular distances measured by al-Sufi in his book. The units he uses for angular distances are cubits, spear length, man-height, span, and finger. Al-Sufi explicitly said in his book that a cubit is equal to two degrees and 20 minutes[^2]. For the other units, Schjellerup concluded some values, but tracking the 700 measurements, I came up with different values. The following table summarizes the units and relationship to the cubit value from Schjellerup[^3] and from my research.
 
-#### Angular distance units used by Al-Sufi
+### Angular distance units used by Al-Sufi
 
 |   |Schjellerup||Khalid|| 
 |----|------|------|-------------|-------------|
@@ -26,10 +26,114 @@ An important aspect of the general discussion section of each constellation is A
 
 Another important aspect of Al-Sufi book is his record of the indigenous Arabic star names falling under each constellation, and the exact identification of the respective stars with the corresponding Ptolemaic stars. This means that we are looking at two layers of stars knowledge at the same time: the Ptolemaic one and the indigenous Arab one.
 ## Constellations
+The sky culture contains the 48 Greek constellations listed by Ptolemy in the Almagest plus three constellations imagined by Al-Sufi and were illustrated in his book.
 
-##### Constellation 1
+The constellations are listed here in the same order as they appear in the book, beginning with the most nortern ones.
+ 
+##### Ursa Minor
+The Little Bear.
+##### Ursa Major
+the Great Bear.
+##### Draco
+The dragon.
+##### Cepheus
+King Cepheus.
+##### Bootes
+The clamorous.
+##### Corona Borealis
+The northern crown.
+##### Hercules
+The Kneeing man.
+##### Lyra
+The lyre.
+##### Cygnus
+The Bird.
+##### Cassiopeia
+The woman on the chair.
+##### Perseus
+The bearer of the Demon's Head 
+##### Auriga
 
-#### Compilation of the sky culture
+##### Ophiuchus
+
+##### Serpens
+
+##### Sagitta
+
+##### Aquila
+
+##### Delphinus
+
+##### Equuleus
+
+##### Pegasus
+
+##### Andromeda
+
+##### Triangulum
+
+##### Aries
+
+##### Taurus
+
+##### Gemini
+
+##### Cancer
+
+##### Leo
+
+##### Virgo
+
+##### Libra
+
+##### Scorpius
+
+##### Sagittarius
+
+##### Capricornus
+
+##### Aquarius
+
+##### Pisces
+
+##### Cetus
+
+##### Orion
+
+##### Eridanus
+
+##### Lepus
+
+##### Canis Major
+
+##### Canis Minor
+
+##### Argo Navis
+
+##### Hydra
+
+##### Crater
+
+##### Corvus
+
+##### Centaurus
+
+##### Lupus
+
+##### Ara
+
+##### Corona Australis
+
+##### Piscis Austrinus
+
+##### The Horse
+
+##### The great fish
+
+##### The other fish
+
+
+### Compilation of the sky culture
 
 This sky culture is a result of research done on several manuscripts of the book, oldest of which is the [Oxford, Bodleian Library Ms. Marsh 144 dated 1009 AD](https://iiif.bodleian.ox.ac.uk/iiif/viewer/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535).
 Several manuscripts of the **The Book of the Stars** were critically editedto produce the most accurate text as was written by Al-Sufi. Then, each member star of the 48 constellations was identified according to Al-Sufi description, and new tables were built including modern star designations from the Hipparcos, Bright stars, and Bayer catalogues. In addition, Arab indigenous star names were collected and identified as mapped by Al-Sufi to the Ptolemaic ones. All the previous steps were included in a book published digitally of the **The Book of the Stars** plus explanations and commentary by Khalid Al-Ajaji, the author of this sky culture[^4].
