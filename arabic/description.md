@@ -132,13 +132,14 @@ This sky culture was compiled and added to Stellarium by Khalid Al-Ajaji: turath
 This sky culture is provided for free under CC BY-ND 4.0 International Public License (share-alike, do not change it without consulting the contributor, and cite the contributor). The author wishes that this work be cited according to the common rules.
 ## References
 
-[^1]: The Arabs and the Stars, Paul Kunitzsch,The Astronomer Abu'L-Husayn Al-Sufi And His Book On The Constellations, XI, pg 57.           Northampton [England]: Variorum Reprints, 1989.
+[^1]: The Arabs and the Stars, Paul Kunitzsch,The Astronomer Abu'L-Husayn Al-Sufi And His Book On The Constellations, XI, pg 57.
+  Northampton [England]: Variorum Reprints, 1989.
 
 [^2]: See Al-Sufi description in his book of the 14th star in Auriga.
 
 [^3]: DESCRIPTIONS DES ETOILES FIXES, traduction littérale avec des notes par H C F C Schjellerup, St Petersbourg, 1874, pg 26-27.
 
-[^4]: [Book of Fixed Stars: Critical edition with commentary by Khalid AlAjaji] (https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).
+[^4]: [Book of Fixed Stars: Critical edition with commentary by Khalid AlAjaji](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)
 
 [^5]: [Oulough Beg copy of ʿAbd al-Raḥmān ibn ʿUmar al-Ṣūfī. Kitāb ṣuwar al-kawākib al-ṯābita, Paris, Bibliothèque nationale de France Ms. Arabe 5036](https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).
 
