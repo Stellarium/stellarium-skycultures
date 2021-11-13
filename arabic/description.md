@@ -36,7 +36,8 @@ This sky culture was compiled and added to Stellarium by Khalid Al-Ajaji: turath
 ## License
 This sky culture is provided for free under CC BY-ND 4.0 International Public License (share-alike, do not change it without consulting the contributor, and cite the contributor). The author wishes that this work be cited according to the common rules.
 ## References
-
+1. Book of the stars
+2. Kunitzsch
 [^1]: The Arabs and the Stars, Paul Kunitzsch,The Astronomer Abu'L-Husayn Al-Sufi And His Book On The Constellations, XI, pg 57.
   Northampton [England]: Variorum Reprints, 1989.
 
