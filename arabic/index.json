@@ -1,563 +1,591 @@
 {
-  "id": "arabic",
+  "id": "Arabic",
   "region": "Middle East",
-  "langs_use_native_names": ["ar"],
-  "native_lang": "ar",
   "constellations": [
     {
-      "id": "CON arabic 01UMi01",
-      "lines": [[72607, 75097]],
+      "id": "CON Arabic 0199",
+      "lines": [[72607,75097]],
       "common_name": {"english": "The two oryx calves", "native": "الفرقدان"}
     },
     {
-      "id": "CON arabic 01UMi02",
-      "lines": [[11767, 85822, 82080, 77055, 72607, 70692, 69112, 62572, 11767]],
+      "id": "CON Arabic 0299",
+      "lines": [[11767,85822, 82080, 77055, 72607, 70692, 69112, 62572, 11767]],
       "common_name": {"english": "The axe of the grindstone", "native": "فأس الرحى"}
     },
     {
-      "id": "CON arabic 02UMa01",
-      "lines": [[67301, 65378, 62956, 59774, 58001, 53910, 54061, 59774]],
+      "id": "CON Arabic 0399",
+      "lines": [[54061,53910, 58001, 59774, 62956, 65378, 67301]],
       "common_name": {"english": "Daughters of Na'sh", "native": "بنات نعش"}
     },
     {
-      "id": "CON arabic 02UMa03",
-      "lines": [[57565, 54951, 53417, 52098, 51056, 49593, 46952, 45688, 44700, 44248, 41075, 36145], [45860, 45688], [53229, 52098]],
-      "common_name": {"english": "The Gazelles", "native": "الظباء"}
-    },
-    {
-      "id": "CON arabic 02UMa04",
-      "lines": [[51233, 48833, 47029, 43531, 39847]],
-      "common_name": {"english": "The Gazelles youngsters", "native": "أولاد الظباء"}
-    },
-    {
-      "id": "CON arabic 02UMa05",
-      "lines": [[45075, 46733, 48319, 48402, 46853, 44901]],
-      "common_name": {"english": "The water pool", "native": "الحوض"}
-    },
-    {
-      "id": "CON arabic 02UMa06",
-      "lines": [[55219, 55203]],
+      "id": "CON Arabic 0410",
+      "lines": [[55219,55203]],
       "common_name": {"english": "The first leap", "native": "القفزة الأولى"}
     },
     {
-      "id": "CON arabic 02UMa07",
-      "lines": [[50372, 50801]],
+      "id": "CON Arabic 0420",
+      "lines": [[50372,50801]],
       "common_name": {"english": "The second leap", "native": "القفزة الثانية"}
     },
     {
-      "id": "CON arabic 02UMa08",
-      "lines": [[44127, 44471]],
+      "id": "CON Arabic 0430",
+      "lines": [[44127,44471]],
       "common_name": {"english": "The third leap", "native": "القفزة الثالثة"}
     },
     {
-      "id": "CON arabic 03Dra01",
-      "lines": [[83895, 80331]],
-      "common_name": {"english": "The two wolves", "native": "الذئبان"}
+      "id": "CON Arabic 0499",
+      "lines": [[61317,58684, 55560, 54539, 52469, 48682],[57565,54951, 53417, 50303, 45860, 44700, 44248],[60485,57399, 54539]],
+      "common_name": {"english": "The Gazelles and thier youngsters", "native": "الظباء وأولاد الظباء"}
     },
     {
-      "id": "CON arabic 03Dra02",
-      "lines": [[85805, 86201]],
+      "id": "CON Arabic 0501",
+      "lines": [[46733,48319]],
+      "common_name": {"english": "The two preceding to the water", "native": "الفارطان"}
+    },
+    {
+      "id": "CON Arabic 0599",
+      "lines": [[41704,45075, 46733, 48319, 48402, 46853, 44901]],
+      "common_name": {"english": "The pool", "native": "الحوض"}
+    },
+    {
+      "id": "CON Arabic 0601",
+      "lines": [[85805,86201]],
       "common_name": {"english": "The wolf claws", "native": "أظفار الذئب"}
     },
     {
-      "id": "CON arabic 03Dra03",
-      "lines": [[85819, 85670, 87833, 87585, 85819]],
+      "id": "CON Arabic 0699",
+      "lines": [[83895,80331]],
+      "common_name": {"english": "The two wolves", "native": "الذئبان"}
+    },
+    {
+      "id": "CON Arabic 0799",
+      "lines": [[85819,85670, 87833, 87585, 85819]],
       "common_name": {"english": "The mother camels", "native": "العوائذ"}
     },
     {
-      "id": "CON arabic 03Dra05",
-      "lines": [[95081, 98702, 89908, 95081]],
+      "id": "CON Arabic 0899",
+      "lines": [[94376,97433, 89937, 94376]],
       "common_name": {"english": "The three stone support", "native": "الأثافي"}
     },
     {
-      "id": "CON arabic 04Cep01",
-      "lines": [[102422, 101093, 98962, 97892, 98073, 99655, 101084, 102431, 102775, 102727, 102422]],
+      "id": "CON Arabic 0999",
+      "lines": [[102422,101093, 98962, 97892, 98073, 99655, 101084, 102431, 102775, 102727, 102422]],
       "common_name": {"english": "The pot", "native": "القدر"}
     },
     {
-      "id": "CON arabic 04Cep02",
-      "lines": [[106032, 105199]],
+      "id": "CON Arabic 1001",
+      "lines": [[106032,105199]],
       "common_name": {"english": "The two stars of separation", "native": "كوكبا الفرق"}
     },
     {
-      "id": "CON arabic 04Cep03",
-      "lines": [[107119, 112724, 117371, 3721, 5626, 5372, 109693, 101044, 99255, 99255, 101260, 107119]],
+      "id": "CON Arabic 1099",
+      "lines": [[107119,112724, 117371, 3721, 5626, 5372, 109693, 101044, 99255, 99255, 101260, 107119]],
       "common_name": {"english": "The sheep", "native": "الشاء"}
     },
     {
-      "id": "CON arabic 05Boo01",
-      "lines": [[72105, 67927]],
+      "id": "CON Arabic 1101",
+      "lines": [[71053,71284, 72105, 67927, 67275, 67459]],
       "common_name": {"english": "The spear", "native": "الرمح"}
     },
     {
-      "id": "CON arabic 05Boo02",
-      "lines": [[67275, 67459]],
-      "common_name": {"english": "The front spear tassel - the weapon", "native": "عذبة الرمح الأولى - السلاح"}
+      "id": "CON Arabic 1199",
+      "lines": [[69673,69226, 67665],[71053,71284, 72105, 67927, 67275, 67459]],
+      "common_name": {"english": "The armed one", "native": "ذو السلاح"}
     },
     {
-      "id": "CON arabic 05Boo03",
-      "lines": [[71284, 71053]],
-      "common_name": {"english": "The rear spear tassel", "native": "عذبة الرمح الثانية"}
+      "id": "CON Arabic 1299",
+      "lines": [[65474,65239]],
+      "common_name": {"english": "The unarmed one", "native": "السماك الأعزل"}
     },
     {
-      "id": "CON arabic 05Boo04",
-      "lines": [[71075, 72552, 73568, 73996, 75312, 76617, 80181, 81693, 81833, 81126, 79992, 70497, 69483, 69732, 71075]],
+      "id": "CON Arabic 1399",
+      "lines": [[71075,72552, 73568, 73996, 75312, 76617, 80181, 81693, 81833, 81126, 79992, 70497, 69483, 69732, 71075]],
       "common_name": {"english": "The hyenas and their youngsters", "native": "الضباع وأولاد الضباع"}
     },
     {
-      "id": "CON arabic 06CrB01",
-      "lines": [[77048, 76127, 75695, 76267, 76952, 77512, 78159, 78493]],
-      "common_name": {"english": "The open circle - The bowl of the poor", "native": "الفكَّة - قصعة المساكين"}
+      "id": "CON Arabic 1499",
+      "lines": [[77048,76127, 75695, 76267, 76952, 77512, 78159, 78493]],
+      "common_name": {"english": "The bowl of the poor", "native": "قصعة المساكين"}
     },
     {
-      "id": "CON arabic 07Her01",
-      "lines": [[93194, 92420, 88794, 87933, 86974, 85693, 84379, 80816, 80170, 79043, 78072, 77233]],
-      "common_name": {"english": "The northern line", "native": "النسق الشامي"}
+      "id": "CON Arabic 1501",
+      "lines": [[92420,87933, 86974, 85693, 84379, 80816, 80170, 79043, 78072, 77233, 75530]],
+      "common_name": {"english": "The northern line", "native": "النسق الشآمي"}
     },
     {
-      "id": "CON arabic 07Her02",
-      "lines": [[83207, 84380, 87808, 90139]],
-      "common_name": {"english": "The statues", "native": "التماثيل"}
-    },
-    {
-      "id": "CON arabic 08Lyr01",
-      "lines": [[91262, 91919], [91262, 91971]],
-      "common_name": {"english": "The landing eagle ", "native": "النسر الواقع"}
-    },
-    {
-      "id": "CON arabic 08Lyr02",
-      "lines": [[89826, 90191]],
-      "common_name": {"english": "The claws", "native": "الأظفار"}
-    },
-    {
-      "id": "CON arabic 09Cyg01",
-      "lines": [[94779, 97165, 100453, 102488, 104732]],
-      "common_name": {"english": "The knights", "native": "الفوارس"}
-    },
-    {
-      "id": "CON arabic 10Cas01",
-      "lines": [[116631, 116805, 116584, 117221, 841, 2225, 2900, 3414, 3504, 3300, 2920, 746, 2599, 8886]],
-      "common_name": {"english": "The she-camel", "native": "الناقة"}
-    },
-    {
-      "id": "CON arabic 10Cas02",
-      "lines": [[8886, 6686, 4427, 3179, 746]],
-      "common_name": {"english": "The henna tinted hand", "native": "الكف الخضيب"}
-    },
-    {
-      "id": "CON arabic 11Per01",
-      "lines": [[13268, 14328]],
-      "common_name": {"english": "The forearm", "native": "الساعد"}
-    },
-    {
-      "id": "CON arabic 11Per02",
-      "lines": [[17358, 17529, 18532]],
-      "common_name": {"english": "The arm", "native": "العضد"}
-    },
-    {
-      "id": "CON arabic 11Per03",
-      "lines": [[17448, 18246]],
-      "common_name": {"english": "The shoulder", "native": "العاتق"}
-    },
-    {
-      "id": "CON arabic 11Per04",
-      "lines": [[8886, 11020, 13268, 14328, 15863, 16826, 17358, 18532, 18614, 18246, 17448]],
-      "common_name": {"english": "The extended arm of Al-Thurayya", "native": "يد الثريا الممدودة"}
-    },
-    {
-      "id": "CON arabic 12Aur01",
-      "lines": [[28358, 23522, 17959, 14862, 36547, 47193, 51808, 33694, 29997, 33449, 28358]],
-      "common_name": {"english": "The northern tent", "native": "الخباء"}
-    },
-    {
-      "id": "CON arabic 12Aur02",
-      "lines": [[28360, 23015, 25428]],
-      "common_name": {"english": "The posts - The associates of Al-Ayyuq", "native": "الأعلام - توابع العيوق"}
-    },
-    {
-      "id": "CON arabic 12Aur03",
-      "lines": [[23767, 23453]],
-      "common_name": {"english": "The two kids", "native": "الجديان"}
-    },
-    {
-      "id": "CON arabic 13Oph01",
-      "lines": [[93194, 92420, 88794, 87933, 86974, 85693, 84379, 80816, 80170, 79043, 78072, 77233], [76276, 77070, 77622, 79593, 79882, 80628, 81377, 84012, 84893]],
-      "common_name": {"english": "The desert natural garden and the goats", "native": "الروضة والأغنام"}
-    },
-    {
-      "id": "CON arabic 14Ser01",
-      "lines": [[76276, 77070, 77622, 79593, 79882, 80628, 81377, 84012, 84893]],
+      "id": "CON Arabic 1502",
+      "lines": [[75530,76276, 77070, 77622, 79593, 79882, 80628, 81377, 84012, 84893]],
       "common_name": {"english": "The southern line", "native": "النسق اليماني"}
     },
     {
-      "id": "CON arabic 16Aql01",
-      "lines": [[97649, 98036], [97649, 97278]],
+      "id": "CON Arabic 1599",
+      "lines": [[75530,75530],[92420,92420],[84893,84893]],
+      "common_name": {"english": "The desert garden and the goats", "native": "الروضة والأغنام"}
+    },
+    {
+      "id": "CON Arabic 1699",
+      "lines": [[91262,91919],[91262,91971]],
+      "common_name": {"english": "The landing eagle", "native": "النسر الواقع"}
+    },
+    {
+      "id": "CON Arabic 1799",
+      "lines": [[97649,98036],[97649,97278]],
       "common_name": {"english": "The flying eagle", "native": "النسر الطائر"}
     },
     {
-      "id": "CON arabic 16Aql02",
-      "lines": [[93805, 96468]],
-      "common_name": {"english": "The two young male ostriches", "native": "الظليمان الصغيران"}
+      "id": "CON Arabic 1899",
+      "lines": [[94779,97165, 100453, 102488, 104732]],
+      "common_name": {"english": "The knights", "native": "الفوارس"}
     },
     {
-      "id": "CON arabic 17Del01",
-      "lines": [[102532, 102281, 101769, 101958, 102532]],
-      "common_name": {"english": "The young camel", "native": "القعود"}
+      "id": "CON Arabic 1901",
+      "lines": [[116631,116805, 116584, 117221]],
+      "common_name": {"english": "The camel head", "native": "رأس الناقة"}
     },
     {
-      "id": "CON arabic 19Peg01",
-      "lines": [[115250, 115623], [113881, 677], [113881, 1067], [113963, 677], [113963, 1067]],
-      "common_name": {"english": "The well bucket", "native": "الدلو"}
+      "id": "CON Arabic 1902",
+      "lines": [[117221,841, 2225, 2900, 3414, 3504, 3300, 2920]],
+      "common_name": {"english": "The camel neck", "native": "عنق الناقة"}
     },
     {
-      "id": "CON arabic 19Peg02",
-      "lines": [[113881, 113963]],
-      "common_name": {"english": "The front bucket mouth", "native": "الفرغ المقدم"}
+      "id": "CON Arabic 1903",
+      "lines": [[5251,8068],[4998,7607]],
+      "common_name": {"english": "The camel front legs", "native": "يدا الناقة"}
     },
     {
-      "id": "CON arabic 19Peg03",
-      "lines": [[677, 1067]],
-      "common_name": {"english": "The rear bucket mouth", "native": "الفرغ المؤخر"}
+      "id": "CON Arabic 1999",
+      "lines": [[116631,116805, 116584, 117221, 841, 2225, 2900, 3414, 3504, 3300, 2920, 2505, 746, 2599, 8886],[2505,3179, 3821, 4292, 4427, 2599]],
+      "common_name": {"english": "The she-camel", "native": "الناقة"}
     },
     {
-      "id": "CON arabic 19Peg04",
-      "lines": [[115250, 115623]],
-      "common_name": {"english": "The well poles - The bucket rope knot", "native": "النعام - الكرب"}
+      "id": "CON Arabic 2001",
+      "lines": [[8886,8886],[4427,4427],[6686,6686],[746,746],[3179,3179]],
+      "common_name": {"english": "The henna tinted hand", "native": "الكف الخضيب"}
     },
     {
-      "id": "CON arabic 19Peg05",
-      "lines": [[109427, 109068]],
-      "common_name": {"english": "The lucky star of the young sheep", "native": "سعد البهام"}
+      "id": "CON Arabic 2002",
+      "lines": [[17702,18246],[17702,17448]],
+      "common_name": {"english": "The shoulder blade", "native": "العاتق"}
     },
     {
-      "id": "CON arabic 19Peg06",
-      "lines": [[112029, 112447]],
-      "common_name": {"english": "The lucky star of the one with great endeavour", "native": "سعد الهمام"}
+      "id": "CON Arabic 2003",
+      "lines": [[18246,18614],[17448,17460]],
+      "common_name": {"english": "The shoulder", "native": "المنكب"}
     },
     {
-      "id": "CON arabic 19Peg07",
-      "lines": [[112440, 112748]],
-      "common_name": {"english": "The lucky star of the excellent one", "native": "سعد البارع"}
+      "id": "CON Arabic 2004",
+      "lines": [[18614,18532, 17358],[17460,17529, 16335]],
+      "common_name": {"english": "The arm", "native": "العضد"}
     },
     {
-      "id": "CON arabic 19Peg08",
-      "lines": [[112158, 112051]],
-      "common_name": {"english": "The lucky star of Mattar", "native": "سعد مطر"}
+      "id": "CON Arabic 2005",
+      "lines": [[17358,14328],[16335,15863, 14328]],
+      "common_name": {"english": "The elbow", "native": "المرفق"}
     },
     {
-      "id": "CON arabic 19Peg09",
-      "lines": [[3810, 3632, 2903, 2224, 2219, 2568, 3138, 3685, 3810]],
-      "common_name": {"english": "The fox place", "native": "بلدة الثعلب"}
+      "id": "CON Arabic 2006",
+      "lines": [[14328,13268, 11020]],
+      "common_name": {"english": "The forearm", "native": "الساعد"}
     },
     {
-      "id": "CON arabic 20And01",
-      "lines": [[3231, 2912, 3092, 3031, 3693, 4463, 5132, 5310, 5454, 5571, 5742, 6193, 5447, 4436, 3881, 3231]],
-      "common_name": {"english": "The fish - The well bucket rope", "native": "الحوت - الرشاء"}
-    },
-    {
-      "id": "CON arabic 21Tri01",
-      "lines": [[8796, 10064]],
-      "common_name": {"english": "The two forelegs of the lamb", "native": "الأيبسان"}
-    },
-    {
-      "id": "CON arabic 22Ari02",
-      "lines": [[9884, 8903]],
-      "common_name": {"english": "The two signs", "native": "الشرطان"}
-    },
-    {
-      "id": "CON arabic 22Ari05",
-      "lines": [[14838, 13914, 13702, 14838]],
-      "common_name": {"english": "The little abdomen", "native": "البطين"}
-    },
-    {
-      "id": "CON arabic 23Tau01",
-      "lines": [[17573, 17499, 17702, 17847, 17573]],
-      "common_name": {"english": "Al-Thurayya", "native": "الثريا"}
-    },
-    {
-      "id": "CON arabic 23Tau02",
-      "lines": [[20250, 19038, 18724, 20901, 23497, 20250]],
-      "common_name": {"english": "The young she-camels", "native": "القلاص"}
-    },
-    {
-      "id": "CON arabic 23Tau03",
-      "lines": [[20711, 20635]],
-      "common_name": {"english": "The two dogs of Al-Dabaran", "native": "كلبا الدبران"}
-    },
-    {
-      "id": "CON arabic 24Gem01",
-      "lines": [[36850, 37826]],
-      "common_name": {"english": "The extended arm [of the lion]", "native": "الذراع المبسوطة"}
-    },
-    {
-      "id": "CON arabic 24Gem02",
-      "lines": [[36366, 37629]],
-      "common_name": {"english": "The claws", "native": "الأظفار"}
-    },
-    {
-      "id": "CON arabic 24Gem03",
-      "lines": [[31681, 32362]],
-      "common_name": {"english": "Stoopness [of the camel neck]", "native": "الهنعة"}
-    },
-    {
-      "id": "CON arabic 24Gem05",
-      "lines": [[29655, 30343, 30883]],
-      "common_name": {"english": "The stars of rain", "native": "التحايي"}
-    },
-    {
-      "id": "CON arabic 24Gem07",
-      "lines": [[30419, 31216, 31978, 32362, 31681, 30883, 30343, 29655]],
-      "common_name": {"english": "Bow of Al-Jawza", "native": "قوس الجوزاء"}
-    },
-    {
-      "id": "CON arabic 25Cnc01",
-      "lines": [[42806, 42911]],
-      "common_name": {"english": "Nostrils [of the lion]", "native": "المنخران"}
-    },
-    {
-      "id": "CON arabic 26Leo01",
-      "lines": [[44798, 46750]],
-      "common_name": {"english": "The eyes [of the lion]", "native": "الطرف"}
-    },
-    {
-      "id": "CON arabic 26Leo02",
-      "lines": [[46146, 47908, 48455]],
-      "common_name": {"english": "Northern eyelashes roots", "native": "الأشفار الشمالية"}
-    },
-    {
-      "id": "CON arabic 26Leo03",
-      "lines": [[46771, 45410]],
-      "common_name": {"english": "Southern eyelashes roots", "native": "الأشفار الجنوبية"}
-    },
-    {
-      "id": "CON arabic 26Leo04",
-      "lines": [[50335, 50583, 49583, 49669]],
-      "common_name": {"english": "Forehead [of the lion]", "native": "الجبهة"}
-    },
-    {
-      "id": "CON arabic 26Leo05",
-      "lines": [[54872, 54879]],
-      "common_name": {"english": "Mane of the lion", "native": "الزبرة"}
-    },
-    {
-      "id": "CON arabic 27Vir01",
-      "lines": [[63608, 63090, 61941, 60129, 57757]],
-      "common_name": {"english": "The bend", "native": "العوا"}
-    },
-    {
-      "id": "CON arabic 27Vir02",
-      "lines": [[69701, 69427, 69974]],
-      "common_name": {"english": "The tassel", "native": "الغفر"}
-    },
-    {
-      "id": "CON arabic 28Lib01",
-      "lines": [[72622, 74785]],
-      "common_name": {"english": "Claws of the scorpion", "native": "الزبانى - يدا العقرب"}
-    },
-    {
-      "id": "CON arabic 28Lib02",
-      "lines": [[77853, 76880, 76742]],
-      "common_name": {"english": "The diadem (according to arabic", "native": "الإكليل عند الصوفي"}
-    },
-    {
-      "id": "CON arabic 29Sco01",
-      "lines": [[78820, 78401, 78265]],
-      "common_name": {"english": "The diadem (as narrated by Arabs", "native": "الإكليل عند العرب"}
-    },
-    {
-      "id": "CON arabic 29Sco02",
-      "lines": [[80112, 81266]],
-      "common_name": {"english": "Veins of the heart", "native": "النياط"}
-    },
-    {
-      "id": "CON arabic 29Sco03",
-      "lines": [[82396, 82514, 82729, 84143, 86228, 87073, 86670]],
-      "common_name": {"english": "Tail segments of the scorpion", "native": "الفقرات"}
-    },
-    {
-      "id": "CON arabic 29Sco04",
-      "lines": [[85927, 85696]],
-      "common_name": {"english": "Raised Tail of the Scorpion - the sting", "native": "الشولة - الإبرة"}
-    },
-    {
-      "id": "CON arabic 30Sgr01",
-      "lines": [[88635, 89642, 90185, 89931, 88635]],
-      "common_name": {"english": "The Ostriches drinking at the river", "native": "النعايم الواردة"}
-    },
-    {
-      "id": "CON arabic 30Sgr02",
-      "lines": [[92855, 93864, 93506, 92041, 92855]],
-      "common_name": {"english": "The Ostriches leaving the river", "native": "النعايم الصادرة"}
-    },
-    {
-      "id": "CON arabic 30Sgr03",
-      "lines": [[90496, 89341]],
-      "common_name": {"english": "The two male ostriches", "native": "الظليمان"}
-    },
-    {
-      "id": "CON arabic 30Sgr04",
-      "lines": [[89931, 89931], [90185, 90185], [93506, 93506], [92041, 92041]],
-      "common_name": {"english": "The link", "native": "الوصل"}
-    },
-    {
-      "id": "CON arabic 30Sgr05",
-      "lines": [[93085, 93683, 94141, 94820, 95168, 95176]],
-      "common_name": {"english": "The Ostrich nest - The necklace", "native": "القلادة - الأدحي"}
-    },
-    {
-      "id": "CON arabic 30Sgr06",
-      "lines": [[96760, 96274, 95645, 95564, 95577, 96044, 96440, 97031, 97290, 97417, 97138, 96760]],
-      "common_name": {"english": "The empty place", "native": "البلدة"}
-    },
-    {
-      "id": "CON arabic 30Sgr07",
-      "lines": [[98412, 98032]],
-      "common_name": {"english": "The two shrikes", "native": "الصردان"}
-    },
-    {
-      "id": "CON arabic 31Cap01",
-      "lines": [[100027, 100345]],
-      "common_name": {"english": "The lucky star of the slaughterer", "native": "سعد الذابح"}
-    },
-    {
-      "id": "CON arabic 31Cap02",
-      "lines": [[106985, 107556]],
-      "common_name": {"english": "The lucky star of Nashira", "native": "سعد ناشرة - المحبان"}
-    },
-    {
-      "id": "CON arabic 32Aqr01",
-      "lines": [[109074, 108874]],
-      "common_name": {"english": "The lucky star of the king", "native": "سعد الملك"}
-    },
-    {
-      "id": "CON arabic 32Aqr02",
-      "lines": [[106278, 106786, 107382]],
-      "common_name": {"english": "The luckiest of the lucky stars", "native": "سعد السعود"}
-    },
-    {
-      "id": "CON arabic 32Aqr03",
-      "lines": [[102618, 103045, 103401]],
-      "common_name": {"english": "The lucky star of the swallower", "native": "سعد بلع"}
-    },
-    {
-      "id": "CON arabic 32Aqr04",
-      "lines": [[110672, 110395, 111497], [110395, 110960]],
-      "common_name": {"english": "The lucky star of the tents", "native": "سعد الأخبية"}
-    },
-    {
-      "id": "CON arabic 33Psc01",
-      "lines": [[118268, 1645, 2548, 3786, 4906, 5737, 7007, 7884, 8833, 9487]],
-      "common_name": {"english": "The ringed rope", "native": "الربق"}
-    },
-    {
-      "id": "CON arabic 34Cet01",
-      "lines": [[16369, 16322, 16083, 15900, 14135, 13954, 12828], [14135, 12706, 11484], [14135, 12387]],
+      "id": "CON Arabic 2008",
+      "lines": [[14135,13954, 12828],[14135,12706, 11484],[14135,12387, 11484],[17702,16369, 14135],[17702,16322, 16083, 15900, 14135],[11791,11791]],
       "common_name": {"english": "The short hand", "native": "الكف الجذماء"}
     },
     {
-      "id": "CON arabic 34Cet02",
-      "lines": [[9347, 8102, 8645, 6537, 5364]],
-      "common_name": {"english": "The ostriches", "native": "النعامات"}
+      "id": "CON Arabic 2099",
+      "lines": [[14135,13954, 12828],[14135,12706, 11484],[14135,12387, 11484],[11020,13268, 14328, 17358, 18532, 18614, 18246, 17702, 17448, 17460, 17529, 16335, 15863, 14328],[17702,16369, 14135],[17702,16322, 16083, 15900, 14135]],
+      "common_name": {"english": "Al-Thurayya image", "native": "الثريا الصورة"}
     },
     {
-      "id": "CON arabic 35Ori01",
-      "lines": [[26207, 26176, 26366, 26207]],
+      "id": "CON Arabic 2199",
+      "lines": [[24608,28360, 28380, 25428, 23015, 24608]],
+      "common_name": {"english": "Al-Ayyuq and the posts", "native": "العيوق وتوابعه"}
+    },
+    {
+      "id": "CON Arabic 2299",
+      "lines": [[28358,33449, 22783, 23522, 28358]],
+      "common_name": {"english": "The northern tent", "native": "الخباء الشآمي"}
+    },
+    {
+      "id": "CON Arabic 2399",
+      "lines": [[101769,101958, 102532, 102281, 101769]],
+      "common_name": {"english": "The young camel", "native": "القعود"}
+    },
+    {
+      "id": "CON Arabic 2499",
+      "lines": [[9640,9640],[9438,9438]],
+      "common_name": {"english": "The caracal", "native": "عناق الأرض"}
+    },
+    {
+      "id": "CON Arabic 2501",
+      "lines": [[115250,115623]],
+      "common_name": {"english": "The bucket rope knot - The well poles", "native": "الكرب - النعام"}
+    },
+    {
+      "id": "CON Arabic 2502",
+      "lines": [[113881,113963]],
+      "common_name": {"english": "The front bucket mouth", "native": "الفرغ المقدم"}
+    },
+    {
+      "id": "CON Arabic 2504",
+      "lines": [[677,1067]],
+      "common_name": {"english": "The rear bucket mouth", "native": "الفرغ المؤخر"}
+    },
+    {
+      "id": "CON Arabic 2506",
+      "lines": [[115623,3092, 5447],[3881,3231, 2912, 3031, 3693, 5454, 5571, 6193, 6315, 5447, 3881]],
+      "common_name": {"english": "The well bucket rope", "native": "الرشاء"}
+    },
+    {
+      "id": "CON Arabic 2550",
+      "lines": [[3881,3231, 2912, 3031, 3693, 5454, 5571, 6193, 6315, 5447, 3881]],
+      "common_name": {"english": "The fish", "native": "الحوت"}
+    },
+    {
+      "id": "CON Arabic 2599",
+      "lines": [[115250,115623, 3092, 5447],[113881,677],[113881,1067],[113963,677],[113963,1067],[677,1067],[113881,113963]],
+      "common_name": {"english": "The well bucket", "native": "الدلو"}
+    },
+    {
+      "id": "CON Arabic 2601",
+      "lines": [[8796,10064]],
+      "common_name": {"english": "The two forelegs of the lamb", "native": "الأيبسان"}
+    },
+    {
+      "id": "CON Arabic 2602",
+      "lines": [[9884,8903]],
+      "common_name": {"english": "The two signs", "native": "الشرطان"}
+    },
+    {
+      "id": "CON Arabic 2603",
+      "lines": [[12719,13209, 13061, 12719]],
+      "common_name": {"english": "The little abdomen", "native": "البطين"}
+    },
+    {
+      "id": "CON Arabic 2604",
+      "lines": [[17608,17608],[18163,18163]],
+      "common_name": {"english": "Al-Thurayya", "native": "الثريا"}
+    },
+    {
+      "id": "CON Arabic 2699",
+      "lines": [[14576,14354, 15549, 15696, 15861, 15110, 14838, 9884, 10535, 13061, 15549],[10535,8796],[10535,10064],[8903,9153, 9884, 8903, 8832]],
+      "common_name": {"english": "The lamb", "native": "الحمل"}
+    },
+    {
+      "id": "CON Arabic 2702",
+      "lines": [[20711,20635]],
+      "common_name": {"english": "The two dogs of Al-Dabaran", "native": "كلبا الدبران"}
+    },
+    {
+      "id": "CON Arabic 2703",
+      "lines": [[21273,20219, 19284, 19038, 20250, 21881, 22565, 21273]],
+      "common_name": {"english": "The young she-camels", "native": "القلاص"}
+    },
+    {
+      "id": "CON Arabic 2799",
+      "lines": [[21421,21421],[21273,20219, 19284, 19038, 20250, 21881, 22565, 21273],[20711,20635]],
+      "common_name": {"english": "Al-Dabaran, his camels and two dogs", "native": "الدبران وقلاصه وكلباه"}
+    },
+    {
+      "id": "CON Arabic 2801",
+      "lines": [[37279,36188]],
+      "common_name": {"english": "Retracted arm [of the lion]", "native": "الذراع المقبوضة"}
+    },
+    {
+      "id": "CON Arabic 2802",
+      "lines": [[36850,37826]],
+      "common_name": {"english": "The extended arm [of the lion]", "native": "الذراع المبسوطة"}
+    },
+    {
+      "id": "CON Arabic 2803",
+      "lines": [[42806,42556, 42911],[43004,43004]],
+      "common_name": {"english": "Nostrils [of the lion]", "native": "النثرة"}
+    },
+    {
+      "id": "CON Arabic 2804",
+      "lines": [[47908,47508]],
+      "common_name": {"english": "Eyes [of the lion]", "native": "الطرف"}
+    },
+    {
+      "id": "CON Arabic 2805",
+      "lines": [[50335,50583, 49583, 49669]],
+      "common_name": {"english": "Forehead [of the lion]", "native": "الجبهة"}
+    },
+    {
+      "id": "CON Arabic 2806",
+      "lines": [[54872,54879]],
+      "common_name": {"english": "Mane [of the lion]", "native": "الزبرة"}
+    },
+    {
+      "id": "CON Arabic 2808",
+      "lines": [[63608,63090, 61941, 60129, 57757]],
+      "common_name": {"english": "The bend", "native": "العوا"}
+    },
+    {
+      "id": "CON Arabic 2809",
+      "lines": [[65474,65239]],
+      "common_name": {"english": "The high one", "native": "السماك"}
+    },
+    {
+      "id": "CON Arabic 2810",
+      "lines": [[69701,69427, 69974],[70784,70784]],
+      "common_name": {"english": "The cover", "native": "الغفر"}
+    },
+    {
+      "id": "CON Arabic 2811",
+      "lines": [[61394,60087, 59847, 59468, 59364, 59489, 59923, 60742, 60697, 60746, 60904, 61071, 61394]],
+      "common_name": {"english": "The tassel", "native": "الهلبة"}
+    },
+    {
+      "id": "CON Arabic 2899",
+      "lines": [[37279,47508, 57757, 60129, 61941, 63090, 63608, 60202, 48455, 37826],[42806,42556, 42911],[43004,43004],[47508,42911],[48455,42806],[61394,62886, 64241, 64792, 64852, 63090]],
+      "common_name": {"english": "The lion", "native": "الأسد"}
+    },
+    {
+      "id": "CON Arabic 2901",
+      "lines": [[72622,74785]],
+      "common_name": {"english": "Claws of the scorpion", "native": "الزبانى"}
+    },
+    {
+      "id": "CON Arabic 2902",
+      "lines": [[78820,78401, 78265]],
+      "common_name": {"english": "The diadem", "native": "الإكليل"}
+    },
+    {
+      "id": "CON Arabic 2906",
+      "lines": [[85927,85696]],
+      "common_name": {"english": "Raised Tail of the Scorpion", "native": "الشولة"}
+    },
+    {
+      "id": "CON Arabic 2999",
+      "lines": [[74785,78820, 80112],[72622,78265, 80112],[78401,80112, 80763, 81266, 82396, 82514, 82729, 84143, 86228, 87073, 86670, 85927]],
+      "common_name": {"english": "The scorpion", "native": "العقرب"}
+    },
+    {
+      "id": "CON Arabic 3001",
+      "lines": [[88635,89642, 90185, 89931, 88635]],
+      "common_name": {"english": "The Ostriches drinking at the river", "native": "النعام الوارد"}
+    },
+    {
+      "id": "CON Arabic 3002",
+      "lines": [[92855,93864, 93506, 92041, 92855]],
+      "common_name": {"english": "The Ostriches leaving the river", "native": "النعام الصادر"}
+    },
+    {
+      "id": "CON Arabic 3003",
+      "lines": [[93085,93683, 94141, 94820, 95168, 95176]],
+      "common_name": {"english": "The Ostrich nest - The necklace", "native": "الأدحي - القلادة"}
+    },
+    {
+      "id": "CON Arabic 3004",
+      "lines": [[90759,90982, 91494, 92308, 93542, 94005, 94160, 94114, 93825, 93174, 91875, 90887, 90759]],
+      "common_name": {"english": "The Ostrich nest", "native": "أدحي النعام"}
+    },
+    {
+      "id": "CON Arabic 3005",
+      "lines": [[97290,96760, 95503, 95564, 96440, 97290]],
+      "common_name": {"english": "The empty place", "native": "البلدة"}
+    },
+    {
+      "id": "CON Arabic 3099",
+      "lines": [[89931,90185, 93506, 92041, 89931],[88635,89642, 90185, 89931, 88635],[92855,93864, 93506, 92041, 92855],[89931,90496, 92041]],
+      "common_name": {"english": "The Ostriches", "native": "النعائم"}
+    },
+    {
+      "id": "CON Arabic 3199",
+      "lines": [[100064,100310, 100345]],
+      "common_name": {"english": "The lucky star of the slaughterer", "native": "سعد الذابح"}
+    },
+    {
+      "id": "CON Arabic 3299",
+      "lines": [[102618,103045, 104459]],
+      "common_name": {"english": "The lucky star of the swallower", "native": "سعد بلع"}
+    },
+    {
+      "id": "CON Arabic 3399",
+      "lines": [[106278,106786, 107382]],
+      "common_name": {"english": "The luckiest of the lucky stars", "native": "سعد السعود"}
+    },
+    {
+      "id": "CON Arabic 3499",
+      "lines": [[110395,110960, 110672],[110960,111497],[110395,110672],[110395,111497]],
+      "common_name": {"english": "The lucky star of the tents", "native": "سعد الأخبية"}
+    },
+    {
+      "id": "CON Arabic 3599",
+      "lines": [[106985,107556]],
+      "common_name": {"english": "The lucky star of Nashira", "native": "سعد ناشرة"}
+    },
+    {
+      "id": "CON Arabic 3699",
+      "lines": [[109074,108874]],
+      "common_name": {"english": "The lucky star of the king", "native": "سعد الملك"}
+    },
+    {
+      "id": "CON Arabic 3799",
+      "lines": [[109427,109068]],
+      "common_name": {"english": "The lucky star of the young sheep", "native": "سعد البهام"}
+    },
+    {
+      "id": "CON Arabic 3899",
+      "lines": [[112029,112447]],
+      "common_name": {"english": "The lucky star of the one with great endeavour", "native": "سعد الهمام"}
+    },
+    {
+      "id": "CON Arabic 3999",
+      "lines": [[112440,112748]],
+      "common_name": {"english": "The lucky star of the excellent one", "native": "سعد البارع"}
+    },
+    {
+      "id": "CON Arabic 4099",
+      "lines": [[112158,112051]],
+      "common_name": {"english": "The lucky star of Matar", "native": "سعد مطر"}
+    },
+    {
+      "id": "CON Arabic 4199",
+      "lines": [[113889,115227, 115830, 116771, 117245, 116928, 116422, 115738, 114971, 115227],[116771,118268]],
+      "common_name": {"english": "The ringed rope", "native": "الربق"}
+    },
+    {
+      "id": "CON Arabic 4201",
+      "lines": [[26207,26176, 26366, 26207],[26444,26444]],
       "common_name": {"english": "The circular mark", "native": "الهقعة"}
     },
     {
-      "id": "CON arabic 35Ori02",
-      "lines": [[25930, 26311, 26727]],
-      "common_name": {"english": "The backbone of Al-Jawza - The belt of Al-Jawza - The string", "native": "نطاق الجوزاء - نظم الجوزاء - فقار الجوزاء"}
+      "id": "CON Arabic 4202",
+      "lines": [[25930,26311, 26727]],
+      "common_name": {"english": "The string", "native": "النظم"}
     },
     {
-      "id": "CON arabic 35Ori03",
-      "lines": [[26237, 26235, 26241]],
-      "common_name": {"english": "Sword of Orion - The facial line tattoo", "native": "اللعط - سيف الجبار"}
+      "id": "CON Arabic 4203",
+      "lines": [[26237,26235, 26241]],
+      "common_name": {"english": "The facial line tattoo", "native": "اللعط"}
     },
     {
-      "id": "CON arabic 35Ori04",
-      "lines": [[24010, 23607, 22957, 22845, 22509, 22449, 22549, 22797, 23123]],
-      "common_name": {"english": "Hair braids of Al-Jawza - Crown of Al-Jawza", "native": "تاج الجوزاء - ذوائب الجوزاء"}
+      "id": "CON Arabic 4204",
+      "lines": [[24010,23607, 22957, 22509, 22449, 22549, 22797, 23123]],
+      "common_name": {"english": "Hair braids of Al-Jawza", "native": "ذوائب الجوزاء"}
     },
     {
-      "id": "CON arabic 36Eri01",
-      "lines": [[23972, 23364, 23875, 24674, 23972]],
+      "id": "CON Arabic 4205",
+      "lines": [[30419,31216, 31978, 32362, 31681, 30883, 30343, 29655]],
+      "common_name": {"english": "Bow of Al-Jawza", "native": "قوس الجوزاء"}
+    },
+    {
+      "id": "CON Arabic 4206",
+      "lines": [[31681,32362]],
+      "common_name": {"english": "Stoopness [of the camel neck]", "native": "الهنعة"}
+    },
+    {
+      "id": "CON Arabic 4207",
+      "lines": [[29655,30343, 30883]],
+      "common_name": {"english": "Stars of abundant rain", "native": "التحايي"}
+    },
+    {
+      "id": "CON Arabic 4299",
+      "lines": [[26207,26487],[25336,26487, 27989],[25336,25930, 26311, 26727, 27366, 24436],[27989,32362],[30419,31216, 31978, 32362, 31681, 30883, 30343, 29655],[24010,23607, 22957, 22509, 22449, 22549, 22797, 23123],[25336,22449],[24436,25930],[27989,26727]],
+      "common_name": {"english": "Al-Jawza", "native": "الجوزاء"}
+    },
+    {
+      "id": "CON Arabic 4399",
+      "lines": [[23972,23364, 23875, 24674, 23972]],
       "common_name": {"english": "The front footstool of Al-Jawza", "native": "كرسي الجوزاء المقدم"}
     },
     {
-      "id": "CON arabic 36Eri02",
-      "lines": [[15197, 14293, 13701, 12444, 12390, 12770, 12843, 13288, 14146, 15474, 16611]],
-      "common_name": {"english": "The ostriches nest", "native": "أدحي النعام"}
+      "id": "CON Arabic 4499",
+      "lines": [[25985,25606, 27072, 27654, 25985]],
+      "common_name": {"english": "The rear footstool of Al-Jawza", "native": "كرسي الجوزاء المؤخر"}
     },
     {
-      "id": "CON arabic 36Eri03",
-      "lines": [[18543, 17593, 17378, 16537]],
-      "common_name": {"english": "Eggs and egg shells", "native": "البيض والقيض"}
-    },
-    {
-      "id": "CON arabic 36Eri04",
-      "lines": [[17651, 17717, 18216, 18673]],
-      "common_name": {"english": "Eggs and egg shells", "native": "البيض والقيض"}
-    },
-    {
-      "id": "CON arabic 36Eri05",
-      "lines": [[13147, 14284, 113189, 116482, 13147]],
-      "common_name": {"english": "The young ostriches", "native": "الرئال"}
-    },
-    {
-      "id": "CON arabic 37Lep01",
-      "lines": [[25985, 25606, 27072, 27654, 25985]],
-      "common_name": {"english": "The camels that quenched their thirst - The rear footstool of Al-Jawza", "native": "كرسي الجوزاء المؤخر - النهال"}
-    },
-    {
-      "id": "CON arabic 38CMa01",
-      "lines": [[33977, 34444, 33579, 35904]],
+      "id": "CON Arabic 4599",
+      "lines": [[35264,33579, 33977, 34444, 35904, 35264]],
       "common_name": {"english": "The virgins", "native": "العذارى"}
     },
     {
-      "id": "CON arabic 38CMa02",
-      "lines": [[25859, 29034, 29807, 30277, 30788, 30122, 27204, 27810, 28199,]],
-      "common_name": {"english": "The ravens - The monkeys", "native": "القرود - الأغربة"}
+      "id": "CON Arabic 4699",
+      "lines": [[25859,26634, 27628, 30277, 30122]],
+      "common_name": {"english": "The ravens", "native": "الأغربة"}
     },
     {
-      "id": "CON arabic 39CMi01",
-      "lines": [[36188, 37279]],
-      "common_name": {"english": "Retracted arm of the lion", "native": "ذراع الأسد المقبوضة"}
+      "id": "CON Arabic 4799",
+      "lines": [[9347,8102, 8645, 6537, 5364]],
+      "common_name": {"english": "The Ostriches", "native": "النعامات"}
     },
     {
-      "id": "CON arabic 41Hya01",
-      "lines": [[47452, 48356, 49402, 51069, 52085, 52943, 54682, 54204, 56343, 56922, 57936]],
+      "id": "CON Arabic 4899",
+      "lines": [[13701,12770, 12843, 13288, 14146, 14757, 16611, 18543]],
+      "common_name": {"english": "The ostriches nest, the eggs and egg shells", "native": "أدحي النعام والبيض والقيض"}
+    },
+    {
+      "id": "CON Arabic 4999",
+      "lines": [[15457,16852, 18255, 19860, 18724, 15457]],
+      "common_name": {"english": "The oryxes", "native": "البقر"}
+    },
+    {
+      "id": "CON Arabic 5099",
+      "lines": [[49841,52943, 59316, 61359, 64962, 68895, 73714, 76470]],
       "common_name": {"english": "The tied camels", "native": "الشراسيف"}
     },
     {
-      "id": "CON arabic 41Hya02",
-      "lines": [[42799, 42402, 42313, 43109, 43813, 44659, 45336, 46776, 47431, 46509, 46404], [47431, 49641, 51437, 53273, 53907, 55084, 56127, 56647]],
-      "common_name": {"english": "The horses and the foals", "native": "الخيل وأفلاء الخيل"}
-    },
-    {
-      "id": "CON arabic 42Crt01",
-      "lines": [[56633, 55687, 55282, 55705, 57283, 58188]],
+      "id": "CON Arabic 5199",
+      "lines": [[58188,57283, 55705, 55282, 55687, 56633]],
       "common_name": {"english": "The trough", "native": "المعلف"}
     },
     {
-      "id": "CON arabic 43Crv01",
-      "lines": [[59316, 61359, 60965, 59803, 59316]],
-      "common_name": {"english": "The southern tent - The throne of the armless high one - The camels - The lion buttock", "native": "عجز الأسد - عرش السماك الأعزل - الأجمال - الخباء"}
+      "id": "CON Arabic 5299",
+      "lines": [[59316,61359, 60965, 59803, 59316]],
+      "common_name": {"english": "The southern tent", "native": "الخباء اليماني"}
     },
     {
-      "id": "CON arabic 44Cen01",
-      "lines": [[67786, 67153, 65109, 59196, 59449, 59747, 60718, 71908, 74395, 74911, 75264, 76297, 78384, 78918, 78105, 77634, 74604, 72010, 67786]],
+      "id": "CON Arabic 5399",
+      "lines": [[71683,68702, 66657, 61932, 57803, 59196, 61084, 62434],[59196,59747, 60260, 60718],[57803,57443, 56343]],
       "common_name": {"english": "The date clusters", "native": "الشماريخ"}
     },
     {
-      "id": "CON arabic 44Cen02",
-      "lines": [[71683, 68702]],
-      "common_name": {"english": "The oath stars", "native": "المحلفان - المحنثان"}
+      "id": "CON Arabic 5499",
+      "lines": [[68933,72010, 75177, 78384, 80000, 85792, 88714, 82363, 68002, 65109, 68933]],
+      "common_name": {"english": "The horses and the foals", "native": "الخيل وأفلاء الخيل"}
     },
     {
-      "id": "CON arabic 47CrA01",
-      "lines": [[90422, 92308, 92953, 93542, 94005, 94160, 94114, 93825, 93174, 91875, 90887, 90422]],
-      "common_name": {"english": "The domed tent - The ostriches nest", "native": "القبة - أدحي النعام"}
+      "id": "CON Arabic 5599",
+      "lines": [[101772,100751]],
+      "common_name": {"english": "The two shrikes", "native": "الصردان"}
+    },
+    {
+      "id": "CON Arabic 5699",
+      "lines": [[112122,109268]],
+      "common_name": {"english": "The two doves", "native": "اليمامتان"}
+    },
+    {
+      "id": "CON Arabic 5799",
+      "lines": [[113368,3419]],
+      "common_name": {"english": "The two male ostriches", "native": "الظليمان"}
+    },
+    {
+      "id": "CON Arabic 5899",
+      "lines": [[114341,114375, 114119],[115438,115669, 116247],[117629,117089, 116901],[301,983, 1170]],
+      "common_name": {"english": "The young ostriches", "native": "الرئال"}
+    },
+    {
+      "id": "CON Arabic 5999",
+      "lines": [[114421,116602, 765, 3245, 5165, 7083, 9007]],
+      "common_name": {"english": "The larks", "native": "المكاكي"}
+    },
+    {
+      "id": "CON Arabic 6099",
+      "lines": [[113246,111188, 109306, 107380, 105140, 103738, 108085, 108543, 109111, 109973, 110997]],
+      "common_name": {"english": "The sandgrouses", "native": "القطا"}
+    },
+    {
+      "id": "CON Arabic 6199",
+      "lines": [[112961,112716, 113136, 116971, 1562, 118209, 117375, 112961]],
+      "common_name": {"english": "The wild asses", "native": "العانة"}
+    },
+    {
+      "id": "CON Arabic 6299",
+      "lines": [[3786,4906, 7007, 7884, 9487]],
+      "common_name": {"english": "The ladder", "native": "السلم"}
     }
   ],
   "common_names": {
