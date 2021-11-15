@@ -39,35 +39,28 @@ The source of this sky culture is a study and compilation of star knowledge of a
 
 ##### The two oryx calves
 A simple asterism of the two stars: β UMi and γ UMi.
-
 ##### The axe of the grindstone
 Fish shaped two arc of stars joined at the ends by α UMi and β UMi.
-
 ##### Daughters of Na'sh
 The 7 stars of the big dipper, representing 7 girls carrying the bier of thier father who was killed by Al-Jady (Polaris).
-
 ##### The first leap
 The track of the first leap of the gazelles fleeing the nearby lion, represented by the two stars:ν UMa and ξ UMa.
-
 ##### The second leap
 The track of the first leap of the gazelles represented by the two stars: λ UMa and μ UMa.
-
 ##### The third leap
 The track of the first leap of the gazelles represented by the two stars: ι UMa and κ UMa.
-
 ##### The Gazelles and thier youngsters
 An area between Ursa Major and Leo, where the brighter stars represent the adult gazelles and the dimmer stars represent the young ones.
-
 ##### The two preceding to the water
-Two men advancing to the [water pool](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#The-Pool) to fetch water to help dig the grave of the Na'sh, father of [Daughters of Na'sh](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#daughters-of-nash)
+The two stars:h UMa and υ UMa, representing two men advancing to the [water pool](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#The-Pool) to fetch water to help dig the grave of the Na'sh, father of [Daughters of Na'sh](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#daughters-of-nash).
 ##### The Pool
-
+An incompete circle of stars representing a water pool where [the gazelles](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-gazelles-and-thier-youngsters) drink and [two men are fetching water](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-two-preceding-to-the-water).
 ##### The wolf claws
-
+Dim stars representing the claws of one of [the two wolves](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-two-wolves).
 ##### The two wolves
-
+The two stars: f Dra and ω Dra, representing two wolves trying to hunt the nearby baby camel, the star HR 6618, surronded by the [four mother camels](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-mother-camels).
 ##### The mother camels
-
+An irregular square of four stars, representing four mother camels protecting the baby camel, the star HR 6618, from the near by Hyena, the star ι Dra, and the [two wolves](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-two-wolves).
 ##### The three stone support
 
 ##### The pot
