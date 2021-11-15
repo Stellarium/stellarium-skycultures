@@ -3,7 +3,7 @@
 ## Introduction
 The Arabic sky culture displays the indigenous star knowledge of the ancient Arabs living in the Arabian Peninsula prior to the Greek astronomy influence in the ninth century.
 ## Description
-The star knowledge of the ancient Arabs had been recorded and preserved in old poetry and the old works of Arab philologists and lexicographers of the Islamic civilization. Many books were written on the subject of star knowledge and Anwa' [Arabic الأنواء], the Arabic knowledge of meteorology. The editors of "Kitab AlAnwa'' of Ibn Qutaybah (died ~ 889 AD) listed twenty-four books on this subject written mostly between early eighth and tenth century[1]. The only completely preserved text is that of Ibn Qutaybah, but later scholars had quoted many of the earlier texts. One of the most significant works that recorded the indigenous Arab star names is the **Book of the Stars** written in ~ 964 AD by the prominent astronomer: Al-Sufi, where he identified the indigenous Arab star names with the respective Ptolemaic stars of the Greek constellations[2].
+The star knowledge of the ancient Arabs had been recorded and preserved in old poetry and the old works of Arab philologists and lexicographers of the Islamic civilization. Many books were written on the subject of star knowledge and Anwa' [Arabic الأنواء], the Arabic knowledge of meteorology. The editors of "Kitab AlAnwa'' of Ibn Qutaybah (died ~ 889 AD) listed twenty-four books on this subject written mostly between early eighth and tenth century[^1]. The only completely preserved text is that of Ibn Qutaybah, but later scholars had quoted many of the earlier texts. One of the most significant works that recorded the indigenous Arab star names is the **Book of the Stars** written in ~ 964 AD by the prominent astronomer: Al-Sufi, where he identified the indigenous Arab star names with the respective Ptolemaic stars of the Greek constellations[^2].
 #### Ancient Arabs system of naming the stars
 The ancient Arabs named single stars, two stars, an area in the sky, and particular shape of a group of stars. 
 Single stars were named after a human figure or a desert animal, Arcturus is Al-Simak Al-Ramiḥ, meaning: The High one with the spear. Canopus is Suhayl, a proper name of a man. We have also stars named: The Caracal and the Kid (the young goat).
@@ -13,17 +13,28 @@ Particular shapes of stars were given names like: the Scorpion, The lion, Al Jaw
 Other asterisms are given names according to legends and stories.
 #### Sources of the Arabic sky culture
 The source of this sky culture is a study and compilation of star knowledge of ancient Arabs from the following books:
-1.	IBN QUTAYBA, AD-DINAWARI, ABŪ MUḤAMMAD ‘ABDULLAH B. (died ~ 889 AD), KITĀBU'L-ANWĀ’ (on meteorolgy of the Arabs), (Arabic print of the original book, DAIRUT'L-MA‘ARIFI'L-OSMANIA, Hydarabad, India, 1956 AD)
+1. IBN QUTAYBA, AD-DINAWARI, ABŪ MUḤAMMAD ‘ABDULLAH B. (died ~ 889 AD), KITĀBU'L-ANWĀ’ (on meteorolgy of the Arabs), (Arabic print of the original book, DAIRUT'L-MA‘ARIFI'L-OSMANIA, Hydarabad, India, 1956 AD)
+
 أبو محمد عبد الله بن مسلم ابن قتيبة الدينوري (توفي 276 هـ)، كتاب الأنواء في مواسم العرب، داءرة المعارف العثمانية، حيدر أباد، الهند، 1375 هـ
-2.	Al-Marzoqi, Abū ^cAli Aḥmad b. Muḥammad b. Al-Ḥassan (died 1030 AD), Al-Azminah wal'Amkinah (Times and Places), (Arabic print of the original book in 2002, World of Books, Beirut, Lebanon).
+
+2. Al-Marzoqi, Abū cAli Aḥmad b. Muḥammad b. Al-Ḥassan (died 1030 AD), Al-Azminah wal'Amkinah (Times and Places), (Arabic print of the original book in 2002, World of Books, Beirut, Lebanon).
+
 الإمام أبو علي أحمد بن محمد بن الحسن المرزوقي (توفي سنة 421 هـ)، الأزمنة والأمكنة، تحقيق د. محمد نايف الدليمي، عالم الكتب، بيروت، لبنان، 1422 هـ.
-3.	Al- Ṯaqafī, cAbdu'Allah b. Ḥussayn b. cAṣim (died ~ 1012 AD), Al-Anwā‘ wal'Azminah (Meteorology and times), (Arabic print of the original book in 1996, Dar Al-Jeel, Beirut, Lebanon).
+
+3. Al- Ṯaqafī, cAbdu'Allah b. Ḥussayn b. cAṣim (died ~ 1012 AD), Al-Anwā‘ wal'Azminah (Meteorology and times), (Arabic print of the original book in 1996, Dar Al-Jeel, Beirut, Lebanon).
+
 عبد الله بن حسين بن عاصم الثقفي (توفي 403 هـ)، الأنواء والأزمنة، تحقيق: د. نوري حمودي القيسي، د. محمد نايف الدليمي، دار الجيل، بيروت، لبنان، 1416 ه.
+
 4.	[Book of the Stars: Critical edition with commentary by Khalid AlAjaji, digital edition, 2021 AD](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)
+
 5.	Al-farāhīdī, Abu cAbdul'Raḥmān Al-ḫalīl b. Aḥmad (died ~ 786 AD), Kitab Al-cayn (The book of Arabic letter العين), (Arabic print of the original book, 1980 – 1985).
+
 أبو عبد الرحمن الخليل بن أحمد الفراهيدي (توفي 170 ه)، كتاب العين، 1400 – 1405 ه.
+
 6.	Instructions Nautiques et Routiers Arabes et Portugais , I , Ibn Majid, Gabriel Ferrand, 1921 -1923.
+
 7.	Instructions Nautiques et Routiers Arabes et Portugais , II, Sulayman Al-Mahri et Ibn Majid, Gabriel Ferrand, 1925.
+
 ## Constellations
 
 ##### The two oryx calves
