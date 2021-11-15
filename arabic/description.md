@@ -38,22 +38,29 @@ The source of this sky culture is a study and compilation of star knowledge of a
 ## Constellations
 
 ##### The two oryx calves
+A simple asterism of the two stars: β UMi and γ UMi.
 
 ##### The axe of the grindstone
+Fish shaped two arc of stars joined at the ends by α UMi and β UMi.
 
 ##### Daughters of Na'sh
+The 7 stars of the big dipper, representing 7 girls carrying the bier of thier father who was killed by Al-Jady (Polaris).
 
 ##### The first leap
+The track of the first leap of the gazelles fleeing the nearby lion, represented by the two stars:ν UMa and ξ UMa.
 
 ##### The second leap
+The track of the first leap of the gazelles represented by the two stars: λ UMa and μ UMa.
 
 ##### The third leap
+The track of the first leap of the gazelles represented by the two stars: ι UMa and κ UMa.
 
 ##### The Gazelles and thier youngsters
+An area between Ursa Major and Leo, where the brighter stars represent the adult gazelles and the dimmer stars represent the young ones.
 
 ##### The two preceding to the water
-
-##### The pool
+Two men advancing to the [water pool](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#The-Pool) to fetch water to help dig the grave of the Na'sh, father of [Daughters of Na'sh](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#daughters-of-nash)
+##### The Pool
 
 ##### The wolf claws
 
