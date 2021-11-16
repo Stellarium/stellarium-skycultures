@@ -18,7 +18,7 @@ An example of Al-Sufi definitions of the stars of the lunar mansions, here is th
 
 ### Notes on Star Names and Asterisms of this Sky Culture
 Ancient Arabs frequently named groups of stars, for example, the 3 stars at the belt of Orion (δ Ori, ε Ori and ζ Ori), are named "String of beads" _al-Nazhm_ (النظم). In this sky culture they are designated as "String of beads 1", "String of beads 2" and "String of beads 3".
-All star names in this sky culture are of ancient Arabic origin, prior to Hellenistic influence, which has been reported by Al-Sufi in his _Book of the Fixed Stars_, with the addition of the following star names:
+All star names in this sky culture are of ancient Arabic origin, prior to Hellenistic influence, which has been reported by Al-Sufi in his _Book of the Stars_, with the addition of the following star names:
 1.   The Oath star, α Eri _al-Muhlif_ (المحلف): This star was not reported by Ptolemy or Al-Sufi because it couldn't be seen from their northern latitude. Prof. Kunitzsch concluded that it's the star named _al-Muhnith_ (المحنث) which was mentioned in some early resources[^13]. This star is still known on the Arabian Peninsula and has the name of _al-Muhlif_ (المحلف) with the same meaning.
 2.   The First One (beginning of spring), α UMa and β UMa _al-Awwalaan_ (الأولان):This name of this pair of stars is mentioned by the seafarer Ibn Majid (d.~1500) [^14]. The name is still in use by fishermen of the Red Sea.
 3.   The Obscure one, δ UMa _al-Khafi_ (الخافي): This name is mentioned by the seafarer Ibn Majid (d. ~1500)[^15].
@@ -51,7 +51,7 @@ asterism of stars around this spot.
 14.   _Al-Simak_ (The unarmed high one) composed of the star α Vir (Spica)
 15.   _Al-Ghafr_ (The hair on the tail of the lion) composed of 3 stars: ι Vir (Syrma), κ Vir and λ Vir
 16.   _Al-Zubana_ (The claws of the scorpion) composed of the 2 stars: α<sup>2</sup> Lib (Zubenelgenubi) and β Lib (Zubeneschamali)
-17.   _Al-Ikleel_ (The ornamented headband) composed of the 3 stars: β<sup>1</sup> Sco (Acrab), δ Sco (Dschubba) and π Sco, but according to Al-Sufi the 3 stars are: θ Lib, κ Lib and 42 Lib
+17.   _Al-Ikleel_ (The ornamented headband) composed of the 3 stars: β<sup>1</sup> Sco (Acrab), δ Sco (Dschubba) and π Sco.
 18.   _Al-Qalb_ (The heart of the scorpion) composed of the star α Sco (Antares)
 19.   _Al-Shawlah_ (The sting of the scorpion) composed of the 2 stars: λ Sco (Shaula) and υ Sco (Lesath)
 20.   _Al-Naayem_ (The Ostriches) is the area around the stars: ζ Sgr (Ascella), φ Sgr, δ Sgr (Kaus Media) and ε Sgr (Kaus Australis)
