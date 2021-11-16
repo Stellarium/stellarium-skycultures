@@ -71,7 +71,7 @@ Mr Roland Laffitte discussed these two figure and offered a depiction of eachin 
 This sky culture and the compilation of Arabic star names were authored by
 Khalid AlAjaji and slightly reworked by Susanne M Hoffmann.
 ## License
-CC BY-SA
+This sky culture is provided for free under CC BY-ND 4.0 International Public License (share-alike, do not change it without consulting the contributor, and cite the contributor). The author wishes that this work be cited according to the common rules.
 
  - [^1]: Kunitzsch P. The Arabs and the Stars, Variorum reprints Northampton 1989, Al-Manazil, Item XX pp 1-7.
  - [^2]: Helaine Selin, Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures, Lunar Mansions in Islamic History, Kunitzsch P. p 520
