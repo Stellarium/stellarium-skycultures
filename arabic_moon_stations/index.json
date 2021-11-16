@@ -1,148 +1,286 @@
 {
   "id": "arabic_moon_stations",
   "region": "Middle East",
+  "langs_use_native_names": ["ar"],
+  "native_lang": "ar",
   "highlight": "CON arabic_moon_stations 028",
   "constellations": [
     {
-      "id": "CON arabic_moon_stations 001",
-      "lines": [[8832, 8903, 9884]],
-      "common_name": {"english": "The Two signs", "pronounce": "Al-Shartain"}
+      "id": "CON Arabic 0199",
+      "lines": [[72607,75097]],
+      "common_name": {"english": "The two oryx calves", "native": "الفرقدان"}
     },
     {
-      "id": "CON arabic_moon_stations 002",
-      "lines": [[14838, 13914, 13702, 14838]],
-      "common_name": {"english": "The Little belly", "pronounce": "Al-Butain"}
+      "id": "CON Arabic 0299",
+      "lines": [[11767,85822, 82080, 77055, 72607, 70692, 69112, 62572, 11767]],
+      "common_name": {"english": "The axe of the grindstone", "native": "فأس الرحى"}
     },
     {
-      "id": "CON arabic_moon_stations 003",
-      "lines": [[17847, 17608, 17499, 17489, 17579, 17847]],
-      "common_name": {"english": "Al-Thurayya", "pronounce": "Al-Thurraya"}
+      "id": "CON Arabic 0399",
+      "lines": [[54061,53910, 58001, 59774, 62956, 65378, 67301]],
+      "common_name": {"english": "Daughters of Na'sh", "native": "بنات نعش"}
     },
     {
-      "id": "CON arabic_moon_stations 004",
-      "lines": [[21421, 20894, 20205, 20455, 20889]],
-      "common_name": {"english": "The Follower", "pronounce": "Al-Debran"}
+      "id": "CON Arabic 0410",
+      "lines": [[55219,55203]],
+      "common_name": {"english": "The first leap", "native": "القفزة الأولى"}
     },
     {
-      "id": "CON arabic_moon_stations 005",
-      "lines": [[26207, 26176, 26366, 26207]],
-      "common_name": {"english": "The Side Mark", "pronounce": "Al-Hekaah"}
+      "id": "CON Arabic 0420",
+      "lines": [[50372,50801]],
+      "common_name": {"english": "The second leap", "native": "القفزة الثانية"}
     },
     {
-      "id": "CON arabic_moon_stations 006",
-      "lines": [[31681, 32362]],
-      "common_name": {"english": "The Neck bend", "pronounce": "Al-Hanaah"}
+      "id": "CON Arabic 0430",
+      "lines": [[44127,44471]],
+      "common_name": {"english": "The third leap", "native": "القفزة الثالثة"}
     },
     {
-      "id": "CON arabic_moon_stations 007",
-      "lines": [[36850, 37826]],
-      "common_name": {"english": "The Arm", "pronounce": "Al-Thira-a"}
+      "id": "CON Arabic 0699",
+      "lines": [[83895,80331]],
+      "common_name": {"english": "The two wolves", "native": "الذئبان"}
     },
     {
-      "id": "CON arabic_moon_stations 008",
-      "lines": [[42806, 42556, 42911]],
-      "common_name": {"english": "The Lion nose", "pronounce": "Al-Nuthrah"}
+      "id": "CON Arabic 0799",
+      "lines": [[85819,85670, 87833, 87585, 85819]],
+      "common_name": {"english": "The mother camels", "native": "العوائذ"}
     },
     {
-      "id": "CON arabic_moon_stations 009",
-      "lines": [[44798, 46750]],
-      "common_name": {"english": "The Lion eyes", "pronounce": "Al-Tarf"}
+      "id": "CON Arabic 1499",
+      "lines": [[77048,76127, 75695, 76267, 76952, 77512, 78159, 78493]],
+      "common_name": {"english": "The bowl of the poor", "native": "قصعة المساكين"}
     },
     {
-      "id": "CON arabic_moon_stations 010",
-      "lines": [[50335, 50583, 49583, 49669]],
-      "common_name": {"english": "The Lion Forehead", "pronounce": "Al-Jabhah"}
+      "id": "CON Arabic 1901",
+      "lines": [[116631,116805, 116584, 117221]],
+      "common_name": {"english": "The camel head", "native": "رأس الناقة"}
     },
     {
-      "id": "CON arabic_moon_stations 011",
-      "lines": [[54872, 54879]],
-      "common_name": {"english": "The Lion mane", "pronounce": "Al-Zubrah"}
+      "id": "CON Arabic 1902",
+      "lines": [[117221,841, 2225, 2900, 3414, 3504, 3300, 2920]],
+      "common_name": {"english": "The camel neck", "native": "عنق الناقة"}
     },
     {
-      "id": "CON arabic_moon_stations 012",
-      "lines": [[57632, 57632]],
-      "common_name": {"english": "The Star of weather change", "pronounce": "Al-Surfah"}
+      "id": "CON Arabic 1903",
+      "lines": [[5251,8068],[4998,7607]],
+      "common_name": {"english": "The camel front legs", "native": "يدا الناقة"}
     },
     {
-      "id": "CON arabic_moon_stations 013",
-      "lines": [[63608, 63090, 61941, 60129, 57757]],
-      "common_name": {"english": "The Bend", "pronounce": "Al-Uwwa"}
+      "id": "CON Arabic 1999",
+      "lines": [[116631,116805, 116584, 117221, 841, 2225, 2900, 3414, 3504, 3300, 2920, 2505, 746, 2599, 8886],[2505,3179, 3821, 4292, 4427, 2599]],
+      "common_name": {"english": "The she-camel", "native": "الناقة"}
     },
     {
-      "id": "CON arabic_moon_stations 014",
-      "lines": [[65474, 65474]],
-      "common_name": {"english": "The High one", "pronounce": "Al-Simak"}
+      "id": "CON Arabic 2501",
+      "lines": [[115250,115623]],
+      "common_name": {"english": "The bucket rope knot - The well poles", "native": "الكرب - النعام"}
     },
     {
-      "id": "CON arabic_moon_stations 015",
-      "lines": [[69701, 69427, 69974]],
-      "common_name": {"english": "The tail tuft", "pronounce": "Al-Ghafr"}
+      "id": "CON Arabic 2502",
+      "lines": [[113881,113963]],
+      "common_name": {"english": "The front bucket mouth", "native": "الفرغ المقدم"}
     },
     {
-      "id": "CON arabic_moon_stations 016",
-      "lines": [[72622, 74785]],
-      "common_name": {"english": "The Scorpion Claws", "pronounce": "Al-Zubana"}
+      "id": "CON Arabic 2504",
+      "lines": [[677,1067]],
+      "common_name": {"english": "The rear bucket mouth", "native": "الفرغ المؤخر"}
     },
     {
-      "id": "CON arabic_moon_stations 017",
-      "lines": [[78820, 78401, 78265, 76742, 76880, 77853, 78820], [76880, 78401]],
-      "common_name": {"english": "The ornamented headband", "pronounce": "Al-Ikleel"}
+      "id": "CON Arabic 2550",
+      "lines": [[3881,3231, 2912, 3031, 3693, 5454, 5571, 6193, 6315, 5447, 3881]],
+      "common_name": {"english": "The fish", "native": "الرشاء"}
     },
     {
-      "id": "CON arabic_moon_stations 018",
-      "lines": [[80763, 80763]],
-      "common_name": {"english": "The Heart", "pronounce": "Al-Qalb"}
+      "id": "CON Arabic 2602",
+      "lines": [[9884,8903]],
+      "common_name": {"english": "The two signs", "native": "الشرطان"}
     },
     {
-      "id": "CON arabic_moon_stations 019",
-      "lines": [[85927, 85696]],
-      "common_name": {"english": "The Scorpion sting", "pronounce": "Al-Shawlah"}
+      "id": "CON Arabic 2603",
+      "lines": [[12719,13209, 13061, 12719]],
+      "common_name": {"english": "The little abdomen", "native": "البطين"}
     },
     {
-      "id": "CON arabic_moon_stations 020",
-      "lines": [[89931, 90185, 93506, 92041, 89931], [88635, 89642, 90185, 89931, 88635], [92855, 93864, 93506, 92041, 92855], [89931, 90496, 92041]],
-      "common_name": {"english": "The Ostriches", "pronounce": "Al-Naayem"}
+      "id": "CON Arabic 2604",
+      "lines": [[17608,17608],[18163,18163]],
+      "common_name": {"english": "Al-Thurayya", "native": "الثريا"}
     },
     {
-      "id": "CON arabic_moon_stations 021",
-      "lines": [[97290, 96760, 95503, 95564, 96440, 97290]],
-      "common_name": {"english": "The Empty place", "pronounce": "Al-Baldah"}
+      "id": "CON Arabic 2801",
+      "lines": [[37279,36188]],
+      "common_name": {"english": "Retracted arm [of the lion]", "native": "الذراع المقبوضة"}
     },
     {
-      "id": "CON arabic_moon_stations 022",
-      "lines": [[100027, 100310, 100345]],
-      "common_name": {"english": "The Lucky stars of the slaughterer", "pronounce": "Saad Al-Thabih"}
+      "id": "CON Arabic 2802",
+      "lines": [[36850,37826]],
+      "common_name": {"english": "The extended arm [of the lion]", "native": "الذراع المبسوطة"}
     },
     {
-      "id": "CON arabic_moon_stations 023",
-      "lines": [[102618, 103045, 104459]],
-      "common_name": {"english": "The Lucky stars of the swallower", "pronounce": "Saad Bulaa"}
+      "id": "CON Arabic 2803",
+      "lines": [[42806,42556, 42911],[43004,43004]],
+      "common_name": {"english": "Nostrils [of the lion]", "native": "النثرة"}
     },
     {
-      "id": "CON arabic_moon_stations 024",
-      "lines": [[106278, 106786, 107382]],
-      "common_name": {"english": "The Lucky stars of the Luckiest ones", "pronounce": "Saad Al-Saud"}
+      "id": "CON Arabic 2804",
+      "lines": [[47908,47508]],
+      "common_name": {"english": "Eyes [of the lion]", "native": "الطرف"}
     },
     {
-      "id": "CON arabic_moon_stations 025",
-      "lines": [[110672, 110960, 111497], [110395, 110960]],
-      "common_name": {"english": "The Lucky stars of the tents", "pronounce": "Saad Al-Akhbiah"}
+      "id": "CON Arabic 2805",
+      "lines": [[50335,50583, 49583, 49669]],
+      "common_name": {"english": "Forehead [of the lion]", "native": "الجبهة"}
     },
     {
-      "id": "CON arabic_moon_stations 026",
-      "lines": [[113881, 113963]],
-      "common_name": {"english": "The Front mouth of the bucket", "pronounce": "Al-Mugaddam"}
+      "id": "CON Arabic 2806",
+      "lines": [[54872,54879]],
+      "common_name": {"english": "Mane [of the lion]", "native": "الزبرة"}
     },
     {
-      "id": "CON arabic_moon_stations 027",
-      "lines": [[677, 1067]],
-      "common_name": {"english": "The Rear mouth of the bucket", "pronounce": "Al-Muakhar"}
+      "id": "CON Arabic 2808",
+      "lines": [[63608,63090, 61941, 60129, 57757]],
+      "common_name": {"english": "The bend", "native": "العوا"}
     },
     {
-      "id": "CON arabic_moon_stations 028",
-      "lines": [[3881, 3231, 2912, 3031, 3693, 5454, 5571, 6193, 6315, 5447, 3881]],
-      "common_name": {"english": "The Bucket cord", "pronounce": "Al-Risha"}
-    }
+      "id": "CON Arabic 2810",
+      "lines": [[69701,69427, 69974],[70784,70784]],
+      "common_name": {"english": "The cover", "native": "الغفر"}
+    },
+    {
+      "id": "CON Arabic 2901",
+      "lines": [[72622,74785]],
+      "common_name": {"english": "Claws of the scorpion", "native": "الزبانى"}
+    },
+    {
+      "id": "CON Arabic 2902",
+      "lines": [[78820,78401, 78265]],
+      "common_name": {"english": "The diadem", "native": "الإكليل"}
+    },
+    {
+      "id": "CON Arabic 2906",
+      "lines": [[85927,85696]],
+      "common_name": {"english": "Raised Tail of the Scorpion", "native": "الشولة"}
+    },
+    {
+      "id": "CON Arabic 2999",
+      "lines": [[74785,78820, 80112],[72622,78265, 80112],[78401,80112, 80763, 81266, 82396, 82514, 82729, 84143, 86228, 87073, 86670, 85927]],
+      "common_name": {"english": "The scorpion", "native": "العقرب"}
+    },
+    {
+      "id": "CON Arabic 3001",
+      "lines": [[88635,89642, 90185, 89931, 88635]],
+      "common_name": {"english": "The Ostriches drinking at the river", "native": "النعام الوارد"}
+    },
+    {
+      "id": "CON Arabic 3002",
+      "lines": [[92855,93864, 93506, 92041, 92855]],
+      "common_name": {"english": "The Ostriches leaving the river", "native": "النعام الصادر"}
+    },
+    {
+      "id": "CON Arabic 3003",
+      "lines": [[93085,93683, 94141, 94820, 95168, 95176]],
+      "common_name": {"english": "The Ostrich nest - The necklace", "native": "الأدحي - القلادة"}
+    },
+    {
+      "id": "CON Arabic 3005",
+      "lines": [[97290,96760, 95503, 95564, 96440, 97290]],
+      "common_name": {"english": "The empty place", "native": "البلدة"}
+    },
+    {
+      "id": "CON Arabic 3099",
+      "lines": [[89931,90185, 93506, 92041, 89931],[88635,89642, 90185, 89931, 88635],[92855,93864, 93506, 92041, 92855],[89931,90496, 92041]],
+      "common_name": {"english": "The Ostriches", "native": "النعائم"}
+    },
+    {
+      "id": "CON Arabic 3199",
+      "lines": [[100064,100310, 100345]],
+      "common_name": {"english": "The lucky star of the slaughterer", "native": "سعد الذابح"}
+    },
+    {
+      "id": "CON Arabic 3299",
+      "lines": [[102618,103045, 104459]],
+      "common_name": {"english": "The lucky star of the swallower", "native": "سعد بلع"}
+    },
+    {
+      "id": "CON Arabic 3399",
+      "lines": [[106278,106786, 107382]],
+      "common_name": {"english": "The luckiest of the lucky stars", "native": "سعد السعود"}
+    },
+    {
+      "id": "CON Arabic 3499",
+      "lines": [[110395,110960, 110672],[110960,111497],[110395,110672],[110395,111497]],
+      "common_name": {"english": "The lucky star of the tents", "native": "سعد الأخبية"}
+    },
+    {
+      "id": "CON Arabic 3599",
+      "lines": [[106985,107556]],
+      "common_name": {"english": "The lucky star of Nashira", "native": "سعد ناشرة"}
+    },
+    {
+      "id": "CON Arabic 3699",
+      "lines": [[109074,108874]],
+      "common_name": {"english": "The lucky star of the king", "native": "سعد الملك"}
+    },
+    {
+      "id": "CON Arabic 3799",
+      "lines": [[109427,109068]],
+      "common_name": {"english": "The lucky star of the young sheep", "native": "سعد البهام"}
+    },
+    {
+      "id": "CON Arabic 3899",
+      "lines": [[112029,112447]],
+      "common_name": {"english": "The lucky star of the one with great endeavour", "native": "سعد الهمام"}
+    },
+    {
+      "id": "CON Arabic 3999",
+      "lines": [[112440,112748]],
+      "common_name": {"english": "The lucky star of the excellent one", "native": "سعد البارع"}
+    },
+    {
+      "id": "CON Arabic 4099",
+      "lines": [[112158,112051]],
+      "common_name": {"english": "The lucky star of Matar", "native": "سعد مطر"}
+    },
+    {
+      "id": "CON Arabic 4201",
+      "lines": [[26207,26176, 26366, 26207],[26444,26444]],
+      "common_name": {"english": "The circular mark", "native": "الهقعة"}
+    },
+    {
+      "id": "CON Arabic 4202",
+      "lines": [[25930,26311, 26727]],
+      "common_name": {"english": "The string", "native": "النظم"}
+    },
+    {
+      "id": "CON Arabic 4203",
+      "lines": [[26237,26235, 26241]],
+      "common_name": {"english": "The facial line tattoo", "native": "اللعط"}
+    },
+    {
+      "id": "CON Arabic 4206",
+      "lines": [[31681,32362]],
+      "common_name": {"english": "Stoopness [of the camel neck]", "native": "الهنعة"}
+    },
+    {
+      "id": "CON Arabic 4299",
+      "lines": [[26207,26487],[25336,26487, 27989],[25336,25930, 26311, 26727, 27366, 24436],[27989,32362],[30419,31216, 31978, 32362, 31681, 30883, 30343, 29655],[24010,23607, 22957, 22509, 22449, 22549, 22797, 23123],[25336,22449],[24436,25930],[27989,26727]],
+      "common_name": {"english": "Al-Jawza", "native": "الجوزاء"}
+    },
+    {
+      "id": "CON Arabic 5599",
+      "lines": [[101772,100751]],
+      "common_name": {"english": "The two shrikes", "native": "الصردان"}
+    },
+    {
+      "id": "CON Arabic 5699",
+      "lines": [[112122,109268]],
+      "common_name": {"english": "The two doves", "native": "اليمامتان"}
+    },
+    {
+      "id": "CON Arabic 5799",
+      "lines": [[113368,3419]],
+      "common_name": {"english": "The two male ostriches", "native": "الظليمان"}
+    },
+
   ],
   "common_names": {
     "HIP 746": [{"english": "The Hand dyed with Henna"}],
