@@ -1,6 +1,8 @@
 {
   "id": "Arabic",
   "region": "Middle East",
+  "langs_use_native_names": ["ar"],
+  "native_lang": "ar",
   "constellations": [
     {
       "id": "CON Arabic 0199",
@@ -323,11 +325,6 @@
       "common_name": {"english": "The bend", "native": "العوا"}
     },
     {
-      "id": "CON Arabic 2809",
-      "lines": [[65474,65239]],
-      "common_name": {"english": "The high one", "native": "السماك"}
-    },
-    {
       "id": "CON Arabic 2810",
       "lines": [[69701,69427, 69974],[70784,70784]],
       "common_name": {"english": "The cover", "native": "الغفر"}
@@ -604,7 +601,7 @@
     "HIP 11767": [{"english": "The kid", "native": "الجدي"}],
     "HIP 72607": [{"english": "The two calves 1", "native": "الفرقدان 1"}],
     "HIP 75097": [{"english": "The two calves 2", "native": "الفرقدان 2"}],
-    "HIP 54061": [{"english": "The Front one", "native": "المقدمان 1"}],
+    "HIP 54061": [{"english": "The two front ones 1", "native": "المقدمان 1"}],
     "HIP 53910": [{"english": "The two front ones 2", "native": "المقدمان 2"}],
     "HIP 58001": [{"english": "The two lame ones 1", "native": "الأعرجان 1"}],
     "HIP 59774": [{"english": "The two lame ones 2", "native": "الأعرجان 2"}],
