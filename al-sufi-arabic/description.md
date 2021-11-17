@@ -149,6 +149,7 @@ The single source of the sky culture is the **The Book of the Stars** and the ai
 Khalid Al-Ajaji: turath.alfalak@gmail.com
 ## License
 Illustrations: Public domain, Source: [Bibliothèque nationale de France. Département des Manuscrits. Arabe 5036](https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).
+
 Text and data: CC BY-ND 4.0 International Public License (share-alike, do not change it without consulting the contributor, and cite the contributor). The author wishes that this work be cited according to the common rules.
 
 [^1]: The Arabs and the Stars, Paul Kunitzsch,The Astronomer Abu'L-Husayn Al-Şūfī And His Book on The Constellations, XI, pg. 57.
