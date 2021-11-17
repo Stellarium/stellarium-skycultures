@@ -61,6 +61,11 @@
       "common_name": {"english": "The Arm", "native": "الذراع "}
     },
     {
+      "id": "CON central_arab_peninsula 4501",
+      "lines": [[33579,34444]],
+      "common_name": {"english": "The Two little Dogs", "native": "الكليبين "}
+    },
+    {
       "id": "CON central_arab_peninsula 2803",
       "lines": [[42806,42556, 42911],[43004,43004]],
       "common_name": {"english": "Nostrils [of the lion]", "native": "النثرة"}
@@ -168,7 +173,7 @@
   ],
   "common_names": {
     "NAME Mercury": [{"english": "Mercury", "native": "عطارد"}],
-    "NAME Venus": [{"english": "Venus", "native": "الزهرة"}],
+    "NAME Venus": [{"english": "Morning Star", "native": "نجمة الصبح"},{"english": "Evening Star", "native": "نجمة االعشا"}, {"english": "The bite", "native": "الجغمة"}, {"english": "The star of Al-Hawdan", "native": "نجمة الهودان"}],
     "NAME Mars": [{"english": "Mars", "native": "المريخ"}],
     "NAME Jupiter": [{"english": "Jupiter", "native": "المشتري"}],
     "NAME Saturn": [{"english": "Saturn", "native": "زحل"}],
@@ -212,6 +217,6 @@
     "HIP 24436": [{"english": "Southern Horn of Al-Jawza", "native": "قرن الجوزا الجنوبي"}],
     "HIP 32349": [{"english": "Al-Mirzam", "native": "المرزم"}, {"english": "Al-Shi'la", "native": "الشعلى"}],
     "HIP 30438": [{"english": "Suhayl", "native": "سهيل"}],
-    "HIP 7588": [{"english": "The oath star", "native": "محلف"}, {"english": "The False Suhayl", "native": "سهيل الكذوب"}]
+    "HIP 7588": [{"english": "The oath star", "native": "محلف"}]
   }
 }
