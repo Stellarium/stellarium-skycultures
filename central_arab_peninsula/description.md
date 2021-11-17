@@ -14,9 +14,11 @@ The source of this sky culture is a compilation of star names from oral traditio
 1. Al-'Oboodi, Mohammad b. Nassir, The folk proverbs in Najd, 4 volumes, Dar Al-Thuloothiyah, Riyadh, Saudi Arabia, 2010 AD.
 
 محمد بن ناصر العبودي، الأمثال العامية في نجد، دار الثلوثية، الرياض، المملكة العربية السعودية، 1431 هـ.
+
 2. Al-'Oboodi, Mohammad b. Nassir, Lexicon of the classical root of the common dialect words, 13 volumes, King AbdulAzeez Library, Riyadh,  Saudi Arabia, 2009 AD.
 
 محمد بن ناصر العبودي، معجم الأصول الفصيحة للألفاظ الدارجة، مكتبة الملك عبد العزيز، الرياض، المملكة العربية السعودية، 1430 هـ.
+
 3. A collection of bedouin poetry by the name: The moist flowers of Bedouin Poetry, 18 volumes, Al Ma'arif library, Tayef, Saudi Arabia.
 
 الأزهار النادية من أشعار البادية، مكتبة المعارف، الطائف، المملكة العربية السعودية.
@@ -24,18 +26,23 @@ The source of this sky culture is a compilation of star names from oral traditio
 4. A collection of poetry by Mandeel Al-Fuhaid, Our local literature of the Arab peninsula, 10 volumes, Riyadh, Saudi arabia.
 
 منديل بن محمد الفهيد، من آدابنا الشعبية في الجزيرة العربية.
+
 5. AbdulRahman Al-Suwaida, The local common proverbs of the Hayel region, Riyadh,  Saudi arabia, 2007.
 
 عبد الرحمن بن زيد السويداء، الأمثال الشعبية السائرة في منطقة حائل، الرياض، المملكة العربية السعودية، 1428 هـ.
+
 6. AbdulRahman Al-Suwaida, The best of folk poetry, 3 volume Poetry collection, Riyadh,  Saudi arabia, 1999.
 
 عبد الرحمن بن زيد السويداء، درر من الشعر الشعبي، الرياض، المملكة العربية السعودية، 1420 هـ.
+
 7. AbdulRahman Al-Suwaida, The Poets of the Mountain, 5 volume Poetry collection, Riyadh,  Saudi arabia, 2013.
 
 عبد الرحمن بن زيد السويداء، شعراء الجبل الشعبيون، الرياض، المملكة العربية السعودية، 1434 هـ.
+
 8. AlAjaji, Khalid, The Explanation of Al-Qadhi Poem Anwa'a and Stars, Riyadh,  Saudi arabia, 2013.
 
 خالد بن عبدالله العجاجي، شرح قصيدة القاضي في الأنواء والنجوم، الرياض، المملكة العربية السعودية، 1434 هـ.
+
 9. AlAjaji, Khalid, The Explanation of Al-Khalawi Astronomy Poems, Riyadh,  Saudi arabia, 2018.
 
 خالد بن عبدالله العجاجي، شرح مأثورات الخلاوي الفلكية، الرياض، المملكة العربية السعودية، 1439 هـ.
