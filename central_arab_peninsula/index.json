@@ -1,1 +1,217 @@
-
+{
+  "id": "central_arab_peninsula",
+  "region": "Middle East",
+  "langs_use_native_names": ["ar"],
+  "native_lang": "ar",
+  "highlight": "CON central_arab_peninsula 300",
+  "constellations": [
+    {
+      "id": "CON central_arab_peninsula 0100",
+      "lines": [[72607,75097]],
+      "common_name": {"english": "The Two Guards - the Two refujees", "native": "الحويجزين - الدخيلين"}
+    },
+    {
+      "id": "CON central_arab_peninsula 0200",
+      "lines": [[54061,53910, 58001, 59774, 62956, 65378, 67301]],
+      "common_name": {"english": "ِAl-Nayem - The Seven - Daughters of Na'sh", "native": "النعايم - السبَّع - بنات نعش"}
+    },
+    {
+      "id": "CON central_arab_peninsula 300",
+      "lines": [[746,116805, 3179, 4427, 6686, 8886]],
+      "common_name": {"english": "The Saddle of the Camel", "native": "الشداد"}
+    },
+    {
+      "id": "CON central_arab_peninsula 300",
+      "lines": [[102908,100453, 95947], [102488, 100453, 97165]],
+      "common_name": {"english": "The Wool Spindle", "native": "المغزل"}
+    },
+    {
+      "id": "CON central_arab_peninsula 2502",
+      "lines": [[113881,113963]],
+      "common_name": {"english": "The front", "native": "المقدم"}
+    },
+    {
+      "id": "CON central_arab_peninsula 2504",
+      "lines": [[677,1067]],
+      "common_name": {"english": "The rear", "native": "المؤخر"}
+    },
+    {
+      "id": "CON central_arab_peninsula 2550",
+      "lines": [[3881,3231, 2912, 3031, 3693, 5454, 5571, 6193, 6315, 5447, 3881]],
+      "common_name": {"english": "The Bucket rope", "native": "الرشا"}
+    },
+    {
+      "id": "CON central_arab_peninsula 2602",
+      "lines": [[9884,8903]],
+      "common_name": {"english": "The two signs", "native": "الشرطين"}
+    },
+    {
+      "id": "CON central_arab_peninsula 2603",
+      "lines": [[12719,13209, 13061, 12719]],
+      "common_name": {"english": "The little abdomen", "native": "البطين"}
+    },
+    {
+      "id": "CON central_arab_peninsula 2604",
+      "lines": [[17608,17608],[18163,18163]],
+      "common_name": {"english": "Al-Thurayya", "native": "الثريا"}
+    },
+    {
+      "id": "CON central_arab_peninsula 2801",
+      "lines": [[37279,36188]],
+      "common_name": {"english": "The Arm", "native": "الذراع "}
+    },
+    {
+      "id": "CON central_arab_peninsula 2803",
+      "lines": [[42806,42556, 42911],[43004,43004]],
+      "common_name": {"english": "Nostrils [of the lion]", "native": "النثرة"}
+    },
+    {
+      "id": "CON central_arab_peninsula 2804",
+      "lines": [[47908,47508]],
+      "common_name": {"english": "Eyes [of the lion]", "native": "الطرف"}
+    },
+    {
+      "id": "CON central_arab_peninsula 2805",
+      "lines": [[50335,50583, 49583, 49669]],
+      "common_name": {"english": "Forehead [of the lion]", "native": "الجبهة"}
+    },
+    {
+      "id": "CON central_arab_peninsula 2806",
+      "lines": [[54872,54879]],
+      "common_name": {"english": "Mane [of the lion]", "native": "الزبرة"}
+    },
+    {
+      "id": "CON central_arab_peninsula 2808",
+      "lines": [[63608,63090, 61941, 60129, 57757]],
+      "common_name": {"english": "The bend", "native": "العوا"}
+    },
+    {
+      "id": "CON central_arab_peninsula 2810",
+      "lines": [[69701,69427, 69974],[70784,70784]],
+      "common_name": {"english": "The cover", "native": "الغفر"}
+    },
+    {
+      "id": "CON central_arab_peninsula 2901",
+      "lines": [[72622,74785]],
+      "common_name": {"english": "Claws of the scorpion", "native": "الزبانى"}
+    },
+    {
+      "id": "CON central_arab_peninsula 2902",
+      "lines": [[78820,78401, 78265]],
+      "common_name": {"english": "The diadem", "native": "الإكليل"}
+    },
+    {
+      "id": "CON central_arab_peninsula 2906",
+      "lines": [[85927,85696]],
+      "common_name": {"english": "Raised Tail of the Scorpion", "native": "الشولة"}
+    },
+    {
+      "id": "CON central_arab_peninsula 2999",
+      "lines": [[74785,78820, 80112],[72622,78265, 80112],[78401,80112, 80763, 81266, 82396, 82514, 82729, 84143, 86228, 87073, 86670, 85927]],
+      "common_name": {"english": "The scorpion", "native": "العقرب"}
+    },
+    {
+      "id": "CON central_arab_peninsula 3005",
+      "lines": [[97290,96760, 95503, 95564, 96440, 97290]],
+      "common_name": {"english": "The empty place", "native": "البلدة"}
+    },
+    {
+      "id": "CON central_arab_peninsula 3099",
+      "lines": [[89931,90185, 93506, 92041, 89931],[88635,89642, 90185, 89931, 88635],[92855,93864, 93506, 92041, 92855],[89931,90496, 92041]],
+      "common_name": {"english": "The Ostriches", "native": "النعائم"}
+    },
+    {
+      "id": "CON central_arab_peninsula 3199",
+      "lines": [[100064,100310, 100345]],
+      "common_name": {"english": "The lucky star of the slaughterer", "native": "سعد الذابح"}
+    },
+    {
+      "id": "CON central_arab_peninsula 3299",
+      "lines": [[102618,103045, 104459]],
+      "common_name": {"english": "The lucky star of the swallower", "native": "سعد بلع"}
+    },
+    {
+      "id": "CON central_arab_peninsula 3399",
+      "lines": [[106278,106786, 107382]],
+      "common_name": {"english": "The luckiest of the lucky stars", "native": "سعد السعود"}
+    },
+    {
+      "id": "CON central_arab_peninsula 3499",
+      "lines": [[110395,110960, 110672],[110960,111497],[110395,110672],[110395,111497]],
+      "common_name": {"english": "The lucky star of the tents", "native": "سعد الأخبية"}
+    },
+    {
+      "id": "CON central_arab_peninsula 4201",
+      "lines": [[26207,26176, 26366, 26207],[26444,26444]],
+      "common_name": {"english": "The circular mark", "native": "الهقعة"}
+    },
+    {
+      "id": "CON central_arab_peninsula 4202",
+      "lines": [[25930,26311, 26727]],
+      "common_name": {"english": "The string", "native": "النظم"}
+    },
+    {
+      "id": "CON central_arab_peninsula 4203",
+      "lines": [[26237,26235, 26241]],
+      "common_name": {"english": "The facial line tattoo", "native": "اللعط"}
+    },
+    {
+      "id": "CON central_arab_peninsula 4206",
+      "lines": [[31681,32362]],
+      "common_name": {"english": "Stoopness [of the camel neck]", "native": "الهنعة"}
+    },
+    {
+      "id": "CON central_arab_peninsula 4299",
+      "lines": [[26207,26487],[25336,26487, 27989],[25336,25930, 26311, 26727, 27366, 24436],[27989,32362],[30419,31216, 31978, 32362, 31681, 30883, 30343, 29655],[24010,23607, 22957, 22509, 22449, 22549, 22797, 23123],[25336,22449],[24436,25930],[27989,26727]],
+      "common_name": {"english": "Al-Jawza", "native": "الجوزاء"}
+    },
+  ],
+  "common_names": {
+    "NAME Mercury": [{"english": "Mercury", "native": "عطارد"}],
+    "NAME Venus": [{"english": "Venus", "native": "الزهرة"}],
+    "NAME Mars": [{"english": "Mars", "native": "المريخ"}],
+    "NAME Jupiter": [{"english": "Jupiter", "native": "المشتري"}],
+    "NAME Saturn": [{"english": "Saturn", "native": "زحل"}],
+    "NAME Sun": [{"english": "Sun", "native": "الشمس"}],
+    "NAME Moon": [{"english": "Moon", "native": "القمر"}],
+    "M 45": [{"english": "Al-Thurayya", "native": "الثريا"}],
+    "M 44": [{"english": "The nostril [of the lion", "native": "النثرة"}],
+    "HIP 11767": [{"english": "The kid", "native": "الجدي"}],
+    "HIP 72607": [{"english": "The Two Guards 1", "native": "الحويجزين 1"}, {"english": "The Two Refujees 1", "native": "الدخيلين 1"}],
+    "HIP 75097": [{"english": "The Two Guards 2", "native": "الحويجزين 2"}, {"english": "The Two Refujees 2", "native": "الدخيلين 2"}],
+    "HIP 54061": [{"english": "Al-Khilj 1", "native": "الخلج 1"}, {"english": "The First Khilj 1", "native": "الخلج الاولات 1"}, {"english": "The First Two 1", "native": "الاولتين 1"}],
+    "HIP 53910": [{"english": "Al-Khilj 2", "native": "الخلج 2"}, {"english": "The First Khilj 2", "native": "الخلج الاولات 2"}, {"english": "The First Two 2", "native": "الاولتين 2"}],
+    "HIP 58001": [{"english": "The Latter Khilj 1", "native": "الخلج التوالي 1"}, {"english": "The Fourth ones 1", "native": "الربَّع 1"}],
+    "HIP 59774": [{"english": "The Latter Khilj 2", "native": "الخلج التوالي 2"}, {"english": "The Fourth ones 2", "native": "الربَّع 2"}],
+    "HIP 62956": [{"english": "The Fifth", "native": "الخامس"}],
+    "HIP 65378": [{"english": "The Sixth", "native": "السات"}],
+    "HIP 65477": [{"english": "Al-Suha", "native": "السها"}],
+    "HIP 67301": [{"english": "The Seventh", "native": "السويبع"}],
+    "HIP 69673": [{"english": "The Watcher", "native": "الرقيب"}],
+    "HIP 91262": [{"english": "The Closed wings Eagle", "native": "النسر المكتف"}],
+    "HIP 24608": [{"english": "The Parallel one", "native": "المباري"}, {"english": "The Sided One", "native": "الجنيب"}],
+    "HIP 97649": [{"english": "The Spread wings Eagle", "native": "النسر الباسط"}, {"english": "Al-Kanoon", "native": "الكانون"}],
+    "HIP 677": [{"english": "The rear bucket mouth 2", "native": " المؤخر 2"}],
+    "HIP 1067": [{"english": "The rear bucket mouth 1", "native": "المؤخر 1"}],
+    "HIP 113881": [{"english": "The front bucket mouth 2", "native": "المقدم 2"}],      
+    "HIP 113963": [{"english": "The front bucket mouth 1", "native": "المقدم 1"}],      
+    "HIP 21421": [{"english": "Al-Dabaran", "native": "الدبران"}],
+    "HIP 36046": [{"english": "The claws 1", "native": "الأظفار 1"}],
+    "HIP 36962": [{"english": "The claws 2", "native": "الأظفار 2"}],
+    "HIP 37740": [{"english": "The claws 3", "native": "الأظفار 3"}],
+    "HIP 35550": [{"english": "The claws 4", "native": "الأظفار 4"}],
+    "HIP 34088": [{"english": "The claws 5", "native": "الأظفار 5"}],
+    "HIP 35350": [{"english": "The claws 6", "native": "الأظفار 6"}],
+    "HIP 57632": [{"english": "Star of weather change", "native": "الصرفة"}],
+    "HIP 65474": [{"english": "The unarmed high one", "native": "السماك الأعزل"}],
+    "HIP 80763": [{"english": "The heart", "native": "القلب"}],
+    "HIP 85927": [{"english": "Raised Tail of the Scorpion", "native": "الشولة"}],
+    "HIP 26366": [{"english": "The circular mark", "native": "الهقعة"}],
+    "HIP 27989": [{"english": "Shoulder of Al-Jawza", "native": "منكب الجوزاء"}],
+    "HIP 25336": [{"english": "Al-Najidh", "native": "الناجذ"}],
+    "HIP 24436": [{"english": "Leg of Al-Jawza", "native": "رجل الجوزاء"}],
+    "HIP 32349": [{"english": "Al-Mirzam", "native": "المرزم"}, {"english": "Al-Shi'la", "native": "الشعلى"}],
+    "HIP 30438": [{"english": "Suhayl", "native": "سهيل"}],
+    "HIP 7588": [{"english": "The oath star", "native": "محلف"}, {"english": "The False Suhayl", "native": "سهيل الكذوب"}]
+  }
+}
