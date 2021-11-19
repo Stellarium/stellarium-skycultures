@@ -307,7 +307,7 @@ Group of stars shaped as line.
 ## Author
 Khalid Al-Ajaji: turath.alfalak@gmail.com
 ## License
-This sky culture is provided for free under CC BY-ND 4.0 International Public License (share-alike, do not change it without consulting the contributor, and cite the contributor). The author wishes that this work be cited according to the common rules.
+Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
 
 [^1]: Ibn Qutaybah (Arabic ابن قتيبة) (b. 828 d. 884 or 889), Kitab Al-Anwa'a (Arabic الأنواء في مواسم العرب), (Arabic print of the original book in 1956 in India Hydarabad al-Dakan), page: يد.
 
