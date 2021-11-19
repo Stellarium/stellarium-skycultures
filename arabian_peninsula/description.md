@@ -120,7 +120,7 @@ The star α Car (Canopus). The name is of ancient origin.
 This sky culture and the compilation of Arabic star names were authored by
 Khalid AlAjaji.
 ## License
-This sky culture is provided for free under CC BY-ND 4.0 International Public License (share-alike, do not change it without consulting the contributor, and cite the contributor). The author wishes that this work be cited according to the common rules.
+Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
 
  [^1]: AlAjaji, Khalid, The Explanation of Al-Khalawi Astronomy Poems, Riyadh,  Saudi arabia, 2018.
  [^2]: AlAjaji, Khalid, The Explanation of Al-Qadhi Poem Anwa'a and Stars, Riyadh,  Saudi arabia, 2013.
