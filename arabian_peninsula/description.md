@@ -57,13 +57,13 @@ AlJawza is a proper name for a woman. this constellation is a woman shape for th
 The 5 bright stars of Cassiopeia. This name is used in the western areas along the red sea. The source is oral tradition from the seaport Umluj of Saudi Arabia.
 ##### The Wool Spindle
 The Cross shaped stars of α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr), δ Cyg, and β1 Cyg (Albireo). The source is oral tradition from the town of Zulfi in central Saudi Arabia.
-### ِAsterisms
+### Asterisms
 
 ##### The Two Guards - the Two refugees
 The two stars: β UMi and γ UMi They are used for directions. 
 _The Two Guards_ comes from the legend that Al-Jady (Polaris) killed the father of the seven sisters who are carrying the bier of their father (The stars of the Big Dipper) and circling Al-Jady, vowing that they will not burry their father until they get revenge. Al-Jady asked these two for protection, and the name is The Two Guards.
 
-The other name _The Two Refugees_ comes from another version of the legend that they are he ones who committed the killing and they fled towards Al-Jady for protection.
+The other name _The Two Refugees_ comes from another version of the legend that they are the ones who committed the killing and they fled towards Al-Jady for protection.
 
 These two names are common throughout the central region of Saudi Arabia.
 
