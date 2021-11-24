@@ -5,7 +5,7 @@ The Arabic lunar stations describes the 28 sky areas chosen in ancient Arabia to
 ## Description
 
 #### Historical Overview
-Originally, the _Manazil al-Qamar_, the Arabic for the lunar mansions, or stations of the moon, were a system of 28 stars, group of stars, or spots in the sky near which the moon can be found in each of the 28 nights of its monthly revolution. Early mentions of the complete list of the lunar stations are reported by Abd al-Malik Ibn Habeeb (d. 852) on the authority of Malik ibn Anas (d. 795) [^1]. However, this system had been adopted already in the pre-Islamic period, prior to the 7th century of the common era.
+Originally, _Manazil al-Qamar_, the Arabic for the lunar mansions, or stations of the moon, were a system of 28 stars, group of stars, or spots in the sky near which the moon can be found in each of the 28 nights of its monthly revolution. Early mentions of the complete list of the lunar stations are reported by Abd al-Malik Ibn Habeeb (d. 852) on the authority of Malik ibn Anas (d. 795) [^1]. However, this system had been adopted already in the pre-Islamic period, prior to the 7th century of the common era.
 Using heliacal observations, the asterisms of the lunar mansions served to divide the sidereal and solar year of 365 days into 28 periods of 13 days each except for one period that is given 14 days. These 28 periods are called _Anwa'a_, plural of _Nawa'a_. Each _Nawa'a_ is determined by a characteristical star: when this star rises in the morning during dawn (in the east, so, shortly before the Sun), this is the beginning of the next _Nawa'a_. The name of the _Nawa'a_ (period of time, half month), gives the lunar mansion its name. One complete cycle of setting and rising for each of the 28 lunar mansions, one after the other, makes a solar year. This system was used to determine the seasons and predict weather, especially rain [^2]. The Arabs said: each _Nawa'a_ (period of 13/14 days) is characterized by a distinctive weather pattern of rain, wind, and temperature [^4].
 A detailed description of the stars of each lunar mansion, the times of their heliacal rising and a compilation of astronomical and meteorological knowledge of the ancient Arabs can be found in the _Book of Anwaa_, authored by Ibn Qutaybah (b. 828 - d. 884 or 889). Copies of this book manuscripts survived, and it was printed in India in 1956 [^5].
 The usage of the lunar mansions continued to schedule the times of agricultural, travel and medicine practices. 
@@ -78,9 +78,9 @@ The 7 stars of the big dipper, representing 7 girls carrying the bier of their f
 ##### The first leap
 The track of the first leap of the gazelles fleeing the nearby lion, represented by the two stars: ν UMa and ξ UMa.
 ##### The second leap
-The track of the first leap of the gazelles represented by the two stars: λ UMa and μ UMa.
+The track of the second leap of the gazelles represented by the two stars: λ UMa and μ UMa.
 ##### The third leap
-The track of the first leap of the gazelles represented by the two stars: ι UMa and κ UMa.
+The track of the third leap of the gazelles represented by the two stars: ι UMa and κ UMa.
 ##### The two wolves
 The two stars: f Dra and ω Dra, representing two wolves trying to hunt the nearby baby camel, the star HR 6618, surrounded by the [four mother camels](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-mother-camels).
 ##### The mother camels
