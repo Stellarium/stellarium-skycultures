@@ -54,7 +54,7 @@ The source of this sky culture is a compilation of star names from oral traditio
 ##### Al-Jawza
 AlJawza is a proper name for a woman. this constellation is a woman shape for the Orion stars. It is the same as that of ancient Arabs.
 ##### The Saddle of the Camel
-The 5 bright stars of Cassiopeia. This name is used in the western areas along the red sea. The source is oral tradition from the seaport Umluj of Saudi Arabia.
+The 5 bright stars of Cassiopeia. This name is used in the western areas along the red sea of Saudi Arabia.
 ##### The Wool Spindle
 The Cross shaped stars of α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr), δ Cyg, and β1 Cyg (Albireo). The source is oral tradition from the town of Zulfi in central Saudi Arabia.
 ### Asterisms
