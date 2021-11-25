@@ -90,7 +90,7 @@ An asterism of the two stars: δ CMa and ε CMa. There heliacal rising is used f
 The star ε UMa, fifth to rise of the seven stars of the Big Dipper.
 ##### The Sixth
 The star ζ UMa, sixth to rise of the seven stars of the Big Dipper.
-##### The Sixth
+##### The seventh
 The star η UMa, seventh to rise of the seven stars of the Big Dipper.
 ##### The Watcher
 The star α Boo. The source of this name is in the tradition of Hayel region.
