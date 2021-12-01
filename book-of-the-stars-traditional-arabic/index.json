@@ -1,570 +1,570 @@
 {
-  "id": "al-sufi-arabic",
+  "id": "book-of-the-stars-arabic",
   "region": "Middle East",
   "langs_use_native_names": ["ar"],
   "native_lang": "ar",
   "thumbnail": "illustrations/Peg.webp",
   "thumbnail_bscale": 0.8,
-  "highlight": "CON al-sufi-arabic Cyg",
+  "highlight": "CON book-of-the-stars-arabic Cyg",
   "illustrations_bscale": 0.8,
   "constellations": [
     {
-      "id": "CON al-sufi-arabic 01UMi01",
+      "id": "CON book-of-the-stars-arabic 01UMi01",
       "lines": [[72607, 75097]],
       "common_name": {"english": "The Two Oryx Calves", "native": "الفرقدان"}
     },
     {
-      "id": "CON al-sufi-arabic 01UMi02",
+      "id": "CON book-of-the-stars-arabic 01UMi02",
       "lines": [[11767, 85822, 82080, 77055, 72607, 70692, 69112, 62572, 11767]],
       "common_name": {"english": "The Axe Of The Grindstone", "native": "فأس الرحى"}
     },
     {
-      "id": "CON al-sufi-arabic 02UMa01",
+      "id": "CON book-of-the-stars-arabic 02UMa01",
       "lines": [[67301, 65378, 62956, 59774, 58001, 53910, 54061, 59774]],
       "common_name": {"english": "Daughters Of Na'sh", "native": "بنات نعش"}
     },
     {
-      "id": "CON al-sufi-arabic 02UMa03",
+      "id": "CON book-of-the-stars-arabic 02UMa03",
       "lines": [[57565, 54951, 53417, 52098, 51056, 49593, 46952, 45688, 44700, 44248, 41075, 36145], [45860, 45688], [53229, 52098]],
       "common_name": {"english": "The Gazelles", "native": "الظباء"}
     },
     {
-      "id": "CON al-sufi-arabic 02UMa04",
+      "id": "CON book-of-the-stars-arabic 02UMa04",
       "lines": [[51233, 48833, 47029, 43531, 39847]],
       "common_name": {"english": "The Gazelles Youngsters", "native": "أولاد الظباء"}
     },
     {
-      "id": "CON al-sufi-arabic 02UMa05",
+      "id": "CON book-of-the-stars-arabic 02UMa05",
       "lines": [[45075, 46733, 48319, 48402, 46853, 44901]],
       "common_name": {"english": "The Water Pool", "native": "الحوض"}
     },
     {
-      "id": "CON al-sufi-arabic 02UMa06",
+      "id": "CON book-of-the-stars-arabic 02UMa06",
       "lines": [[55219, 55203]],
       "common_name": {"english": "The First Leap", "native": "القفزة الأولى"}
     },
     {
-      "id": "CON al-sufi-arabic 02UMa07",
+      "id": "CON book-of-the-stars-arabic 02UMa07",
       "lines": [[50372, 50801]],
       "common_name": {"english": "The Second Leap", "native": "القفزة الثانية"}
     },
     {
-      "id": "CON al-sufi-arabic 02UMa08",
+      "id": "CON book-of-the-stars-arabic 02UMa08",
       "lines": [[44127, 44471]],
       "common_name": {"english": "The Third Leap", "native": "القفزة الثالثة"}
     },
     {
-      "id": "CON al-sufi-arabic 03Dra01",
+      "id": "CON book-of-the-stars-arabic 03Dra01",
       "lines": [[83895, 80331]],
       "common_name": {"english": "The Two Wolves", "native": "الذئبان"}
     },
     {
-      "id": "CON al-sufi-arabic 03Dra02",
+      "id": "CON book-of-the-stars-arabic 03Dra02",
       "lines": [[85805, 86201]],
       "common_name": {"english": "The Wolf Claws", "native": "أظفار الذئب"}
     },
     {
-      "id": "CON al-sufi-arabic 03Dra03",
+      "id": "CON book-of-the-stars-arabic 03Dra03",
       "lines": [[85819, 85670, 87833, 87585, 85819]],
       "common_name": {"english": "The Mother Camels", "native": "العوائذ"}
     },
     {
-      "id": "CON al-sufi-arabic 03Dra05",
+      "id": "CON book-of-the-stars-arabic 03Dra05",
       "lines": [[95081, 98702, 89908, 95081]],
       "common_name": {"english": "The Three Stone Support", "native": "الأثافي"}
     },
     {
-      "id": "CON al-sufi-arabic 04Cep01",
+      "id": "CON book-of-the-stars-arabic 04Cep01",
       "lines": [[102422, 101093, 98962, 97892, 98073, 99655, 101084, 102431, 102775, 102727, 102422]],
       "common_name": {"english": "The Pot", "native": "القدر"}
     },
     {
-      "id": "CON al-sufi-arabic 04Cep02",
+      "id": "CON book-of-the-stars-arabic 04Cep02",
       "lines": [[106032, 105199]],
       "common_name": {"english": "The Two Stars Of Separation", "native": "كوكبا الفرق"}
     },
     {
-      "id": "CON al-sufi-arabic 04Cep03",
+      "id": "CON book-of-the-stars-arabic 04Cep03",
       "lines": [[107119, 112724, 117371, 3721, 5626, 5372, 109693, 101044, 99255, 99255, 101260, 107119]],
       "common_name": {"english": "The Sheep", "native": "الشاء"}
     },
     {
-      "id": "CON al-sufi-arabic 05Boo01",
+      "id": "CON book-of-the-stars-arabic 05Boo01",
       "lines": [[72105, 67927]],
       "common_name": {"english": "The Spear", "native": "الرمح"}
     },
     {
-      "id": "CON al-sufi-arabic 05Boo02",
+      "id": "CON book-of-the-stars-arabic 05Boo02",
       "lines": [[67275, 67459]],
       "common_name": {"english": "The Front Spear Tassel - The Weapon", "native": "عذبة الرمح الأولى - السلاح"}
     },
     {
-      "id": "CON al-sufi-arabic 05Boo03",
+      "id": "CON book-of-the-stars-arabic 05Boo03",
       "lines": [[71284, 71053]],
       "common_name": {"english": "The Rear Spear Tassel", "native": "عذبة الرمح الثانية"}
     },
     {
-      "id": "CON al-sufi-arabic 05Boo04",
+      "id": "CON book-of-the-stars-arabic 05Boo04",
       "lines": [[71075, 72552, 73568, 73996, 75312, 76617, 80181, 81693, 81833, 81126, 79992, 70497, 69483, 69732, 71075]],
       "common_name": {"english": "The Hyenas And Their Youngsters", "native": "الضباع وأولاد الضباع"}
     },
     {
-      "id": "CON al-sufi-arabic 06CrB01",
+      "id": "CON book-of-the-stars-arabic 06CrB01",
       "lines": [[77048, 76127, 75695, 76267, 76952, 77512, 78159, 78493]],
       "common_name": {"english": "The Open Circle - The Bowl Of The Poor", "native": "الفكَّة - قصعة المساكين"}
     },
     {
-      "id": "CON al-sufi-arabic 07Her01",
+      "id": "CON book-of-the-stars-arabic 07Her01",
       "lines": [[93194, 92420, 88794, 87933, 86974, 85693, 84379, 80816, 80170, 79043, 78072, 77233]],
       "common_name": {"english": "The Northern Line", "native": "النسق الشامي"}
     },
     {
-      "id": "CON al-sufi-arabic 07Her02",
+      "id": "CON book-of-the-stars-arabic 07Her02",
       "lines": [[83207, 84380, 87808, 90139]],
       "common_name": {"english": "The Statues", "native": "التماثيل"}
     },
     {
-      "id": "CON al-sufi-arabic 08Lyr01",
+      "id": "CON book-of-the-stars-arabic 08Lyr01",
       "lines": [[91262, 91919], [91262, 91971]],
       "common_name": {"english": "The Landing Eagle ", "native": "النسر الواقع"}
     },
     {
-      "id": "CON al-sufi-arabic 08Lyr02",
+      "id": "CON book-of-the-stars-arabic 08Lyr02",
       "lines": [[89826, 90191]],
       "common_name": {"english": "The Claws", "native": "الأظفار"}
     },
     {
-      "id": "CON al-sufi-arabic 09Cyg01",
+      "id": "CON book-of-the-stars-arabic 09Cyg01",
       "lines": [[94779, 97165, 100453, 102488, 104732]],
       "common_name": {"english": "The Knights", "native": "الفوارس"}
     },
     {
-      "id": "CON al-sufi-arabic 10Cas01",
+      "id": "CON book-of-the-stars-arabic 10Cas01",
       "lines": [[116631, 116805, 116584, 117221, 841, 2225, 2900, 3414, 3504, 3300, 2920, 746, 2599, 8886]],
       "common_name": {"english": "THe She-Camel", "native": "الناقة"}
     },
     {
-      "id": "CON al-sufi-arabic 10Cas02",
+      "id": "CON book-of-the-stars-arabic 10Cas02",
       "lines": [[8886, 6686, 4427, 3179, 746]],
       "common_name": {"english": "The Henna Tinted Hand", "native": "الكف الخضيب"}
     },
     {
-      "id": "CON al-sufi-arabic 11Per01",
+      "id": "CON book-of-the-stars-arabic 11Per01",
       "lines": [[13268, 14328]],
       "common_name": {"english": "The Forearm", "native": "الساعد"}
     },
     {
-      "id": "CON al-sufi-arabic 11Per02",
+      "id": "CON book-of-the-stars-arabic 11Per02",
       "lines": [[17358, 17529, 18532]],
       "common_name": {"english": "The Arm", "native": "العضد"}
     },
     {
-      "id": "CON al-sufi-arabic 11Per03",
+      "id": "CON book-of-the-stars-arabic 11Per03",
       "lines": [[17448, 18246]],
       "common_name": {"english": "The Shoulder", "native": "العاتق"}
     },
     {
-      "id": "CON al-sufi-arabic 11Per04",
+      "id": "CON book-of-the-stars-arabic 11Per04",
       "lines": [[8886, 11020, 13268, 14328, 15863, 16826, 17358, 18532, 18614, 18246, 17448]],
       "common_name": {"english": "The Extended Arm Of Al-Thurayya", "native": "يد الثريا الممدودة"}
     },
     {
-      "id": "CON al-sufi-arabic 12Aur01",
+      "id": "CON book-of-the-stars-arabic 12Aur01",
       "lines": [[28358, 23522, 17959, 14862, 36547, 47193, 51808, 33694, 29997, 33449, 28358]],
       "common_name": {"english": "The Northern Tent", "native": "الخباء"}
     },
     {
-      "id": "CON al-sufi-arabic 12Aur02",
+      "id": "CON book-of-the-stars-arabic 12Aur02",
       "lines": [[28360, 23015, 25428]],
       "common_name": {"english": "The Posts - The Associates Of Al-Ayyuq", "native": "الأعلام - توابع العيوق"}
     },
     {
-      "id": "CON al-sufi-arabic 12Aur03",
+      "id": "CON book-of-the-stars-arabic 12Aur03",
       "lines": [[23767, 23453]],
       "common_name": {"english": "The Two Kids", "native": "الجديان"}
     },
     {
-      "id": "CON al-sufi-arabic 13Oph01",
+      "id": "CON book-of-the-stars-arabic 13Oph01",
       "lines": [[93194, 92420, 88794, 87933, 86974, 85693, 84379, 80816, 80170, 79043, 78072, 77233], [76276, 77070, 77622, 79593, 79882, 80628, 81377, 84012, 84893]],
       "common_name": {"english": "The Desert Natural Garden And The Goats", "native": "الروضة والأغنام"}
     },
     {
-      "id": "CON al-sufi-arabic 14Ser01",
+      "id": "CON book-of-the-stars-arabic 14Ser01",
       "lines": [[76276, 77070, 77622, 79593, 79882, 80628, 81377, 84012, 84893]],
       "common_name": {"english": "The Southern Line", "native": "النسق اليماني"}
     },
     {
-      "id": "CON al-sufi-arabic 16Aql01",
+      "id": "CON book-of-the-stars-arabic 16Aql01",
       "lines": [[97649, 98036], [97649, 97278]],
       "common_name": {"english": "The Flying Eagle", "native": "النسر الطائر"}
     },
     {
-      "id": "CON al-sufi-arabic 16Aql02",
+      "id": "CON book-of-the-stars-arabic 16Aql02",
       "lines": [[93805, 96468]],
       "common_name": {"english": "The Two Young Male Ostriches", "native": "الظليمان الصغيران"}
     },
     {
-      "id": "CON al-sufi-arabic 17Del01",
+      "id": "CON book-of-the-stars-arabic 17Del01",
       "lines": [[102532, 102281, 101769, 101958, 102532]],
       "common_name": {"english": "The Young Camel", "native": "القعود"}
     },
     {
-      "id": "CON al-sufi-arabic 19Peg01",
+      "id": "CON book-of-the-stars-arabic 19Peg01",
       "lines": [[115250, 115623], [113881, 677], [113881, 1067], [113963, 677], [113963, 1067]],
       "common_name": {"english": "The Well Bucket", "native": "الدلو"}
     },
     {
-      "id": "CON al-sufi-arabic 19Peg02",
+      "id": "CON book-of-the-stars-arabic 19Peg02",
       "lines": [[113881, 113963]],
       "common_name": {"english": "The Front Bucket Mouth", "native": "الفرغ المقدم"}
     },
     {
-      "id": "CON al-sufi-arabic 19Peg03",
+      "id": "CON book-of-the-stars-arabic 19Peg03",
       "lines": [[677, 1067]],
       "common_name": {"english": "The Rear Bucket Mouth", "native": "الفرغ المؤخر"}
     },
     {
-      "id": "CON al-sufi-arabic 19Peg04",
+      "id": "CON book-of-the-stars-arabic 19Peg04",
       "lines": [[115250, 115623]],
       "common_name": {"english": "The Well Poles - The Bucket Rope Knot", "native": "النعام - الكرب"}
     },
     {
-      "id": "CON al-sufi-arabic 19Peg05",
+      "id": "CON book-of-the-stars-arabic 19Peg05",
       "lines": [[109427, 109068]],
       "common_name": {"english": "The Lucky Star Of The Young Sheep", "native": "سعد البهام"}
     },
     {
-      "id": "CON al-sufi-arabic 19Peg06",
+      "id": "CON book-of-the-stars-arabic 19Peg06",
       "lines": [[112029, 112447]],
       "common_name": {"english": "The Lucky Star Of The One With Great Endeavour", "native": "سعد الهمام"}
     },
     {
-      "id": "CON al-sufi-arabic 19Peg07",
+      "id": "CON book-of-the-stars-arabic 19Peg07",
       "lines": [[112440, 112748]],
       "common_name": {"english": "The Lucky Star Of The Excellent One", "native": "سعد البارع"}
     },
     {
-      "id": "CON al-sufi-arabic 19Peg08",
+      "id": "CON book-of-the-stars-arabic 19Peg08",
       "lines": [[112158, 112051]],
       "common_name": {"english": "The Lucky Star Of Mattar", "native": "سعد مطر"}
     },
     {
-      "id": "CON al-sufi-arabic 19Peg09",
+      "id": "CON book-of-the-stars-arabic 19Peg09",
       "lines": [[3810, 3632, 2903, 2224, 2219, 2568, 3138, 3685, 3810]],
       "common_name": {"english": "The Fox Place", "native": "بلدة الثعلب"}
     },
     {
-      "id": "CON al-sufi-arabic 20And01",
+      "id": "CON book-of-the-stars-arabic 20And01",
       "lines": [[3231, 2912, 3092, 3031, 3693, 4463, 5132, 5310, 5454, 5571, 5742, 6193, 5447, 4436, 3881, 3231]],
       "common_name": {"english": "The Fish - The Well Bucket Rope", "native": "الحوت - الرشاء"}
     },
     {
-      "id": "CON al-sufi-arabic 21Tri01",
+      "id": "CON book-of-the-stars-arabic 21Tri01",
       "lines": [[8796, 10064]],
       "common_name": {"english": "The Two Forelegs Of The Lamb", "native": "الأيبسان"}
     },
     {
-      "id": "CON al-sufi-arabic 22Ari02",
+      "id": "CON book-of-the-stars-arabic 22Ari02",
       "lines": [[9884, 8903]],
       "common_name": {"english": "The Two Signs", "native": "الشرطان"}
     },
     {
-      "id": "CON al-sufi-arabic 22Ari05",
+      "id": "CON book-of-the-stars-arabic 22Ari05",
       "lines": [[14838, 13914, 13702, 14838]],
       "common_name": {"english": "The Little Abdomen", "native": "البطين"}
     },
     {
-      "id": "CON al-sufi-arabic 23Tau01",
+      "id": "CON book-of-the-stars-arabic 23Tau01",
       "lines": [[17573, 17499, 17702, 17847, 17573]],
       "common_name": {"english": "Al-Thurayya", "native": "الثريا"}
     },
     {
-      "id": "CON al-sufi-arabic 23Tau02",
+      "id": "CON book-of-the-stars-arabic 23Tau02",
       "lines": [[20250, 19038, 18724, 20901, 23497, 20250]],
       "common_name": {"english": "The Young She-Camels", "native": "القلاص"}
     },
     {
-      "id": "CON al-sufi-arabic 23Tau03",
+      "id": "CON book-of-the-stars-arabic 23Tau03",
       "lines": [[20711, 20635]],
       "common_name": {"english": "The Two Dogs Of Al-Dabaran", "native": "كلبا الدبران"}
     },
     {
-      "id": "CON al-sufi-arabic 24Gem01",
+      "id": "CON book-of-the-stars-arabic 24Gem01",
       "lines": [[36850, 37826]],
       "common_name": {"english": "The Extended Arm [Of The Lion]", "native": "الذراع المبسوطة"}
     },
     {
-      "id": "CON al-sufi-arabic 24Gem02",
+      "id": "CON book-of-the-stars-arabic 24Gem02",
       "lines": [[36366, 37629]],
       "common_name": {"english": "The Claws", "native": "الأظفار"}
     },
     {
-      "id": "CON al-sufi-arabic 24Gem03",
+      "id": "CON book-of-the-stars-arabic 24Gem03",
       "lines": [[31681, 32362]],
       "common_name": {"english": "Stoopness [Of The Camel Neck]", "native": "الهنعة"}
     },
     {
-      "id": "CON al-sufi-arabic 24Gem05",
+      "id": "CON book-of-the-stars-arabic 24Gem05",
       "lines": [[29655, 30343, 30883]],
       "common_name": {"english": "The Stars Of Rain", "native": "التحايي"}
     },
     {
-      "id": "CON al-sufi-arabic 24Gem07",
+      "id": "CON book-of-the-stars-arabic 24Gem07",
       "lines": [[30419, 31216, 31978, 32362, 31681, 30883, 30343, 29655]],
       "common_name": {"english": "Bow Of Al-Jawza", "native": "قوس الجوزاء"}
     },
     {
-      "id": "CON al-sufi-arabic 25Cnc01",
+      "id": "CON book-of-the-stars-arabic 25Cnc01",
       "lines": [[42806, 42911]],
       "common_name": {"english": "Nostrils [Of The Lion]", "native": "المنخران"}
     },
     {
-      "id": "CON al-sufi-arabic 26Leo01",
+      "id": "CON book-of-the-stars-arabic 26Leo01",
       "lines": [[44798, 46750]],
       "common_name": {"english": "The Eyes [Of The Lion]", "native": "الطرف"}
     },
     {
-      "id": "CON al-sufi-arabic 26Leo02",
+      "id": "CON book-of-the-stars-arabic 26Leo02",
       "lines": [[46146, 47908, 48455]],
       "common_name": {"english": "Northern Eyelashes Roots", "native": "الأشفار الشمالية"}
     },
     {
-      "id": "CON al-sufi-arabic 26Leo03",
+      "id": "CON book-of-the-stars-arabic 26Leo03",
       "lines": [[46771, 45410]],
       "common_name": {"english": "Southern Eyelashes Roots", "native": "الأشفار الجنوبية"}
     },
     {
-      "id": "CON al-sufi-arabic 26Leo04",
+      "id": "CON book-of-the-stars-arabic 26Leo04",
       "lines": [[50335, 50583, 49583, 49669]],
       "common_name": {"english": "Forehead [Of The Lion]", "native": "الجبهة"}
     },
     {
-      "id": "CON al-sufi-arabic 26Leo05",
+      "id": "CON book-of-the-stars-arabic 26Leo05",
       "lines": [[54872, 54879]],
       "common_name": {"english": "Mane Of The Lion", "native": "الزبرة"}
     },
     {
-      "id": "CON al-sufi-arabic 27Vir01",
+      "id": "CON book-of-the-stars-arabic 27Vir01",
       "lines": [[63608, 63090, 61941, 60129, 57757]],
       "common_name": {"english": "The Bend", "native": "العوا"}
     },
     {
-      "id": "CON al-sufi-arabic 27Vir02",
+      "id": "CON book-of-the-stars-arabic 27Vir02",
       "lines": [[69701, 69427, 69974]],
       "common_name": {"english": "The Tassel", "native": "الغفر"}
     },
     {
-      "id": "CON al-sufi-arabic 28Lib01",
+      "id": "CON book-of-the-stars-arabic 28Lib01",
       "lines": [[72622, 74785]],
       "common_name": {"english": "Claws Of The Scorpion", "native": "الزبانى - يدا العقرب"}
     },
     {
-      "id": "CON al-sufi-arabic 28Lib02",
+      "id": "CON book-of-the-stars-arabic 28Lib02",
       "lines": [[77853, 76880, 76742]],
-      "common_name": {"english": "The Diadem (according to al-sufi-arabic)", "native": "الإكليل عند الصوفي"}
+      "common_name": {"english": "The Diadem (according to book-of-the-stars-arabic)", "native": "الإكليل عند الصوفي"}
     },
     {
-      "id": "CON al-sufi-arabic 29Sco01",
+      "id": "CON book-of-the-stars-arabic 29Sco01",
       "lines": [[78820, 78401, 78265]],
       "common_name": {"english": "The Diadem (as narrated by Arabs)", "native": "الإكليل عند العرب"}
     },
     {
-      "id": "CON al-sufi-arabic 29Sco02",
+      "id": "CON book-of-the-stars-arabic 29Sco02",
       "lines": [[80112, 81266]],
       "common_name": {"english": "Veins Of The Heart", "native": "النياط"}
     },
     {
-      "id": "CON al-sufi-arabic 29Sco03",
+      "id": "CON book-of-the-stars-arabic 29Sco03",
       "lines": [[82396, 82514, 82729, 84143, 86228, 87073, 86670]],
       "common_name": {"english": "Tail Segments Of The Scorpion", "native": "الفقرات"}
     },
     {
-      "id": "CON al-sufi-arabic 29Sco04",
+      "id": "CON book-of-the-stars-arabic 29Sco04",
       "lines": [[85927, 85696]],
       "common_name": {"english": "Raised Tail Of The Scorpion - The Stinger", "native": "الشولة - الإبرة"}
     },
     {
-      "id": "CON al-sufi-arabic 30Sgr01",
+      "id": "CON book-of-the-stars-arabic 30Sgr01",
       "lines": [[88635, 89642, 90185, 89931, 88635]],
       "common_name": {"english": "The Ostriches Drinking At The River", "native": "النعايم الواردة"}
     },
     {
-      "id": "CON al-sufi-arabic 30Sgr02",
+      "id": "CON book-of-the-stars-arabic 30Sgr02",
       "lines": [[92855, 93864, 93506, 92041, 92855]],
       "common_name": {"english": "The Ostriches Leaving The River", "native": "النعايم الصادرة"}
     },
     {
-      "id": "CON al-sufi-arabic 30Sgr03",
+      "id": "CON book-of-the-stars-arabic 30Sgr03",
       "lines": [[90496, 89341]],
       "common_name": {"english": "The Two Male Ostriches", "native": "الظليمان"}
     },
     {
-      "id": "CON al-sufi-arabic 30Sgr04",
+      "id": "CON book-of-the-stars-arabic 30Sgr04",
       "lines": [[89931, 89931], [90185, 90185], [93506, 93506], [92041, 92041]],
       "common_name": {"english": "The Link", "native": "الوصل"}
     },
     {
-      "id": "CON al-sufi-arabic 30Sgr05",
+      "id": "CON book-of-the-stars-arabic 30Sgr05",
       "lines": [[93085, 93683, 94141, 94820, 95168, 95176]],
       "common_name": {"english": "The Ostrich Nest - The Necklace", "native": "القلادة - الأدحي"}
     },
     {
-      "id": "CON al-sufi-arabic 30Sgr06",
+      "id": "CON book-of-the-stars-arabic 30Sgr06",
       "lines": [[96760, 96274, 95645, 95564, 95577, 96044, 96440, 97031, 97290, 97417, 97138, 96760]],
       "common_name": {"english": "The Empty Place", "native": "البلدة"}
     },
     {
-      "id": "CON al-sufi-arabic 30Sgr07",
+      "id": "CON book-of-the-stars-arabic 30Sgr07",
       "lines": [[98412, 98032]],
       "common_name": {"english": "The Two Shrikes", "native": "الصردان"}
     },
     {
-      "id": "CON al-sufi-arabic 31Cap01",
+      "id": "CON book-of-the-stars-arabic 31Cap01",
       "lines": [[100027, 100345]],
       "common_name": {"english": "The Lucky Star Of The Slaughterer", "native": "سعد الذابح"}
     },
     {
-      "id": "CON al-sufi-arabic 31Cap02",
+      "id": "CON book-of-the-stars-arabic 31Cap02",
       "lines": [[106985, 107556]],
       "common_name": {"english": "The Lucky Star Of Nashira", "native": "سعد ناشرة - المحبان"}
     },
     {
-      "id": "CON al-sufi-arabic 32Aqr01",
+      "id": "CON book-of-the-stars-arabic 32Aqr01",
       "lines": [[109074, 108874]],
       "common_name": {"english": "The Lucky Star Of The King", "native": "سعد الملك"}
     },
     {
-      "id": "CON al-sufi-arabic 32Aqr02",
+      "id": "CON book-of-the-stars-arabic 32Aqr02",
       "lines": [[106278, 106786, 107382]],
       "common_name": {"english": "The Luckiest Of The Lucky Stars", "native": "سعد السعود"}
     },
     {
-      "id": "CON al-sufi-arabic 32Aqr03",
+      "id": "CON book-of-the-stars-arabic 32Aqr03",
       "lines": [[102618, 103045, 103401]],
       "common_name": {"english": "The Lucky Star Of The Swallower", "native": "سعد بلع"}
     },
     {
-      "id": "CON al-sufi-arabic 32Aqr04",
+      "id": "CON book-of-the-stars-arabic 32Aqr04",
       "lines": [[110672, 110395, 111497], [110395, 110960]],
       "common_name": {"english": "The Lucky Star Of The Tents", "native": "سعد الأخبية"}
     },
     {
-      "id": "CON al-sufi-arabic 33Psc01",
+      "id": "CON book-of-the-stars-arabic 33Psc01",
       "lines": [[118268, 1645, 2548, 3786, 4906, 5737, 7007, 7884, 8833, 9487]],
       "common_name": {"english": "The ringed rope", "native": "الربق"}
     },
     {
-      "id": "CON al-sufi-arabic 34Cet01",
+      "id": "CON book-of-the-stars-arabic 34Cet01",
       "lines": [[16369, 16322, 16083, 15900, 14135, 13954, 12828], [14135, 12706, 11484], [14135, 12387]],
       "common_name": {"english": "The Leprous Hand", "native": "الكف الجذماء"}
     },
     {
-      "id": "CON al-sufi-arabic 34Cet02",
+      "id": "CON book-of-the-stars-arabic 34Cet02",
       "lines": [[9347, 8102, 8645, 6537, 5364]],
       "common_name": {"english": "The Ostriches", "native": "النعامات"}
     },
     {
-      "id": "CON al-sufi-arabic 35Ori01",
+      "id": "CON book-of-the-stars-arabic 35Ori01",
       "lines": [[26207, 26176, 26366, 26207]],
       "common_name": {"english": "The Circular Mark", "native": "الهقعة"}
     },
     {
-      "id": "CON al-sufi-arabic 35Ori02",
+      "id": "CON book-of-the-stars-arabic 35Ori02",
       "lines": [[25930, 26311, 26727]],
       "common_name": {"english": "The Backbone Of Al-Jawza - The Belt Of Al-Jawza - The String", "native": "نطاق الجوزاء - نظم الجوزاء - فقار الجوزاء"}
     },
     {
-      "id": "CON al-sufi-arabic 35Ori03",
+      "id": "CON book-of-the-stars-arabic 35Ori03",
       "lines": [[26237, 26235, 26241]],
       "common_name": {"english": "Sword Of Orion - The Facial Line Tattoo", "native": "اللعط - سيف الجبار"}
     },
     {
-      "id": "CON al-sufi-arabic 35Ori04",
+      "id": "CON book-of-the-stars-arabic 35Ori04",
       "lines": [[24010, 23607, 22957, 22845, 22509, 22449, 22549, 22797, 23123]],
       "common_name": {"english": "Hair Braids Of Al-Jawza - Crown Of Al-Jawza", "native": "تاج الجوزاء - ذوائب الجوزاء"}
     },
     {
-      "id": "CON al-sufi-arabic 36Eri01",
+      "id": "CON book-of-the-stars-arabic 36Eri01",
       "lines": [[23972, 23364, 23875, 24674, 23972]],
       "common_name": {"english": "The Front Footstool Of Al-Jawza", "native": "كرسي الجوزاء المقدم"}
     },
     {
-      "id": "CON al-sufi-arabic 36Eri02",
+      "id": "CON book-of-the-stars-arabic 36Eri02",
       "lines": [[15197, 14293, 13701, 12444, 12390, 12770, 12843, 13288, 14146, 15474, 16611]],
       "common_name": {"english": "The Ostriches Nest", "native": "أدحي النعام"}
     },
     {
-      "id": "CON al-sufi-arabic 36Eri03",
+      "id": "CON book-of-the-stars-arabic 36Eri03",
       "lines": [[18543, 17593, 17378, 16537]],
       "common_name": {"english": "Eggs And Egg Shells", "native": "البيض والقيض"}
     },
     {
-      "id": "CON al-sufi-arabic 36Eri04",
+      "id": "CON book-of-the-stars-arabic 36Eri04",
       "lines": [[17651, 17717, 18216, 18673]],
       "common_name": {"english": "Eggs And Egg Shells", "native": "البيض والقيض"}
     },
     {
-      "id": "CON al-sufi-arabic 36Eri05",
+      "id": "CON book-of-the-stars-arabic 36Eri05",
       "lines": [[13147, 14284, 113189, 116482, 13147]],
       "common_name": {"english": "The Young Ostriches", "native": "الرئال"}
     },
     {
-      "id": "CON al-sufi-arabic 37Lep01",
+      "id": "CON book-of-the-stars-arabic 37Lep01",
       "lines": [[25985, 25606, 27072, 27654, 25985]],
       "common_name": {"english": "The Camels That Quenched Their Thirst - The Rear Footstool Of Al-Jawza", "native": "كرسي الجوزاء المؤخر - النهال"}
     },
     {
-      "id": "CON al-sufi-arabic 38CMa01",
+      "id": "CON book-of-the-stars-arabic 38CMa01",
       "lines": [[33977, 34444, 33579, 35904]],
       "common_name": {"english": "The virgins", "native": "العذارى"}
     },
     {
-      "id": "CON al-sufi-arabic 38CMa02",
+      "id": "CON book-of-the-stars-arabic 38CMa02",
       "lines": [[25859, 29034, 29807, 30277, 30788, 30122, 27204, 27810, 28199,]],
       "common_name": {"english": "The Ravens - The Monkeys", "native": "القرود - الأغربة"}
     },
     {
-      "id": "CON al-sufi-arabic 39CMi01",
+      "id": "CON book-of-the-stars-arabic 39CMi01",
       "lines": [[36188, 37279]],
       "common_name": {"english": "Retracted Arm Of The Lion", "native": "ذراع الأسد المقبوضة"}
     },
     {
-      "id": "CON al-sufi-arabic 41Hya01",
+      "id": "CON book-of-the-stars-arabic 41Hya01",
       "lines": [[47452, 48356, 49402, 51069, 52085, 52943, 54682, 54204, 56343, 56922, 57936]],
       "common_name": {"english": "The Tied Camels", "native": "الشراسيف"}
     },
     {
-      "id": "CON al-sufi-arabic 41Hya02",
+      "id": "CON book-of-the-stars-arabic 41Hya02",
       "lines": [[42799, 42402, 42313, 43109, 43813, 44659, 45336, 46776, 47431, 46509, 46404], [47431, 49641, 51437, 53273, 53907, 55084, 56127, 56647]],
       "common_name": {"english": "The Horses And The Foals", "native": "الخيل وأفلاء الخيل"}
     },
     {
-      "id": "CON al-sufi-arabic 42Crt01",
+      "id": "CON book-of-the-stars-arabic 42Crt01",
       "lines": [[56633, 55687, 55282, 55705, 57283, 58188]],
       "common_name": {"english": "The Trough", "native": "المعلف"}
     },
     {
-      "id": "CON al-sufi-arabic 43Crv01",
+      "id": "CON book-of-the-stars-arabic 43Crv01",
       "lines": [[59316, 61359, 60965, 59803, 59316]],
       "common_name": {"english": "The Southern Tent - The Throne Of The Armless High One - The Camels - The Lion Buttock", "native": "عجز الأسد - عرش السماك الأعزل - الأجمال - الخباء"}
     },
     {
-      "id": "CON al-sufi-arabic 44Cen01",
+      "id": "CON book-of-the-stars-arabic 44Cen01",
       "lines": [[67786, 67153, 65109, 59196, 59449, 59747, 60718, 71908, 74395, 74911, 75264, 76297, 78384, 78918, 78105, 77634, 74604, 72010, 67786]],
       "common_name": {"english": "The Date Clusters", "native": "الشماريخ"}
     },
     {
-      "id": "CON al-sufi-arabic 44Cen02",
+      "id": "CON book-of-the-stars-arabic 44Cen02",
       "lines": [[71683, 68702]],
       "common_name": {"english": "The Oath Stars", "native": "المحلفان - المحنثان"}
     },
     {
-      "id": "CON al-sufi-arabic 47CrA01",
+      "id": "CON book-of-the-stars-arabic 47CrA01",
       "lines": [[90422, 92308, 92953, 93542, 94005, 94160, 94114, 93825, 93174, 91875, 90887, 90422]],
       "common_name": {"english": "The Domed Tent - The Ostriches Nest", "native": "القبة - أدحي النعام"}
     },
 	{
-      "id": "CON al-sufi-arabic UMi",
+      "id": "CON book-of-the-stars-arabic UMi",
       "lines": [[11767, 11767], [79822, 79822], [75097, 75097], [74605, 74605]],
       "image": {
         "file": "illustrations/UMi.webp",
@@ -578,7 +578,7 @@
       "common_name": {"english": "Ursa Minor", "native": "الدب الأصغر"}
     },
     {
-      "id": "CON al-sufi-arabic UMa",
+      "id": "CON book-of-the-stars-arabic UMa",
       "lines": [[44390, 44390], [56997, 56997]],
       "image": {
         "file": "illustrations/UMa.webp",
@@ -592,7 +592,7 @@
       "common_name": {"english": "Ursa Major", "native": "الدب الأكبر"}
     },
     {
-      "id": "CON al-sufi-arabic Dra",
+      "id": "CON book-of-the-stars-arabic Dra",
       "lines": [[75458,75458], [90344,90344], [92997, 92997]],
       "image": {
         "file": "illustrations/Dra.webp",
@@ -606,7 +606,7 @@
       "common_name": {"english": "Draco", "native": "التنين"}
     },
     {
-      "id": "CON al-sufi-arabic Cep",
+      "id": "CON book-of-the-stars-arabic Cep",
       "lines": [[109857, 109857], [99255, 99255]],
       "image": {
         "file": "illustrations/Cep.webp",
@@ -620,7 +620,7 @@
       "common_name": {"english": "Cepheus", "native": "قيقاوس"}
     },
     {
-      "id": "CON al-sufi-arabic Boo",
+      "id": "CON book-of-the-stars-arabic Boo",
       "lines": [[73555, 73555], [69673, 69673]],
       "image": {
         "file": "illustrations/Boo.webp",
@@ -634,7 +634,7 @@
       "common_name": {"english": "Bootes", "native": "العواء"}
     },
     {
-      "id": "CON al-sufi-arabic CrB",
+      "id": "CON book-of-the-stars-arabic CrB",
       "lines": [[77048, 77048], [76267, 76267]],
       "image": {
         "file": "illustrations/CrB.webp",
@@ -648,7 +648,7 @@
       "common_name": {"english": "Corona Borealis", "native": "الإكليل الشمالي"}
     },
     {
-      "id": "CON al-sufi-arabic Her",
+      "id": "CON book-of-the-stars-arabic Her",
       "lines": [[84345, 84345], [81497, 81497]],
       "image": {
         "file": "illustrations/Her.webp",
@@ -662,7 +662,7 @@
       "common_name": {"english": "Hercules", "native": "الجاثي"}
     },
     {
-      "id": "CON al-sufi-arabic Lyr",
+      "id": "CON book-of-the-stars-arabic Lyr",
       "lines": [[91250, 91250], [93843,93843]],
       "image": {
         "file": "illustrations/Lyr.webp",
@@ -676,7 +676,7 @@
       "common_name": {"english": "Lyra", "native": "اللورا"}
     },
     {
-      "id": "CON al-sufi-arabic Cyg",
+      "id": "CON book-of-the-stars-arabic Cyg",
       "lines": [[95947, 95947], [102098, 102098]],
       "image": {
         "file": "illustrations/Cyg.webp",
@@ -690,7 +690,7 @@
       "common_name": {"english": "Cygnus", "native": "الطائر"}
     },
     {
-      "id": "CON al-sufi-arabic Cas",
+      "id": "CON book-of-the-stars-arabic Cas",
       "lines": [[2920, 2920], [8886, 8886]],
       "image": {
         "file": "illustrations/Cas.webp",
@@ -704,7 +704,7 @@
       "common_name": {"english": "Cassiopeia", "native": "ذات الكرسي"}
     },
     {
-      "id": "CON al-sufi-arabic Per",
+      "id": "CON book-of-the-stars-arabic Per",
       "lines": [[13268, 13268], [18769, 18769]],
       "image": {
         "file": "illustrations/Per.webp",
@@ -718,7 +718,7 @@
       "common_name": {"english": "Perseus", "native": "برشاوش"}
     },
     {
-      "id": "CON al-sufi-arabic Aur",
+      "id": "CON book-of-the-stars-arabic Aur",
       "lines": [[27949, 27949], [24504, 24504]],
       "image": {
         "file": "illustrations/Aur.webp",
@@ -732,7 +732,7 @@
       "common_name": {"english": "Auriga", "native": "ممسك الأعنة"}
     },
     {
-      "id": "CON al-sufi-arabic Oph",
+      "id": "CON book-of-the-stars-arabic Oph",
       "lines": [[86032, 86032], [80569, 80569]],
       "image": {
         "file": "illustrations/Oph.webp",
@@ -746,7 +746,7 @@
       "common_name": {"english": "Ophiuchus", "native": "الحواء"}
     },
     {
-      "id": "CON al-sufi-arabic Ser",
+      "id": "CON book-of-the-stars-arabic Ser",
       "lines": [[77661, 77661], [77516, 77516]],
       "image": {
         "file": "illustrations/Oph.webp",
@@ -760,7 +760,7 @@
       "common_name": {"english": "Serpens", "native": "الحية"}
     },
     {
-      "id": "CON al-sufi-arabic Sge",
+      "id": "CON book-of-the-stars-arabic Sge",
       "lines": [[98337, 98337], [96757, 96757]],
       "image": {
         "file": "illustrations/Sag.webp",
@@ -774,7 +774,7 @@
       "common_name": {"english": "Sagitta", "native": "السهم"}
     },
     {
-      "id": "CON al-sufi-arabic Aql",
+      "id": "CON book-of-the-stars-arabic Aql",
       "lines": [[93747, 93747], [98823, 98823]],
       "image": {
         "file": "illustrations/Aql.webp",
@@ -788,7 +788,7 @@
       "common_name": {"english": "Aquila", "native": "العقاب"}
     },
     {
-      "id": "CON al-sufi-arabic Del",
+      "id": "CON book-of-the-stars-arabic Del",
       "lines": [[102158, 102158], [101607, 101607]],
       "image": {
         "file": "illustrations/Dol.webp",
@@ -802,7 +802,7 @@
       "common_name": {"english": "Delphinus", "native": "الدلفين"}
     },
     {
-      "id": "CON al-sufi-arabic Equ",
+      "id": "CON book-of-the-stars-arabic Equ",
       "lines": [[104521, 104521], [104987, 104987]],
       "image": {
         "file": "illustrations/Equ.webp",
@@ -816,7 +816,7 @@
       "common_name": {"english": "Equuleus", "native": "قطعة الفرس"}
     },
     {
-      "id": "CON al-sufi-arabic Peg",
+      "id": "CON book-of-the-stars-arabic Peg",
       "lines": [[110882, 110882], [118131, 118131]],
       "image": {
         "file": "illustrations/Peg.webp",
@@ -830,7 +830,7 @@
       "common_name": {"english": "Pegasus", "native": "الفرس"}
     },
     {
-      "id": "CON al-sufi-arabic And",
+      "id": "CON book-of-the-stars-arabic And",
       "lines": [[2355, 2355], [7607, 7607]],
       "image": {
         "file": "illustrations/And.webp",
@@ -844,7 +844,7 @@
       "common_name": {"english": "Andromeda", "native": "المسلسلة"}
     },
     {
-      "id": "CON al-sufi-arabic Tri",
+      "id": "CON book-of-the-stars-arabic Tri",
       "lines": [[8796, 8796], [10670, 10670]],
       "image": {
         "file": "illustrations/Tri.webp",
@@ -858,7 +858,7 @@
       "common_name": {"english": "Triangulum", "native": "المثلث"}
     },
     {
-      "id": "CON al-sufi-arabic Ari",
+      "id": "CON book-of-the-stars-arabic Ari",
       "lines": [[8387, 8387], [13165, 13165]],
       "image": {
         "file": "illustrations/Ari.webp",
@@ -872,7 +872,7 @@
       "common_name": {"english": "Aries", "native": "الحمل"}
     },
     {
-      "id": "CON al-sufi-arabic Tau",
+      "id": "CON book-of-the-stars-arabic Tau",
       "lines": [[16083, 16083], [20704, 20704]],
       "image": {
         "file": "illustrations/Tau.webp",
@@ -886,7 +886,7 @@
       "common_name": {"english": "Taurus", "native": "الثور"}
     },
     {
-      "id": "CON al-sufi-arabic Gem",
+      "id": "CON book-of-the-stars-arabic Gem",
       "lines": [[36962, 36962], [32104, 32104]],
       "image": {
         "file": "illustrations/Gem.webp",
@@ -900,7 +900,7 @@
       "common_name": {"english": "Gemini", "native": "التوأمان"}
     },
     {
-      "id": "CON al-sufi-arabic Can",
+      "id": "CON book-of-the-stars-arabic Can",
       "lines": [[40167, 40167], [42806, 42806]],
       "image": {
         "file": "illustrations/Cnc.webp",
@@ -914,7 +914,7 @@
       "common_name": {"english": "Cancer", "native": "السرطان"}
     },
     {
-      "id": "CON al-sufi-arabic Leo",
+      "id": "CON book-of-the-stars-arabic Leo",
       "lines": [[47508, 47508], [57632, 57632]],
       "image": {
         "file": "illustrations/Leo.webp",
@@ -928,7 +928,7 @@
       "common_name": {"english": "Leo", "native": "الأسد"}
     },
     {
-      "id": "CON al-sufi-arabic Vir",
+      "id": "CON book-of-the-stars-arabic Vir",
       "lines": [[58948, 58948], [71957, 71957]],
       "image": {
         "file": "illustrations/Vir.webp",
@@ -942,7 +942,7 @@
       "common_name": {"english": "Virgo", "native": "العذراء"}
     },
     {
-      "id": "CON al-sufi-arabic Lib",
+      "id": "CON book-of-the-stars-arabic Lib",
       "lines": [[73133, 73133], [76628, 76628]],
       "image": {
         "file": "illustrations/Lib.webp",
@@ -956,7 +956,7 @@
       "common_name": {"english": "Libra", "native": "الميزان"}
     },
     {
-      "id": "CON al-sufi-arabic Sco",
+      "id": "CON book-of-the-stars-arabic Sco",
       "lines": [[77840, 77840], [86228, 86228]],
       "image": {
         "file": "illustrations/Sco.webp",
@@ -970,7 +970,7 @@
       "common_name": {"english": "Scorpius", "native": "العقرب"}
     },
     {
-      "id": "CON al-sufi-arabic Sgr",
+      "id": "CON book-of-the-stars-arabic Sgr",
       "lines": [[92814, 92814], [98579, 98579]],
       "image": {
         "file": "illustrations/Sgr.webp",
@@ -984,7 +984,7 @@
       "common_name": {"english": "Sagittarius", "native": "الرامي"}
     },
     {
-      "id": "CON al-sufi-arabic Cap",
+      "id": "CON book-of-the-stars-arabic Cap",
       "lines": [[100195, 100195], [107188, 107188]],
       "image": {
         "file": "illustrations/Cap.webp",
@@ -998,7 +998,7 @@
       "common_name": {"english": "Capricornus", "native": "الجدي"}
     },
     {
-      "id": "CON al-sufi-arabic Aqr",
+      "id": "CON book-of-the-stars-arabic Aqr",
       "lines": [[106944, 106944], [111449, 111449]],
       "image": {
         "file": "illustrations/Aqr.webp",
@@ -1012,7 +1012,7 @@
       "common_name": {"english": "Aquarius", "native": "ساكب الماء"}
     },
     {
-      "id": "CON al-sufi-arabic Psc",
+      "id": "CON book-of-the-stars-arabic Psc",
       "lines": [[114971, 114971], [7097, 7097]],
       "image": {
         "file": "illustrations/Psc.webp",
@@ -1026,7 +1026,7 @@
       "common_name": {"english": "Pisces", "native": "السمكتان"}
     },
     {
-      "id": "CON al-sufi-arabic Cet",
+      "id": "CON book-of-the-stars-arabic Cet",
       "lines": [[3419, 3419], [12828, 12828]],
       "image": {
         "file": "illustrations/Cet.webp",
@@ -1040,7 +1040,7 @@
       "common_name": {"english": "Cetus", "native": "قيطس"}
     },
     {
-      "id": "CON al-sufi-arabic Ori",
+      "id": "CON book-of-the-stars-arabic Ori",
       "lines": [[28103, 28103], [26777, 26777]],
       "image": {
         "file": "illustrations/Ori.webp",
@@ -1054,7 +1054,7 @@
       "common_name": {"english": "Orion", "native": "الجبار"}
     },
     {
-      "id": "CON al-sufi-arabic Eri",
+      "id": "CON book-of-the-stars-arabic Eri",
       "lines": [[13847, 13847], [22701, 22701]],
       "image": {
         "file": "illustrations/Eri.webp",
@@ -1068,7 +1068,7 @@
       "common_name": {"english": "Eridanus", "native": "النهر"}
     },
     {
-      "id": "CON al-sufi-arabic Lep",
+      "id": "CON book-of-the-stars-arabic Lep",
       "lines": [[24305, 24305], [29735, 29735]],
       "image": {
         "file": "illustrations/Lep.webp",
@@ -1082,7 +1082,7 @@
       "common_name": {"english": "Lepus", "native": "الأرنب"}
     },
     {
-      "id": "CON al-sufi-arabic CMa",
+      "id": "CON book-of-the-stars-arabic CMa",
       "lines": [[32759, 32759], [33160, 33160]],
       "image": {
         "file": "illustrations/CMa.webp",
@@ -1096,7 +1096,7 @@
       "common_name": {"english": "Canis Major", "native": "الكلب الأكبر"}
     },
     {
-      "id": "CON al-sufi-arabic CMi",
+      "id": "CON book-of-the-stars-arabic CMi",
       "lines": [[37279, 37279], [36188, 36188]],
       "image": {
         "file": "illustrations/CMi.webp",
@@ -1110,7 +1110,7 @@
       "common_name": {"english": "Canis Minor", "native": "الكلب الأصغر"}
     },
     {
-      "id": "CON al-sufi-arabic Arg",
+      "id": "CON book-of-the-stars-arabic Arg",
       "lines": [[36917, 36917], [46701, 46701]],
       "image": {
         "file": "illustrations/Arg.webp",
@@ -1124,7 +1124,7 @@
       "common_name": {"english": "Argo Navis", "native": "السفينة"}
     },
     {
-      "id": "CON al-sufi-arabic Hya",
+      "id": "CON book-of-the-stars-arabic Hya",
       "lines": [[42313, 42313], [53740, 53740]],
       "image": {
         "file": "illustrations/Hyd.webp",
@@ -1138,7 +1138,7 @@
       "common_name": {"english": "Hydra", "native": "الشجاع"}
     },
     {
-      "id": "CON al-sufi-arabic Crt",
+      "id": "CON book-of-the-stars-arabic Crt",
       "lines": [[53740, 53740], [56364, 56364]],
       "image": {
         "file": "illustrations/Crt.webp",
@@ -1152,7 +1152,7 @@
       "common_name": {"english": "Crater", "native": "الباطية"}
     },
     {
-      "id": "CON al-sufi-arabic Crv",
+      "id": "CON book-of-the-stars-arabic Crv",
       "lines": [[59316, 59316], [61318, 61318]],
       "image": {
         "file": "illustrations/Crv.webp",
@@ -1166,7 +1166,7 @@
       "common_name": {"english": "Corvus", "native": "الغراب"}
     },
     {
-      "id": "CON al-sufi-arabic Cen",
+      "id": "CON book-of-the-stars-arabic Cen",
       "lines": [[68933, 68933], [62434, 62434]],
       "image": {
         "file": "illustrations/Cen.webp",
@@ -1180,7 +1180,7 @@
       "common_name": {"english": "Centaurus", "native": "قنطورس"}
     },
     {
-      "id": "CON al-sufi-arabic Lup",
+      "id": "CON book-of-the-stars-arabic Lup",
       "lines": [[77634, 77634], [72290, 72290]],
       "image": {
         "file": "illustrations/Cen.webp",
@@ -1194,7 +1194,7 @@
       "common_name": {"english": "Lupus", "native": "السبع"}
     },
     {
-      "id": "CON al-sufi-arabic Ara",
+      "id": "CON book-of-the-stars-arabic Ara",
       "lines": [[85792, 85792], [82363, 82363]],
       "image": {
         "file": "illustrations/Ara.webp",
@@ -1208,7 +1208,7 @@
       "common_name": {"english": "Ara", "native": "المجمرة"}
     },
     {
-      "id": "CON al-sufi-arabic CrA",
+      "id": "CON book-of-the-stars-arabic CrA",
       "lines": [[90422, 90422], [93542, 93542]],
       "image": {
         "file": "illustrations/CrA.webp",
@@ -1222,7 +1222,7 @@
       "common_name": {"english": "Corona Australis", "native": "الإكليل الجنوبي"}
     },
     {
-      "id": "CON al-sufi-arabic PsA",
+      "id": "CON book-of-the-stars-arabic PsA",
       "lines": [[105854, 105854], [113368, 113368]],
       "image": {
         "file": "illustrations/PsA.webp",
@@ -1236,7 +1236,7 @@
       "common_name": {"english": "Piscis Austrinus", "native": "الحوت الجنوبي"}
     },
     {
-      "id": "CON al-sufi-arabic SHr",
+      "id": "CON book-of-the-stars-arabic SHr",
       "lines": [[113726, 113726], [107348, 107348]],
       "image": {
         "file": "illustrations/Sufi_Horse.webp",
@@ -1250,7 +1250,7 @@
       "common_name": {"english": "The Horse", "native": "فرس الصوفي"}
     },
     {
-      "id": "CON al-sufi-arabic SFA",
+      "id": "CON book-of-the-stars-arabic SFA",
       "lines": [[3881, 3881], [3693, 3693]],
       "image": {
         "file": "illustrations/Sufi_FishA.webp",
@@ -1264,7 +1264,7 @@
       "common_name": {"english": "The great fish", "native": "الحوت العظيم"}
     },
     {
-      "id": "CON al-sufi-arabic SFB",
+      "id": "CON book-of-the-stars-arabic SFB",
       "lines": [[7513, 7513], [10115, 10115]],
       "image": {
         "file": "illustrations/Sufi_FishB.webp",
