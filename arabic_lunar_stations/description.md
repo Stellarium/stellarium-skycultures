@@ -6,39 +6,28 @@ The Arabic lunar stations describes the 28 sky areas chosen in ancient Arabia to
 ## Description
 
 #### Historical Overview
-Originally, _Manazil al-Qamar_, the Arabic for the lunar mansions, or stations of the moon, were a system of 28 stars, group of stars, or spots in the sky near which the moon can be found in each of the 28 nights of its monthly revolution. Early mentions of the complete list of the lunar stations are reported by Abd al-Malik Ibn Habeeb (d. 852) on the authority of Malik ibn Anas (d. 795) [^1]. However, this system had been adopted already in the pre-Islamic period, prior to the 7th century of the common era.
+Originally, _Manazil al-Qamar_, the Arabic for the lunar mansions, or stations of the moon, were a system of 28 stars, group of stars, or spots in the sky near which the moon can be found in each of the 28 nights of its monthly revolution. Early mentions of the complete list of the lunar stations are reported by ʿAbd al-Malik ibn Ḥabīb (d. 852) on the authority of Malik ibn Anas (d. 795) [^1]. However, this system had been adopted already in the pre-Islamic period, prior to the 7th century of the common era.
 
-Using heliacal observations, the asterisms of the lunar mansions served to divide the sidereal and solar year of 365 days into 28 periods of 13 days each except for one period that is given 14 days. These 28 periods are called _anwāʾ_, plural of _nawʾ_. Each _nawʾ_ is determined by a characteristical star: when this star rises in the morning during dawn (in the east, so, shortly before the Sun), this is the beginning of the next _nawʾ_. The name of the _nawʾ_ (period of time, half month), gives the lunar mansion its name. One complete cycle of setting and rising for each of the 28 lunar mansions, one after the other, makes a solar year. This system was used to determine the seasons and predict weather, especially rain [^2]. The Arabs said: each _Nawʾ_ (period of 13/14 days) is characterized by a distinctive weather pattern of rain, wind, and temperature [^4].
+Using heliacal observations, the asterisms of the lunar mansions served to divide the sidereal and solar year of 365 days into 28 periods of 13 days each except for one period that is given 14 days. These 28 periods are called _anwāʾ_, plural of _nawʾ_. Each _nawʾ_ is determined by a characteristical star: when this star rises in the morning during dawn (in the east, so, shortly before the Sun), this is the beginning of the next _nawʾ_. The name of the _nawʾ_ (period of time, half month), gives the lunar mansion its name. One complete cycle of setting and rising for each of the 28 lunar mansions, one after the other, makes a solar year. This system was used to determine the seasons and predict weather, especially rain [^2]. The Arabs said: each _nawʾ_ (period of 13/14 days) is characterized by a distinctive weather pattern of rain, wind, and temperature [^4].
 
-A detailed description of the stars of each lunar mansion, the times of their heliacal rising and a compilation of astronomical and meteorological knowledge of the ancient Arabs can be found in the _Book of al-Anwaʾ_, authored by Ibn Qutaybah (b. 828 - d. 884 or 889). Copies of this book manuscripts survived, and it was printed in India in 1956 [^5].
+A detailed description of the stars of each lunar mansion, the times of their heliacal rising and a compilation of astronomical and meteorological knowledge of the ancient Arabs can be found in the _Book of al-anwaʾ_, authored by Ibn Qutaybah (b. 828 - d. 884 or 889). Copies of this book manuscripts survived, and it was printed in India in 1956 [^5].
 
 The usage of the lunar mansions continued to schedule the times of agricultural, travel and medicine practices.
-Due to the importance of observing the times of their heliacal risings, short treatises have been written, and poems have been composed describing the asterisms of the 28 mansions. A poem dedicated to description of the stars of the lunar mansions was published by Gustave-Adolphe de Calassanti-Motylinski in 1899 in his book "Les mansions lunaires chez les Arabes", attributed to Muhammad al-Mukri (1578-1638) [^6][^7]. A sample treatise is the one written by Shaykh Ṣaliḥ Al-Shethrī (d. ~1891), titled "A time-table for farmers" [^8].
+Due to the importance of observing the times of their heliacal risings, short treatises have been written, and poems have been composed describing the asterisms of the 28 mansions. A poem dedicated to description of the stars of the lunar mansions was published by Gustave-Adolphe de Calassanti-Motylinski in 1899 in his book "Les mansions lunaires chez les Arabes", attributed to Muḥammad al-Muqrī (1578-1638) [^6][^7]. A sample treatise is the one written by Shaykh Ṣāliḥ al-Shuthrī (d. ~1891), titled "A time-table for farmers" [^8].
 
 #### Current Usage of Lunar Stations
-Agricultural almanacs based on the heliacal rising of lunar stations are still in active use today. The official calendar of Saudi Arabia includes these times [^9]. The following is an example of the use of a calendar based on the lunar stations for the 13 days period starting with the rise of the 3rd lunar station _Al-Thurayya_ (Pleiades) on June 7th:
+Agricultural almanacs based on the heliacal rising of lunar stations are still in active use today. The official calendar of Saudi Arabia includes these times [^9]. The following is an example of the use of a calendar based on the lunar stations for the 13 days period starting with the rise of the 3rd lunar station _al-Thurayya_ (Pleiades) on June 7th:
 
 >Weather gets hotter and wind gets stronger. Wild grasses dry. Water in wells gets shallower. Rain is rare during this time. Spring insects start to disappear. Palm tree dates starts to get its colors. It is recommended to irrigate trees with the right amounts and stop irrigation of vines when grapes start to get its color. [^10]
 
 #### Identification of the Lunar Stations
-Ibn Qutaybah (b. 828 - d. 884 or 889) in his _Book of al-Anwaʾ_ gives detailed description of the stars of each lunar station while an accurate identification can be extracted from the _Book of the Stars_ by al-Ṣūfī (d. 986). In his book, al-Ṣūfī maps the stars as known to ancient Arabs to those of the Ptolemaic Constellations.
-An example of al-Ṣūfī definitions of the stars of the lunar mansions, here is the definition of _al-Ghafr_: "And the 22nd \[star of Virgo\] and the 23rd which is on the tail \[hem of the garment\] with the 25th on the left foot \[of Virgo\] are named \[by the Arabs\] _al-Ghafr_ which is the 15th lunar mansion."[^11][^12]. Because the stars of the Ptolemaic constellations have known coordinates, it is relatively easy to identify the Arab star names.
+Ibn Qutaybah (b. 828 - d. 884 or 889) in his _Book of al-anwaʾ_ gives detailed description of the stars of each lunar station, while an accurate identification can be extracted from the _Book of the stars_ by al-Ṣūfī (d. 986). In his book, al-Ṣūfī maps the stars as known to ancient Arabs to those of the Ptolemaic Constellations.
 
-#### Sources Star Names and Asterisms
-The source of this sky culture is a compilation of star knowledge of ancient Arabs from the following books:
-- [#1]: Ibn Qutayba, Al-Dinawarī, Abū Muḥammad ‘Abdullah b. Muslim (died ~ 889), Kitab al-Anwaʾ (Book of meteorolgy), (Arabic print of the original book, Daʾirat al-Maʿarif al-Osmania, Hydarabad, India, 1956)
+An example of al-Ṣūfī definitions of the stars of the lunar mansions, here is the definition of _al-Ghafr_:
 
-أبو محمد عبد الله بن مسلم ابن قتيبة الدينوري (توفي 276 هـ)، كتاب الأنواء في مواسم العرب، داءرة المعارف العثمانية، حيدر أباد، الهند، 1375 هـ
+>And the 22nd \[star of Virgo\] and the 23rd which is on the tail \[hem of the garment\] with the 25th on the left foot \[of Virgo\] are named \[by the Arabs\] _al-Ghafr_ which is the 15th lunar mansion.[^11][^12].
 
-- [#2]: Al-Marzūqī, Abū Ali Aḥmad b. Muḥammad b. al-Ḥassan (died 1030), Al-Azminah wa al-amkinah (Times and Places), (Arabic print of the original book in 2002, World of Books, Beirut, Lebanon).
-
-الإمام أبو علي أحمد بن محمد بن الحسن المرزوقي (توفي سنة 421 هـ)، الأزمنة والأمكنة، تحقيق د. محمد نايف الدليمي، عالم الكتب، بيروت، لبنان، 1422 هـ.
-
-- [#3]: Al-Thaqafī, Abd Allah b. Ḥussayn b. Aṣim (died ~ 1012), Al-Anwāʾ wa al-azminah (Meteorology and times), (Arabic print of the original book in 1996, Dar al-jeel, Beirut, Lebanon).
-
-عبد الله بن حسين بن عاصم الثقفي (توفي 403 هـ)، الأنواء والأزمنة، تحقيق: د. نوري حمودي القيسي، د. محمد نايف الدليمي، دار الجيل، بيروت، لبنان، 1416 ه.
-
-- [#4]: [Book Of The Stars: Critical edition with commentary by Khalid al-Ajaji, digital edition, 2021](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)
+Because the stars of the Ptolemaic constellations have known coordinates, it is relatively easy to identify the Arab star names.
 
 #### The 28 lunar stations
 1.   _Al-Sharatan_ or _Al-Ashrat_ (The two signs or the signs) composed of the 3 stars: α Ari (Hamal), β Ari (Sheratan) and γ<sup>2</sup> Ari (Mesarthim)
@@ -123,13 +112,27 @@ Three stars in a line forming the belt of [Al-Jawza](https://github.com/kajaji/s
 ##### Al-Jawza
 A constellation representing a woman figure.
 
+#### References
+The source of this sky culture is a compilation of star knowledge of ancient Arabs from the following books:
+- [#1]: Ibn Qutaybah, Al-Dinawarī, Abū Muḥammad ʿAbd Allah b. Muslim (died ~ 889), Kitāb al-anwāʾ (Book of meteorolgy), (Arabic print of the original book, Daʾirat al-Maʿārif al-Osmānia, Hydarabad, India, 1956)
+
+أبو محمد عبد الله بن مسلم ابن قتيبة الدينوري (توفي 276 هـ)، كتاب الأنواء في مواسم العرب، داءرة المعارف العثمانية، حيدر أباد، الهند، 1375 هـ
+
+- [#2]: Al-Marzūqī, Abū ʿAli Aḥmad b. Muḥammad b. al-Ḥassan (died 1030), Al-Azminah wa al-amkinah (Times and Places), (Arabic print of the original book in 2002, World of Books, Beirut, Lebanon).
+
+الإمام أبو علي أحمد بن محمد بن الحسن المرزوقي (توفي سنة 421 هـ)، الأزمنة والأمكنة، تحقيق د. محمد نايف الدليمي، عالم الكتب، بيروت، لبنان، 1422 هـ.
+
+- [#3]: Al-Thaqafī, ʿAbd Allah b. Ḥussayn b. ʿĀṣim (died ~ 1012), Al-Anwāʾ wa al-azminah (Meteorology and times), (Arabic print of the original book in 1996, Dar al-jeel, Beirut, Lebanon).
+
+عبد الله بن حسين بن عاصم الثقفي (توفي 403 هـ)، الأنواء والأزمنة، تحقيق: د. نوري حمودي القيسي، د. محمد نايف الدليمي، دار الجيل، بيروت، لبنان، 1416 هـ.
+
+- [#4]: [Book Of The Stars: Critical edition with commentary by Khalid al-Ajaji, digital edition, 2021](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)
+
 ## Author
 Khalid al-Ajaji: turath.alfalak@gmail.com
 
 ## License
-Illustrations: Public domain, Source: [Bibliothèque nationale de France. Département des Manuscrits. Arabe 5036](https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).
-
-Text and data: Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
+Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
 
 Special pemission is granted to Stellarium labs to include the licensed material 
 
