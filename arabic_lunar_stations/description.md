@@ -76,7 +76,7 @@ Two of the lunar stations, _Al-Hakaah_ and _Al-Hanaah_, are part of Al-Jawza sta
 Mr. Roland Laffitte discussed these two figures and offered a depiction of each in his article: [Our Arab Heritage in the CelestialVault](http://www.muslimheritage.com/article/our-arab-heritage-celestial-vault). A more detailed discussion of ancient Arab star lore is found in his book: "Le Ciel des Arabes" [^13].
 
 ## Constellations
-In addition to the lunar stations, the following indigenous Arab asterisms have been added.
+In addition to the lunar stations, prominent constellations are presented in this sky culture.
 
 ##### The two oryx calves
 A simple asterism of the two stars: β UMi and γ UMi.
@@ -95,15 +95,6 @@ An irregular square of four stars, representing four mother camels protecting th
 
 ##### The bowl of the poor
 The stars of Corona Borealis. The incomplete circle represents a fractured bowl of the poor.
-
-##### The camel head
-The head of [the she-camel](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-she-camel).
-
-##### The camel neck
-The neck of [the she-camel](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-she-camel).
-
-##### The camel front legs
-The front legs of [the she-camel](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-she-camel).
 
 ##### The she-camel
 A group of stars having a shape of a camel.
@@ -126,38 +117,11 @@ Four stars representing four Ostriches leaving the river, the milky way, after q
 ##### The Ostrich nest - The necklace
 An arc of stars representing an ostrich nest near the two groups of ostriches close to the river.
 
-##### The lucky star of Nashira
-An asterism of two stars.
-
-##### The lucky star of the king
-An asterism of two stars.
-
-##### The lucky star of the young sheep
-An asterism of two stars.
-
-##### The lucky star of the one with great endeavor
-An asterism of two stars.
-
-##### The lucky star of the excellent one
-An asterism of two stars.
-
-##### The lucky star of Matar
-An asterism of two stars.
-
 ##### The string
 Three stars in a line forming the belt of [Al-Jawza](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#al-jawza).
 
 ##### Al-Jawza
 A constellation representing a woman figure.
-
-##### The two shrikes
-An asterism of two stars.
-
-##### The two doves
-An asterism of two stars.
-
-##### The two male ostriches
-An asterism of two stars.
 
 ## Author
 Khalid al-Ajaji: turath.alfalak@gmail.com
