@@ -20,15 +20,15 @@ This sky culture is a result of research done on manuscripts of al-Ṣūfī book
 Ten manuscripts of the _The Book Of The Stars_ were consulted to produce the most accurate text as was written by al-Ṣūfī. Then, each member star of the 48 constellations was identified according to al-Ṣūfī description, and new tables were built including modern star designations from the Hipparcos, Bright stars, and Bayer catalogues. In addition, Arab indigenous star names were collected and identified as mapped by al-Ṣūfī to the Ptolemaic ones. All the previous steps were included in a book published digitally of the _The Book Of The Stars_ plus explanations and commentary by Khalid al-Ajaji, the author of this sky culture[^2].
 
 ## References
-- [#1]: Ibn Qutayba, Al-Dinawari, Abū Muḥammad ‘Abdullah b. Muslim (died ~ 889), Kitab al-Anwaʾ (on meteorolgy of the Arabs), (Arabic print of the original book, Daʾirat al-Maʿarif al-Osmania, Hydarabad, India, 1956)
+- [#1]: Ibn Qutaybah, Al-Dinawarī, Abū Muḥammad ʿAbd Allah b. Muslim (died ~ 889), Kitāb al-Anwāʾ (on meteorolgy of the Arabs), (Arabic print of the original book, Daʾirat al-Maʿārif al-Osmānia, Hydarabad, India, 1956)
 
-أبو محمد عبد الله بن مسلم ابن قتيبة الدينوري (توفي 276 هـ)، كتاب الأنواء في مواسم العرب، داءرة المعارف العثمانية، حيدر أباد، الهند، 1375 هـ
+أبو محمد عبد الله بن مسلم ابن قتيبة الدينوري (توفي 276 هـ)، كتاب الأنواء في مواسم العرب، دائرة المعارف العثمانية، حيدر أباد، الهند، 1375 هـ
 
-- [#2]: Al-Marzoqi, Abū Ali Aḥmad b. Muḥammad b. al-Ḥassan (died 1030), Al-Azminah wa al-amkinah (Times and Places), (Arabic print of the original book in 2002, World of Books, Beirut, Lebanon).
+- [#2]: Al-Marzūqī, Abū ʿAli Aḥmad b. Muḥammad b. al-Ḥassan (died 1030), Al-Azminah wa al-amkinah (Times and Places), (Arabic print of the original book in 2002, World of Books, Beirut, Lebanon).
 
 الإمام أبو علي أحمد بن محمد بن الحسن المرزوقي (توفي سنة 421 هـ)، الأزمنة والأمكنة، تحقيق د. محمد نايف الدليمي، عالم الكتب، بيروت، لبنان، 1422 هـ.
 
-- [#3]: Al-Thaqafī, Abd Allah b. Ḥussayn b. Aṣim (died ~ 1012), Al-Anwāʾ wa al-azminah (Meteorology and times), (Arabic print of the original book in 1996, Dar al-jeel, Beirut, Lebanon).
+- [#3]: Al-Thaqafī, ʿAbd Allah b. Ḥussayn b. ʿĀṣim (died ~ 1012), Al-Anwāʾ wa al-azminah (Meteorology and times), (Arabic print of the original book in 1996, Dar al-jeel, Beirut, Lebanon).
 
 عبد الله بن حسين بن عاصم الثقفي (توفي 403 هـ)، الأنواء والأزمنة، تحقيق: د. نوري حمودي القيسي، د. محمد نايف الدليمي، دار الجيل، بيروت، لبنان، 1416 ه.
 
