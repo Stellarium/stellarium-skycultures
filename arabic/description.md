@@ -7,7 +7,7 @@ The Arabic sky culture displays the indigenous star knowledge of the ancient Ara
 The star knowledge of the ancient Arabs had been recorded and preserved in old poetry and in the old works of Arab philologists and lexicographers of the Islamic civilization. Many books were written on the subject of star knowledge and anwāʾ [Arabic الأنواء], the Arabic knowledge of meteorology. The editors of _Kitab al-Anwāʾ_ of Ibn Qutaybah (died ~ 889 AD) listed twenty-four books on this subject written mostly between early eighth and tenth century[^1]. The only completely preserved text is that of Ibn Qutaybah, but later scholars had quoted many of the earlier texts. One of the most significant works that recorded the indigenous Arab star names is _Book of the Stars_ written in ~ 964 by the prominent astronomer: al-Ṣūfī, where he identified the indigenous Arab star names with the respective Ptolemaic stars of the Greek constellations[^2].
 
 #### Sources of the Arabic sky culture
-The source of this sky culture is a study and compilation of star knowledge of ancient Arabs from the books listed in the [References](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#references) section.
+The source of this sky culture is a study and compilation of star knowledge of ancient Arabs from the books listed in the [References](description.md#references) section.
 
 ## Constellations
 The ancient Arabs named single stars, two stars, an area in the sky, and particular shape of a group of stars. 
@@ -41,34 +41,34 @@ The track of the first leap of the gazelles represented by the two stars: ι UMa
 An area between Ursa Major and Leo, where the brighter stars are the adult gazelles, and the faint stars represent the young ones.
 
 ##### The two preceding to the water
-The two stars: h UMa and υ UMa, representing two men advancing to the [water pool](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#The-Pool) to fetch water to help dig the grave of the Na'sh, father of [Daughters of Na'sh](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#daughters-of-nash).
+The two stars: h UMa and υ UMa, representing two men advancing to the [water pool](description.md#The-Pool) to fetch water to help dig the grave of the Na'sh, father of [Daughters of Na'sh](description.md#daughters-of-nash).
 
 ##### The Pool
-An incomplete circle of stars representing a water pool where [the gazelles](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-gazelles-and-thier-youngsters) drink and [two men are fetching water](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-two-preceding-to-the-water).
+An incomplete circle of stars representing a water pool where [the gazelles](description.md#the-gazelles-and-thier-youngsters) drink and [two men are fetching water](description.md#the-two-preceding-to-the-water).
 
 ##### The two wolves
-The two stars: f Dra and ω Dra, representing two wolves trying to hunt the nearby baby camel, the star HR 6618, surrounded by the [four mother camels](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-mother-camels).
+The two stars: f Dra and ω Dra, representing two wolves trying to hunt the nearby baby camel, the star HR 6618, surrounded by the [four mother camels](description.md#the-mother-camels).
 
 ##### The mother camels
-An irregular square of four stars, representing four mother camels protecting the baby camel, the star HR 6618, from the near by Hyena, the star ι Dra, and the [two wolves](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-two-wolves).
+An irregular square of four stars, representing four mother camels protecting the baby camel, the star HR 6618, from the near by Hyena, the star ι Dra, and the [two wolves](description.md#the-two-wolves).
 
 ##### The three stone support
-A triangle of three stars representing the stones that are used to hold the cooking [pot](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-pot) on wood fire.
+A triangle of three stars representing the stones that are used to hold the cooking [pot](description.md#the-pot) on wood fire.
 
 ##### The pot
-A circular shape of stars representing a cooking pot near [The three stone support](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-three-stone-support).
+A circular shape of stars representing a cooking pot near [The three stone support](description.md#the-three-stone-support).
 
 ##### The sheep
 A group of stars representing sheep with the brightest as the shepherd and the second brightest as his dog.
 
 ##### The spear
-The spear of [the armed one](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-armed-one).
+The spear of [the armed one](description.md#the-armed-one).
 
 ##### The armed one
-The star Arcturus representing a man with a [spear](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-spear).
+The star Arcturus representing a man with a [spear](description.md#the-spear).
 
 ##### The unarmed one
-The star Spica representing a man with no arms as opposed to [the armed one](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-armed-one).
+The star Spica representing a man with no arms as opposed to [the armed one](description.md#the-armed-one).
 
 ##### The hyenas and their youngsters
 An area where the brighter stars represent the adult hyenas, and the faint ones represent the young ones.
@@ -77,10 +77,10 @@ An area where the brighter stars represent the adult hyenas, and the faint ones 
 The stars of Corona Borealis. The incomplete circle represents a fractured bowl of the poor.
 
 ##### The northern line
-A group of stars arranged in a line that may represent a line of trees at the northern side of [the desert garden](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-desert-garden-and-the-goats).
+A group of stars arranged in a line that may represent a line of trees at the northern side of [the desert garden](description.md#the-desert-garden-and-the-goats).
 
 ##### The southern line
-Another group of stars arranged in a line that may represent a line of trees at the southern side of [the desert garden](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#the-desert-garden-and-the-goats).
+Another group of stars arranged in a line that may represent a line of trees at the southern side of [the desert garden](description.md#the-desert-garden-and-the-goats).
 
 ##### The desert garden and the goats
 An area of stars representing goats with the brightest stars as the shepherd and his two dogs.
@@ -125,13 +125,13 @@ An image of a woman with two extended hands
 Al-Ayyuq is the bright star Capella with four bright stars near by. One is his leg, and the three others are the posts. 
 
 ##### Al-Thurayya
-The Pleiades, imagined as a woman loved by [Al-Dabaran](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#al-dabaran), the bright star Aldebaran.
+The Pleiades, imagined as a woman loved by [Al-Dabaran](description.md#al-dabaran), the bright star Aldebaran.
 
 ##### The lamb
 A group of stars in the same region of Aries but includes the Pleiades as the fatty tail of the lamb.
 
 ##### Al-Dabaran
-The bright star Aldebaran representing a man who is in love with [Al-Thurayya](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#al-thurayya), the Pleiades, and constantly follows her.
+The bright star Aldebaran representing a man who is in love with [Al-Thurayya](description.md#al-thurayya), the Pleiades, and constantly follows her.
 
 ##### The lion
 A great constellation representing a lion covering a large area of the sky that extends from Canis Minor and Gemini to Virgo.
@@ -162,10 +162,10 @@ An asterism representing a man swallowing a bite.
 A circle of stars representing a rope that holds young sheep.
 
 ##### Hair braids of Al-Jawza
-The hair braids of [Al-Jawza](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#al-jawza).
+The hair braids of [Al-Jawza](description.md#al-jawza).
 
 ##### Bow of Al-Jawza
-Bow of [Al-Jawza](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#al-jawza) that she uses to against the nearby lion.
+Bow of [Al-Jawza](description.md#al-jawza) that she uses to against the nearby lion.
 
 ##### Al-Jawza
 A constellation representing a woman figure.
