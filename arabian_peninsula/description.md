@@ -11,7 +11,7 @@ The stars used for timing are the same as that of ancient Arabs, but the system 
 The sources show that star names and asterisms are few compared to that of ancient Arabs. Only the bright stars and prominent asterism were named and used. An important source of star knowledge that continued its influence up to the present is the poetry of al-Khalāwī, a poet who's time is not certain but estimated to be in the 17th century[^1]. Another important source is a poem by Moḥammad al-Qādhī (~1809 -1886), where he described all the 28 lunar stations, citing them by the local names[^2].
 
 #### Sources of Star Names and Asterisms
-The source of this sky culture is a compilation of star names from oral traditions and the books listed in the [references](arabian_peninsula/description.md#references).
+The source of this sky culture is a compilation of star names from oral traditions and the books listed in the [references](description.md#references).
 ## Constellations
 
 ##### Al-Nayem - The seven - Daughters of Naʿsh
