@@ -126,7 +126,7 @@ The source of this sky culture is a compilation of star knowledge of ancient Ara
 
 عبد الله بن حسين بن عاصم الثقفي (توفي 403 هـ)، الأنواء والأزمنة، تحقيق: د. نوري حمودي القيسي، د. محمد نايف الدليمي، دار الجيل، بيروت، لبنان، 1416 هـ.
 
-- [#4]: [Book Of The Stars: Critical edition with commentary by Khalid al-Ajaji, digital edition, 2021](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)
+- [#4]: [Book of the stars: Critical edition with commentary by Khalid al-Ajaji, digital edition, 2021](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)
 
 ## Author
 Khalid al-Ajaji: turath.alfalak@gmail.com
