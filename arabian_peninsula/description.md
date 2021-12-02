@@ -64,7 +64,7 @@ The Cross shaped stars of α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr), δ Cyg
 
 ### Asterisms
 
-##### The two guards - the two refugees
+##### The two guards - The two refugees
 The two stars: β UMi and γ UMi. They are used for directions. 
 _The Two Guards_ comes from the legend that al-Jady (Polaris) killed the father of the seven sisters who are carrying the bier of their father (The stars of the Big Dipper) and circling al-Jady, vowing that they will not burry their father until they get revenge. Al-Jady asked these two for protection, and the name is _The two guards_.
 
@@ -147,11 +147,9 @@ The star α Car (Canopus). The name is of ancient origin.
 Khalid al-Ajaji: turath.alfalak@gmail.com
 
 ## License
-Illustrations: Public domain, Source: [Bibliothèque nationale de France. Département des Manuscrits. Arabe 5036](https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).
-
-Text and data: Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
+Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
 
 Special pemission is granted to Stellarium labs to include the licensed material 
 
- [^1]: AlAjaji, Khalid, The Explanation of Al-Khalawi Astronomy Poems, Riyadh,  Saudi arabia, 2018.
- [^2]: AlAjaji, Khalid, The Explanation of Al-Qadhi Poem Anwa'a and Stars, Riyadh,  Saudi arabia, 2013.
+ [^1]: Al-Ajaji, Khalid, The explanation of al-Khalāwī astronomy poems, Riyadh,  Saudi arabia, 2018.
+ [^2]: Al-Ajaji, Khalid, The explanation of al-Qādhī poem of anwāʾ and stars, Riyadh,  Saudi Arabia, 2013.
