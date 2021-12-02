@@ -11,43 +11,7 @@ The stars used for timing are the same as that of ancient Arabs, but the system 
 The sources show that star names and asterisms are few compared to that of ancient Arabs. Only the bright stars and prominent asterism were named and used. An important source of star knowledge that continued its influence up to the present is the poetry of al-Khalāwī, a poet who's time is not certain but estimated to be in the 17th century[^1]. Another important source is a poem by Moḥammad al-Qādhī (~1809 -1886), where he described all the 28 lunar stations, citing them by the local names[^2].
 
 #### Sources of Star Names and Asterisms
-The source of this sky culture is a compilation of star names from oral traditions and the following books:
-1. Al-ʿUbūdī, Moḥammad b. Nāṣir, The folk proverbs in Najd, 4 volumes, Dar Al-Thulūthiyah, Riyadh, Saudi Arabia, 2010 AD.
-
-محمد بن ناصر العبودي، الأمثال العامية في نجد، دار الثلوثية، الرياض، المملكة العربية السعودية، 1431 هـ.
-
-2. Al-ʿUbūdī, Moḥammad b. Nāṣir, Lexicon of the classical root of the common dialect words, 13 volumes, King AbdulAzeez Library, Riyadh,  Saudi Arabia, 2009 AD.
-
-محمد بن ناصر العبودي، معجم الأصول الفصيحة للألفاظ الدارجة، مكتبة الملك عبد العزيز، الرياض، المملكة العربية السعودية، 1430 هـ.
-
-3. A collection of Bedouins poetry by the name: The moist flowers of Bedouin poetry, 18 volumes, Al Maʿarif library, Tayef, Saudi Arabia.
-
-الأزهار النادية من أشعار البادية، مكتبة المعارف، الطائف، المملكة العربية السعودية.
-
-4. A collection of poetry by Mandīl al-Fuhayd, Our local literature of the Arab Peninsula, 10 volumes, Riyadh, Saudi Arabia.
-
-منديل بن محمد الفهيد، من آدابنا الشعبية في الجزيرة العربية.
-
-5. Al-Suwayda, ʿAbd al-Raḥman, The local common proverbs of the Ḥayel region, Riyadh, Saudi Arabia, 2007.
-
-عبد الرحمن بن زيد السويداء، الأمثال الشعبية السائرة في منطقة حائل، الرياض، المملكة العربية السعودية، 1428 هـ.
-
-6. Al-Suwayda, ʿAbd al-Raḥman, The best of folk poetry, 3 volume poetry collection, Riyadh,  Saudi Arabia, 1999.
-
-عبد الرحمن بن زيد السويداء، درر من الشعر الشعبي، الرياض، المملكة العربية السعودية، 1420 هـ.
-
-7. Al-Suwayda, ʿAbd al-Raḥman, The poets of the mountain, 5 volume poetry collection, Riyadh,  Saudi Arabia, 2013.
-
-عبد الرحمن بن زيد السويداء، شعراء الجبل الشعبيون، الرياض، المملكة العربية السعودية، 1434 هـ.
-
-8. Al-Ajaji, Khalid, The explanation of al-Qādhī poem of anwāʾ and stars, Riyadh,  Saudi Arabia, 2013.
-
-خالد بن عبد الله العجاجي، شرح قصيدة القاضي في الأنواء والنجوم، الرياض، المملكة العربية السعودية، 1434 هـ.
-
-9. Al-Ajaji, Khalid, The explanation of al-Khalāwī astronomy poems, Riyadh,  Saudi arabia, 2018.
-
-خالد بن عبد الله العجاجي، شرح مأثورات الخلاوي الفلكية، الرياض، المملكة العربية السعودية، 1439 هـ.
-
+The source of this sky culture is a compilation of star names from oral traditions and the books listed in the references.
 ## Constellations
 
 ##### Al-Nayem - The seven - Daughters of Naʿsh
@@ -142,6 +106,44 @@ A name of α Eri. It is named as such because people would confuse it with _Suha
 
 ##### Suhayl
 The star α Car (Canopus). The name is of ancient origin.
+
+## References
+- [#1]: Al-ʿUbūdī, Moḥammad b. Nāṣir, The folk proverbs in Najd, 4 volumes, Dar Al-Thulūthiyah, Riyadh, Saudi Arabia, 2010 AD.
+
+محمد بن ناصر العبودي، الأمثال العامية في نجد، دار الثلوثية، الرياض، المملكة العربية السعودية، 1431 هـ.
+
+- [#2]: Al-ʿUbūdī, Moḥammad b. Nāṣir, Lexicon of the classical root of the common dialect words, 13 volumes, King AbdulAzeez Library, Riyadh,  Saudi Arabia, 2009 AD.
+
+محمد بن ناصر العبودي، معجم الأصول الفصيحة للألفاظ الدارجة، مكتبة الملك عبد العزيز، الرياض، المملكة العربية السعودية، 1430 هـ.
+
+- [#3]: A collection of Bedouins poetry by the name: The moist flowers of Bedouin poetry, 18 volumes, Al Maʿarif library, Tayef, Saudi Arabia.
+
+الأزهار النادية من أشعار البادية، مكتبة المعارف، الطائف، المملكة العربية السعودية.
+
+- [#4]: A collection of poetry by Mandīl al-Fuhayd, Our local literature of the Arab Peninsula, 10 volumes, Riyadh, Saudi Arabia.
+
+منديل بن محمد الفهيد، من آدابنا الشعبية في الجزيرة العربية.
+
+- [#5]: Al-Suwayda, ʿAbd al-Raḥman, The local common proverbs of the Ḥayel region, Riyadh, Saudi Arabia, 2007.
+
+عبد الرحمن بن زيد السويداء، الأمثال الشعبية السائرة في منطقة حائل، الرياض، المملكة العربية السعودية، 1428 هـ.
+
+- [#6]: Al-Suwayda, ʿAbd al-Raḥman, The best of folk poetry, 3 volume poetry collection, Riyadh,  Saudi Arabia, 1999.
+
+عبد الرحمن بن زيد السويداء، درر من الشعر الشعبي، الرياض، المملكة العربية السعودية، 1420 هـ.
+
+- [#7]: Al-Suwayda, ʿAbd al-Raḥman, The poets of the mountain, 5 volume poetry collection, Riyadh,  Saudi Arabia, 2013.
+
+عبد الرحمن بن زيد السويداء، شعراء الجبل الشعبيون، الرياض، المملكة العربية السعودية، 1434 هـ.
+
+- [#8]: Al-Ajaji, Khalid, The explanation of al-Qādhī poem of anwāʾ and stars, Riyadh,  Saudi Arabia, 2013.
+
+خالد بن عبد الله العجاجي، شرح قصيدة القاضي في الأنواء والنجوم، الرياض، المملكة العربية السعودية، 1434 هـ.
+
+- [#9]: Al-Ajaji, Khalid, The explanation of al-Khalāwī astronomy poems, Riyadh,  Saudi arabia, 2018.
+
+خالد بن عبد الله العجاجي، شرح مأثورات الخلاوي الفلكية، الرياض، المملكة العربية السعودية، 1439 هـ.
+
 
 ## Author
 Khalid al-Ajaji: turath.alfalak@gmail.com
