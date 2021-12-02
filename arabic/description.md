@@ -4,11 +4,14 @@
 The Arabic sky culture displays the indigenous star knowledge of the ancient Arabs living in the Arabian Peninsula prior to the Greek astronomy influence in the ninth century.
 
 ## Description
-The star knowledge of the ancient Arabs had been recorded and preserved in old poetry and the old works of Arab philologists and lexicographers of the Islamic civilization. Many books were written on the subject of star knowledge and anwāʾ [Arabic الأنواء], the Arabic knowledge of meteorology. The editors of _Kitab al-Anwāʾ_ of Ibn Qutaybah (died ~ 889 AD) listed twenty-four books on this subject written mostly between early eighth and tenth century[^1]. The only completely preserved text is that of Ibn Qutaybah, but later scholars had quoted many of the earlier texts. One of the most significant works that recorded the indigenous Arab star names is the _Book of the Stars_ written in ~ 964 by the prominent astronomer: al-Ṣūfī, where he identified the indigenous Arab star names with the respective Ptolemaic stars of the Greek constellations[^2].
+The star knowledge of the ancient Arabs had been recorded and preserved in old poetry and in the old works of Arab philologists and lexicographers of the Islamic civilization. Many books were written on the subject of star knowledge and anwāʾ [Arabic الأنواء], the Arabic knowledge of meteorology. The editors of _Kitab al-Anwāʾ_ of Ibn Qutaybah (died ~ 889 AD) listed twenty-four books on this subject written mostly between early eighth and tenth century[^1]. The only completely preserved text is that of Ibn Qutaybah, but later scholars had quoted many of the earlier texts. One of the most significant works that recorded the indigenous Arab star names is _Book of the Stars_ written in ~ 964 by the prominent astronomer: al-Ṣūfī, where he identified the indigenous Arab star names with the respective Ptolemaic stars of the Greek constellations[^2].
 
-#### Ancient Arabs system of naming the stars
+#### Sources of the Arabic sky culture
+The source of this sky culture is a study and compilation of star knowledge of ancient Arabs from the books listed in the [References](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#references) section.
+
+## Constellations
 The ancient Arabs named single stars, two stars, an area in the sky, and particular shape of a group of stars. 
-Single stars were named after a human figure or a desert animal, _Arcturus_ is _al-Simāk al-ramiḥ_, meaning: The High one with the spear. _Canopus_ is _Suhayl_, a proper name of a man. We have also stars named: _The caracal_ and _The kid_ (the young goat).
+Single stars were named after a human figure or a desert animal, _Arcturus_ is _al-Simāk al-ramiḥ_, meaning: The high one with the spear. _Canopus_ is _Suhayl_, a proper name of a man. We have also stars named: _The caracal_ and _The kid_ (the young goat).
 If two stars of comparable brightness are close to each other, they are given a common name like: _The two calves_, _The two wolves_, _The two doves_.
 
 Sometimes an area is named after a group of animals. The brighter stars are adult animals, and the faint ones are the young animals like: _The hyenas and their youngsters_, _The horses and the foals_.
@@ -17,11 +20,8 @@ Particular shapes of stars were given names like _The scorpion_, _The lion_, _al
 
 Other asterisms are given names according to legends and stories.
 
-#### Sources of the Arabic sky culture
-The source of this sky culture is a study and compilation of star knowledge of ancient Arabs from the books listed in the [References](https://github.com/kajaji/stellarium-skycultures/blob/master/arabic/description.md#references) section.
+The list here is not inclusive, but only of asterisms and constellations that needs extra description.
 
-## Constellations
-The list here is only of asterisms and constellations that needs extra description.
 ##### The axe of the grindstone
 Fish shaped two arcs of stars joined at the ends by α UMi and β UMi, named as the axe of the grindstone because it revolves around the north stellar pole.
 
@@ -204,11 +204,9 @@ A long line of stars representing tied camels.
 Khalid al-Ajaji: turath.alfalak@gmail.com
 
 ## License
-Illustrations: Public domain, Source: [Bibliothèque nationale de France. Département des Manuscrits. Arabe 5036](https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).
-
-Text and data: Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
+Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
 
 Special pemission is granted to Stellarium labs to include the licensed material 
 
-[^1]: Ibn Qutaybah, Kitab al-Anwaʾ, (Arabic print of the original book, Daʾirat al-Maʿarif al-Osmania, Hydarabad, India, 1956), pg. يد.
+[^1]: Ibn Qutaybah, Kitāb al-Anwāʾ, (Arabic print of the original book, Daʾirat al-Maʿarif al-Osmania, Hydarabad, India, 1956), pg. يد.
 [^2]: [Book of the Stars: Critical edition with commentary by Khalid AlAjaji, digital edition](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)
