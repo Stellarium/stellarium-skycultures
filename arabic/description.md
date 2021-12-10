@@ -1,101 +1,212 @@
 # Arabic
 
 ## Introduction
-
-The Arabic sky culture, which is in use for more than a thousand years, has
-been influenced greatly by Greek astronomy, particularly by Ptolemy's astronomy
-but also by the traditions of the nomads from the Arabic peninsula.
+The Arabic sky culture displays the indigenous star knowledge of the ancient Arabs living in the Arabian Peninsula prior to the Greek astronomy influence in the ninth century.
 
 ## Description
+The star knowledge of the ancient Arabs had been recorded and preserved in old poetry and in the old works of Arab philologists and lexicographers of the Islamic civilization. Many books were written on the subject of star knowledge and anwāʾ [Arabic الأنواء], the Arabic knowledge of meteorology. The editors of _Kitab al-Anwāʾ_ of Ibn Qutaybah (died ~ 889 AD) listed twenty-four books on this subject written mostly between early eighth and tenth century[^1]. The only completely preserved text is that of Ibn Qutaybah, but later scholars had quoted many of the earlier texts. One of the most significant works that recorded the indigenous Arab star names is _Book of the Stars_ written in ~ 964 by the prominent astronomer: al-Ṣūfī, where he identified the indigenous Arab star names with the respective Ptolemaic stars of the Greek constellations[^2].
 
-![Book of Fixed Stars](Book_of_Fixed_Stars3.webp)
-The depiction of Orion, as seen from Earth (left) and a mirror-image, from a
-13th-century copy of al-Sufi's _Book of Fixed Stars_ [#4]. In this version,
-Orion's shield has become a long sleeve, typical of Islamic dress.
-{: .img_and_caption }
+#### Sources of the Arabic sky culture
+The source of this sky culture is a study and compilation of star knowledge of ancient Arabs from the books listed in the [References](description.md#references) section.
 
-_Ptolemy_, the Greek astronomer who lived and worked around _100-178 CE_ in
-Alexandria, Egypt, collected ancient Greek descriptions of 1,022 stars in his
-famous book _The Great System of Astronomy_, popularised under its shortened
-Arabic title, the _Almagest_. His catalogue of stars listed coordinates
-and brightness estimates for the stars arranged in _48 constellations_.
+## Constellations
+The ancient Arabs named single stars, two stars, an area in the sky, and particular shape of a group of stars. 
+Single stars were named after a human figure or a desert animal, _Arcturus_ is _al-Simāk al-ramiḥ_, meaning: The high one with the spear. _Canopus_ is _Suhayl_, a proper name of a man. We have also stars named: _The caracal_ and _The kid_ (the young goat).
+If two stars of comparable brightness are close to each other, they are given a common name like: _The two calves_, _The two wolves_, _The two doves_.
 
-The _Almagest_ was translated into Arabic twice in the 9th century and
-the Arabic translation was then translated into Medieval Latin. Thus, many
-modern star names are based on the star descriptions in the Arabic Almagest.
+Sometimes an area is named after a group of animals. The brighter stars are adult animals, and the faint ones are the young animals like: _The hyenas and their youngsters_, _The horses and the foals_.
 
-### Constellations
+Particular shapes of stars were given names like _The scorpion_, _The lion_, _al-Jawzāʾ_ which is a proper name of a woman for Orion stars.
 
-This Arabic sky culture uses the classical _48 constellations_ of the Greek
-_Almagest_. These constellations were described by several Arab and Islamic
-authors. One of them left an indelible influence on the Arabic observation and
-study of stars: the astronomer _Abū al-Husayn ‘Abd Al-Rahmān al-Sūfī_
-(903-986), known also by his Latinized name of _Azophi_. _Al-Sūfī_ produced a
-revised and updated version of Ptolemy's _Almagest_ in a major book called
-_Kitab suwar al-kawakib_, _The Book of Fixed Stars_ [#4], completed around 964
-CE. Built on the basis of the Greek astronomical heritage, the work of
-_Al-Sūfī_ contained a listing of the Arabs' star names, stars magnitudes
-determined by _al-Sūfī_ himself, and two drawings of each constellation, one as
-it is seen in the sky and one reversed right to left as it would appear on a
-celestial globe. The oldest surviving copy was produced by his son around _1010
-CE_ and is preserved in the Bodleian Library, Oxford (MS Marsh 144).
+Other asterisms are given names according to legends and stories.
 
-![Book of Fixed Stars](al_sufi_altre_006_copia.webp)
-Cetus as seen in the sky in an old manuscript of Al-Sufi book [#3].
-{: .img_and_caption }
+The list here is not inclusive, but only of asterisms and constellations that needs extra description.
 
-### The origin of star names
+##### The axe of the grindstone
+Fish shaped two arcs of stars joined at the ends by α UMi and β UMi, named as the axe of the grindstone because it revolves around the north stellar pole.
 
-In the Almagest, stars were described by their position within the
-constellation figure, e.g. "the star at the tip of the Bird's tail". In the
-arabic version of the map the label was shortened to the term "tail", "danab"
-in Arabic. Other star names used by _al-Sūfī_ and his compatriots were direct
-translations from Ptolemy's descriptions. For example, the modern star name
-_Fomalhaut_ comes from the Arabic "mouth of the southern fish", which is where
-_Ptolemy_ had described the star's position in the _Almagest_.
+##### Daughters of Na'sh
+The 7 stars of the big dipper, representing 7 girls carrying the bier of their father who was killed by Al-Jady (Polaris).
 
-Other star names describe the star itself, such as _Sirius_, which is derived
-from the Greek original and means "the brightest one" (literally as
-"scorching"). Another name describing the star's appearance is _Algol_, derived
-from the name of a desert demon whose Arabic name was "The Ghoul", whose eye is
-twinkeling at us. Quite a lot of prominent stars bear Arabic names, in which
-"al" corresponds to the article "the" but its inclusion has become somewhat
-arbitrary over time. Several star names of Arabic origin are given with or
-without the al- prefix.
+##### The first leap
+The track of the first leap of the gazelles fleeing the nearby lion, represented by the two stars: ν UMa and ξ UMa.
 
-Local tradition of the peoples of _Islamic lands_ in the Arabian Peninsula and
-in the Middle East had their own names for various bright stars such as
-_Aldebaran_, The Follower (of the Star Cluster we name the Pleiades). They
-usually regarded single stars as representing _animals or people_, e.g. Diphda
-(_beta Ceti_), the Second Frog. The stars we know as _Alpha_ and _Beta
-Ophiuchi_ were regarded as a _shepherd_ and _his dog_, while neighbouring stars
-made up the outlines of a _field with sheep_. Some of the Arabic names were
-already many centuries old and their meanings were lost even for _al-Sūfī_ and
-his contemporaries, and they remain unknown until today.
+##### The second leap
+The track of the first leap of the gazelles represented by the two stars: λ UMa and μ UMa.
+
+##### The third leap
+The track of the first leap of the gazelles represented by the two stars: ι UMa and κ UMa.
+
+##### The Gazelles and their youngsters
+An area between Ursa Major and Leo, where the brighter stars are the adult gazelles, and the faint stars represent the young ones.
+
+##### The two preceding to the water
+The two stars: h UMa and υ UMa, representing two men advancing to the [water pool](description.md#The-Pool) to fetch water to help dig the grave of the Na'sh, father of [Daughters of Na'sh](description.md#daughters-of-nash).
+
+##### The Pool
+An incomplete circle of stars representing a water pool where [the gazelles](description.md#the-gazelles-and-thier-youngsters) drink and [two men are fetching water](description.md#the-two-preceding-to-the-water).
+
+##### The two wolves
+The two stars: f Dra and ω Dra, representing two wolves trying to hunt the nearby baby camel, the star HR 6618, surrounded by the [four mother camels](description.md#the-mother-camels).
+
+##### The mother camels
+An irregular square of four stars, representing four mother camels protecting the baby camel, the star HR 6618, from the near by Hyena, the star ι Dra, and the [two wolves](description.md#the-two-wolves).
+
+##### The three stone support
+A triangle of three stars representing the stones that are used to hold the cooking [pot](description.md#the-pot) on wood fire.
+
+##### The pot
+A circular shape of stars representing a cooking pot near [The three stone support](description.md#the-three-stone-support).
+
+##### The sheep
+A group of stars representing sheep with the brightest as the shepherd and the second brightest as his dog.
+
+##### The spear
+The spear of [the armed one](description.md#the-armed-one).
+
+##### The armed one
+The star Arcturus representing a man with a [spear](description.md#the-spear).
+
+##### The unarmed one
+The star Spica representing a man with no arms as opposed to [the armed one](description.md#the-armed-one).
+
+##### The hyenas and their youngsters
+An area where the brighter stars represent the adult hyenas, and the faint ones represent the young ones.
+
+##### The bowl of the poor
+The stars of Corona Borealis. The incomplete circle represents a fractured bowl of the poor.
+
+##### The northern line
+A group of stars arranged in a line that may represent a line of trees at the northern side of [the desert garden](description.md#the-desert-garden-and-the-goats).
+
+##### The southern line
+Another group of stars arranged in a line that may represent a line of trees at the southern side of [the desert garden](description.md#the-desert-garden-and-the-goats).
+
+##### The desert garden and the goats
+An area of stars representing goats with the brightest stars as the shepherd and his two dogs.
+
+##### The landing eagle
+The bright star Vega with two near by stars as his wings forming a triangle.
+
+##### The flying eagle
+The bright star Altair with a star on each side as his spread wings.
+
+##### The knights
+A line of five stars representing five knights with the star the Rear Knight, the bright star Deneb, behind them.
+
+##### The she-camel
+A group of stars having a shape of a camel.
+
+##### The henna tinted hand
+The henna tinted hand of Al-Thurayya, the Pleiades.
+
+##### The shoulder blade
+The shoulder blade of Al-Thurayya, the Pleiades.
+
+##### The shoulder
+The shoulder of Al-Thurayya, the Pleiades.
+
+##### The arm
+The arm of Al-Thurayya, the Pleiades.
+
+##### The elbow
+The elbow of Al-Thurayya, the Pleiades.
+
+##### The forearm
+The forearm of Al-Thurayya, the Pleiades.
+
+##### The short hand
+The short left hand of Al-Thurayya, the Pleiades.
+
+##### Al-Thurayya image
+An image of a woman with two extended hands
+
+##### Al-Ayyuq and the posts
+Al-Ayyuq is the bright star Capella with four bright stars near by. One is his leg, and the three others are the posts. 
+
+##### Al-Thurayya
+The Pleiades, imagined as a woman loved by [Al-Dabaran](description.md#al-dabaran), the bright star Aldebaran.
+
+##### The lamb
+A group of stars in the same region of Aries but includes the Pleiades as the fatty tail of the lamb.
+
+##### Al-Dabaran
+The bright star Aldebaran representing a man who is in love with [Al-Thurayya](description.md#al-thurayya), the Pleiades, and constantly follows her.
+
+##### The lion
+A great constellation representing a lion covering a large area of the sky that extends from Canis Minor and Gemini to Virgo.
+
+##### The Ostriches drinking at the river
+Four stars representing four Ostriches drinking at the river, the milky way.
+
+##### The Ostriches leaving the river
+Four stars representing four Ostriches leaving the river, the milky way, after quenching their thirst.
+
+##### The Ostrich nest - The necklace
+An arc of stars representing an ostrich nest near the two groups of ostriches close to the river.
+
+##### The Ostrich nest
+Another ostrich nest
+
+##### The empty place
+An area in the sky with no bright stars.
+
+
+##### The lucky star of the slaughterer
+An asterism representing a man slaughtering a sheep.
+
+##### The lucky star of the swallower
+An asterism representing a man swallowing a bite.
+
+##### The ringed rope
+A circle of stars representing a rope that holds young sheep.
+
+##### Hair braids of Al-Jawza
+The hair braids of [Al-Jawza](description.md#al-jawza).
+
+##### Bow of Al-Jawza
+Bow of [Al-Jawza](description.md#al-jawza) that she uses to against the nearby lion.
+
+##### Al-Jawza
+A constellation representing a woman figure.
+
+##### The oryxes
+An area of stars representing oryxes.
+
+##### The tied camels
+A long line of stars representing tied camels.
 
 ## References
+- [#1]: Ibn Qutaybah, Al-Dinawarī, Abū Muḥammad ‘Abdullah b. Muslim (died ~ 889), Kitab al-Anwaʾ (Book of meteorolgy), (Arabic print of the original book, Daʾirat al-Maʿarif al-Osmania, Hydarabad, India, 1956)
 
- - [#1]: Star Tales on [Ian Ridpath website](http://www.ianridpath.com/startales/startales1b.htm)
- - [#2]: Abd al-Rahman Al-Sufi [article on Wikipedia](http://en.wikipedia.org/wiki/Abd_al-Rahman_al-Sufi)
- - [#3]: Constellations Illustrations by Al-Sufi. Images of a manuscript of Al-Sufi book with sample artistic illustrations and star table samples. [Link](http://www.atlascoelestis.com/alsufi%20Suwar.htm)
- - [#4]: The Original manuscript of Al-Sufi's "Kitab suwar al-kawakib" (The Book of Fixed Stars). Paris Digital Library "Gallica". [Link](http://gallica.bnf.fr/ark:/12148/btv1b60006156.image.f7.pagination)
- - [#5]: List of Arabic Star Names [article on Wikipedia](http://en.wikipedia.org/wiki/List_of_Arabic_star_names).
- - [#6]: Richard Hinckley Allen. _Star Names — Their Lore and Meaning_. [Link](http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/home.html)
- - [#7]: Islamic science heritage. _Arabic Star Names: A Treasure of Knowledge Shared by the World._ [Link](http://www.muslimheritage.com/article/arabic-star-names-treasure-knowledge-shared-world)
- - [#8]: [The Arab Astronomy Forum](http://www.jas.org.jo/forum/viewtopic.php)
- - [#9]: [The Islamic Crescent's Observation Project "ICOP"](http://www.icoproject.org/star.html) for granting a permission to use there lists of "Arabic" Constellations and star names.
- - [#10]: Arabic Stellarium Translation team
+أبو محمد عبد الله بن مسلم ابن قتيبة الدينوري (توفي 276 هـ)، كتاب الأنواء في مواسم العرب، داءرة المعارف العثمانية، حيدر أباد، الهند، 1375 هـ
 
-## Authors
+- [#2]: Al-Marzūqī, Abū ʿAli Aḥmad b. Muḥammad b. al-Ḥassan (died 1030), Al-Azminah wa al-amkinah (Times and Places), (Arabic print of the original book in 2002, World of Books, Beirut, Lebanon).
 
-The Arabic star names were compiled and added to Stellarium by Khalid Alajaji.
+الإمام أبو علي أحمد بن محمد بن الحسن المرزوقي (توفي سنة 421 هـ)، الأزمنة والأمكنة، تحقيق د. محمد نايف الدليمي، عالم الكتب، بيروت، لبنان، 1422 هـ.
+- [#3]: Al-Thaqafī, ʿAbd Allah b. Ḥussayn b. ʿAṣim (died ~ 1012), Al-Anwāʾ wa al-azminah (Meteorology and times), (Arabic print of the original book in 1996, Dar al-jeel, Beirut, Lebanon).
 
-Constellations lines, images & English translation by Kutaibaa Akraa.
+عبد الله بن حسين بن عاصم الثقفي (توفي 403 هـ)، الأنواء والأزمنة، تحقيق: د. نوري حمودي القيسي، د. محمد نايف الدليمي، دار الجيل، بيروت، لبنان، 1416 هـ.
 
-Text rework: Stellarium's team
+- [#4]: [Book of the Stars: Critical edition with commentary by Khalid al-Ajaji, digital edition, 2021 AD](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)
+- [#5]: Al-Farāhīdī, Abu Abd al-Raḥmān Al-Khalīl b. Aḥmad (died ~ 786), Kitab al-ʿAyn (The book of Arabic letter العين), (Arabic print of the original book, 1980 – 1985).
+
+أبو عبد الرحمن الخليل بن أحمد الفراهيدي (توفي 170 هـ)، كتاب العين، 1400 – 1405 هـ.
+
+- [#6]: Ferrand, Gabriel, Instructions Nautiques et Routiers Arabes et Portugais , I , Ibn Majid, 1921 -1923.
+
+- [#7]: Ferrand, Gabriel, Instructions Nautiques et Routiers Arabes et Portugais , II, Sulayman al-Mahri et Ibn Majid, 1925.
+
+- [#9]: Kunitzsch, Paul, Untersuchungen Zur Sternnomenklatur Der Araber, Otto Harrassowitz Wiesbaden, 1961
+- [#10]: Kunitzsch, Paul, The Arabs and the Stars, The Astronomer Abu'L-Husayn al-Ṣūfī And His Book on The Constellations, XI, Northampton, England: Variorum Reprints, 1989.
+
+## Author
+Khalid al-Ajaji: turath.alfalak@gmail.com
 
 ## License
+Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
 
-Illustrations: Public Domain
+Special pemission is granted to Stellarium labs to include the licensed material 
 
-Text and data: GNU GPL v2.0
+[^1]: Ibn Qutaybah, Kitāb al-Anwāʾ, (Arabic print of the original book, Daʾirat al-Maʿarif al-Osmania, Hydarabad, India, 1956), pg. يد.
+[^2]: [Book of the Stars: Critical edition with commentary by Khalid AlAjaji, digital edition](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)
