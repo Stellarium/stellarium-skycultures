@@ -154,4 +154,4 @@ Technical adaption: Stellarium's team
 
 ## License
 
-GNU GPL v2.0
+Text, lines and illustrations: CC BY-SA

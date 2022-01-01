@@ -2,10 +2,9 @@
 
 ## Introduction
 
-In the second half of the 2nd millennium BCE, people from the Persian area
-moved eastwards into the region of today's Pakistan and north of India. They
-settled along the rivers Indus and Ganges and founded the Vedic culture. It is
-the base for all Hindu cultures.
+Indian astronomy has a long history stretching from pre-historic to modern
+times. Some of the earliest roots of Indian astronomy can be dated to the
+period of Indus Valley Civilization or earlier.
 
 ## Description
 

@@ -1,6 +1,7 @@
 {
   "id": "korean",
   "region": "Asia",
+  "highlight": "CON korean 108",
   "constellations": [
     {
       "id": "CON korean 001",
@@ -581,11 +582,6 @@
       "id": "CON korean 116",
       "lines": [[9505, 13531, 14632, 14668, 14576, 14354, 13254, 12623]],
       "common_name": {"english": "Mausoleum", "pronounce": "DaeReung"}
-    },
-    {
-      "id": "CON korean 117",
-      "lines": [[12621, 12621]],
-      "common_name": {"english": "Heap of Corpse", "pronounce": "JeokShi"}
     },
     {
       "id": "CON korean 118",
@@ -1432,6 +1428,7 @@
     "HIP 84143": [{"pronounce": "Buin"}],
     "HIP 86228": [{"pronounce": "Bin"}],
     "HIP 5447": [{"pronounce": "DaeJang"}],
-    "HIP 9640": [{"pronounce": "DaeJang"}]
+    "HIP 9640": [{"pronounce": "DaeJang"}],
+    "NAME Pleiades": [{"english": "Heap of Corpse", "pronounce": "JeokShi"}]
   }
 }

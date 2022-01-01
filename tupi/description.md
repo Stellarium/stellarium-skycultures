@@ -10,7 +10,7 @@ peoples of Brazil and other South American countries.
 As with many cultures, constellations were identified and used to help keep
 track of the seasons and predict the seasonal variations which affect daily
 life. In the book _Histoire de la Mission de Pères Capucins en l'Isle de
-Maragnan etterres circonvoisins_, published in Paris, 1614, it is stated that
+Maragnan et terres circonvoisines_, published in Paris, 1614, it is stated that
 the Tupi people identified some thirty constellations but the book only details
 seven.
 

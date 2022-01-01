@@ -41,20 +41,24 @@ Thanks to Andrei Dorian Gheorghe and Alastair McBeth – SARM members
 
 ## Authors
 
-This sky culture was contributed by Stellarium user [Mircea
-Lite](mailto:MirceaLite@yahoo.com) on behalf of Baia Mare Planetarium, as a
-result of a project called _Traditional Romanian Constellations_ primarily
-based on the book _Romanian peasants beliefs in stars and sky_ by Ioan Otescu.
+This sky culture was contributed by Stellarium user Mircea Lite on behalf of
+[Baia Mare Planetarium](planetariul_bm@yahoo.com), as a result of a project
+called _Traditional Romanian Constellations_ developed in 2012-2013 by the 
+[Baia Mare Planetarium](https://www.planetariubm.ro)
+([email](mailto:planetariubm@gmail.com)) and funded partially by the Romanian
+Cultural Fond Administration.
+It is primarily based on the book _Romanian peasants beliefs in stars and sky_
+by Ion Ottescu.
 
 The Romanian constellation lines, images, scripts and texts for movies prepared
 by [Radu Lodina](mailto:rlodina@gmail.com) and [Ovidiu
 Ignat](mailto:OviIgnat@yahoo.com).
 
-Romanian constellation art done by Zamfir Somcutean.
+Romanian constellation art done by [Zamfir Somcutean](naturazam@yahoo.com).
 
 Adapted by Susanne M Hoffmann
 
 ## License
 
-All materials related to Traditional Romanian Constellations are released under
-Creative Commons Attribution-ShareAlike 3.0 Unported.
+Text, lines and illustrations: CC BY-SA
+

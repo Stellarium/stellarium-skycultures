@@ -47,6 +47,12 @@ The main index.json file must have the following format:
   // Thumbnail image to display e.g. when showing the description for this
   // sky culture.
   "thumbnail": "my_thumb.webp",
+  // Additional scaling to apply to thumbnail brightness
+  "thumbnail_bscale": 1.2,
+  // Define a highlighted constellation that can be used e.g. for preview
+  "highlight": "CON western Aql",
+  // Additional scaling to apply to illustrations brightness
+  "illustrations_bscale": 1.2,
   // Define to true if international names must be used as fallback when no
   // cultural name is explicitly defined for a sky object.
   // Typically useful for variants of the western sky culture.
@@ -64,7 +70,9 @@ The main index.json file must have the following format:
       // the sky culture
       "id": "CON western Aql",
       // List of lines paths. Each number is a Hipparcos star number.
-      "lines": [[98036, 97649, 97278], [97649, 95501, 97804], [99473, 97804], [95501, 93747, 93244], [95501, 93805]],
+      // Optionally a line can be prefixed by "thin" or "bold" to adjust the
+      // line weight.
+      "lines": [[98036, 97649, 97278], [97649, 95501, 97804], [99473, 97804], ["thin", 95501, 93747, 93244], [95501, 93805]],
       // Image used as illustration in the sky
       "image": {
         "file": "illustrations/aquila.webp",

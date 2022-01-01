@@ -22,7 +22,7 @@ meanings, ranging from ancient to Christianized.
 The burning cart that is ridden by Elias, the Christianized version of a
 constellation previously seen as simply a large cart.
 
-##### The Cross
+##### The Cross of Saint Peter
 
 A Peter’s cross.
 
@@ -52,7 +52,7 @@ It was said that "God used to sift grains of _zhito_ through it".
 
 Ursa Minor resembles the large cart of Ursa Major.
 
-##### The Throne
+##### The Throne of Jesus
 
 Lord Jesus's chair.
 
@@ -66,12 +66,12 @@ Lord Jesus's chair.
 
 ## Authors
 
-Text and data by Alexander Wolf, Tsimafei Avilin and Johan Meuris.
+Text and data by Alexander Wolf, [Tsimafei Avilin](https://nasb-by.academia.edu/TsimafeiAvilin) and Johan Meuris.
 
 Illustrations by Johan Meuris.
 
 ## License
 
-Text and data: GNU GPL v2.0
+Text and data: CC BY-SA
 
 Illustrations: Free Art License

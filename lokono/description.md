@@ -837,12 +837,11 @@ with different constellations.
 
 ## Authors
 
-This sky culture was contributed by [Konrad
-Rybka](https://uva.academia.edu/KonradRybka) and produced with the help of
-Lokono speakers in Suriname (Cassipora) and Guyana (Wakapoa). The research was
-carried out as part of the project supported by a Rubicon postdoctoral grant
-from the Netherlands Organization for Scientific Research (project number
-446-15-012).
+This sky culture was contributed by [Konrad Rybka](konrad.rybka@gmail.com) and
+produced with the help of Lokono speakers in Suriname (Cassipora) and
+Guyana (Wakapoa). The research was carried out as part of the project supported
+by a Rubicon postdoctoral grant from the Netherlands Organization for
+Scientific Research (project number 446-15-012).
 
 Quote as: Rybka, Konrad 2018. _Lokono sky culture: a description of Lokono
 ethnoastronomical knowledge for Stellarium software_. Version 1.0
@@ -851,4 +850,4 @@ Technical clean-up: Susanne M Hoffmann, 2020
 
 ## License
 
-GNU GPL v2.0
+CC BY-NC
