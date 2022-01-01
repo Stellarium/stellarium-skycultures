@@ -2,6 +2,10 @@
   "id": "romanian",
   "region": "Europe",
   "fallback_to_international_names": true,
+  "thumbnail": "illustrations/crapii.webp",
+  "thumbnail_bscale": 2,
+  "illustrations_bscale": 2,
+  "highlight": "CON romanian Cio",
   "constellations": [
     {
       "id": "CON romanian UMa",
@@ -33,7 +37,7 @@
     },
     {
       "id": "CON romanian Csa",
-      "lines": [[116727, 105199, 107259, 109492, 110991], [106032, 108587]],
+      "lines": [[116727, 105199, 107259, 109492, 110991], [106032, 109400]],
       "image": {
         "file": "illustrations/Coasa.webp",
         "size": [512, 512],
