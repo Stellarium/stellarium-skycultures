@@ -2,443 +2,531 @@
   "constellations": [
     {
       "common_name": {"english": "Andromeda"},
+      "iau": "And",
       "id": "CON western_SnT And",
-      "lines": [["thin", 3092, 3031, 3693, 4463]]
+      "lines": [["normal", 3092, 3031, 3693, 4463]]
     },
     {
       "common_name": {"english": "Antlia"},
+      "iau": "Ant",
       "id": "CON western_SnT Ant",
-      "lines": [["thin", 53502, 51172, 46515]]
+      "lines": [["normal", 53502, 51172, 46515]]
     },
     {
       "common_name": {"english": "Apus"},
+      "iau": "Aps",
       "id": "CON western_SnT Aps",
-      "lines": [["thin", 80047, 81852, 81065]]
+      "lines": [["normal", 80047, 81852, 81065]]
     },
     {
       "common_name": {"english": "Aquila"},
+      "iau": "Aql",
       "id": "CON western_SnT Aql",
-      "lines": [["thin", 99473, 96468, 93805, 93747]]
+      "lines": [["normal", 99473, 96468, 93805, 93747]]
     },
     {
       "common_name": {"english": "Aquarius"},
+      "iau": "Aqr",
       "id": "CON western_SnT Aqr",
-      "lines": [["thin", 115033, 113136, 112716, 112961]]
+      "lines": [["normal", 115033, 113136, 112716, 112961]]
     },
     {
       "common_name": {"english": "Ara"},
+      "iau": "Ara",
       "id": "CON western_SnT Ara",
-      "lines": [["thin", 85792, 85258]]
+      "lines": [["normal", 85792, 85258]]
     },
     {
       "common_name": {"english": "Aries"},
+      "iau": "Ari",
       "id": "CON western_SnT Ari",
-      "lines": [["thin", 8832, 8903, 9884, 13209]]
+      "lines": [["normal", 8832, 8903, 9884, 13209]]
     },
     {
       "common_name": {"english": "Auriga"},
+      "iau": "Aur",
       "id": "CON western_SnT Aur",
-      "lines": [["bold", 25428, 23015, 23767, 24608, 28360, 28380, 25428], ["thin", 23767, 23453, 23416, 24608, 28358, 28360]]
+      "lines": [["bold", 25428, 23015, 23767, 24608, 28360, 28380, 25428], ["normal", 23767, 23453, 23416, 24608, 28358, 28360]]
     },
     {
       "common_name": {"english": "Bootes"},
+      "iau": "Boo",
       "id": "CON western_SnT Boo",
-      "lines": [["thin", 71075, 69732, 70497, 69483, 69732]]
+      "lines": [["normal", 71075, 69732, 70497, 69483, 69732]]
     },
     {
       "common_name": {"english": "Canis Major"},
+      "iau": "CMa",
       "id": "CON western_SnT CMa",
-      "lines": [["bold", 34444, 35904], ["thin", 32349, 33347, 34045, 33160, 33347]]
+      "lines": [["bold", 34444, 35904], ["normal", 32349, 33347, 34045, 33160, 33347]]
     },
     {
       "common_name": {"english": "Canis Minor"},
+      "iau": "CMi",
       "id": "CON western_SnT CMi",
-      "lines": [["thin", 37279, 36188]]
+      "lines": [["normal", 37279, 36188]]
     },
     {
       "common_name": {"english": "Canes Venatici"},
+      "iau": "CVn",
       "id": "CON western_SnT CVn",
-      "lines": [["thin", 63125, 61317]]
+      "lines": [["normal", 63125, 61317]]
     },
     {
       "common_name": {"english": "Caelum"},
+      "iau": "Cae",
       "id": "CON western_SnT Cae",
-      "lines": [["thin", 23595, 21861, 21770, 21060]]
+      "lines": [["normal", 23595, 21861, 21770, 21060]]
     },
     {
       "common_name": {"english": "Camelopardalis"},
+      "iau": "Cam",
       "id": "CON western_SnT Cam",
-      "lines": [["thin", 22783, 17959, 17884, 16228]]
+      "lines": [["normal", 22783, 17959, 17884, 16228]]
     },
     {
       "common_name": {"english": "Capricornus"},
+      "iau": "Cap",
       "id": "CON western_SnT Cap",
-      "lines": [["thin", 100064, 100345, 102485, 102978, 105881, 106723, 107556, 106985, 104139, 100064]]
+      "lines": [["normal", 100064, 100345, 102485, 102978, 105881, 106723, 107556, 106985, 104139, 100064]]
     },
     {
       "common_name": {"english": "Carina"},
+      "iau": "Car",
       "id": "CON western_SnT Car",
-      "lines": [["thin", 45556, 41037, 38827, 39953]]
+      "lines": [["normal", 45556, 41037, 38827, 39953]]
     },
     {
       "common_name": {"english": "Cassiopeia"},
+      "iau": "Cas",
       "id": "CON western_SnT Cas",
       "lines": [["bold", 746, 3179, 4427, 6686, 8886]]
     },
     {
       "common_name": {"english": "Centaurus"},
+      "iau": "Cen",
       "id": "CON western_SnT Cen",
-      "lines": [["thin", 71352, 73334]]
+      "lines": [["normal", 71352, 73334]]
     },
     {
       "common_name": {"english": "Cepheus"},
+      "iau": "Cep",
       "id": "CON western_SnT Cep",
-      "lines": [["thin", 101093, 102422]]
+      "lines": [["normal", 101093, 102422]]
     },
     {
       "common_name": {"english": "Cetus"},
+      "iau": "Cet",
       "id": "CON western_SnT Cet",
-      "lines": [["thin", 12706, 14135, 13954, 12828, 11484, 12706, 12387, 10826, 8645, 8102, 3419, 1562, 5364, 6537, 8645]]
+      "lines": [["normal", 12706, 14135, 13954, 12828, 11484, 12706, 12387, 10826, 8645, 8102, 3419, 1562, 5364, 6537, 8645]]
     },
     {
       "common_name": {"english": "Chamaeleon"},
+      "iau": "Cha",
       "id": "CON western_SnT Cha",
-      "lines": [["thin", 40702, 51839, 52633, 60000, 58484, 51839]]
+      "lines": [["normal", 40702, 51839, 52633, 60000, 58484, 51839]]
     },
     {
       "common_name": {"english": "Circinus"},
+      "iau": "Cir",
       "id": "CON western_SnT Cir",
-      "lines": [["thin", 74824, 71908, 75323]]
+      "lines": [["normal", 74824, 71908, 75323]]
     },
     {
       "common_name": {"english": "Cancer"},
+      "iau": "Cnc",
       "id": "CON western_SnT Cnc",
-      "lines": [["thin", 42911, 42806, 43103]]
+      "lines": [["normal", 42911, 42806, 43103]]
     },
     {
       "common_name": {"english": "Columba"},
+      "iau": "Col",
       "id": "CON western_SnT Col",
-      "lines": [["thin", 28328, 27628, 28199, 30277]]
+      "lines": [["normal", 28328, 27628, 28199, 30277]]
     },
     {
       "common_name": {"english": "Coma Berenices"},
+      "iau": "Com",
       "id": "CON western_SnT Com",
-      "lines": [["thin", 64241, 64241, 64394, 60742]]
+      "lines": [["normal", 64241, 64241, 64394, 60742]]
     },
     {
       "common_name": {"english": "Corona Australis"},
+      "iau": "CrA",
       "id": "CON western_SnT CrA",
-      "lines": [["thin", 93825, 94114, 94160, 94005, 90982]]
+      "lines": [["normal", 93825, 94114, 94160, 94005, 90982]]
     },
     {
       "common_name": {"english": "Corona Borealis"},
+      "iau": "CrB",
       "id": "CON western_SnT CrB",
-      "lines": [["thin", 76127, 75695, 76267, 76952, 77512, 78159, 78493]]
+      "lines": [["normal", 76127, 75695, 76267, 76952, 77512, 78159, 78493]]
     },
     {
       "common_name": {"english": "Crater"},
+      "iau": "Crt",
       "id": "CON western_SnT Crt",
-      "lines": [["thin", 55282, 53740]]
+      "lines": [["normal", 55282, 53740]]
     },
     {
       "common_name": {"english": "Crux"},
+      "iau": "Cru",
       "id": "CON western_SnT Cru",
-      "lines": [["bold", 60718, 61084], ["thin", 62434, 59747]]
+      "lines": [["bold", 60718, 61084], ["normal", 62434, 59747]]
     },
     {
       "common_name": {"english": "Corvus"},
+      "iau": "Crv",
       "id": "CON western_SnT Crv",
-      "lines": [["thin", 59316, 59199]]
+      "lines": [["normal", 59316, 59199]]
     },
     {
       "common_name": {"english": "Cygnus"},
+      "iau": "Cyg",
       "id": "CON western_SnT Cyg",
-      "lines": [["bold", 100453, 97165, 95853, 94779], ["thin", 95853, 99848, 102098, 103413, 104732, 102488]]
+      "lines": [["bold", 100453, 97165, 95853, 94779], ["normal", 95853, 99848, 102098, 103413, 104732, 102488]]
     },
     {
       "common_name": {"english": "Delphinus"},
+      "iau": "Del",
       "id": "CON western_SnT Del",
-      "lines": [["thin", 101421, 101769, 101958, 102532, 102281, 101769]]
+      "lines": [["normal", 101421, 101769, 101958, 102532, 102281, 101769]]
     },
     {
       "common_name": {"english": "Dorado"},
+      "iau": "Dor",
       "id": "CON western_SnT Dor",
-      "lines": [["thin", 26069, 27100, 27890, 26069]]
+      "lines": [["normal", 26069, 27100, 27890, 26069]]
     },
     {
       "common_name": {"english": "Draco"},
+      "iau": "Dra",
       "id": "CON western_SnT Dra",
-      "lines": [["thin", 94376, 87585, 85829, 85670, 87833, 87585]]
+      "lines": [["normal", 94376, 87585, 85829, 85670, 87833, 87585]]
     },
     {
       "common_name": {"english": "Equuleus"},
+      "iau": "Equ",
       "id": "CON western_SnT Equ",
-      "lines": [["thin", 104987, 104858, 104521]]
+      "lines": [["normal", 104987, 104858, 104521]]
     },
     {
       "common_name": {"english": "Eridanus"},
+      "iau": "Eri",
       "id": "CON western_SnT Eri",
-      "lines": [["thin", 23875, 22109, 21444, 19587, 18543, 17593, 17378, 16537, 13701, 12770, 12770, 12843, 14146, 15474, 16611, 17651, 18216, 18673, 21248, 21393, 20535, 20042, 17874, 17874, 16870, 15510, 13847, 12486, 12413, 11407, 9007, 7588]]
+      "lines": [["normal", 23875, 22109, 21444, 19587, 18543, 17593, 17378, 16537, 13701, 12770, 12770, 12843, 14146, 15474, 16611, 17651, 18216, 18673, 21248, 21393, 20535, 20042, 17874, 17874, 16870, 15510, 13847, 12486, 12413, 11407, 9007, 7588]]
     },
     {
       "common_name": {"english": "Fornax"},
+      "iau": "For",
       "id": "CON western_SnT For",
-      "lines": [["thin", 14879, 13147, 9677]]
+      "lines": [["normal", 14879, 13147, 9677]]
     },
     {
       "common_name": {"english": "Gemini"},
+      "iau": "Gem",
       "id": "CON western_SnT Gem",
-      "lines": [["thin", 32246, 30343, 29655, 28734]]
+      "lines": [["normal", 32246, 30343, 29655, 28734]]
     },
     {
       "common_name": {"english": "Grus"},
+      "iau": "Gru",
       "id": "CON western_SnT Gru",
-      "lines": [["thin", 112122, 112623, 113638]]
+      "lines": [["normal", 112122, 112623, 113638]]
     },
     {
       "common_name": {"english": "Hercules"},
+      "iau": "Her",
       "id": "CON western_SnT Her",
-      "lines": [["thin", 80170, 80463, 81008]]
+      "lines": [["normal", 80170, 80463, 81008]]
     },
     {
       "common_name": {"english": "Horologium"},
+      "iau": "Hor",
       "id": "CON western_SnT Hor",
-      "lines": [["thin", 19747, 12653, 12225, 12484, 14240, 13884]]
+      "lines": [["normal", 19747, 12653, 12225, 12484, 14240, 13884]]
     },
     {
       "common_name": {"english": "Hydra"},
+      "iau": "Hya",
       "id": "CON western_SnT Hya",
-      "lines": [["thin", 54682, 56343, 57936, 64962, 68895, 72571]]
+      "lines": [["normal", 54682, 56343, 57936, 64962, 68895, 72571]]
     },
     {
       "common_name": {"english": "Hydrus"},
+      "iau": "Hyi",
       "id": "CON western_SnT Hyi",
-      "lines": [["thin", 2021, 17678, 11001, 9236, 2021]]
+      "lines": [["normal", 2021, 17678, 11001, 9236, 2021]]
     },
     {
       "common_name": {"english": "Indus"},
+      "iau": "Ind",
       "id": "CON western_SnT Ind",
-      "lines": [["thin", 103227, 102333, 101772, 105319, 108431, 103227]]
+      "lines": [["normal", 103227, 102333, 101772, 105319, 108431, 103227]]
     },
     {
       "common_name": {"english": "Leo Minor"},
+      "iau": "LMi",
       "id": "CON western_SnT LMi",
-      "lines": [["thin", 46952, 49593, 51233, 53229, 51056, 49593]]
+      "lines": [["normal", 46952, 49593, 51233, 53229, 51056, 49593]]
     },
     {
       "common_name": {"english": "Lacerta"},
+      "iau": "Lac",
       "id": "CON western_SnT Lac",
-      "lines": [["thin", 111104, 109754, 109937]]
+      "lines": [["normal", 111104, 109754, 109937]]
     },
     {
       "common_name": {"english": "Leo"},
+      "iau": "Leo",
       "id": "CON western_SnT Leo",
-      "lines": [["bold", 49669, 49583, 50583, 50335, 48455, 47908], ["thin", 54879, 55642, 55434]]
+      "lines": [["bold", 49669, 49583, 50583, 50335, 48455, 47908], ["normal", 54879, 55642, 55434]]
     },
     {
       "common_name": {"english": "Lepus"},
+      "iau": "Lep",
       "id": "CON western_SnT Lep",
-      "lines": [["thin", 25606, 27072, 27654, 28910, 28103, 27288, 25985]]
+      "lines": [["normal", 25606, 27072, 27654, 28910, 28103, 27288, 25985]]
     },
     {
       "common_name": {"english": "Libra"},
+      "iau": "Lib",
       "id": "CON western_SnT Lib",
-      "lines": [["thin", 76333, 76470, 76600]]
+      "lines": [["normal", 76333, 76470, 76600]]
     },
     {
       "common_name": {"english": "Lupus"},
+      "iau": "Lup",
       "id": "CON western_SnT Lup",
-      "lines": [["thin", 76297, 78384, 75177, 77634, 78384, 74395]]
+      "lines": [["normal", 76297, 78384, 75177, 77634, 78384, 74395]]
     },
     {
       "common_name": {"english": "Lynx"},
+      "iau": "Lyn",
       "id": "CON western_SnT Lyn",
-      "lines": [["thin", 45860, 45688, 44700, 44248, 41075, 36145, 33449, 30060]]
+      "lines": [["normal", 45860, 45688, 44700, 44248, 41075, 36145, 33449, 30060]]
     },
     {
       "common_name": {"english": "Lyra"},
+      "iau": "Lyr",
       "id": "CON western_SnT Lyr",
-      "lines": [["thin", 91971, 92791, 93194, 92420, 91971]]
+      "lines": [["normal", 91971, 92791, 93194, 92420, 91971]]
     },
     {
       "common_name": {"english": "Mensa"},
+      "iau": "Men",
       "id": "CON western_SnT Men",
-      "lines": [["thin", 29271, 23467]]
+      "lines": [["normal", 29271, 23467]]
     },
     {
       "common_name": {"english": "Microscopium"},
+      "iau": "Mic",
       "id": "CON western_SnT Mic",
-      "lines": [["thin", 102831, 102989]]
+      "lines": [["normal", 102831, 102989]]
     },
     {
       "common_name": {"english": "Monoceros"},
+      "iau": "Mon",
       "id": "CON western_SnT Mon",
-      "lines": [["thin", 34769, 39863, 37447]]
+      "lines": [["normal", 34769, 39863, 37447]]
     },
     {
       "common_name": {"english": "Musca"},
+      "iau": "Mus",
       "id": "CON western_SnT Mus",
-      "lines": [["thin", 57363, 59929, 61585, 62322, 63613, 61199, 61585]]
+      "lines": [["normal", 57363, 59929, 61585, 62322, 63613, 61199, 61585]]
     },
     {
       "common_name": {"english": "Norma"},
+      "iau": "Nor",
       "id": "CON western_SnT Nor",
-      "lines": [["thin", 78639, 80000, 80582, 78914, 78639]]
+      "lines": [["normal", 78639, 80000, 80582, 78914, 78639]]
     },
     {
       "common_name": {"english": "Octans"},
+      "iau": "Oct",
       "id": "CON western_SnT Oct",
-      "lines": [["thin", 70638, 107089, 112405, 70638]]
+      "lines": [["normal", 70638, 107089, 112405, 70638]]
     },
     {
       "common_name": {"english": "Ophiuchus"},
+      "iau": "Oph",
       "id": "CON western_SnT Oph",
-      "lines": [["thin", 81377, 80894, 80569, 80343, 80473]]
+      "lines": [["normal", 81377, 80894, 80569, 80343, 80473]]
     },
     {
       "common_name": {"english": "Orion"},
+      "iau": "Ori",
       "id": "CON western_SnT Ori",
-      "lines": [["bold", 25930, 25281, 24436], ["thin", 29426, 28716, 27913, 29038]]
+      "lines": [["bold", 25930, 25281, 24436], ["normal", 29426, 28716, 27913, 29038]]
     },
     {
       "common_name": {"english": "Pavo"},
+      "iau": "Pav",
       "id": "CON western_SnT Pav",
-      "lines": [["thin", 88866, 90098, 92609, 99240]]
+      "lines": [["normal", 88866, 90098, 92609, 99240]]
     },
     {
       "common_name": {"english": "Pegasus"},
+      "iau": "Peg",
       "id": "CON western_SnT Peg",
-      "lines": [["thin", 109410, 112158, 113881, 112748, 112440, 109176, 107354], ["bold", 677, 113881, 113963, 1067, 677], ["thin", 107315, 109427, 112029, 113963]]
+      "lines": [["normal", 109410, 112158, 113881, 112748, 112440, 109176, 107354], ["bold", 677, 113881, 113963, 1067, 677], ["normal", 107315, 109427, 112029, 113963]]
     },
     {
       "common_name": {"english": "Perseus"},
+      "iau": "Per",
       "id": "CON western_SnT Per",
-      "lines": [["thin", 14632, 12777, 8068]]
+      "lines": [["normal", 14632, 12777, 8068]]
     },
     {
       "common_name": {"english": "Phoenix"},
+      "iau": "Phe",
       "id": "CON western_SnT Phe",
-      "lines": [["thin", 2081, 765, 5165, 5348, 7083, 6867]]
+      "lines": [["normal", 2081, 765, 5165, 5348, 7083, 6867]]
     },
     {
       "common_name": {"english": "Pictor"},
+      "iau": "Pic",
       "id": "CON western_SnT Pic",
-      "lines": [["thin", 32607, 27530, 27321]]
+      "lines": [["normal", 32607, 27530, 27321]]
     },
     {
       "common_name": {"english": "Piscis Austrinus"},
+      "iau": "PsA",
       "id": "CON western_SnT PsA",
-      "lines": [["thin", 113368, 113246, 112948, 111188, 109285, 107380, 107608, 109285, 111954, 113368]]
+      "lines": [["normal", 113368, 113246, 112948, 111188, 109285, 107380, 107608, 109285, 111954, 113368]]
     },
     {
       "common_name": {"english": "Pisces"},
+      "iau": "Psc",
       "id": "CON western_SnT Psc",
-      "lines": [["thin", 5742, 6193, 5586, 5742, 7097, 8198, 9487, 7884, 4906, 3786, 118268, 116771, 115830, 114971, 115738, 116928, 116771]]
+      "lines": [["normal", 5742, 6193, 5586, 5742, 7097, 8198, 9487, 7884, 4906, 3786, 118268, 116771, 115830, 114971, 115738, 116928, 116771]]
     },
     {
       "common_name": {"english": "Puppis"},
+      "iau": "Pup",
       "id": "CON western_SnT Pup",
-      "lines": [["thin", 36917, 37677, 38070, 38170]]
+      "lines": [["normal", 36917, 37677, 38070, 38170]]
     },
     {
       "common_name": {"english": "Pyxis"},
+      "iau": "Pyx",
       "id": "CON western_SnT Pyx",
-      "lines": [["thin", 39429, 42515, 42828, 43409]]
+      "lines": [["normal", 39429, 42515, 42828, 43409]]
     },
     {
       "common_name": {"english": "Reticulum"},
+      "iau": "Ret",
       "id": "CON western_SnT Ret",
-      "lines": [["thin", 19780, 17440, 18597, 19921, 19780]]
+      "lines": [["normal", 19780, 17440, 18597, 19921, 19780]]
     },
     {
       "common_name": {"english": "Sculptor"},
+      "iau": "Scl",
       "id": "CON western_SnT Scl",
-      "lines": [["thin", 4577, 117452, 115102, 116231]]
+      "lines": [["normal", 4577, 117452, 115102, 116231]]
     },
     {
       "common_name": {"english": "Scorpius"},
+      "iau": "Sco",
       "id": "CON western_SnT Sco",
-      "lines": [["bold", 78401, 80112, 80763, 81266, 82396, 82514, 82729, 84143, 86228, 87073, 86670, 85696, 85927, 87261], ["thin", 78265, 78104]]
+      "lines": [["bold", 78401, 80112, 80763, 81266, 82396, 82514, 82729, 84143, 86228, 87073, 86670, 85696, 85927, 87261], ["normal", 78265, 78104]]
     },
     {
       "common_name": {"english": "Scutum"},
+      "iau": "Sct",
       "id": "CON western_SnT Sct",
-      "lines": [["thin", 92175, 91117, 90595, 91726, 92175]]
+      "lines": [["normal", 92175, 91117, 90595, 91726, 92175]]
     },
     {
       "common_name": {"english": "Serpens"},
+      "iau": "Ser",
       "id": "CON western_SnT Ser",
-      "lines": [["thin", 84012, 86263, 88048, 89962, 92946]]
+      "lines": [["normal", 84012, 86263, 88048, 89962, 92946]]
     },
     {
       "common_name": {"english": "Sextans"},
+      "iau": "Sex",
       "id": "CON western_SnT Sex",
-      "lines": [["thin", 48437, 49641, 51437, 51362]]
+      "lines": [["normal", 48437, 49641, 51437, 51362]]
     },
     {
       "common_name": {"english": "Sagitta"},
+      "iau": "Sge",
       "id": "CON western_SnT Sge",
-      "lines": [["thin", 97365, 96837]]
+      "lines": [["normal", 97365, 96837]]
     },
     {
       "common_name": {"english": "Sagittarius"},
+      "iau": "Sgr",
       "id": "CON western_SnT Sgr",
-      "lines": [["bold", 93506, 90185, 89642], ["thin", 95168, 94141, 93683, 93085, 94141]]
+      "lines": [["bold", 93506, 90185, 89642], ["normal", 95168, 94141, 93683, 93085, 94141]]
     },
     {
       "common_name": {"english": "Taurus"},
+      "iau": "Tau",
       "id": "CON western_SnT Tau",
-      "lines": [["thin", 20205, 18724, 16083]]
+      "lines": [["normal", 20205, 18724, 16083]]
     },
     {
       "common_name": {"english": "Telescopium"},
+      "iau": "Tel",
       "id": "CON western_SnT Tel",
-      "lines": [["thin", 89112, 90422, 90568]]
+      "lines": [["normal", 89112, 90422, 90568]]
     },
     {
       "common_name": {"english": "Triangulum Australe"},
+      "iau": "TrA",
       "id": "CON western_SnT TrA",
-      "lines": [["thin", 82273, 77952, 76440, 74946, 82273]]
+      "lines": [["normal", 82273, 77952, 76440, 74946, 82273]]
     },
     {
       "common_name": {"english": "Triangulum"},
+      "iau": "Tri",
       "id": "CON western_SnT Tri",
-      "lines": [["thin", 8796, 10064, 10670, 8796]]
+      "lines": [["normal", 8796, 10064, 10670, 8796]]
     },
     {
       "common_name": {"english": "Tucana"},
+      "iau": "Tuc",
       "id": "CON western_SnT Tuc",
-      "lines": [["thin", 2484, 1599, 118322, 110838, 110130, 114996, 2484]]
+      "lines": [["normal", 2484, 1599, 118322, 110838, 110130, 114996, 2484]]
     },
     {
       "common_name": {"english": "Ursa Major"},
+      "iau": "UMa",
       "id": "CON western_SnT UMa",
-      "lines": [["thin", 57399, 55219, 55203], ["bold", 59774, 54061, 53910, 58001, 59774, 62956, 65378, 67301], ["thin", 48319, 46853, 44471, 44127]]
+      "lines": [["normal", 57399, 55219, 55203], ["bold", 59774, 54061, 53910, 58001, 59774, 62956, 65378, 67301], ["normal", 48319, 46853, 44471, 44127]]
     },
     {
       "common_name": {"english": "Ursa Minor"},
+      "iau": "UMi",
       "id": "CON western_SnT UMi",
-      "lines": [["thin", 11767, 85822, 82080, 77055, 79822, 75097, 72607, 77055]]
+      "lines": [["normal", 11767, 85822, 82080, 77055, 79822, 75097, 72607, 77055]]
     },
     {
       "common_name": {"english": "Vela"},
+      "iau": "Vel",
       "id": "CON western_SnT Vel",
-      "lines": [["thin", 42913, 39953, 44816, 46651, 50191, 52727, 48774, 45941, 42913]]
+      "lines": [["normal", 42913, 39953, 44816, 46651, 50191, 52727, 48774, 45941, 42913]]
     },
     {
       "common_name": {"english": "Virgo"},
+      "iau": "Vir",
       "id": "CON western_SnT Vir",
-      "lines": [["thin", 66249, 69701, 71957]]
+      "lines": [["normal", 66249, 69701, 71957]]
     },
     {
       "common_name": {"english": "Volans"},
+      "iau": "Vol",
       "id": "CON western_SnT Vol",
-      "lines": [["thin", 44382, 41312, 39794, 35228, 34481, 39794, 44382]]
+      "lines": [["normal", 44382, 41312, 39794, 35228, 34481, 39794, 44382]]
     },
     {
       "common_name": {"english": "Vulpecula"},
+      "iau": "Vul",
       "id": "CON western_SnT Vul",
-      "lines": [["thin", 95771, 97886]]
+      "lines": [["normal", 95771, 97886]]
     }
   ],
   "fallback_to_international_names": true,
