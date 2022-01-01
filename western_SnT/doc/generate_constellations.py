@@ -264,24 +264,18 @@ class Line():
         '''
         self.vertices.append(int(hip))
 
-    def generate_paths(self, use_weight=True):
+    def get_segments(self):
         '''
-        Generate the path array for this line.
-        This will be an array of arrays.
-        If use_weight=True, then the same path array
-        will be repeated some number of times based on
-        the weight of this line:
-          4 = 1x (lightest)
-          3 = 2x
-          2 = 3x
-          1 = 4x (heaviest)
+        returns a list of segments for this line.  Each segment is
+        a 3-tuple of (start, end, weight)
         '''
-        repeat = 1
-        ret = [ [*self.vertices] ]
-        if use_weight:
-            for i in range(4 - self.weight):
-                ret.append([*self.vertices])
-        return ret
+        segments = [ ]
+        last_vertex = None
+        for v in self.vertices:
+            if last_vertex:
+                segments.append( (last_vertex, v, self.weight,) )
+            last_vertex = v
+        return segments
 
     def __str__(self):
         return f"{self.weight}[" + ",".join(f"{i}" for i in self.vertices) + "]"
@@ -340,14 +334,81 @@ if __name__ == '__main__':
     output_json = { "constellations": [ ] }
     for constellation in sorted(constellations.keys()):
         print("{} {} {} {}".format(constellation, constellation_map[constellation], len(constellations[constellation]), " ".join(f"{i}" for i in constellations[constellation])), file=sys.stderr)
-        segments = [ ]
+
+        # Start by extracting all the line segments and their weights,
+        # skipping segments we have already seen.
+        constellation_segments = [ ]
+        seen_segments = set()
         for l in constellations[constellation]:
-            segments.extend(l.generate_paths())
+            for s in l.get_segments():
+                if (s[0], s[1],) in seen_segments or (s[1], s[0],) in seen_segments:
+                    print("  Segment {},{} has been seen, skipping weight {} repeat".format(*s), file=sys.stderr)
+                    continue
+                seen_segments.add( (s[0], s[1],) )
+                constellation_segments.append(s)
+
+        # Now generate line sequences by line weight
+        constellation_lines = [ ]
+        current_weight = None
+        this_line = [ ]
+        for s in constellation_segments:
+            # 1 = bold
+            # 2 = normal
+            # 3 = normal
+            # 4 = thin
+            # 'normal' isn't an actual weight, it's just what happens if you leave off the weight specifier.
+            weight = 'normal'
+            if s[2] >= 4:
+                weight = 'thin'
+            elif s[2] <=1:
+                weight = 'bold'
+
+            if not this_line:
+                # if the current line is empty, start with this segment
+                if weight == 'normal':
+                    this_line = [ s[0], s[1] ]
+                else:
+                    this_line = [ weight, s[0], s[1] ]
+                current_weight = weight
+            elif this_line[-1] == s[0]:
+                # continue this line with the current segment
+                this_line.append(s[1])
+            elif this_line[-1] == s[1]:
+                # continue this line with the current segment
+                this_line.append(s[0])
+            elif weight != current_weight:
+                # start a new line if weights have changed
+                if this_line:
+                    constellation_lines.append(this_line)
+                if weight == 'normal':
+                    this_line = [ s[0], s[1] ]
+                else:
+                    this_line = [ weight, s[0], s[1] ]
+                current_weight = weight
+            else:
+                # start a new line if this segment has nothing in common with the current line
+                if this_line:
+                    constellation_lines.append(this_line)
+                if weight == 'normal':
+                    this_line = [ s[0], s[1] ]
+                else:
+                    this_line = [ weight, s[0], s[1] ]
+                current_weight = weight
+
+        # append the last line we processed
+        constellation_lines.append(this_line)
+
         output_json["constellations"].append({
             "id": f"CON western_SnT {constellation}",
             "common_name": NoIndent({"english":constellation_map[constellation]}),
-            "lines": NoIndent(segments)
+            "lines": NoIndent(constellation_lines),
+            "iau": constellation
         })
+
+    output_json["id"] = "western_SnT"
+    output_json["region"] = "Europe"
+    output_json["fallback_to_international_names"] = True
+    output_json["highlight"] = "CON western_SnT Ori"
 
     print(json.dumps(output_json, cls=MyEncoder, indent=2, sort_keys=True))
     sys.exit(exitval)
