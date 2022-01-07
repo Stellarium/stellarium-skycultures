@@ -12,7 +12,7 @@ The script takes the `SnT_constellations.txt` file as input on
 `STDIN` and returns the computed constellations JSON blob
 to `STDOUT`.  Diagnostic messages are printed to `STDERR`.
 
-The generated JSON blob is then manually inserted into the
+The generated JSON blob should then be ready to replace
 `index.json` file in the parent directory.
 
 The script queries the VizieR service (http://vizier.u-strasbg.fr/viz-bin/VizieR)
@@ -37,10 +37,16 @@ Sky & Telescope draws constellation lines with various line weights.
 For example, the "teaspoon" asterism to the east of the "teapot" of
 Sagittarius is drawn using lighter lines than the primary constellation.
 
-Stellarium will (eventually) draw lines with heavier weights if they
-are repeated in the constellation line data.  The generation script
-thus repeats the line paths several times (up to 4) to accurately
-render the line weights as shown in the Sky & Telescope atlases.
+Stellarium can draw lines with three weights: light, normal, and bold.
+
+We map the four Sky & Telescope line weights to Stellarium's like so:
+
+* 1 = bold
+* 2 = normal
+* 3 = normal
+* 4 = thin
+
+This results in a reasonable approximation of the Sky & Telescope figures.
 
 #### Non-constellation stars
 
