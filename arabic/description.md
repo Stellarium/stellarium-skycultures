@@ -79,162 +79,221 @@ gazelles, and the faint stars represent the young ones.
 ##### The two preceding to the water
 
 The two stars: h UMa and υ UMa, representing two men advancing to the [water
-pool](description.md#The-Pool) to fetch water to help dig the grave of the
-Na'sh, father of [Daughters of Na'sh](description.md#daughters-of-nash).
+pool](the-pool) to fetch water to help dig the grave of the
+Na'sh, father of [Daughters of Na'sh](daughters-of-nash).
 
-##### The Pool
-An incomplete circle of stars representing a water pool where [the gazelles](description.md#the-gazelles-and-thier-youngsters) drink and [two men are fetching water](description.md#the-two-preceding-to-the-water).
+##### The pool
+
+An incomplete circle of stars representing a water pool where [the
+gazelles](the-gazelles-and-their-youngsters) drink and [two men are fetching
+water](the-two-preceding-to-the-water).
 
 ##### The two wolves
-The two stars: f Dra and ω Dra, representing two wolves trying to hunt the nearby baby camel, the star HR 6618, surrounded by the [four mother camels](description.md#the-mother-camels).
+
+The two stars: f Dra and ω Dra, representing two wolves trying to hunt the
+nearby baby camel, the star HR 6618, surrounded by the [four mother
+camels](the-mother-camels).
 
 ##### The mother camels
-An irregular square of four stars, representing four mother camels protecting the baby camel, the star HR 6618, from the near by Hyena, the star ι Dra, and the [two wolves](description.md#the-two-wolves).
+
+An irregular square of four stars, representing four mother camels protecting
+the baby camel, the star HR 6618, from the near by Hyena, the star ι Dra, and
+the [two wolves](the-two-wolves).
 
 ##### The three stone support
-A triangle of three stars representing the stones that are used to hold the cooking [pot](description.md#the-pot) on wood fire.
+
+A triangle of three stars representing the stones that are used to hold the
+cooking [pot](the-pot) on wood fire.
 
 ##### The pot
-A circular shape of stars representing a cooking pot near [The three stone support](description.md#the-three-stone-support).
+
+A circular shape of stars representing a cooking pot near [The three stone
+support](the-three-stone-support).
 
 ##### The sheep
-A group of stars representing sheep with the brightest as the shepherd and the second brightest as his dog.
+
+A group of stars representing sheep with the brightest as the shepherd and the
+second brightest as his dog.
 
 ##### The spear
-The spear of [the armed one](description.md#the-armed-one).
+
+The spear of [the armed one](the-armed-one).
 
 ##### The armed one
-The star Arcturus representing a man with a [spear](description.md#the-spear).
+
+The star Arcturus representing a man with a [spear](the-spear).
 
 ##### The unarmed one
-The star Spica representing a man with no arms as opposed to [the armed one](description.md#the-armed-one).
+
+The star Spica representing a man with no arms as opposed to [the armed
+one](the-armed-one).
 
 ##### The hyenas and their youngsters
-An area where the brighter stars represent the adult hyenas, and the faint ones represent the young ones.
+
+An area where the brighter stars represent the adult hyenas, and the faint ones
+represent the young ones.
 
 ##### The bowl of the poor
-The stars of Corona Borealis. The incomplete circle represents a fractured bowl of the poor.
+
+The stars of Corona Borealis. The incomplete circle represents a fractured bowl
+of the poor.
 
 ##### The northern line
-A group of stars arranged in a line that may represent a line of trees at the northern side of [the desert garden](description.md#the-desert-garden-and-the-goats).
+
+A group of stars arranged in a line that may represent a line of trees at the
+northern side of [the desert garden](the-desert-garden-and-the-goats).
 
 ##### The southern line
-Another group of stars arranged in a line that may represent a line of trees at the southern side of [the desert garden](description.md#the-desert-garden-and-the-goats).
+
+Another group of stars arranged in a line that may represent a line of trees at
+the southern side of [the desert garden](the-desert-garden-and-the-goats).
 
 ##### The desert garden and the goats
-An area of stars representing goats with the brightest stars as the shepherd and his two dogs.
+
+An area of stars representing goats with the brightest stars as the shepherd
+and his two dogs.
 
 ##### The landing eagle
+
 The bright star Vega with two near by stars as his wings forming a triangle.
 
 ##### The flying eagle
+
 The bright star Altair with a star on each side as his spread wings.
 
 ##### The knights
-A line of five stars representing five knights with the star the Rear Knight, the bright star Deneb, behind them.
+
+A line of five stars representing five knights with the star the Rear Knight,
+the bright star Deneb, behind them.
 
 ##### The she-camel
+
 A group of stars having a shape of a camel.
 
 ##### The henna tinted hand
+
 The henna tinted hand of Al-Thurayya, the Pleiades.
 
 ##### The shoulder blade
+
 The shoulder blade of Al-Thurayya, the Pleiades.
 
 ##### The shoulder
+
 The shoulder of Al-Thurayya, the Pleiades.
 
 ##### The arm
+
 The arm of Al-Thurayya, the Pleiades.
 
 ##### The elbow
+
 The elbow of Al-Thurayya, the Pleiades.
 
 ##### The forearm
+
 The forearm of Al-Thurayya, the Pleiades.
 
 ##### The short hand
+
 The short left hand of Al-Thurayya, the Pleiades.
 
 ##### Al-Thurayya image
+
 An image of a woman with two extended hands
 
 ##### Al-Ayyuq and the posts
-Al-Ayyuq is the bright star Capella with four bright stars near by. One is his leg, and the three others are the posts. 
+
+Al-Ayyuq is the bright star Capella with four bright stars near by. One is his
+leg, and the three others are the posts.
 
 ##### Al-Thurayya
-The Pleiades, imagined as a woman loved by [Al-Dabaran](description.md#al-dabaran), the bright star Aldebaran.
+
+The Pleiades, imagined as a woman loved by [Al-Dabaran](al-dabaran), the bright
+star Aldebaran.
 
 ##### The lamb
-A group of stars in the same region of Aries but includes the Pleiades as the fatty tail of the lamb.
 
-##### Al-Dabaran
-The bright star Aldebaran representing a man who is in love with [Al-Thurayya](description.md#al-thurayya), the Pleiades, and constantly follows her.
+A group of stars in the same region of Aries but includes the Pleiades as the
+fatty tail of the lamb.
 
 ##### The lion
-A great constellation representing a lion covering a large area of the sky that extends from Canis Minor and Gemini to Virgo.
+
+A great constellation representing a lion covering a large area of the sky that
+extends from Canis Minor and Gemini to Virgo.
 
 ##### The Ostriches drinking at the river
+
 Four stars representing four Ostriches drinking at the river, the milky way.
 
 ##### The Ostriches leaving the river
-Four stars representing four Ostriches leaving the river, the milky way, after quenching their thirst.
+
+Four stars representing four Ostriches leaving the river, the milky way, after
+quenching their thirst.
 
 ##### The Ostrich nest - The necklace
-An arc of stars representing an ostrich nest near the two groups of ostriches close to the river.
+
+An arc of stars representing an ostrich nest near the two groups of ostriches
+close to the river.
 
 ##### The Ostrich nest
+
 Another ostrich nest
 
 ##### The empty place
+
 An area in the sky with no bright stars.
 
-
 ##### The lucky star of the slaughterer
+
 An asterism representing a man slaughtering a sheep.
 
 ##### The lucky star of the swallower
+
 An asterism representing a man swallowing a bite.
 
 ##### The ringed rope
+
 A circle of stars representing a rope that holds young sheep.
 
 ##### Hair braids of Al-Jawza
-The hair braids of [Al-Jawza](description.md#al-jawza).
+
+The hair braids of [Al-Jawza](al-jawza).
 
 ##### Bow of Al-Jawza
-Bow of [Al-Jawza](description.md#al-jawza) that she uses to against the nearby lion.
+
+Bow of [Al-Jawza](al-jawza) that she uses to against the nearby lion.
 
 ##### Al-Jawza
+
 A constellation representing a woman figure.
 
 ##### The oryxes
+
 An area of stars representing oryxes.
 
 ##### The tied camels
+
 A long line of stars representing tied camels.
 
 ## References
 
 - [#1]: Ibn Qutaybah, Al-Dinawarī, Abū Muḥammad ‘Abdullah b. Muslim (died ~ 889), Kitab al-Anwaʾ (Book of meteorolgy), (Arabic print of the original book, Daʾirat al-Maʿarif al-Osmania, Hydarabad, India, 1956)
-أبو محمد عبد الله بن مسلم ابن قتيبة الدينوري (توفي 276 هـ)، كتاب الأنواء في مواسم العرب، داءرة المعارف العثمانية، حيدر أباد، الهند، 1375 هـ
 - [#2]: Al-Marzūqī, Abū ʿAli Aḥmad b. Muḥammad b. al-Ḥassan (died 1030), Al-Azminah wa al-amkinah (Times and Places), (Arabic print of the original book in 2002, World of Books, Beirut, Lebanon).
-الإمام أبو علي أحمد بن محمد بن الحسن المرزوقي (توفي سنة 421 هـ)، الأزمنة والأمكنة، تحقيق د. محمد نايف الدليمي، عالم الكتب، بيروت، لبنان، 1422 هـ.
 - [#3]: Al-Thaqafī, ʿAbd Allah b. Ḥussayn b. ʿAṣim (died ~ 1012), Al-Anwāʾ wa al-azminah (Meteorology and times), (Arabic print of the original book in 1996, Dar al-jeel, Beirut, Lebanon).
-عبد الله بن حسين بن عاصم الثقفي (توفي 403 هـ)، الأنواء والأزمنة، تحقيق: د. نوري حمودي القيسي، د. محمد نايف الدليمي، دار الجيل، بيروت، لبنان، 1416 هـ.
 - [#4]: [Book of the Stars: Critical edition with commentary by Khalid al-Ajaji, digital edition, 2021 AD](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)
 - [#5]: Al-Farāhīdī, Abu Abd al-Raḥmān Al-Khalīl b. Aḥmad (died ~ 786), Kitab al-ʿAyn (The book of Arabic letter العين), (Arabic print of the original book, 1980 – 1985).
-أبو عبد الرحمن الخليل بن أحمد الفراهيدي (توفي 170 هـ)، كتاب العين، 1400 – 1405 هـ.
 - [#6]: Ferrand, Gabriel, Instructions Nautiques et Routiers Arabes et Portugais , I , Ibn Majid, 1921 -1923.
 - [#7]: Ferrand, Gabriel, Instructions Nautiques et Routiers Arabes et Portugais , II, Sulayman al-Mahri et Ibn Majid, 1925.
 - [#9]: Kunitzsch, Paul, Untersuchungen Zur Sternnomenklatur Der Araber, Otto Harrassowitz Wiesbaden, 1961
 - [#10]: Kunitzsch, Paul, The Arabs and the Stars, The Astronomer Abu'L-Husayn al-Ṣūfī And His Book on The Constellations, XI, Northampton, England: Variorum Reprints, 1989.
 
 ## Authors
+
 Khalid al-Ajaji: turath.alfalak@gmail.com
 
 ## License
+
 Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
 
-Special pemission is granted to Stellarium labs to include the licensed material 
+Special pemission is granted to Stellarium Labs to include the licensed material 
