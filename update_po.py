@@ -47,7 +47,6 @@ for id, name_data in utils.COMMON_NAMES.items():
         all_english_cn.append(nd['english'])
 all_english_cn = set(all_english_cn)
 
-
 # Generate a po translation file for the given sky culture.
 # legacy is a dict containing existing translations to merge in this po.
 def po_for_skyculture(sc, lang, team, legacy):
@@ -186,13 +185,15 @@ def po_for_skyculture(sc, lang, team, legacy):
                     po.append(entry)
     return po
 
+
 # Translate the passed markdown string using google translate
 def translate_markdown(str, lang):
     print(str)
     # Convert [#123] refs to something more google translate-friendly
     str = re.sub(r'\[#(\d+)\]', '[RefX\\1]', str)
     # Remove \n in multiline blocs to avoid confusing google translate
-    str = re.sub(r'([^\n])(\n|\n> )(?!\d+\.)([\w"\'\(\);,_\[\]–])', '\\1 \\3', str)
+    str = re.sub(r'([^\n])(\n|\n> )(?!\d+\.)([\w"\'\(\);,_\[\]–])',
+                 '\\1 \\3', str)
     if lang.startswith('zh') or lang == 'ko':
         # Remove emphasis for those languages
         str = re.sub(r'(\W)(_+?)(.+?)(_+?)(\W)', '\\1\\3\\5', str)
@@ -227,6 +228,7 @@ def translate_markdown(str, lang):
     # Re-add space after header ###, useful for asian languages
     text = re.sub(r'＃', '#', text)
     text = re.sub(r'^(#+)(?![# ])', '\\1 ', text, flags=re.MULTILINE)
+
     # Fix tables
     def remove_space(matchobj):
         return matchobj.group(0).replace(' ', '-')
@@ -261,16 +263,19 @@ def main():
         print('Processing ' + sky_culture)
         sc = utils.load_skyculture(data_path)
 
+        po_directory = os.path.join(data_path, 'po')
+        if not os.path.exists(po_directory):
+            os.makedirs(po_directory)
         langs = []
         if args.lang:
             langs = [args.lang]
             print('only in ' + langs[0])
         else:
-            for filename in os.listdir(os.path.join(data_path, 'po')):
+            for filename in os.listdir(po_directory):
                 langs.append(filename.replace('.po', ''))
         for lang in langs:
             # Load existing translations
-            current_po_path = os.path.join(data_path, 'po', '%s.po' % lang)
+            current_po_path = os.path.join(po_directory, '%s.po' % lang)
             current_po = None
             legacy = {}
             try:
