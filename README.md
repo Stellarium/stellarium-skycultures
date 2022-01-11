@@ -37,79 +37,79 @@ desktop are the following:
 ## JSON file content
 
 The main index.json file must have the following format:
-```json
+```yaml
 {
-  // Identifier of the constellation, must match the directory name and
-  // is used to generate the ids for each constellations of this sky culture.
+  # Identifier of the constellation, must match the directory name and
+  # is used to generate the ids for each constellations of this sky culture.
   "id": "western",
-  // One of "America", "Middle East", "Europe", "Asia", "Oceania"
+  # One of "America", "Middle East", "Europe", "Asia", "Oceania"
   "region": "Europe",
-  // Thumbnail image to display e.g. when showing the description for this
-  // sky culture.
+  # Thumbnail image to display e.g. when showing the description for this
+  # sky culture.
   "thumbnail": "my_thumb.webp",
-  // Additional scaling to apply to thumbnail brightness
+  # Additional scaling to apply to thumbnail brightness
   "thumbnail_bscale": 1.2,
-  // Define a highlighted constellation that can be used e.g. for preview
+  # Define a highlighted constellation that can be used e.g. for preview
   "highlight": "CON western Aql",
-  // Additional scaling to apply to illustrations brightness
+  # Additional scaling to apply to illustrations brightness
   "illustrations_bscale": 1.2,
-  // Define to true if international names must be used as fallback when no
-  // cultural name is explicitly defined for a sky object.
-  // Typically useful for variants of the western sky culture.
+  # Define to true if international names must be used as fallback when no
+  # cultural name is explicitly defined for a sky object.
+  # Typically useful for variants of the western sky culture.
   "fallback_to_international_names": true,
-  // Language which will use the native name by default to label objects rather
-  // than the translated words. For example, english speakers prefer to display
-  // "Ursa Major" rather than "Great Bear".
+  # Language which will use the native name by default to label objects rather
+  # than the translated words. For example, english speakers prefer to display
+  # "Ursa Major" rather than "Great Bear".
   "langs_use_native_names": ["en", "pt", "es"],
-  // Language used when defining native names in this file.
+  # Language used when defining native names in this file.
   "native_lang": "lat",
-  // The list of constellations
+  # The list of constellations
   "constellations": [
     {
-      // Unique ID, must start with prefix "CON id" where id is the id of
-      // the sky culture
+      # Unique ID, must start with prefix "CON id" where id is the id of
+      # the sky culture
       "id": "CON western Aql",
-      // List of lines paths. Each number is a Hipparcos star number.
-      // Optionally a line can be prefixed by "thin" or "bold" to adjust the
-      // line weight.
+      # List of lines paths. Each number is a Hipparcos star number.
+      # Optionally a line can be prefixed by "thin" or "bold" to adjust the
+      # line weight.
       "lines": [[98036, 97649, 97278], [97649, 95501, 97804], [99473, 97804], ["thin", 95501, 93747, 93244], [95501, 93805]],
-      // Image used as illustration in the sky
+      # Image used as illustration in the sky
       "image": {
         "file": "illustrations/aquila.webp",
-        // Size doesn't have to match the actual image size, it is only used
-        // as a reference when converting anchors pixel position to relative
-        // position, i.e. between 0 and 1. This allows to change images
-        // resolutions without changing the json.
+        # Size doesn't have to match the actual image size, it is only used
+        # as a reference when converting anchors pixel position to relative
+        # position, i.e. between 0 and 1. This allows to change images
+        # resolutions without changing the json.
         "size": [512, 512],
         "anchors": [
           {"pos": [163, 232], "hip": 97649},
           {"pos": [385, 131], "hip": 93244},
           {"pos": [397, 397], "hip": 93805}
         ],
-        // Thumbnail to display e.g. when constellation is selected
+        # Thumbnail to display e.g. when constellation is selected
         "thumbnail": "my_thumb.webp"
       },
-      // Common names can define the english name (the one used as reference
-      // for translations), the native name (using native spelling), and the
-      // pronounciation name, e.g. pinyin for chinese.
+      # Common names can define the english name (the one used as reference
+      # for translations), the native name (using native spelling), and the
+      # pronounciation name, e.g. pinyin for chinese.
       "common_name": {"english": "Hairy Head", "pronounce": "Mǎoxiù", "native": "昴宿"}
-      // IAU abbreviation, only used for western sky culture
+      # IAU abbreviation, only used for western sky culture
       "iau": "Aql"
     },
     ...
   ],
-  // A list of common names for sky objects (any object, not just stars).
-  // If "fallback_to_international_names" was set to true, these names will
-  // override  the international names.
-  // If "fallback_to_international_names" was set to false, these names will
-  // be the only ones displayed in the sky. In such a case it's good to add
-  // names for all main objects like planets and bright stars. 
+  # A list of common names for sky objects (any object, not just stars).
+  # If "fallback_to_international_names" was set to true, these names will
+  # override  the international names.
+  # If "fallback_to_international_names" was set to false, these names will
+  # be the only ones displayed in the sky. In such a case it's good to add
+  # names for all main objects like planets and bright stars. 
   "common_names": {
     "HIP 91262": [{"english": "The Old Woman"}],
     "HIP 21421": [{"english": "Spirit of a Polar Bear"}],
     "NAME Orion Nebula": [{"english": "Nephews or Nieces", "native": "Qangimmaariik", "description": "A group of children"}]
   },
-  // Only used for western sky culture
+  # Only used for western sky culture
   "edges": [...]
 ```
 
