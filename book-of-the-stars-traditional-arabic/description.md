@@ -35,7 +35,7 @@ Ten manuscripts of the _The Book Of The Stars_ were consulted to produce the mos
 - [#4]: [Book Of The Stars: Critical edition with commentary by Khalid al-Ajaji, digital edition, 2021](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)
 
 
-## Author
+## Authors
 Khalid al-Ajaji: turath.alfalak@gmail.com
 
 ## License

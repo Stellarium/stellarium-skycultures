@@ -10,25 +10,24 @@ The stars used for timing are the same as that of ancient Arabs, but the system 
 
 The sources show that star names and asterisms are few compared to that of ancient Arabs. Only the bright stars and prominent asterism were named and used. An important source of star knowledge that continued its influence up to the present is the poetry of al-Khalāwī, a poet who's time is not certain but estimated to be in the 17th century[^1]. Another important source is a poem by Moḥammad al-Qādhī (~1809 -1886), where he described all the 28 lunar stations, citing them by the local names[^2].
 
-#### Sources of Star Names and Asterisms
+### Sources of Star Names and Asterisms
 The source of this sky culture is a compilation of star names from oral traditions and the books listed in the [references](description.md#references).
+
 ## Constellations
 
-##### Al-Nayem - The seven - Daughters of Naʿsh
+##### Al-Nayem - The Seven - Daughters Of Na'Sh
 (Arabic النعايم), meaning is not known for certain, composed of the seven stars of the Big Dipper. other names are: _The Seven_ (Arabic السبَّع) and _Daughters of Na'sh_ (Arabic بنات نعش). The first name is common in oral poetry.
 
 ##### Al-Jawza
 Al-Jawza is a proper name for a woman. this constellation is a woman figure for the Orion stars. It is the same as that of ancient Arabs.
 
-##### The saddle of the camel
+##### The Saddle Of The Camel
 The 5 bright stars of Cassiopeia. This name is used in the western areas along the red sea of Saudi Arabia.
 
-##### The wool spindle
+##### The Wool Spindle
 The Cross shaped stars of α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr), δ Cyg, and β1 Cyg (Albireo). The source is oral tradition from the town of Zulfī in central Saudi Arabia.
 
-### Asterisms
-
-##### The two guards - The two refugees
+##### The Two Guards - The Two Refugees
 The two stars: β UMi and γ UMi. They are used for directions. 
 _The Two Guards_ comes from the legend that al-Jady (Polaris) killed the father of the seven sisters who are carrying the bier of their father (The stars of the Big Dipper) and circling al-Jady, vowing that they will not burry their father until they get revenge. Al-Jady asked these two for protection, and the name is _The two guards_.
 
@@ -145,7 +144,7 @@ The star α Car (Canopus). The name is of ancient origin.
 خالد بن عبد الله العجاجي، شرح مأثورات الخلاوي الفلكية، الرياض، المملكة العربية السعودية، 1439 هـ.
 
 
-## Author
+## Authors
 Khalid al-Ajaji: turath.alfalak@gmail.com
 
 ## License

@@ -1,47 +1,86 @@
 # Arabic
 
 ## Introduction
-The Arabic sky culture displays the indigenous star knowledge of the ancient Arabs living in the Arabian Peninsula prior to the Greek astronomy influence in the ninth century.
+
+The Arabic sky culture displays the indigenous star knowledge of the ancient
+Arabs living in the Arabian Peninsula prior to the Greek astronomy influence in
+the ninth century.
 
 ## Description
-The star knowledge of the ancient Arabs had been recorded and preserved in old poetry and in the old works of Arab philologists and lexicographers of the Islamic civilization. Many books were written on the subject of star knowledge and anwāʾ [Arabic الأنواء], the Arabic knowledge of meteorology. The editors of _Kitab al-Anwāʾ_ of Ibn Qutaybah (died ~ 889 AD) listed twenty-four books on this subject written mostly between early eighth and tenth century[^1]. The only completely preserved text is that of Ibn Qutaybah, but later scholars had quoted many of the earlier texts. One of the most significant works that recorded the indigenous Arab star names is _Book of the Stars_ written in ~ 964 by the prominent astronomer: al-Ṣūfī, where he identified the indigenous Arab star names with the respective Ptolemaic stars of the Greek constellations[^2].
+
+The star knowledge of the ancient Arabs had been recorded and preserved in old
+poetry and in the old works of Arab philologists and lexicographers of the
+Islamic civilization. Many books were written on the subject of star knowledge
+and anwāʾ [Arabic الأنواء], the Arabic knowledge of meteorology. The editors of
+_Kitab al-Anwāʾ_ of Ibn Qutaybah (died ~ 889 AD) listed twenty-four books on
+this subject written mostly between early eighth and tenth century [#1]. The
+only completely preserved text is that of Ibn Qutaybah, but later scholars had
+quoted many of the earlier texts. One of the most significant works that
+recorded the indigenous Arab star names is _Book of the Stars_ written in ~ 964
+by the prominent astronomer: al-Ṣūfī, where he identified the indigenous Arab
+star names with the respective Ptolemaic stars of the Greek constellations [#4].
 
 #### Sources of the Arabic sky culture
-The source of this sky culture is a study and compilation of star knowledge of ancient Arabs from the books listed in the [References](description.md#references) section.
 
-## Constellations
-The ancient Arabs named single stars, two stars, an area in the sky, and particular shape of a group of stars. 
-Single stars were named after a human figure or a desert animal, _Arcturus_ is _al-Simāk al-ramiḥ_, meaning: The high one with the spear. _Canopus_ is _Suhayl_, a proper name of a man. We have also stars named: _The caracal_ and _The kid_ (the young goat).
-If two stars of comparable brightness are close to each other, they are given a common name like: _The two calves_, _The two wolves_, _The two doves_.
+The source of this sky culture is a study and compilation of star knowledge of
+ancient Arabs from the books listed in the References section.
 
-Sometimes an area is named after a group of animals. The brighter stars are adult animals, and the faint ones are the young animals like: _The hyenas and their youngsters_, _The horses and the foals_.
+#### Constellations
 
-Particular shapes of stars were given names like _The scorpion_, _The lion_, _al-Jawzāʾ_ which is a proper name of a woman for Orion stars.
+The ancient Arabs named single stars, two stars, an area in the sky, and
+particular shape of a group of stars. Single stars were named after a human
+figure or a desert animal, _Arcturus_ is _al-Simāk al-ramiḥ_, meaning: The high
+one with the spear. _Canopus_ is _Suhayl_, a proper name of a man. We have also
+stars named: _The caracal_ and _The kid_ (the young goat). If two stars of
+comparable brightness are close to each other, they are given a common name
+like: _The two calves_, _The two wolves_, _The two doves_.
+
+Sometimes an area is named after a group of animals. The brighter stars are
+adult animals, and the faint ones are the young animals like: _The hyenas and
+their youngsters_, _The horses and the foals_.
+
+Particular shapes of stars were given names like _The scorpion_, _The lion_,
+_al-Jawzāʾ_ which is a proper name of a woman for Orion stars.
 
 Other asterisms are given names according to legends and stories.
 
-The list here is not inclusive, but only of asterisms and constellations that needs extra description.
+## Constellations
 
 ##### The axe of the grindstone
-Fish shaped two arcs of stars joined at the ends by α UMi and β UMi, named as the axe of the grindstone because it revolves around the north stellar pole.
+
+Fish shaped two arcs of stars joined at the ends by α UMi and β UMi, named as
+the axe of the grindstone because it revolves around the north stellar pole.
 
 ##### Daughters of Na'sh
-The 7 stars of the big dipper, representing 7 girls carrying the bier of their father who was killed by Al-Jady (Polaris).
+
+The 7 stars of the big dipper, representing 7 girls carrying the bier of their
+father who was killed by Al-Jady (Polaris).
 
 ##### The first leap
-The track of the first leap of the gazelles fleeing the nearby lion, represented by the two stars: ν UMa and ξ UMa.
+
+The track of the first leap of the gazelles fleeing the nearby lion,
+represented by the two stars: ν UMa and ξ UMa.
 
 ##### The second leap
-The track of the first leap of the gazelles represented by the two stars: λ UMa and μ UMa.
+
+The track of the first leap of the gazelles represented by the two stars: λ UMa
+and μ UMa.
 
 ##### The third leap
-The track of the first leap of the gazelles represented by the two stars: ι UMa and κ UMa.
+
+The track of the first leap of the gazelles represented by the two stars: ι UMa
+and κ UMa.
 
 ##### The Gazelles and their youngsters
-An area between Ursa Major and Leo, where the brighter stars are the adult gazelles, and the faint stars represent the young ones.
+
+An area between Ursa Major and Leo, where the brighter stars are the adult
+gazelles, and the faint stars represent the young ones.
 
 ##### The two preceding to the water
-The two stars: h UMa and υ UMa, representing two men advancing to the [water pool](description.md#The-Pool) to fetch water to help dig the grave of the Na'sh, father of [Daughters of Na'sh](description.md#daughters-of-nash).
+
+The two stars: h UMa and υ UMa, representing two men advancing to the [water
+pool](description.md#The-Pool) to fetch water to help dig the grave of the
+Na'sh, father of [Daughters of Na'sh](description.md#daughters-of-nash).
 
 ##### The Pool
 An incomplete circle of stars representing a water pool where [the gazelles](description.md#the-gazelles-and-thier-youngsters) drink and [two men are fetching water](description.md#the-two-preceding-to-the-water).
@@ -177,36 +216,25 @@ An area of stars representing oryxes.
 A long line of stars representing tied camels.
 
 ## References
+
 - [#1]: Ibn Qutaybah, Al-Dinawarī, Abū Muḥammad ‘Abdullah b. Muslim (died ~ 889), Kitab al-Anwaʾ (Book of meteorolgy), (Arabic print of the original book, Daʾirat al-Maʿarif al-Osmania, Hydarabad, India, 1956)
-
 أبو محمد عبد الله بن مسلم ابن قتيبة الدينوري (توفي 276 هـ)، كتاب الأنواء في مواسم العرب، داءرة المعارف العثمانية، حيدر أباد، الهند، 1375 هـ
-
 - [#2]: Al-Marzūqī, Abū ʿAli Aḥmad b. Muḥammad b. al-Ḥassan (died 1030), Al-Azminah wa al-amkinah (Times and Places), (Arabic print of the original book in 2002, World of Books, Beirut, Lebanon).
-
 الإمام أبو علي أحمد بن محمد بن الحسن المرزوقي (توفي سنة 421 هـ)، الأزمنة والأمكنة، تحقيق د. محمد نايف الدليمي، عالم الكتب، بيروت، لبنان، 1422 هـ.
 - [#3]: Al-Thaqafī, ʿAbd Allah b. Ḥussayn b. ʿAṣim (died ~ 1012), Al-Anwāʾ wa al-azminah (Meteorology and times), (Arabic print of the original book in 1996, Dar al-jeel, Beirut, Lebanon).
-
 عبد الله بن حسين بن عاصم الثقفي (توفي 403 هـ)، الأنواء والأزمنة، تحقيق: د. نوري حمودي القيسي، د. محمد نايف الدليمي، دار الجيل، بيروت، لبنان، 1416 هـ.
-
 - [#4]: [Book of the Stars: Critical edition with commentary by Khalid al-Ajaji, digital edition, 2021 AD](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)
 - [#5]: Al-Farāhīdī, Abu Abd al-Raḥmān Al-Khalīl b. Aḥmad (died ~ 786), Kitab al-ʿAyn (The book of Arabic letter العين), (Arabic print of the original book, 1980 – 1985).
-
 أبو عبد الرحمن الخليل بن أحمد الفراهيدي (توفي 170 هـ)، كتاب العين، 1400 – 1405 هـ.
-
 - [#6]: Ferrand, Gabriel, Instructions Nautiques et Routiers Arabes et Portugais , I , Ibn Majid, 1921 -1923.
-
 - [#7]: Ferrand, Gabriel, Instructions Nautiques et Routiers Arabes et Portugais , II, Sulayman al-Mahri et Ibn Majid, 1925.
-
 - [#9]: Kunitzsch, Paul, Untersuchungen Zur Sternnomenklatur Der Araber, Otto Harrassowitz Wiesbaden, 1961
 - [#10]: Kunitzsch, Paul, The Arabs and the Stars, The Astronomer Abu'L-Husayn al-Ṣūfī And His Book on The Constellations, XI, Northampton, England: Variorum Reprints, 1989.
 
-## Author
+## Authors
 Khalid al-Ajaji: turath.alfalak@gmail.com
 
 ## License
 Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
 
 Special pemission is granted to Stellarium labs to include the licensed material 
-
-[^1]: Ibn Qutaybah, Kitāb al-Anwāʾ, (Arabic print of the original book, Daʾirat al-Maʿarif al-Osmania, Hydarabad, India, 1956), pg. يد.
-[^2]: [Book of the Stars: Critical edition with commentary by Khalid AlAjaji, digital edition](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)

@@ -57,7 +57,7 @@ The single source of the sky culture is the _The book of the stars_ and the aim 
 
 - [#7]: Toomer, G. J., Ptolemy’s ALMAGEST, Princeton University Press, 2nd ed., 1998.
 
-## Author
+## Authors
 Khalid al-Ajaji: turath.alfalak@gmail.com
 
 ## License

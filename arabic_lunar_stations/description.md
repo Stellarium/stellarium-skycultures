@@ -1,22 +1,59 @@
 # Arabic (Lunar Stations)
 
 ## Introduction
-The Arabic lunar stations describes the 28 sky areas chosen in ancient Arabia to define the daily location of the moon during its monthly trip around the sky.
+
+The Arabic lunar stations describes the 28 sky areas chosen in ancient Arabia
+to define the daily location of the moon during its monthly trip around the
+sky.
 
 ## Description
 
 #### Historical Overview
-Originally, _Manazil al-Qamar_, the Arabic for the lunar mansions, or stations of the moon, were a system of 28 stars, group of stars, or spots in the sky near which the moon can be found in each of the 28 nights of its monthly revolution. Early mentions of the complete list of the lunar stations are reported by ʿAbd al-Malik ibn Ḥabīb (d. 852) on the authority of Malik ibn Anas (d. 795) [^1]. However, this system had been adopted already in the pre-Islamic period, prior to the 7th century of the common era.
 
-Using heliacal observations, the asterisms of the lunar mansions served to divide the sidereal and solar year of 365 days into 28 periods of 13 days each except for one period that is given 14 days. These 28 periods are called _anwāʾ_, plural of _nawʾ_. Each _nawʾ_ is determined by a characteristical star: when this star rises in the morning during dawn (in the east, so, shortly before the Sun), this is the beginning of the next _nawʾ_. The name of the _nawʾ_ (period of time, half month), gives the lunar mansion its name. One complete cycle of setting and rising for each of the 28 lunar mansions, one after the other, makes a solar year. This system was used to determine the seasons and predict weather, especially rain [^2]. The Arabs said: each _nawʾ_ (period of 13/14 days) is characterized by a distinctive weather pattern of rain, wind, and temperature [^4].
+Originally, _Manazil al-Qamar_, the Arabic for the lunar mansions, or stations
+of the moon, were a system of 28 stars, group of stars, or spots in the sky
+near which the moon can be found in each of the 28 nights of its monthly
+revolution. Early mentions of the complete list of the lunar stations are
+reported by ʿAbd al-Malik ibn Ḥabīb (d. 852) on the authority of Malik ibn Anas
+(d. 795) [^1]. However, this system had been adopted already in the pre-Islamic
+period, prior to the 7th century of the common era.
 
-A detailed description of the stars of each lunar mansion, the times of their heliacal rising and a compilation of astronomical and meteorological knowledge of the ancient Arabs can be found in the _Book of al-anwaʾ_, authored by Ibn Qutaybah (b. 828 - d. 884 or 889). Copies of this book manuscripts survived, and it was printed in India in 1956 [^5].
+Using heliacal observations, the asterisms of the lunar mansions served to
+divide the sidereal and solar year of 365 days into 28 periods of 13 days each
+except for one period that is given 14 days. These 28 periods are called
+_anwāʾ_, plural of _nawʾ_. Each _nawʾ_ is determined by a characteristical
+star: when this star rises in the morning during dawn (in the east, so, shortly
+before the Sun), this is the beginning of the next _nawʾ_. The name of the
+_nawʾ_ (period of time, half month), gives the lunar mansion its name. One
+complete cycle of setting and rising for each of the 28 lunar mansions, one
+after the other, makes a solar year. This system was used to determine the
+seasons and predict weather, especially rain [^2]. The Arabs said: each _nawʾ_
+(period of 13/14 days) is characterized by a distinctive weather pattern of
+rain, wind, and temperature [^4].
 
-The usage of the lunar mansions continued to schedule the times of agricultural, travel and medicine practices.
-Due to the importance of observing the times of their heliacal risings, short treatises have been written, and poems have been composed describing the asterisms of the 28 mansions. A poem dedicated to description of the stars of the lunar mansions was published by Gustave-Adolphe de Calassanti-Motylinski in 1899 in his book "Les mansions lunaires chez les Arabes", attributed to Muḥammad al-Muqrī (1578-1638) [^6][^7]. A sample treatise is the one written by Shaykh Ṣāliḥ al-Shuthrī (d. ~1891), titled "A time-table for farmers" [^8].
+A detailed description of the stars of each lunar mansion, the times of their
+heliacal rising and a compilation of astronomical and meteorological knowledge
+of the ancient Arabs can be found in the _Book of al-anwaʾ_, authored by Ibn
+Qutaybah (b. 828 - d. 884 or 889). Copies of this book manuscripts survived,
+and it was printed in India in 1956 [^5].
+
+The usage of the lunar mansions continued to schedule the times of
+agricultural, travel and medicine practices. Due to the importance of observing
+the times of their heliacal risings, short treatises have been written, and
+poems have been composed describing the asterisms of the 28 mansions. A poem
+dedicated to description of the stars of the lunar mansions was published by
+Gustave-Adolphe de Calassanti-Motylinski in 1899 in his book "Les mansions
+lunaires chez les Arabes", attributed to Muḥammad al-Muqrī (1578-1638)
+[^6][^7]. A sample treatise is the one written by Shaykh Ṣāliḥ al-Shuthrī (d.
+~1891), titled "A time-table for farmers" [^8].
 
 #### Current Usage of Lunar Stations
-Agricultural almanacs based on the heliacal rising of lunar stations are still in active use today. The official calendar of Saudi Arabia includes these times [^9]. The following is an example of the use of a calendar based on the lunar stations for the 13 days period starting with the rise of the 3rd lunar station _al-Thurayya_ (Pleiades) on June 7th:
+
+Agricultural almanacs based on the heliacal rising of lunar stations are still
+in active use today. The official calendar of Saudi Arabia includes these times
+[^9]. The following is an example of the use of a calendar based on the lunar
+stations for the 13 days period starting with the rise of the 3rd lunar station
+_al-Thurayya_ (Pleiades) on June 7th:
 
 >Weather gets hotter and wind gets stronger. Wild grasses dry. Water in wells gets shallower. Rain is rare during this time. Spring insects start to disappear. Palm tree dates starts to get its colors. It is recommended to irrigate trees with the right amounts and stop irrigation of vines when grapes start to get its color. [^10]
 
@@ -113,6 +150,7 @@ Three stars in a line forming the belt of [Al-Jawza](https://github.com/kajaji/s
 A constellation representing a woman figure.
 
 #### References
+
 The source of this sky culture is a compilation of star knowledge of ancient Arabs from the following books:
 - [#1]: Ibn Qutaybah, Al-Dinawarī, Abū Muḥammad ʿAbd Allah b. Muslim (died ~ 889), Kitāb al-anwāʾ (Book of meteorolgy), (Arabic print of the original book, Daʾirat al-Maʿārif al-Osmānia, Hydarabad, India, 1956)
 
@@ -128,7 +166,7 @@ The source of this sky culture is a compilation of star knowledge of ancient Ara
 
 - [#4]: [Book of the stars: Critical edition with commentary by Khalid al-Ajaji, digital edition, 2021](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)
 
-## Author
+## Authors
 Khalid al-Ajaji: turath.alfalak@gmail.com
 
 ## License
