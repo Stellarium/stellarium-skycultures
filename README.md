@@ -37,7 +37,7 @@ desktop are the following:
 ## JSON file content
 
 The main index.json file must have the following format:
-```
+```json
 {
   // Identifier of the constellation, must match the directory name and
   // is used to generate the ids for each constellations of this sky culture.
