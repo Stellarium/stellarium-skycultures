@@ -147,7 +147,7 @@ father who was killed by Al-Jady (Polaris).
 ##### The two wolves
 
 The two stars: f Dra and ω Dra, representing two wolves trying to hunt the
-nearby baby camel, the star HR 6618, surrounded by the [four mother camels](the-mother-camels).
+nearby baby camel, the star HR 6618, surrounded by the four mother camels.
 
 ##### The mother camels
 
@@ -166,15 +166,15 @@ A group of stars having a shape of a camel.
 
 ##### The bucket rope knot - The well poles
 
-Two adjacent stars imagined as the knot of [the rope of the well bucket](the-well-bucket-rope)
+Two adjacent stars imagined as the knot of the rope of the well bucket
 
 ##### Retracted arm [of the lion]
 
-Two stars representing the end of the shorter arm of the [great Arab lion](the-lion) image.
+Two stars representing the end of the shorter arm of the great Arab lion image.
 
 ##### The extended arm [of the lion]
 
-Two stars representing the end of the longer arm of the [great Arab lion](the-lion) image.
+Two stars representing the end of the longer arm of the great Arab lion image.
 
 ##### The ostriches drinking at the river
 
@@ -192,7 +192,7 @@ close to the river.
 
 ##### The string
 
-Three stars in a line forming the belt of [Al-Jawza](al-jawza).
+Three stars in a line forming the belt of al-Jawza.
 
 ##### Al-Jawza
 
@@ -207,7 +207,7 @@ A constellation representing a woman figure.
  - [#5]: Helaine Selin, Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures, Ibn Qutayba, Kunitzsch P. p 429
  - [#6]: Taʿrīf manāzil al-qamar, Les mansions lunaires des Arabes; Muhammad al-Mukrī.; A de Calassanti-Motylinski published in Alger, Imprimerie orientale, 1899.
  - [#7]: [Muhammad al-Muqrī poem](http://www.uranos.fr/DOCU_03_T03.htm)
- - [#8]: Ṣaliḥ Al-Shethrī, Timetable for farmers _Jadwal fi ʿilm al-ḥarth ʿala ḥisāb al-shuthūr_ (جدول في علم الحرث على حساب الشثور) ISBN 9960-49-971-5
+ - [#8]: Ṣaliḥ Al-Shethrī, Timetable for farmers _Jadwal fi ʿilm al-ḥarth ʿala ḥisāb al-shuthūr_ ISBN 9960-49-971-5
  - [#9]: [Official Calendar](http://www.ummulqura.org.sa/) of the Kingdom of Saudi Arabia
  - [#10]: Moon stations and Agriculture seasons. A bulletin by the Agriculture Administration of the Chamber of Commerce in Riyadh, Saudi Arabia. 2002
  - [#11]: [Book Of The Stars: Critical edition with commentary by Khalid AlAjaji](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).
