@@ -1,11 +1,11 @@
-# Book Of The Stars (Almagest)
+# Al-Sufi
 
 ## Introduction
 
-This sky culture reflects Ptolemy Almagest constellations and tables of _Book
-Of The Stars_ (Arabic:كتاب الكواكب), written by the astronomer: Al-Ṣūfī in the
-10th century. The book describes the 1025 stars of the 48 classical Greek
-constellations and map to them the indigenous Arab star names and asterisms.
+This sky culture reflects _Book Of The Stars_ (Arabic:كتاب الكواكب), 
+written by the astronomer: Al-Ṣūfī in the 10th century. The book describes 
+the 1025 stars of the 48 classical Greek constellations of Ptolemy Almagest and 
+map to them the indigenous Arab star names and asterisms. 
 
 ## Description
 
@@ -34,38 +34,14 @@ Kunitzsch, al-Ṣūfī would identify stars within the 6 magnitudes that were
 neglected by Ptolemy, but he did not catalogue them and was faithful to Ptolemy
 star catalog.
 
-An important aspect of the general discussion section of each constellation is
-al-Ṣūfī method of facilitating the star identification. He describes each
-individual star in more than one way: By the star position related to the
-constellation figure, by its magnitude, by the asterism it forms with other
-stars like a triangle or an arc shape, sometimes by the star position related
-to the Milky way, and by the angular distance from a close by star. I have
-counted more than 700 angular distances measured by al-Ṣūfī in his book. The
-units he uses for angular distances are cubits, spear length, man-height, span,
-and finger. Al-Ṣūfī explicitly said in his book that a cubit is equal to two
-degrees and 20 minutes. For the other units, Schjellerup concluded some
-values, but tracking the 700 measurements, I came up with different ones. The
-following table summarizes the units and relationship to the cubit value from
-Schjellerup[#3] and from my research.
-
-### Angular distance units used by al-Ṣūfī
-
-|   |Schjellerup||Khalid|| 
-|----|------|------|-------------|-------------|
-|unit|cubits|Angular Value|cubits|Angular Value|
-|spear|6 cubits|14°|6 cubits|14°|
-|Man-Height|||3 cubits|7°|
-|cubit|1 cubit|2°20'|1 cubit|2°20'|
-|span|1/3 of a cubit|47'|1/2 of a cubit|1°10'|
-|finger|1/32 of a cubit|4.4'|1/16 of a cubit|8.75'|
-
-### Constellations
-
-The sky culture contains the 48 Greek constellations listed by Ptolemy in the
-Almagest plus three constellations imagined by al-Ṣūfī and were illustrated in
-his book.
-
-### Compilation of the sky culture
+An important aspect of al-Ṣūfī book is his record of the indigenous Arabic star
+names falling under each constellation, and the exact identification of the
+respective stars with the corresponding Ptolemaic stars. This means that we are
+looking at two layers of stars knowledge at the same time: the Ptolemaic one
+and the indigenous Arab one. The Ptolemaic layer is represented in this sky
+culture by the images of the classical Greek constellations, while the
+indigenous Arab star knowledge layer is represented by indigenous Arab 
+names of stars and asterisms. 
 
 This sky culture is a result of research done on manuscripts of al-Ṣūfī book,
 oldest of which is the [Oxford, Bodleian Library Ms. Marsh 144 dated 1009
@@ -79,6 +55,15 @@ and identified as mapped by al-Ṣūfī to the Ptolemaic ones. All the previous
 steps were included in a book published digitally of the _The Book Of The
 Stars_ plus explanations and commentary by Khalid al-Ajaji, the author of this
 sky culture[#4].
+
+The single source of the sky culture is the _The book of the stars_ and the aim
+is to give a faithful representation of the book content.
+
+### Constellations
+
+The sky culture contains the 48 Greek constellations listed by Ptolemy in the
+Almagest plus three constellations imagined by al-Ṣūfī and were illustrated in
+his book.
 
 The sky culture art images of the constellations were extracted from the Ulugh
 Beg manuscript of the _The Book Of The Stars_, and adapted for Stellarium by
@@ -97,9 +82,6 @@ The translation of star descriptions from Arabic into English was extracted
 from Ernie Wright website[#6] which was transcribed from Toomer's translation
 of the Almagest[#7]. The translation was modified in a few places to agree with
 al-Ṣūfī wording.
-
-The single source of the sky culture is the _The book of the stars_ and the aim
-is to give a faithful representation of the book content.
 
 ## References
 
