@@ -24,7 +24,7 @@ Arab star names with the respective Ptolemaic stars of the Greek constellations
 The source of this sky culture is a study and compilation of star knowledge of 
 ancient Arabs from the books listed in the References section.
 
-## Constellations
+### Constellations
 
 The ancient Arabs named single stars, two stars, an area in the sky, and 
 particular shape of a group of stars. Single stars were named after a human 
@@ -42,6 +42,8 @@ Particular shapes of stars were given names like _The scorpion_, _The lion_,
 _al-Jawzāʾ_ which is a proper name of a woman for Orion stars.
 
 Other asterisms are given names according to legends and stories.
+
+## Constellations
 
 ##### The axe of the grindstone
 
