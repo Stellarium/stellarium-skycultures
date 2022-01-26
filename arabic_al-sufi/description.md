@@ -1,11 +1,11 @@
-# Al-Sufi
+# Arabic (Al-Sufi)
 
 ## Introduction
 
 This sky culture reflects _Book Of The Stars_ (Arabic:كتاب الكواكب), 
 written by the astronomer: Al-Ṣūfī in the 10th century. The book describes 
-the 1025 stars of the 48 classical Greek constellations of Ptolemy Almagest and 
-map to them the indigenous Arab star names and asterisms. 
+the 1025 stars of the 48 classical Greek constellations of Ptolemy Almagest, 
+map to them the indigenous Arab star names and asterisms, and identify 44 stars as stars of the astrolabe. 
 
 ## Description
 
@@ -38,10 +38,13 @@ An important aspect of al-Ṣūfī book is his record of the indigenous Arabic s
 names falling under each constellation, and the exact identification of the
 respective stars with the corresponding Ptolemaic stars. This means that we are
 looking at two layers of stars knowledge at the same time: the Ptolemaic one
-and the indigenous Arab one. The Ptolemaic layer is represented in this sky
-culture by the images of the classical Greek constellations, while the
-indigenous Arab star knowledge layer is represented by indigenous Arab 
-names of stars and asterisms. 
+and the indigenous Arab one. 
+
+Al-Sufi also selected 44 stars to be used in the astrolabe. The names he 
+designated for these stars are a mix of indigenous Arabic star names like "The 
+flying eagle", and names derived from the position of the sta in the Ptolemaic 
+constellation like "Leg of Centaurus". 
+
 
 This sky culture is a result of research done on manuscripts of al-Ṣūfī book,
 oldest of which is the [Oxford, Bodleian Library Ms. Marsh 144 dated 1009
@@ -65,23 +68,13 @@ The sky culture contains the 48 Greek constellations listed by Ptolemy in the
 Almagest plus three constellations imagined by al-Ṣūfī and were illustrated in
 his book.
 
-The sky culture art images of the constellations were extracted from the Ulugh
-Beg manuscript of the _The Book Of The Stars_, and adapted for Stellarium by
-Mr. Kutaibaa Akraa [#5]. The star names list includes the star number in the
-constellation as the primary star name and the description of the star in the
-tables as a secondary name. For example, Polaris primary name that is displayed
-with the star is: UMi 1, UMi being Ursa Minor and 1 is the first star of this
-constellation. If the star is selected other secondary names are displayed,
-which will display _The star on the end of the tail_, the description of this
-star as it appears in Almagest tables. The constellation lines are constructed
-according to the constellation shapes with an attempt to include most of the
-member stars. For indigenous Arab star knowledge, individual star names were
-added to the star definition as secondary names.
-
-The translation of star descriptions from Arabic into English was extracted
-from Ernie Wright website[#6] which was transcribed from Toomer's translation
-of the Almagest[#7]. The translation was modified in a few places to agree with
-al-Ṣūfī wording.
+The sky culture art images of the constellations were extracted from the Ulugh 
+Beg manuscript of the _The Book Of The Stars_, and adapted for Stellarium by Mr. 
+Kutaibaa Akraa [#5]. The constellation lines are constructed according to the 
+constellation shapes with an attempt to include most of the member stars. Star 
+names are the names given by al-Sufi to the astrolabe stars in his book, a total 
+of 44 stars plus indigenous Arab names of famous stars in the northern part of 
+the sky found in the constellations of Ursa Minor, Ursa Major, and Draco. 
 
 ## References
 

@@ -1,4 +1,4 @@
-# Arabic
+# Arabic (Ancient)
 
 ## Introduction
 

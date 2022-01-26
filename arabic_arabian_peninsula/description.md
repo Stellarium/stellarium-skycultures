@@ -1,4 +1,4 @@
-# Arabian Peninsula
+# Arabic (Arabian Peninsula)
 
 ## Introduction
 
