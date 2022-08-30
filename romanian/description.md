@@ -19,9 +19,8 @@ geographical space, there was also a repositioning in the sky: Christian and
 pre-Christian elements and constellations are associated with cosmogonical and
 theogonical myths, so that the sky is seen more like a church.
 
-3. The origin of the Romanian people: this people was formed after the conquest
-of Dacia by the Romans. Dramatic scenes from this history of Dacians mixing
-with the Romans are projected in the sky.
+3. The origin of the Romanian people: historical scenes from the conquest of
+Dacia by the Romans are projected in the sky.
 
 One of the differences between the Romanian and the modern sky culture is in
 the constellation of Orion, the Hunter. There are four traditional Romanian
