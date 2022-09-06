@@ -266,7 +266,7 @@ def main():
         po_directory = os.path.join(data_path, 'po')
         if not os.path.exists(po_directory):
             os.makedirs(po_directory)
-        langs = []
+        langs = utils.OFFICIAL_LANGS.copy()
         if args.lang:
             langs = [args.lang]
             print('only in ' + langs[0])
@@ -278,6 +278,7 @@ def main():
             current_po_path = os.path.join(po_directory, '%s.po' % lang)
             current_po = None
             legacy = {}
+            team = ''
             try:
                 current_po = polib.pofile(current_po_path)
                 team = current_po.metadata['Language-Team']
