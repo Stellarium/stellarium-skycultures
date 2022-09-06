@@ -198,7 +198,7 @@ Three stars in a line forming the belt of al-Jawza.
 
 A constellation representing a woman figure.
 
-#### References
+## References
 
  - [#1]: Kunitzsch, Paul, The Arabs and the Stars, Northampton, England: Variorum Reprints, 1989, Al-Manazil, Item XX pp 1-7.
  - [#2]: Helaine Selin, Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures, Lunar Mansions in Islamic History, Kunitzsch P. p 520
