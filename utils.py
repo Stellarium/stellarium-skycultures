@@ -18,8 +18,8 @@ import uuid
 DIR = os.path.abspath(os.path.dirname(__file__))
 
 # Languages officially supported by SWE
-OFFICIAL_LANGS = ['ar', 'de', 'es', 'fr', 'it', 'ja', 'ko', 'pl', 'pt', 'ru',
-                  'zh_TW', 'zh_CN', 'cs', 'nl']
+OFFICIAL_LANGS = ["ar", "cs", "de", "es", "fil", "fr", "id", "it", "ja", "ko",
+                  "nl", "pl", "pt", "ru", "tr", "zh_CN", "zh_TW"]
 
 
 def get_common_names():
