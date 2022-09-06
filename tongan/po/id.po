@@ -11,13 +11,15 @@ msgstr ""
 
 # Sky culture name
 msgid "Tongan"
-msgstr ""
+msgstr "Tonga"
 
 # Sky culture introduction section in markdown format
 msgid ""
 "As in all Polynesian star lore, Tongan sky culture descends from the practical\n"
 "application of nautical navigation."
 msgstr ""
+"Seperti dalam semua pengetahuan bintang Polinesia, budaya langit Tonga "
+"diturunkan dari aplikasi praktis navigasi laut."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -44,6 +46,11 @@ msgid ""
 "which Tongan island group it originates from. The nomenclature of stars is\n"
 "approximated based on the limited resources available."
 msgstr ""
+"Sementara bintang dan konstelasi yang paling terkenal/umum (yaitu Orion, Pleiades, Crux) diidentifikasi dalam pengetahuan bintang Tonga, ada dua pengecualian penting. Tidak adanya penamaan bintang Utara (Polaris: UMi). Ini aneh mengingat garis lintang pulau Tonga dan keunggulan bintang ini pada waktu-waktu tertentu dalam setahun. Jika ada perjalanan ke utara dari Tonga, landmark navigasi yang begitu penting tidak mungkin luput dari perhatian. Rasi bintang Scorpio (bagian dalam, atau bintang) juga tidak ada dalam pengetahuan bintang Tonga. Ini mengejutkan karena sebagian besar pengetahuan bintang - secara global dan Polinesia - memiliki Scorpio sebagai konstelasi pusat karena mudah diidentifikasi dan hampir berseberangan langsung dengan Orion di langit malam. Tim Stellarium akan menyambut baik pengetahuan lebih lanjut tentang dua anomali ini.\n"
+"\n"
+"Nenek moyang yang sama dari pengetahuan bintang Polinesia terbukti dalam kesamaan dalam penamaan bintang. Misalnya Pleiades disebut _Mataliki_ dalam bahasa Tonga, _Matariki_ dalam bahasa Maori dan _Makali'i_ dalam bahasa Hawaii.\n"
+"\n"
+"Dalam beberapa keadaan pemisahan nama bintang individu dari nama \"jalur bintang\" tidak dapat diselesaikan. Sebuah bintang dapat memiliki beberapa nama 1) jika bintang tersebut merupakan bagian dari banyak jalur bintang dan 2) karena penamaan bintang dapat berbeda tergantung dari kelompok pulau Tonga mana asalnya. Nomenklatur bintang diperkirakan berdasarkan sumber daya terbatas yang tersedia."
 
 # Sky culture extras section in markdown format
 msgid ""
@@ -90,6 +97,48 @@ msgid ""
 " | Fungasia | Toliman and/or Agena |\n"
 " | Houmatoloa (Toloa, toloatonga, toloalahi) | — |"
 msgstr ""
+"### Nomenklatur\n"
+"\n"
+" | Istilah Tonga | Penunjukan |\n"
+" |-------------|-------|\n"
+" | Hum | Karung batubara |\n"
+" | Kaniva | Bima Sakti |\n"
+" | Ma'afulele | Awan Magellan besar |\n"
+" | Ma'afutoka | Awan Magellan kecil |\n"
+" | 'otu Ma'afu | Awan Magellan (keduanya) |\n"
+" | Ha'amonga | Ekliptika |\n"
+" | Mahana | Bulan |\n"
+" | Laa | Matahari |\n"
+" | Tapukitea | Venus |\n"
+" | Matamemea | Mars |\n"
+" | Fetu'u | Bintang (secara umum) |\n"
+" | Fetu'ufuka | Komet |\n"
+" | 'Umata | Pelangi |\n"
+" | Fetu'u'Esiafi | Bintang jatuh |\n"
+" | Ma'afutoka (sama dengan SMC) | Kanopi |\n"
+" | Ma'afulele (sama dengan LMC) | Sirius |\n"
+" | Velitoa hififo | Rigel |\n"
+" | Velitoa hahake | Betelgue |\n"
+" | Hikule'o | Arcturus |\n"
+" | Monafe | Meisa |\n"
+" | Motuliki | Pleiades |\n"
+" | Tu'ulape | Hyades |\n"
+" | Toloatonga | Salib Selatan |\n"
+" | Toloalahi | Salib Palsu |\n"
+"\n"
+"\n"
+"### Rasi bintang Tonga\n"
+"\n"
+" | Nama Tonga | Penunjukan atau catatan |\n"
+" |-------------|-------|\n"
+" | Tuinga ika | Bagian dari Orion, sabuk dan pedang |\n"
+" | Ae e'Uvea | Corona Borealis ( _Speculative_ ) |\n"
+" | Fatanalua | Koma Berenices ( _Speculative_ ) |\n"
+" | Kapakau'o'tafahi | Cassiopeia ( _Speculative_ ) |\n"
+" | Toloa | Sabuk Orion |\n"
+" | Lua tangata | Jarak dan/atau Pollux |\n"
+" | Fungasia | Toliman dan/atau Agena |\n"
+" | Houmatoloa (Toloa, toloatonga, toloalahi) | — |"
 
 # Sky culture references section in markdown format
 msgid ""
@@ -97,6 +146,9 @@ msgid ""
 " - [#2]: T.H Fale, _Tongan astronomy_, 1990 Polynesian Eyes foundation, Nuku'alofa, TongaChoice printing.\n"
 " - [#3]: E. E. V. Collocott, _Tongan astronomy and calendar_, 1992 Occasional Papers of the Bernice Pauahi Bishop Museum of Polynesian ethnology and Natural History, Vol. 8, No. 4 Honolulu, Hawaii, Bishop Museum Press 1922, p. 157-173."
 msgstr ""
+" - [#1]: Velt Kik, _Ko E Ngaahi fetu'u 'o, Bintang di atas tonga_, 1990 'Universitas Atenisi, Nuku'alofa , departemen percetakan Pemerintah Tonga.\n"
+" - [#2]: T.H Fale, _Tongan astronomi_, 1990 Polynesian Eyes foundation, Nuku'alofa, TongaChoice printing.\n"
+" - [#3]: E. E. V. Collocott, _Astronomi dan kalender Tonga_, 1992 Makalah Berkala dari Museum Etnologi dan Sejarah Alam Polinesia Uskup Bernice Pauhi, Vol. 8, No. 4 Honolulu, Hawaii, Bishop Museum Press 1922, hlm. 157-173."
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -105,51 +157,54 @@ msgid ""
 "\n"
 "Technical adaption: Susanne M Hoffmann"
 msgstr ""
+"Budaya langit ini disumbangkan oleh pengguna Stellarium [Dan Smale](d.smale@niwa.co.nz)\n"
+"\n"
+"Adaptasi teknis: Susanne M Hoffmann"
 
 # Sky culture license section in markdown format
 msgid "CC BY-SA"
-msgstr ""
+msgstr "CC BY-SA"
 
 # Tongan constellation, native: Toloatonga
 msgid "Southern Wild Duck"
-msgstr ""
+msgstr "Bebek Liar Selatan"
 
 # Tongan constellation, native: Lua tangata
 msgid "Two Men"
-msgstr ""
+msgstr "Dua Pria"
 
 # Tongan constellation, native: Toloa
 msgid "Wild Duck"
-msgstr ""
+msgstr "Bebek liar"
 
 # Tongan constellation, native: Tu'ulalupe
 msgid "Pigeon Perch"
-msgstr ""
+msgstr "Merpati Bertengger"
 
 # Tongan constellation, native: Toloalahi
 msgid "Big Wild Duck"
-msgstr ""
+msgstr "Bebek Liar Besar"
 
 # Tongan constellation, native: Fungasia
 msgid "Mound Top"
-msgstr ""
+msgstr "Puncak gundukan"
 
 # Tongan constellation, native: Tuinga ika
 msgid "String of fishes"
-msgstr ""
+msgstr "untaian ikan"
 
 # Tongan constellation, native: Houmatoloa
 msgid "Wild Duck's Point of Land"
-msgstr ""
+msgstr "Titik Tanah Bebek Liar"
 
 # Tongan constellation, native: Fatanalua
 msgid "Two Carriers"
-msgstr ""
+msgstr "Dua Pembawa"
 
 # Tongan constellation, native: ʻAo ʻo ʻUvea
 msgid "Cloud of 'Uvea"
-msgstr ""
+msgstr "Awan 'Uvea"
 
 # Tongan constellation, native: Kapakau'o'tafahi
 msgid "Wing of Tafahi"
-msgstr ""
+msgstr "Sayap Tafahi"

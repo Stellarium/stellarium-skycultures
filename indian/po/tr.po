@@ -11,7 +11,7 @@ msgstr ""
 
 # Sky culture name
 msgid "Indian Vedic"
-msgstr ""
+msgstr "Hint Vedik"
 
 # Sky culture introduction section in markdown format
 msgid ""
@@ -19,6 +19,9 @@ msgid ""
 "times. Some of the earliest roots of Indian astronomy can be dated to the\n"
 "period of Indus Valley Civilization or earlier."
 msgstr ""
+"Hint astronomisi, tarih öncesinden modern zamanlara uzanan uzun bir tarihe "
+"sahiptir. Hint astronomisinin en eski köklerinden bazıları İndus Vadisi "
+"Uygarlığı dönemine veya daha öncesine tarihlenebilir."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -117,6 +120,59 @@ msgid ""
 "| Rahu | lunar node |  -  |\n"
 "| Ketú | lunar node |  -  |"
 msgstr ""
+"Vedik gökyüzü kültürü Part kültürüyle bazı benzerlikler gösterir, ör. _Nakṣatra_-s olarak adlandırılan, ay konaklarıyla ilgili yaygın olarak bilinen bazı takımyıldızlar.\n"
+"\n"
+"### Raşi (राशिः)\n"
+"\n"
+"Yıldız zodyak, 360 derecelik (tropik zodyak gibi) 12 eşit parçaya bölünmüş hayali bir kuşaktır. Her on ikinci parçaya (30 derecelik) bir işaret veya Rashi denir. İsimleri (parantez içinde) gösterilir.\n"
+"\n"
+"Vedik astronomide iki zaman ölçme sistemi vardır: Ay takvimi ve güneş takvimi. Her iki durumda da bir yıl 12 aya veya \"māsā\"ya bölünür. Güneş aylarının isimleri bu takımyıldızların isimlerinden gelmektedir.\n"
+"\n"
+"### Naksatra (नक्षत्रम्)\n"
+"\n"
+"Hindu geleneğinde ekliptik, yıldız ayını yansıtan ve _nakṣatra_-s [#4] olarak bilinen 27 yıldız işaretine karşılık gelen yaklaşık 13°20\"lik 27 parçaya bölünmüştür. Geleneğin mevcut en eski katmanlarında bu sayı 28 yapılmıştır. Bu bölünme, zamanlama ritüelleri ve doğum ay konaklarının belirlenmesi dahil olmak üzere birçok amaç için kritiktir.Bu asterizmler gökyüzünde bir alanı tanımladığından, teknik olarak da takımyıldızlardır.\n"
+"\n"
+"Surya Siddhanta ve Vedanga-Jyotisha, bazı yıldızları [#2] kullanarak 13°20\" bölümleri için başlangıç koordinatlarını belirtiyor.\n"
+"\n"
+"Nakṣatra'nın en eski tam listeleri, panteon tanrılarını bu göksel bölmelere yerleştiren nakṣatreṣṭi ritüelinin bir parçası olarak okundukları _Taittirīya-śruti_ ve _Atharvaveda_'da bulunur. Bazı bilim adamları, geleneğin erken ortaçağ döneminde nakṣatra kimliğinin Vedik dönemden küçük bir dereceye kadar değiştiğini gösterdiğini düşünüyorlar.\n"
+"\n"
+"Mitolojide Nakshatralar, Daksha Prajipati'nin 27 kızı ve ay tanrısı Chandra'nın eşleri olarak kabul edilir. Daksha, Soma'nın (=Chandra) bir kızını (rohinī) diğerlerine göre aşırı derecede kayırdığını, böylece onların ihtiyaçlarını ihmal ettiğini ve sorumluluklarını hiçe saydığını tespit etti. Bunun için Daksha onu solup ölmesi için lanetledi. Chandra Dev, lanetten kurtulmak için Lord Shiva'ya yaklaştı ve ona ibadet etti. Chandra'ya bir kameri ayda on beş gün (veya \"Pakshā\") büyüyeceği ve diğer yarısında ay günü (veya \"tithi\") başına bir gölge (veya \"Kalā\") kaybetmeye devam edeceği nimetini verdi. \") ve boyutta azalma.\n"
+"\n"
+"Ay aylarının adları, dolunay veya \"Purnimā\"nın meydana geldiği 12 bölüm adından gelmektedir. Bir gün doğumu ile bir sonraki gün doğumu arasında tanımlanan bir güneş gününün aksine, bir ay günü veya ayın bir nakshatradaki konumu Güneş'in veya Ay'ın yükselişine bağlı değildir. Böylece bir ay günü, bir güneş gününün herhangi bir saatinde başlayabilir. Diğer eski insan kültürleri gibi, Vedik insanlar kameri ayların araya eklenmesi için bir dizi sistem icat etti, yani ay ve güneş yılı arasındaki uyumsuzluğu düzeltmek için ortalama 32,5 ayda bir veya her 11 yılda bir 4 ay daha ekleyerek.\n"
+"\n"
+"| Güneş Ayları | Ay Ayları | Modern | Sezon |\n"
+"|-------------|--------------|------------|---------|\n"
+"| Mesa | Vaisakha | Nisan-Mayıs | Grisma (Yaz) |\n"
+"| Vṛṣabha | Jyeṣṭha | Mayıs–Haziran | Grisma (Yaz) |\n"
+"| Mituna | āṣāṛā | Haziran–Temmuz | Varsa (Muson) |\n"
+"| Karka?a | śrabaṇā | Temmuz-Ağustos | Varsa (Muson) |\n"
+"| Siṃha | Bhadra | Ağustos-Eylül | Śarad (Sonbahar) |\n"
+"| Kanya | Aşkın | Eylül-Ekim | Śarad (Sonbahar) |\n"
+"| Tula | Kartik | Ekim-Kasım | Hemanta (Kış Öncesi) |\n"
+"| Vṛścika | Agahana | Kasım-Aralık | Hemanta (Kış Öncesi) |\n"
+"| Danu | Pausa | Aralık-Ocak | Śiśira (Kış) |\n"
+"| Makara | Magha | Ocak-Şubat | Śiśira (Kış) |\n"
+"| Kumba | phalguna | Şubat-Mart | Vasanta (Bahar) |\n"
+"| Mina | Chaitra | Mart-Nisan | Vasanta (Bahar) |\n"
+"| - | Adhika | Artık ay | - |\n"
+"\n"
+"Nakṣatra'lardaki birkaç yogatārā-s veya belirgin yıldız işaretleri (ana akım tanımlamalarına göre), takımyıldız sınırlarının biraz dışındadır. Bu durumlarda, ortaya çıkan herhangi bir sorun (ritüel zamanlama veya astroloji ile ilgili olarak) başka yollarla çözülmelidir, örn. bazı insanlar bu tür yogatārā-lar için alternatif tanımlamalar önermektedir.\n"
+"\n"
+"### Navagraha - Dokuz gezegen\n"
+"\n"
+"Bazı gök cisimlerinin arka plandaki yıldızlara göre bağımsız hareket ettiğini gözlemlediler; onlara gezegen veya \"graha\" adını verdiler. Bu tanımla (hareketli), Güneş ve Ay da graha veya gezegen olarak kabul edilir. Vedik ayrıca ay düğümlerini gezegenler olarak adlandırdı, çünkü bu noktalar tutulmaları hesaplamak için çok önemli. Vedik günlerin adı bu gezegenlerin isimlerinden gelmektedir.\n"
+"\n"
+"| Graha | atama | Güneş günlerinin adı |\n"
+"|-------|-------------|--------------------|\n"
+"| Surya (Güneş) | Güneş Tanrısı | Ravivāsara (Pazar) |\n"
+"| Chandra/Soma (Ay) | Ay tanrısı | Somavāsara (Pazartesi) |\n"
+"| Magala (Mars) | savaş tanrısı | Maṅgalavāsara (Çarşamba) |\n"
+"| Budha (Merkür) | Ay'ın Oğlu | Budhavāsara (Çarşamba) |\n"
+"| Bṛihaspati/Guru (Jüpiter) | Tanrıların Öğretmeni | Guruvāsara (Perşembe) |\n"
+"| Śukra (Venüs) | Şeytanların Mentoru | Śukravāsara (Cuma) |\n"
+"| Śani (Satürn) | Talihsizlik Tanrısı | Śanivāsara (Cumartesi) |\n"
+"| Rahu | ay düğümü | - |\n"
+"| Ketu | ay düğümü | - |"
 
 # Sky culture references section in markdown format
 msgid ""
@@ -125,6 +181,10 @@ msgid ""
 " - [#3]: Nakshatra: [article on Sanskrit Wikipedia](https://sa.wikipedia.org/wiki/नक्षत्रम्)\n"
 " - [#4]: Nakshatra: [article on English Wikipedia](https://en.wikipedia.org/wiki/Nakshatra)"
 msgstr ""
+" - [#1]: Saha, M.N. ve Lahiri, N.C.: History of the Calendar, Yeni Delhi 1992\n"
+" - [#2]: Calendar-Panchanga Tarihi: [Komite Raporu](https://archive.org/stream/HistoryOfCalendarPanchangaCommittee/History-of-Calendar-Panchanga-Committee#page/n77/mode/2up)\n"
+" - [#3]: Nakshatra: [Sanskritçe Wikipedia'daki makale](https://sa.wikipedia.org/wiki/नक्षत्रम्)\n"
+" - [#4]: Nakshatra: [İngilizce Wikipedia makalesi](https://en.wikipedia.org/wiki/Nakshatra)"
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -134,119 +194,122 @@ msgid ""
 "\n"
 "Re-worked by Susanne M Hoffmann"
 msgstr ""
+"[Tanmoy Saha](https://groups.google.com/forum/#!forum/sanskrit-programmers), Vishvas Vasuki ve sanskritçe kodlayıcılar topluluğundan katkıda bulunanlar: [github sayfası](https://github.com/ sanskritçe kodlayıcılar).\n"
+"\n"
+"Susanne M Hoffmann tarafından yeniden çalışıldı"
 
 # Sky culture license section in markdown format
 msgid "CC BY-SA"
-msgstr ""
+msgstr "CC BY-SA"
 
 # Indian Vedic constellation, pronounce: Aśvinī
 msgid "Twin physicians of Gods"
-msgstr ""
+msgstr "Tanrıların ikiz doktorları"
 
 # Indian Vedic constellation, pronounce: Bharanī
 msgid "She who bears"
-msgstr ""
+msgstr "O taşıyan"
 
 # Indian Vedic constellation, pronounce: Kṛittikā
 msgid "Nurses of kartiikeya"
-msgstr ""
+msgstr "kartiikeya hemşireleri"
 
 # Indian Vedic constellation, pronounce: Rohiṇī
 msgid "The spirited one"
-msgstr ""
+msgstr "ruhlu olan"
 
 # Indian Vedic constellation, pronounce: Mṛgaśirā
 msgid "The deer's head"
-msgstr ""
+msgstr "Geyik kafası"
 
 # Indian Vedic constellation, pronounce: Ārdrā
 msgid "The moist one"
-msgstr ""
+msgstr "nemli olan"
 
 # Indian Vedic constellation, pronounce: Punarvasu
 msgid "The restorers of goods"
-msgstr ""
+msgstr "Mal restore edenler"
 
 # Indian Vedic constellation, pronounce: Puṣyā
 msgid "The nourisher"
-msgstr ""
+msgstr "besleyici"
 
 # Indian Vedic constellation, pronounce: Aśleṣā
 msgid "The embrace"
-msgstr ""
+msgstr "kucaklama"
 
 # Indian Vedic constellation, pronounce: Maghā
 msgid "The bountiful one"
-msgstr ""
+msgstr "bol olan"
 
 # Indian Vedic constellation, pronounce: Pūrba phālgunī
 msgid "The former red one"
-msgstr ""
+msgstr "Daha önce kırmızı olan"
 
 # Indian Vedic constellation, pronounce: Uttara phālgunī
 msgid "The latter red one"
-msgstr ""
+msgstr "Sonuncusu kırmızı"
 
 # Indian Vedic constellation, pronounce: Hasta
 msgid "The hand"
-msgstr ""
+msgstr "el"
 
 # Indian Vedic constellation, pronounce: Chitrā
 msgid "The bright one"
-msgstr ""
+msgstr "parlak olan"
 
 # Indian Vedic constellation, pronounce: Svātī
 msgid "The honest one"
-msgstr ""
+msgstr "dürüst olan"
 
 # Indian Vedic constellation, pronounce: Viśākhā
 msgid "The gifted one"
-msgstr ""
+msgstr "yetenekli olan"
 
 # Indian Vedic constellation, pronounce: Anurādhā
 msgid "Followers of Radha"
-msgstr ""
+msgstr "Radha'nın Takipçileri"
 
 # Indian Vedic constellation, pronounce: Jyeṣṭhā
 msgid "The eldest one"
-msgstr ""
+msgstr "en büyüğü"
 
 # Indian Vedic constellation, pronounce: Mulā
 msgid "The root"
-msgstr ""
+msgstr "Kök"
 
 # Indian Vedic constellation, pronounce: Pūrba āṣāṛā
 msgid "The former undefeated one"
-msgstr ""
+msgstr "Eski yenilmez"
 
 # Indian Vedic constellation, pronounce: Uttara āṣāṛā
 msgid "The latter undefeated one"
-msgstr ""
+msgstr "Sonuncusu yenilmez"
 
 # Indian Vedic constellation, pronounce: Śrabaṇā
 msgid "The Ear"
-msgstr ""
+msgstr "Kulak"
 
 # Indian Vedic constellation, pronounce: Dhaniṣṭhā
 msgid "The most famous one"
-msgstr ""
+msgstr "En ünlüsü"
 
 # Indian Vedic constellation, pronounce: Śatabhiṣā
 msgid "hundred cures"
-msgstr ""
+msgstr "yüz tedavi"
 
 # Indian Vedic constellation, pronounce: Pūrba bhādrapada
 msgid "The first of the blessed feet"
-msgstr ""
+msgstr "Mübarek ayakların ilki"
 
 # Indian Vedic constellation, pronounce: Uttara bhādrapada
 msgid "The second of the blessed feet"
-msgstr ""
+msgstr "mübarek ayakların ikincisi"
 
 # Indian Vedic constellation, pronounce: Revatī
 msgid "The prosperous one"
-msgstr ""
+msgstr "müreffeh olan"
 
 # Indian Vedic constellation, pronounce: Abhijit
 msgid "The invincible one"
-msgstr ""
+msgstr "yenilmez olan"

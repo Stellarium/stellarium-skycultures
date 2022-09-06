@@ -11,13 +11,15 @@ msgstr ""
 
 # Sky culture name
 msgid "Tongan"
-msgstr ""
+msgstr "Tongaca"
 
 # Sky culture introduction section in markdown format
 msgid ""
 "As in all Polynesian star lore, Tongan sky culture descends from the practical\n"
 "application of nautical navigation."
 msgstr ""
+"Tüm Polinezya yıldız bilgisinde olduğu gibi, Tongan gökyüzü kültürü deniz "
+"navigasyonunun pratik uygulamasından kaynaklanmaktadır."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -44,6 +46,11 @@ msgid ""
 "which Tongan island group it originates from. The nomenclature of stars is\n"
 "approximated based on the limited resources available."
 msgstr ""
+"En dikkate değer/ortak yıldızlar ve takımyıldızlar (yani Orion, Pleiades, Crux) Tonga yıldız bilgisinde tanımlanmış olsa da iki önemli istisna vardır. Kuzey yıldızına isim verilmemiştir (Polaris: α UMi). Bu, Tongan adalarının enlemi ve bu yıldızın yılın belirli zamanlarında öne çıkması göz önüne alındığında tuhaftır. Tonga'dan kuzeye yapılacak herhangi bir yolculuk söz konusu olduğunda, böylesine önemli bir seyir işaretinin gözden kaçması mümkün değildi. Akrep takımyıldızı (parçaları veya yıldızları) Tonga yıldız bilgisinde de yoktur. Bu şaşırtıcıdır, çünkü dünya çapında ve Polinezya'daki yıldız ilminin büyük çoğunluğu, kolayca tanımlanabilmesi ve gece gökyüzünde Orion'un neredeyse tam karşısında olması nedeniyle merkezi bir takımyıldız olarak Akrep'e sahiptir. Stellarium ekibi, bu iki anormallik hakkında daha fazla bilgiyi memnuniyetle karşılayacaktır.\n"
+"\n"
+"Polinezya yıldız ilminin ortak ataları, yıldızların isimlendirilmesindeki benzerliklerde açıkça görülmektedir. Örneğin Ülker'e Tongan'da _Mataliki_, Maori'de _Matariki_ ve Hawaii'de _Makali'i_ denir.\n"
+"\n"
+"Bazı durumlarda tek tek yıldız adlarının \"yıldız yolu\" adlarından ayrılması çözülemez. Bir yıldızın birden fazla adı olabilir 1) yıldız çok sayıda yıldız yolunun parçasıysa ve 2) yıldızların adları hangi Tongan adası grubundan geldiğine bağlı olarak değişebileceğinden. Yıldızların isimlendirilmesi, mevcut sınırlı kaynaklara dayalı olarak yaklaşık olarak hesaplanmıştır."
 
 # Sky culture extras section in markdown format
 msgid ""
@@ -90,6 +97,48 @@ msgid ""
 " | Fungasia | Toliman and/or Agena |\n"
 " | Houmatoloa (Toloa, toloatonga, toloalahi) | — |"
 msgstr ""
+"### Adlandırma\n"
+"\n"
+" | Tonga terimi | atama |\n"
+" |-------------|-------|\n"
+" | Humu | Kömür çuvalı |\n"
+" | Kaniva | Samanyolu |\n"
+" | Ma'afulele | Büyük Macellan bulutu |\n"
+" | Ma'afutoka | Küçük Macellan bulutu |\n"
+" | 'otu Ma'afu | Macellan bulutları (her ikisi de) |\n"
+" | Ha'amonga | ekliptik |\n"
+" | Mahina | Ay |\n"
+" | la'a | Güneş |\n"
+" | Tapukitea | Venüs |\n"
+" | anne | Mars |\n"
+" | Fetu'u | Yıldız (genel olarak) |\n"
+" | Fetu'ufuka | kuyruklu yıldız |\n"
+" | 'Umata | Gökkuşağı |\n"
+" | Fetu'u'Esiafi | Kayan yıldız |\n"
+" | Ma'afutoka (SMC ile aynı) | kanopus |\n"
+" | Ma'afulele (LMC ile aynı) | Sirius |\n"
+" | Velitoa hififo | Rigel |\n"
+" | Velitoa hahake | Betelgues |\n"
+" | Hikule'o | Arkturus |\n"
+" | Monuafe | mesis |\n"
+" | Motuliki | Ülker |\n"
+" | Tu'ulalupe | Hyades |\n"
+" | Toloatonga | Güney Haçı |\n"
+" | Toloalahi | Yanlış Çapraz |\n"
+"\n"
+"\n"
+"### Tonga takımyıldızları\n"
+"\n"
+" | Tonga adı | Tanım veya notlar |\n"
+" |-------------|-------|\n"
+" | Tuinga ika | Orion'un bir parçası, kemer ve kılıç |\n"
+" | Ae e'Uvea | Corona Borealis (_Spekülatif_) |\n"
+" | Fatanalua | Koma Berenices (_Spekülatif_) |\n"
+" | Kapakau'o'tafahi | Cassiopeia (_Spekülatif_) |\n"
+" | Toloa | Orion Kemeri |\n"
+" | Lua tangata | Castor ve/veya Pollux |\n"
+" | mantar | Toliman ve/veya Agena |\n"
+" | Houmatoloa (Toloa, toloatonga, toloalahi) | — |"
 
 # Sky culture references section in markdown format
 msgid ""
@@ -97,6 +146,9 @@ msgid ""
 " - [#2]: T.H Fale, _Tongan astronomy_, 1990 Polynesian Eyes foundation, Nuku'alofa, TongaChoice printing.\n"
 " - [#3]: E. E. V. Collocott, _Tongan astronomy and calendar_, 1992 Occasional Papers of the Bernice Pauahi Bishop Museum of Polynesian ethnology and Natural History, Vol. 8, No. 4 Honolulu, Hawaii, Bishop Museum Press 1922, p. 157-173."
 msgstr ""
+" - [#1]: Velt Kik, _Ko E Ngaahi fetu'u 'o, Stars over tonga_, 1990 'Atenisi University, Nuku'alofa , Tonga Government Printing Department.\n"
+" - [#2]: T.H Fale, _Tongan astronomi_, 1990 Polynesian Eyes Foundation, Nuku'alofa, TongaChoice Printing.\n"
+" - [#3]: E. E. V. Collocott, _Tongan astronomi ve takvimi_, 1992 Bernice Pauahi Piskopos Polinezya Etnoloji ve Doğa Tarihi Müzesi'nin Ara sıra Kağıtları, Cilt. 8, No. 4 Honolulu, Hawaii, Bishop Museum Press 1922, s. 157-173."
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -105,51 +157,54 @@ msgid ""
 "\n"
 "Technical adaption: Susanne M Hoffmann"
 msgstr ""
+"Bu gökyüzü kültürü Stellarium kullanıcısı [Dan Smale](d.smale@niwa.co.nz) tarafından sağlanmıştır.\n"
+"\n"
+"Teknik uyarlama: Susanne M Hoffmann"
 
 # Sky culture license section in markdown format
 msgid "CC BY-SA"
-msgstr ""
+msgstr "CC BY-SA"
 
 # Tongan constellation, native: Toloatonga
 msgid "Southern Wild Duck"
-msgstr ""
+msgstr "Güney Yaban Ördeği"
 
 # Tongan constellation, native: Lua tangata
 msgid "Two Men"
-msgstr ""
+msgstr "İki adam"
 
 # Tongan constellation, native: Toloa
 msgid "Wild Duck"
-msgstr ""
+msgstr "Vahşi ördek"
 
 # Tongan constellation, native: Tu'ulalupe
 msgid "Pigeon Perch"
-msgstr ""
+msgstr "güvercin levrek"
 
 # Tongan constellation, native: Toloalahi
 msgid "Big Wild Duck"
-msgstr ""
+msgstr "büyük yaban ördeği"
 
 # Tongan constellation, native: Fungasia
 msgid "Mound Top"
-msgstr ""
+msgstr "Höyük Üstü"
 
 # Tongan constellation, native: Tuinga ika
 msgid "String of fishes"
-msgstr ""
+msgstr "balık dizisi"
 
 # Tongan constellation, native: Houmatoloa
 msgid "Wild Duck's Point of Land"
-msgstr ""
+msgstr "Yaban Ördeğinin Arazi Noktası"
 
 # Tongan constellation, native: Fatanalua
 msgid "Two Carriers"
-msgstr ""
+msgstr "İki Taşıyıcı"
 
 # Tongan constellation, native: ʻAo ʻo ʻUvea
 msgid "Cloud of 'Uvea"
-msgstr ""
+msgstr "'Uvea Bulutu'"
 
 # Tongan constellation, native: Kapakau'o'tafahi
 msgid "Wing of Tafahi"
-msgstr ""
+msgstr "Tafahi kanadı"

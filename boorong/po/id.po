@@ -11,7 +11,7 @@ msgstr ""
 
 # Sky culture name
 msgid "Boorong"
-msgstr ""
+msgstr "boorong"
 
 # Sky culture introduction section in markdown format
 msgid ""
@@ -19,6 +19,9 @@ msgid ""
 "night sky. William Stanbridge wrote in 1857 that they \"Pride themselves upon\n"
 "knowing more of Astronomy than any other tribe\"."
 msgstr ""
+"Boorong adalah penduduk asli Australia yang sangat mengenal langit malam. "
+"William Stanbridge menulis pada tahun 1857 bahwa mereka \"Sombong karena "
+"mengetahui lebih banyak tentang Astronomi daripada suku lainnya\"."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -34,6 +37,9 @@ msgid ""
 "people may have seen them. John's interpretation was used to create the\n"
 "constellation figures in Stellarium."
 msgstr ""
+"Seratus empat puluh tahun yang lalu, sebuah keluarga Boorong di Danau Tyrrell (Victoria Barat Laut, Australia) memberi tahu William Stanbridge tentang kisah mereka yang berkaitan dengan langit malam. Sekitar empat puluh bintang, rasi bintang, dan fenomena langit lainnya diberi nama dan lokasi. Dia menuliskannya dan menghubungkan informasi ini dengan Philosophical Institute di Melbourne pada tahun 1857. Dalam makalahnya dia menuliskan istilah Aborigin dan memberikan padanannya di Eropa.\n"
+"\n"
+"Apa yang telah dilakukan John Morieson adalah mengamati secara dekat fenomena langit ini, mencoba mengidentifikasinya dengan memuaskan dan meniru cara orang Boorong melihatnya. Interpretasi John digunakan untuk membuat angka-angka konstelasi di Stellarium."
 
 # Sky culture extras section in markdown format
 msgid ""
@@ -66,12 +72,42 @@ msgid ""
 "|Yerredetkurrk | Owlet nightjar      | Achernar|\n"
 "|Yurree      | Fan-tailed cockatoo   | Castor |"
 msgstr ""
+"### Rasi bintang dan benda langit lainnya\n"
+"\n"
+"| Nama | Penjelasan | Petunjuk Surgawi |\n"
+"|------------|-----------------------|-----------------|\n"
+"|Boorong | Malam; mallee kecil; cakrawala berbintang | Cakrawala berbintang di malam hari |\n"
+"|Bittur | Larva kayu | |\n"
+"|Millee | Sungai Murray | Bagian dari Bima Sakti |\n"
+"|Mindi | Ular bersurai | Bagian dari Bima Sakti |\n"
+"|Neilloan | Ayam jantan | Lyra |\n"
+"|Nurrumbunguttias | Orang tua, kanguru mallee berwajah hitam |Aura putih Bima Sakti|\n"
+"|Otchocut | Ikan besar | Delphinus |\n"
+"| Porkelong toute | Kehilangan gigi | Bintang jatuh |\n"
+"|Pupperimbul |Finch firetail berlian atau hylacola pemalu | Membawa telur emu untuk menjadi Matahari|\n"
+"|Purra |Kanguru merah | Capella |\n"
+"| Tchingal | Yang tinggi; emu | Ruang gelap dekat Cross|\n"
+"|Totyarguil |Perkici mahkota ungu | Altair |\n"
+"|Tourchingboiongerra | Needlewood hakea dan willie wagtails | Koma Berenice |\n"
+"|Tur | Bintang | Bintang apa saja |\n"
+"|Tyrille |Ruang; langit malam | Ruang angkasa; langit malam |\n"
+"|Tidak Berguna | kadal jacky | Sigma Canis Majoris |\n"
+"|Wanjel | Kura-kura berleher panjang | Pollux |\n"
+"|Perang | Gagak | Kanopi |\n"
+"|Warepil | Elang ekor baji | Sirius |\n"
+"|Perang | Galaksi | Bima Sakti |\n"
+"|Weetkurrk |Singing bushlark | Bintangi Bootes di sebelah barat Arcturus |\n"
+"|Menang | Bumerang | Corona Australia |\n"
+"|Yerredetkurrk | Burung hantu nightjar | Achernar|\n"
+"|Yurree | Kakatua ekor kipas | jarak |"
 
 # Sky culture references section in markdown format
 msgid ""
 " - [#1]: Morieson, John: The Night Sky of the Boorong, Partial Reconstruction of a Disappeared Culture in North-West Victoria, Master Thesis (MA of Arts), University of Melbourne, 1966\n"
 " - [#2]: [Aboriginal Astronomy](http://www.aboriginalastronomy.com.au/)"
 msgstr ""
+" - [#1]: Morieson, John: Langit Malam Boorong, Rekonstruksi Sebagian dari Budaya yang Hilang di Victoria Barat Laut, Tesis Master (MA of Arts), University of Melbourne, 1966\n"
+" - [#2]: [Aboriginal Astronomy](http://www.aboriginalastronomy.com.au/)"
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -80,10 +116,13 @@ msgid ""
 "\n"
 "Technical rework by Susanne M Hoffmann"
 msgstr ""
+"Budaya langit ini disumbangkan oleh John Morieson dan [Alex Cherney](http://www.terrastro.com).\n"
+"\n"
+"Pengerjaan ulang teknis oleh Susanne M Hoffmann"
 
 # Sky culture license section in markdown format
 msgid "GNU GPL v2.0"
-msgstr ""
+msgstr "GNU GPL v2.0"
 
 # Boorong constellation, native: Wanjel
 msgid "Long-necked tortoise"
@@ -147,11 +186,11 @@ msgstr "Kadal Jacky"
 
 # Boorong constellation, native: Kourt-chin
 msgid "Female brolga"
-msgstr ""
+msgstr "Brolga wanita"
 
 # Boorong constellation, native: Kourt-chin
 msgid "Male brolga"
-msgstr ""
+msgstr "Pria brolga"
 
 # Boorong constellation, native: Otchocut
 msgid "Great fish"
@@ -171,7 +210,7 @@ msgstr "Burung Emu"
 
 # Boorong constellation, native: Totyarguil
 msgid "Purple crowned lorikeet"
-msgstr ""
+msgstr "lorikeet bermahkota ungu"
 
 # Boorong constellation, native: Marpeankurrk
 msgid "Meat ant"

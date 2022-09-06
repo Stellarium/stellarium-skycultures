@@ -11,7 +11,7 @@ msgstr ""
 
 # Sky culture name
 msgid "Boorong"
-msgstr ""
+msgstr "Buorong"
 
 # Sky culture introduction section in markdown format
 msgid ""
@@ -19,6 +19,9 @@ msgid ""
 "night sky. William Stanbridge wrote in 1857 that they \"Pride themselves upon\n"
 "knowing more of Astronomy than any other tribe\"."
 msgstr ""
+"Booronglar, gece gökyüzüne çok aşina olan yerli Avustralyalılardır. William "
+"Stanbridge 1857'de \"Astronomi hakkında diğer kabilelerden daha fazla bilgi "
+"sahibi olmaktan gurur duyduklarını\" yazdı."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -34,6 +37,9 @@ msgid ""
 "people may have seen them. John's interpretation was used to create the\n"
 "constellation figures in Stellarium."
 msgstr ""
+"Yüz kırk yıl önce, Tyrrell Gölü'ndeki (Kuzey-Batı Victoria, Avustralya) bir Boorong ailesi, William Stanbridge'e gece gökyüzüyle ilgili hikayelerinden bir şeyler anlattı. Kırk kadar yıldız, takımyıldızlar ve diğer gök olayları isimlendirildi ve yerleştirildi. Bunları yazdı ve 1857'de Melbourne'deki Felsefi Enstitüsü ile ilişkilendirdi. Makalesinde Aborijin terimini yazdı ve Avrupa karşılığını verdi.\n"
+"\n"
+"John Morison'un yaptığı şey, bu göksel fenomenlere yakından bakmak, onları tatmin edici bir şekilde tanımlamaya çalışmak ve Boorong halkının onları nasıl görmüş olabileceğini taklit etmektir. John'un yorumu, Stellarium'daki takımyıldız figürlerini oluşturmak için kullanıldı."
 
 # Sky culture extras section in markdown format
 msgid ""
@@ -66,12 +72,42 @@ msgid ""
 "|Yerredetkurrk | Owlet nightjar      | Achernar|\n"
 "|Yurree      | Fan-tailed cockatoo   | Castor |"
 msgstr ""
+"### Takımyıldızlar ve diğer gök cisimleri\n"
+"\n"
+"| İsim | Açıklama | Göksel İpucu |\n"
+"|------------|-----------------------|-----------------|\n"
+"|Boorong | Gece; küçük malle; yıldızlı gökkubbe | Geceleri yıldızlı gökkubbe |\n"
+"|Bittur | Odun larvaları | |\n"
+"|Millee | Murray Nehri | Samanyolu'nun Parçası |\n"
+"|Mindi | Yeleli yılan | Samanyolu'nun Parçası |\n"
+"|Neillon | Mallee tavuğu | Lira |\n"
+"|Nurrumbunguttias | Yaşlı adam, siyah yüzlü mallee kanguru |Samanyolu'nun beyaz havası|\n"
+"|Otchocut | Harika balık | Delphinus |\n"
+"|Porkelong toute | Diş kaybı | Kayan yıldız |\n"
+"|Pupperimbul |Elmas ateşkuyruk ispinozu veya utangaç hylacola | Güneş olmak için emu yumurtasını taşıdı|\n"
+"|Purra |Kızıl kanguru | Kapella |\n"
+"|Tchingal |Uzun olan; emu | Cross|Yakınındaki Karanlık Uzay\n"
+"|Totyarguil |Mor taçlı lori | Altair |\n"
+"|Turingboiongerra | Needlewood hakea ve willie kuyruksallayanlar | Koma Berenis |\n"
+"|Turta | Yıldız | Herhangi bir yıldız |\n"
+"|Tiril |Uzay; gece gökyüzü | Uzay; gece gökyüzü |\n"
+"|Unurgunit | Jacky kertenkele | Sigma Canis Majoris |\n"
+"|Wanjel | Uzun boyunlu kaplumbağa | Polluks |\n"
+"|Savaş | karga | kanopus |\n"
+"|Warepil | Kama kuyruklu kartal | Sirius |\n"
+"|Savaşıyor | galaksi | Samanyolu |\n"
+"|Weetkurrk |Şarkı söyleyen çalı | Arcturus'un batısındaki Çoban Yıldızı |\n"
+"|Kazandı | bumerang | Corona Avustralya |\n"
+"|Yerredetkurrk | Owlet gece kavanozu | Achernar|\n"
+"|Yurre | yelpaze kuyruklu kakadu | Teker |"
 
 # Sky culture references section in markdown format
 msgid ""
 " - [#1]: Morieson, John: The Night Sky of the Boorong, Partial Reconstruction of a Disappeared Culture in North-West Victoria, Master Thesis (MA of Arts), University of Melbourne, 1966\n"
 " - [#2]: [Aboriginal Astronomy](http://www.aboriginalastronomy.com.au/)"
 msgstr ""
+" - [#1]: Morison, John: Boorong'un Gece Gökyüzü, Kuzey-Batı Victoria'da Kaybolan Bir Kültürün Kısmi Yeniden İnşası, Yüksek Lisans Tezi (Yüksek Lisans), Melbourne Üniversitesi, 1966\n"
+" - [#2]: [Aborijin Astronomisi](http://www.aboriginalastronomy.com.au/)"
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -80,123 +116,126 @@ msgid ""
 "\n"
 "Technical rework by Susanne M Hoffmann"
 msgstr ""
+"Bu gökyüzü kültürüne John Morison ve [Alex Cherney](http://www.terrastro.com) katkıda bulunmuştur.\n"
+"\n"
+"Susanne M Hoffmann tarafından teknik yeniden çalışma"
 
 # Sky culture license section in markdown format
 msgid "GNU GPL v2.0"
-msgstr ""
+msgstr "GNU GPL v2.0"
 
 # Boorong constellation, native: Wanjel
 msgid "Long-necked tortoise"
-msgstr ""
+msgstr "uzun boyunlu kaplumbağa"
 
 # Boorong constellation, native: Yurree
 msgid "Fan-tailed cockatoo"
-msgstr ""
+msgstr "yelpaze kuyruklu kakadu"
 
 # Boorong constellation, native: Kulkunbulla
 msgid "Two teenage boys"
-msgstr ""
+msgstr "iki genç erkek"
 
 # Boorong constellation, native: Lamankurrk
 msgid "Girls"
-msgstr ""
+msgstr "kızlar"
 
 # Boorong constellation, native: Purra
 msgid "Red kangaroo"
-msgstr ""
+msgstr "kırmızı kanguru"
 
 # Boorong constellation, native: Bunya
 msgid "Ring-tail possum"
-msgstr ""
+msgstr "Halka kuyruklu sıçan"
 
 # Boorong constellation, native: Djuit
 msgid "Red-rumped parrot"
-msgstr ""
+msgstr "kırmızı sırtlı papağan"
 
 # Boorong constellation, native: War
 msgid "Crow"
-msgstr ""
+msgstr "Karga"
 
 # Boorong constellation, native: Collowgulloric War
 msgid "Female crow, wife of War"
-msgstr ""
+msgstr "Dişi karga, Savaşın karısı"
 
 # Boorong constellation, native: Yerredetkurrk
 msgid "Owlet nightjar"
-msgstr ""
+msgstr "baykuş gece kavanozu"
 
 # Boorong constellation, native: Tourtchinboiongerra
 msgid "Needlewood hakea and willie wagtails"
-msgstr ""
+msgstr "Needlewood hakea ve willie kuyruksallayanlar"
 
 # Boorong constellation, native: Berm-Berm-Gle
 msgid "Red-kneed dotterel"
-msgstr ""
+msgstr "Kırmızı dizli dotterel"
 
 # Boorong constellation, native: Karik Karik
 msgid "Australian kestrel"
-msgstr ""
+msgstr "Avustralya kerkenezi"
 
 # Boorong constellation, native: Neilloan
 msgid "Mallee fowl"
-msgstr ""
+msgstr "Ebegümeci tavuğu"
 
 # Boorong constellation, native: Unurgunite
 msgid "Jacky lizard"
-msgstr ""
+msgstr "kertenkele"
 
 # Boorong constellation, native: Kourt-chin
 msgid "Female brolga"
-msgstr ""
+msgstr "dişi brolga"
 
 # Boorong constellation, native: Kourt-chin
 msgid "Male brolga"
-msgstr ""
+msgstr "erkek brolga"
 
 # Boorong constellation, native: Otchocut
 msgid "Great fish"
-msgstr ""
+msgstr "harika balık"
 
 # Boorong constellation, native: Warepil
 msgid "Wedge tailed eagle"
-msgstr ""
+msgstr "Kama kuyruklu kartal"
 
 # Boorong constellation, native: Collowgulloric Warepil
 msgid "Female eagle, wife of Warepil"
-msgstr ""
+msgstr "Dişi kartal, Warepil'in karısı"
 
 # Boorong constellation, native: Tchingal
 msgid "Emu"
-msgstr ""
+msgstr "emu"
 
 # Boorong constellation, native: Totyarguil
 msgid "Purple crowned lorikeet"
-msgstr ""
+msgstr "Mor taçlı lori"
 
 # Boorong constellation, native: Marpeankurrk
 msgid "Meat ant"
-msgstr ""
+msgstr "et karınca"
 
 # Boorong constellation, native: Warring
 msgid "Galaxy"
-msgstr ""
+msgstr "Gökada"
 
 # Boorong constellation, native: Weetkurrk
 msgid "Singing bushlark"
-msgstr ""
+msgstr "şarkı söyleyen çalı"
 
 # Boorong constellation, native: Gellarlec
 msgid "Pink cockatoo"
-msgstr ""
+msgstr "pembe kakadu"
 
 # Boorong constellation, native: Collenbitchick
 msgid "Species of ant"
-msgstr ""
+msgstr "karınca türleri"
 
 # Boorong constellation, native: Won
 msgid "Boomerang"
-msgstr ""
+msgstr "Bumerang"
 
 # Boorong constellation, native: Mindi
 msgid "The maned snake"
-msgstr ""
+msgstr "yeleli yılan"

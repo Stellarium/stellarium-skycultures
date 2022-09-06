@@ -23,6 +23,13 @@ msgid ""
 "first appear in the Records of the Grand Historian (史記) in Han dynasty\n"
 "describing Xia dynasty in about 2000 BCE."
 msgstr ""
+"Rasi bintang Cina, Korea, dan Jepang memiliki asal yang sama dan bentuknya "
+"sangat mirip. Mereka diwakili masing-masing di peta bintang Dun Huang dari "
+"abad ke-8, peta _Cheon-Sang-Yeol-Cha-Bun-Ya-Ji-Do_ dan di peta langit Kitora"
+" yang dilukis pada abad ke-7 hingga ke-8 Masehi. Posisi dan nama mereka "
+"mirip dalam alfabet Cina. Nama rasi bintang pertama kali muncul dalam "
+"Catatan Sejarawan Agung (史記) di dinasti Han yang menggambarkan dinasti Xia "
+"sekitar tahun 2000 SM."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -54,12 +61,21 @@ msgid ""
 "Korean map grouped the 1467 stars in about 190 constellations. The shapes of\n"
 "the depictions are slightly different from the Chinese ones."
 msgstr ""
+"### Asal\n"
+"\n"
+"272 rasi bintang yang ditampilkan dalam budaya langit Stellarium ini didasarkan pada _Cheon-Sang-Yeol-Cha-Bun-Ya-Zi-Do_, peta Konstelasi Korea, yang diukir di batu tahun 1395. Pelat batu hitam lebarnya 122,5 cm , tinggi 211 cm, dan kedalaman 12 cm; bintang-bintang disorot dalam warna putih. Peta tersebut menampilkan 1.467 bintang [#1], 264 rasi bintang dan namanya, garis ekliptika dan khatulistiwa, dan 365 \"derajat\" Cina dari lingkaran penuh. Itu dikompilasi sebagai salinan peta Korea sebelumnya (peta bintang Goguryeo) dari akar Cina dan diubah secara rinci karena pengamatan baru-baru ini. Oleh karena itu, beberapa bintang terukir pada koordinatnya hingga satu milenium sebelumnya dan untuk beberapa (kelompok) bintang diterapkan presesi.\n"
+"\n"
+"Penafsiran peta tidak mudah: peta sudah sangat tua sehingga hanya sekitar 300 bintang yang ditemukan cocok dengan bintang aslinya. Semua bintang di peta digambar pada sebuah lingkaran, sehingga khatulistiwa tampak lebih kecil dari batas selatan. Karena kerapatan konstelasi tidak berubah sehubungan dengan posisi, posisi dan ukuran konstelasi agak berubah dengan cara yang tidak diketahui oleh penulis. Diasumsikan bahwa seharusnya tidak ada bintang terang yang bukan milik konstelasi mana pun. Karya penulis tunduk pada interpretasi, dan dapat diubah di lain waktu. Namun secara kasar akan menunjukkan seperti apa Konstelasi Korea.\n"
+"\n"
+"Asal usul peta langit Korea ini adalah peta langit lain yang ada sekitar 2.000 tahun yang lalu, peta Suzhou Cina (lih: budaya langit Cina). Peta asli Korea mengelompokkan 1467 bintang di sekitar 190 rasi bintang. Bentuk penggambaran sedikit berbeda dari yang Cina."
 
 # Sky culture references section in markdown format
 msgid ""
 " - [#1]: Cheonsang Yeolcha Bunyajido: [Wikipedia article](http://en.wikipedia.org/wiki/Cheonsang_Yeolcha_Bunyajido)\n"
 " - [#2]: Digitalized map: [image](https://digicult2.thulb.uni-jena.de/rsc/viewer/digicult_derivate_00115090/Sternkarte2.tif)"
 msgstr ""
+" - [#1]: Cheonsang Yeolcha Bunyajido: [Artikel Wikipedia](http://en.wikipedia.org/wiki/Cheonsang_Yeolcha_Bunyajido)\n"
+" - [#2]: Peta digital: [gambar](https://digicult2.thulb.uni-jena.de/rsc/viewer/digicult_derivate_00115090/Sternkarte2.tif)"
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -68,10 +84,13 @@ msgid ""
 "\n"
 "Reworked by Susanne M Hoffmann"
 msgstr ""
+"Budaya langit ini disumbangkan oleh pengguna Stellarium [Jeong, Tae-Min](http://user.chollian.net/~jtm71/)\n"
+"\n"
+"Dikerjakan ulang oleh Susanne M Hoffmann"
 
 # Sky culture license section in markdown format
 msgid "GNU GPL v2.0"
-msgstr ""
+msgstr "GNU GPL v2.0"
 
 # Korean constellation, pronounce: JuJeong
 msgid "Holy Kettle"
@@ -415,7 +434,7 @@ msgstr "Keraton terpecah"
 
 # Korean constellation, pronounce: TouGongRi
 msgid "Official for Materials Supply"
-msgstr ""
+msgstr "Resmi untuk Pasokan Bahan"
 
 # Korean constellation, pronounce: JeonNwoe
 msgid "Lightening"

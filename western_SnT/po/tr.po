@@ -11,13 +11,15 @@ msgstr ""
 
 # Sky culture name
 msgid "Western (Sky & Telescope)"
-msgstr ""
+msgstr "Batı (Gökyüzü ve Teleskop)"
 
 # Sky culture introduction section in markdown format
 msgid ""
 "A variation of the Western sky culture with constellation figures and star\n"
 "names from the popular American magazine _Sky & Telescope_."
 msgstr ""
+"Popüler Amerikan dergisi _Sky & Telescope_'tan takımyıldız figürleri ve "
+"yıldız isimleriyle Batı gökyüzü kültürünün bir varyasyonu."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -31,6 +33,9 @@ msgid ""
 "and Flamsteed's historical atlases and influenced by other sources\n"
 "[#6][#7][#8]."
 msgstr ""
+"1928'de Uluslararası Astronomi Birliği (IAU), takımyıldızların [#4] sınırlarını belirledi ve yıldızların içlerindeki bağlantı yolunu değil. Bu nedenle geçtiğimiz yüzyılda birkaç alt kültür geliştirildi: bu gökyüzü kültürü Sky & Telescope Magazine tarafından geliştirildi.\n"
+"\n"
+"Sky & Telescope'un \"kendi\" yıldız isimlerini tarihsel olanlardan seçmek için kullandığı yöntem, Stil Kitaplarında [#2] ayrıntılı olarak açıklanmaktadır. Bayer ve Flamsteed'in tarihsel atlaslarına dayanmaktadır ve diğer kaynaklardan [#6][#7][#8] etkilenmiştir."
 
 # Sky culture references section in markdown format
 msgid ""
@@ -43,6 +48,14 @@ msgid ""
 " - [#7]: Kunitzsch, Paul, and Tim Smart. Short Guide to Modern Star Names and Their Derivations. Otto Harrassowitz, 1986, republished by Sky and Telescope in 2006.\n"
 " - [#8]: Davis, George A. “The Pronunciations, Derivations, and Meanings of a Selected List of Star Names.” Popular Astronomy, Jan 1944."
 msgstr ""
+" - [#1]: Gökyüzü ve Teleskop. [Anasayfa](https://www.skyandtelescope.com)\n"
+" - [#2]: S&T Stil Kitabı, A13. Flanders, Tony: S&T's stylebook, Appendix 13, 2014. [Doc](https://fossies.org/linux/stellarium/skycultures/western_SnT/SnT_star_names.docx)\n"
+" - [#3]: Yıldız Kataloğu. [Wikipedia'daki Makale](http://en.wikipedia.org/wiki/Star_catalogue)\n"
+" - [#4]: Resmi IAU takımyıldızı bilgisi. [Bağlantı](http://www.iau.org/public/constellations/)\n"
+" - [#5]: Takımyıldızlar. [Wikipedia'daki Makale](http://en.wikipedia.org/wiki/Constellation)\n"
+" - [#6]: Hoffleit, Dorrit. Bright Star Kataloğu, 4. devir. Yale Üniversitesi Gözlemevi, 1982.\n"
+" - [#7]: Kunitzsch, Paul ve Tim Smart. Modern Yıldız İsimleri ve Türevleri İçin Kısa Rehber. Otto Harrassowitz, 1986, Sky and Telescope tarafından 2006'da yeniden yayınlandı.\n"
+" - [#8]: Davis, George A. “Seçilmiş Yıldız İsimleri Listesinin Telaffuzları, Türetmeleri ve Anlamları.” Popüler Astronomi, Ocak 1944."
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -50,7 +63,10 @@ msgid ""
 "\n"
 "Rework by Stellarium Team."
 msgstr ""
+"[Paul Krizak](mailto:paul.krizak@gmail.com) ve [Jonathan E. Piskor](mailto:jonathan.e.piskor@gmail.com)\n"
+"\n"
+"Stellarium Ekibi tarafından yeniden işlendi."
 
 # Sky culture license section in markdown format
 msgid "[CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)"
-msgstr ""
+msgstr "[CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)"

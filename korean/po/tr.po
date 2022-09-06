@@ -23,6 +23,13 @@ msgid ""
 "first appear in the Records of the Grand Historian (史記) in Han dynasty\n"
 "describing Xia dynasty in about 2000 BCE."
 msgstr ""
+"Çin, Kore ve Japon takımyıldızları aynı kökene sahiptir ve şekil olarak çok "
+"benzer görünmektedir. Bunlar sırasıyla 8. yüzyıldan kalma Dun Huang yıldız "
+"haritasında, _Cheon-Sang-Yeol-Cha-Bun-Ya-Ji-Do_ haritasında ve MS 7. ila 8. "
+"yüzyıllarda boyanmış Kitora gök haritasında temsil edilirler. Konumları ve "
+"isimleri Çin alfabesinde benzer. Takımyıldızların adı ilk olarak Han "
+"hanedanlığındaki Büyük Tarihçi Kayıtlarında (史記) yaklaşık MÖ 2000'de Xia "
+"hanedanını tanımlayan görünür."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -54,12 +61,21 @@ msgid ""
 "Korean map grouped the 1467 stars in about 190 constellations. The shapes of\n"
 "the depictions are slightly different from the Chinese ones."
 msgstr ""
+"### Menşei\n"
+"\n"
+"Bu Stellarium gökyüzü kültüründe görüntülenen 272 takımyıldızı, 1395 taşa oyulmuş olan Kore Takımyıldızı haritası _Cheon-Sang-Yeol-Cha-Bun-Ya-Zi-Do_'ya dayanmaktadır. Siyah taş levha 122,5 cm genişliğindeydi. , 211 cm yüksekliğinde ve 12 cm derinliğinde; yıldızlar beyaz renkle vurgulanmıştır. Harita 1.467 yıldız [#1], 264 takımyıldızı ve adlarını, ekliptik ve ekvator çizgilerini ve tam dairenin 365 Çin \"derecesini\" gösterir. Çin köklerinin önceki Kore haritasının (Goguryeo yıldız haritası) bir kopyası olarak derlenmiş ve son gözlemler nedeniyle ayrıntıları değiştirilmiştir. Bu nedenle, bazı yıldızlar bin yıl öncesine kadar koordinatlarında kazınır ve bazı (gruplar) yıldız için presesyon uygulanır.\n"
+"\n"
+"Haritanın yorumlanması kolay değil: Harita o kadar eski ki, gerçek yıldızlarla eşleşen sadece 300 kadar yıldız bulundu. Haritanın tüm yıldızları bir daire üzerine çizildi, bu nedenle ekvator güney sınırından daha küçük görünüyor. Takımyıldızın yoğunluğu konuma göre değişmediğinden, takımyıldızların konumu ve boyutu yazar tarafından bilinmeyen bir şekilde bir şekilde değişmiştir. Herhangi bir takımyıldıza ait olmayan parlak yıldızların olmaması gerektiği varsayılmaktadır. Yazarın eseri yoruma tabidir ve daha sonra değiştirilebilir. Bununla birlikte, Kore Takımyıldızının neye benzediğini kabaca gösterecektir.\n"
+"\n"
+"Bu Kore gök haritasının kökeni, yaklaşık 2.000 yıl önce var olan başka bir gök haritası, Çin Suzhou haritasıdır (bkz: Çin gök kültürü). Orijinal Kore haritası, 1467 yıldızını yaklaşık 190 takımyıldızında gruplandırdı. Betimlemelerin şekilleri Çinlilerden biraz farklıdır."
 
 # Sky culture references section in markdown format
 msgid ""
 " - [#1]: Cheonsang Yeolcha Bunyajido: [Wikipedia article](http://en.wikipedia.org/wiki/Cheonsang_Yeolcha_Bunyajido)\n"
 " - [#2]: Digitalized map: [image](https://digicult2.thulb.uni-jena.de/rsc/viewer/digicult_derivate_00115090/Sternkarte2.tif)"
 msgstr ""
+" - [#1]: Cheonsang Yeolcha Bunyajido: [Wikipedia makalesi](http://en.wikipedia.org/wiki/Cheonsang_Yeolcha_Bunyajido)\n"
+" - [#2]: Dijitalleştirilmiş harita: [image](https://digicult2.thulb.uni-jena.de/rsc/viewer/digicult_derivate_00115090/Sternkarte2.tif)"
 
 # Sky culture authors section in markdown format
 msgid ""
@@ -68,10 +84,13 @@ msgid ""
 "\n"
 "Reworked by Susanne M Hoffmann"
 msgstr ""
+"Bu gökyüzü kültürüne Stellarium kullanıcısı [Jeong, Tae-Min](http://user.chollian.net/~jtm71/) katkıda bulunmuştur.\n"
+"\n"
+"Susanne M Hoffmann tarafından yeniden düzenlendi"
 
 # Sky culture license section in markdown format
 msgid "GNU GPL v2.0"
-msgstr ""
+msgstr "GNU GPL v2.0"
 
 # Korean constellation, pronounce: JuJeong
 msgid "Holy Kettle"
@@ -203,7 +222,7 @@ msgstr "Gökyüzü'nün Irmağı"
 
 # Korean constellation, pronounce: BuYeol
 msgid "Prayer for Progeny"
-msgstr ""
+msgstr "Soy için dua"
 
 # Korean constellation, pronounce: Eo
 msgid "Fish"
@@ -211,7 +230,7 @@ msgstr "Balıklar"
 
 # Korean constellation, pronounce: Ku
 msgid "Forcast"
-msgstr ""
+msgstr "tahmin"
 
 # Korean constellation, pronounce: Mii
 msgid "Yard for Empresses"
@@ -247,7 +266,7 @@ msgstr "Gökyüzü'nün Kümes Hayvanı"
 
 # Korean constellation, pronounce: NaamDoo
 msgid "Shrine of Sky"
-msgstr ""
+msgstr "Gökyüzü Tapınağı"
 
 # Korean constellation, pronounce: Goo
 msgid "Dog"
@@ -371,7 +390,7 @@ msgstr "Damat"
 
 # Korean constellation, pronounce: GeoBuu
 msgid "Charioteer"
-msgstr ""
+msgstr "arabacı"
 
 # Korean constellation, pronounce: iinSeong
 msgid "Human"
@@ -415,7 +434,7 @@ msgstr "Kopuk Saray"
 
 # Korean constellation, pronounce: TouGongRi
 msgid "Official for Materials Supply"
-msgstr ""
+msgstr "Malzeme Temini Yetkilisi"
 
 # Korean constellation, pronounce: JeonNwoe
 msgid "Lightening"
@@ -595,7 +614,7 @@ msgstr "Gökyüzü Geçidi"
 
 # Korean constellation, pronounce: SaamGii
 msgid "Flage of Saam"
-msgstr ""
+msgstr "Saam Bayrağı"
 
 # Korean constellation, pronounce: CheonGa
 msgid "Village of Sky"
@@ -611,7 +630,7 @@ msgstr "Sınır Generali"
 
 # Korean constellation, pronounce: CheonJeol
 msgid "Celebration of Sky"
-msgstr ""
+msgstr "Gökyüzü Kutlaması"
 
 # Korean constellation, pronounce: GuuYuu
 msgid "Flag of Emperor"
@@ -631,11 +650,11 @@ msgstr "İnik Bayrak"
 
 # Korean constellation, pronounce: SaaGwae
 msgid "Forcast Calamity"
-msgstr ""
+msgstr "Felaket Tahmini"
 
 # Korean constellation, pronounce: Zaa
 msgid "Scout of Three Troups"
-msgstr ""
+msgstr "Üç Grubun İzcisi"
 
 # Korean constellation
 msgid "Saam"
@@ -991,7 +1010,7 @@ msgstr "Hizmetçi"
 
 # Korean constellation, pronounce: YeoSaang
 msgid "Desk of Woman"
-msgstr ""
+msgstr "Kadın Masası"
 
 # Korean constellation, pronounce: DaeRii
 msgid "Judge Prison"
@@ -1083,19 +1102,19 @@ msgstr "Lord"
 
 # Korean constellation, pronounce: JwaJipBeop
 msgid "Left Executor"
-msgstr ""
+msgstr "Sol Yürütücü"
 
 # Korean constellation, pronounce: UuJipBeop
 msgid "Right Executor"
-msgstr ""
+msgstr "Sağ Yürütücü"
 
 # Korean constellation, pronounce: HeoRyang
 msgid "Crossbeam for Heo"
-msgstr ""
+msgstr "Heo için kiriş"
 
 # Korean constellation, pronounce: CheonJeon
 msgid "Threading Coins"
-msgstr ""
+msgstr "Diş Açma Paraları"
 
 # Name for NAME Pleiades
 msgid "Heap of Corpse"
