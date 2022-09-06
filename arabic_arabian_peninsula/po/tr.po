@@ -1,0 +1,595 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Last-Translator: Stellarium's developers\n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Sky culture name
+msgid "Arabic (Arabian Peninsula)"
+msgstr "Arapça (Arap Yarımadası)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The oral folk tradition of star names and asterisms in the Arabian Peninsula, \n"
+"mostly scattered in poetry and proverbs."
+msgstr ""
+"Arap Yarımadası'ndaki yıldız isimleri ve yıldız işaretlerinin sözlü halk "
+"geleneği, çoğunlukla şiir ve atasözlerine dağılmıştır."
+
+# Sky culture description section in markdown format
+msgid ""
+"The Bedouins and farmers in central Arabia relied heavily on stars for timing \n"
+"their nomadic trips, animal care, weather forecast and agricultural activities. \n"
+"We find frequent mention of stars in their proverbs and poetry. Fortunately, the \n"
+"oral poetry and proverbs have been documented and preserved in collections by \n"
+"different scholars. Surveying these collections along with oral traditions \n"
+"reveals the star knowledge of the people of this region.\n"
+"\n"
+"The stars used for timing are the same as that of ancient Arabs, but the system \n"
+"is simplified by beginning the year cycle with the heliacal rising of \n"
+"al-Thurayya, the Pleiades, in the beginning of summer, and then counting 13 days \n"
+"for each lunar station, except for al-Jabhah that has 14 days. This will have 27 \n"
+"lunar stations x 13 days + 14 days for (al-Jabhah) = 365-day cycle. Other \n"
+"methods of timing were also used like the monthly Pleiades-Moon conjunction or \n"
+"using other stars like the stars of the Big Dipper.\n"
+"\n"
+"The sources show that star names and asterisms are few compared to that of \n"
+"ancient Arabs. Only the bright stars and prominent asterism were named and used. \n"
+"An important source of star knowledge that continued its influence up to the \n"
+"present is the poetry of al-Khalāwī, a poet who's time is not certain but \n"
+"estimated to be in the 17th century[#9]. Another important source is a poem by \n"
+"Moḥammad al-Qādhī (~1809 -1886), where he described all the 28 lunar \n"
+"stations, citing them by the local names[#8].\n"
+"\n"
+"The source of this sky culture is a compilation of star names from oral \n"
+"traditions and the books listed in the references section."
+msgstr ""
+"Orta Arabistan'daki Bedeviler ve çiftçiler, göçebe gezilerini, hayvan bakımını, hava tahminlerini ve tarımsal faaliyetlerini zamanlamak için büyük ölçüde yıldızlara güveniyorlardı. Atasözleri ve şiirlerinde yıldızlardan sıkça söz edilir. Neyse ki, sözlü şiir ve atasözleri farklı bilim adamları tarafından belgelenmiş ve koleksiyonlarda korunmuştur. Bu koleksiyonları sözlü geleneklerle birlikte incelemek, bu bölge halkının yıldız bilgilerini ortaya koymaktadır.\n"
+"\n"
+"Zamanlama için kullanılan yıldızlar eski Araplarınkiyle aynıdır, ancak sistem, yıl döngüsünü yaz başında El-Thurayya, Ülker'in sarmal yükselişi ile başlatarak ve ardından her ay için 13 gün sayarak basitleştirilmiştir. istasyon, 14 gün olan el-Cebhah hariç. Bunun 27 ay istasyonu x 13 gün + 14 gün için (el-Jabhah) = 365 günlük döngüsü olacaktır. Aylık Ülker-Ay kavuşumu gibi veya Büyük Ayı'nın yıldızları gibi diğer yıldızları kullanmak gibi başka zamanlama yöntemleri de kullanıldı.\n"
+"\n"
+"Kaynaklar, yıldız isimlerinin ve yıldız işaretlerinin eski Araplarınkine kıyasla çok az olduğunu gösteriyor. Sadece parlak yıldızlar ve belirgin asterizm isimlendirildi ve kullanıldı. Günümüze kadar etkisini sürdüren önemli bir yıldız bilgisi kaynağı, zamanı kesin olmayan ancak 17. yüzyılda olduğu tahmin edilen bir şair olan el-Halâvî'nin şiiridir[#9]. Diğer bir önemli kaynak ise Muhammed el-Qādhī'nin (~1809 -1886) 28 ay istasyonunu yerel adlarıyla alıntılayarak tarif ettiği bir şiiridir [#8].\n"
+"\n"
+"Bu gök kültürünün kaynağı sözlü geleneklerden yıldız isimleri ve kaynaklar bölümünde listelenen kitapların bir derlemesidir."
+
+# Sky culture references section in markdown format
+msgid ""
+"- [#1]: Al-ʿUbūdī, Moḥammad b. Nāṣir, The folk proverbs in Najd, 4 volumes, Dar Al-Thulūthiyah, Riyadh, Saudi Arabia, 2010 AD.\n"
+"- [#2]: Al-ʿUbūdī, Moḥammad b. Nāṣir, Lexicon of the classical root of the common dialect words, 13 volumes, King AbdulAzeez Library, Riyadh,  Saudi Arabia, 2009 AD.\n"
+"- [#3]: A collection of Bedouins poetry by the name: The moist flowers of Bedouin poetry, 18 volumes, Al Maʿarif library, Tayef, Saudi Arabia.\n"
+"- [#4]: A collection of poetry by Mandīl al-Fuhayd, Our local literature of the Arab Peninsula, 10 volumes, Riyadh, Saudi Arabia.\n"
+"- [#5]: Al-Suwayda, ʿAbd al-Raḥman, The local common proverbs of the Ḥayel region, Riyadh, Saudi Arabia, 2007.\n"
+"- [#6]: Al-Suwayda, ʿAbd al-Raḥman, The best of folk poetry, 3 volume poetry collection, Riyadh,  Saudi Arabia, 1999.\n"
+"- [#7]: Al-Suwayda, ʿAbd al-Raḥman, The poets of the mountain, 5 volume poetry collection, Riyadh,  Saudi Arabia, 2013.\n"
+"- [#8]: Al-Ajaji, Khalid, The explanation of al-Qādhī poem of anwāʾ and stars, Riyadh,  Saudi Arabia, 2013.\n"
+"- [#9]: Al-Ajaji, Khalid, The explanation of al-Khalāwī astronomy poems, Riyadh,  Saudi arabia, 2018."
+msgstr ""
+"- [#1]: Al-'Ubûdî, Muhammed b. Nāṣir, Necd'de halk atasözleri, 4 cilt, Dar Al-Thulūthiyah, Riyad, Suudi Arabistan, MS 2010.\n"
+"- [#2]: Al-'Ubûdî, Muhammed b. Nāṣir, Ortak lehçe kelimelerin klasik kökü sözlüğü, 13 cilt, King AbdulAzeez Kütüphanesi, Riyad, Suudi Arabistan, MS 2009.\n"
+"- [#3]: Bedevi şiirinin bir koleksiyonu: Bedevi şiirinin nemli çiçekleri, 18 cilt, Al Ma'arif kütüphanesi, Tayef, Suudi Arabistan.\n"
+"- [#4]: Mandīl al-Fuhayd'ın bir şiir koleksiyonu, Arap Yarımadası'nın yerel edebiyatımız, 10 cilt, Riyad, Suudi Arabistan.\n"
+"- [#5]: Al-Suwayda, 'Abd al-Rahman, Hayel bölgesinin yerel ortak atasözleri, Riyad, Suudi Arabistan, 2007.\n"
+"- [#6]: Al-Suwayda, 'Abd al-Rahman, Halk şiirinin en iyisi, 3 ciltlik şiir koleksiyonu, Riyad, Suudi Arabistan, 1999.\n"
+"- [#7]: Al-Suwayda, ʿAbd al-Rahman, The şairs of the Mountain, 5 ciltlik şiir koleksiyonu, Riyad, Suudi Arabistan, 2013.\n"
+"- [#8]: Al-Ajaji, Khalid, El-Qādhī anwāʾ ve yıldız şiirinin açıklaması, Riyad, Suudi Arabistan, 2013.\n"
+"- [#9]: Al-Ajaji, Khalid, El-Khalāwī astronomi şiirlerinin açıklaması, Riyad, Suudi arabistan, 2018."
+
+# Sky culture authors section in markdown format
+msgid "Khalid al-Ajaji: turath.alfalak@gmail.com"
+msgstr "Khalid al-Ajaji: turath.alfalak@gmail.com"
+
+# Sky culture license section in markdown format
+msgid ""
+"Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).\n"
+"\n"
+"Special pemission is granted to Stellarium labs to include the licensed material "
+msgstr ""
+"Atıf-Türetilemez 4.0 Uluslararası (CC BY-ND 4.0).\n"
+"\n"
+"Stellarium laboratuvarlarına lisanslı materyali dahil etmek için özel izin verilir"
+
+# Arabic (Arabian Peninsula) constellation, native: الحويجزين - الدخيلين - آل
+# أبا بزي
+msgid "The two guards - The two refugees - Āl Abā Bzay"
+msgstr "İki gardiyan - İki mülteci - Āl Abā Bzay"
+
+# Description of Arabic (Arabian Peninsula) constellation The two guards - The
+# two refugees - Āl Abā Bzay
+msgid ""
+"The two stars: β UMi and γ UMi. They are used for directions. _The Two Guards_ \n"
+"comes from the legend that al-Jady (Polaris) killed the father of the seven \n"
+"sisters who are carrying the bier of their father (The stars of the Big Dipper) \n"
+"and circling al-Jady, vowing that they will not burry their father until they \n"
+"get revenge. Al-Jady asked these two for protection, and the name is _The two \n"
+"guards_.\n"
+"\n"
+"The other name _The two refugees_ comes from another version of the legend that \n"
+"they are the ones who committed the killing and they fled towards al-Jady for \n"
+"protection.\n"
+"\n"
+"These two names are common throughout the central region of Saudi Arabia.\n"
+"\n"
+"Āl Abā Bzay is another name of β UMi and γ UMi, meaning: the family of Abā \n"
+"Bzay, used by the tribe of Yam."
+msgstr ""
+"İki yıldız: β UMi ve γ UMi. Yönlendirme için kullanılırlar. _İki Muhafız_, el-Jady'nin (Polaris), babalarının sedyesini (Büyük Kepçe'nin yıldızları) taşıyan ve el-Jady'nin çevresinde dönen yedi kız kardeşin babasını, onları gömmeyeceklerine yemin ederek öldürdüğü efsanesinden gelir. İntikam alana kadar baba. Al-Jady bu ikisinden koruma istedi ve adı _İki muhafız_.\n"
+"\n"
+"Diğer isim _İki mülteci_, cinayeti işleyenlerin kendileri olduğu ve korunmak için el-Jady'ye kaçtıklarına dair efsanenin başka bir versiyonundan geliyor.\n"
+"\n"
+"Bu iki isim, Suudi Arabistan'ın orta bölgesinde yaygındır.\n"
+"\n"
+"Āl Abā Bzay, β UMi ve γ UMi'nin başka bir adıdır, yani: Yam kabilesi tarafından kullanılan Abā Bzay ailesi."
+
+# Arabic (Arabian Peninsula) constellation, native: النعايم - السبَّع - بنات
+# نعش
+msgid "Al-Nayem - The seven - Daughters of Na'Sh"
+msgstr "Al-Nayem - Yedi - Na'Sh'in Kızları"
+
+# Description of Arabic (Arabian Peninsula) constellation Al-Nayem - The seven
+# - Daughters of Na'Sh
+msgid ""
+"(Arabic النعايم), meaning is not known for certain, composed of the seven \n"
+"stars of the Big Dipper. other names are: _The Seven_ (Arabic السبَّع) \n"
+"and _Daughters of Na'sh_ (Arabic بنات نعش). The first name is common in \n"
+"oral poetry.\n"
+"\n"
+"The two stars α UMa, and β UMa that rise first have several names: \n"
+"\n"
+"- Al-Khilj, The first khilj: The name could mean the mother camels. These names \n"
+"are used by Bedouin tribes of central Arabia and the tribe of al-Dawasir in \n"
+"southwest Saudi Arabia.\n"
+"- The first two: A name reported in the traditions of west coast of Saudi \n"
+"Arabia.\n"
+"\n"
+"The two stars γ UMa and δ UMa, which are the second pair to rise of the seven \n"
+"stars are called:\n"
+"- The latter khilj. \n"
+"- The fourth ones, signifying that they are the third and fourth to rise of the \n"
+"seven stars. This name is found in the traditions of west coast of Saudi Arabia."
+msgstr ""
+"(Arapça النعايم), anlamı kesin olarak bilinmeyen, Büyük Kepçe'nin yedi yıldızından oluşur. diğer isimler şunlardır: _The Seven_ (Arapça السبَّع) ve _Daughters of Na'sh_ (Arapça بنات نعش). İlk isim sözlü şiirde yaygındır.\n"
+"\n"
+"İlk yükselen iki yıldız α UMa ve β UMa'nın birkaç adı vardır:\n"
+"\n"
+"- Al-Khilj, İlk hilj: Adı anne develer anlamına gelebilir. Bu isimler, Orta Arabistan'daki Bedevi kabileleri ve Suudi Arabistan'ın güneybatısındaki el-Dawasir kabilesi tarafından kullanılmaktadır.\n"
+"- İlk ikisi: Suudi Arabistan'ın batı kıyısı geleneklerinde bildirilen bir isim.\n"
+"\n"
+"Yedi yıldızın yükselen ikinci çifti olan iki yıldız γ UMa ve δ UMa olarak adlandırılır:\n"
+"- İkinci khilj.\n"
+"- Dördüncüsü, yedi yıldızın yükselen üçüncü ve dördüncüsü olduklarını gösterir. Bu isim Suudi Arabistan'ın batı kıyısı geleneklerinde bulunur."
+
+# Arabic (Arabian Peninsula) constellation, native: الشداد
+msgid "The saddle of the camel"
+msgstr "Devenin eyeri"
+
+# Description of Arabic (Arabian Peninsula) constellation The saddle of the
+# camel
+msgid ""
+"The 5 bright stars of Cassiopeia. This name is used in the western areas along \n"
+"the red sea of Saudi Arabia."
+msgstr ""
+"Cassiopeia'nın 5 parlak yıldızı. Bu isim, Suudi Arabistan'ın kızıl denizi "
+"boyunca batı bölgelerinde kullanılmaktadır."
+
+# Arabic (Arabian Peninsula) constellation, native: المغزل
+msgid "The wool spindle"
+msgstr "yün iğ"
+
+# Description of Arabic (Arabian Peninsula) constellation The wool spindle
+msgid ""
+"The Cross shaped stars of α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr), δ \n"
+"Cyg, and β1 Cyg (Albireo). The source is oral tradition from the town of Zulfī \n"
+"in central Saudi Arabia."
+msgstr ""
+"α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr), δ Cyg ve β1 Cyg (Albireo)'nun "
+"Haç biçimli yıldızları. Kaynak, Suudi Arabistan'ın merkezindeki Zülfi "
+"kasabasından gelen sözlü gelenektir."
+
+# Arabic (Arabian Peninsula) constellation, native: المقدم
+msgid "The front"
+msgstr "Ön"
+
+# Arabic (Arabian Peninsula) constellation, native: المؤخر
+msgid "The rear"
+msgstr "arka"
+
+# Arabic (Arabian Peninsula) constellation, native: الرشا
+msgid "The bucket rope"
+msgstr "kova ipi"
+
+# Arabic (Arabian Peninsula) constellation, native: الشرطين
+msgid "The two signs"
+msgstr "iki işaret"
+
+# Arabic (Arabian Peninsula) constellation, native: البطين
+msgid "The little abdomen"
+msgstr "küçük karın"
+
+# Arabic (Arabian Peninsula) constellation, native: الثريا
+msgid "Al-Thurayya"
+msgstr "El Thurayya"
+
+# Arabic (Arabian Peninsula) constellation, native: الذراع 
+msgid "The arm"
+msgstr "Kol"
+
+# Arabic (Arabian Peninsula) constellation, native: الكليبين 
+msgid "The two little dogs"
+msgstr "iki küçük köpek"
+
+# Description of Arabic (Arabian Peninsula) constellation The two little dogs
+msgid ""
+"An asterism of the two stars: δ CMa and ε CMa. There heliacal rising is used \n"
+"for timing. The name is common in central Arabia."
+msgstr ""
+"İki yıldızdan oluşan bir yıldız işareti: δ CMa ve ε CMa. Orada zamanlama "
+"için sarmal yükselme kullanılır. Adı orta Arabistan'da yaygındır."
+
+# Arabic (Arabian Peninsula) constellation, native: النثرة
+msgid "Nostrils [of the lion]"
+msgstr "[Aslanın] burun delikleri"
+
+# Arabic (Arabian Peninsula) constellation, native: الطرف
+msgid "Eyes [of the lion]"
+msgstr "[aslanın] gözleri"
+
+# Arabic (Arabian Peninsula) constellation, native: الجبهة
+msgid "Forehead [of the lion]"
+msgstr "[Aslanın] alnı"
+
+# Arabic (Arabian Peninsula) constellation, native: الزبرة
+msgid "Mane [of the lion]"
+msgstr "Yele [aslanın]"
+
+# Arabic (Arabian Peninsula) constellation, native: العوا
+msgid "The bend"
+msgstr "Büküm"
+
+# Arabic (Arabian Peninsula) constellation, native: الغفر
+msgid "The cover"
+msgstr "Kapak"
+
+# Arabic (Arabian Peninsula) constellation, native: الزبانى
+msgid "Claws of the scorpion"
+msgstr "Akrep pençeleri"
+
+# Arabic (Arabian Peninsula) constellation, native: الإكليل
+msgid "The diadem"
+msgstr "taç"
+
+# Arabic (Arabian Peninsula) constellation, native: الشولة
+msgid "Raised tail of the scorpion"
+msgstr "Akrebin yükseltilmiş kuyruğu"
+
+# Arabic (Arabian Peninsula) constellation, native: العقرب
+msgid "The scorpion"
+msgstr "Akrep"
+
+# Arabic (Arabian Peninsula) constellation, native: البلدة
+msgid "The empty place"
+msgstr "boş yer"
+
+# Arabic (Arabian Peninsula) constellation, native: النعائم
+msgid "The ostriches"
+msgstr "devekuşları"
+
+# Arabic (Arabian Peninsula) constellation, native: سعد الذابح
+msgid "The lucky star of the slaughterer"
+msgstr "Katilin şanslı yıldızı"
+
+# Arabic (Arabian Peninsula) constellation, native: سعد بلع
+msgid "The lucky star of the swallower"
+msgstr "Yutucunun şanslı yıldızı"
+
+# Arabic (Arabian Peninsula) constellation, native: سعد السعود
+msgid "The luckiest of the lucky stars"
+msgstr "Şanslı yıldızların en şanslısı"
+
+# Arabic (Arabian Peninsula) constellation, native: سعد الأخبية
+msgid "The Lucky Star Of The Tents"
+msgstr "Çadırların Şanslı Yıldızı"
+
+# Arabic (Arabian Peninsula) constellation, native: الهقعة
+msgid "The circular mark"
+msgstr "dairesel işaret"
+
+# Arabic (Arabian Peninsula) constellation, native: الهنعة
+msgid "Stoopness [of the camel neck]"
+msgstr "Eğiklik [deve boynunun]"
+
+# Arabic (Arabian Peninsula) constellation, native: ظهر الجوزا
+msgid "Back of al-Jawza"
+msgstr "El Cevza'nın arka yüzü"
+
+# Description of Arabic (Arabian Peninsula) constellation Back of al-Jawza
+msgid ""
+"The three stars at the belt of Orion. This name along with the star names of \n"
+"Northern horn of al-Jawza and Southern horn of al-Jawza comes from the western \n"
+"region of Saudi Arabia and used by the fishers of the red sea. The source is \n"
+"oral tradition from the seaport Umluj of Saudi Arabia.\n"
+"\n"
+"#### Claws of al-Jawza\n"
+"\n"
+"The four brightest stars of Orion: α, γ, β, and κ Ori - 53 Ori. ##### Mosque \n"
+"of al-Thurayya\n"
+"\n"
+"A triangle of stars that rise before al-Thurayya (The Pleiades). It is composed \n"
+"of the three stars: α Ari, α Tri, and β Tri. The source of this name is oral \n"
+"tradition in the region of Wadi al-Dawasir in southwestern Saudi Arabia."
+msgstr ""
+"Orion'un kuşağındaki üç yıldız. Bu isim, el-Cevza'nın kuzey boynuzu ve el-Cevza'nın güney boynuzunun yıldız isimleriyle birlikte, Suudi Arabistan'ın batı bölgesinden gelir ve kızıl deniz balıkçıları tarafından kullanılır. Kaynak, Suudi Arabistan'ın Umluj limanından gelen sözlü gelenektir.\n"
+"\n"
+"#### El Cevza'nın Pençeleri\n"
+"\n"
+"Orion'un en parlak dört yıldızı: α, γ, β ve κ Ori - 53 Ori. ##### El Thurayya Camii\n"
+"\n"
+"Thurayya'dan (Ülke) önce yükselen bir yıldız üçgeni. Üç yıldızdan oluşur: α Ari, α Tri ve β Tri. Bu ismin kaynağı, Suudi Arabistan'ın güneybatısındaki Wadi al-Dawasir bölgesindeki sözlü gelenektir."
+
+# Arabic (Arabian Peninsula) constellation, native: زوابن الجوزا، الزبَّن
+msgid "Claws of al-Jawza"
+msgstr "El Cevza'nın pençeleri"
+
+# Arabic (Arabian Peninsula) constellation, native: مسجد الثريا
+msgid "Mosque of al-Thurayya"
+msgstr "El Thurayya Camii"
+
+# Arabic (Arabian Peninsula) constellation, native: الجوزا
+msgid "Al-Jawza"
+msgstr "El Cevza"
+
+# Description of Arabic (Arabian Peninsula) constellation Al-Jawza
+msgid ""
+"Al-Jawza is a proper name for a woman. this constellation is a woman figure for \n"
+"the Orion stars. It is the same as that of ancient Arabs."
+msgstr ""
+"Al-Jawza bir kadın için uygun bir isimdir. bu takımyıldız Orion yıldızları "
+"için bir kadın figürüdür. Eski Araplarınkiyle aynı."
+
+# Name for NAME Venus
+msgid "Morning star"
+msgstr "Sabah Yıldızı"
+
+# Name for NAME Venus
+msgid "Evening star"
+msgstr "Akşam yıldızı"
+
+# Name for NAME Venus
+msgid "The sip"
+msgstr "yudum"
+
+# Name for NAME Venus
+msgid "The star of al-Hawdan"
+msgstr "El-Hawdan'ın yıldızı"
+
+# Name for M 44
+msgid "The nostril [of the lion]"
+msgstr "[Aslanın] burun deliği"
+
+# Name for HIP 11767
+msgid "The kid"
+msgstr "Çocuk"
+
+# Name for HIP 72607
+msgid "The two guards 1"
+msgstr "iki gardiyan 1"
+
+# Name for HIP 72607
+msgid "The two refugees 1"
+msgstr "iki mülteci 1"
+
+# Name for HIP 75097
+msgid "The two guards 2"
+msgstr "iki gardiyan 2"
+
+# Name for HIP 75097
+msgid "The two refugees 2"
+msgstr "iki mülteci 2"
+
+# Name for HIP 54061
+msgid "Al-khilj 1"
+msgstr "el-hilj 1"
+
+# Name for HIP 54061
+msgid "The first khilj 1"
+msgstr "İlk khilj 1"
+
+# Name for HIP 54061
+msgid "The first two 1"
+msgstr "ilk ikisi 1"
+
+# Name for HIP 53910
+msgid "Al-khilj 2"
+msgstr "el-hilj 2"
+
+# Name for HIP 53910
+msgid "The first khilj 2"
+msgstr "İlk khilj 2"
+
+# Name for HIP 53910
+msgid "The first two 2"
+msgstr "ilk iki 2"
+
+# Name for HIP 58001
+msgid "The latter khilj 1"
+msgstr "Sonuncusu khilj 1"
+
+# Name for HIP 58001
+msgid "The fourth ones 1"
+msgstr "dördüncü olanlar 1"
+
+# Name for HIP 59774
+msgid "The latter khilj 2"
+msgstr "Sonuncusu khilj 2"
+
+# Name for HIP 59774
+msgid "The fourth ones 2"
+msgstr "dördüncü olanlar 2"
+
+# Name for HIP 62956
+msgid "The fifth"
+msgstr "Beşinci"
+
+# Name for HIP 65378
+msgid "The sixth"
+msgstr "Altıncı"
+
+# Name for HIP 65477
+msgid "Al-Suha"
+msgstr "El-Suha"
+
+# Name for HIP 67301
+msgid "The seventh"
+msgstr "Yedinci"
+
+# Name for HIP 69673
+msgid "The watcher"
+msgstr "İzleyici"
+
+# Name for HIP 69673
+msgid "The Red One"
+msgstr "Kırmızı olan"
+
+# Name for HIP 91262
+msgid "The closed wings eagle"
+msgstr "Kapalı kanatlı kartal"
+
+# Name for HIP 24608
+msgid "The parallel one"
+msgstr "paralel olan"
+
+# Name for HIP 24608
+msgid "The sided one"
+msgstr "taraflı olan"
+
+# Name for HIP 97649
+msgid "The spread wings eagle"
+msgstr "Yayılan kanatlar kartal"
+
+# Name for HIP 97649
+msgid "Al-Kanoon"
+msgstr "El-Kanoon"
+
+# Name for HIP 677
+msgid "The rear bucket mouth 2"
+msgstr "Arka kova ağzı 2"
+
+# Name for HIP 1067
+msgid "The rear bucket mouth 1"
+msgstr "Arka kova ağzı 1"
+
+# Name for HIP 113881
+msgid "The front bucket mouth 2"
+msgstr "Ön kova ağzı 2"
+
+# Name for HIP 113963
+msgid "The front bucket mouth 1"
+msgstr "Ön kova ağzı 1"
+
+# Name for HIP 21421
+msgid "The follower"
+msgstr "takipçi"
+
+# Name for HIP 21421
+msgid "The latter"
+msgstr "İkincisi"
+
+# Name for HIP 21421
+msgid "Al-Mjaidih"
+msgstr "El-Mjaidih"
+
+# Name for HIP 36046
+msgid "The claws 1"
+msgstr "pençeler 1"
+
+# Name for HIP 36962
+msgid "The claws 2"
+msgstr "pençeler 2"
+
+# Name for HIP 37740
+msgid "The claws 3"
+msgstr "pençeler 3"
+
+# Name for HIP 35550
+msgid "The claws 4"
+msgstr "pençeler 4"
+
+# Name for HIP 34088
+msgid "The claws 5"
+msgstr "pençeler 5"
+
+# Name for HIP 35350
+msgid "The claws 6"
+msgstr "pençeler 6"
+
+# Name for HIP 57632
+msgid "Star of weather change"
+msgstr "Hava değişimi yıldızı"
+
+# Name for HIP 65474
+msgid "High one"
+msgstr "yüksek olan"
+
+# Name for HIP 80763
+msgid "The heart"
+msgstr "Kalp"
+
+# Name for HIP 27989
+msgid "Northern horn of al-Jawza"
+msgstr "El Cevza'nın kuzey boynuzu"
+
+# Name for HIP 27989
+msgid "Northern claw of al-Jawza"
+msgstr "El Cevza'nın kuzey pençesi"
+
+# Name for HIP 27366
+msgid "Leg of al-Jawza"
+msgstr "El Cevza ayağı"
+
+# Name for HIP 24436
+msgid "Southern horn of al-Jawza"
+msgstr "El Cevza'nın güney boynuzu"
+
+# Name for HIP 24436
+msgid "Southern claw of al-Jawza"
+msgstr "El Cevza'nın güney pençesi"
+
+# Name for HIP 32349
+msgid "Al-Mirzam"
+msgstr "El Mirzam"
+
+# Name for HIP 32349
+msgid "Al-Shi'la"
+msgstr "El-Şi'la"
+
+# Name for HIP 30438
+msgid "Suhayl"
+msgstr "Süheyl"
+
+# Name for HIP 7588
+msgid "The oath star"
+msgstr "yemin yıldızı"
+
+# Name for HIP 7588
+msgid "Aba al-Sihil"
+msgstr "Eba el-Sihil"
+
+# Name for HIP 7588
+msgid "Al-Mis'hil"
+msgstr "El-Mis'hil"
+
+# Name for HIP 7588
+msgid "As-S'hali"
+msgstr "As-S'hali"
+
+# Name for HIP 68702
+msgid "Al-Naayem 1"
+msgstr "El Naayem 1"
+
+# Name for HIP 71683
+msgid "Al-Naayem 2"
+msgstr "El Naayem 2"

@@ -1,0 +1,384 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Last-Translator: Stellarium's developers\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Sky culture name
+msgid "Arabic (Al-Sufi)"
+msgstr "阿拉伯语（Al-Sufi）"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"This sky culture reflects _Book Of The Stars_ (Arabic:كتاب الكواكب), \n"
+"written by the astronomer: Al-Ṣūfī in the 10th century. The book describes \n"
+"the 1025 stars of the 48 classical Greek constellations of Ptolemy Almagest, \n"
+"map to them the indigenous Arab star names and asterisms, and identify 44 stars as stars of the astrolabe. "
+msgstr ""
+"这种天空文化反映了 10 世纪天文学家 Al-Ṣūfī 所著的《星之书》（阿拉伯语：كتاب الكواكب）。这本书描述了托勒密天文学 48 "
+"个古典希腊星座的 1025 颗恒星，将当地的阿拉伯恒星名称和星群映射到它们，并将 44 颗恒星识别为星盘中的恒星。"
+
+# Sky culture description section in markdown format
+msgid ""
+"_Book of the stars_ (Arabic:كتاب الكواكب) is an astronomical book written\n"
+"shortly before 964 by the astronomer Abu al-Ḥusayn ʿAbd al-Raḥmān ibn ʿUmar\n"
+"al-Ṣūfī (born in Rayy, 903; died 986), referred to as al-Ṣūfī. It is the most\n"
+"outstanding among the works of the prominent astronomer, as Professor Paul\n"
+"Kunitzsch described it. Professor Kunitzsch continued to say [#1]:\n"
+"\n"
+"> In it, al-Ṣūfī treats the 48 classical constellations, which were established\n"
+"> and transmitted in Ptolemy's Almagest. The description of each constellation\n"
+"> comprises the following four sections: first, a general discussion of the\n"
+"> constellation and its individual stars; this section also includes al-Ṣūfi's\n"
+"> criticism of the Ptolemaic tradition and notices of his own observations. \n"
+"> Second, a record of the indigenous Arabic star names falling under that\n"
+"> constellation, and the exact identification of the respective stars with the\n"
+"> corresponding Ptolemaic stars. \n"
+"> Third, two drawings of the constellation, one as it is seen on a celestial\n"
+"> globe, and the other one as it is seen in the sky. Fourth, a table of the\n"
+"> stars making up that constellation, giving a verbal description of each\n"
+"> star's location and its longitude, latitude, and magnitude. This table\n"
+"> closely follows the arrangement of Ptolemy's star catalogue in the Almagest.\n"
+"\n"
+"In addition to the four sections of each constellation mentioned by dr.\n"
+"Kunitzsch, al-Ṣūfī would identify stars within the 6 magnitudes that were\n"
+"neglected by Ptolemy, but he did not catalogue them and was faithful to Ptolemy\n"
+"star catalog.\n"
+"\n"
+"An important aspect of al-Ṣūfī book is his record of the indigenous Arabic star\n"
+"names falling under each constellation, and the exact identification of the\n"
+"respective stars with the corresponding Ptolemaic stars. This means that we are\n"
+"looking at two layers of stars knowledge at the same time: the Ptolemaic one\n"
+"and the indigenous Arab one. \n"
+"\n"
+"Al-Sufi also selected 44 stars to be used in the astrolabe. The names he \n"
+"designated for these stars are a mix of indigenous Arabic star names like \"The \n"
+"flying eagle\", and names derived from the position of the sta in the Ptolemaic \n"
+"constellation like \"Leg of Centaurus\". \n"
+"\n"
+"\n"
+"This sky culture is a result of research done on manuscripts of al-Ṣūfī book,\n"
+"oldest of which is the [Oxford, Bodleian Library Ms. Marsh 144 dated 1009\n"
+"AD](https://iiif.bodleian.ox.ac.uk/iiif/viewer/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535). \n"
+"Ten manuscripts of the _The Book Of The Stars_ were consulted to produce the\n"
+"most accurate text as was written by al-Ṣūfī. Then, each member star of the 48\n"
+"constellations was identified according to al-Ṣūfī description, and new tables\n"
+"were built including modern star designations from the Hipparcos, Bright stars,\n"
+"and Bayer catalogues. In addition, Arab indigenous star names were collected\n"
+"and identified as mapped by al-Ṣūfī to the Ptolemaic ones. All the previous\n"
+"steps were included in a book published digitally of the _The Book Of The\n"
+"Stars_ plus explanations and commentary by Khalid al-Ajaji, the author of this\n"
+"sky culture[#4].\n"
+"\n"
+"The single source of the sky culture is the _The book of the stars_ and the aim\n"
+"is to give a faithful representation of the book content.\n"
+"\n"
+"### Constellations\n"
+"\n"
+"The sky culture contains the 48 Greek constellations listed by Ptolemy in the\n"
+"Almagest plus three constellations imagined by al-Ṣūfī and were illustrated in\n"
+"his book.\n"
+"\n"
+"The sky culture art images of the constellations were extracted from the Ulugh \n"
+"Beg manuscript of the _The Book Of The Stars_, and adapted for Stellarium by Mr. \n"
+"Kutaibaa Akraa [#5]. The constellation lines are constructed according to the \n"
+"constellation shapes with an attempt to include most of the member stars. Star \n"
+"names are the names given by al-Sufi to the astrolabe stars in his book, a total \n"
+"of 44 stars plus indigenous Arab names of famous stars in the northern part of \n"
+"the sky found in the constellations of Ursa Minor, Ursa Major, and Draco. "
+msgstr ""
+"_星辰之书_（阿拉伯语：كتاب الكواكب）是天文学家阿布·哈萨因·阿布德·拉哈曼·伊本·奥马尔·拉伊（Abd al-Raḥmān ibn ʿUmar al-Ṣūfī，903 年生于雷伊，卒于 986 年）于 964 年不久前写的一本天文书籍，简称 al- Ṣūfī。正如 Paul Kunitzsch 教授所描述的，它是著名天文学家的作品中最杰出的。 Kunitzsch 教授继续说 [#1]：\n"
+"\n"
+"> 在其中，al-Ṣūfī 论述了 48 个经典星座，这些星座在托勒密的《天文学大成》中确立和传播。每个星座的描述包括以下四个部分：首先，对星座及其各个恒星的一般讨论；本节还包括 al-Ṣūfi 对托勒密传统的批评以及他自己的观察。其次，记录属于该星座的土著阿拉伯星名，以及各个恒星与相应的托勒密恒星的准确识别。第三，两张星座图，一张在天球仪上看到的，另一张在天空中看到的。第四，组成该星座的恒星表，对每颗恒星的位置及其经度、纬度和大小进行口头描述。这张表紧跟托勒密在《天文学大成》中的星表排列。\n"
+"\n"
+"除了博士提到的每个星座的四个部分。 Kunitzsch, al-Ṣūfī 会识别 6 等内被托勒密忽略的恒星，但他没有对它们进行编目，而是忠实于托勒密的星表。\n"
+"\n"
+"al-Ṣūfī 书的一个重要方面是他记录了每个星座下的土著阿拉伯星名，以及各个星与相应的托勒密星的准确识别。这意味着我们同时在看两层恒星知识：托勒密一层和土著阿拉伯一层。\n"
+"\n"
+"Al-Sufi 还选择了 44 颗星用于星盘。他为这些恒星指定的名称混合了土著阿拉伯恒星名称，例如“飞鹰”，以及源自托勒密星座中恒星位置的名称，例如“半人马座腿”。\n"
+"\n"
+"\n"
+"这种天空文化是对 al-Ṣūfī 书的手稿进行研究的结果，其中最古老的是 [Oxford, Bodleian Library Ms. Marsh 144，日期为公元 1009 年](https://iiif.bodleian.ox.ac.uk/ iiif/查看器/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)。查阅了《星之书》的十份手稿，以得出最准确的文本，如 al-Ṣūfī 所写。然后，根据 al-Ṣūfī 描述确定了 48 个星座的每个成员恒星，并建立了新的表格，包括来自 Hipparcos、Bright stars 和 Bayer 星表的现代恒星名称。此外，阿拉伯土著星名被收集并确定为由 al-Ṣūfī 映射到托勒密星名。前面的所有步骤都包含在一本以数字形式出版的《星之书》中，以及该天空文化的作者 Khalid al-Ajaji 的解释和评论[#4]。\n"
+"\n"
+"天空文化的唯一来源是《星辰之书》，其目的是忠实再现书中的内容。\n"
+"\n"
+"### 星座\n"
+"\n"
+"天空文化包含托勒密在《天文学大成》中列出的 48 个希腊星座，以及 al-Ṣūfī 想象并在他的书中有插图的三个星座。\n"
+"\n"
+"星座的天空文化艺术图像是从《星之书》的乌鲁伯手稿中提取的，并由 Kutaibaa Akraa 先生改编为 Stellarium [#5]。星座线是根据星座形状构建的，并试图包括大多数成员星。星名是 al-Sufi 在他的书中给星盘上的星星起的名字，总共 44 颗星星加上在小熊座、大熊座和天龙座中发现的天空北部著名星星的阿拉伯土著名称."
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: Kunitzsch, Paul, The Arabs and the Stars, The Astronomer Abu'L-Husayn al-Ṣūfī And His Book on The Constellations, XI, Northampton, England: Variorum Reprints, 1989, pg. 57.\n"
+" - [#2]: Kunitzsch, Paul, Untersuchungen Zur Sternnomenklatur Der Araber, Otto Harrassowitz ·Wiesbaden, 1961\n"
+" - [#3]: DESCRIPTIONS DES ETOILES FIXES, traduction littérale avec des notes par H C F C Schjellerup, St Petersbourg, 1874, pg. 26-27.\n"
+" - [#4]: [Book Of The Stars: Critical edition with commentary by Khalid AlAjaji](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)\n"
+" - [#5]: [Oulough Beg copy of ʿAbd Al-Raḥmān ibn ʿUmar Al-Ṣūfī. Kitāb ṣuwar Al-kawākib Al-ṯābita, Paris, Bibliothèque nationale de France. Département des Manuscrits. Arabe 5036](https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Seeing Ancient Stars, Visualization of the Almagest Catalog](http://www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Toomer, G. J., Ptolemy’s ALMAGEST, Princeton University Press, 2nd ed., 1998.\n"
+" - [#8]: Ibn Qutaybah, Al-Dinawarī, Abū Muḥammad ʿAbd Allah b. Muslim (died ~ 889), Kitāb al-Anwāʾ (on meteorolgy of the Arabs), (Arabic print of the original book, Daʾirat al-Maʿārif al-Osmānia, Hydarabad, India, 1956)\n"
+" - [#9]: Al-Marzūqī, Abū ʿAli Aḥmad b. Muḥammad b. al-Ḥassan (died 1030), Al-Azminah wa al-amkinah (Times and Places), (Arabic print of the original book in 2002, World of Books, Beirut, Lebanon).\n"
+" - [#10]: Al-Thaqafī, ʿAbd Allah b. Ḥussayn b. ʿĀṣim (died ~ 1012), Al-Anwāʾ wa al-azminah (Meteorology and times), (Arabic print of the original book in 1996, Dar al-jeel, Beirut, Lebanon)."
+msgstr ""
+" - [#1]: Kunitzsch, Paul, The Arabs and the Stars, The Astronomer Abu'L-Husayn al-Ṣūfī 和他的星座书, XI, Northampton, England: Variorum Reprints, 1989, pg. 57.\n"
+" - [#2]: Kunitzsch, Paul, Untersuchungen Zur Sternnomenklatur Der Araber, Otto Harrassowitz·威斯巴登, 1961\n"
+" - [#3]: DES ETOILES FIXES 的说明，翻译 littérale avec des notes par H C F C Schjellerup，圣彼得堡，1874 年，第 1 页。 26-27。\n"
+" - [#4]: [星之书：Khalid AlAjaji 评论的批判版](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)\n"
+" - [#5]: [Oulough Beg 复制 ʿAbd Al-Raḥmān ibn ʿUmar Al-Ṣūfī。 Kitāb ṣuwar Al-kawākib Al-ṯābita，巴黎，法国国家图书馆。 Département des Manuscrits。阿拉伯 5036](https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN)。\n"
+" - [#6]: [看远古星辰，可视化大天星目录](http://www.etwright.org/astro/almagest.html#cat)。\n"
+" - [#7]: Toomer, G. J.，托勒密的 ALMAGEST，普林斯顿大学出版社，第 2 版，1998 年。\n"
+" - [#8]: Ibn Qutaybah, Al-Dinawarī, Abū Muḥammad ʿAbd Allah b.穆斯林（约 889 年去世），Kitāb al-Anwāʾ（关于阿拉伯人的气象学），（原书的阿拉伯文印刷品，Daʾirat al-Maʿārif al-Osmānia，印度海达拉巴，1956 年）\n"
+" - [#9]: Al-Marzūqī，AbūʿAli Aḥmad b。穆罕默德 b. al-Ḥassan（卒于 1030 年），Al-Azminah wa al-amkinah（时间和地点），（2002 年原书的阿拉伯文印刷品，世界图书，黎巴嫩贝鲁特）。\n"
+" - [#10]: Al-Thaqafī，ʿAbd Allah b。 Ḥussayn b. ʿĀṣim（卒于 ~ 1012 年），Al-Anwāʾ wa al-azminah（气象学和时代），（1996 年原著的阿拉伯文印刷品，黎巴嫩贝鲁特 Dar al-jeel）。"
+
+# Sky culture authors section in markdown format
+msgid "Khalid al-Ajaji: turath.alfalak@gmail.com"
+msgstr "哈立德·阿贾吉：turath.alfalak@gmail.com"
+
+# Sky culture license section in markdown format
+msgid ""
+"Illustrations: Public domain[#5].\n"
+"\n"
+"Text and data: Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).\n"
+"\n"
+"Special pemission is granted to Stellarium Labs to include the licensed material "
+msgstr ""
+"插图：公共领域[#5]。\n"
+"\n"
+"文本和数据：Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)。\n"
+"\n"
+"向 Stellarium Labs 授予特殊许可以包含许可材料"
+
+# Arabic (Al-Sufi) constellation, native: الضباع وأولاد الضباع
+msgid "The hyenas and their youngsters"
+msgstr "鬣狗和它们的幼崽"
+
+# Arabic (Al-Sufi) constellation, native: السفينة
+msgid "Argo Navis"
+msgstr "阿尔戈纳维斯"
+
+# Arabic (Al-Sufi) constellation, native: فرس الصوفي
+msgid "The horse"
+msgstr "那匹马"
+
+# Arabic (Al-Sufi) constellation, native: الحوت العظيم
+msgid "The great fish"
+msgstr "伟大的鱼"
+
+# Arabic (Al-Sufi) constellation, native: الحوت الآخر
+msgid "The other fish"
+msgstr "另一条鱼"
+
+# Name for HIP 11767
+msgid "The kid"
+msgstr "孩子"
+
+# Name for HIP 72607
+msgid "The brighter of the two calves"
+msgstr "两个小牛中较亮的一个"
+
+# Name for HIP 75097
+msgid "The dimmer of the two calves"
+msgstr "两个小牛的调光器"
+
+# Name for HIP 62956
+msgid "The dark camel"
+msgstr "黑骆驼"
+
+# Name for HIP 65378
+msgid "The little goat"
+msgstr "小山羊"
+
+# Name for HIP 67301
+msgid "The leader"
+msgstr "领导人"
+
+# Name for HIP 63125
+msgid "Liver of the lion"
+msgstr "狮子的肝脏"
+
+# Name for HIP 75458
+msgid "The male hyena"
+msgstr "雄性鬣狗"
+
+# Name for HIP 69673
+msgid "The high one with the spear"
+msgstr "高一的长矛"
+
+# Name for HIP 76267
+msgid "The bright star of al-Fakkah"
+msgstr "al-Fakkah 的璀璨之星"
+
+# Name for HIP 84345
+msgid "Head of Hercules"
+msgstr "大力神头"
+
+# Name for HIP 91262
+msgid "The landing eagle"
+msgstr "着陆之鹰"
+
+# Name for HIP 95947
+msgid "Beak of the hen"
+msgstr "母鸡的喙"
+
+# Name for HIP 102098
+msgid "Tail of the hen"
+msgstr "母鸡的尾巴"
+
+# Name for HIP 746
+msgid "The henna tinted hand"
+msgstr "指甲花染过的手"
+
+# Name for HIP 15863
+msgid "Side of Perseus"
+msgstr "英仙座侧面"
+
+# Name for HIP 14576
+msgid "Head of the ogre"
+msgstr "食人魔的头"
+
+# Name for HIP 24608
+msgid "Al-Ayyuq"
+msgstr "艾尤克"
+
+# Name for HIP 86032
+msgid "Head of the serpent holder"
+msgstr "蛇持有人的头"
+
+# Name for HIP 77070
+msgid "Neck of the serpent"
+msgstr "蛇的脖子"
+
+# Name for HIP 97649
+msgid "The flying eagle"
+msgstr "飞翔的鹰"
+
+# Name for HIP 101421
+msgid "Tail of the Dolphin"
+msgstr "海豚的尾巴"
+
+# Name for HIP 677
+msgid "Navel of the horse"
+msgstr "马的肚脐"
+
+# Name for HIP 1067
+msgid "Wing of the horse"
+msgstr "马的翅膀"
+
+# Name for HIP 113881
+msgid "Shoulder of the horse"
+msgstr "马的肩膀"
+
+# Name for HIP 113963
+msgid "Rump of the horse"
+msgstr "马的臀部"
+
+# Name for HIP 107315
+msgid "Mouth of the horse"
+msgstr "马的嘴"
+
+# Name for HIP 5447
+msgid "Abdomen of the fish"
+msgstr "鱼的腹部"
+
+# Name for HIP 9640
+msgid "Leg of Andromeda"
+msgstr "仙女座的腿"
+
+# Name for HIP 8796
+msgid "Apex of the triangle"
+msgstr "三角形的顶点"
+
+# Name for HIP 9884
+msgid "The horn"
+msgstr "喇叭"
+
+# Name for HIP 21421
+msgid "The follower"
+msgstr "追随者"
+
+# Name for HIP 36850
+msgid "Head of the twin"
+msgstr "双胞胎的头"
+
+# Name for HIP 49669
+msgid "Heart of the lion"
+msgstr "狮子的心"
+
+# Name for HIP 54872
+msgid "Back of the lion"
+msgstr "狮子的背影"
+
+# Name for HIP 57632
+msgid "Tail of the lion"
+msgstr "狮子的尾巴"
+
+# Name for HIP 80763
+msgid "Heart of the scorpion"
+msgstr "蝎子之心"
+
+# Name for HIP 95241
+msgid "Heel of the archer"
+msgstr "弓箭手的脚跟"
+
+# Name for HIP 107556
+msgid "Tail of capricornus"
+msgstr "摩羯座的尾巴"
+
+# Name for HIP 113368
+msgid "Mouth of Piscis Austrinus"
+msgstr "南鱼嘴"
+
+# Name for HIP 14135
+msgid "The leprous hand"
+msgstr "麻风手"
+
+# Name for HIP 1562
+msgid "Tail of Cetus"
+msgstr "希图斯的尾巴"
+
+# Name for HIP 24436
+msgid "Leg of al-Jawza"
+msgstr "al-Jawza 的腿"
+
+# Name for HIP 13847
+msgid "End of the river"
+msgstr "河的尽头"
+
+# Name for HIP 32349
+msgid "Southern Shi'raa"
+msgstr "南希拉"
+
+# Name for HIP 37279
+msgid "Northern Shi'raa"
+msgstr "北希拉"
+
+# Name for HIP 30438
+msgid "Suhayl"
+msgstr "苏海尔"
+
+# Name for HIP 46390
+msgid "Al-Fard"
+msgstr "阿尔法德"
+
+# Name for HIP 59803
+msgid "Right wing of Corvus"
+msgstr "乌鸦座右翼"
+
+# Name for HIP 65474
+msgid "The armless high one"
+msgstr "无臂高一"
+
+# Name for HIP 27989
+msgid "Shoulder of al-Jawza"
+msgstr "al-Jawza 的肩膀"
+
+# Name for HIP 71683
+msgid "Leg of Centaurus"
+msgstr "半人马腿"

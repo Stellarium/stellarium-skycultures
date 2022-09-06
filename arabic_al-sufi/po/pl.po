@@ -1,0 +1,387 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Last-Translator: Stellarium's developers\n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Sky culture name
+msgid "Arabic (Al-Sufi)"
+msgstr "arabski (al-sufi)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"This sky culture reflects _Book Of The Stars_ (Arabic:كتاب الكواكب), \n"
+"written by the astronomer: Al-Ṣūfī in the 10th century. The book describes \n"
+"the 1025 stars of the 48 classical Greek constellations of Ptolemy Almagest, \n"
+"map to them the indigenous Arab star names and asterisms, and identify 44 stars as stars of the astrolabe. "
+msgstr ""
+"Ta kultura nieba odzwierciedla Księgę Gwiazd (arab. كتاب الكواكب), napisaną "
+"przez astronoma Al-Ṣūfī w X wieku. Książka opisuje 1025 gwiazd z 48 "
+"klasycznych greckich konstelacji Ptolemeusza Almagesta, przypisuje im "
+"rdzenne arabskie nazwy gwiazd i asteryzmy oraz identyfikuje 44 gwiazdy jako "
+"gwiazdy astrolabium."
+
+# Sky culture description section in markdown format
+msgid ""
+"_Book of the stars_ (Arabic:كتاب الكواكب) is an astronomical book written\n"
+"shortly before 964 by the astronomer Abu al-Ḥusayn ʿAbd al-Raḥmān ibn ʿUmar\n"
+"al-Ṣūfī (born in Rayy, 903; died 986), referred to as al-Ṣūfī. It is the most\n"
+"outstanding among the works of the prominent astronomer, as Professor Paul\n"
+"Kunitzsch described it. Professor Kunitzsch continued to say [#1]:\n"
+"\n"
+"> In it, al-Ṣūfī treats the 48 classical constellations, which were established\n"
+"> and transmitted in Ptolemy's Almagest. The description of each constellation\n"
+"> comprises the following four sections: first, a general discussion of the\n"
+"> constellation and its individual stars; this section also includes al-Ṣūfi's\n"
+"> criticism of the Ptolemaic tradition and notices of his own observations. \n"
+"> Second, a record of the indigenous Arabic star names falling under that\n"
+"> constellation, and the exact identification of the respective stars with the\n"
+"> corresponding Ptolemaic stars. \n"
+"> Third, two drawings of the constellation, one as it is seen on a celestial\n"
+"> globe, and the other one as it is seen in the sky. Fourth, a table of the\n"
+"> stars making up that constellation, giving a verbal description of each\n"
+"> star's location and its longitude, latitude, and magnitude. This table\n"
+"> closely follows the arrangement of Ptolemy's star catalogue in the Almagest.\n"
+"\n"
+"In addition to the four sections of each constellation mentioned by dr.\n"
+"Kunitzsch, al-Ṣūfī would identify stars within the 6 magnitudes that were\n"
+"neglected by Ptolemy, but he did not catalogue them and was faithful to Ptolemy\n"
+"star catalog.\n"
+"\n"
+"An important aspect of al-Ṣūfī book is his record of the indigenous Arabic star\n"
+"names falling under each constellation, and the exact identification of the\n"
+"respective stars with the corresponding Ptolemaic stars. This means that we are\n"
+"looking at two layers of stars knowledge at the same time: the Ptolemaic one\n"
+"and the indigenous Arab one. \n"
+"\n"
+"Al-Sufi also selected 44 stars to be used in the astrolabe. The names he \n"
+"designated for these stars are a mix of indigenous Arabic star names like \"The \n"
+"flying eagle\", and names derived from the position of the sta in the Ptolemaic \n"
+"constellation like \"Leg of Centaurus\". \n"
+"\n"
+"\n"
+"This sky culture is a result of research done on manuscripts of al-Ṣūfī book,\n"
+"oldest of which is the [Oxford, Bodleian Library Ms. Marsh 144 dated 1009\n"
+"AD](https://iiif.bodleian.ox.ac.uk/iiif/viewer/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535). \n"
+"Ten manuscripts of the _The Book Of The Stars_ were consulted to produce the\n"
+"most accurate text as was written by al-Ṣūfī. Then, each member star of the 48\n"
+"constellations was identified according to al-Ṣūfī description, and new tables\n"
+"were built including modern star designations from the Hipparcos, Bright stars,\n"
+"and Bayer catalogues. In addition, Arab indigenous star names were collected\n"
+"and identified as mapped by al-Ṣūfī to the Ptolemaic ones. All the previous\n"
+"steps were included in a book published digitally of the _The Book Of The\n"
+"Stars_ plus explanations and commentary by Khalid al-Ajaji, the author of this\n"
+"sky culture[#4].\n"
+"\n"
+"The single source of the sky culture is the _The book of the stars_ and the aim\n"
+"is to give a faithful representation of the book content.\n"
+"\n"
+"### Constellations\n"
+"\n"
+"The sky culture contains the 48 Greek constellations listed by Ptolemy in the\n"
+"Almagest plus three constellations imagined by al-Ṣūfī and were illustrated in\n"
+"his book.\n"
+"\n"
+"The sky culture art images of the constellations were extracted from the Ulugh \n"
+"Beg manuscript of the _The Book Of The Stars_, and adapted for Stellarium by Mr. \n"
+"Kutaibaa Akraa [#5]. The constellation lines are constructed according to the \n"
+"constellation shapes with an attempt to include most of the member stars. Star \n"
+"names are the names given by al-Sufi to the astrolabe stars in his book, a total \n"
+"of 44 stars plus indigenous Arab names of famous stars in the northern part of \n"
+"the sky found in the constellations of Ursa Minor, Ursa Major, and Draco. "
+msgstr ""
+"_Księga gwiazd_ (arab. كتاب الكواكب) to księga astronomiczna napisana krótko przed 964 rokiem przez astronoma Abu al-Ḥusayna ʿAbd al-Raḥmāna ibn ʿUmara al-Ṣūfi (ur. 903 w Rayy; zm. 986), zwanego al- Ṣūfi. Jest najwybitniejszym dziełem wybitnego astronoma, jak określił to profesor Paul Kunitzsch. Profesor Kunitzsch kontynuował [#1]:\n"
+"\n"
+"> W nim al-Ṣūfi traktuje 48 klasycznych konstelacji, które zostały ustanowione i przekazane w Almagest Ptolemeusza. Opis każdej konstelacji składa się z następujących czterech części: po pierwsze, ogólne omówienie konstelacji i jej poszczególnych gwiazd; sekcja ta zawiera również krytykę al-Ṣūfi wobec tradycji ptolemejskiej oraz uwagi dotyczące jego własnych obserwacji. Po drugie, zapis rdzennych arabskich nazw gwiazd należących do tej konstelacji oraz dokładna identyfikacja odpowiednich gwiazd z odpowiadającymi im gwiazdami ptolemejskimi. Po trzecie, dwa rysunki konstelacji, jeden widziany na kuli niebieskiej, a drugi widziany na niebie. Po czwarte, tabela gwiazd tworzących tę konstelację, podająca słowny opis położenia każdej gwiazdy oraz jej długości, szerokości i wielkości. Ta tabela ściśle odzwierciedla układ katalogu gwiazd Ptolemeusza w Almagest.\n"
+"\n"
+"Oprócz czterech części każdej konstelacji wymienionych przez dr. Kunitzsch al-Ṣūfi identyfikował gwiazdy w zakresie 6 wielkości gwiazdowych, które zostały zaniedbane przez Ptolemeusza, ale nie skatalogował ich i był wierny katalogowi gwiazd Ptolemeusza.\n"
+"\n"
+"Ważnym aspektem książki al-Ṣūfi jest jego zapis rdzennych arabskich nazw gwiazd należących do każdej konstelacji oraz dokładna identyfikacja odpowiednich gwiazd z odpowiadającymi im gwiazdami ptolemejskimi. Oznacza to, że patrzymy jednocześnie na dwie warstwy wiedzy o gwiazdach: ptolemejską i rdzenną arabską.\n"
+"\n"
+"Al-Sufi wybrał również 44 gwiazdy do wykorzystania w astrolabium. Nazwy, które wyznaczył dla tych gwiazd, są mieszanką rdzennych arabskich nazw gwiazd, takich jak „Latający orzeł”, i nazw wywodzących się z pozycji gwiazdy w konstelacji Ptolemeusza, takich jak „Noga Centaura”.\n"
+"\n"
+"\n"
+"Ta kultura nieba jest wynikiem badań przeprowadzonych na rękopisach księgi al-Ṣūfī, z których najstarszym jest [Oxford, Bodleian Library Mrs. Marsh 144 z 1009 AD](https://iiif.bodleian.ox.ac.uk/ iiif/viewer/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535). Skonsultowano się z dziesięcioma rękopisami Księgi gwiazd, aby uzyskać jak najdokładniejszy tekst, jaki napisał al-Ṣūfi. Następnie każda gwiazda członkowska z 48 konstelacji została zidentyfikowana zgodnie z opisem al-Ṣūfi i zbudowano nowe tabele zawierające współczesne oznaczenia gwiazd z katalogów Hipparcos, Bright stars i Bayer. Ponadto, arabskie rdzenne nazwy gwiazd zostały zebrane i zidentyfikowane jako zmapowane przez al-Ṣūfi na te ptolemejskie. Wszystkie poprzednie kroki zostały zawarte w opublikowanej cyfrowo książce _Księgi gwiazd_ wraz z wyjaśnieniami i komentarzami Khalida al-Ajaji, autora tej kultury nieba [#4].\n"
+"\n"
+"Jedynym źródłem kultury nieba jest _Księga gwiazd_, a jej celem jest wierne odwzorowanie treści księgi.\n"
+"\n"
+"### Konstelacje\n"
+"\n"
+"Kultura nieba zawiera 48 gwiazdozbiorów greckich wymienionych przez Ptolemeusza w Almageście oraz trzy gwiazdozbiory wyobrażone przez al-Ṣūfi i zilustrowane w jego książce.\n"
+"\n"
+"Obrazy gwiazdozbiorów kultury nieba zostały wydobyte z rękopisu Ulugh Beg _Księgi gwiazd_ i zaadaptowane do Stellarium przez pana Kutaibaa Akraa [#5]. Linie konstelacji są konstruowane zgodnie z kształtami konstelacji, starając się objąć większość gwiazd członkowskich. Nazwy gwiazd to imiona nadane przez al-Sufi gwiazdom astrolabium w jego książce, łącznie 44 gwiazdy plus rodzime arabskie nazwy znanych gwiazd w północnej części nieba znalezione w konstelacjach Wielkiej Niedźwiedzicy, Wielkiej Niedźwiedzicy i Draco ."
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: Kunitzsch, Paul, The Arabs and the Stars, The Astronomer Abu'L-Husayn al-Ṣūfī And His Book on The Constellations, XI, Northampton, England: Variorum Reprints, 1989, pg. 57.\n"
+" - [#2]: Kunitzsch, Paul, Untersuchungen Zur Sternnomenklatur Der Araber, Otto Harrassowitz ·Wiesbaden, 1961\n"
+" - [#3]: DESCRIPTIONS DES ETOILES FIXES, traduction littérale avec des notes par H C F C Schjellerup, St Petersbourg, 1874, pg. 26-27.\n"
+" - [#4]: [Book Of The Stars: Critical edition with commentary by Khalid AlAjaji](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)\n"
+" - [#5]: [Oulough Beg copy of ʿAbd Al-Raḥmān ibn ʿUmar Al-Ṣūfī. Kitāb ṣuwar Al-kawākib Al-ṯābita, Paris, Bibliothèque nationale de France. Département des Manuscrits. Arabe 5036](https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Seeing Ancient Stars, Visualization of the Almagest Catalog](http://www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Toomer, G. J., Ptolemy’s ALMAGEST, Princeton University Press, 2nd ed., 1998.\n"
+" - [#8]: Ibn Qutaybah, Al-Dinawarī, Abū Muḥammad ʿAbd Allah b. Muslim (died ~ 889), Kitāb al-Anwāʾ (on meteorolgy of the Arabs), (Arabic print of the original book, Daʾirat al-Maʿārif al-Osmānia, Hydarabad, India, 1956)\n"
+" - [#9]: Al-Marzūqī, Abū ʿAli Aḥmad b. Muḥammad b. al-Ḥassan (died 1030), Al-Azminah wa al-amkinah (Times and Places), (Arabic print of the original book in 2002, World of Books, Beirut, Lebanon).\n"
+" - [#10]: Al-Thaqafī, ʿAbd Allah b. Ḥussayn b. ʿĀṣim (died ~ 1012), Al-Anwāʾ wa al-azminah (Meteorology and times), (Arabic print of the original book in 1996, Dar al-jeel, Beirut, Lebanon)."
+msgstr ""
+" - [#1]: Kunitzsch, Paul, Arabowie i gwiazdy, Astronom Abu'L-Husayn al-Ṣūfī i jego książka o gwiazdozbiorach, XI, Northampton, Anglia: Variorum Reprints, 1989, s. 57.\n"
+" - [#2]: Kunitzsch, Paul, Untersuchungen Zur Sternnomenklatur Der Araber, Otto Harrassowitz · Wiesbaden, 1961\n"
+" - [#3]: OPISY DES ETOILES FIXES, tłumaczenie littérale avec des notes par H C F C Schjellerup, St Petersbourg, 1874, s. 26-27.\n"
+" - [#4]: [Księga gwiazd: wydanie krytyczne z komentarzem Khalida AlAjajiego](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)\n"
+" - [#5]: [Oulough Beg kopia ʿAbd Al-Raḥmān ibn ʿUmar Al-Ṣūfi. Kitāb ṣuwar Al-kawākib Al-ṯābita, Paryż, Bibliothèque Nationale de France. Departament Rękopisów. Arabe 5036](https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Widzenie starożytnych gwiazd, wizualizacja katalogu Almagest](http://www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Toomer, G.J., ALMAGEST Ptolemeusza, Princeton University Press, wyd. 2, 1998.\n"
+" - [OdnX8]: Ibn Qutaybah, Al-Dinawarī, Abū Muhammad ʿAbd Allah ur. Muslim (zmarł ~ 889), Kitāb al-Anwāʾ (o meteorologii Arabów), (arabski druk oryginalnej książki, Daʾirat al-Maʿārif al-Osmānia, Hydarabad, Indie, 1956)\n"
+" - [#9]: Al-Marzūqī, Abū ʿAli Aḥmad ur. Muhammad ur. al-Ḥassan (zm. 1030), Al-Azminah wa al-amkinah (Czasy i miejsca), (arabski druk oryginalnej książki z 2002 r., World of Books, Bejrut, Liban).\n"
+" - [#10]: Al-Thaqafī, ʿAbd Allah ur. ussayn ur. ʿĀṣim (zmarł ~ 1012), Al-Anwāʾ wa al-azminah (Meteorologia i czasy), (arabski druk oryginalnej książki z 1996 r., Dar al-jeel, Bejrut, Liban)."
+
+# Sky culture authors section in markdown format
+msgid "Khalid al-Ajaji: turath.alfalak@gmail.com"
+msgstr "Khalid al-Ajaji: turath.alfalak@gmail.com"
+
+# Sky culture license section in markdown format
+msgid ""
+"Illustrations: Public domain[#5].\n"
+"\n"
+"Text and data: Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).\n"
+"\n"
+"Special pemission is granted to Stellarium Labs to include the licensed material "
+msgstr ""
+"Ilustracje: domena publiczna[#5].\n"
+"\n"
+"Tekst i dane: Uznanie autorstwa-Bez Derivatives 4.0 Międzynarodowy (CC BY-ND 4.0).\n"
+"\n"
+"Stellarium Labs otrzymuje specjalne zezwolenie na włączenie licencjonowanego materiału"
+
+# Arabic (Al-Sufi) constellation, native: الضباع وأولاد الضباع
+msgid "The hyenas and their youngsters"
+msgstr "Hieny i ich potomstwo"
+
+# Arabic (Al-Sufi) constellation, native: السفينة
+msgid "Argo Navis"
+msgstr "Argo Navis"
+
+# Arabic (Al-Sufi) constellation, native: فرس الصوفي
+msgid "The horse"
+msgstr "Koń"
+
+# Arabic (Al-Sufi) constellation, native: الحوت العظيم
+msgid "The great fish"
+msgstr "Wielka ryba"
+
+# Arabic (Al-Sufi) constellation, native: الحوت الآخر
+msgid "The other fish"
+msgstr "Inne ryby"
+
+# Name for HIP 11767
+msgid "The kid"
+msgstr "Dzieciak"
+
+# Name for HIP 72607
+msgid "The brighter of the two calves"
+msgstr "Jaśniejszy z dwóch cieląt"
+
+# Name for HIP 75097
+msgid "The dimmer of the two calves"
+msgstr "Ściemniacz dwóch cieląt"
+
+# Name for HIP 62956
+msgid "The dark camel"
+msgstr "Ciemny wielbłąd"
+
+# Name for HIP 65378
+msgid "The little goat"
+msgstr "Mała koza"
+
+# Name for HIP 67301
+msgid "The leader"
+msgstr "Lider"
+
+# Name for HIP 63125
+msgid "Liver of the lion"
+msgstr "Wątroba lwa"
+
+# Name for HIP 75458
+msgid "The male hyena"
+msgstr "Samiec hieny"
+
+# Name for HIP 69673
+msgid "The high one with the spear"
+msgstr "Wysoki z włócznią"
+
+# Name for HIP 76267
+msgid "The bright star of al-Fakkah"
+msgstr "Jasna gwiazda al-Fakkah"
+
+# Name for HIP 84345
+msgid "Head of Hercules"
+msgstr "Szef Herkulesa"
+
+# Name for HIP 91262
+msgid "The landing eagle"
+msgstr "Lądujący orzeł"
+
+# Name for HIP 95947
+msgid "Beak of the hen"
+msgstr "Dziób kury"
+
+# Name for HIP 102098
+msgid "Tail of the hen"
+msgstr "Ogon kury"
+
+# Name for HIP 746
+msgid "The henna tinted hand"
+msgstr "Ręka przyciemniona henną"
+
+# Name for HIP 15863
+msgid "Side of Perseus"
+msgstr "Strona Perseusza"
+
+# Name for HIP 14576
+msgid "Head of the ogre"
+msgstr "Głowa wilkołaka"
+
+# Name for HIP 24608
+msgid "Al-Ayyuq"
+msgstr "Al-Ayyuq"
+
+# Name for HIP 86032
+msgid "Head of the serpent holder"
+msgstr "Głowa posiadacza węża"
+
+# Name for HIP 77070
+msgid "Neck of the serpent"
+msgstr "Szyja węża"
+
+# Name for HIP 97649
+msgid "The flying eagle"
+msgstr "Latający orzeł"
+
+# Name for HIP 101421
+msgid "Tail of the Dolphin"
+msgstr "Ogon delfina"
+
+# Name for HIP 677
+msgid "Navel of the horse"
+msgstr "Pępek konia"
+
+# Name for HIP 1067
+msgid "Wing of the horse"
+msgstr "Skrzydło konia"
+
+# Name for HIP 113881
+msgid "Shoulder of the horse"
+msgstr "Łopatka konia"
+
+# Name for HIP 113963
+msgid "Rump of the horse"
+msgstr "Zad konia"
+
+# Name for HIP 107315
+msgid "Mouth of the horse"
+msgstr "Pysk konia"
+
+# Name for HIP 5447
+msgid "Abdomen of the fish"
+msgstr "Brzuch ryby"
+
+# Name for HIP 9640
+msgid "Leg of Andromeda"
+msgstr "Noga Andromedy"
+
+# Name for HIP 8796
+msgid "Apex of the triangle"
+msgstr "Wierzchołek trójkąta"
+
+# Name for HIP 9884
+msgid "The horn"
+msgstr "Róg"
+
+# Name for HIP 21421
+msgid "The follower"
+msgstr "Obserwator"
+
+# Name for HIP 36850
+msgid "Head of the twin"
+msgstr "Głowa bliźniaka"
+
+# Name for HIP 49669
+msgid "Heart of the lion"
+msgstr "Serce lwa"
+
+# Name for HIP 54872
+msgid "Back of the lion"
+msgstr "Tył lwa"
+
+# Name for HIP 57632
+msgid "Tail of the lion"
+msgstr "Ogon lwa"
+
+# Name for HIP 80763
+msgid "Heart of the scorpion"
+msgstr "Serce skorpiona"
+
+# Name for HIP 95241
+msgid "Heel of the archer"
+msgstr "Pięta łucznika"
+
+# Name for HIP 107556
+msgid "Tail of capricornus"
+msgstr "Ogon Koziorożca"
+
+# Name for HIP 113368
+msgid "Mouth of Piscis Austrinus"
+msgstr "Usta Piscis Austrinus"
+
+# Name for HIP 14135
+msgid "The leprous hand"
+msgstr "Trędowata ręka"
+
+# Name for HIP 1562
+msgid "Tail of Cetus"
+msgstr "Ogon Cetus"
+
+# Name for HIP 24436
+msgid "Leg of al-Jawza"
+msgstr "Noga al-Jawza"
+
+# Name for HIP 13847
+msgid "End of the river"
+msgstr "Koniec rzeki"
+
+# Name for HIP 32349
+msgid "Southern Shi'raa"
+msgstr "Południowy Shi'raa"
+
+# Name for HIP 37279
+msgid "Northern Shi'raa"
+msgstr "Shi'raa Północny"
+
+# Name for HIP 30438
+msgid "Suhayl"
+msgstr "Suhayl"
+
+# Name for HIP 46390
+msgid "Al-Fard"
+msgstr "Al-Fard"
+
+# Name for HIP 59803
+msgid "Right wing of Corvus"
+msgstr "Prawe skrzydło Korvusu"
+
+# Name for HIP 65474
+msgid "The armless high one"
+msgstr "Bezręki wysoki"
+
+# Name for HIP 27989
+msgid "Shoulder of al-Jawza"
+msgstr "Ramię al-Jawza"
+
+# Name for HIP 71683
+msgid "Leg of Centaurus"
+msgstr "Noga Centaura"
