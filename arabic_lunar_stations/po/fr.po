@@ -1,0 +1,923 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Last-Translator: Stellarium's developers\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Sky culture name
+msgid "Arabic (Lunar Stations)"
+msgstr "Arabe (stations lunaires)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Arabic lunar stations describes the 28 sky areas chosen in ancient Arabia\n"
+"to define the daily location of the moon during its monthly trip around the\n"
+"sky."
+msgstr ""
+"Les stations lunaires arabes décrivent les 28 zones du ciel choisies dans "
+"l'ancienne Arabie pour définir l'emplacement quotidien de la lune lors de "
+"son voyage mensuel dans le ciel."
+
+# Sky culture description section in markdown format
+msgid ""
+"#### Historical Overview\n"
+"\n"
+"Originally, _Manazil al-Qamar_, the Arabic for the lunar mansions, or stations\n"
+"of the moon, were a system of 28 stars, group of stars, or spots in the sky\n"
+"near which the moon can be found in each of the 28 nights of its monthly\n"
+"revolution. Early mentions of the complete list of the lunar stations are\n"
+"reported by ʿAbd al-Malik ibn Ḥabīb (d. 852) on the authority of Malik ibn Anas\n"
+"(d. 795) [#1]. However, this system had been adopted already in the pre-Islamic\n"
+"period, prior to the 7th century of the common era.\n"
+"\n"
+"Using heliacal observations, the asterisms of the lunar mansions served to\n"
+"divide the sidereal and solar year of 365 days into 28 periods of 13 days each\n"
+"except for one period that is given 14 days. These 28 periods are called\n"
+"_anwāʾ_, plural of _nawʾ_. Each _nawʾ_ is determined by a characteristical\n"
+"star: when this star rises in the morning during dawn (in the east, so, shortly\n"
+"before the Sun), this is the beginning of the next _nawʾ_. The name of the\n"
+"_nawʾ_ (period of time, half month), gives the lunar mansion its name. One\n"
+"complete cycle of setting and rising for each of the 28 lunar mansions, one\n"
+"after the other, makes a solar year. This system was used to determine the\n"
+"seasons and predict weather, especially rain [#2]. The Arabs said: each _nawʾ_\n"
+"(period of 13/14 days) is characterized by a distinctive weather pattern of\n"
+"rain, wind, and temperature [#4].\n"
+"\n"
+"A detailed description of the stars of each lunar mansion, the times of their\n"
+"heliacal rising and a compilation of astronomical and meteorological knowledge\n"
+"of the ancient Arabs can be found in the _Book of al-anwaʾ_, authored by Ibn\n"
+"Qutaybah (b. 828 - d. 884 or 889). Copies of this book manuscripts survived,\n"
+"and it was printed in India in 1956 [#5].\n"
+"\n"
+"The usage of the lunar mansions continued to schedule the times of\n"
+"agricultural, travel and medicine practices. Due to the importance of observing\n"
+"the times of their heliacal risings, short treatises have been written, and\n"
+"poems have been composed describing the asterisms of the 28 mansions. A poem\n"
+"dedicated to description of the stars of the lunar mansions was published by\n"
+"Gustave-Adolphe de Calassanti-Motylinski in 1899 in his book \"Les mansions\n"
+"lunaires chez les Arabes\", attributed to Muḥammad al-Muqrī (1578-1638)\n"
+"[#6][#7]. A sample treatise is the one written by Shaykh Ṣāliḥ al-Shuthrī (d.\n"
+"~1891), titled \"A time-table for farmers\" [#8].\n"
+"\n"
+"#### Current Usage of Lunar Stations\n"
+"\n"
+"Agricultural almanacs based on the heliacal rising of lunar stations are still\n"
+"in active use today. The official calendar of Saudi Arabia includes these times\n"
+"[#9]. The following is an example of the use of a calendar based on the lunar\n"
+"stations for the 13 days period starting with the rise of the 3rd lunar station\n"
+"_al-Thurayya_ (Pleiades) on June 7th [#10]:\n"
+"\n"
+"> Weather gets hotter and wind gets stronger. Wild grasses dry. Water in wells\n"
+"> gets shallower. Rain is rare during this time. Spring insects start to\n"
+"> disappear. Palm tree dates starts to get its colors. It is recommended to\n"
+"> irrigate trees with the right amounts and stop irrigation of vines when\n"
+"> grapes start to get its color.\n"
+"\n"
+"#### Identification of the Lunar Stations\n"
+"\n"
+"Ibn Qutaybah (b. 828 - d. 884 or 889) in his _Book of al-anwaʾ_ gives detailed\n"
+"description of the stars of each lunar station, while an accurate\n"
+"identification can be extracted from the _Book of the stars_ by al-Ṣūfī (d.\n"
+"986). In his book, al-Ṣūfī maps the stars as known to ancient Arabs to those of\n"
+"the Ptolemaic Constellations.\n"
+"\n"
+"An example of al-Ṣūfī definitions of the stars of the lunar mansions, here is\n"
+"the definition of _al-Ghafr_ [#11][#12]:\n"
+"\n"
+"> And the 22nd \\[star of Virgo\\] and the 23rd which is on the tail\n"
+"> \\[hem of the garment\\] with the 25th on the left foot \\[of Virgo\\] are named\n"
+"> \\[by the Arabs\\] _al-Ghafr_ which is the 15th lunar mansion.\n"
+"\n"
+"Because the stars of the Ptolemaic constellations have known coordinates, it is\n"
+"relatively easy to identify the Arab star names.\n"
+"\n"
+"#### The 28 lunar stations\n"
+"\n"
+"1.   _Al-Sharatan_ or _Al-Ashrat_ (The two signs or the signs) composed of the 3 stars: α Ari (Hamal), β Ari (Sheratan) and γ<sup>2</sup> Ari (Mesarthim)\n"
+"2.   _Al-Botain_ (The small belly \\[of the little ram\\]) composed of the 3 stars: ε Ari, δ Ari (Botein), and ρ<sup>3</sup> Ari\n"
+"3.   _Al-Thurayya_ (Pleiades) composed of the star cluster of the Pleiades\n"
+"4.   _Al-Dabaran_ (The Follower \\[of the Pleiades\\]) composed of the single star α Tau (Aldebaran)\n"
+"5.   _Al-Hakaah_ (The mark on the horse side) composed of the three stars on the head of Orion: λ Ori (Meissa), φ<sup>1</sup> Ori and φ<sup>2</sup> Ori\n"
+"6.   _Al-Hanaah_ (The bend in the neck of a camel) composed of the 2 stars: γ Gem (Alhena) and ξ Gem\n"
+"7.   _Al-Thira-a_ (Retracted arm [of the lion]) composed of the 2 stars: α CMi (Procyon) and β CMi (Gomeisa)\n"
+"8.   _Al-Nathrah_ (The tip of the nose of the lion) composed of the Praesepe cluster and the 2 stars: γ Cnc (Asellus Borealis) and δ Cnc (Asellus Australis)\n"
+"9.   _Al-Tarf_ (The eyes of the lion) composed of the 2 stars: ε Leo and ο Leo (Subra)\n"
+"10.   _Al-Jabhah_ (The forehead of the lion) composed of 4 stars: ζ Leo (Adhafera), γ<sup>1</sup> Leo (Algieba), η Leo and α Leo (Regulus)\n"
+"11.   _Al-Zubrah_ (The mane of the lion) composed of the 2 stars: δ Leo (Zosma) and θ Leo (Chertan)\n"
+"12.   _Al-Sarfah_ (The change to colder weather) composed of one star: β Leo (Denebola)\n"
+"13.   _Al-Awwa_ (The bend) composed of 5 stars: β Vir (Zavijava), η Vir (Zaniah), γ Vir (Porrima), δ Vir and ε Vir (Vindemiatrix)\n"
+"14.   _Al-Simak_ (The unarmed high one) composed of the star α Vir (Spica)\n"
+"15.   _Al-Ghafr_ (The cover) composed of 3 stars: ι Vir (Syrma), κ Vir and λ Vir\n"
+"16.   _Al-Zubana_ (The claws of the scorpion) composed of the 2 stars: α<sup>2</sup> Lib (Zubenelgenubi) and β Lib (Zubeneschamali)\n"
+"17.   _Al-Ikleel_ (The ornamented headband, The diadem) composed of the 3 stars: β<sup>1</sup> Sco (Acrab), δ Sco (Dschubba) and π Sco.\n"
+"18.   _Al-Qalb_ (The heart of the scorpion) composed of the star α Sco (Antares)\n"
+"19.   _Al-Shawlah_ (The sting of the scorpion) composed of the 2 stars: λ Sco (Shaula) and υ Sco (Lesath)\n"
+"20.   _Al-Naayem_ (The Ostriches) 8 stars: γ2 Sgr, δ Sgr, ε Sgr, η Sgr, σ Sgr, φ Sgr, τ Sgr, and ζ Sgr\n"
+"21.   _Al-Baldah_ (The empty area) is the area where there are no stars between _Al-Naayem_ and _Saad Al-Thabih_\n"
+"22.   _Saad Al-Thabih_ (The lucky star of the Slaughterer) composed of the 3 stars: α<sup>1</sup> Cap (Algedi), β Cap (Dabih), and ν Cap\n"
+"23.   _Saad Bulaa_ (The lucky star of the swallower) composed of the 3 stars: ν Aqr, μ Aqr and ε Aqr (Albali)\n"
+"24.   _Saad Al-Saud_ (The luckiest of the lucky stars) composed of the 3 stars: β Aqr (Sadalsuud), ξ Aqr and λ Cap\n"
+"25.   _Saad Al-Akhbiah_ (The lucky stars of the tent dwellers) composed of the 4 stars: γ Aqr (Sadachbia), π Aqr, ζ<sup>2</sup> Aqr and η Aqr\n"
+"26.   _Al-Mugaddam_ (The front bucket mouth) composed of the 2 stars: α And (Alpheratz) and γ Peg (Algenib)\n"
+"27.   _Al-Muakhar_ (The rear bucket mouth) composed of the 2 stars: β Peg (Scheat) and α Peg (Markab)\n"
+"28.   _Al-Risha_ or _Al-Hoot_ (The rope of the well bucket or The Fish) composed of the star β And (Mirach) and two arcs of stars making a figure of a fish\n"
+"\n"
+"##### The Super lion and Al-Jawza figures of the ancient Arab star lore\n"
+"\n"
+"One may notice from the names of the 7th to the 15th lunar stations that they\n"
+"are part of a lion figure. This Arab lion figure covers around 100 degrees, a\n"
+"little bit more than half of the sky dome. From the names of these stars a lion\n"
+"figure can be constructed. \n"
+"\n"
+"Two of the lunar stations, _Al-Hakaah_ and _Al-Hanaah_, are part of Al-Jawza\n"
+"stars. Al-Jawza is the figure covering Orion plus some stars around it. The\n"
+"ancient Arabs imagined these stars as a figure of a woman with a bow and arrow\n"
+"aimed at the lion (an image, probably influenced from Roman Egypt: see\n"
+"depiction on Denderah zodiac which shows Babylonian as well as Greek traces of\n"
+"constellations).\n"
+"\n"
+"Mr. Roland Laffitte discussed these two figures and offered a depiction of each\n"
+"in his article: [Our Arab Heritage in the CelestialVault](http://www.muslimheritage.com/article/our-arab-heritage-celestial-vault).\n"
+"A more detailed discussion of ancient Arab star lore is found in his book: \"Le\n"
+"Ciel des Arabes\" [#13]."
+msgstr ""
+"#### Aperçu historique\n"
+"\n"
+"À l'origine, _Manazil al-Qamar_, l'arabe pour les demeures lunaires, ou stations de la lune, était un système de 28 étoiles, groupe d'étoiles ou taches dans le ciel près desquelles la lune peut être trouvée dans chacune des 28 nuits de sa révolution mensuelle. Les premières mentions de la liste complète des stations lunaires sont rapportées par ʿAbd al-Malik ibn Ḥabīb (m. 852) sous l'autorité de Malik ibn Anas (m. 795) [#1]. Cependant, ce système avait déjà été adopté dans la période préislamique, avant le 7ème siècle de l'ère commune.\n"
+"\n"
+"A partir d'observations héliaques, les astérismes des manoirs lunaires ont servi à diviser l'année sidérale et solaire de 365 jours en 28 périodes de 13 jours chacune à l'exception d'une période qui est donnée de 14 jours. Ces 28 périodes sont appelées _anwāʾ_, pluriel de _nawʾ_. Chaque _nawʾ_ est déterminé par une étoile caractéristique : lorsque cette étoile se lève le matin à l'aube (à l'est, donc, peu avant le Soleil), c'est le début de la prochaine _nawʾ_. Le nom du _nawʾ_ (période de temps, demi-mois), donne son nom au manoir lunaire. Un cycle complet de coucher et lever pour chacun des 28 manoirs lunaires, l'un après l'autre, fait une année solaire. Ce système a été utilisé pour déterminer les saisons et prévoir le temps, en particulier la pluie [#2]. Les Arabes disaient : chaque _nawʾ_ (période de 13/14 jours) est caractérisée par un régime météorologique distinctif de pluie, de vent et de température [#4].\n"
+"\n"
+"Une description détaillée des étoiles de chaque manoir lunaire, les heures de leur lever héliaque et une compilation des connaissances astronomiques et météorologiques des anciens Arabes peuvent être trouvées dans le _Livre d'al-anwaʾ_, rédigé par Ibn Qutaybah (b. 828 - d 884 ou 889). Des copies des manuscrits de ce livre ont survécu et il a été imprimé en Inde en 1956 [#5].\n"
+"\n"
+"L'utilisation des manoirs lunaires a continué à programmer les périodes de pratiques agricoles, de voyage et de médecine. En raison de l'importance d'observer les temps de leurs soulèvements héliaques, de courts traités ont été écrits et des poèmes ont été composés décrivant les astérismes des 28 demeures. Un poème consacré à la description des étoiles des demeures lunaires a été publié par Gustave-Adolphe de Calassanti-Motylinski en 1899 dans son livre \"Les demeures lunaires chez les Arabes\", attribué à Muḥammad al-Muqrī (1578-1638) [#6] [RéfX7]. Un exemple de traité est celui écrit par Shaykh Ṣāliḥ al-Shuthrī (d.\n"
+"~1891), intitulé \"Un calendrier pour les agriculteurs\" [#8].\n"
+"\n"
+"#### Utilisation actuelle des stations lunaires\n"
+"\n"
+"Les almanachs agricoles basés sur le lever héliaque des stations lunaires sont encore en usage aujourd'hui. Le calendrier officiel de l'Arabie Saoudite inclut ces horaires [#9]. Voici un exemple d'utilisation d'un calendrier basé sur les stations lunaires pour la période de 13 jours commençant par le lever de la 3ème station lunaire _al-Thurayya_ (Pléiades) le 7 juin [#10] :\n"
+"\n"
+"> Le temps se réchauffe et le vent devient plus fort. Les herbes folles sèchent. L'eau des puits devient moins profonde. La pluie est rare à cette période. Les insectes printaniers commencent à disparaître. Les dattes de palmier commencent à prendre leurs couleurs. Il est recommandé d'irriguer les arbres avec les bonnes quantités et d'arrêter l'irrigation des vignes lorsque les raisins commencent à se colorer.\n"
+"\n"
+"#### Identification des stations lunaires\n"
+"\n"
+"Ibn Qutaybah (b. 828 - d. 884 ou 889) dans son _Livre d'al-anwaʾ_ donne une description détaillée des étoiles de chaque station lunaire, tandis qu'une identification précise peut être extraite du _Livre des étoiles_ par al-Ṣūfī (d .986). Dans son livre, al-Ṣūfī cartographie les étoiles connues des anciens Arabes avec celles des constellations ptolémaïques.\n"
+"\n"
+"Un exemple de définitions al-Ṣūfī des étoiles des demeures lunaires, voici la définition de _al-Ghafr_ [#11][#12] :\n"
+"\n"
+"> Et la 22ème \\[étoile de la Vierge\\] et la 23ème qui est sur la queue\n"
+"> \\[ourlet du vêtement\\] avec le 25 sur le pied gauche \\[de la Vierge\\] sont nommés\n"
+"> \\[par les Arabes\\] _al-Ghafr_ qui est le 15ème manoir lunaire.\n"
+"\n"
+"Parce que les étoiles des constellations ptolémaïques ont des coordonnées connues, il est relativement facile d'identifier les noms d'étoiles arabes.\n"
+"\n"
+"#### Les 28 stations lunaires\n"
+"\n"
+"1. _Al-Sharatan_ ou _Al-Ashrat_ (Les deux signes ou les signes) composé des 3 étoiles : α Ari (Hamal), β Ari (Sheratan) et γ<sup>2</sup> Ari (Mesarthim)\n"
+"2. _Al-Botain_ (Le petit ventre \\[du petit bélier\\]) composé des 3 étoiles : ε Ari, δ Ari (Botein) et ρ<sup>3</sup> Ari\n"
+"3. _Al-Thurayya_ (Pléiades) composé de l'amas d'étoiles des Pléiades\n"
+"4. _Al-Dabaran_ (Le Disciple \\[des Pléiades\\]) composé de l'étoile unique α Tau (Aldebaran)\n"
+"5. _Al-Hakaah_ (La marque du côté du cheval) composée des trois étoiles sur la tête d'Orion : λ Ori (Meissa), φ<sup>1</sup> Ori et φ<sup>2</sup> Ou Je\n"
+"6. _Al-Hanaah_ (Le coude du cou d'un chameau) composé des 2 étoiles : γ Gem (Alhena) et ξ Gem\n"
+"7. _Al-Thira-a_ (Bras rétracté [du lion]) composé des 2 étoiles : α CMi (Procyon) et β CMi (Gomeisa)\n"
+"8. _Al-Nathrah_ (Le bout du nez du lion) composé de l'amas Praesepe et des 2 étoiles : γ Cnc (Asellus Borealis) et δ Cnc (Asellus Australis)\n"
+"9. _Al-Tarf_ (Les yeux du lion) composé des 2 étoiles : ε Lion et ο Lion (Subra)\n"
+"10. _Al-Jabhah_ (Le front du lion) composé de 4 étoiles : ζ Lion (Adhafera), γ<sup>1</sup> Lion (Algieba), η Lion et α Lion (Regulus)\n"
+"11. _Al-Zubrah_ (La crinière du lion) composée des 2 étoiles : δ Lion (Zosma) et θ Lion (Chertan)\n"
+"12. _Al-Sarfah_ (Le changement vers un temps plus froid) composé d'une étoile : β Lion (Denebola)\n"
+"13. _Al-Awwa_ (Le coude) composé de 5 étoiles : β Vir (Zavijava), η Vir (Zaniah), γ Vir (Porrima), δ Vir et ε Vir (Vindemiatrix)\n"
+"14. _Al-Simak_ (Le haut sans armes) composé de l'étoile α Vir (Spica)\n"
+"15. _Al-Ghafr_ (La couverture) composée de 3 étoiles : ι Vir (Syrma), κ Vir et λ Vir\n"
+"16. _Al-Zubana_ (Les griffes du scorpion) composé des 2 étoiles : α<sup>2</sup> Lib (Zubenelgenubi) et β Lib (Zubeneschamali)\n"
+"17. _Al-Ikleel_ (Le bandeau orné, Le diadème) composé des 3 étoiles : β<sup>1</sup> Sco (Acrab), δ Sco (Dschubba) et π Sco.\n"
+"18. _Al-Qalb_ (Le cœur du scorpion) composé de l'étoile α Sco (Antares)\n"
+"19. _Al-Shawlah_ (Le dard du scorpion) composé des 2 étoiles : λ Sco (Shaula) et υ Sco (Lesath)\n"
+"20. _Al-Naayem_ (Les autruches) 8 étoiles : γ2 Sgr, δ Sgr, ε Sgr, η Sgr, σ Sgr, φ Sgr, τ Sgr et ζ Sgr\n"
+"21. _Al-Baldah_ (La zone vide) est la zone où il n'y a pas d'étoiles entre _Al-Naayem_ et _Saad Al-Thabih_\n"
+"22. _Saad Al-Thabih_ (L'étoile porte-bonheur de l'abatteur) composée des 3 étoiles : α<sup>1</sup> Cap (Algedi), β Cap (Dabih) et ν Cap\n"
+"23. _Saad Bulaa_ (L'étoile porte-bonheur de l'avaleur) composée des 3 étoiles : ν Aqr, μ Aqr et ε Aqr (Albali)\n"
+"24. _Saad Al-Saud_ (La plus chanceuse des étoiles porte-bonheur) composé des 3 étoiles : β Aqr (Sadalsuud), ξ Aqr et λ Cap\n"
+"25. _Saad Al-Akhbiah_ (L'étoile porte-bonheur des habitants de la tente) composée des 4 étoiles : γ Aqr (Sadachbia), π Aqr, ζ<sup>2</sup> Aqr et η Aqr\n"
+"26. _Al-Mugaddam_ (La bouche du seau avant) composée des 2 étoiles : α And (Alpheratz) et γ Peg (Algenib)\n"
+"27. _Al-Muakhar_ (La bouche du seau arrière) composée des 2 étoiles : β Peg (Scheat) et α Peg (Markab)\n"
+"28. _Al-Risha_ ou _Al-Hoot_ (La corde du seau du puits ou Le Poisson) composé de l'étoile β And (Mirach) et de deux arcs d'étoiles faisant figure de poisson\n"
+"\n"
+"##### Le super lion et les figures d'Al-Jawza de l'ancienne tradition des étoiles arabes\n"
+"\n"
+"On peut remarquer d'après les noms des 7e à 15e stations lunaires qu'elles font partie d'une figure de lion. Cette figure de lion arabe couvre environ 100 degrés, un peu plus de la moitié du dôme du ciel. À partir des noms de ces étoiles, une figure de lion peut être construite.\n"
+"\n"
+"Deux des stations lunaires, _Al-Hakaah_ et _Al-Hanaah_, font partie des étoiles d'Al-Jawza. Al-Jawza est la figure couvrant Orion plus quelques étoiles autour d'elle. Les anciens Arabes imaginaient ces étoiles comme une figure de femme avec un arc et une flèche pointant vers le lion (une image, probablement influencée par l'Égypte romaine : voir la représentation sur le zodiaque de Denderah qui montre des traces babyloniennes ainsi que grecques de constellations).\n"
+"\n"
+"M. Roland Laffitte a discuté de ces deux figures et a proposé une description de chacune dans son article : [Notre patrimoine arabe dans la voûte céleste](http://www.muslimheritage.com/article/our-arab-heritage-celestial-vault). Une discussion plus détaillée de l'ancienne tradition des étoiles arabes se trouve dans son livre: \"Le Ciel des Arabes\" [#13]."
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: Kunitzsch, Paul, The Arabs and the Stars, Northampton, England: Variorum Reprints, 1989, Al-Manazil, Item XX pp 1-7.\n"
+" - [#2]: Helaine Selin, Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures, Lunar Mansions in Islamic History, Kunitzsch P. p 520\n"
+" - [#3]: Edward W. Lane, Arabic-English Lexicon (London: Willams &amp; Norgate 1863) p 2861\n"
+" - [#4]: Ibn Qutaybah (b. 828 d. 884 or 889), Kitab al-Anwa'a, pp 6,7 (Arabic print of the original book in 1956 in India Hydarabad/Deccan)\n"
+" - [#5]: Helaine Selin, Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures, Ibn Qutayba, Kunitzsch P. p 429\n"
+" - [#6]: Taʿrīf manāzil al-qamar, Les mansions lunaires des Arabes; Muhammad al-Mukrī.; A de Calassanti-Motylinski published in Alger, Imprimerie orientale, 1899.\n"
+" - [#7]: [Muhammad al-Muqrī poem](http://www.uranos.fr/DOCU_03_T03.htm)\n"
+" - [#8]: Ṣaliḥ Al-Shethrī, Timetable for farmers _Jadwal fi ʿilm al-ḥarth ʿala ḥisāb al-shuthūr_ ISBN 9960-49-971-5\n"
+" - [#9]: [Official Calendar](http://www.ummulqura.org.sa/) of the Kingdom of Saudi Arabia\n"
+" - [#10]: Moon stations and Agriculture seasons. A bulletin by the Agriculture Administration of the Chamber of Commerce in Riyadh, Saudi Arabia. 2002\n"
+" - [#11]: [Book Of The Stars: Critical edition with commentary by Khalid AlAjaji](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).\n"
+" - [#12]: Schjellerup, Description des etoiles fixes, 1874, p. 163. (Translation into French)\n"
+" - [#13]: Laffitte, Roland, Le Ciel des Arabes, Geuthner, Paris 2012\n"
+" - [#14]: Al-Marzūqī, Abū ʿAli Aḥmad b. Muḥammad b. al-Ḥassan (died 1030), Al-Azminah wa al-amkinah (Times and Places), (Arabic print of the original book in 2002, World of Books, Beirut, Lebanon).\n"
+" - [#15]: Al-Thaqafī, ʿAbd Allah b. Ḥussayn b. ʿĀṣim (died ~ 1012), Al-Anwāʾ wa al-azminah (Meteorology and times), (Arabic print of the original book in 1996, Dar al-jeel, Beirut, Lebanon)."
+msgstr ""
+" - [#1]: Kunitzsch, Paul, The Arabs and the Stars, Northampton, Angleterre : Variorum Reprints, 1989, Al-Manazil, Item XX pp 1-7.\n"
+" - [#2]: Helaine Selin, Encyclopédie de l'histoire des sciences, de la technologie et de la médecine dans les cultures non occidentales, Lunar Mansions in Islamic History, Kunitzsch P. p 520\n"
+" - [#3]: Edward W. Lane, Arabic-English Lexicon (Londres : Willams & Norgate 1863) p 2861\n"
+" - [#4]: Ibn Qutaybah (b. 828 d. 884 ou 889), Kitab al-Anwa'a, pp 6,7 (impression arabe du livre original en 1956 en Inde Hydarabad/Deccan)\n"
+" - [#5]: Helaine Selin, Encyclopédie de l'histoire des sciences, des technologies et de la médecine dans les cultures non occidentales, Ibn Qutayba, Kunitzsch P. p 429\n"
+" - [#6]: Taʿrīf manāzil al-qamar, Les mansions lunaires des Arabes ; Muhammad al-Mukri.; A de Calassanti-Motylinski publié à Alger, Imprimerie orientale, 1899.\n"
+" - [#7] : [Poème de Muhammad al-Muqrī](http://www.uranos.fr/DOCU_03_T03.htm)\n"
+" - [#8]: Ṣaliḥ Al-Shethrī, Horaire des agriculteurs _Jadwal fi ʿilm al-ḥarth ʿala ḥisāb al-shuthūr_ ISBN 9960-49-971-5\n"
+" - [#9] : [Calendrier officiel](http://www.ummulqura.org.sa/) du Royaume d'Arabie saoudite\n"
+" - [#10]: Stations lunaires et saisons agricoles. Un bulletin de l'Administration de l'Agriculture de la Chambre de Commerce de Riyad, Arabie Saoudite. 2002\n"
+" - [#11] : [Livre des étoiles : édition critique commentée par Khalid AlAjaji](https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).\n"
+" - [#12]: Schjellerup, Description des étoiles fixes, 1874, p. 163. (Traduction en français)\n"
+" - [#13]: Laffitte, Roland, Le Ciel des Arabes, Geuthner, Paris 2012\n"
+" - [#14]: Al-Marzūqī, Abū ʿAli Aḥmad b. Muhammad b. al-Ḥassan (mort en 1030), Al-Azminah wa al-amkinah (Times and Places), (impression arabe du livre original en 2002, World of Books, Beyrouth, Liban).\n"
+" - [#15]: Al-Thaqafī, ʿAbd Allah b. Husayn b. ʿĀṣim (mort ~ 1012), Al-Anwāʾ wa al-azminah (Météorologie et temps), (impression arabe du livre original en 1996, Dar al-jeel, Beyrouth, Liban)."
+
+# Sky culture authors section in markdown format
+msgid "Khalid al-Ajaji: turath.alfalak@gmail.com"
+msgstr "Khalid al-Ajaji : turath.alfalak@gmail.com"
+
+# Sky culture license section in markdown format
+msgid ""
+"Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).\n"
+"\n"
+"Special pemission is granted to Stellarium labs to include the licensed material "
+msgstr ""
+"Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).\n"
+"\n"
+"Une autorisation spéciale est accordée aux laboratoires Stellarium pour inclure le matériel sous licence"
+
+# Arabic (Lunar Stations) constellation, native: الفرقدان
+msgid "The two oryx calves"
+msgstr "Les deux veaux d'oryx"
+
+# Description of Arabic (Lunar Stations) constellation The two oryx calves
+msgid "A simple asterism of the two stars: β UMi and γ UMi."
+msgstr "Un astérisme simple des deux étoiles : β UMi et γ UMi."
+
+# Arabic (Lunar Stations) constellation, native: فأس الرحى
+msgid "The axe of the grindstone"
+msgstr "La hache de la meule"
+
+# Description of Arabic (Lunar Stations) constellation The axe of the
+# grindstone
+msgid "Fish shaped two arcs of stars joined at the ends by α UMi and β UMi."
+msgstr ""
+"Les poissons ont formé deux arcs d'étoiles reliés aux extrémités par α UMi "
+"et β UMi."
+
+# Arabic (Lunar Stations) constellation, native: بنات نعش
+msgid "Daughters of Na'sh"
+msgstr "Filles de Na'sh"
+
+# Description of Arabic (Lunar Stations) constellation Daughters of Na'sh
+msgid ""
+"The 7 stars of the big dipper, representing 7 girls carrying the bier of their\n"
+"father who was killed by Al-Jady (Polaris)."
+msgstr ""
+"Les 7 étoiles de la grande ourse, représentant 7 filles portant la bière de "
+"leur père tué par Al-Jady (Polaris)."
+
+# Arabic (Lunar Stations) constellation, native: الذئبان
+msgid "The two wolves"
+msgstr "Les deux loups"
+
+# Description of Arabic (Lunar Stations) constellation The two wolves
+msgid ""
+"The two stars: f Dra and ω Dra, representing two wolves trying to hunt the\n"
+"nearby baby camel, the star HR 6618, surrounded by the four mother camels."
+msgstr ""
+"Les deux étoiles : f Dra et ω Dra, représentant deux loups essayant de "
+"chasser le bébé chameau à proximité, l'étoile HR 6618, entourée des quatre "
+"chameaux mères."
+
+# Arabic (Lunar Stations) constellation, native: العوائذ
+msgid "The mother camels"
+msgstr "Les mamans chameaux"
+
+# Description of Arabic (Lunar Stations) constellation The mother camels
+msgid ""
+"An irregular square of four stars, representing four mother camels protecting\n"
+"the baby camel, the star HR 6618, from the near by Hyena, the star ι Dra, and\n"
+"the [two wolves](the-two-wolves)."
+msgstr ""
+"Un carré irrégulier de quatre étoiles, représentant quatre chamelles mères "
+"protégeant le bébé chameau, l'étoile HR 6618, de la proche Hyène, l'étoile ι"
+" Dra, et les [deux loups](les-deux-loups)."
+
+# Arabic (Lunar Stations) constellation, native: قصعة المساكين
+msgid "The bowl of the poor"
+msgstr "Le bol du pauvre"
+
+# Description of Arabic (Lunar Stations) constellation The bowl of the poor
+msgid ""
+"The stars of Corona Borealis. The incomplete circle represents a fractured bowl\n"
+"of the poor."
+msgstr ""
+"Les étoiles de la couronne boréale. Le cercle incomplet représente un bol "
+"fracturé des pauvres."
+
+# Arabic (Lunar Stations) constellation, native: رأس الناقة
+msgid "The camel head"
+msgstr "La tête de chameau"
+
+# Arabic (Lunar Stations) constellation, native: عنق الناقة
+msgid "The camel neck"
+msgstr "Le col de chameau"
+
+# Arabic (Lunar Stations) constellation, native: يدا الناقة
+msgid "The camel front legs"
+msgstr "Les pattes avant du chameau"
+
+# Arabic (Lunar Stations) constellation, native: الناقة
+msgid "The she-camel"
+msgstr "La chamelle"
+
+# Description of Arabic (Lunar Stations) constellation The she-camel
+msgid "A group of stars having a shape of a camel."
+msgstr "Groupe d'étoiles ayant la forme d'un chameau."
+
+# Arabic (Lunar Stations) constellation, native: الكرب - النعام
+msgid "The bucket rope knot - The well poles"
+msgstr "Le nœud de la corde du seau - Les poteaux du puits"
+
+# Description of Arabic (Lunar Stations) constellation The bucket rope knot -
+# The well poles
+msgid "Two adjacent stars imagined as the knot of the rope of the well bucket"
+msgstr ""
+"Deux étoiles adjacentes imaginées comme le nœud de la corde du seau du puits"
+
+# Arabic (Lunar Stations) constellation, native: الفرغ المقدم
+msgid "The front bucket mouth"
+msgstr "La bouche du godet avant"
+
+# Arabic (Lunar Stations) constellation, native: الفرغ المؤخر
+msgid "The rear bucket mouth"
+msgstr "La bouche de godet arrière"
+
+# Arabic (Lunar Stations) constellation, native: الرشاء - الحوت
+msgid "The well bucket rope - The fish"
+msgstr "La corde du seau du puits - Le poisson"
+
+# Arabic (Lunar Stations) constellation, native: الشرطان
+msgid "The two signs"
+msgstr "Les deux signes"
+
+# Arabic (Lunar Stations) constellation, native: البطين
+msgid "The little abdomen"
+msgstr "Le petit ventre"
+
+# Arabic (Lunar Stations) constellation, native: الثريا
+msgid "Al-Thurayya"
+msgstr "Al-Thuraya"
+
+# Arabic (Lunar Stations) constellation, native: الذراع المقبوضة
+msgid "Retracted arm [of the lion]"
+msgstr "Bras rétracté [du lion]"
+
+# Description of Arabic (Lunar Stations) constellation Retracted arm [of the
+# lion]
+msgid ""
+"Two stars representing the end of the shorter arm of the great Arab lion "
+"image."
+msgstr ""
+"Deux étoiles représentant l'extrémité du bras le plus court de la grande "
+"image du lion arabe."
+
+# Arabic (Lunar Stations) constellation, native: الذراع المبسوطة
+msgid "The extended arm [of the lion]"
+msgstr "Le bras étendu [du lion]"
+
+# Description of Arabic (Lunar Stations) constellation The extended arm [of
+# the lion]
+msgid ""
+"Two stars representing the end of the longer arm of the great Arab lion "
+"image."
+msgstr ""
+"Deux étoiles représentant l'extrémité du bras le plus long de la grande "
+"image du lion arabe."
+
+# Arabic (Lunar Stations) constellation, native: النثرة
+msgid "Nostrils [of the lion]"
+msgstr "Narines [du lion]"
+
+# Arabic (Lunar Stations) constellation, native: الطرف
+msgid "Eyes [of the lion]"
+msgstr "Yeux [du lion]"
+
+# Arabic (Lunar Stations) constellation, native: الجبهة
+msgid "Forehead [of the lion]"
+msgstr "Front [du lion]"
+
+# Arabic (Lunar Stations) constellation, native: الزبرة
+msgid "Mane [of the lion]"
+msgstr "Crinière [du lion]"
+
+# Arabic (Lunar Stations) constellation, native: العوا
+msgid "The bend"
+msgstr "Le virage"
+
+# Arabic (Lunar Stations) constellation, native: الغفر
+msgid "The cover"
+msgstr "La couverture"
+
+# Arabic (Lunar Stations) constellation, native: الزبانى
+msgid "Claws of the scorpion"
+msgstr "Griffes du scorpion"
+
+# Arabic (Lunar Stations) constellation, native: الإكليل
+msgid "The diadem"
+msgstr "Le diadème"
+
+# Arabic (Lunar Stations) constellation, native: الشولة
+msgid "Raised tail of the scorpion"
+msgstr "Queue relevée du scorpion"
+
+# Arabic (Lunar Stations) constellation, native: العقرب
+msgid "The scorpion"
+msgstr "Le scorpion"
+
+# Arabic (Lunar Stations) constellation, native: النعام الوارد
+msgid "The ostriches drinking at the river"
+msgstr "Les autruches buvant à la rivière"
+
+# Description of Arabic (Lunar Stations) constellation The ostriches drinking
+# at the river
+msgid ""
+"Four stars representing four Ostriches drinking at the river, the milky way."
+msgstr ""
+"Quatre étoiles représentant quatre Autruches buvant au fleuve, la voie "
+"lactée."
+
+# Arabic (Lunar Stations) constellation, native: النعام الصادر
+msgid "The ostriches leaving the river"
+msgstr "Les autruches quittant la rivière"
+
+# Description of Arabic (Lunar Stations) constellation The ostriches leaving
+# the river
+msgid ""
+"Four stars representing four Ostriches leaving the river, the milky way, after\n"
+"quenching their thirst."
+msgstr ""
+"Quatre étoiles représentant quatre Autruches quittant le fleuve, la voie "
+"lactée, après s'être désaltérées."
+
+# Arabic (Lunar Stations) constellation, native: الأدحي - القلادة
+msgid "The ostrich nest - The necklace"
+msgstr "Le nid d'autruche - Le collier"
+
+# Description of Arabic (Lunar Stations) constellation The ostrich nest - The
+# necklace
+msgid ""
+"An arc of stars representing an ostrich nest near the two groups of ostriches\n"
+"close to the river."
+msgstr ""
+"Un arc d'étoiles représentant un nid d'autruche près des deux groupes "
+"d'autruches proches de la rivière."
+
+# Arabic (Lunar Stations) constellation, native: البلدة
+msgid "The empty place"
+msgstr "Le lieu vide"
+
+# Arabic (Lunar Stations) constellation, native: النعائم
+msgid "The ostriches"
+msgstr "Les autruches"
+
+# Arabic (Lunar Stations) constellation, native: سعد الذابح
+msgid "The lucky star of the slaughterer"
+msgstr "La bonne étoile de l'abatteur"
+
+# Arabic (Lunar Stations) constellation, native: سعد بلع
+msgid "The lucky star of the swallower"
+msgstr "La bonne étoile de l'avaleur"
+
+# Arabic (Lunar Stations) constellation, native: سعد السعود
+msgid "The luckiest of the lucky stars"
+msgstr "La plus chanceuse des bonnes étoiles"
+
+# Arabic (Lunar Stations) constellation, native: سعد الأخبية
+msgid "The lucky star of the tents"
+msgstr "La bonne étoile des tentes"
+
+# Arabic (Lunar Stations) constellation, native: سعد ناشرة
+msgid "The lucky star of Nashira"
+msgstr "La bonne étoile de Nashira"
+
+# Arabic (Lunar Stations) constellation, native: سعد الملك
+msgid "The lucky star of the king"
+msgstr "La bonne étoile du roi"
+
+# Arabic (Lunar Stations) constellation, native: سعد البهام
+msgid "The lucky star of the young sheep"
+msgstr "La bonne étoile du jeune mouton"
+
+# Arabic (Lunar Stations) constellation, native: سعد الهمام
+msgid "The lucky star of the one with great endeavour"
+msgstr "La bonne étoile de celui qui fait beaucoup d'efforts"
+
+# Arabic (Lunar Stations) constellation, native: سعد البارع
+msgid "The lucky star of the excellent one"
+msgstr "La bonne étoile de l'excellent"
+
+# Arabic (Lunar Stations) constellation, native: سعد مطر
+msgid "The lucky star of Matar"
+msgstr "La bonne étoile de Matar"
+
+# Arabic (Lunar Stations) constellation, native: الهقعة
+msgid "The circular mark"
+msgstr "La marque circulaire"
+
+# Arabic (Lunar Stations) constellation, native: النظم
+msgid "The string"
+msgstr "La chaîne"
+
+# Description of Arabic (Lunar Stations) constellation The string
+msgid "Three stars in a line forming the belt of al-Jawza."
+msgstr "Trois étoiles alignées formant la ceinture d'al-Jawza."
+
+# Arabic (Lunar Stations) constellation, native: الهنعة
+msgid "Stoopness [of the camel neck]"
+msgstr "Courbure [du cou du chameau]"
+
+# Arabic (Lunar Stations) constellation, native: الجوزاء
+msgid "Al-Jawza"
+msgstr "Al-Jawza"
+
+# Description of Arabic (Lunar Stations) constellation Al-Jawza
+msgid "A constellation representing a woman figure."
+msgstr "Une constellation représentant une figure féminine."
+
+# Arabic (Lunar Stations) constellation, native: الصردان
+msgid "The two shrikes"
+msgstr "Les deux grièches"
+
+# Arabic (Lunar Stations) constellation, native: اليمامتان
+msgid "The two doves"
+msgstr "Les deux colombes"
+
+# Arabic (Lunar Stations) constellation, native: الظليمان
+msgid "The two male ostriches"
+msgstr "Les deux autruches mâles"
+
+# Name for NGC 869
+msgid "The wrist 1"
+msgstr "Le poignet 1"
+
+# Name for NGC 884
+msgid "The wrist 2"
+msgstr "Le poignet 2"
+
+# Name for M 44
+msgid "The nostril [of the lion"
+msgstr "La narine [du lion"
+
+# Name for M 7
+msgid "The sting of the scorpion"
+msgstr "La piqûre du scorpion"
+
+# Name for HIP 11767
+msgid "The kid"
+msgstr "L'enfant"
+
+# Name for HIP 72607
+msgid "The two calves 1"
+msgstr "Les deux veaux 1"
+
+# Name for HIP 75097
+msgid "The two calves 2"
+msgstr "Les deux veaux 2"
+
+# Name for HIP 62956
+msgid "The dark camel"
+msgstr "Le chameau noir"
+
+# Name for HIP 65378
+msgid "The little goat"
+msgstr "La petite chèvre"
+
+# Name for HIP 65477
+msgid "Al-Suha"
+msgstr "Al-Suha"
+
+# Name for HIP 67301
+msgid "The leader"
+msgstr "Le meneur"
+
+# Name for HIP 63125
+msgid "Liver of the lion"
+msgstr "Foie de lion"
+
+# Name for HIP 746
+msgid "The camel hump"
+msgstr "La bosse du chameau"
+
+# Name for HIP 86782
+msgid "The baby camel"
+msgstr "Le bébé chameau"
+
+# Name for HIP 83895
+msgid "The two wolves 1"
+msgstr "Les deux loups 1"
+
+# Name for HIP 80331
+msgid "The two wolves 2"
+msgstr "Les deux loups 2"
+
+# Name for HIP 75458
+msgid "The male hyena"
+msgstr "L'hyène mâle"
+
+# Name for HIP 69673
+msgid "The high one with the spear"
+msgstr "Le haut avec la lance"
+
+# Name for HIP 76267
+msgid "The bright star of al-Fakkah"
+msgstr "L'étoile brillante d'al-Fakkah"
+
+# Name for HIP 91262
+msgid "The landing eagle"
+msgstr "L'aigle du débarquement"
+
+# Name for HIP 102098
+msgid "The rear knight"
+msgstr "Le chevalier arrière"
+
+# Name for HIP 94779
+msgid "The knights 1"
+msgstr "Les chevaliers 1"
+
+# Name for HIP 97165
+msgid "The knights 2"
+msgstr "Les chevaliers 2"
+
+# Name for HIP 100453
+msgid "The knights 3"
+msgstr "Les chevaliers 3"
+
+# Name for HIP 102488
+msgid "The knights 4"
+msgstr "Les chevaliers 4"
+
+# Name for HIP 104732
+msgid "The knights 5"
+msgstr "Les chevaliers 5"
+
+# Name for HIP 18246
+msgid "The shoulder blade"
+msgstr "L'omoplate"
+
+# Name for HIP 18614
+msgid "The shoulder"
+msgstr "L'épaule"
+
+# Name for HIP 18532
+msgid "The arm"
+msgstr "Le bras"
+
+# Name for HIP 15863
+msgid "The elbow"
+msgstr "Le coude"
+
+# Name for HIP 16335
+msgid "Bend of the hand"
+msgstr "Pli de la main"
+
+# Name for HIP 17358
+msgid "Tip of the elbow"
+msgstr "Pointe du coude"
+
+# Name for HIP 14328
+msgid "The forearm"
+msgstr "L'avant-bras"
+
+# Name for HIP 11020
+msgid "The wrist"
+msgstr "Le poignet"
+
+# Name for HIP 24608
+msgid "Al-Ayyuq"
+msgstr "Al-Ayyuq"
+
+# Name for HIP 23015
+msgid "Foot of al-Ayyuq"
+msgstr "Pied d'al-Ayyuq"
+
+# Name for HIP 28360
+msgid "The posts 1"
+msgstr "Les messages 1"
+
+# Name for HIP 28380
+msgid "The posts 2"
+msgstr "Les postes 2"
+
+# Name for HIP 25428
+msgid "The posts 3"
+msgstr "Les messages 3"
+
+# Name for HIP 97649
+msgid "The flying eagle"
+msgstr "L'aigle volant"
+
+# Name for HIP 677
+msgid "The rear bucket mouth 2"
+msgstr "La bouche de godet arrière 2"
+
+# Name for HIP 1067
+msgid "The rear bucket mouth 1"
+msgstr "La bouche de godet arrière 1"
+
+# Name for HIP 113881
+msgid "The front bucket mouth 2"
+msgstr "La bouche du godet avant 2"
+
+# Name for HIP 113963
+msgid "The front bucket mouth 1"
+msgstr "La bouche du godet avant 1"
+
+# Name for HIP 5447
+msgid "Abdomen of the fish"
+msgstr "Ventre du poisson"
+
+# Name for HIP 9640
+msgid "The caracal"
+msgstr "Le caracal"
+
+# Name for HIP 8796
+msgid "The two forelegs 1"
+msgstr "Les deux pattes antérieures 1"
+
+# Name for HIP 10064
+msgid "The two forelegs 2"
+msgstr "Les deux pattes antérieures 2"
+
+# Name for HIP 21421
+msgid "Al-Dabaran"
+msgstr "Al-Dabaran"
+
+# Name for HIP 29655
+msgid "Stars of abundant rain 1"
+msgstr "Étoiles de pluie abondante 1"
+
+# Name for HIP 30343
+msgid "Stars of abundant rain 2"
+msgstr "Étoiles de pluie abondante 2"
+
+# Name for HIP 30883
+msgid "Stars of abundant rain 3"
+msgstr "Étoiles de pluie abondante 3"
+
+# Name for HIP 31681
+msgid "Az-Zir"
+msgstr "Az-Zir"
+
+# Name for HIP 32362
+msgid "Al-Maysan"
+msgstr "Al-Maysan"
+
+# Name for HIP 36046
+msgid "The claws 1"
+msgstr "Les griffes 1"
+
+# Name for HIP 36962
+msgid "The claws 2"
+msgstr "Les griffes 2"
+
+# Name for HIP 37740
+msgid "The claws 3"
+msgstr "Les griffes 3"
+
+# Name for HIP 35550
+msgid "The claws 4"
+msgstr "Les griffes 4"
+
+# Name for HIP 34088
+msgid "The claws 5"
+msgstr "Les griffes 5"
+
+# Name for HIP 35350
+msgid "The claws 6"
+msgstr "Les griffes 6"
+
+# Name for HIP 57632
+msgid "Star of weather change"
+msgstr "Étoile du changement de temps"
+
+# Name for HIP 65474
+msgid "The unarmed high one"
+msgstr "Le haut sans armes"
+
+# Name for HIP 80763
+msgid "The heart"
+msgstr "Le cœur"
+
+# Name for HIP 80112
+msgid "Veins of the heart 1"
+msgstr "Veines du coeur 1"
+
+# Name for HIP 81266
+msgid "Veins of the heart 2"
+msgstr "Veines du coeur 2"
+
+# Name for HIP 101772
+msgid "The two shrikes 1"
+msgstr "Les deux grièches 1"
+
+# Name for HIP 100751
+msgid "The two shrikes 2"
+msgstr "Les deux pie-grièches 2"
+
+# Name for HIP 109268
+msgid "The two doves 1"
+msgstr "Les deux colombes 1"
+
+# Name for HIP 112122
+msgid "The two doves 2"
+msgstr "Les deux colombes 2"
+
+# Name for HIP 113368
+msgid "The two male ostriches 1"
+msgstr "Les deux autruches mâles 1"
+
+# Name for HIP 3419
+msgid "The two male ostriches 2"
+msgstr "Les deux autruches mâles 2"
+
+# Name for HIP 27989
+msgid "Shoulder of al-Jawza"
+msgstr "Épaule d'al-Jawza"
+
+# Name for HIP 25336
+msgid "Al-Najidh"
+msgstr "Al-Najidh"
+
+# Name for HIP 24436
+msgid "Leg of al-Jawza"
+msgstr "Jambe d'al-Jawza"
+
+# Name for HIP 32349
+msgid "The southern Shi'ra"
+msgstr "La Shi'ra du sud"
+
+# Name for HIP 30324
+msgid "Mirzam of al-Shi'ra"
+msgstr "Mirzam d'al-Shi'ra"
+
+# Name for HIP 37279
+msgid "The northern Shi'ra"
+msgstr "La Shi'ra du Nord"
+
+# Name for HIP 36188
+msgid "Mirzam of the tearful Shi'ra"
+msgstr "Mirzam de la Shi'ra en larmes"
+
+# Name for HIP 30438
+msgid "Suhayl"
+msgstr "Souhayl"
+
+# Name for HIP 32768
+msgid "Suhayl Balqayn"
+msgstr "Souhayl Balqayn"
+
+# Name for HIP 39429
+msgid "Suhayl Hadari"
+msgstr "Souhayl Hadari"
+
+# Name for HIP 39953
+msgid "Suhayl Al-Wazn"
+msgstr "Suhayl Al-Wazn"
+
+# Name for HIP 44816
+msgid "Suhayl Raqashi"
+msgstr "Souhayl Raqashi"
+
+# Name for HIP 46390
+msgid "The sole one"
+msgstr "Le seul"
+
+# Name for HIP 2081
+msgid "Hadari"
+msgstr "Hadari"
+
+# Name for HIP 7588
+msgid "The oath star"
+msgstr "L'étoile du serment"
+
+# Name for HIP 7588
+msgid "Al-Wazn"
+msgstr "Al-Wazn"

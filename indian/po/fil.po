@@ -1,0 +1,316 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Last-Translator: Stellarium's developers\n"
+"Language-Team: \n"
+"Language: fil\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Sky culture name
+msgid "Indian Vedic"
+msgstr "Indian Vedic"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"Indian astronomy has a long history stretching from pre-historic to modern\n"
+"times. Some of the earliest roots of Indian astronomy can be dated to the\n"
+"period of Indus Valley Civilization or earlier."
+msgstr ""
+"Ang astronomiya ng India ay may mahabang kasaysayan mula sa pre-historic "
+"hanggang sa modernong panahon. Ang ilan sa mga pinakaunang ugat ng Indian "
+"astronomy ay maaaring napetsahan sa panahon ng Indus Valley Civilization o "
+"mas maaga."
+
+# Sky culture description section in markdown format
+msgid ""
+"The Vedic sky culture shows some similiarities with the Parthian one, e.g. some\n"
+"commonly known constellations related to lunar mansions, called _Nakṣatra_-s.\n"
+"\n"
+"### Rāśi (राशिः)\n"
+"\n"
+"The sidereal zodiac is an imaginary belt of 360 degrees (like the tropical\n"
+"zodiac), divided into 12 equal parts. Each twelfth part (of 30 degrees) is\n"
+"called a sign or rashi. Their names are shown in (brackets).\n"
+"\n"
+"In Vedic astronomy there are two systems of measuring time: the lunar calender\n"
+"and the solar calender. In both cases one year is devided into 12 months or\n"
+"\"māsā\". The names of the solar months originated from these constellation's\n"
+"names.\n"
+"\n"
+"### Nakṣatra (नक्षत्रम्)\n"
+"\n"
+"In Hindu tradition the ecliptic is divided into 27 parts of approximately\n"
+"13°20\", mirroring the siderial month and corresponding to 27 asterisms known as\n"
+"the _nakṣatra_-s [#4]. In the earliest extant layers of the tradition this\n"
+"number was made 28. This division is critical for several purposes including\n"
+"timing rituals and determining the birth lunar mansions. Since these asterisms\n"
+"define an area in the sky, technically they are also constellations.\n"
+"\n"
+"Surya Siddhanta and Vedanga-Jyotisha specify start coordinates for the 13°20\"\n"
+"divisions using some stars [#2].\n"
+"\n"
+"The earliest complete lists of _nakṣatra_ are found in the _Taittirīya-śruti_\n"
+"and the _Atharvaveda_ where they are recited as part of the _nakṣatreṣṭi_\n"
+"ritual which places the deities of pantheon in these celestial compartments.\n"
+"Some scholars opine that the tradition shows that by the early medieval period,\n"
+"the _nakṣatra_ identification had changed to a small degree from the Vedic\n"
+"period.\n"
+"\n"
+"In mythology the Nakshatras are considered to be the 27 daughters of Daksha\n"
+"Prajipati and wives of Chandra, the god of moon. Daksha found that Soma\n"
+"(=Chandra) overly favored one daughter (rohinī) over the others, thus\n"
+"neglecting their needs and flouting his responsibilities. For this, Daksha\n"
+"cursed him to wither and die. Chandra Dev approached and worshipped Lord Shiva\n"
+"in order to be relieved of the curse. He gave Chandra the boon that in a lunar\n"
+"month, he would grow for fifteen days (or \"Pakshā\") in one half and in the\n"
+"other half he would keep losing one shade (or \"Kalā\") per lunar day (or\n"
+"\"tithi\") and decrease in size.\n"
+"\n"
+"The names of the lunar months originated from those 12 division names in which\n"
+"full moon or \"Purnimā\" occurs. Unlike a solar day which is defined by a sunrise\n"
+"to next sunrise, a lunar day or moon's position in a nakshatra doesn't depends\n"
+"on the Sun's or Moon's rise. Thus a lunar day may start at any time of a solar\n"
+"day. Like other ancient human cultures, Vedic people invented a number of\n"
+"systems for intercalation of lunar months, i.e. adding another month every 32.5\n"
+"months on average or 4 months in every 11 years to correct the mismatch between\n"
+"lunar and solar year.\n"
+"\n"
+"| Solar Months | Lunar Months | Modern     | Season |\n"
+"|--------------|--------------|------------|--------|\n"
+"| Meṣa         | Vaiśakhā     | Apr-May    | Grīṣma (Summer) |\n"
+"| Vṛṣabha      | Jyeṣṭha      | May–June   | Grīṣma (Summer) |\n"
+"| Mithuna      | āṣāṛā        | June–July  | Varṣā (Monsoon) |\n"
+"| Karkaṭa      | śrabaṇā      | July-Aug   | Varṣā (Monsoon) |\n"
+"| Siṃha        | Bhādra       | Aug-Sept   | Śarad (Autumn) |\n"
+"| Kanyā        | Aśvin        | Sept-Oct   | Śarad (Autumn) |\n"
+"| Tulā         | Kārtik       | Oct-Nov    | Hemanta (Pre-Winter) |\n"
+"| Vṛścika      | Agāhāna      | Nov-Dec    | Hemanta (Pre-Winter) |\n"
+"| Dhanu        | Pauṣa        | Dec-Jan    | Śiśira (Winter) |\n"
+"| Makara       | Magha        | Jan-Feb    | Śiśira (Winter) |\n"
+"| Kumbha \t     | phālguna     | Feb-Mar    | Vasanta (Spring) |\n"
+"| Mīna         | Chaitrā      | Mar-Apr    | Vasanta (Spring) |\n"
+"|  -           | Adhikā       | Leap month |  -  |\n"
+"\n"
+"A few of the _yogatārā_-s or prominent asterisms in the _nakṣatra_-s (going by\n"
+"their mainstream identification) lie slightly outside their constellation\n"
+"boundaries. In these cases, any resultant problem (with regards to ritual\n"
+"timing or astrology) should be solved by other means, e.g. some people propose\n"
+"alternate identifications for such _yogatārā_-s.\n"
+"\n"
+"### Navagraha - Nine planets\n"
+"\n"
+"They observed that some celestial bodies move independently relative to the\n"
+"background stars; they named them planets or \"graha\". By this definition\n"
+"(moving), the Sun and Moon are also treated as _graha_ or planet. The Vedic\n"
+"also named the lunar nodes as planets as these points are very inportant to\n"
+"calculate the eclipses. The name of Vedic days originated from these planet's\n"
+"names.\n"
+"\n"
+"| Graha | Designation | Name of Solar days |\n"
+"|-------|-------------|--------------------|\n"
+"| Sūrya (Sun) | Sun God | Ravivāsara (Sunday) |\n"
+"| Chandra/Soma (Moon) | Moon god | Somavāsara (Monday) |\n"
+"| Maṅgala (Mars) | God of war | Maṅgalavāsara (Twesday) |\n"
+"| Budha (Mercury) | Son of Moon | Budhavāsara (Wednesday) |\n"
+"| Bṛihaspati/Guru (Jupiter) | Teacher of Gods | Guruvāsara (Thursday) |\n"
+"| Śukra (Venus) | Mentor of Demons | Śukravāsara (Friday) |\n"
+"| Śani (Saturn) | God of Misfortune | Śanivāsara (Saturday) |\n"
+"| Rahu | lunar node |  -  |\n"
+"| Ketú | lunar node |  -  |"
+msgstr ""
+"Ang Vedic sky culture ay nagpapakita ng ilang pagkakatulad sa Parthian, hal. ilang karaniwang kilalang konstelasyon na may kaugnayan sa mga mansyon sa buwan, na tinatawag na _Nakṣatra_-s.\n"
+"\n"
+"### Rāśi (राशिः)\n"
+"\n"
+"Ang sidereal zodiac ay isang haka-haka na sinturon na 360 degrees (tulad ng tropikal na zodiac), na nahahati sa 12 pantay na bahagi. Ang bawat ikalabindalawang bahagi (ng 30 degrees) ay tinatawag na tanda o rashi. Ang kanilang mga pangalan ay ipinapakita sa (mga bracket).\n"
+"\n"
+"Sa Vedic astronomy mayroong dalawang sistema ng pagsukat ng oras: ang lunar calender at ang solar calender. Sa parehong mga kaso, ang isang taon ay nahahati sa 12 buwan o \"māsā\". Ang mga pangalan ng solar months ay nagmula sa mga pangalan ng konstelasyon na ito.\n"
+"\n"
+"### Nakṣatra (नक्षत्रम्)\n"
+"\n"
+"Sa tradisyon ng Hindu, ang ecliptic ay nahahati sa 27 bahagi ng humigit-kumulang 13°20\", na sumasalamin sa siderial na buwan at katumbas ng 27 asterismo na kilala bilang _nakṣatra_-s [#4]. Sa pinakaunang umiiral na mga layer ng tradisyon ang bilang na ito ay ginawang 28. Ang dibisyong ito ay kritikal para sa ilang layunin kabilang ang mga ritwal sa pagtiyempo at pagtukoy sa kapanganakan ng mga lunar na mansyon. Dahil ang mga asterismong ito ay tumutukoy sa isang lugar sa kalangitan, sa teknikal ay mga konstelasyon din ang mga ito.\n"
+"\n"
+"Tinukoy ni Surya Siddhanta at Vedanga-Jyotisha ang mga start coordinates para sa 13°20\" na dibisyon gamit ang ilang bituin [#2].\n"
+"\n"
+"Ang pinakamaagang kumpletong listahan ng _nakṣatra_ ay matatagpuan sa _Taittirīya-śruti_ at sa _Atharvaveda_ kung saan binibigkas ang mga ito bilang bahagi ng _nakṣatreṣṭi_ ritwal na naglalagay ng mga diyos ng pantheon sa mga celestial compartment na ito. Ang ilang mga iskolar ay naniniwala na ang tradisyon ay nagpapakita na sa unang bahagi ng medieval na panahon, ang _nakṣatra_ identification ay nagbago sa isang maliit na antas mula sa Vedic period.\n"
+"\n"
+"Sa mitolohiya, ang mga Nakshatra ay itinuturing na 27 anak na babae ni Daksha Prajipati at mga asawa ni Chandra, ang diyos ng buwan. Nalaman ni Daksha na labis na pinapaboran ni Soma (=Chandra) ang isang anak na babae (rohinī) kaysa sa iba, kaya napapabayaan ang kanilang mga pangangailangan at binabalewala ang kanyang mga responsibilidad. Dahil dito, isinumpa siya ni Daksha na matuyo at mamatay. Lumapit si Chandra Dev at sinamba si Lord Shiva para mapawi ang sumpa. Binigyan niya si Chandra ng pagpapala na sa isang buwang lunar, lalago siya sa loob ng labinlimang araw (o \"Pakshā\") sa isang kalahati at sa kabilang kalahati ay patuloy siyang mawawalan ng isang lilim (o \"Kalā\") bawat araw ng lunar (o \"tithi). \") at pagbaba sa laki.\n"
+"\n"
+"Ang mga pangalan ng mga buwang lunar ay nagmula sa 12 mga pangalan ng dibisyon kung saan nangyayari ang buong buwan o \"Purnimā\". Hindi tulad ng isang araw ng araw na tinutukoy ng pagsikat ng araw hanggang sa susunod na pagsikat ng araw, ang isang lunar na araw o ang posisyon ng buwan sa isang nakshatra ay hindi nakadepende sa pagsikat ng Araw o Buwan. Kaya ang isang lunar day ay maaaring magsimula sa anumang oras ng isang solar day. Tulad ng iba pang sinaunang kultura ng tao, ang mga Vedic ay nag-imbento ng ilang sistema para sa intercalation ng mga buwang lunar, ibig sabihin, pagdaragdag ng isa pang buwan tuwing 32.5 buwan sa karaniwan o 4 na buwan sa bawat 11 taon upang itama ang hindi pagkakatugma sa pagitan ng lunar at solar na taon.\n"
+"\n"
+"| Mga Buwan ng Solar | Mga Buwan ng Lunar | Moderno | Season |\n"
+"|--------------|--------------|------------|---------|\n"
+"| Meṣa | Vaiśakhā | Abr-Mayo | Grīṣma (Tag-init) |\n"
+"| Vṛṣabha | Jyeṣṭha | Mayo–Hunyo | Grīṣma (Tag-init) |\n"
+"| Mithuna | āṣāṛā | Hunyo–Hulyo | Varṣā (Monsoon) |\n"
+"| Karkaṭa | śrabaṇā | Hulyo-Ago | Varṣā (Monsoon) |\n"
+"| Siṃha | Bhādra | Agosto-Setyembre | Śarad (Autumn) |\n"
+"| Kanyā | Aśvin | Setyembre-Oktubre | Śarad (Autumn) |\n"
+"| Tulā | Kartik | Okt-Nob | Hemanta (Pre-Winter) |\n"
+"| Vṛścika | Agāhāna | Nob-Dis | Hemanta (Pre-Winter) |\n"
+"| Dhanu | Pauṣa | Dis-Ene | Śiśira (Taglamig) |\n"
+"| Makara | Magha | Ene-Peb | Śiśira (Taglamig) |\n"
+"| Kumbha | phālguna | Peb-Mar | Vasanta (Spring) |\n"
+"| Mīna | Chaitrā | Mar-Abr | Vasanta (Spring) |\n"
+"| - | Adhikā | Buwan ng paglukso | - |\n"
+"\n"
+"Ang ilan sa mga _yogatārā_- o mga kilalang asterismo sa _nakṣatra_-s (pagpunta sa kanilang pangunahing pagkakakilanlan) ay bahagyang nasa labas ng kanilang mga hangganan ng konstelasyon. Sa mga kasong ito, anumang resultang problema (tungkol sa ritwal na timing o astrolohiya) ay dapat lutasin sa ibang paraan, hal. ang ilang mga tao ay nagmumungkahi ng mga kahaliling pagkakakilanlan para sa mga naturang _yogatārā_-s.\n"
+"\n"
+"### Navagraha - Siyam na planeta\n"
+"\n"
+"Napagmasdan nila na ang ilang celestial body ay gumagalaw nang independiyenteng may kaugnayan sa background na mga bituin; pinangalanan nila silang mga planeta o \"graha\". Sa ganitong kahulugan (gumagalaw), ang Araw at Buwan ay itinuturing din bilang _graha_ o planeta. Pinangalanan din ng Vedic ang mga lunar node bilang mga planeta dahil ang mga puntong ito ay napakahalaga upang makalkula ang mga eklipse. Ang pangalan ng mga araw ng Vedic ay nagmula sa mga pangalan ng planetang ito.\n"
+"\n"
+"| Graha | Pagtatalaga | Pangalan ng Araw ng Araw |\n"
+"|-------|-------------|--------------------|\n"
+"| Sūrya (Araw) | Diyos ng Araw | Ravivāsara (Linggo) |\n"
+"| Chandra/Soma (Buwan) | diyos ng buwan | Somavāsara (Lunes) |\n"
+"| Maṅgala (Mars) | Diyos ng digmaan | Maṅgalavāsara (Tweesday) |\n"
+"| Budha (Mercury) | Anak ng Buwan | Budhavāsara (Miyerkules) |\n"
+"| Bṛihaspati/Guru (Jupiter) | Guro ng mga Diyos | Guruvāsara (Huwebes) |\n"
+"| Śukra (Venus) | Tagapagturo ng mga Demonyo | Śukravāsara (Biyernes) |\n"
+"| Śani (Saturn) | Diyos ng kamalasan | Śanivāsara (Sabado) |\n"
+"| Rahu | lunar node | - |\n"
+"| Ketú | lunar node | - |"
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: Saha, M.N. and Lahiri, N.C.: History of the Calendar, New Delhi 1992\n"
+" - [#2]: History Of Calendar-Panchanga: [Committee Report](https://archive.org/stream/HistoryOfCalendarPanchangaCommittee/History-of-Calendar-Panchanga-Committee#page/n77/mode/2up)\n"
+" - [#3]: Nakshatra: [article on Sanskrit Wikipedia](https://sa.wikipedia.org/wiki/नक्षत्रम्)\n"
+" - [#4]: Nakshatra: [article on English Wikipedia](https://en.wikipedia.org/wiki/Nakshatra)"
+msgstr ""
+" - [#1]: Saha, M.N. at Lahiri, N.C.: History of the Calendar, New Delhi 1992\n"
+" - [#2]: History of Calendar-Panchanga: [Committee Report](https://archive.org/stream/HistoryOfCalendarPanchangaCommittee/History-of-Calendar-Panchanga-Committee#page/n77/mode/2up)\n"
+" - [#3]: Nakshatra: [artikulo sa Sanskrit Wikipedia](https://sa.wikipedia.org/wiki/नक्षत्रम्)\n"
+" - [#4]: Nakshatra: [artikulo sa English Wikipedia](https://en.wikipedia.org/wiki/Nakshatra)"
+
+# Sky culture authors section in markdown format
+msgid ""
+"[Tanmoy Saha](https://groups.google.com/forum/#!forum/sanskrit-programmers), \n"
+"Vishvas Vasuki and contributors from the sanskrit-coders community: [github\n"
+"page](https://github.com/sanskrit-coders).\n"
+"\n"
+"Re-worked by Susanne M Hoffmann"
+msgstr ""
+"[Tanmoy Saha](https://groups.google.com/forum/#!forum/sanskrit-programmers), Vishvas Vasuki at mga kontribyutor mula sa komunidad ng mga sanskrit-coder: [github page](https://github.com/ Sanskrit-coder).\n"
+"\n"
+"Muling ginawa ni Susanne M Hoffmann"
+
+# Sky culture license section in markdown format
+msgid "CC BY-SA"
+msgstr "CC BY-SA"
+
+# Indian Vedic constellation, pronounce: Aśvinī
+msgid "Twin physicians of Gods"
+msgstr "Kambal na manggagamot ng mga Diyos"
+
+# Indian Vedic constellation, pronounce: Bharanī
+msgid "She who bears"
+msgstr "Siya na nagdadala"
+
+# Indian Vedic constellation, pronounce: Kṛittikā
+msgid "Nurses of kartiikeya"
+msgstr "Mga nars ng kartiikeya"
+
+# Indian Vedic constellation, pronounce: Rohiṇī
+msgid "The spirited one"
+msgstr "Ang masigla"
+
+# Indian Vedic constellation, pronounce: Mṛgaśirā
+msgid "The deer's head"
+msgstr "Ang ulo ng usa"
+
+# Indian Vedic constellation, pronounce: Ārdrā
+msgid "The moist one"
+msgstr "Yung basa-basa"
+
+# Indian Vedic constellation, pronounce: Punarvasu
+msgid "The restorers of goods"
+msgstr "Ang mga nagpapanumbalik ng mga kalakal"
+
+# Indian Vedic constellation, pronounce: Puṣyā
+msgid "The nourisher"
+msgstr "Ang nagpapalusog"
+
+# Indian Vedic constellation, pronounce: Aśleṣā
+msgid "The embrace"
+msgstr "Ang yakap"
+
+# Indian Vedic constellation, pronounce: Maghā
+msgid "The bountiful one"
+msgstr "Ang masaganang isa"
+
+# Indian Vedic constellation, pronounce: Pūrba phālgunī
+msgid "The former red one"
+msgstr "Yung dating pula"
+
+# Indian Vedic constellation, pronounce: Uttara phālgunī
+msgid "The latter red one"
+msgstr "Ang huli ay pula"
+
+# Indian Vedic constellation, pronounce: Hasta
+msgid "The hand"
+msgstr "Ang kamay"
+
+# Indian Vedic constellation, pronounce: Chitrā
+msgid "The bright one"
+msgstr "Ang maliwanag"
+
+# Indian Vedic constellation, pronounce: Svātī
+msgid "The honest one"
+msgstr "Ang tapat"
+
+# Indian Vedic constellation, pronounce: Viśākhā
+msgid "The gifted one"
+msgstr "Yung gifted"
+
+# Indian Vedic constellation, pronounce: Anurādhā
+msgid "Followers of Radha"
+msgstr "Mga tagasunod ni Radha"
+
+# Indian Vedic constellation, pronounce: Jyeṣṭhā
+msgid "The eldest one"
+msgstr "Ang panganay"
+
+# Indian Vedic constellation, pronounce: Mulā
+msgid "The root"
+msgstr "Ang ugat"
+
+# Indian Vedic constellation, pronounce: Pūrba āṣāṛā
+msgid "The former undefeated one"
+msgstr "Yung dating undefeated"
+
+# Indian Vedic constellation, pronounce: Uttara āṣāṛā
+msgid "The latter undefeated one"
+msgstr "Ang huli ay walang talo"
+
+# Indian Vedic constellation, pronounce: Śrabaṇā
+msgid "The Ear"
+msgstr "Ang Tenga"
+
+# Indian Vedic constellation, pronounce: Dhaniṣṭhā
+msgid "The most famous one"
+msgstr "Ang pinakasikat"
+
+# Indian Vedic constellation, pronounce: Śatabhiṣā
+msgid "hundred cures"
+msgstr "daang lunas"
+
+# Indian Vedic constellation, pronounce: Pūrba bhādrapada
+msgid "The first of the blessed feet"
+msgstr "Ang una sa mga pinagpalang paa"
+
+# Indian Vedic constellation, pronounce: Uttara bhādrapada
+msgid "The second of the blessed feet"
+msgstr "Ang pangalawa sa mga pinagpalang paa"
+
+# Indian Vedic constellation, pronounce: Revatī
+msgid "The prosperous one"
+msgstr "Ang maunlad"
+
+# Indian Vedic constellation, pronounce: Abhijit
+msgid "The invincible one"
+msgstr "Ang walang talo"

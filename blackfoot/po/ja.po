@@ -1,0 +1,208 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Last-Translator: Stellarium's developers\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Sky culture name
+msgid "Blackfoot"
+msgstr "ブラックフット"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Blackfoot is an Algonquian-speaking tribe living in the northern Great "
+"Plains of North America. This sky culture has 4 constellation line figures, "
+"and names for the Milky Way, the Pleiades, the Orion Nebula, three planets "
+"and three stars."
+msgstr ""
+"ブラックフット族は、北アメリカの大平原北部に住むアルゴンキン語を話す部族です。この空の文化には、4 つの星座線図と、天の川、プレアデス、オリオン星雲、3"
+" つの惑星、3 つの星の名前があります。"
+
+# Sky culture description section in markdown format
+msgid ""
+"This sky culture for Stellarium is a transcript of the broad survey of North-American astronomical traditions in the book `Stars of the first people: Native American star myths and constellations` [#1] (from page 243). The basic information is not collected by this recent author. It is attributed to anthropologists from the early 1900s: `Mythology of the Blackfoot Indians` published in 1908 [#2], and `The old north trail, or, Life, legends and religion of the Blackfeet Indians` published in 1910 [#3]. Source [#1] instead collects the data and draws the constellations explicitly, based on the early information in [#2] and [#3].\n"
+"\n"
+"According to the sources, the Blackfoot often featured the Big Dipper, the Pleiades, and the Morning Star on their tipis, and believe that \"when people die, their spirits go into the sky and become stars, thus ever increasing the number of stars in the heavens\". The sources include many associated star stories (not transcribed here), and mostly English names.\n"
+"\n"
+"### Constellations and star names\n"
+"\n"
+"The constellation `Seven Brothers and Their Sister` (identified with the Western Big Dipper) represents siblings who escape to the sky when being chased by a bear. The sister is the small star Alcor in one version. This is the version written here: the source doesn't explicitly provide the constellation lines, but identifies it with the modern Big Dipper, as a bowl with a handle, so Alcor is not connected by a line, but is part of the constellation. Two stars are named: the `Little Sister`, also named as `Sinopa` (translated `Kit-Fox`) in [#3], and \"the star at the end of the handle is often called `Last Brother`\" [#1]. This constellation was used for time-keeping before the introduction of clocks.\n"
+"\n"
+"In a second version of this constellation, the youngest brother becomes the North Star, and the sister (who used to carry him) is the pointer star at the lip of the bowl. \n"
+"\n"
+"The two main stars in Gemini (Castor and Pollux) are `Ashes-Chief and Stuck-Behind`, twins whose story explains how a particular tipi design came into use.\n"
+"\n"
+"The `Lodge of the Spider Man` is the brightest six stars of the Western Northern Crown, representing the stones laid in a circle which used to hold down a tipi. The `Spider Man's Fingers` is a possible configuration of stars in Hercules (by [#1]), so its structure is uncertain; they would represent five fingers spinning a thread to let the legendary Feather Woman (native name: So-at-sa-ki) down from the sky (\"the five bright stars just beyond [the Northern Crown] in the constellation of Hercules are his five fingers\" [#3]).\n"
+"\n"
+"The six stars of the Pleiades (called `Lost Children` or `Bunched Stars`) represent six poor children and have an associated story which explains why they are visible in the evening sky only from fall to spring, but not the rest of the year.\n"
+"\n"
+"A constellation called `Hand in the Sky` has been documented, but not identified (so is not in this dataset). It could be another name for the `Spider Man's Fingers`, or another constellation entirely. An associated story also explains a particular tipi design.\n"
+"\n"
+"The North Star is called the `Star that Stands Still` (the other stars walk around it).\n"
+"\n"
+"### Planets\n"
+"\n"
+"Jupiter is known as `Young Morning Star`, representing a boy, `Poïa`. Venus is known as `Morning Star`, the boy's father. A story explains that they sometimes travel together, but they may also travel apart for many years. At the time when this story was documented (in July 1905), they were in conjunction. The names for Mars are not explained in the source.\n"
+"\n"
+"### Other sky objects\n"
+"\n"
+"The Milky Way is called the `Wolf Trail`, which represents the shortest path from the sky to the earth. The Orion Nebula is the stone knife of the mythical person `Blood-Clot`, \"a culture hero who rids the world of evil\" [#1], and is also called `Smoking-Star`."
+msgstr ""
+"Stellarium のこの空の文化は、書籍「最初の人々の星: ネイティブ アメリカンの星の神話と星座」[#1] (243 ページから) における北米の天文学の伝統の広範な調査の写しです。基本的な情報は、この最近の著者によって収集されていません。それは、1900 年代初頭の人類学者によるものである: 1908 年に出版された「ブラックフット インディアンの神話」[#2]、および 1910 年に出版された「ブラックフット インディアンの古い北の道、または生活、伝説および宗教」[#3]。ソース [#1] は代わりにデータを収集し、[#2] と [#3] の初期情報に基づいて星座を明示的に描画します。\n"
+"\n"
+"情報筋によると、ブラックフット族はティピに北斗七星、プレアデス星団、明けの明星をよく登場させ、「人が死ぬと魂が空に舞い上がって星になり、星の数が増え続ける」と信じていました。天上\"。ソースには、関連する多くのスター ストーリー (ここでは転写されていません) と、ほとんどが英語の名前が含まれています。\n"
+"\n"
+"### 星座と星の名前\n"
+"\n"
+"星座「七兄弟とその姉妹」(西北斗七星と同一視)は、クマに追われて空に逃げる兄弟を表しています。姉妹は、あるバージョンでは小さな星のアルコルです。これはここに書かれたバージョンです: ソースは星座の線を明示的に提供していませんが、それをハンドル付きのボウルとして現代の北斗七星と識別しているため、Alcor は線で接続されていませんが、星座の一部です. [#3] では「シノパ」（「キット フォックス」と訳される）とも呼ばれる「リトル シスター」と、「柄の端にある星は「ラスト ブラザー」と呼ばれることが多い」[#1]。この星座は、時計が導入される前に時間を計るために使用されていました。\n"
+"\n"
+"この星座の 2 番目のバージョンでは、最年少の兄弟が北極星になり、姉妹 (彼を運んでいた) はボウルの縁にあるポインター スターになります。\n"
+"\n"
+"ふたご座の 2 つの主要な星 (Castor と Pollux) は「Ashes-Chief」と「Stuck-Behind」で、特定のティピ デザインがどのように使用されるようになったかを物語る双子です。\n"
+"\n"
+"「スパイダーマンのロッジ」は西北の王冠の中で最も明るい 6 つの星であり、ティピを押さえるために円形に配置された石を表しています。 「スパイダーマンの指」は、([#1] による) ヘラクレスの星の構成の可能性があるため、その構造は不明です。それらは、伝説のフェザー ウーマン (本名: ソアット サキ) を空から降ろすために糸を紡ぐ 5 本の指を表しています (「ヘラクレス座の [北の王冠] のすぐ向こうにある 5 つの明るい星は、彼の5 本の指」[#3])。\n"
+"\n"
+"プレアデス星団の 6 つの星 (「ロスト チルドレン」または「バンチド スターズ」と呼ばれる) は 6 人の貧しい子供を表しており、秋から春にかけてのみ夕方の空に見え、それ以外の年には見えない理由を説明する関連する物語があります。 .\n"
+"\n"
+"「Hand in the Sky」と呼ばれる星座は文書化されていますが、特定されていません (したがって、このデータセットにはありません)。 「スパイダーマンの指」の別名かもしれないし、まったく別の星座かもしれない。関連するストーリーも、特定のティピのデザインを説明しています。\n"
+"\n"
+"北極星は「静止している星」と呼ばれています（他の星はその周りを歩き回っています）。\n"
+"\n"
+"### 惑星\n"
+"\n"
+"木星は「ヤングモーニングスター」として知られ、少年「ポイア」を表しています。ヴィーナスは「明けの明星」として知られる少年の父親。彼らは一緒に旅をすることもあるが、何年も離れて旅をすることもあるという話がある。この話が文書化された時点 (1905 年 7 月) では、それらは連動していました。火星の名前はソースで説明されていません。\n"
+"\n"
+"### その他の天体\n"
+"\n"
+"天の川は「ウルフトレイル」と呼ばれ、空から地球までの最短経路を表しています。オリオン大星雲は、「世界から悪を追い払う文化の英雄」[#1]という神話上の人物「ブラッド・クロット」の石刀であり、「スモーキング・スター」とも呼ばれています。"
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: Dorcas S. Miller. Stars of the first people: Native American star myths and constellations. Westwinds Press, 1997.\n"
+" - [#2]: Clark Wissler and D. C. Duvall. Mythology of the Blackfoot Indians. Published by the American Museum of Natural History, New York. 1908. Available at <https://archive.org/details/mythologyofblack00wiss> (accessed Jan 2022).\n"
+" - [#3]: Walter McClintock. The old North trail, or, Life, legends and religion of the Blackfeet Indians. Macmillan and Co., Limited, London. 1910. Available at <https://archive.org/details/oldnorthtrailorl00mccluoft> (accessed Jan 2022).\n"
+" - [#4]: Doina Bucur. The network signature of constellation line figures. arXiv e-prints. arXiv:2110.12329 [cs.SI]. 2021. Available at <https://arxiv.org/abs/2110.12329>."
+msgstr ""
+" - [#1]: ドーカス S. ミラー。最初の人々の星: ネイティブ アメリカンの星の神話と星座.ウェストウィンズ プレス、1997 年。\n"
+" - [#2]: クラーク ウィスラーと D. C. デュヴァル。ブラックフット インディアンの神話。ニューヨークのアメリカ自然史博物館が発行。 1908. <https://archive.org/details/mythologyofblack00wiss> で入手可能 (2022 年 1 月にアクセス)。\n"
+" - [#3]: ウォルター・マクリントック。オールド ノース トレイル、またはブラックフィート インディアンの生活、伝説、宗教。マクミラン・アンド・カンパニー・リミテッド、ロンドン。 1910. <https://archive.org/details/oldnorthtrailorl00mccluoft> で入手可能 (2022 年 1 月にアクセス)。\n"
+" - [#4]: ドイナ ブクル。星座線図のネットワーク署名。 arXiv e-プリント。 arXiv:2110.12329 [cs.SI]。 2021. <https://arxiv.org/abs/2110.12329> で入手可能。"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by _Doina Bucur_ (d.bucur@utwente.nl). It "
+"was digitised for the cross-culture analysis of constellation line figures "
+"in reference [#4], `The network signature of constellation line figures`."
+msgstr ""
+"このスカイ カルチャーは _Doina Bucur_ (d.bucur@utwente.nl) によって提供されました。これは、参考文献 "
+"[#4]、「星座線図のネットワーク署名」の星座線図の異文化間分析のためにデジタル化されました。"
+
+# Sky culture license section in markdown format
+msgid ""
+"`CC BY-SA`: Creative Commons, requires attribution, and derivative works can"
+" be distributed under an identical (not more restrictive) license."
+msgstr ""
+"`CC BY-SA`: クリエイティブ コモンズ、帰属表示が必要であり、派生作品は同一の (より制限的ではない) ライセンスの下で配布できます。"
+
+# Blackfoot constellation
+msgid "Seven Brothers and Their Sister"
+msgstr "7 人の兄弟とその姉妹"
+
+# Description of Blackfoot constellation Seven Brothers and Their Sister
+msgid ""
+"Represents siblings who escape to the sky when being chased by a bear. The "
+"sister is the small star Alcor."
+msgstr "クマに追われて空に逃げる兄妹を表現。妹は小星アルコル。"
+
+# Blackfoot constellation
+msgid "Ashes-Chief and Stuck-Behind"
+msgstr "灰 - チーフと立ち往生"
+
+# Description of Blackfoot constellation Ashes-Chief and Stuck-Behind
+msgid ""
+"Represents twins whose story explains how a particular tipi design came into"
+" use."
+msgstr "特定のティピ デザインがどのように使用されるようになったかを物語る双子を表します。"
+
+# Blackfoot constellation
+msgid "Spider Man's Fingers"
+msgstr "スパイダーマンの指"
+
+# Description of Blackfoot constellation Spider Man's Fingers
+msgid ""
+"Represents five fingers spinning a thread to let the legendary Feather Woman"
+" down from the sky. Identification is uncertain."
+msgstr "空から伝説のフェザー ウーマンを降ろすために糸を紡ぐ 5 本の指を表しています。同定は不確かです。"
+
+# Blackfoot constellation
+msgid "Lodge of the Spider Man"
+msgstr "スパイダーマンのロッジ"
+
+# Description of Blackfoot constellation Lodge of the Spider Man
+msgid "Represents the stones laid in a circle which used to hold down a tipi."
+msgstr "ティピを押さえていた円状に並べられた石を表しています。"
+
+# Name for HIP 65477
+msgid "Little Sister"
+msgstr "リトル シスター"
+
+# Name for HIP 65477
+msgid "Kit-Fox"
+msgstr "キットフォックス"
+
+# Name for HIP 67301
+msgid "Last Brother"
+msgstr "最後の兄弟"
+
+# Name for HIP 11767
+msgid "Star that Stands Still"
+msgstr "静止する星"
+
+# Name for NAME Pleiades
+msgid "Lost Children"
+msgstr "ロストチルドレン"
+
+# Name for NAME Pleiades
+msgid "Bunched Stars"
+msgstr "束ねられた星"
+
+# Name for NAME Jupiter
+msgid "Young Morning Star"
+msgstr "ヤングモーニングスター"
+
+# Name for NAME Jupiter
+msgid "Mistake Morning Star"
+msgstr "ミスモーニングスター"
+
+# Name for NAME Jupiter
+msgid "Scarface"
+msgstr "スカーフェイス"
+
+# Name for NAME Venus
+msgid "Morning Star"
+msgstr "明けの明星"
+
+# Name for NAME Mars
+msgid "Big Fire Star"
+msgstr "ビッグファイアースター"
+
+# Name for NAME Mars
+msgid "Big Fire Eater"
+msgstr "ビッグファイアーイーター"
+
+# Name for NAME Milky Way
+msgid "Wolf Trail"
+msgstr "ウルフトレイル"
+
+# Name for NAME Orion Nebula
+msgid "Blood-Clot"
+msgstr "血餅"
+
+# Name for NAME Orion Nebula
+msgid "Smoking-Star"
+msgstr "スモーキングスター"

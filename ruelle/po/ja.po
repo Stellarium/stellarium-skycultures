@@ -1,0 +1,80 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Last-Translator: Stellarium's developers\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Sky culture name
+msgid "Ruelle"
+msgstr "ルエル"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"_Alexandre Ruelle_ was an astronomy professor at the Paris Observatory. In 1786, he drew a star chart for the general public (in the service of education), titled `Nouvelle Uranographie ou méthode très facile pour apprendre les constellations` [#1]. This shows 70 constellation line figures for the entire sky. This was a time when the classical Greek constellations were only represented in the traditional style, using allegorical pictographs, and not line figures. Ruelle's approach was very modern: he eliminated the pictographs, and drew simple lines which linked stars. His constellation lines, although different from the modern Western ones, are just as complex: they draw large geometric shapes linking both principal and secondary stars.\n"
+"\n"
+"Ruelle's star chart has historical importance: it is the earliest attempt (in the Western tradition) at reconstructing the classical Greek constellations with geometrical line figures, apparently without trying to mimic any pictograph. There is a single predecessor: in 1625, _Jacob van der Heyden_, a publisher, painter, sculptor, and engraver, published `Globus Concavus, Et Quidem Coelestis Stellatus`: a celestial globe with faint line figures, which are difficult to see [#2]. Ruelle’s innovation itself was not disseminated widely, and did not gain broad acceptance in his time: only in late 19th century, with the continued development of Western astronomy, lined constellation figures like Ruelle’s became commonplace."
+msgstr ""
+"_Alexandre Ruelle_は、パリ天文台の天文学教授でした。 1786 年に、彼は一般大衆向けに (教育の目的で) 星図を描き、「ヌーヴェル ウラノグラフィー ウー メトード トレズ ファシル プール アペンドル レ コンステレーションズ」[#1] と題した。全天の70星座線図です。これは、古典的なギリシャの星座が、線図ではなく寓意的な絵文字を使用して、伝統的なスタイルでのみ表現されていた時代でした.ルエルのアプローチは非常に現代的でした。彼は絵文字を排除し、星を結ぶシンプルな線を描きました。彼の星座線は、現代の西洋のものとは異なりますが、同様に複雑です。主星と副星の両方を結ぶ大きな幾何学的形状を描いています。\n"
+"\n"
+"リュエルの星図は歴史的に重要です: これは (西洋の伝統では) ギリシアの古典的な星座を幾何学的な線で再構成する最初の試みであり、絵文字を模倣しようとはしていないようです。 1625 年に、出版者、画家、彫刻家、彫刻家であるヤコブ・ファン・デル・ハイデンが、「Globus Concavus, Et Quidem Coelestis Stellatus」を出版しました。 ]。ルエルの革新自体は広く普及することはなく、彼の時代には広く受け入れられることはありませんでした。西洋の天文学が発展を続けた 19 世紀後半になってようやく、ルエルのような星座を並べた図が一般的になりました。"
+
+# Sky culture description section in markdown format
+msgid ""
+"This sky culture for Stellarium is a transcript of Ruelle's star chart [#1] from the Bibliothèque nationale de France. The source has two polar charts (covering declinations between each pole and the equator) and a partial equatorial chart (covering declinations between the equator and 35 deg. north and south). For some constellations, there are differences in lines between the charts (the polar chart is used here, unless the line figure was unclear or truncated). \n"
+"\n"
+"Occasionally, Ruelle also draws lines to galaxies (for example, M81, M82 are linked into `Ursa Major`); they are not included here. A small number of stars couldn't be identified (the stars are imprecisely positioned on the chart, and some are not labelled), so they are also not included.\n"
+"\n"
+"Obsolete constellations appear in Ruelle's chart: `Musca Borealis` (_La Mouche_), `Cerberus` (_Cerbere_), `Argo Navis` (_Le Vaisseau_), `Antinoüs`."
+msgstr ""
+"Stellarium のこの空の文化は、フランス国立図書館の Ruelle の星図 [#1] の写しです。ソースには、2 つの極座標チャート (各極と赤道の間の赤緯をカバー) と部分赤道チャート (赤道と南北 35 度の間の赤緯をカバー) があります。一部の星座では、チャート間の線に違いがあります (線図が不明確または切り捨てられていない限り、ここでは極座標チャートが使用されます)。\n"
+"\n"
+"時折、Ruelle は銀河に線を引きます (たとえば、M81、M82 は「おおぐま座」にリンクされています)。ここには含まれていません。少数の星は特定できませんでした (星はチャート上で不正確に配置されており、ラベルが付けられていないものもあります)、それらも含まれていません。\n"
+"\n"
+"時代遅れの星座がリュエルのチャートに表示されます: Musca Borealis (_La Mouche_)、「Cerberus」 (_Cerbere_)、「Argo Navis」 (_Le Vaisseau_)、「Antinoüs」。"
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: Alexandre Ruelle. Nouvelle Uranographie ou méthode très facile pour apprendre les constellations (English: New Uranography or a very easy method to learn the constellations). Star chart on paper (97 x 74 cm), de la Marche (Paris). 1786. Available at <https://gallica.bnf.fr/ark:/12148/btv1b53062000r/>, via the Bibliothèque nationale de France, département Cartes et plans, GE C-4001.\n"
+"\n"
+" - [#2]: Jacob van der Heyden. Globus Concavus, Et Quidem Coelestis Stellatus, Cui Simul Annexa Est Instructio Brevis Sed Luculenta Satis atque prolixa eundem apparandi & componendi (English: The Concave Globe, and indeed the celestial stars, to which is annexed a short but clear instruction to prepare and compose it.). 1625. Available at <https://digital.slub-dresden.de/werkansicht/dlf/8429>, via Sächsischen Landesbibliothek Staats- und Universitätsbibliothek Dresden, Astron.582,10.\n"
+"\n"
+" - [#3]: Doina Bucur. The network signature of constellation line figures. arXiv e-prints. arXiv:2110.12329 [cs.SI]. 2021. Available at <https://arxiv.org/abs/2110.12329>."
+msgstr ""
+" - [#1]: アレクサンドル・ルエル。 Nouvelle Uranographie ou method très facile pour apprendre les constellations (英語: New Uranography または星座を学ぶための非常に簡単な方法)。紙の星図 (97 x 74 cm)、de la Marche (パリ)。 1786. <https://gallica.bnf.fr/ark:/12148/btv1b53062000r/>で入手可能, Bibliothèque nationale de France, departement Cartes et plan, GE C-4001.\n"
+"\n"
+" - [#2]: ジェイコブ・ファン・デル・ハイデン。 Globus Concavus, Et Quidem Coelestis Stellatus, Cui Simul Annexa Est Instructio Brevis Sed Luculenta Satis atque prolixa eundem apparandi & componendi (英語: The Concave Globe, and the celestial stars, which is Annexed a short but clear instruction to prepare and composer) .)。 1625. <https://digital.slub-dresden.de/werkansicht/dlf/8429> で入手可能, via Sächsischen Landesbibliothek Staats- und Universitätsbibliothek Dresden, Astron.582,10.\n"
+"\n"
+" - [#3]: ドイナ ブクル。星座線図のネットワーク署名。 arXiv e-プリント。 arXiv:2110.12329 [cs.SI]。 2021. <https://arxiv.org/abs/2110.12329> で入手可能。"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by _Doina Bucur_ (d.bucur@utwente.nl). It "
+"was digitised for the cross-culture analysis of constellation line figures "
+"in reference [#3], `The network signature of constellation line figures`."
+msgstr ""
+"このスカイ カルチャーは _Doina Bucur_ (d.bucur@utwente.nl) によって提供されました。これは、参照 "
+"[#3]、「星座線図のネットワーク署名」の星座線図の異文化間分析のためにデジタル化されました。"
+
+# Sky culture license section in markdown format
+msgid ""
+"`CC BY-SA`: Creative Commons, requires attribution, and derivative works can"
+" be distributed under an identical (not more restrictive) license."
+msgstr ""
+"`CC BY-SA`: クリエイティブ コモンズ、帰属表示が必要であり、派生作品は同一の (より制限的ではない) ライセンスの下で配布できます。"
+
+# Ruelle constellation, native: La Mouche
+msgid "Musca Borealis"
+msgstr "Musca Borealis"
+
+# Ruelle constellation, native: Antinoüs
+msgid "Antinoüs"
+msgstr "アンティノウス"
+
+# Ruelle constellation, native: Le Vaisseau
+msgid "Argo Navis"
+msgstr "アルゴ・ナビス"

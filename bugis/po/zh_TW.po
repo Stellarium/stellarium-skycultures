@@ -1,0 +1,242 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Last-Translator: Stellarium's developers\n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Sky culture name
+msgid "Bugis"
+msgstr "武吉士"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Bugis are an ethnic group on the island of Sulawesi in Indonesia, with a"
+" strong seafaring and trading tradition. This sky culture has 12 "
+"constellation line figures. It also has names for four stars and five other "
+"sky objects (the Pleiades, the Coalsack Nebula, the Magellanic Cloud(s), the"
+" Milky Way, and Venus). Many of the constellations reflect the seafaring "
+"tradition; the others are of agricultural origin."
+msgstr ""
+"武吉士是印度尼西亞蘇拉威西島上的一個民族，有著深厚的航海和貿易傳統。這個天空文化有12個星座線圖。它還有四顆恆星和其他五個天體（昴宿星、煤袋星雲、麥哲倫星雲、銀河系和金星）的名稱。許多星座反映了航海傳統；其他的是農業來源。"
+
+# Sky culture description section in markdown format
+msgid ""
+"This sky culture for Stellarium is a transcript of data recorded in [#1]. This provides a unified drawing of Bugis constellations from two prior sources (one from 1999, one from 1987) which had overlapping but not identical data.\n"
+"\n"
+"The Mandar sky culture is related (they are neighbouring ethnic groups on the island of Sulawesi) so it is similar. The Mandar source [#2] also provides some data for the Bugis.\n"
+"\n"
+"### Constellations and star names\n"
+"\n"
+"One source attributed in [#1] (from 1999) gives the following Bugis asterisms and names:\n"
+"\n"
+"- _Bintoѐng Baluѐ_, `Widow Before Marriage`, (α, β Cen)\n"
+"- _Bintoѐng Bola Kѐppang_, `Incomplete House` (α to δ, μ Cru)\n"
+"- _Bintoѐng Balѐ Mangiwѐng_, `Shark` (Scorpius (south))\n"
+"- _Bintoѐng Lambaruѐ_, `Ray Fish` or `Skate` (Scorpius (north))\n"
+"- `Lost Pleiad` (Antares)\n"
+"- _Bintoѐng Kappala'ѐ_, `Ship` (α to η UMa)\n"
+"- _Bintoѐng Kappala'ѐ_, `Ship` (α to η UMa; β, γ UMi)\n"
+"- _Bintoѐng Balu Mandara'_, `Mandar Widow` (α, β UMa)\n"
+"- _Bintoéng Timoro'_, `Eastern Star` (Altair)\n"
+"- _Bintoéng Rakkalaé_, `Plough` (α to η Ori)\n"
+"- _Tanra Tѐlluѐ_, `Sign of Three` (δ, ε, ζ Ori)\n"
+"- _Worong-porongngé_, `Cluster`, or _Bintoéng Pitu_, `Seven Stars` (Pleiades).\n"
+"\n"
+"Another source attributed in [#1] (from 1987) gives the following Bugis asterisms and names, some of which overlap with the previous source:\n"
+"\n"
+"- _Worong-mpolong_, `Tuft` (Pleiades)\n"
+"- _Wara-wara_, `Burning Coal` (Aldebaran)\n"
+"- _Tanra Tellu_, `Triple Beacon` (δ, ε, ζ Ori)\n"
+"- _Manu'_, `Chicken` (Canopus, Sirius and Procyon)\n"
+"- _Watang-mpata_, `Job's Tears Stalk` (α, β Leo)\n"
+"- _Éppang_, `Lame` (Crux)\n"
+"- _Walu_, `Widow` (α, β Cen)\n"
+"- _Lambaru_, `Ray Fish` (Scorpius (north))\n"
+"- _Tékkoroso_, `Pushed Plough` (Triangulum).\n"
+"\n"
+"There are two variants of the `Ship`, which overlap in the Big Dipper region. The `Mandar Widow` also overlaps with these. The `Plough` and the `Sign of Three` overlap in the Orion region.\n"
+"\n"
+"There is some uncertainty in these constellation lines:\n"
+"\n"
+"- It is not clear if the lines in `Shark` are complete. [#2] identifies the stars, while the drawing in [#1] for this constellation is a pictogram, and the two don't match very well. The shape here matches the pictogram in [#1] better. See also the Mandar version of this same constellation, which is a larger, realistic shark shape.\n"
+"\n"
+"- `Pushed Plough` is marked as uncertain in [#1].\n"
+"\n"
+"### Planets\n"
+"\n"
+"Venus is _Bintoѐng Bawi_ or _Wari wariѐ_.\n"
+"\n"
+"### Other sky objects\n"
+"\n"
+"One source attributed in [#1] and [#2] gives the following Bugis names:\n"
+"\n"
+"- _Bembé'é_, `Goat` (Coalsack Nebula in Crux)\n"
+"- _Tanra Bajoé_, `Sign of the Bajau` (Magellanic Clouds)\n"
+"- _Bintoѐng Nagaѐ_ (the Milky Way)."
+msgstr ""
+"Stellarium 的這種天空文化是 [#1] 中記錄的數據的抄本。這提供了來自兩個先前來源（一個來自 1999 年，一個來自 1987 年）的武吉士星座的統一繪圖，這些來源具有重疊但不相同的數據。\n"
+"\n"
+"Mandar 天空文化是相關的（他們是蘇拉威西島上的相鄰民族），所以它是相似的。 Mandar 源 [#2] 也為武吉士提供了一些數據。\n"
+"\n"
+"### 星座和星名\n"
+"\n"
+"[#1]（從 1999 年開始）中的一個來源給出了以下武吉士星群和名稱：\n"
+"\n"
+"- Bintoѐng Baluѐ，`婚前的寡婦`，（α，β岑）\n"
+"- Bintoѐng Bola Kѐppang，`不完整的房子`（α到δ，μ Cru）\n"
+"- Bintoѐng Balѐ Mangiwѐng，“鯊魚”（天蠍座（南））\n"
+"- Bintoѐng Lambaruѐ，“Ray Fish”或“Skate”（天蠍座（北））\n"
+"- `失落的昴星團`（心宿二）\n"
+"- Bintoѐng Kappala'ѐ, `Ship` (α to η UMa)\n"
+"- Bintoѐng Kappala'ѐ, `Ship` (α 到 η UMa; β, γ UMi)\n"
+"- Bintoѐng Balu Mandara', `Mandar Widow` (α, β UMa)\n"
+"- Bintoéng Timoro，《東方之星》（牽牛星）\n"
+"- Bintoéng Rakkalaé，“犁”（α 到 η Ori）\n"
+"- Tanra Tѐlluѐ，`三個符號`（δ，ε，ζ Ori）\n"
+"- Worong-porongngé，“星團”，或 Bintoéng Pitu，“七星”（昴宿星）。\n"
+"\n"
+"[#1] 中的另一個來源（來自 1987 年）給出了以下武吉士星號和名稱，其中一些與之前的來源重疊：\n"
+"\n"
+"- Worong-mpolong，`Tuft`（昴宿星團）\n"
+"- Wara-wara，`燃燒的煤`（畢宿五）\n"
+"- Tanra Tellu, `Triple Beacon` (δ, ε, ζ Ori)\n"
+"- Manu'、'Chicken'（Canopus、Sirius 和 Procyon）\n"
+"- Watang-mpata, `Job's Tears Stalk` (α, β Leo)\n"
+"- Éppang，“跛腳”（癥結）\n"
+"- 瓦魯，“寡婦”（α，β岑）\n"
+"- Lambaru，“雷魚”（天蠍座（北））\n"
+"- Tékkoroso，“推犁”（三角）。\n"
+"\n"
+"“船”有兩種變體，它們在北斗七星區域重疊。 `Mandar寡婦`也與這些重疊。 “犁”和“三號”在獵戶座地區重疊。\n"
+"\n"
+"這些星座線存在一些不確定性：\n"
+"\n"
+"- 不清楚“鯊魚”中的台詞是否完整。 [#2] 標識星星，而 [#1] 中為該星座繪製的圖形是像形圖，兩者不太匹配。這裡的形狀與 [#1] 中的象形圖更匹配。另請參閱同一星座的 Mandar 版本，這是一個更大、更逼真的鯊魚形狀。\n"
+"\n"
+"- `Pushed Plough` 在 [#1] 中被標記為不確定。\n"
+"\n"
+"### 行星\n"
+"\n"
+"金星是 Bintoѐng Bawi 或 Wari wariѐ。\n"
+"\n"
+"### 其他天空物體\n"
+"\n"
+"[#1] 和 [#2] 中的一個來源給出了以下 Bugis 名稱：\n"
+"\n"
+"- Bembé'é，“山羊”（Crux 中的煤袋星雲）\n"
+"- Tanra Bajoé，“Bajau 的標誌”（麥哲倫雲）\n"
+"- Bintoѐng Nagaѐ（銀河系）。"
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: Yukio Ohashi and Wayne Orchiston. The evolution of local Southeast Asian astronomy and the influence of China, India, the Islamic World and the West. In W Orchiston and M N Vahia, editors, Exploring the History of Southeast Asian Astronomy, pages 673–767. Springer, Cham, 2021.\n"
+" - [#2]: A. A. Rasyid, T. Hidayat, and W. Orchiston. Star patterns in Mandar navigation. In W. Orchiston and M. N. Vahia, editors, Exploring the History of Southeast Asian Astronomy, pages 549–564. Springer, Cham, 2021.\n"
+" - [#3]: Doina Bucur. The network signature of constellation line figures. arXiv e-prints. arXiv:2110.12329 [cs.SI]. 2021. Available at <https://arxiv.org/abs/2110.12329>."
+msgstr ""
+" - [#1]: Yukio Ohashi 和 Wayne Orchiston。東南亞地方天文學的演變和中國、印度、伊斯蘭世界和西方的影響。在 W Orchiston 和 M N Vahia，編輯，探索東南亞天文學的歷史，第 673-767 頁。施普林格，湛，2021。\n"
+" - [#2]: A. A. Rasyid、T. Hidayat 和 W. Orchiston。 Mandar 導航中的星形圖案。在 W. Orchiston 和 M. N. Vahia，編輯，探索東南亞天文學的歷史，第 549-564 頁。施普林格，湛，2021。\n"
+" - [#3]: Doina Bucur。星座線圖的網絡簽名。 arXiv 電子版。 arXiv:2110.12329 [cs.SI]。 2021 年。可在 <https://arxiv.org/abs/2110.12329> 獲得。"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by _Doina Bucur_ (d.bucur@utwente.nl). It "
+"was digitised for the cross-culture analysis of constellation line figures "
+"in reference [#3], `The network signature of constellation line figures`."
+msgstr ""
+"這種天空文化由 Doina Bucur (d.bucur@utwente.nl) "
+"貢獻。在參考文獻[#3]，`星座線圖的網絡簽名'中將其數字化用於星座線圖的跨文化分析。"
+
+# Sky culture license section in markdown format
+msgid ""
+"`CC BY-SA`: Creative Commons, requires attribution, and derivative works can"
+" be distributed under an identical (not more restrictive) license."
+msgstr "`CC BY-SA`：知識共享，需要署名，衍生作品可以在相同的（不是更嚴格的）許可下分發。"
+
+# Bugis constellation, native: Bintoѐng Bola Kѐppang
+msgid "Incomplete House"
+msgstr "不完整的房子"
+
+# Bugis constellation, native: Bintoѐng Balѐ Mangiwѐng
+msgid "Shark"
+msgstr "鯊魚"
+
+# Description of Bugis constellation Shark
+msgid "Uncertain if the shark line figure is complete."
+msgstr "不確定鯊魚線圖是否完整。"
+
+# Bugis constellation, native: Bintoѐng Lambaruѐ
+msgid "Ray Fish"
+msgstr "雷魚"
+
+# Bugis constellation, native: Bintoѐng Balu Mandara'
+msgid "Mandar Widow"
+msgstr "曼達寡婦"
+
+# Bugis constellation, native: Bintoѐng Kappala'ѐ
+msgid "Ship"
+msgstr "船"
+
+# Bugis constellation, native: Tanra Tѐlluѐ
+msgid "Sign of Three"
+msgstr "三的標誌"
+
+# Bugis constellation, native: Bintoéng Rakkalaé
+msgid "Plough"
+msgstr "犁"
+
+# Bugis constellation, native: Bintoѐng Baluѐ
+msgid "Widow Before Marriage"
+msgstr "婚前寡婦"
+
+# Bugis constellation, native: Manu'
+msgid "Chicken"
+msgstr "雞"
+
+# Bugis constellation, native: Watang-mpata
+msgid "Job’s Tears Stalk"
+msgstr "約伯的眼淚莖"
+
+# Bugis constellation, native: Tékkoroso
+msgid "Pushed Plough"
+msgstr "推犁"
+
+# Description of Bugis constellation Pushed Plough
+msgid "This is marked as uncertain."
+msgstr "這被標記為不確定。"
+
+# Name for HIP 80763
+msgid "Lost Pleiad"
+msgstr "失落的昴宿星"
+
+# Name for HIP 97649
+msgid "Eastern Star"
+msgstr "東方之星"
+
+# Name for HIP 21421
+msgid "Burning Coal"
+msgstr "燒煤"
+
+# Name for NAME Pleiades
+msgid "Seven Stars"
+msgstr "七顆星"
+
+# Name for NAME Pleiades
+msgid "Cluster"
+msgstr "簇"
+
+# Name for NAME Pleiades
+msgid "Tuft"
+msgstr "簇絨"
+
+# Name for NAME Coalsack Nebula
+msgid "Goat"
+msgstr "山羊"
+
+# Name for NAME Large Magellanic Cloud
+msgid "Sign of the Bajau"
+msgstr "巴瑤族的標誌"
