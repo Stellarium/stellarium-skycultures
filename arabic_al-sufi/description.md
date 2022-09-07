@@ -9,7 +9,7 @@ map to them the indigenous Arab star names and asterisms, and identify 44 stars 
 
 ## Description
 
-_Book of the stars_ (Arabic:كتاب الكواكب) is an astronomical book written
+The _Book of the stars_ (Arabic:كتاب الكواكب) is an astronomical book written
 shortly before 964 by the astronomer Abu al-Ḥusayn ʿAbd al-Raḥmān ibn ʿUmar
 al-Ṣūfī (born in Rayy, 903; died 986), referred to as al-Ṣūfī. It is the most
 outstanding among the works of the prominent astronomer, as Professor Paul
@@ -42,13 +42,12 @@ and the indigenous Arab one.
 
 Al-Sufi also selected 44 stars to be used in the astrolabe. The names he 
 designated for these stars are a mix of indigenous Arabic star names like "The 
-flying eagle", and names derived from the position of the sta in the Ptolemaic 
+flying eagle", and names derived from the position of the star in the Ptolemaic 
 constellation like "Leg of Centaurus". 
 
 
 This sky culture is a result of research done on manuscripts of al-Ṣūfī book,
-oldest of which is the [Oxford, Bodleian Library Ms. Marsh 144 dated 1009
-AD](https://iiif.bodleian.ox.ac.uk/iiif/viewer/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535). 
+oldest of which is dated from 1009[#11]. 
 Ten manuscripts of the _The Book Of The Stars_ were consulted to produce the
 most accurate text as was written by al-Ṣūfī. Then, each member star of the 48
 constellations was identified according to al-Ṣūfī description, and new tables
@@ -88,6 +87,7 @@ the sky found in the constellations of Ursa Minor, Ursa Major, and Draco.
  - [#8]: Ibn Qutaybah, Al-Dinawarī, Abū Muḥammad ʿAbd Allah b. Muslim (died ~ 889), Kitāb al-Anwāʾ (on meteorolgy of the Arabs), (Arabic print of the original book, Daʾirat al-Maʿārif al-Osmānia, Hydarabad, India, 1956)
  - [#9]: Al-Marzūqī, Abū ʿAli Aḥmad b. Muḥammad b. al-Ḥassan (died 1030), Al-Azminah wa al-amkinah (Times and Places), (Arabic print of the original book in 2002, World of Books, Beirut, Lebanon).
  - [#10]: Al-Thaqafī, ʿAbd Allah b. Ḥussayn b. ʿĀṣim (died ~ 1012), Al-Anwāʾ wa al-azminah (Meteorology and times), (Arabic print of the original book in 1996, Dar al-jeel, Beirut, Lebanon).
+ - [#11]: [Book Of The Stars, Oxford, Bodleian Library Ms. Marsh 144 dated 1009 AD](https://iiif.bodleian.ox.ac.uk/iiif/viewer/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)
 
 ## Authors
 

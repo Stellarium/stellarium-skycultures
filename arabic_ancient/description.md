@@ -2,15 +2,15 @@
 
 ## Introduction
 
-The Arabic sky culture displays the indigenous star knowledge of the ancient 
+This Arabic sky culture contains the indigenous stars knowledge of the ancient 
 Arabs living in the Arabian Peninsula prior to the Greek astronomy influence in 
 the ninth century.
 
 ## Description
 
-The star knowledge of the ancient Arabs had been recorded and preserved in old 
+The stars knowledge of the ancient Arabs had been recorded and preserved in old 
 poetry and in the old works of Arab philologists and lexicographers of the 
-Islamic civilization. Many books were written on the subject of star knowledge 
+Islamic civilization. Many books were written on the subject of stars knowledge 
 and anwāʾ [Arabic الأنواء], the Arabic knowledge of meteorology. The 
 editors of _Kitab al-Anwāʾ_ of Ibn Qutaybah (died ~ 889 AD) listed twenty-four 
 books on this subject written mostly between early eighth and tenth century 
@@ -30,7 +30,7 @@ The ancient Arabs named single stars, two stars, an area in the sky, and
 particular shape of a group of stars. Single stars were named after a human 
 figure or a desert animal, _Arcturus_ is _al-Simāk al-ramiḥ_, meaning: The 
 high one with the spear. _Canopus_ is _Suhayl_, a proper name of a man. We have 
-also stars named: _The caracal_ and _The kid_ (the young goat). If two stars of 
+also named stars: _The caracal_ and _The kid_ (the young goat). If two stars of 
 comparable brightness are close to each other, they are given a common name 
 like: _The two calves_, _The two wolves_, _The two doves_.
 

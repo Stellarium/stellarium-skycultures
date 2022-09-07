@@ -2,17 +2,31 @@
 
 ## Introduction
 
-The Bugis are an ethnic group on the island of Sulawesi in Indonesia, with a strong seafaring and trading tradition. This sky culture has 12 constellation line figures. It also has names for four stars and five other sky objects (the Pleiades, the Coalsack Nebula, the Magellanic Cloud(s), the Milky Way, and Venus). Many of the constellations reflect the seafaring tradition; the others are of agricultural origin.
+The Bugis are an ethnic group on the island of Sulawesi in Indonesia, with a
+strong seafaring and trading tradition. This sky culture has 12 constellation
+line figures. It also has names for four stars and five other sky objects (the
+Pleiades, the Coalsack Nebula, the Magellanic Cloud(s), the Milky Way, and
+Venus). Many of the constellations reflect the seafaring tradition; the others
+are of agricultural origin.
 
 ## Description
 
-This sky culture for Stellarium is a transcript of data recorded in [#1]. This provides a unified drawing of Bugis constellations from two prior sources (one from 1999, one from 1987) which had overlapping but not identical data.
+This sky culture for Stellarium is a transcript of data recorded in a book by
+`The evolution of local Southeast Asian astronomy and the influence of China,
+India, the Islamic World and the West`[#1]. It provides a unified drawing of
+Bugis constellations from two prior sources (one from 1999, one from 1987)
+which had overlapping but not identical data.
 
-The Mandar sky culture is related (they are neighbouring ethnic groups on the island of Sulawesi) so it is similar. The Mandar source [#2] also provides some data for the Bugis.
+The Mandar sky culture is related (they are neighbouring ethnic groups on the
+island of Sulawesi) so it is similar. The Mandar source [#2] also provides some
+data for the Bugis.
+
+## Extras
 
 ### Constellations and star names
 
-One source attributed in [#1] (from 1999) gives the following Bugis asterisms and names:
+One source attributed in [#1] (from 1999) gives the following Bugis asterisms
+and names:
 
 - _Bintoѐng Baluѐ_, `Widow Before Marriage`, (α, β Cen)
 - _Bintoѐng Bola Kѐppang_, `Incomplete House` (α to δ, μ Cru)
@@ -27,7 +41,8 @@ One source attributed in [#1] (from 1999) gives the following Bugis asterisms an
 - _Tanra Tѐlluѐ_, `Sign of Three` (δ, ε, ζ Ori)
 - _Worong-porongngé_, `Cluster`, or _Bintoéng Pitu_, `Seven Stars` (Pleiades).
 
-Another source attributed in [#1] (from 1987) gives the following Bugis asterisms and names, some of which overlap with the previous source:
+Another source attributed in [#1] (from 1987) gives the following Bugis
+asterisms and names, some of which overlap with the previous source:
 
 - _Worong-mpolong_, `Tuft` (Pleiades)
 - _Wara-wara_, `Burning Coal` (Aldebaran)
@@ -39,11 +54,17 @@ Another source attributed in [#1] (from 1987) gives the following Bugis asterism
 - _Lambaru_, `Ray Fish` (Scorpius (north))
 - _Tékkoroso_, `Pushed Plough` (Triangulum).
 
-There are two variants of the `Ship`, which overlap in the Big Dipper region. The `Mandar Widow` also overlaps with these. The `Plough` and the `Sign of Three` overlap in the Orion region.
+There are two variants of the `Ship`, which overlap in the Big Dipper region.
+The `Mandar Widow` also overlaps with these. The `Plough` and the `Sign of
+Three` overlap in the Orion region.
 
 There is some uncertainty in these constellation lines:
 
-- It is not clear if the lines in `Shark` are complete. [#2] identifies the stars, while the drawing in [#1] for this constellation is a pictogram, and the two don't match very well. The shape here matches the pictogram in [#1] better. See also the Mandar version of this same constellation, which is a larger, realistic shark shape.
+- It is not clear if the lines in `Shark` are complete. [#2] identifies the
+stars, while the drawing in [#1] for this constellation is a pictogram, and the
+two don't match very well. The shape here matches the pictogram in [#1] better.
+See also the Mandar version of this same constellation, which is a larger,
+realistic shark shape.
 
 - `Pushed Plough` is marked as uncertain in [#1].
 
