@@ -17,8 +17,8 @@ The sidereal zodiac is an imaginary belt of 360 degrees (like the tropical
 zodiac), divided into 12 equal parts. Each twelfth part (of 30 degrees) is
 called a sign or rashi. Their names are shown in (brackets).
 
-In Vedic astronomy there are two systems of measuring time: the lunar calender
-and the solar calender. In both cases one year is devided into 12 months or
+In Vedic astronomy there are two systems of measuring time: the lunar calendar
+and the solar calendar. In both cases one year is divided into 12 months or
 "māsā". The names of the solar months originated from these constellation's
 names.
 
