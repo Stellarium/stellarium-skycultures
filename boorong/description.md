@@ -65,4 +65,4 @@ Technical rework by Susanne M Hoffmann
 
 ## License
 
-CC-BY SA
+Data and illustrations: CC-BY SA
