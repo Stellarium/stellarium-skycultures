@@ -850,4 +850,4 @@ Technical clean-up: Susanne M Hoffmann, 2020
 
 ## License
 
-CC BY-NC
+CC-BY NC ND
