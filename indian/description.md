@@ -95,7 +95,7 @@ names.
 |-------|-------------|--------------------|
 | Sūrya (Sun) | Sun God | Ravivāsara (Sunday) |
 | Chandra/Soma (Moon) | Moon god | Somavāsara (Monday) |
-| Maṅgala (Mars) | God of war | Maṅgalavāsara (Twesday) |
+| Maṅgala (Mars) | God of war | Maṅgalavāsara (Tuesday) |
 | Budha (Mercury) | Son of Moon | Budhavāsara (Wednesday) |
 | Bṛihaspati/Guru (Jupiter) | Teacher of Gods | Guruvāsara (Thursday) |
 | Śukra (Venus) | Mentor of Demons | Śukravāsara (Friday) |
