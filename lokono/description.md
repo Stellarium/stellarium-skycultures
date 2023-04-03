@@ -850,4 +850,6 @@ Technical clean-up: Susanne M Hoffmann, 2020
 
 ## License
 
-CC-BY NC ND
+CC-BY NC
+
+Special permission is also granted to Stellarium Labs to include the licensed material in the mobile application Stellarium.
