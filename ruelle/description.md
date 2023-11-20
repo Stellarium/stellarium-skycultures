@@ -58,5 +58,4 @@ network signature of constellation line figures`[#3].
 
 ## License
 
-`CC BY-SA`: Creative Commons, requires attribution, and derivative works can be
-distributed under an identical (not more restrictive) license.
+CC BY-SA
