@@ -97,6 +97,6 @@ Khalid al-Ajaji: turath.alfalak@gmail.com
 
 Illustrations: Public domain[#5].
 
-Text and data: Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
+Text and data: CC BY-ND 4.0
 
-Special pemission is granted to Stellarium Labs to include the licensed material 
+Special permission is granted to Stellarium Labs to include the licensed material.

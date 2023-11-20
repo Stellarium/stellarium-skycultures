@@ -129,6 +129,6 @@ Khalid al-Ajaji: turath.alfalak@gmail.com
 
 ## License
 
-Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
+CC BY-ND 4.0
 
-Special pemission is granted to Stellarium labs to include the licensed material 
+Special permission is granted to Stellarium Labs to include the licensed material.
