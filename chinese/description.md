@@ -235,14 +235,14 @@ controversial. These are only possible translations.
  - [#2]: Rufus, Carl and Tien, Hsing-Chih: The Soochow Astronomical Chart, University of Michigan Press, Ann Arbor, Michigan, USA, 1945
  - [#3]: The Suzhou map [digitized](http://www.chinesehsc.org/zoomify/suzhou_planisphere.html)
  - [#4]: English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Names. [Link](http://www.lcsd.gov.hk/CE/Museum/Space/en_US/web/spm/starshine/resources/constemyth/glossary.html)
- - [#4]: AEEA Astronomy Education Information [Ancient Chinese constellation system](http://aeea.nmns.edu.tw/aeea/contents_list/star_sign.html)
- - [#5]: Chinese constellations: [Wikipedia article](http://en.wikipedia.org/wiki/Chinese_constellations)
- - [#6]: Traditional Chinese star names: [Wikipedia article](https://en.wikipedia.org/wiki/Traditional_Chinese_star_names)
- - [#7]: Purple Forbidden Enclosure: [Wikipedia article](https://en.wikipedia.org/wiki/Purple_Forbidden_enclosure)
- - [#8]: Supreme Palace Enclosure: [Wikipedia article](https://en.wikipedia.org/wiki/Supreme_Palace_enclosure)
- - [#9]: Heavenly Market Enclosure: [Wikipedia article](https://en.wikipedia.org/wiki/Heavenly_Market_enclosure)
- - [#10]: 28 Mansions: [Wikipedia article](https://en.wikipedia.org/wiki/Twenty-Eight_Mansions)
- - [#11]: _Complete Studies of Astronomical Instruments_ (Chinese： 仪象考成)
+ - [#5]: AEEA Astronomy Education Information [Ancient Chinese constellation system](http://aeea.nmns.edu.tw/aeea/contents_list/star_sign.html)
+ - [#6]: Chinese constellations: [Wikipedia article](http://en.wikipedia.org/wiki/Chinese_constellations)
+ - [#7]: Traditional Chinese star names: [Wikipedia article](https://en.wikipedia.org/wiki/Traditional_Chinese_star_names)
+ - [#8]: Purple Forbidden Enclosure: [Wikipedia article](https://en.wikipedia.org/wiki/Purple_Forbidden_enclosure)
+ - [#9]: Supreme Palace Enclosure: [Wikipedia article](https://en.wikipedia.org/wiki/Supreme_Palace_enclosure)
+ - [#10]: Heavenly Market Enclosure: [Wikipedia article](https://en.wikipedia.org/wiki/Heavenly_Market_enclosure)
+ - [#11]: 28 Mansions: [Wikipedia article](https://en.wikipedia.org/wiki/Twenty-Eight_Mansions)
+ - [#12]: _Complete Studies of Astronomical Instruments_ (Chinese： 仪象考成)
 
 ## Authors
 
