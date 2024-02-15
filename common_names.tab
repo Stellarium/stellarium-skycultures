@@ -1,6 +1,6 @@
 ## Sky Sources names
 #
-# Stellarium Web Engine - Copyright (c) 2020 - Noctua Software Ltd
+# Stellarium Web Engine - Copyright (c) 2022 - Stellarium Labs SRL
 #
 # This program is licensed under the terms of the GNU AGPL v3, or
 # alternatively under a commercial license.
@@ -101,6 +101,13 @@ JPL 903         |Hydra     |Hydra_(moon)     |jpl_sso|WP     |Moon of Pluto (PII
 JPL 904         |Kerberos  |Kerberos_(moon)  |jpl_sso|WP     |Moon of Pluto (PIV)
 JPL 905         |Styx      |Styx_(moon)      |jpl_sso|WP     |Moon of Pluto (PV)
 JPL 999         |Pluto     |134340_Pluto     |jpl_sso|WP     |Dwarf planet (134340) Pluto
+#
+### tle_satellite ###
+# id            |english                      |wikipedia_title                    |model        |sources|notes                                   |
+# ------------- | --------------------------- | --------------------------------- | ----------- | ----- | -------------------------------------- |
+NORAD 25544     |International Space Station  |International_Space_Station        |tle_satellite|WK     |
+NORAD 20580     |Hubble Space Telescope       |Hubble_Space_Telescope             |tle_satellite|WK     |
+#
 #
 ### constellation ###
 # id            |english            |wikipedia_title                    |model        |sources|notes                                   |
@@ -263,7 +270,8 @@ C 14                   |NGC 869/884                         |               |dso
 C 15                   |Blinking Planetary Nebula           |               |dso   |SIMBAD,DSW,BCH,WSO,PSA,DN,DAN,DSNI                    |     
 C 19                   |Cocoon Nebula                       |               |dso   |SIMBAD,DWH,PSA,DN                                     |     
 C 20                   |North America Nebula                |               |dso   |WK,SIMBAD,DSW,BCH,DWH,WSO,PSA,CC,DN                   |     
-C 22                   |Blue Snowball                       |               |dso   |WK,WSO,PSA,CC,DSNI,DSNI                               |     
+C 22                   |Blue Snowball                       |               |dso   |WK,WSO,PSA,CC,DSNI,DSNI                               |
+C 22                   |Snowball Nebula                     |               |dso   |WK,WSO,PSA,CC,DSNI,DSNI                               |
 C 22                   |Copeland's Blue Snowball            |               |dso   |SIMBAD,DSW                                            |     
 C 24                   |Perseus A                           |               |dso   |NED,SIMBAD,BCH                                        |     
 C 25                   |Intergalactic Wanderer              |               |dso   |OGSC,DSW,BCH,DWH,CC,DN                                |     
@@ -271,6 +279,7 @@ C 25                   |Intergalactic Tramp                 |               |dso
 C 27                   |Crescent Nebula                     |               |dso   |SIMBAD,DSW,BCH,WSO,PSA,CC,DN                          |     
 C 27                   |Ear Nebula                          |               |dso   |B500                                                  |     
 C 30                   |Deer Lick Group                     |               |dso   |CC                                                    |     
+C 31                   |Flaming Star Nebula                 |               |dso   |WK                                                    |
 C 32                   |Whale Galaxy                        |               |dso   |SIMBAD,WSG                                            |     
 C 32                   |Herring Galaxy                      |               |dso   |                                                      |     
 C 33                   |East Veil Nebula                    |               |dso   |DSW,BCH,DWH                                           |     
@@ -288,6 +297,7 @@ C 41                   |Hyades                              |               |dso
 C 43                   |The Little Sombrero Galaxy          |               |dso   |B500                                                  |     
 C 43                   |Electric Arc Galaxy                 |               |dso   |B500                                                  |     
 C 44                   |Superman Galaxy                     |               |dso   |B500                                                  |     
+C 46                   |Hubble's Variable Nebula            |               |dso   |WK                                                    |
 C 49                   |Rosette Nebula                      |               |dso   |WK,DSW,BCH,DWH,PSA,CC,DN,CSOMSC                       |     
 C 50                   |Harp Cluster                        |               |dso   |DSW                                                   |     
 C 53                   |Spindle Galaxy                      |               |dso   |NED,SIMBAD,DWH,WSG,PSA,CC                             |     
@@ -644,7 +654,7 @@ NAME Pipe Nebula       |Pipe Nebula                         |               |dso
 NAME Sagittarius A West|Sagittarius A West                  |               |dso   |                                                      |     
 NAME Sagittarius A West|Galactic Center Minispiral          |               |dso   |SIMBAD                                                |     
 NAME Sagittarius A West|Sgr A West                          |               |dso   |                                                      |     
-NAME Markarian's Chain |Markarian's Chain                   |               |dso   |                                                      |
+NAME Markarian's Chain |Markarian's Chain                   |               |dso   |WK                                                    |
 NAME Milky Way         |Milky Way                           |               |dso   |WK                                                    |
 NGC 128                |NGC 128 group                       |               |dso   |WSG                                                   |     
 NGC 134                |Giant Squid Galaxy                  |               |dso   |SG,SD                                                 |     
@@ -950,10 +960,8 @@ NGC 6755               |Possible Binary Cluster             |               |dso
 NGC 6756               |Possible Binary Cluster             |               |dso   |SD                                                    |     
 NGC 6776               |Pentagon                            |               |dso   |SIMBAD                                                |     
 NGC 6778               |Son of M76                          |               |dso   |SD                                                    |     
-NGC 6781               |Snowball Nebula                     |               |dso   |                                                      |     
 NGC 6781               |Ghost of the Moon Nebula            |               |dso   |SD                                                    |     
 NGC 6804               |Incredible Shrinking Nebula         |               |dso   |SD                                                    |     
-NGC 6804               |Snowball Nebula                     |               |dso   |SD                                                    |     
 NGC 6811               |Hole in a Cluster                   |               |dso   |WP,SD,CSOMSC                                          |     
 NGC 6811               |Nefertiti's headpiece               |               |dso   |DSW                                                   |     
 NGC 6811               |Smoke Ring                          |               |dso   |SD                                                    |     
@@ -1542,8 +1550,8 @@ HIP 20635       |Alkalbain III                  |               |star  |11      
 HIP 20641       |Alkalbain IV                   |               |star  |11                         |Star kap02 Tau  
 HIP 20711       |Alkalbain V                    |               |star  |11                         |Star ups Tau    
 HIP 20885       |Hyadum III                     |               |star  |11                         |Star tet01 Tau  
-HIP 20889       |Ain                            |               |star  |WK,1,2,6,11,12             |Star eps Tau    
-HIP 20889       |Oculus Boreus                  |               |star  |                           |Star eps Tau    
+HIP 20889       |Ain                            |Epsilon_Tauri  |star  |WK,1,2,6,11,12             |Star eps Tau
+HIP 20889       |Oculus Boreus                  |               |star  |                           |Star eps Tau
 HIP 20894       |Chamukuy                       |               |star  |12                         |Star tet02 Tau  
 HIP 20894       |Hyadum IV                      |               |star  |11                         |Star tet02 Tau  
 HIP 21109       |Hoggar                         |               |star  |36                         |                
@@ -1752,6 +1760,7 @@ HIP 44127       |Dnoces                         |               |star  |19      
 HIP 44368       |Vela X-1                       |               |star  |SIMBAD,WK                  |
 HIP 44390       |Althiba IV                     |               |star  |11                         |Star rho UMa    
 HIP 44471       |Alkaphrah                      |               |star  |12                         |Star kap UMa    
+HIP 44471       |Taiyangshou                    |               |star  |12                         |Star kap UMa
 HIP 44471       |Kafzatania                     |               |star  |11                         |Star kap UMa    
 HIP 44471       |Al Kaprah                      |               |star  |18                         |Star kap UMa    
 HIP 44816       |Suhail                         |               |star  |WK,1,6,11,12,13,18         |Star lam Vel    
@@ -1875,9 +1884,9 @@ HIP 59316       |Minkar                         |               |star  |3,5,10,1
 HIP 59747       |Imai                           |               |star  |12                         |Star del Cru    
 HIP 59774       |Megrez                         |               |star  |WK,1,2,6,11,12,18,23       |Star del UMa    
 HIP 59774       |Kaffa                          |               |star  |                           |Star del UMa    
-HIP 59803       |Gienah                         |               |star  |WK,1,2,5,10,11,12          |Star gam Crv    
-HIP 59803       |Gienah Corvi                   |               |star  |                           |Star gam Crv    
-HIP 59803       |Gienah Ghurab                  |               |star  |                           |Star gam Crv    
+HIP 59803       |Gienah                         |Gamma_Corvi    |star  |WK,1,2,5,10,11,12          |Star gam Crv
+HIP 59803       |Gienah Corvi                   |               |star  |                           |Star gam Crv
+HIP 59803       |Gienah Ghurab                  |               |star  |                           |Star gam Crv
 HIP 60129       |Zaniah                         |               |star  |WK,1,2,11,12               |Star eta Vir    
 HIP 60260       |Ginan                          |               |star  |12                         |Star eps Cru    
 HIP 60644       |Tupã                           |               |star  |36                         |                
@@ -1890,13 +1899,13 @@ HIP 61317       |Chara                          |               |star  |WK,1,2,6
 HIP 61317       |Asterion                       |               |star  |23                         |Star bet CVn    
 HIP 61359       |Kraz                           |               |star  |WK,1,11,12,23              |Star bet Crv    
 HIP 61932       |Muhlifain                      |               |star  |1,11                       |Star gam Cen    
-HIP 61941       |Porrima                        |               |star  |WK,1,2,6,11,12,18,23       |Star gam Vir    
+HIP 61941       |Porrima                        |Gamma_Virginis |star  |WK,1,2,6,11,12,18,23       |Star gam Vir
 HIP 61941       |Antevorta                      |               |star  |                           |Star gam Vir    
 HIP 61941       |Arich                          |               |star  |1,23                       |Star gam Vir    
 HIP 62223       |La Superba                     |               |star  |2,11,12                    |Star Y CVn      
 HIP 62423       |Tianyi                         |               |star  |12                         |Star 7 Dra      
-HIP 62434       |Mimosa                         |               |star  |WK,1,6,11,12,13            |Star bet Cru D  
-HIP 62434       |Becrux                         |               |star  |                           |Star bet Cru D  
+HIP 62434       |Mimosa                         |Mimosa_(star)  |star  |WK,1,6,11,12,13            |Star bet Cru D
+HIP 62434       |Becrux                         |               |star  |                           |Star bet Cru D
 HIP 62763       |Polaris Galacticus Borealis    |               |star  |5                          |Star 31 Com     
 HIP 62956       |Alioth                         |               |star  |WK,1,2,6,11,12,18,23       |Star eps UMa    
 HIP 63076       |Taiyi                          |               |star  |12                         |Star 8 Dra      
@@ -2252,10 +2261,10 @@ HIP 102098      |Aridif                         |               |star  |        
 HIP 102098      |Arrioph                        |               |star  |                           |Star alf Cyg    
 HIP 102281      |Al Ukud                        |               |star  |11                         |Star del Del    
 HIP 102422      |Kabalfird                      |               |star  |11                         |Star eta Cep    
-HIP 102488      |Aljanah                        |               |star  |12                         |Star eps Cyg    
-HIP 102488      |Gienah Cygni                   |               |star  |1,2,5,11                   |Star eps Cyg    
-HIP 102488      |Gienah                         |               |star  |23                         |Star eps Cyg    
-HIP 102488      |Al Janah                       |               |star  |                           |Star eps Cyg    
+HIP 102488      |Aljanah                        |Epsilon_Cygni  |star  |12                         |Star eps Cyg
+HIP 102488      |Gienah Cygni                   |               |star  |1,2,5,11                   |Star eps Cyg
+HIP 102488      |Gienah                         |               |star  |23                         |Star eps Cyg
+HIP 102488      |Al Janah                       |               |star  |                           |Star eps Cyg
 HIP 102532      |Al Salib                       |               |star  |11                         |Star gam02 Del  
 HIP 102618      |Albali                         |               |star  |WK,1,2,11,12,23            |Star eps Aqr    
 HIP 103045      |Albulan I                      |               |star  |2,11                       |Star mu. Aqr    
@@ -2319,7 +2328,7 @@ HIP 112029      |Homam                          |               |star  |WK,1,2,3
 HIP 112051      |Sadalmatar                     |               |star  |11                         |Star omi Peg    
 HIP 112122      |Tiaki                          |               |star  |12                         |Star bet Gru    
 HIP 112122      |Deneb Alnahr                   |               |star  |11                         |Star bet Gru    
-HIP 112158      |Matar                          |               |star  |WK,1,2,6,11,12,18,23       |Star eta Peg    
+HIP 112158      |Matar                          |Eta_Pegasi     |star  |WK,1,2,6,11,12,18,23       |Star eta Peg
 HIP 112247      |Babcock's Star                 |               |star  |3                          |Star GL Lac     
 HIP 112440      |Sadalnazi                      |               |star  |11                         |Star lam Peg    
 HIP 112447      |Suudalnujum                    |               |star  |11                         |Star ksi Peg    
@@ -2349,7 +2358,7 @@ HIP 115250      |Salma                          |               |star  |2       
 HIP 115623      |Alkarab                        |               |star  |12                         |Star ups Peg    
 HIP 116076      |Veritate                       |               |star  |4,6,12                     |Star 14 And     
 HIP 116084      |Poerava                        |               |star  |36                         |                
-HIP 116727      |Errai                          |               |star  |WK,1,2,6,11,12             |Star gam Cep    
+HIP 116727      |Errai                          |Gamma_Cephei   |star  |WK,1,2,6,11,12             |Star gam Cep
 HIP 116727      |Alrai                          |               |star  |23                         |Star gam Cep    
 HIP 116727      |Arrai                          |               |star  |23                         |Star gam Cep    
 HIP 118319      |Axólotl                        |               |star  |36                         |                
@@ -2357,3 +2366,66 @@ HIP 118319      |Axólotl                        |               |star  |36     
 * omi Cet B     |Mira B                         |               |star  |SIMBAD                     |Companion star of Mira Ceti
 * alf Sco B     |Antares B                      |               |star  |SIMBAD                     |Companion star of Antares
 * alf CMa B     |Sirius B                       |               |star  |SIMBAD                     |Companion star of Sirius
+#
+### meteor-shower ###
+# id                         |english                        |wikipedia_title          |model        |sources                    |notes           |
+# -------------------------- | ----------------------------- | ----------------------- | ----------- | ------------------------- | -------------- |
+NAME Geminids                |Geminids                       |Geminids                 |meteor-shower|WK                         |Geminids meteor shower
+NAME Quadrantids             |Quadrantids                    |Quadrantids              |meteor-shower|WK                         |Quadrantids meteor shower
+NAME Perseids                |Perseids                       |Perseids                 |meteor-shower|WK                         |Perseids meteor shower
+NAME Eta Aquariids           |Eta Aquariids                  |Eta_Aquariids            |meteor-shower|WK                         |Eta Aquariids meteor shower
+NAME Arietids                |Arietids                       |Arietids                 |meteor-shower|WK                         |Arietids meteor shower
+NAME Southern Delta Aquariids|Southern Delta Aquariids       |Southern_Delta_Aquariids |meteor-shower|WK                         |Southern Delta Aquariids meteor shower
+NAME Orionids                |Orionids                       |Orionids                 |meteor-shower|WK                         |Orionids
+NAME Lyrids                  |Lyrids                         |Lyrids                   |meteor-shower|WK                         |Lyrids meteor shower
+NAME Leonids                 |Leonids                        |Leonids                  |meteor-shower|WK                         |Leonids meteor shower
+NAME Draconids               |Draconids                      |Draconids                |meteor-shower|WK                         |Draconids meteor shower
+NAME Ursids                  |Ursids                         |Ursids                   |meteor-shower|WK                         |Ursids meteor shower
+NAME Alpha Centaurids        |Alpha Centaurids               |Alpha_Centaurids         |meteor-shower|WK                         |Alpha Centaurids meteor shower
+NAME Aurigids                |Aurigids                       |Aurigids                 |meteor-shower|WK                         |Aurigids meteor shower
+NAME Alpha Capricornids      |Alpha Capricornids             |Alpha_Capricornids       |meteor-shower|WK                         |Alpha Capricornids meteor shower
+NAME Southern Taurids        |Southern Taurids               |Taurids                  |meteor-shower|WK                         |Southern Taurids meteor shower
+NAME Northern Taurids        |Northern Taurids               |Taurids                  |meteor-shower|WK                         |Northern Taurids meteor shower
+#
+### planetary-features ###
+# id                        |english                        |wikipedia_title                |model              |sources    |notes          |
+# --------------------------|----------------------------- |-------------------------------|-------------------|-----------|---------------|
+NAME Aristarchus            |Aristarchus                   |Aristarchus_(crater)          |planetary-feature  |WK         |               |
+NAME Byrgius                |Byrgius                       |Byrgius_(crater)              |planetary-feature  |WK         |               |
+NAME Copernicus             |Copernicus                    |Copernicus_(lunar_crater)     |planetary-feature  |WK         |               |
+NAME Crookes                |Crookes                       |Crookes_(crater)              |planetary-feature  |WK         |               |
+NAME Grimaldi               |Grimaldi                      |Grimaldi_(crater)             |planetary-feature  |WK         |               |
+NAME Jackson                |Jackson                       |Jackson_(crater)              |planetary-feature  |WK         |               |
+NAME Kepler                 |Kepler                        |Kepler_(lunar_crater)         |planetary-feature  |WK         |               |
+NAME Langrenus              |Langrenus                     |Langrenus_(crater)            |planetary-feature  |WK         |               |
+NAME Mare Cognitum          |Mare Cognitum                 |Mare_Cognitum                 |planetary-feature  |WK         |               |
+NAME Mare Crisium           |Mare Crisium                  |Mare_Crisium                  |planetary-feature  |WK         |               |
+NAME Mare Fecunditatis      |Mare Fecunditatis             |Mare_Fecunditatis             |planetary-feature  |WK         |               |
+NAME Mare Frigoris          |Mare Frigoris                 |Mare_Frigoris                 |planetary-feature  |WK         |               |
+NAME Mare Humorum           |Mare Humorum                  |Mare_Humorum                  |planetary-feature  |WK         |               |
+NAME Mare Imbrium           |Mare Imbrium                  |Mare_Imbrium                  |planetary-feature  |WK         |               |
+NAME Mare Iunsularum        |Mare Insularum                |Mare_Insularum                |planetary-feature  |WK         |               |
+NAME Mare Moscoviense       |Mare Moscoviense              |Mare_Moscoviense              |planetary-feature  |WK         |               |
+NAME Mare Nectaris          |Mare Nectaris                 |Mare_Nectaris                 |planetary-feature  |WK         |               |
+NAME Mare Nubium            |Mare Nubium                   |Mare_Nubium                   |planetary-feature  |WK         |               |
+NAME Mare Serenitatis       |Mare Serenitatis              |Mare_Serenitatis              |planetary-feature  |WK         |               |
+NAME Mare Tranquillitatis   |Mare Tranquillitatis          |Mare_Tranquillitatis          |planetary-feature  |WK         |               |
+NAME Mare Vaporum           |Mare Vaporum                  |Mare_Vaporum                  |planetary-feature  |WK         |               |
+NAME Mendeleev              |Mendeleev                     |Mendeleev_(crater)            |planetary-feature  |WK         |               |
+NAME Oceanus Procellarum    |Oceanus Procellarum           |Oceanus_Procellarum           |planetary-feature  |WK         |               |
+NAME Ohm                    |Ohm                           |Ohm_(crater)                  |planetary-feature  |WK         |               |
+NAME Plato                  |Plato                         |Plato_(crater)                |planetary-feature  |WK         |               |
+NAME Schrödinger            |Schrödinger                   |Schrödinger_(crater)          |planetary-feature  |WK         |               |
+NAME Stevinus               |Stevinus                      |Stevinus_(crater)             |planetary-feature  |WK         |               |
+NAME Tsiolkovskiy           |Tsiolkovskiy                  |Tsiolkovskiy_(crater)         |planetary-feature  |WK         |               |
+NAME Tycho                  |Tycho                         |Tycho_(crater)                |planetary-feature  |WK         |               |
+NAME Van de  Graaff         |Van de Graaff                 |Van_de_Graaff_(crater)        |planetary-feature  |WK         |               |
+NAME South Polar Cap        |South Polar Cap               |Martian_polar_ice_caps        |planetary-feature  |WK         |               |
+NAME Acidalia Planitia      |Acidalia Planitia             |Acidalia_Planitia             |planetary-feature  |WK         |               |
+NAME Amazonis Planitia      |Amazonis Planitia             |Amazonis_Planitia             |planetary-feature  |WK         |               |
+NAME Arabia Terra           |Arabia Terra                  |Arabia_Terra                  |planetary-feature  |WK         |               |
+NAME Elysium Planitia       |Elysium Planitia              |Elysium_Planitia              |planetary-feature  |WK         |               |
+NAME Hellas Planitia        |Hellas Planitia               |Hellas_Planitia               |planetary-feature  |WK         |               |
+NAME Olympus Mons           |Olympus Mons                  |Olympus_Mons                  |planetary-feature  |WK         |               |
+NAME Solis Lacus            |Solis Lacus                   |Solis_Lacus                   |planetary-feature  |WK         |               |
+NAME Tharsis Montes         |Tharsis Montes                |Tharsis_Montes                |planetary-feature  |WK         |               |
