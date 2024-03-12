@@ -13,7 +13,7 @@ findings dissiminated by the Clark Foundation.
 
 ## References
 
- - [#1]: The Navajo Nation: [official website](http://www.navajo.org)
+ - [#1]: The Navajo Nation: [official website](https://www.navajo-nsn.gov/)
 
 ## Authors
 
