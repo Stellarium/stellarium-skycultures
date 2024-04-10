@@ -1,0 +1,4662 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
+"Language-Team: Dutch (https://app.transifex.com/stellarium/teams/80998/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Sky culture name
+msgid "Arabic (Al-Sufi)"
+msgstr "Arabic (Al-Sufi)"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"The Book of Fixed Stars was written shortly before 964 AD. Dr. Paul "
+"Kunitzsch described it as \"the most outstanding among the works of the "
+"prominent astronomer Abu 'l-Ḥusayn 'Abd al-Raḥmān ibn 'Umar al-Şūfi (born in "
+"Rayy, 903; died 986), referred to as al-Sufi. In it, al-Şūfī treats the 48 "
+"classical constellations, which were established and transmitted in "
+"Ptolemy's Almagest. The description of each constellation comprises the "
+"following four sections: first, a general discussion of the constellation "
+"and its individual stars; this section also includes alŞūfi's criticism of "
+"the Ptolemaic tradition and notices of his own observations. Second, a "
+"record of the indigenous Arabic star names falling under that constellation, "
+"and the exact identification of the respective stars with the corresponding "
+"Ptolemaic stars. Third, two drawings of the constellation, one as it is seen "
+"on a celestial globe, and the other one as it is seen in the sky. Fourth, a "
+"table of the stars making up that constellation, giving a verbal description "
+"of each star's location and its longitude, latitude, and magnitude. This "
+"table closely follows the arrangement of Ptolemy's star catalogue in the "
+"Almagest.\" [#1]. In addition to the four sections of each constellation "
+"mentioned by dr. Kunitzsch, Al-Sufi would identify stars within the 6 "
+"magnitudes that were neglected by Ptolemy, but he did not catalogue them and "
+"was faithful to Ptolemy star catalog."
+msgstr ""
+"Het Book of Fixed Stars is kort voor 964 na Chr. geschreven. Dr. Paul\n"
+"Kunitzsch beschrijft het als \"het meest opmerkelijke werk van de "
+"prominente\n"
+"astronoom Abu 'l-Ḥusayn 'Abd al-Raḥmān ibn 'Umar al-Şūfi (geboren in Rayy,\n"
+"903; overleden 986), waarnaar wordt gerefereerd als al-Sufi. Daarin\n"
+"behandelt al-Şūfī de 48 klassieke sterrenbeelden, die waren vastgesteld en\n"
+"opgenomen in de Almagest van Ptolemaeus. De beschrijving van elk\n"
+"sterrenbeeld omvat de volgende vier secties: ten eerste een algemene\n"
+"bespreking van het sterrenbeeld en zijn individuele sterren; deze sectie\n"
+"bevat ook alŞūfi's kritiek op de Ptolemeïsche traditie en mededelingen over\n"
+"zijn eigen waarnemingen. Ten tweede een verslag van de inheemse Arabische\n"
+"sternamen die onder dat sterrenbeeld vallen, en de exacte identificatie van\n"
+"de respectievelijke sterren met de overeenkomstige Ptolemeïsche sterren. "
+"Ten\n"
+"derde, twee tekeningen van het sterrenbeeld , de ene zoals die te zien is "
+"op\n"
+"een hemelglobe, en de andere zoals die aan de hemel te zien is. Ten vierde,\n"
+"een tabel met de sterren waaruit dat sterrenbeeld bestaat, met een verbale\n"
+"beschrijving van de locatie van elke ster, de lengte en breedte graad en de\n"
+"magnitude. Deze tabel volgt nauwkeurig de opstelling van de "
+"sterrencatalogus\n"
+"van Ptolemaeus in de Almagest.\"[#1]. Naast de vier secties van elk\n"
+"sterrenbeeld, genoemd door dr. Kunitzsch, identificeerde Al-Soefi sterren\n"
+"binnen de 6 magnitudes die werden verwaarloosd door Ptolemaeus, maar hij\n"
+"catalogiseerde ze niet en was trouw aan de sterrencatalogus van Ptolemaeus."
+
+#. Sky culture description section in markdown format
+msgid ""
+"An important aspect of the general discussion section is Al-Sufi method of "
+"facilitating the star identification. He describes each individual star in "
+"more than way: By the star position related to the constellation figure, by "
+"its magnitude, by the asterism it forms with other stars like triangle or "
+"arc shapes, sometimes by the star position related to the Milky way, and by "
+"the angular distance from a close by star. I have counted more than 700 "
+"angular distances measured by al-Sufi in his book. The units he uses for "
+"angular distances are cubits, spear length, man-height, span, and finger. Al-"
+"Sufi explicitly said in his book that a cubit is equal to two degrees and 20 "
+"minutes [#2]. For the other units, Schjellerup concluded some values, but "
+"tracking the 700 measurements, I came up with different values. The "
+"following table summarizes the units and relationship to the cubit value "
+"from Schjellerup[#3] and from my research.\n"
+"\n"
+"### Angular distance units used by Al-Sufi\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>&nbsp;</notr></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Schjellerup</b></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Khalid</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>unit</b></td>\n"
+"\t<td><b>cubits</b></td>\n"
+"\t<td><b>Angular Value</b></td>\n"
+"\t<td><b>cubits</b></td>\n"
+"\t<td><b>Angular Value</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>spear</td>\n"
+"\t<td>6 cubits</td>\n"
+"\t<td><notr>14°</notr></td>\n"
+"\t<td>6 cubits</td>\n"
+"\t<td><notr>14°</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Man-Height</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"\t<td>3 cubits</td>\n"
+"\t<td><notr>7°</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>cubit</td>\n"
+"\t<td>1 cubit</td>\n"
+"\t<td><notr>2°20'</notr></td>\n"
+"\t<td>1 cubit</td>\n"
+"\t<td><notr>2°20'</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>span</td>\n"
+"\t<td>1/3 of a cubit</td>\n"
+"\t<td><notr>47'</notr></td>\n"
+"\t<td>1/2 of a cubit</td>\n"
+"\t<td><notr>1°10'</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>finger</td>\n"
+"\t<td>1/32 of a cubit</td>\n"
+"\t<td><notr>4.4'</notr></td>\n"
+"\t<td>1/16 of a cubit</td>\n"
+"\t<td><notr>8.75'</notr></td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"Another important aspect of Al-Sufi book is his record of the indigenous "
+"Arabic star names falling under each constellation, and the exact "
+"identification of the respective stars with the corresponding Ptolemaic "
+"stars. This means that we are looking at two layers of stars knowledge at "
+"the same time: the Ptolemaic one and the indigenous Arab one.\n"
+"\n"
+"### The Sky Culture\n"
+"\n"
+"This sky culture is a result of a research done on several manuscripts of "
+"the book, oldest of which is the [#8].\n"
+"\n"
+"First, the manuscripts of the Book of Fixed Stars were critically edited, "
+"and the text was produced. Second, each member star of the 48 constellations "
+"was identified according to Al-Sufi description, and new tables were built "
+"including modern star designations from the Hipparcos, Bright stars, and "
+"Bayer catalogues. Third, Arab indigenous star names were collected and "
+"identified as mapped by Al-Sufi to the Ptolemaic ones. All the previous "
+"steps were included in a book published digitally of the Book of Fixed Stars "
+"plus explanations and commentary by Khalid Al-Ajaji[#4].\n"
+"\n"
+"The sky culture stick figures of the constellations are the images in the "
+"Ulugh Beg manuscript of the Book of Fixed Stars, extracted, and adapted for "
+"Stellarium by Mr. Kutaibaa Akraa [#5]. The star names file includes the star "
+"number in the constellation as the primary star name and the description of "
+"the star in the tables as a secondary name. For example, Polaris primary "
+"name that is displayed with the star is: UMi1, UMi being Ursa Minor and 1 is "
+"the first star of this constellation. If the star is selected other "
+"secondary names are displayed, which will display \"The star on the end of "
+"the tail\" on the top of the screen. The constellation lines are constructed "
+"according to the constellation shapes with an attempt to include most of the "
+"member stars. For indigenous Arab star knowledge, individual star names were "
+"added to the star file as secondary names, while names of group of stars "
+"were defined through asterism names and asterism lines files.\n"
+"\n"
+"The translation of star descriptions from Arabic into English was extracted "
+"from Ernie Wright website[#6] which was transcribed from Toomer's "
+"translation of the Almagest[#7]. The translation was modified in a few "
+"places to agree with Al-Sufi wording.\n"
+"\n"
+"The single source of the sky culture is the Book of Fixed Stars and the "
+"objective is to give a faithful representation of the book content."
+msgstr ""
+"Een belangrijk aspect in de algemene discussiesectie is de Al-Sufi-methode\n"
+"om sterren te identificeren. Hij beschrijft elke ster op meerdere manieren:\n"
+"de positie ten opzichte van het sterrenbeeld, de magnitude, een asterisme\n"
+"dat de ster vormt met andere sterren zoals een driehoek of boog, soms de\n"
+"positie ten opzichte van de Melkweg en de hoekafstand tot een nabije\n"
+"ster. Ik heb in Al-Sufi's boek meer dan 700 hoekafstanden geteld. De\n"
+"eenheden die hij gebruikt voor de hoekafstanden zijn ellen, speerlengte,\n"
+"manhoogte, spanwijdte en vinger. Al-Sufi zegt in zijn boek expliciet dat "
+"een\n"
+"el gelijk is aan twee graden en 20 minuten [#2]. Voor de andere eenheden gaf "
+"Schjellerup\n"
+"enkele waarden, maar door de 700 metingen bij te houden kwam ik tot andere\n"
+"waarden. De volgende tabel geeft een overzicht van de eenheden en de "
+"relatie\n"
+"tussen de waarde van de el van Schjellerup[#3] en die uit mijn onderzoek.\n"
+"\n"
+"### Hoekafstand eenheden gebruikt door Al-Sufi\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td>&nbsp;</td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Schjellerup</b></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Khalid</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>eenheid</b></td>\n"
+"\t<td><b>ellen</b></td>\n"
+"\t<td><b>Hoekwaarde</b></td>\n"
+"\t<td><b>ellen</b></td>\n"
+"\t<td><b>Hoekwaarde</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>speer</td>\n"
+"\t<td>6 ellen</td>\n"
+"\t<td>14°</td>\n"
+"\t<td>6 ellen</td>\n"
+"\t<td>14°</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Manhoogte</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"\t<td>3 ellen</td>\n"
+"\t<td>7°</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>el</td>\n"
+"\t<td>1 el</td>\n"
+"\t<td>2°20'</td>\n"
+"\t<td>1 el</td>\n"
+"\t<td>2°20'</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>spanwijdte</td>\n"
+"\t<td>1/3 el</td>\n"
+"\t<td>47'</td>\n"
+"\t<td>1/2 el</td>\n"
+"\t<td>1°10'</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>vinger</td>\n"
+"\t<td>1/32 el</td>\n"
+"\t<td>4.4'</td>\n"
+"\t<td>1/16 el</td>\n"
+"\t<td>8.75'</td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"Een ander belangrijk aspect van Al-Sufi boek is zijn record van inheemse\n"
+"Arabische sternamen die onder elk sterrenbeeld vallen en de exacte\n"
+"identificatie van de respectievelijke sterren met de overeenkomstige\n"
+"Ptolemeïsche sterren. Dit betekend dat we tegelijkertijd naar twee lagen "
+"van\n"
+"sterrenkennis kijken: de Ptolemeïsche en de inheemse Arabische.\n"
+"\n"
+"### De hemelcultuur\n"
+"\n"
+"Deze hemelcultuur is het resultaat van een onderzoek gedaan in "
+"verschillende\n"
+"manuscripten van het boek, de oudste daarvan is de [#8].\n"
+"\n"
+"<p>Eerst werden manuscripten van het Book of Fixed Stars kritisch bewerkt "
+"en\n"
+"werd van daaruit de tekst geproduceerd. Vervolgens werd elke ster van de 48\n"
+"sterrenbeelden werd geïdentificeerd overeenkomstig de Al-Sufi beschrijving,\n"
+"en nieuwe tabellen werden samengesteld inclusief moderne steraanduidingen\n"
+"uit de Hipparcos, Bright stars, en Bayer catalogus. Ten derde werden\n"
+"inheemse Arabische sternamen verzameld en geïdentificeerd zoals gemapped\n"
+"tussen Al-Sufi en de Ptolemeïsche sterren. Al de voorgaande stappen werden\n"
+"opgenomen in een digitale boekversie van het Book of Fixed Stars, inclusief\n"
+"uitleg en commentaren door Khalid Al-Ajaji<sup><a\n"
+"href=\"#footnote-4\">[4]</a></sup>.</p>\n"
+"\n"
+"De hemelcultuurstokfiguren van de sterrenbeelden zijn de afbeeldingen in "
+"het\n"
+"Ulugh Beg-manuscript van het Book of Fixed Stars, geëxtraheerd en aangepast\n"
+"voor Stellarium door de heer Kutaibaa Akraa [#5]. Het bestand met sternamen "
+"bevat het sternummer in het\n"
+"sterrenbeeld als de primaire sternaam en de beschrijving van de ster in de\n"
+"tabellen als een secundaire naam. Bijvoorbeeld, de primaire naam van de\n"
+"Poolster die wordt weergegeven met de ster is: UMi1, UMi is Ursa Minor en 1\n"
+"is de eerste ster van dit sterrenbeeld. Als de ster is geselecteerd, worden\n"
+"andere secundaire namen weergegeven, wat bovenaan het scherm \"De ster aan\n"
+"het uiteinde van de staart\" zal weergeven. De sterrenbeeldlijnen zijn\n"
+"geconstrueerd volgens de sterrenbeeldvormen met een poging om de meeste van\n"
+"de aangesloten sterren op te nemen. Voor inheemse Arabische sterkennis\n"
+"werden individuele sternamen als secundaire namen aan het sterbestand\n"
+"toegevoegd, terwijl namen van een groep sterren werden gedefinieerd door\n"
+"middel van asterismenamen en asterismelijnbestanden.\n"
+"\n"
+"De vertaling van ster beschrijvingen van het Arabisch in het Engels is\n"
+"afkomstig van Ernie Wright website[#6]\n"
+"die is overgenomen uit de Toomer's vertaling van de Almagest[#7]. De "
+"vertaling is op enkele plaatsen\n"
+"aangepast in overeenstemming met de Al-Sufi bewoording.\n"
+"\n"
+"De enige bron van de hemelcultuur is het Book of Fixed Stars en het doel is\n"
+"een zo waarheidsgetrouw mogelijke weergave van het boek te geven."
+
+#. Sky culture authors section in markdown format
+msgid ""
+"This sky culture was compiled and added to Stellarium by Khalid Al-Ajaji: "
+"turath.alfalak@gmail.com"
+msgstr ""
+"Deze hemelcultuur is samengesteld en toegevoegd aan Stellarium door Khalid\n"
+"Al-Ajaji: turath.alfalak@gmail.com"
+
+#. Sky culture references section in markdown format
+msgid ""
+" - [#1]: The Arabs and the Stars, Paul Kunitzsch,The Astronomer Abu'L-Husayn "
+"Al-Sufi And His Book On The Constellations, XI, pg 57. Northampton "
+"[England]: Variorum Reprints, 1989.\n"
+" - [#2]: See Al-Sufi description in his book of the 14th star in Auriga.\n"
+" - [#3]: DESCRIPTIONS DES ETOILES FIXES, traduction littérale avec des notes "
+"par H C F C Schjellerup, St Petersbourg, 1874, pg 26-27.\n"
+" - [#4]: [Book of Fixed Stars: Critical edition with commentary by Khalid "
+"AlAjaji](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).\n"
+" - [#5]: [Oulough Beg copy of ʿAbd al-Raḥmān ibn ʿUmar al-Ṣūfī. Kitāb ṣuwar "
+"al-kawākib al-ṯābita, Paris, Bibliothèque nationale de France Ms. Arabe 5036]"
+"(https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Seeing Ancient Stars, Visualization of the Almagest Catalog]"
+"(http://www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Ptolemy’s ALMAGEST, G. J. Toomer, Princeton University Press, 2nd "
+"ed., 1998.\n"
+" - [#8]: [Oxford, Bodleian Library Ms. Marsh 144 dated 1009 AD](https://iiif."
+"bodleian.ox.ac.uk/iiif/viewer/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?"
+"c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)"
+msgstr ""
+" - [#1]: The Arabs and the Stars, Paul Kunitzsch,De astronoom Abu'L-Husayn "
+"Al-Sufi en zijn boek On The Constellations, XI, pg 57. Northampton "
+"[England]: Variorum Reprints, 1989.\n"
+" - [#2]: Zie Al-Sufi beschrijving in zijn boek over de 14de ster in Auriga.\n"
+" - [#3]: DESCRIPTIONS DES ETOILES FIXES, letterlijke vertaling met "
+"aantekeningen door H C F C Schjellerup, St Petersbourg, 1874, pg 26-27.\n"
+" - [#4]: [Book of Fixed Stars: Kritische editie met commentaar door Khalid "
+"AlAjaji](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).\n"
+" - [#5]: [Oulough Beg kopie van ʿAbd al-Raḥmān ibn ʿUmar al-Ṣūfī. Kitāb "
+"ṣuwar al-kawākib al-ṯābita, Paris, Bibliothèque nationale de France Ms. "
+"Arabe 5036](https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Seeing Ancient Stars, Visualisatie van de Almagest catalogus]"
+"(http://www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Ptolemy’s ALMAGEST, G. J. Toomer, Princeton University Press, 2de "
+"ed., 1998.\n"
+" - [#8]: [Oxford, Bodleian Library Ms. Marsh 144 gedateerd 1009 n.Chr.]"
+"(https://iiif.bodleian.ox.ac.uk/iiif/viewer/c1caa84c-"
+"f6d2-483f-9eb4-2439cccdc801#?"
+"c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two oryx calves"
+msgstr "De twee oryx-kalveren"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The axe of the grindstone"
+msgstr "De bijl van de slijpsteen"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The smaller daughters of Na'sh"
+msgstr "De kleinere dochters van Na'sh"
+
+#. Arabic (Al-Sufi) asterism
+#. Na'sh is a proper name meaning bier
+msgid "Daughters of Na'sh"
+msgstr "Dochters van Na'sh"
+
+#. Arabic (Al-Sufi) asterism
+#. Na'sh is a proper name meaning bier
+msgid "The couch of daughters of Na'sh"
+msgstr "De bank van de dochters van Na'sh"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Gazelles"
+msgstr "De gazelles"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Gazelles youngsters"
+msgstr "De gazelle jongen"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The water pool"
+msgstr "De water poel"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The first leap"
+msgstr "De eerste sprong"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The second leap"
+msgstr "De tweede sprong"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The third leap"
+msgstr "De derde sprong"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The leaps - The little foxes - the couples"
+msgstr "De sprongen - De kleine vossen - het koppels"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two wolves - The two falcons - The two black birds"
+msgstr "De twee wolven - De twee valken - De twee zwarte vogels"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The wolf claws"
+msgstr "De wolf klauwen"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The mother camels"
+msgstr "De moeder kamelen"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The three stone support (first narrative)"
+msgstr "De drie steen ondersteuning (eerste verhaal)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The three stone support (second narrative)"
+msgstr "De drie steen ondersteuning (tweede verhaal)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The pot"
+msgstr "De pot"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two stars of separation"
+msgstr "De twee gescheiden sterren"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The sheep"
+msgstr "Het schaap"
+
+#. Arabic (Al-Sufi) asterism
+#. Name for HIP 67927
+msgid "The spear"
+msgstr "De speer"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The front spear tassel - the weapon"
+msgstr "De voorste speerkwast - het wapen"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The rear spear tassel"
+msgstr "De achterste speerkwast"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The hyenas and their youngsters"
+msgstr "De hyena's en hun jongen"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The open circle - The bowl of the poor"
+msgstr "De open cirkel - De kom van de arme"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The northern line"
+msgstr "De noordelijke regel"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The statues"
+msgstr "De standbeelden"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The landing eagle "
+msgstr "De landende adelaar"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The claws"
+msgstr "De klauwen"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The knights"
+msgstr "De ridders"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The she-camel"
+msgstr "De vrouwtjeskameel"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The henna tinted hand"
+msgstr "De henna getinte hand"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The forearm"
+msgstr "De voorarm"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The arm"
+msgstr "De arm"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The shoulder"
+msgstr "De schouder"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Thurayya is a proper name
+msgid "The extended arm of Al-Thurayya"
+msgstr "De uitgestrekte arm van Al-Thurayya"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The northern tent"
+msgstr "De noordelijke tent"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Ayyuq is a proper name meaning the obstructor
+msgid "The posts - The associates of Al-Ayyuq"
+msgstr "De berichten - De medewerkers van Al-Ayyuq"
+
+#. Arabic (Al-Sufi) asterism
+#. kid is the young male goat
+msgid "The two kids"
+msgstr "De twee kinderen"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The desert natural garden and the goats"
+msgstr "De woestijn natuurlijke tuin en de geiten"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The southern line"
+msgstr "De zuidelijke lijn"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The flying eagle"
+msgstr "De vliegende adelaar"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two young male ostriches"
+msgstr "De twee jonge, mannelijke struisvogels"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The young camel"
+msgstr "De jonge kameel"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The well bucket"
+msgstr "De putemmer"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The front bucket mouth"
+msgstr "De voorste emmer mond"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The rear bucket mouth"
+msgstr "De achterste emmer mond"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The well poles - The bucket rope knot"
+msgstr "De putpalen - De knoop van het emmertouw"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the young sheep"
+msgstr "De geluksster van het jonge schaap"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the one with great endeavour"
+msgstr "De geluksster van diegene met het grote avontuur"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the excellent one"
+msgstr "De geluksster van de excellente"
+
+#. Arabic (Al-Sufi) asterism
+#. Mattar is a proper name meaning rain
+msgid "The lucky star of Mattar"
+msgstr "De geluksster van Mattar"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The fox place"
+msgstr "De vos plek"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The fish"
+msgstr "De vis"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two forelegs of the lamb"
+msgstr "De twee voorbenen van het lam"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two signs (first narrative)"
+msgstr "De twee tekens (eerste verhaal)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two signs (second narrative)"
+msgstr "De twee  tekens (tweede verhaal)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The signs (first narrative)"
+msgstr "De tekens (eerste verhaal)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The signs (second narrative)"
+msgstr "De tekens (tweede verhaal)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The little abdomen"
+msgstr "De kleine buik"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Thurayya is a proper name referring to the Pleiades
+#. Name for M 45
+msgid "Al-Thurayya"
+msgstr "Al-Thurayya"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The young she-camels"
+msgstr "De jonge vrouwtjeskameel"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Dabaran is a proper name meaning the follower
+msgid "The two dogs of Al-Dabaran"
+msgstr "De twee honden van Al-Dabaran"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The extended arm [of the lion]"
+msgstr "De uitgestoken arm [van de leeuw]"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The downward bend (first narrative)"
+msgstr "De neerwaartse bocht (eerste verhaal)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The downward bend (second narrative)"
+msgstr "De neerwaartse bocht (tweede verhaal)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The stars of rain (first narrative)"
+msgstr "De ster van de regen (eerste verhaal)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Stars of rain (second narrative)"
+msgstr "De ster van de regen (tweede verhaal)"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Jawza is a proper name
+msgid "Bow of Al-Jawza"
+msgstr "Boog van Al-jawza"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Nostrils [of the lion]"
+msgstr "Neusgaten [van de leeuw]"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Mouth of the lion"
+msgstr "Bek van de leeuw"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The eyes [of the lion]"
+msgstr "De ogen [van de leeuw]"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Northern eyelashes roots"
+msgstr "Noordelijke wimpers wortels"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Southern eyelashes roots"
+msgstr "Zuidelijke wimpers wortels"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Forehead [of the lion]"
+msgstr "Voorhoofd [van de leeuw]"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Mane of the lion"
+msgstr "Manen van de leeuw"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The bend"
+msgstr "De bocht"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The tassel"
+msgstr "De kwast"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Claws of the scorpion"
+msgstr "Klauwen van de schorpioen"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The diadem (according to Al-Sufi)"
+msgstr "De diadeem (volgens Al-Sufi)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The diadem (as narrated by Arabs)"
+msgstr "De diadeem (zoals verteld door Arabieren)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Veins of the heart"
+msgstr "Aders van het hart"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Tail segments of the scorpion"
+msgstr "Staartsegmenten van de schorpioen"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Raised Tail of the Scorpion - the sting"
+msgstr "Opgestoken staart van de schorpioen - de steek"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Ostriches drinking at the river"
+msgstr "De struisvogels drinken uit de rivier 4"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Ostriches leaving the river"
+msgstr "De struisvogels verlaten de rivier"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two male ostriches"
+msgstr "De twee mannelijke struisvogels"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The link"
+msgstr "De link"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Ostrich nest - The necklace"
+msgstr "Het struisvogelnest - De ketting"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The empty place"
+msgstr "De lege plek"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two shrikes"
+msgstr "De twee klauwieren"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the slaughterer"
+msgstr "De geluksster van de slachter"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of Nashira"
+msgstr "De geluksster van Nashira"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the king"
+msgstr "De geluksster van de koning"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The luckiest of the lucky stars"
+msgstr "De gelukkigste van de geluksster"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the swallower"
+msgstr "De geluksster van de veelvraat"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the tents"
+msgstr "De geluksster van de tenten"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The ringed rope"
+msgstr "Het ringvormige touw"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The short hand"
+msgstr "De korte hand"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The ostriches"
+msgstr "De struisvogels"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The circular mark"
+msgstr "Het ronde merkteken"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Jawza is a proper name
+msgid "The backbone of Al-Jawza - The belt of Al-Jawza - The string"
+msgstr "De ruggengraat van Al-Jawza - De riem van Al-Jawza - De snaar"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Sword of Orion - The facial line tattoo"
+msgstr "Zwaard van Orion - De gezichtslijn  tatoeage"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Jawza is a proper name
+msgid "Hair braids of Al-Jawza - Crown of Al-Jawza"
+msgstr "Haarvlechten van Al-Jawza - Kroon van Al-Jawza"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Jawza is a proper name
+msgid "The front footstool of Al-Jawza"
+msgstr "De voorste voetenbank van Al-Jawza"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The ostriches nest"
+msgstr "Het struisvogelnest"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Eggs and egg shells"
+msgstr "Eieren en eierschalen"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The young ostriches"
+msgstr "De jonge struisvogels"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The camels that quenched their thirst - The rear footstool of Al-Jawza"
+msgstr "De kamelen die hun dorst lessen - De achterste voetenbank van Al-Jawza"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The virgins"
+msgstr "De maagden"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The ravens - The monkeys"
+msgstr "De raven - De apen"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Retracted arm of the lion"
+msgstr "De uitgestoken arm van de leeuw"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The tied camels"
+msgstr "De gebonden kamelen"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The horses and the foals"
+msgstr "De paarden en de veulens"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The trough"
+msgstr "De trog"
+
+#. Arabic (Al-Sufi) asterism
+msgid ""
+"The southern tent - The throne of the armless high one - The camels - The "
+"lion buttock"
+msgstr ""
+"De zuidelijke tent - De troon van de armloze hoge - De kamelen - De "
+"leeuwenbil"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The date clusters"
+msgstr "De datumclusters"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The oath stars"
+msgstr "De eed ster"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The domed tent - The ostriches nest"
+msgstr "De koepeltent - Het struisvogelnest"
+
+#. Arabic (Al-Sufi) constellation, native: الدب الأصغر
+msgid "Ursa Minor"
+msgstr "Kleine Beer"
+
+#. Arabic (Al-Sufi) constellation, native: الدب الأكبر
+msgid "Ursa Major"
+msgstr "Grote Beer"
+
+#. Arabic (Al-Sufi) constellation, native: التنين
+msgid "Draco"
+msgstr "Draak"
+
+#. Arabic (Al-Sufi) constellation, native: قيقاوس
+msgid "Cepheus"
+msgstr "Cepheus"
+
+#. Arabic (Al-Sufi) constellation, native: العواء
+msgid "Bootes"
+msgstr "Ossenhoeder"
+
+#. Arabic (Al-Sufi) constellation, native: الإكليل الشمالي
+msgid "Corona Borealis"
+msgstr "Noorderkroon"
+
+#. Arabic (Al-Sufi) constellation, native: الجاثي
+msgid "Hercules"
+msgstr "Hercules"
+
+#. Arabic (Al-Sufi) constellation, native: اللورا
+msgid "Lyra"
+msgstr "Lier"
+
+#. Arabic (Al-Sufi) constellation, native: الطائر
+msgid "Cygnus"
+msgstr "Zwaan"
+
+#. Arabic (Al-Sufi) constellation, native: ذات الكرسي
+msgid "Cassiopeia"
+msgstr "Cassiopeia"
+
+#. Arabic (Al-Sufi) constellation, native: برشاوش
+msgid "Perseus"
+msgstr "Perseus"
+
+#. Arabic (Al-Sufi) constellation, native: ممسك الأعنة
+msgid "Auriga"
+msgstr "Auriga"
+
+#. Arabic (Al-Sufi) constellation, native: الحواء
+msgid "Ophiuchus"
+msgstr "Slangendrager"
+
+#. Arabic (Al-Sufi) constellation, native: الحية
+msgid "Serpens"
+msgstr "Slang"
+
+#. Arabic (Al-Sufi) constellation, native: السهم
+msgid "Sagitta"
+msgstr "Pijl"
+
+#. Arabic (Al-Sufi) constellation, native: العقاب
+msgid "Aquila"
+msgstr "Arend"
+
+#. Arabic (Al-Sufi) constellation, native: الدلفين
+msgid "Delphinus"
+msgstr "Delphinus"
+
+#. Arabic (Al-Sufi) constellation, native: قطعة الفرس
+msgid "Equuleus"
+msgstr "Veulen"
+
+#. Arabic (Al-Sufi) constellation, native: الفرس
+msgid "Pegasus"
+msgstr "Pegasus"
+
+#. Arabic (Al-Sufi) constellation, native: المسلسلة
+msgid "Andromeda"
+msgstr "Andromeda"
+
+#. Arabic (Al-Sufi) constellation, native: المثلث
+msgid "Triangulum"
+msgstr "Driehoek"
+
+#. Arabic (Al-Sufi) constellation, native: الحمل
+msgid "Aries"
+msgstr "Ram"
+
+#. Arabic (Al-Sufi) constellation, native: الثور
+msgid "Taurus"
+msgstr "Stier"
+
+#. Arabic (Al-Sufi) constellation, native: التوأمان
+msgid "Gemini"
+msgstr "Gemini"
+
+#. Arabic (Al-Sufi) constellation, native: السرطان
+msgid "Cancer"
+msgstr "Kreeft"
+
+#. Arabic (Al-Sufi) constellation, native: الأسد
+msgid "Leo"
+msgstr "Leo"
+
+#. Arabic (Al-Sufi) constellation, native: العذراء
+msgid "Virgo"
+msgstr "Maagd"
+
+#. Arabic (Al-Sufi) constellation, native: الميزان
+msgid "Libra"
+msgstr "Weegschaal"
+
+#. Arabic (Al-Sufi) constellation, native: العقرب
+msgid "Scorpius"
+msgstr "Schorpioen"
+
+#. Arabic (Al-Sufi) constellation, native: الرامي
+msgid "Sagittarius"
+msgstr "Boogschutter"
+
+#. Arabic (Al-Sufi) constellation, native: الجدي
+msgid "Capricornus"
+msgstr "Steenbok"
+
+#. Arabic (Al-Sufi) constellation, native: ساكب الماء
+msgid "Aquarius"
+msgstr "Aquarius"
+
+#. Arabic (Al-Sufi) constellation, native: السمكتان
+msgid "Pisces"
+msgstr "Vissen"
+
+#. Arabic (Al-Sufi) constellation, native: قيطس
+msgid "Cetus"
+msgstr "Zeemonster"
+
+#. Arabic (Al-Sufi) constellation, native: الجبار
+msgid "Orion"
+msgstr "Orion"
+
+#. Arabic (Al-Sufi) constellation, native: النهر
+msgid "Eridanus"
+msgstr "Eridanus"
+
+#. Arabic (Al-Sufi) constellation, native: الأرنب
+msgid "Lepus"
+msgstr "Haas"
+
+#. Arabic (Al-Sufi) constellation, native: الكلب الأكبر
+msgid "Canis Major"
+msgstr "Grote Hond"
+
+#. Arabic (Al-Sufi) constellation, native: الكلب الأصغر
+msgid "Canis Minor"
+msgstr "Kleine Hond"
+
+#. Arabic (Al-Sufi) constellation, native: السفينة
+msgid "Argo Navis"
+msgstr "Argo Navis"
+
+#. Arabic (Al-Sufi) constellation, native: الشجاع
+msgid "Hydra"
+msgstr "Hydra"
+
+#. Arabic (Al-Sufi) constellation, native: الباطية
+msgid "Crater"
+msgstr "Beker"
+
+#. Arabic (Al-Sufi) constellation, native: الغراب
+msgid "Corvus"
+msgstr "Raaf"
+
+#. Arabic (Al-Sufi) constellation, native: قنطورس
+msgid "Centaurus"
+msgstr "Centaurus"
+
+#. Arabic (Al-Sufi) constellation, native: السبع
+msgid "Lupus"
+msgstr "Wolf"
+
+#. Arabic (Al-Sufi) constellation, native: المجمرة
+msgid "Ara"
+msgstr "Ara"
+
+#. Arabic (Al-Sufi) constellation, native: الإكليل الجنوبي
+msgid "Corona Australis"
+msgstr "Zuiderkroon"
+
+#. Arabic (Al-Sufi) constellation, native: الحوت الجنوبي
+msgid "Piscis Austrinus"
+msgstr "Zuidervis"
+
+#. Arabic (Al-Sufi) constellation, native: فرس الصوفي
+msgid "The Horse"
+msgstr "Het paard"
+
+#. Arabic (Al-Sufi) constellation, native: الحوت العظيم
+msgid "The great fish"
+msgstr "De grote vis"
+
+#. Arabic (Al-Sufi) constellation, native: الحوت الآخر
+msgid "The other fish"
+msgstr "De andere vis"
+
+#. Name for HIP 11767
+#. The Kid (Baby male goat) is the name of Polaris in Arabic.
+msgid "The star on the end of the tail: it is the Kid"
+msgstr "De ster aan het eind van de staart: het is het kind"
+
+#. Name for HIP 85822
+msgid "The one next to it on the tail"
+msgstr "De een ernaast op de staart"
+
+#. Name for HIP 82080
+msgid "The one next to that, before the place where the tail joins [the body]"
+msgstr "De ene ernaast, vóór de plaats waar de staart samenkomt [het lichaam]"
+
+#. Name for HIP 77055
+msgid "The southernmost of the stars in the advance side of the rectangle"
+msgstr "De zuidelijkste van de sterren aan de voorkant van de rechthoek"
+
+#. Name for HIP 79822
+msgid "The northernmost of [those in] the same side"
+msgstr "De noordelijkste van [die aan] dezelfde kant"
+
+#. Name for HIP 72607
+msgid "The southern star in the rear side: The brighter of the two calves"
+msgstr ""
+"De zuidelijke ster aan de achterzijde: De helderste van de twee kalveren"
+
+#. Name for HIP 75097
+msgid "The northern one in the same side: The dimmer of the two calves"
+msgstr ""
+"De noordeijke ster aan dezelfde kant: De minst helder van de twee kalveren"
+
+#. Name for HIP 70692
+msgid ""
+"The star lying on a straight line with the stars in the rear side [of the "
+"rectangle] and south of them"
+msgstr ""
+"De ster ligt in een rechte lijn met de sterren aan de achterzijde [van de "
+"rechthoek] en zuidelijk van hen"
+
+#. Name for HIP 41704
+msgid "The star on the end of the snout"
+msgstr "De ster aan het eind van de snuit"
+
+#. Name for HIP 42080
+msgid "The more advanced of the stars in the two eyes"
+msgstr "De meer geavanceerde van de sterren in de twee ogen"
+
+#. Name for HIP 2548
+msgid "The one to the rear"
+msgstr "De ene aan de achterzijde"
+
+#. Name for HIP 44390
+msgid "The more advanced of the two stars in the forehead"
+msgstr "De meer naar voren staande van de twee sterren in het voorhoofd"
+
+#. Name for HIP 46977
+msgid "The star on the tip of the advance ear"
+msgstr "De ster op het puntje van het voorste oor"
+
+#. Name for HIP 45075
+msgid "The more advanced of the two stars in the neck"
+msgstr "De meer naar voren staande van de twee sterren in de nek"
+
+#. Name for HIP 46733
+msgid ""
+"The one to the rear, there is an error in either the longitude or latitude"
+msgstr "De achterste, er is een fout in de lengte- of breedtegraad"
+
+#. Name for HIP 48319
+msgid "The northernmost of the two stars in the chest"
+msgstr "De noordelijkste van de twee sterren in de borst"
+
+#. Name for HIP 1170
+msgid "The southernmost of them"
+msgstr "De zuidelijkste van hen"
+
+#. Name for HIP 18532
+msgid "The star on the left knee"
+msgstr "De ster op de linkerknie"
+
+#. Name for HIP 44127
+msgid ""
+"The northernmost of the [two] in the front left paw: Leap [of the gazelle]"
+msgstr ""
+"De noordelijkste van de [twee] in de linker voorpoot: Sprong [van de gazelle]"
+
+#. Name for HIP 44471
+msgid "The southernmost of them: Leap [of the gazelle]"
+msgstr "De noordelijkste van hen: Sprong [van de gazelle]"
+
+#. Name for HIP 45493
+msgid "The star above the right knee"
+msgstr "De ster boven de rechterknie"
+
+#. Name for HIP 44901
+msgid "The star below the right knee"
+msgstr "De ster onder de rechterknie"
+
+#. Name for HIP 54061
+msgid "The stars in the quadrilateral: the one on the back"
+msgstr "De sterren in de vierhoek: die op de achterkant"
+
+#. Name for HIP 53910
+msgid "The one on the pelvis"
+msgstr "Die op het bekken"
+
+#. Name for HIP 59774
+msgid "The one on the place where the tail joins [the body]"
+msgstr "Die op de plek waar de staart samenkomt [het lichaam]"
+
+#. Name for HIP 58001
+msgid "The remaining one, on the left hind thigh"
+msgstr "De overgeblevene, op de linkerachterbeen"
+
+#. Name for HIP 50372
+msgid "The more advanced of the [two stars] in the left hind paw"
+msgstr ""
+"De meer naar voren staande van de [twee sterren] in de linkerachterpoot"
+
+#. Name for HIP 50801
+msgid "The one to the rear of it"
+msgstr "Die aan de achterkant er van"
+
+#. Name for HIP 54539
+msgid "The star on the left knee-bend"
+msgstr "De ster op de linkerkniebocht"
+
+#. Name for HIP 55219
+msgid "The northernmost of the [two stars] in the right hind paw"
+msgstr "De noordelijkste van de [twee sterren] in de rechterachterpoot"
+
+#. Name for HIP 62956
+msgid ""
+"The first of the three stars on the tail next to the place where it joins "
+"[the body]"
+msgstr ""
+"De eerste van de drie sterren op de staart naast de plek waar het samenkomt "
+"[het lichaam]"
+
+#. Name for HIP 17797
+msgid "The middle one"
+msgstr "De middelste"
+
+#. Name for HIP 67301
+msgid "The third, on the end of the tail"
+msgstr "De derde, aan het einde van de staart"
+
+#. Name for HIP 63125
+msgid "The star under the tail, at some distance towards the south"
+msgstr "De ster onder de staart, op enige afstand naar het zuiden"
+
+#. Name for HIP 61317
+msgid "The rather fainter star in advance of it"
+msgstr "De nogal zwakkere ster ervoor"
+
+#. Name for HIP 45860
+msgid ""
+"The southernmost of the [two] stars between the front legs of Ursa [Major] "
+"and the head of Leo"
+msgstr ""
+"De zuidelijkste van de [twee] sterren tussen de voorpoten van de Grote "
+"[Beer] en de kop van de leeuw"
+
+#. Name for HIP 45688
+msgid "The one north of it"
+msgstr "Die noordelijk van het"
+
+#. Name for HIP 44700
+msgid "The rearmost of the remaining three faint stars"
+msgstr "De achterste van de overgebleven drie zwakke sterren"
+
+#. Name for HIP 14293
+msgid "The one in advance of this"
+msgstr "Die voor dit"
+
+#. Name for HIP 43531
+msgid "The one in advance again of the latter"
+msgstr "Die weer voor de laatste"
+
+#. Name for HIP 41075
+msgid "The star between the front legs [of Ursa Major] and Gemini"
+msgstr "De ster tussen de voorpoten {Grote Beer] en Gemini"
+
+#. Name for HIP 62956
+msgid "The dark camel"
+msgstr "De donkere kameel"
+
+#. Name for HIP 62956
+msgid "The Oryx"
+msgstr "De Oryx"
+
+#. Name for HIP 65378
+msgid "The little goat"
+msgstr "De kleine geit"
+
+#. Name for HIP 67301
+msgid "The leader"
+msgstr "De leider"
+
+#. Name for HIP 63125
+msgid "Liver of the lion"
+msgstr "Lever van de leeuw"
+
+#. Name for HIP 65477
+#. Proper name
+msgid "Al-Suha"
+msgstr "Al-Suha"
+
+#. Name for HIP 65477
+#. Proper name
+msgid "Al-Suta"
+msgstr "Al-Suta"
+
+#. Name for HIP 65477
+#. Proper name
+msgid "Al-Saydaq"
+msgstr "Al-Saydaq"
+
+#. Name for HIP 65477
+#. Proper name
+msgid "Nua'ish"
+msgstr "Nua'ish"
+
+#. Name for HIP 83608
+msgid "The star on the tongue"
+msgstr "De ster op de tong"
+
+#. Name for HIP 85819
+msgid "The star in the mouth"
+msgstr "De ster in de mond"
+
+#. Name for HIP 85670
+msgid "The star above the eye"
+msgstr "De ster boven het oog"
+
+#. Name for HIP 87585
+msgid "The star on the chin"
+msgstr "De ster op de kin"
+
+#. Name for HIP 87833
+msgid "The star above the head"
+msgstr "De ster boven de kop"
+
+#. Name for HIP 90156
+msgid ""
+"The northernmost of the three stars in a straight line in the first bend of "
+"the neck"
+msgstr ""
+"De noordelijkste van de drie sterren in een rechte lijn naar de eerste bocht "
+"in de nek"
+
+#. Name for HIP 47908
+msgid "The southernmost of these"
+msgstr "De zuidelijkste van deze"
+
+#. Name for HIP 92512
+msgid ""
+"The star to the rear of the latter and due east of the quadrilateral in the "
+"next bend after the latter"
+msgstr ""
+"De ster aan de achter de laatste en pal ten oosten van de vierhoek in de "
+"volgende bocht na de laatste"
+
+#. Name for HIP 95081
+msgid "The southern star of the [two] forming the advance side"
+msgstr "De zuidelijke ster van de [twee] vormt de voorzijde"
+
+#. Name for HIP 94376
+msgid "The more northerly star of the advance side"
+msgstr "De noordelijkste ster aan de voorzijde"
+
+#. Name for HIP 97433
+msgid "The northern star of the rear side [of the quadrilateral]"
+msgstr "De noordelijke ster aan de achterkant [van de vierhoek]"
+
+#. Name for HIP 98702
+msgid "The southern star of the rear side"
+msgstr "De zuidelijke ster aan de achterkant"
+
+#. Name for HIP 96100
+msgid "The southern star of [those forming] the triangle in the next bend"
+msgstr "De zuidelijke ster van [die vormen] de driehoek in de volgende bocht"
+
+#. Name for HIP 92782
+msgid "The more advanced of the other two stars of the triangle"
+msgstr "De voorste van de andere twee sterren van de driehoek"
+
+#. Name for HIP 86614
+msgid ""
+"The rearmost of the three stars in the next triangle, which is in advance "
+"[of the last]"
+msgstr ""
+"De achterste van de drie sterren in de volgende driehoek, die staat voor [de "
+"laatste]"
+
+#. Name for HIP 89937
+msgid "The southernmost of the other two forming the triangle"
+msgstr "De zuidelijkste van de andere twee die een driehoek vormen"
+
+#. Name for HIP 910
+msgid "The northernmost of the other two"
+msgstr "De noordelijkste van de andere twee"
+
+#. Name for HIP 85805
+msgid "The rearmost of the two small stars to the west of the triangle"
+msgstr "De achterste van de twee kleine sterren in het westen van de driehoek"
+
+#. Name for HIP 86201
+msgid "The one in advance"
+msgstr "De voorste"
+
+#. Name for HIP 81660
+msgid "The southernmost of the next three stars in a straight line"
+msgstr "De zuidelijkste van de volgende drie sterren in een rechte lijn"
+
+#. Name for HIP 1686
+msgid "The middle one of the three"
+msgstr "De middelste van de drie"
+
+#. Name for HIP 1366
+msgid "The northernmost of them"
+msgstr "De noordelijkste van hen"
+
+#. Name for HIP 80331
+msgid "The northernmost of the next two to the west"
+msgstr "De noordelijkste van de volgende twee in het westen"
+
+#. Name for HIP 75458
+msgid "The star to the west of these, in the bend by the tail"
+msgstr "De ster in het westen van deze, in de bocht van de staart"
+
+#. Name for HIP 67627
+msgid "The advance star of the two quite some distance from the latter"
+msgstr "De voorste ster van de twee op een behoorlijke afstand van de laatste"
+
+#. Name for HIP 68756
+msgid "The rear star of these [two]"
+msgstr "De achterste ster van deze [twee]"
+
+#. Name for HIP 61281
+msgid "The star close by these, by the tail"
+msgstr "De ster naast deze, bij de staart"
+
+#. Name for HIP 56211
+msgid "The remaining star, on the tip of the tail"
+msgstr "De overgebleven ster, op de punt van de staart"
+
+#. Name for HIP 83608
+msgid "The trotting camel"
+msgstr "De dravende kameel"
+
+#. Name for HIP 86782
+msgid "The baby camel"
+msgstr "De baby kameel"
+
+#. Name for HIP 75458
+msgid "The male hyena"
+msgstr "De vrouwelijke hyena"
+
+#. Name for HIP 99255
+msgid "The star on the right leg"
+msgstr "De ster op de rechterbeen"
+
+#. Name for HIP 116727
+msgid "The one on the left leg"
+msgstr "De ster op de linkerbeen"
+
+#. Name for HIP 106032
+msgid "The star under the belt on the right side"
+msgstr "De ster onder de riem aan de rechterzijde"
+
+#. Name for HIP 105199
+msgid "The star over the right shoulder, which touches it"
+msgstr "De ster boven de rechterschouder, die het raakt"
+
+#. Name for HIP 102422
+msgid "The star over the right elbow, which touches it"
+msgstr "De ster boven de rechterelleboog, die het raakt"
+
+#. Name for HIP 101093
+msgid "The one under that elbow"
+msgstr "Die onder die elleboog"
+
+#. Name for HIP 18724
+msgid "The star in the chest"
+msgstr "De ster in de borst"
+
+#. Name for HIP 112724
+msgid "The star on the left arm"
+msgstr "De ster op de linkerarm"
+
+#. Name for HIP 109857
+msgid "The southernmost of the three stars on the hat"
+msgstr "De noordelijkste van de drie sterren op het hoofd"
+
+#. Name for HIP 3881
+msgid "The northernmost of the three"
+msgstr "De noordelijkste van de drie"
+
+#. Name for HIP 107259
+msgid "The one in advance of the stars on the head"
+msgstr "De voorste van de sterren op de kop"
+
+#. Name for HIP 110991
+msgid "The one to the rear of them"
+msgstr "Die achter hen"
+
+#. Name for HIP 116727
+msgid "The [northern] Shepherd"
+msgstr "De [noordelijke] herder"
+
+#. Name for HIP 111056
+msgid "The [northern] Shepherd dog"
+msgstr "De [noordelijke] herdershond"
+
+#. Name for HIP 108917
+msgid "The horse forehead star"
+msgstr "De paardenhoofd ster"
+
+#. Name for HIP 69483
+msgid "The most advanced of the three in the left arm"
+msgstr "De voorste van de drie in de linkerarm"
+
+#. Name for HIP 69713
+msgid "The middle and southernmost of the three"
+msgstr "De middelste en zuidelijkste van de drie"
+
+#. Name for HIP 5454
+msgid "The rearmost of the three"
+msgstr "De achterste van de drie"
+
+#. Name for HIP 4463
+msgid "The star on the left elbow"
+msgstr "De ster op de linkerarm"
+
+#. Name for HIP 12777
+msgid "The star on the left shoulder"
+msgstr "De ster op de linkerschouder"
+
+#. Name for HIP 2920
+msgid "The star on the head"
+msgstr "De ster op de kop"
+
+#. Name for HIP 14328
+msgid "The star on the right shoulder"
+msgstr "De ster op de rechterschouder"
+
+#. Name for HIP 75411
+msgid "The one to the north of these, on the staff"
+msgstr "Die ten noorden van deze, op de staf"
+
+#. Name for HIP 75973
+msgid ""
+"The one farther to the north again of this, on the tip of the staff, and it "
+"is a common star [with Hercules]"
+msgstr ""
+"Die verder naar het noorden hiervan, op het puntje van de staf, en het is "
+"een gewone ster [met Hercules]"
+
+#. Name for HIP 75312
+msgid "The northernmost of the two stars below the shoulder, in the club"
+msgstr "De noordelijkste van de twee sterren onder de schouder, in de club"
+
+#. Name for HIP 73996
+msgid "The star on the end of the right arm"
+msgstr "De ster aan het einde van de rechterarm"
+
+#. Name for HIP 73745
+msgid "The more advanced of the two stars in the wrist"
+msgstr "De voorste van de twee sterren in de pols"
+
+#. Name for HIP 145
+msgid "The rearmost of them"
+msgstr "De achterste van hen"
+
+#. Name for HIP 73568
+msgid "The star on the end of the handle of the staff"
+msgstr "De ster aan het eind van het handvat van de staf"
+
+#. Name for HIP 72105
+msgid ""
+"The star on the belt which Ptolemy claims that it is on the right thigh, in "
+"the apron"
+msgstr ""
+"De ster op de riem waarvan Ptolemaeus zegt dat hij op de rechter dij zit, in "
+"het schort"
+
+#. Name for HIP 71284
+msgid "The rearmost of the two stars in the belt"
+msgstr "De achterste van de twee sterren in de riem"
+
+#. Name for HIP 5364
+msgid "The more advanced of them"
+msgstr "De meer naar voren staande van hen"
+
+#. Name for HIP 71795
+msgid "The star on the right heel"
+msgstr "De ster op de rechterhiel"
+
+#. Name for HIP 67927
+msgid "The northernmost of the three stars in the left leg"
+msgstr "De noordelijkste van de drie sterren in de linkerpoot"
+
+#. Name for HIP 69673
+msgid "The star between the thighs, called 'The high one with the spear'"
+msgstr "De ster tussen de dijen, genaamd 'De hoge met de speer'"
+
+#. Name for HIP 69673
+msgid "The guard of the sky"
+msgstr "De bewaker van de hemel"
+
+#. Name for HIP 69673
+msgid "The guard of the north"
+msgstr "De bewaker van het noorden"
+
+#. Name for HIP 69673
+msgid "Leg of the lion"
+msgstr "Poot van de leeuw"
+
+#. Name for HIP 72105
+msgid "Associate of the high one"
+msgstr "Medewerker van de hoge"
+
+#. Name for HIP 72105
+msgid "Flag of the high one"
+msgstr "Vlag van de hoge"
+
+#. Name for HIP 72105
+#. Al-Fakkah is a proper name meaning incomplete circle referring to Corona Borealis
+msgid "Flag of Al-Fakkah"
+msgstr "Vlag van Al-Fakkah"
+
+#. Name for HIP 76267
+msgid "The bright star in the crown"
+msgstr "De heldere ster in de kroon"
+
+#. Name for HIP 75695
+msgid "The star in advance of it"
+msgstr "De ster voor het"
+
+#. Name for HIP 76127
+msgid "The one above this and due north"
+msgstr "Die boven dit en naar het noorden"
+
+#. Name for HIP 30277
+msgid "The one north again of this"
+msgstr "Die weer ten noorden hiervan"
+
+#. Name for HIP 76952
+msgid ""
+"The one to the rear of the bright star in the other half circle from the "
+"south"
+msgstr "Die achter de heldere ster in de andere halve cirkel vanuit het zuiden"
+
+#. Name for HIP 77512
+msgid ""
+"The one to the rear again of the latter, and it is a little more to the north"
+msgstr "Die weer aan achter de laatste, en het is iets meer naar het noorden"
+
+#. Name for HIP 78159
+msgid "The one to the rear again of these, and again it is more to the north"
+msgstr "Die weer achter deze, en opnieuw is het meer naar het noorden"
+
+#. Name for HIP 78493
+msgid "The star at the end of the opening of this half circle"
+msgstr "De ster aan het einde van de opening van deze halve cirkel"
+
+#. Name for HIP 76267
+#. Al-Fakkah is a proper name meaning incomplete circle referring to Corona Borealis
+msgid "The bright star of Al-Fakkah"
+msgstr "De heldere ster van Al-Fakkah"
+
+#. Name for HIP 80816
+msgid "The star on the right shoulder by the armpit"
+msgstr "De ster op de rechterschouder bij de oksel"
+
+#. Name for HIP 68862
+msgid "The star on the right upper arm"
+msgstr "De ster aan de rechterbovenarm"
+
+#. Name for HIP 13268
+msgid "The star on the right elbow"
+msgstr "De ster op de rechter elleboog"
+
+#. Name for HIP 3693
+msgid "The star on the left upper arm"
+msgstr "De ster op de linkerbovenarm"
+
+#. Name for HIP 88794
+msgid "The rearmost of the three stars in the left wrist"
+msgstr "De achterste van de drie sterren in de rechterpols"
+
+#. Name for HIP 81693
+msgid "The star in the right side"
+msgstr "De ster aan de rechterzijde"
+
+#. Name for HIP 83207
+msgid "The star in the left side"
+msgstr "De ster aan de linkerzijde"
+
+#. Name for HIP 83313
+msgid "The one north of the latter, on the left buttock"
+msgstr "Die ten noorden van de laatste, op de bil"
+
+#. Name for HIP 83838
+msgid "The one on the place where the thigh joins the same [buttock]"
+msgstr "Die op de plek waar de dij aansluit op de zelfde [bil]"
+
+#. Name for HIP 84380
+msgid "The most advanced of the three in the left thigh"
+msgstr "De voorste van de drie in de linkerdij"
+
+#. Name for HIP 13288
+msgid "The one to the rear of this"
+msgstr "Die achter dit"
+
+#. Name for HIP 85112
+msgid "The one yet further to the rear of this"
+msgstr "Die net wat verder achterkant dit"
+
+#. Name for HIP 86414
+msgid "The star on the left shin on the ankle place"
+msgstr "De ster op het linker scheenbeen op de plaats van de enkel"
+
+#. Name for HIP 87212
+msgid "The most advanced of the three stars in the left foot"
+msgstr "De voorste van de drie sterren in de linkervoet"
+
+#. Name for HIP 81833
+msgid "The star on the place where the right thigh joins [the buttock]"
+msgstr "De ster op de plek waar de rechterdij dicht aansluit [de bil]"
+
+#. Name for HIP 81126
+msgid "The star north of it in the same thigh"
+msgstr "De ster ten noorden van het in dezelfde dij"
+
+#. Name for HIP 5434
+msgid "The star on the right knee"
+msgstr "De ster op de rechterknie"
+
+#. Name for HIP 79101
+msgid "The southernmost of the two stars under the right knee"
+msgstr "De zuidelijkste van de twee sterren onder de rechterknie"
+
+#. Name for HIP 77760
+msgid "The star in the right lower leg"
+msgstr "De ster in het rechteronderbeen"
+
+#. Name for HIP 75973
+msgid ""
+"The star on the end of the right leg is the same as the ninth star of Bootes "
+"on the tip of the staff, shared by the two constellations"
+msgstr ""
+"De ster op het eind van het rechterbeen is dezelfde als de negende ster van "
+"Bootes op de punt van de staf, gedeeld door twee sterrenbeelden"
+
+#. Name for HIP 80463
+msgid "The star south of the one in the right upper arm"
+msgstr "De ster ten zuiden van die in de rechterbovenarm"
+
+#. Name for HIP 84345
+msgid "First dog of [southern] shepherd"
+msgstr "Eerste hond van de [zuidelijke] herder"
+
+#. Name for HIP 86414
+msgid "The line"
+msgstr "De lijn"
+
+#. Name for HIP 91262
+msgid ""
+"The bright star on the carrying cloth, called Lyra, and it is the landing "
+"eagle"
+msgstr ""
+"De heldere ster op de draagdoek, genaamd Lyra en het is een landende adelaar"
+
+#. Name for HIP 91919
+msgid "The northernmost of the two stars lying near the latter, close together"
+msgstr ""
+"De noordelijkste van de twee sterren die in de buurt van de laatste liggen, "
+"dicht bij elkaar"
+
+#. Name for HIP 92791
+msgid ""
+"The one to the rear of these, in between the points where the horns [of the "
+"lyre] are attached"
+msgstr ""
+"Die achterkant deze, tussen de punten waar de hoorns [van de lier] zijn "
+"bevestigd"
+
+#. Name for HIP 94481
+msgid ""
+"The northernmost of the two stars close together in the region to the east "
+"of the cloth"
+msgstr ""
+"De noordelijkste van de twee sterren dicht bij elkaar in de regio ten oosten "
+"van het doek"
+
+#. Name for HIP 92420
+msgid "The northernmost of the two advance stars in the crossbar"
+msgstr "De noordelijkste van de twee voorste sterren in de dwarsbalk"
+
+#. Name for HIP 93194
+msgid "The northernmost of the two rear stars in the crossbar"
+msgstr "De noordelijkste van de twee achterste sterren in de dwarsbalk"
+
+#. Name for HIP 95947
+msgid "The star on the beak"
+msgstr "De ster in de bek"
+
+#. Name for HIP 96683
+msgid "The one to the rear of this, on the head"
+msgstr "Die achter dit, op de kop"
+
+#. Name for HIP 98110
+msgid "The star in the middle of the neck"
+msgstr "De ster in het midden van de nek"
+
+#. Name for HIP 3179
+msgid "The star in the breast"
+msgstr "De ster in de borst"
+
+#. Name for HIP 102098
+msgid "The bright star in the tail"
+msgstr "De heldere ster in de staart"
+
+#. Name for HIP 97165
+msgid "The star in the bend of the right wing"
+msgstr "De ster in de bocht van de rechtervleugel"
+
+#. Name for HIP 96441
+msgid "The southernmost of the three in the right wing-feathers"
+msgstr "De zuidelijkste van de drie in de rechtervleugelveren"
+
+#. Name for HIP 94779
+msgid "The northernmost of them, on the tip of the wing-feathers"
+msgstr "De noordelijkste van hen, op de punt van de vleugelveren"
+
+#. Name for HIP 102488
+msgid "The star on the bend of the left wing"
+msgstr "De ster in de bocht van de linkervleugel"
+
+#. Name for HIP 102589
+msgid "The star north of this, in the middle of the same wing"
+msgstr "De ster ten noorden van dit, in het midden van ditlfde vleugel"
+
+#. Name for HIP 104732
+msgid "The star in the tip of the feathers of the left wing"
+msgstr "De ster in de punt van de veren van de linkervleugel"
+
+#. Name for HIP 103413
+msgid "The star on the left leg"
+msgstr "De ster op de linkerpoot"
+
+#. Name for HIP 99675
+msgid "The more advanced of the two stars in the right leg"
+msgstr "De voorste van de twee sterren in de rechterpoot"
+
+#. Name for HIP 101138
+msgid "The northern star on the right knee"
+msgstr "De noordelijke ster op de rechterknie"
+
+#. Name for HIP 104887
+msgid "The southernmost of the two stars under the left wing"
+msgstr "De zuidelijkste van de twee sterren onder de linkervleugel"
+
+#. Name for HIP 102098
+msgid "The rear knight"
+msgstr "De achterste ridder"
+
+#. Name for HIP 3821
+msgid "The one north of that, on the belt"
+msgstr "Die ten noorden van dat, op de riem"
+
+#. Name for HIP 4427
+msgid "The star over the chair, just over the thighs"
+msgstr "De ster boven de stoel, net boven de dijen"
+
+#. Name for HIP 6686
+msgid "The star in the knees"
+msgstr "De ster in de knieën"
+
+#. Name for HIP 8886
+msgid "The star on the lower leg"
+msgstr "De ster op het onderbeen"
+
+#. Name for HIP 11569
+msgid "The star on the end of the leg"
+msgstr "De ster op het einde van het been"
+
+#. Name for HIP 6242
+msgid "The star below the left elbow"
+msgstr "De ster onder de linkerelleboog"
+
+#. Name for HIP 29800
+msgid "The star on the right forearm"
+msgstr "De ster op de rechteronderarm"
+
+#. Name for HIP 2599
+msgid "The star above the post of the chair"
+msgstr "De ster boven de paal van de stoel"
+
+#. Name for HIP 746
+msgid ""
+"The star on the middle of the chair backrest, and it is called The henna "
+"tinted hand"
+msgstr ""
+"De ster in de midden van de stoelleuning en wordt genoemd De henna getinte "
+"hand"
+
+#. Name for HIP 117863
+msgid "The star at the end of the chair backrest"
+msgstr "De ster aan het einde van de stoelleuning"
+
+#. Name for HIP 14632
+msgid "The star on the place between the shoulders"
+msgstr "De ster op een plek tussen de schouders"
+
+#. Name for HIP 15863
+msgid "The bright star in the right side"
+msgstr "De heldere ster aan de rechterzijde"
+
+#. Name for HIP 16335
+msgid "The most advanced of the three stars next to the one in the side"
+msgstr "De voorste van drie sterren naast die in de zijkant"
+
+#. Name for HIP 14576
+msgid "The bright one of the stars in the Gorgon-head"
+msgstr "De helderste van de sterren in de Gorgon-hoofd"
+
+#. Name for HIP 14354
+msgid "The one in advance of the bright star"
+msgstr "Die voor de heldere ster"
+
+#. Name for HIP 13879
+msgid "The remaining one, yet again in advance of this"
+msgstr "De overgeblevene, net weer voor dit"
+
+#. Name for HIP 20070
+msgid "The star in the right knee"
+msgstr "De ster in de rechterknie"
+
+#. Name for HIP 19167
+msgid "The one in advance of this, over the knee"
+msgstr "Die voor dit, boven de knie"
+
+#. Name for HIP 19343
+msgid "The more advanced of the two stars above the bend in the knee"
+msgstr "De meer voorste van de twee sterren boven de bocht in de knie"
+
+#. Name for HIP 19812
+msgid "The rearmost of them, just over the bend in the knee"
+msgstr "De achterste van hen net boven de bocht in de knie"
+
+#. Name for HIP 20354
+msgid "The star on the right calf"
+msgstr "De ster op de rechterkalf"
+
+#. Name for HIP 21476
+msgid "The star on the right ankle"
+msgstr "De ster op de rechterenkel"
+
+#. Name for HIP 17529
+msgid "The star in the left thigh"
+msgstr "De ster op de linkerdij"
+
+#. Name for HIP 18614
+msgid "The star on the left lower leg"
+msgstr "De ster in het linkeronderbeen"
+
+#. Name for HIP 17448
+msgid "The star on the left heel"
+msgstr "De ster op de linkerhiel"
+
+#. Name for HIP 18246
+msgid "The one to the rear of this, on the left foot"
+msgstr "Die achter dit, op de linkervoet"
+
+#. Name for HIP 19811
+msgid "The star to the east of the one on the left knee"
+msgstr "De ster ten oosten van die op de linkerknie"
+
+#. Name for HIP 19949
+msgid "The star to the north of the one in the right knee"
+msgstr "De ster ten noorden van die in de rechterknie"
+
+#. Name for HIP 13254
+msgid "The star in advance of those in the Gorgon-head"
+msgstr "De ster voor die in het Gorgon-hoofd"
+
+#. Name for HIP 15863
+#. Al-Thurayya is a proper name
+msgid "The elbow [of Al-Thurayya]"
+msgstr "De elleboog [van Al-Thurayya]"
+
+#. Name for HIP 16335
+#. Al-Thurayya is a proper name
+msgid "Bend of the hand [of Al-Thurayya]"
+msgstr "Bocht van de hand [van Al-Thurayya]"
+
+#. Name for HIP 16826
+#. Al-Thurayya is a proper name
+msgid "Tip of the elbow [of Al-Thurayya]"
+msgstr "Punt van de elleboog [van Al-Thurayya]"
+
+#. Name for HIP 14576
+msgid "The caracal (second narrative)"
+msgstr "De karacal (tweede verhaal)"
+
+#. Name for HIP 18614
+#. Al-Thurayya is a proper name
+msgid "The shoulder [of Al-Thurayya]"
+msgstr "De schouder van Al-Thurayya"
+
+#. Name for HIP 28358
+msgid "The southernmost of the two on the head"
+msgstr "De zuidelijkste van de twee op het hoofd"
+
+#. Name for HIP 27949
+msgid "The northernmost [of these], over the head"
+msgstr "De noordelijkste [van deze], boven het hoofd"
+
+#. Name for HIP 24608
+#. Al-Ayyuq is a proper name meaning the obstructor
+msgid "The star on the left shoulder, called Al-Ayyuq"
+msgstr "De ster op de linkerschouder, genaamd Al-Ayyuq"
+
+#. Name for HIP 28380
+msgid "The star on the right wrist"
+msgstr "De ster op de rechterpols"
+
+#. Name for HIP 23767
+#. kids here are the baby goats
+msgid ""
+"The rearmost of the two stars on the left wrist, which are called 'The two "
+"kids'"
+msgstr ""
+"De achterste van de twee sterren op de linkerpols, die worden genoemd 'De "
+"twee kinderen'"
+
+#. Name for HIP 23453
+msgid "The more advanced of these"
+msgstr "De meer naar voren staande van deze"
+
+#. Name for HIP 23015
+msgid "The star on the left ankle"
+msgstr "De ster op de linker enkel"
+
+#. Name for HIP 25428
+msgid ""
+"The star on the right ankle, which is [applied in] common to the northern "
+"horn of Taurus"
+msgstr ""
+"De ster op de rechter enkel, welke is [toegepast in] De ster op de "
+"rechterenkel, die algemeen wordt [toegepast in] op de noordelijke hoorn van "
+"de Stier"
+
+#. Name for HIP 25984
+msgid "The one to the north of the latter, in the lower hem [of the garment]"
+msgstr ""
+"Die noordelijk van de laatste, in de onderste zoom [van het kledingstuk]"
+
+#. Name for HIP 25541
+msgid "The one north again of this, on the buttock"
+msgstr "Die weer noordelijk van dit, op de bil"
+
+#. Name for HIP 23416
+msgid "The Goat"
+msgstr "De Geit"
+
+#. Name for HIP 24608
+#. Al-Thurayya is a proper name
+msgid "Al-Thurayya Watcher"
+msgstr "Al-Thurayya kijker"
+
+#. Name for HIP 24608
+#. Ayyuq Al-Thurayya is a proper name meaning the obstructor of Al-Thurayya
+msgid "Ayyuq Al-Thurayya"
+msgstr "Ayyuq Al-Thurayya"
+
+#. Name for HIP 24608
+msgid "The goats owner"
+msgstr "De geiten eigenaar"
+
+#. Name for HIP 86742
+msgid "The more advanced of the two stars on the right shoulder"
+msgstr "De meer naar voren staande van de twee sterren op de rechterschouder"
+
+#. Name for HIP 82673
+msgid "The more advanced of the two stars on the left shoulder"
+msgstr "De meer naar voren staande van de twee sterren op de linkerschouder"
+
+#. Name for HIP 79593
+msgid "The more advanced of the two stars in the left hand"
+msgstr "De meer naar voren staande van de twee sterren in de linkerhand"
+
+#. Name for HIP 88048
+msgid "The more advanced of the two stars in the right hand"
+msgstr "De meer naar voren staande van de twee sterren in de rechterhand"
+
+#. Name for HIP 84893
+msgid "The star on the right lower leg"
+msgstr "De ster in het rechteronderbeen"
+
+#. Name for HIP 84405
+msgid "The most advanced of the four stars on the right foot"
+msgstr "De voorste van de vier sterren op de rechtervoet"
+
+#. Name for HIP 85340
+msgid "The one to the rear again of that"
+msgstr "Die weer achter deze"
+
+#. Name for HIP 64238
+msgid "The last and rearmost of the four"
+msgstr "De laatste en de achterste van de vier"
+
+#. Name for HIP 86736
+msgid "The star to the rear of these, which touches the heel"
+msgstr "De ster achter deze, die de hiel raakt"
+
+#. Name for HIP 81377
+msgid "The star in the left knee"
+msgstr "De ster in de linkerknie"
+
+#. Name for HIP 80894
+msgid ""
+"The northernmost of the three stars in a straight line in the left lower leg"
+msgstr ""
+"De noordelijkste van de drie sterren in een rechte lijn naar de "
+"linkeronderbeen"
+
+#. Name for HIP 4366
+msgid "The middle one of these"
+msgstr "De middelste van de deze"
+
+#. Name for HIP 26241
+msgid "The southernmost of the three"
+msgstr "De noordelijkste van de drie"
+
+#. Name for HIP 80473
+msgid "The star touching the hollow of the left foot"
+msgstr "De ster die de holte van de linkervoet raakt"
+
+#. Name for HIP 88149
+msgid ""
+"The northernmost of the three that are on a straight line, to the east of "
+"the right shoulder"
+msgstr ""
+"De noordelijkste van de drie staan in een rechte lijn, naar het oosten van "
+"de rechterschouder"
+
+#. Name for HIP 88601
+msgid "The star to the rear of these three, and over the middle one"
+msgstr "De ster achter deze drie en boven de middelste"
+
+#. Name for HIP 88771
+msgid "The lone star north of these four"
+msgstr "De eenzame ster ten noorden van de vier"
+
+#. Name for HIP 86032
+msgid "The [southern] shepherd"
+msgstr "De [zuidelijke] herder"
+
+#. Name for HIP 86742
+msgid "Second dog of the [southern] shepherd"
+msgstr "Tweede hond van de [zuidelijke] herder"
+
+#. Name for HIP 76852
+msgid "Stars on the quadrilateral in the head:  the one on the end of the jaw"
+msgstr "Sterren op de vierhoek in het hooofd: die aan het eind van de kaak"
+
+#. Name for HIP 77661
+msgid "The one touching the nostrils"
+msgstr "Die die de neusgaten aanraakt"
+
+#. Name for HIP 78072
+msgid "The one in the temple"
+msgstr "Die in de tempel"
+
+#. Name for HIP 77233
+msgid "The one where the neck joins [the head]"
+msgstr "Die waar de nek samenkomt met [de kop]"
+
+#. Name for HIP 77450
+msgid "The one in the middle of the quadrilateral, in the mouth"
+msgstr "Die in het midden van de vierhoek, in de mond"
+
+#. Name for HIP 78554
+msgid "The star outside the head, to the north of it"
+msgstr "De ster buiten de kop, ten noorden van het"
+
+#. Name for HIP 76276
+msgid "The one after the first bend in the neck"
+msgstr "Die achter de eerste bocht in de nek"
+
+#. Name for HIP 77257
+msgid "The northernmost of the three following this"
+msgstr "De noordelijkste van de drie die hierop volgen"
+
+#. Name for HIP 77516
+msgid ""
+"The star after the next bend, which is in advance of the left hand of "
+"Ophiuchus"
+msgstr ""
+"De ster achter de volgende bocht, welke voor de linkerhand van Ophiuchus "
+"staat"
+
+#. Name for HIP 80628
+msgid "The star to the rear of those in the hand of Ophiuchus"
+msgstr "De ster achter die in de hand van Ophiuchus"
+
+#. Name for HIP 84880
+msgid "The one after the back of the right thigh of Ophiuchus"
+msgstr "Die achter de achterkant van de dij van Ophiuchus"
+
+#. Name for HIP 86263
+msgid "The southernmost of the two to the rear of the latter"
+msgstr "De zuidelijkste van de twee achter de laatste"
+
+#. Name for HIP 88175
+msgid "The one after the right hand [of Ophiuchus], on the bend in the tail"
+msgstr "Die achter de rechterhand [van Ophiuchus], op de bocht in de staart"
+
+#. Name for HIP 89962
+msgid "The one to the rear of this, likewise on the tail"
+msgstr "Die achter dit, gelijk aan de staart"
+
+#. Name for HIP 28103
+msgid "The star on the tip of the tail"
+msgstr "De ster aan de punt van de staart"
+
+#. Name for HIP 98337
+msgid "The lone star on the arrow-head"
+msgstr "De eenzame ster op de pijlpunt"
+
+#. Name for HIP 97496
+msgid "The rearmost of the three stars in the shaft"
+msgstr "De achterste van de drie sterren in de schacht"
+
+#. Name for HIP 3885
+msgid "The most advanced of the three"
+msgstr "De voorste van de drie"
+
+#. Name for HIP 96837
+msgid "The star on the end of the notch"
+msgstr "De ster aan het eind van de inkeping"
+
+#. Name for HIP 98823
+msgid "The star in the middle of the head"
+msgstr "De ster in het midden van de kop"
+
+#. Name for HIP 98036
+msgid "The one in advance of this, on the neck"
+msgstr "De voorste van dit, op de nek"
+
+#. Name for HIP 97649
+msgid ""
+"The bright star on the place between the shoulders, called The flying eagle"
+msgstr ""
+"De heldere ster op de plek tussen de schouders, genaamd De vliegede adelaar"
+
+#. Name for HIP 97938
+msgid "The one close to this towards the north"
+msgstr "Die dicht bij dit richting het noorden"
+
+#. Name for HIP 97278
+msgid "The more advanced of the two in the left shoulder"
+msgstr "De meer naar voren staande van de twee sterren in de linkerschouder"
+
+#. Name for HIP 96229
+msgid "The more advanced of the two in the right shoulder"
+msgstr "De meer naar voren staande van de twee in de rechter schouder"
+
+#. Name for HIP 93747
+msgid ""
+"The star some distance under the tail of the eagle, touching the Milky Way"
+msgstr ""
+"De ster op enige afstand onder de staart van de adelaar, de Melkweg rakend"
+
+#. Name for HIP 97804
+msgid "The more advanced of the two stars south of the head of the eagle"
+msgstr ""
+"De meer naar voren staande van de twee sterren in de kop van de adelaar"
+
+#. Name for HIP 95501
+msgid "The star to the south and west of the right shoulder of the eagle"
+msgstr "De ster ten zuidwesten van de rechterschouder van de adelaar"
+
+#. Name for HIP 96468
+msgid "The one to the south of this"
+msgstr "Die ten zuiden van dit"
+
+#. Name for HIP 96483
+msgid "The one to the south again of the latter"
+msgstr "Die weer in het zuiden van de laatste"
+
+#. Name for HIP 93805
+msgid "The star most in advance of all"
+msgstr "De voorste ster van allen"
+
+#. Name for HIP 101421
+msgid "The most advanced of the three stars in the tail"
+msgstr "De voorste van de drie sterren in de staart"
+
+#. Name for HIP 101769
+msgid ""
+"The southernmost one of the two on the advance side of the rhomboid "
+"quadrilateral"
+msgstr ""
+"De zuidelijkste van de twee aan de voorzijde van de ruitvormige vierhoek"
+
+#. Name for HIP 3455
+msgid "The northernmost one on the advance side"
+msgstr "De noordelijkste aan de voorzijde"
+
+#. Name for HIP 102281
+msgid "The southernmost one on the rear side of the rhombus"
+msgstr "De zuidelijkste aan de achterkant van de ruit"
+
+#. Name for HIP 12390
+msgid "The northernmost one on the rear side"
+msgstr "De noordelijkste aan de achterkant"
+
+#. Name for HIP 101589
+msgid "The northernmost of the three stars between the tail and the rhombus"
+msgstr "De noordelijkste van de drie sterren tussen de staart en de ruit"
+
+#. Name for HIP 101483
+msgid "The more advanced of the two other northern stars"
+msgstr "De meer naar voren staande van de twee andere noordelijke sterren"
+
+#. Name for HIP 101882
+msgid "The remaining, rearmost one"
+msgstr "De overgeblevene, de achterste"
+
+#. Name for HIP 104987
+msgid "The more advanced of the two stars in the head"
+msgstr "De meer naar voren staande van de twee sterren in de kop"
+
+#. Name for HIP 104521
+msgid "The more advanced of the two stars in the mouth"
+msgstr "De meer naar voren staande van de twee sterren in de mond"
+
+#. Name for HIP 677
+msgid ""
+"The star on the navel, which is [applied in] common to the head of Andromeda"
+msgstr ""
+"De ster in de navel, die in het algemeen wordt [toegepast] op de kop van "
+"Andromeda"
+
+#. Name for HIP 1067
+msgid "The star on the rump and the wing-tip"
+msgstr "De ster op de romp en de vleugelpunt"
+
+#. Name for HIP 113881
+msgid "The star on the right shoulder and the place where the leg joins [it]"
+msgstr "De ster op de rechterschouder en de plek waar de poot samenkomt [het]"
+
+#. Name for HIP 113963
+msgid ""
+"The star on the place between the shoulders and the shoulder-part of the wing"
+msgstr ""
+"De ster op de plek tussen de schouders en het schouder-deel van de vleugel"
+
+#. Name for HIP 115250
+msgid "The northernmost of the two stars in the body under the wing"
+msgstr "De noordelijkste van de twee sterren in het lichaam onder de vleugel"
+
+#. Name for HIP 112158
+msgid "The northernmost of the two stars in the right knee"
+msgstr "De noordelijkste van de twee sterren in de rechter knie"
+
+#. Name for HIP 112440
+msgid "The more advanced of the two stars close together in the chest"
+msgstr ""
+"De meer naar voren staande van de twee sterren dicht bij elkaar in de borst"
+
+#. Name for HIP 112029
+msgid "The more advanced of the two stars close together in the neck"
+msgstr ""
+"De meer naar voren staande van de twee sterren dicht bij elkaar in de nek"
+
+#. Name for HIP 113186
+msgid "The southernmost of the two stars on the mane"
+msgstr "De zuidelijkste van de twee sterren op de manen"
+
+#. Name for HIP 109427
+msgid "The northernmost of the two stars close together on the head"
+msgstr "De noordelijkste van de twee sterren dicht bij elkaar in de kop"
+
+#. Name for HIP 107315
+msgid "The star in the muzzle"
+msgstr "De ster in de snuit"
+
+#. Name for HIP 109410
+msgid "The star in the right hock"
+msgstr "De ster in de rechter hakpees"
+
+#. Name for HIP 107354
+msgid "The star in the left hock"
+msgstr "De ster in de linker hakpees"
+
+#. Name for HIP 3092
+msgid "The star in the place between the shoulders"
+msgstr "De ster op een plek tussen de schouders"
+
+#. Name for HIP 2912
+msgid "The star in the right shoulder"
+msgstr "De ster op de rechterschouder"
+
+#. Name for HIP 3031
+msgid "The star in the left shoulder"
+msgstr "De ster op de linkerschouder"
+
+#. Name for HIP 1473
+msgid "The southernmost of the three stars on the right upper arm"
+msgstr "De zuidelijkste van de drie sterren op de rechter bovenarm"
+
+#. Name for HIP 116631
+msgid "The southernmost of the three stars on the right hand"
+msgstr "De zuidelijkste van de drie sterren aan de rechterkant"
+
+#. Name for HIP 5447
+msgid "The southernmost of the three stars over the girdle"
+msgstr "De zuidelijkste van de drie sterren boven de gordel"
+
+#. Name for HIP 9640
+msgid "The star over the left foot: called the caracal"
+msgstr "De ster over de linkervoet: genaamd de caracal"
+
+#. Name for HIP 8068
+msgid "The star in the right foot"
+msgstr "De ster in de rechtervoet"
+
+#. Name for HIP 7607
+msgid "The one south of the latter"
+msgstr "Die ten zuiden van de laatste"
+
+#. Name for HIP 7513
+msgid "The northernmost of the two stars on the left knee-bend"
+msgstr "De noordelijkste van de twee sterren in de linkerkniebocht"
+
+#. Name for HIP 6999
+msgid "The northernmost of the two stars in the lower hem of the garment"
+msgstr ""
+"De noordelijkste van de twee sterren in de onderste zoom van het kledingstuk"
+
+#. Name for HIP 113726
+msgid "The star in advance of the three in the right hand, outside [of it]"
+msgstr "De ster voor de drie in de rechterhand, buiten [van het]"
+
+#. Name for HIP 5447
+msgid "Abdomen of the fish"
+msgstr "Buik van de vis"
+
+#. Name for HIP 9640
+msgid "The caracal (first narrative)"
+msgstr "De caracal (eerste verhaal)"
+
+#. Name for HIP 8796
+msgid "The star in the apex of the triangle"
+msgstr "De ster in de top van de driehoek"
+
+#. Name for HIP 10064
+msgid "The most advanced of the three on the base"
+msgstr "De voorste van de drie op de basis"
+
+#. Name for HIP 8832
+msgid "The more advanced of the two stars on the horn"
+msgstr "De meer naar voren staande van de twee sterren op het hoorn"
+
+#. Name for HIP 10306
+msgid "The northernmost of the two stars on the muzzle"
+msgstr "De noordelijkste van de twee sterren in de eind van de loop"
+
+#. Name for HIP 9110
+msgid "The star on the neck"
+msgstr "De ster op de nek"
+
+#. Name for HIP 12332
+msgid "The star on the rump"
+msgstr "De ster op de romp"
+
+#. Name for HIP 13914
+msgid "The star on the place where the fatty tail joins [the body]"
+msgstr "De ster op de plaats waar de vette staart samenkomt [het lichaam]"
+
+#. Name for HIP 14838
+msgid "The most advanced of the three stars in the fatty tail"
+msgstr "De voorste van de drie sterren in de vette staart"
+
+#. Name for HIP 13702
+msgid "The star in the back of the thigh"
+msgstr "De ster op de achterkant van de dij"
+
+#. Name for HIP 13327
+msgid "The star over the knee-bend"
+msgstr "De ster op de kniebocht"
+
+#. Name for HIP 12832
+msgid "The star on the hind hoof"
+msgstr "De ster op de achterhoef"
+
+#. Name for HIP 9884
+msgid ""
+"The star over the head, which Hipparchus [calls] 'the one on the muzzle'"
+msgstr ""
+"De ster boven de kop, die Hipparchus [genaamd] 'die op het eind van de loop'"
+
+#. Name for HIP 13209
+msgid "The rearmost, which is brighter of the four stars over the rump"
+msgstr "De meestachterste, die helderste van de vier sterren boven de romp"
+
+#. Name for HIP 13061
+msgid "The northernmost of the other three, fainter stars"
+msgstr "De noordelijkste van de andere sterren, zwakkere sterren"
+
+#. Name for HIP 12719
+msgid "The middle one of these three"
+msgstr "De middelste van deze drie"
+
+#. Name for HIP 9884
+msgid "The butting [horn]"
+msgstr "De stoot [hoorn]"
+
+#. Name for HIP 16369
+msgid "The northernmost of the four stars in the cut-off"
+msgstr "De noordelijkste van de vier sterren in de afsnijding"
+
+#. Name for HIP 16322
+msgid "The one close by this"
+msgstr "Die in de buurt van dit"
+
+#. Name for HIP 16083
+msgid "The one close again to the latter"
+msgstr "Die die weer dicht bij de laatste staat"
+
+#. Name for HIP 15900
+msgid "The southernmost of the four"
+msgstr "De zuidelijkste van de vier"
+
+#. Name for HIP 17771
+msgid "The one to the rear of the latter, on the right shoulder-blade"
+msgstr "Die aan achterkant van de laatste, op het rechterschouderblad"
+
+#. Name for HIP 18907
+msgid "The star on the right hock"
+msgstr "De ster in de rechter hakpees"
+
+#. Name for HIP 20205
+msgid ""
+"The one on the nostrils of the stars in the face, resembling the Greek "
+"letter Λ"
+msgstr ""
+"Die op de neusgaten van de sterren in het gezicht, die lijkt op de Griekse "
+"letter Λ"
+
+#. Name for HIP 20455
+msgid "The one between the latter and the northern eye"
+msgstr "Die tussen de laatste en het noordelijke oog"
+
+#. Name for HIP 20885
+msgid "The one between that latter itself and the southern eye"
+msgstr "Die tussen dat laatste zelf en het zuidelijke oog"
+
+#. Name for HIP 21421
+msgid ""
+"The bright star of the group of stars resembling the Arabic letter 'dal د', "
+"the reddish one on the southern eye"
+msgstr ""
+"De heldere ster van de groep of sterren die lijkt op de Arabische letter "
+"'dal د', de roodachtige op het zuidelijke oog"
+
+#. Name for HIP 20889
+msgid "The remaining one, on the northern eye"
+msgstr "De overgeblevene, op het noordelijke oog"
+
+#. Name for HIP 22565
+msgid ""
+"The star on the place where the southern horn and the ear join [the head]"
+msgstr ""
+"De ster op de plek waar de zuidelijke hoorn en het oor samenkomt [de kop]"
+
+#. Name for HIP 23835
+msgid "The southernmost of the two stars on the southern horn"
+msgstr "De zuidelijkste van de twee sterren op de zuidelijke hoorn"
+
+#. Name for HIP 23871
+msgid "The northernmost of these"
+msgstr "De noordelijkste van deze"
+
+#. Name for HIP 26451
+msgid "The star on the tip of the southern horn"
+msgstr "De ster op het puntje van de zuidelijke hoorn"
+
+#. Name for HIP 21881
+msgid "The star on the place where the northern horn joins [the head]"
+msgstr "De ster op de plek waar de noordelijke hoorn samenkomt met [de kop]"
+
+#. Name for HIP 25428
+msgid ""
+"The star on the tip of the northern horn, which is the same as the one on "
+"the right foot of Auriga"
+msgstr ""
+"De ster op de punt van de noordelijke hoorn, wat de zelfde is als die op de "
+"rechtervoet van Auriga"
+
+#. Name for HIP 20711
+msgid "The northernmost of the two stars close together in the northern ear"
+msgstr ""
+"De noordelijkste van de twee sterren dicht bij elkaar in het noordelijke oor"
+
+#. Name for HIP 19038
+msgid "The more advanced of the two small stars in the neck"
+msgstr "De meer naar voren staande van de twee kleine sterren in de nek"
+
+#. Name for HIP 19513
+msgid ""
+"The southernmost star on the advance side of the four stars forming the "
+"quadrilateral in the neck"
+msgstr ""
+"De zuidelijkste ster op de voorkant van de vier sterren die een vierhoek "
+"vormen in de nek"
+
+#. Name for HIP 19205
+msgid "The northernmost star on the advance side"
+msgstr "De noordelijkste ster aan de voorzijde"
+
+#. Name for HIP 20430
+msgid "The southernmost star on the rear side"
+msgstr "De zuidelijkste aan de achterkant"
+
+#. Name for HIP 17573
+msgid "The Pleiades:  the northern end of the advance side"
+msgstr "De Plejaden: het noordelijke eind van de voorkant"
+
+#. Name for HIP 17499
+msgid "The southern end of the advance side [of the Pleiades]"
+msgstr "Het zuidelijke eind van de voorkant [van de Plejaden]"
+
+#. Name for HIP 17702
+msgid "The rearmost and narrowest end of the Pleiades"
+msgstr "Het achterste en smalste uiteinde van de Plejaden"
+
+#. Name for HIP 17847
+msgid "The small star outside the Pleiades, towards the north"
+msgstr "De kleine ster buiten de Plejaden, naar het noorden"
+
+#. Name for HIP 16852
+msgid "The star under the right foot and the ankle"
+msgstr "De ster onder de rechtervoet en enkel"
+
+#. Name for HIP 23497
+msgid "The most advanced of the three stars over the southern horn"
+msgstr "De voorste van de drie sterren boven de noordelijke hoorn"
+
+#. Name for HIP 25945
+msgid "The northernmost of the two stars under the tip of the southern horn"
+msgstr ""
+"De noordelijkste van de twee sterren onder de punt van de zuidelijke hoorn"
+
+#. Name for HIP 26248
+msgid "The most advanced of the next five stars under the northern horn"
+msgstr "De voorste van de volgende vijf sterren onder de noordelijke hoorn"
+
+#. Name for HIP 27468
+msgid "The one to the rear again of the latter"
+msgstr "Die weer aan de achterkant van de laatste"
+
+#. Name for HIP 27830
+msgid "The northernmost of the remaining, rearmost two"
+msgstr "De noordelijkste van de overgebleven, achterste twee"
+
+#. Name for HIP 28237
+msgid "The southernmost of these two"
+msgstr "De zuidelijkste van deze twee"
+
+#. Name for HIP 21421
+#. Al-Thurayya is a proper name
+msgid "The follower of Al-Thurayya"
+msgstr "De volger van Al-Thurayya"
+
+#. Name for HIP 21421
+#. Al-Mijdah is a proper name meaning the star of rain or the fork referring to the shape of the Hyades
+msgid "Al-Mijdah"
+msgstr "Al-Mijdah"
+
+#. Name for HIP 21421
+msgid "The follower"
+msgstr "De volger"
+
+#. Name for HIP 21421
+msgid "The special camel"
+msgstr "De speciale kameel"
+
+#. Name for HIP 36850
+msgid "The star on the head of the advance twin"
+msgstr "De ster op de kop van de voorste tweeling"
+
+#. Name for HIP 37826
+msgid "The reddish star on the head of the rear twin"
+msgstr "De roodachtige ster op de kop van de achterste tweeling"
+
+#. Name for HIP 33018
+msgid "The star in the left forearm of the advance twin"
+msgstr "De ster op de rechter onderarm van de voorste tweeling"
+
+#. Name for HIP 34693
+msgid "The star in the same [left] upper arm"
+msgstr "De ster op de zelfde [linker] bovenarm"
+
+#. Name for HIP 36046
+msgid "The one to the rear of that, between the shoulders"
+msgstr "Die aan de achterkant van dat, tussen de schouders"
+
+#. Name for HIP 36962
+msgid ""
+"The one to the rear of this, on the right shoulder of the same [advance] twin"
+msgstr ""
+"Die aan de achterkant van dit, op de rechterschouders van de zelfde "
+"[voorste] tweeling"
+
+#. Name for HIP 37740
+msgid "The star on the rear shoulder of the rear twin"
+msgstr "De ster op de achterste schouder van de achterste tweeling"
+
+#. Name for HIP 35846
+msgid "The star on the right side of the advance twin"
+msgstr "De ster op de rechter zijde van de voorste tweeling"
+
+#. Name for HIP 36238
+msgid "The star on the left side of the rear twin"
+msgstr "De ster op de linker zijde van de achterste tweeling"
+
+#. Name for HIP 32246
+msgid "The star on the left knee of the advance twin"
+msgstr "De ster op de linker knie van de voorste tweeling"
+
+#. Name for HIP 35550
+msgid "The star in the left side of the rear twin"
+msgstr "De ster op de linker zijde van de achterste tweeling"
+
+#. Name for HIP 34088
+msgid "The star over the left knee of the rear twin"
+msgstr "De ster boven de linker zijde van de achterste tweeling"
+
+#. Name for HIP 35350
+msgid "The star over the bend in the right knee of the same [rear] twin"
+msgstr ""
+"De ster boven de bocht in de rechter knie van de zelfde [achterste] tweeling"
+
+#. Name for HIP 29655
+msgid "The star in front of the left foot of the advance twin"
+msgstr "De ster voor de linkervoet van de voorste tweeling"
+
+#. Name for HIP 30343
+msgid "The one to the rear of this on the same foot"
+msgstr "Die aan de achterkant van dit op de zelfde voet"
+
+#. Name for HIP 30883
+msgid "The star on the right foot of the advance twin"
+msgstr "De ster op de rechtervoet van de voorste tweeling"
+
+#. Name for HIP 31681
+msgid "The star on the left foot of the rear twin"
+msgstr "De ster op de linkervoet van de achterste tweeling"
+
+#. Name for HIP 32362
+msgid "The star on the right foot of the rear twin"
+msgstr "De ster op de rechtervoet van de achterste tweeling"
+
+#. Name for HIP 28734
+msgid "The star in advance of the one in front of the foot of the advance twin"
+msgstr "De ster voor die voor de voet van de voorste tweeling"
+
+#. Name for HIP 29696
+msgid "The bright star in advance of the advance knee"
+msgstr "De heldere ster voor de voorste knie"
+
+#. Name for HIP 32921
+msgid "The star in advance of the left knee of the rear twin"
+msgstr "De ster voor de linker knie van de achterste tweeling"
+
+#. Name for HIP 38722
+msgid ""
+"The northernmost of the three stars in a straight line to the rear of the "
+"right arm of the rear twin"
+msgstr ""
+"De noordelijkste van de drie sterren in een rechte lijn naar de rechter arm "
+"van de achterste tweeling"
+
+#. Name for HIP 37300
+msgid "The southernmost of them, near the forearm of the [right] arm"
+msgstr "De zuidelijkste van hen, naast de onderarm van de [rechter] arm"
+
+#. Name for HIP 40167
+msgid "The bright star to the rear of the above-mentioned three"
+msgstr "De heldere ster achter de hier bovengenoemde drie"
+
+#. Name for HIP 41909
+msgid ""
+"The northernmost of the two stars in advance of the quadrilateral containing "
+"the nebula"
+msgstr ""
+"De noordelijkste van de twee sterren voor de vierhoek met daarin de nevel"
+
+#. Name for HIP 41822
+msgid "The southernmost of the two stars in advance"
+msgstr "De zuidelijkste van de twee sterren op de voorgrond"
+
+#. Name for HIP 42806
+msgid ""
+"The northernmost of the rear two stars on the quadrilateral, which are "
+"called 'Aselli'"
+msgstr ""
+"De noordelijkste van de achterste twee sterren op de vierhoek, die 'Aselli' "
+"wordt genoemd"
+
+#. Name for HIP 44066
+msgid "The star on the southern claw"
+msgstr "De ster op de zuidelijke klauw"
+
+#. Name for HIP 43103
+msgid "The star on the northern claw"
+msgstr "De ster op de noordelijke klauw"
+
+#. Name for HIP 39780
+msgid "The star on the northern back leg"
+msgstr "De ster op de noordelijke achterpoot"
+
+#. Name for HIP 40526
+msgid "The star on the southern back leg"
+msgstr "De ster op de zuidelijke achterbeen"
+
+#. Name for HIP 45410
+msgid "The star over the joint in the southern claw"
+msgstr "De ster boven het gewricht in de zuidelijke klauw"
+
+#. Name for HIP 44798
+msgid "The star to the rear of the tip of the southern claw"
+msgstr "De ster op achterkant van het puntje van de zuidelijke klauw"
+
+#. Name for HIP 44405
+msgid ""
+"The more advanced of the two stars over the nebula and to the rear of it"
+msgstr ""
+"De meer naar voren staande van de twee sterren boven de nevel en de "
+"achterkant van het"
+
+#. Name for HIP 44946
+msgid "The rearmost of these [two]"
+msgstr "De achterste van deze [twee]"
+
+#. Name for HIP 13954
+msgid "The star on the tip of the nostrils"
+msgstr "De ster op de punt van de neusgaten"
+
+#. Name for HIP 46750
+msgid "The star in the gaping jaws"
+msgstr "De ster in de gapende kaken"
+
+#. Name for HIP 48455
+msgid "The northernmost of the two stars in the head"
+msgstr "De noordelijkste van de twee sterren in de kop"
+
+#. Name for HIP 50335
+msgid "The northernmost of the three stars in the neck"
+msgstr "De noordelijkste van de drie sterren in de nek"
+
+#. Name for HIP 50583
+msgid "The one close to this, the middle one of the three"
+msgstr "Die hier dichtbij komt, de middelste van de drie"
+
+#. Name for HIP 49669
+msgid "The star on the heart, called 'Regulus' and it is the lion heart"
+msgstr "De ster op het hart, genaamd 'Regulus' en het is het leeuwenhart"
+
+#. Name for HIP 49637
+msgid "The one south of this, about on the chest"
+msgstr "Die ten zuiden van dit, ongeveer op de borst"
+
+#. Name for HIP 48883
+msgid "The star a little in advance of the star on the heart"
+msgstr "De ster een beetje voor de ster op het hart"
+
+#. Name for HIP 46771
+msgid "The star on the right front claw-clutch"
+msgstr "De ster aan de rechter voorste klauwgewricht"
+
+#. Name for HIP 47508
+msgid "The star on the left front claw-clutch"
+msgstr "De ster op de linker voorste klauwgewricht"
+
+#. Name for HIP 49029
+msgid "The star on the left [front] knee"
+msgstr "De ster op de linker [voorste] knie"
+
+#. Name for HIP 51624
+msgid "The star on the left armpit"
+msgstr "De ster op de linker oksel"
+
+#. Name for HIP 51585
+msgid "The most advanced of the three stars in the belly"
+msgstr "De voorste van de drie sterren in de buik"
+
+#. Name for HIP 52689
+msgid "The northernmost of the other, rearmost two"
+msgstr "De noordelijkste van de anderen, achterste twee"
+
+#. Name for HIP 52911
+msgid "The southernmost of these [two]"
+msgstr "De zuidelijkste van deze twee"
+
+#. Name for HIP 53954
+msgid "The more advanced of the two stars on the rump"
+msgstr "De meer naar voren staande van de twee sterren in de romp"
+
+#. Name for HIP 55765
+msgid "The northernmost of the two stars in the buttocks"
+msgstr "De noordelijkste van de twee sterren in de billen"
+
+#. Name for HIP 55642
+msgid "The star in the hind thighs"
+msgstr "De ster op de achterdijen"
+
+#. Name for HIP 55434
+msgid "The star in the hind leg-bends"
+msgstr "De ster op de achterpootbocht"
+
+#. Name for HIP 55084
+msgid "The one south of this, about in the lower legs"
+msgstr "Die zuidelijk van dit, ongeveer in de achterpoten"
+
+#. Name for HIP 56647
+msgid "The star on the hind claw-clutches"
+msgstr "De ster op de achterklauw gewricht"
+
+#. Name for HIP 57632
+msgid "The star on the end of the tail"
+msgstr "De ster aan het eind van de staart"
+
+#. Name for HIP 52457
+msgid "The more advanced of the two over the back"
+msgstr "De meer naar voren staande van de twee boven de rug"
+
+#. Name for HIP 54182
+msgid "The northernmost of the three under the flank"
+msgstr "De noordelijkste van de drie onder de flank"
+
+#. Name for HIP 60742
+msgid ""
+"The northernmost part of the nebulous mass between the edges of Leo and Ursa "
+"[Major], called Coma [Berenices]"
+msgstr ""
+"De noordelijkste deel van de nevelmassa tussen de hoeken van Leo en de Grote "
+"[Beer], genaamd Coma [Berenices]"
+
+#. Name for HIP 59847
+msgid "The most advanced of the southern outrunners of Coma"
+msgstr "De voorste van de zuidelijke outrunners van Coma"
+
+#. Name for HIP 61394
+msgid "The rearmost of them, shaped like an ivy leaf"
+msgstr "De achterste van hen, in de vorm van een klimopblad"
+
+#. Name for HIP 57632
+msgid "Star of weather change"
+msgstr "De ster van de weersverandering"
+
+#. Name for HIP 57380
+msgid "The southernmost of the two stars in the top of the skull"
+msgstr "De zuidelijkste van de twee sterren bovenaan de schedel"
+
+#. Name for HIP 58948
+msgid "The northernmost of the two stars to the rear of these, in the face"
+msgstr "De noordelijkste van de twee sterren achter deze, in het gezicht"
+
+#. Name for HIP 57757
+msgid "The star on the tip of the southern, left wing"
+msgstr "De ster in de punt van de zuidelijke, de linker vleugel"
+
+#. Name for HIP 60129
+msgid "The most advanced of the four stars in the left wing"
+msgstr "De voorste van de drie sterren in de linkervleugel"
+
+#. Name for HIP 63494
+msgid "The one to the rear again of this"
+msgstr "Die weer achter dit"
+
+#. Name for HIP 63090
+msgid "The star in the right side under the girdle"
+msgstr "De ster aan de rechterzijde onder de gordel"
+
+#. Name for HIP 61960
+msgid "The most advanced of the three stars in the right, northern wing"
+msgstr ""
+"De noordelijkste van de drie sterren in de rechter, noordelijke vleugel"
+
+#. Name for HIP 62267
+msgid "The southernmost of the other two"
+msgstr "De zuidelijkste van de andere twee"
+
+#. Name for HIP 63608
+msgid "The northernmost of these, called 'Vindemiatrix'"
+msgstr "De noordelijkste van deze, genaamd 'Vindemiatrix'"
+
+#. Name for HIP 65474
+#. The armless high one is the Arabic name for Spica
+msgid ""
+"The star on the left hand, called 'Spica', and it is The armless high one"
+msgstr "De ster op de linker hand, genaamd 'Spica', en het is de hoge arm loze"
+
+#. Name for HIP 66249
+msgid "The star under the apron just about over the right buttock"
+msgstr "De ster onder het schort zo ongeveer over de rechterbil"
+
+#. Name for HIP 66006
+msgid ""
+"The northern star on the advance side of the quadrilateral in the left thigh"
+msgstr ""
+"De noordelijke ster op de voorste zijde van het vierhoek in de linker dij"
+
+#. Name for HIP 24327
+msgid "The southern star on the advance side"
+msgstr "De zuidelijke ster aan de voorzijde"
+
+#. Name for HIP 66803
+msgid "The northernmost of the two stars on the rear side"
+msgstr "De noordelijkste van de twee sterren op de achterzijde"
+
+#. Name for HIP 67929
+msgid "The star in the back of the right thigh"
+msgstr "De ster in de achterkant van de rechterdij"
+
+#. Name for HIP 69701
+msgid "The middle star of the three in the garment-hem round the feet"
+msgstr ""
+"De middelste ster van de drie in de zoom van het kledingstuk rond de voeten"
+
+#. Name for HIP 69974
+msgid "The star on the left, southern foot"
+msgstr "De ster op de linker, zuidelijke voet"
+
+#. Name for HIP 71957
+msgid "The star on the right, northern foot"
+msgstr "De ster op de rechter, noordelijke voet"
+
+#. Name for HIP 61740
+msgid ""
+"The most advanced of the three in a straight line under the left forearm"
+msgstr "De voorste van de drie in een rechte lijn onder de linker onderarm"
+
+#. Name for HIP 64407
+msgid ""
+"The most advanced of the three stars almost on a straight line under Spica"
+msgstr "De voorste van de drie sterren in een bijna rechte lijn onder Spica"
+
+#. Name for HIP 64924
+msgid "The middle one of these, which is a double star"
+msgstr "De middelste van deze, wat een dubbele ster is"
+
+#. Name for HIP 72622
+msgid "The brighter one of the two stars on the tip of the southern claw"
+msgstr "De helderste van de twee sterren op de punt van de zuidelijke klauw"
+
+#. Name for HIP 72489
+msgid "The northern one and fainter of the two"
+msgstr "De noordelijke en zwakkere van de twee"
+
+#. Name for HIP 74785
+msgid "The brighter one of the two stars on the tip of the northern claw"
+msgstr ""
+"De helderste van de twee sterren op het puntje van de noordelijke klauw"
+
+#. Name for HIP 73473
+msgid "The advanced one and fainter of the two"
+msgstr "De voorste en zwakkere van de twee"
+
+#. Name for HIP 74392
+msgid "The star in the middle of the southern claw"
+msgstr "De ster in het midden van de zuidelijke klauw"
+
+#. Name for HIP 73945
+msgid "The one in advance of this on the same claw"
+msgstr "De voorste van dit op dezelde klauw"
+
+#. Name for HIP 76333
+msgid "The star in the middle of the northern claw"
+msgstr "De ster in het midden van de noordelijke klauw"
+
+#. Name for HIP 77853
+msgid "The one to the rear of this on the same claw"
+msgstr "Die achter dit op dezelfde klauw"
+
+#. Name for HIP 76219
+msgid "The most advanced of the three stars north of the northern claw"
+msgstr ""
+"De noordelijkste van de drie sterren ten noorden van de noordelijke klauw"
+
+#. Name for HIP 78207
+msgid "The southernmost of the rearmost two [of these]"
+msgstr "De zuidelijkste van de achterste twee [van deze]"
+
+#. Name for HIP 77811
+msgid "The rearmost of the three stars between the claws"
+msgstr "De achterste van de drie sterren tussen de klauwen"
+
+#. Name for HIP 77060
+msgid "The northernmost of the other two in advance [of the latter]"
+msgstr "De noordelijkste van de andere twee voor [de laatste]"
+
+#. Name for HIP 73714
+msgid "The most advanced of the three stars south of the southern claw"
+msgstr "De voorste van de drie sterren ten zuiden van de zuidelijke klauw"
+
+#. Name for HIP 76470
+msgid "The northernmost of the other, rear two"
+msgstr "De noordelijkste van de andere, achter twee"
+
+#. Name for HIP 78820
+msgid "The northernmost of the three bright stars in the forehead"
+msgstr "De noordelijkste van de drie heldere sterren in het voorhoofd"
+
+#. Name for HIP 78104
+msgid "The star south again of this, on one of the legs"
+msgstr "Die weer in het zuiden van dit, op een van de poten"
+
+#. Name for HIP 79374
+msgid ""
+"The northernmost of the two stars adjacent to the northernmost of the three "
+"bright ones"
+msgstr ""
+"De noordelijkste van de twee sterren nabij de noordelijkste drie helderste"
+
+#. Name for HIP 80112
+msgid "The most advanced of the three bright stars in the body"
+msgstr "De voorste van de drie heldere sterren in het lichaam"
+
+#. Name for HIP 80763
+msgid ""
+"The middle one of these, which is reddish and called 'Heart of the scorpion'"
+msgstr ""
+"De middelste van deze, die roodachtig is en genaamd 'Hart van de schorpion'"
+
+#. Name for HIP 79404
+msgid "The advance star of the two under these, approximately on the last legs"
+msgstr "De voorste ster van de twee onder deze, ongeveer op de laatste poten"
+
+#. Name for HIP 79881
+msgid "The rearmost of these"
+msgstr "De achterste van deze"
+
+#. Name for HIP 82396
+msgid "The star in the first tail-joint from the body"
+msgstr "De ster in het eerste staartgewricht van het lichaam"
+
+#. Name for HIP 82514
+msgid "The one after this, in the second joint"
+msgstr "Die achter dit, in het tweede gewricht"
+
+#. Name for HIP 82729
+msgid "The northern star of the double-star in the third joint"
+msgstr "De noordelijke ster van de dubbel ster in het derde gewricht"
+
+#. Name for HIP 82671
+msgid "The southern star of the double-star"
+msgstr "De noordelijke ster van de dubbel ster"
+
+#. Name for HIP 84143
+msgid "The one following, in the forth joint"
+msgstr "De volgende, in het vierde gewricht"
+
+#. Name for HIP 86228
+msgid "The one after that, in the fifth joint"
+msgstr "Die achter dat, in het vijfde gewricht"
+
+#. Name for HIP 87073
+msgid "The next one again, in the sixth joint"
+msgstr "De volgende weer, in het zesde gewricht"
+
+#. Name for HIP 86670
+msgid "The star in the seventh joint, the joint next to the sting"
+msgstr "De ster in het zevende gewricht, het gewricht naast de angel"
+
+#. Name for HIP 85927
+msgid "The rearmost of the two stars in the sting"
+msgstr "De achterste van de twee sterren in de angel"
+
+#. Name for HIP 87261
+msgid "The nebulous star to the rear of the sting"
+msgstr "De nevelige ster aan de achterkant van de angel"
+
+#. Name for HIP 85423
+msgid "The most advanced of the two stars to the north of the sting"
+msgstr "De voorste van de twee sterren ten noorden van de angel"
+
+#. Name for HIP 88635
+msgid "The star on the point of the arrow"
+msgstr "De ster op de pijlpunt"
+
+#. Name for HIP 89931
+msgid "The star in the bow-grip held by the left hand"
+msgstr "De ster in de booggreep vastgehouden door de linkerhand"
+
+#. Name for HIP 90185
+msgid "The star in the southern portion of the bow"
+msgstr "De ster in het zuidelijke deel van de boeg"
+
+#. Name for HIP 90496
+msgid "The southernmost of the two stars in the northern portion of the bow"
+msgstr ""
+"De zuidelijkste van de twee sterren in het noordelijke deel van de boog"
+
+#. Name for HIP 89341
+msgid "The northernmost of these, on the tip of the bow"
+msgstr "De noordelijkste van deze, op de punt van de boog"
+
+#. Name for HIP 92041
+msgid "The one in advance of this, on the arrow"
+msgstr "De voorste van dit, op de pijl"
+
+#. Name for HIP 92761
+msgid "The star on the eye, which is nebulous and double"
+msgstr "De ster op het oog, die nevelig en dubbel is"
+
+#. Name for HIP 93085
+msgid "The most advanced of the three stars in the head"
+msgstr "De voorste van de drie sterren in de kop"
+
+#. Name for HIP 94820
+msgid "The southernmost of the three stars in the northern cloak-attachment"
+msgstr ""
+"De noordelijkste van de drie sterren in de noordelijke mantelbevestiging"
+
+#. Name for HIP 96950
+msgid "The faint star to the rear of these three"
+msgstr "De zwakke ster achter deze drie"
+
+#. Name for HIP 98258
+msgid "The northernmost of the two stars on the southern cloak-attachment"
+msgstr ""
+"De noordelijkste van de twee sterren op de zuidelijke mantelbevestiging"
+
+#. Name for HIP 94643
+msgid "The one between the shoulders of the three stars in the back"
+msgstr "Die tussen de schouders van de drie sterren in de rug"
+
+#. Name for HIP 93864
+msgid "The middle one, on the shoulder-blade"
+msgstr "De middelste op het schouderblad"
+
+#. Name for HIP 93506
+msgid "The other one, under the armpit"
+msgstr "De andere, onder de oksel"
+
+#. Name for HIP 95241
+msgid "The star on the front left hock"
+msgstr "De ster op de linker hakpees"
+
+#. Name for HIP 95347
+msgid "The one on the knee of the same leg"
+msgstr "De ster op de knie van dezelfde been"
+
+#. Name for HIP 89642
+msgid "The star on the front right hock"
+msgstr "De ster op de voorkant van de rechter hakpees"
+
+#. Name for HIP 98412
+msgid "The star on the left thigh"
+msgstr "De ster op de linkerdij"
+
+#. Name for HIP 98032
+msgid "The star on the right hind lower leg"
+msgstr "De ster op het rechter achter onderbeen"
+
+#. Name for HIP 98066
+msgid ""
+"The advance star on the northern side of the four stars [forming a "
+"quadrilateral] in the place where the tail joins [the body]"
+msgstr ""
+"De voorste ster op de noordelijke zijde van de vier sterren [vormen een "
+"vierhoek] op de plek waar de staart samenkomt [het lichaam]"
+
+#. Name for HIP 98353
+msgid "The rear star on the northern side"
+msgstr "De ster achter de noordelijke zijde"
+
+#. Name for HIP 29038
+msgid "The advance star on the southern side"
+msgstr "De ster voor de zuidelijke zijde"
+
+#. Name for HIP 98688
+msgid "The rear star on the southern side"
+msgstr "De ster achter de zuidelijke zijde"
+
+#. Name for HIP 100027
+msgid "The northernmost of the three stars in the rear horn"
+msgstr "De noordelijkste van de drie sterren in de nek"
+
+#. Name for HIP 99572
+msgid "The star on the tip of the advance horn"
+msgstr "De ster op het puntje van de voorste hoorn"
+
+#. Name for HIP 101123
+msgid "The southernmost of the three stars in the muzzle"
+msgstr "De zuidelijkste van de drie sterren op het eind van de loop"
+
+#. Name for HIP 100881
+msgid "The more advanced of the other two"
+msgstr "De meer naar voren staande van de andere twee"
+
+#. Name for HIP 100195
+msgid "The star in advance of the three, under the right eye"
+msgstr "De ster voor de drie, onder het rechter oog"
+
+#. Name for HIP 34045
+msgid "The northernmost of the two stars in the neck"
+msgstr "De noordelijkste van de drie sterren in de nek"
+
+#. Name for HIP 102485
+msgid "The star under the right knee"
+msgstr "De ster onder de rechterknie"
+
+#. Name for HIP 102978
+msgid "The star on the left, doubled-up knee"
+msgstr "De ster links, dubbelgevouwen knie"
+
+#. Name for HIP 105881
+msgid "The more advanced of the two stars close together under the belly"
+msgstr ""
+"De meer naar voren staande van de twee sterren dicht bij elkaar onder de buik"
+
+#. Name for HIP 104963
+msgid "The rearmost of the three stars in the middle of the body"
+msgstr "De achterste van de drie sterren in het midden van het lichaam"
+
+#. Name for HIP 104365
+msgid "The fainter of the other, advance two"
+msgstr "De zwakkere van de andere, voorste twee"
+
+#. Name for HIP 104139
+msgid "The more advanced of the two stars in the back"
+msgstr "De meer naar voren staande van de twee in de rug"
+
+#. Name for HIP 106723
+msgid "The more advanced of the two stars in the southern spine"
+msgstr ""
+"De meer naar voren staande van de twee sterren in de zuidelijke wervelkolom"
+
+#. Name for HIP 106985
+msgid ""
+"The more advanced of the two stars in the section [of the body] next to the "
+"tail"
+msgstr ""
+"De meer naar voren staande van de vier sterren in het gedeelte [van het "
+"lichaam] naast de staart"
+
+#. Name for HIP 107095
+msgid "The most advanced of the four stars on the northern portion of the tail"
+msgstr "De voorste van de vier sterren op het noordelijke deel van de staart"
+
+#. Name for HIP 108036
+msgid "The southernmost of the other three"
+msgstr "De zuidelijkste van de andere drie"
+
+#. Name for HIP 107382
+msgid "The northernmost of them, on the end of the tail-fin"
+msgstr "De noordelijkste van hen, op het eind van de staartvin"
+
+#. Name for HIP 100310
+msgid "The sheep of the lucky star of the slaughterer"
+msgstr "Het schaap van de geluksster van de slager"
+
+#. Name for HIP 106944
+msgid "The star on the head of Aquarius"
+msgstr "De ster op de kop vanf Aquarius"
+
+#. Name for HIP 109074
+msgid "The brighter of the two stars in the right shoulder"
+msgstr "De helderste van de twee sterren in de rechterschouder"
+
+#. Name for HIP 108874
+msgid "The fainter one, under it"
+msgstr "De zwakkere, eronder"
+
+#. Name for HIP 106786
+msgid "The one under that, in the back, approximately under the armpit"
+msgstr "Die onder dat, in de achtergrond, ongeveer onder de oksel"
+
+#. Name for HIP 103401
+msgid "The rearmost of the three stars in the left arm, on the coat"
+msgstr "De achterste van de drie sterren in de linkerarm, op de jas"
+
+#. Name for HIP 110395
+msgid "The star in the right forearm"
+msgstr "De ster op de rechter onderarm"
+
+#. Name for HIP 110672
+msgid "The northernmost of the three stars on the right hand"
+msgstr "De noordelijkste van de drie sterren in de rechterhand"
+
+#. Name for HIP 110960
+msgid "The more advanced of the other two to the south"
+msgstr "De meer naar voren staande van de andere twee in het zuiden"
+
+#. Name for HIP 110003
+msgid ""
+"The more advanced of the two stars close together in the hollow of the right "
+"hip"
+msgstr ""
+"De meer naar voren staande van de twee sterren dicht bij elkaar in de holte "
+"van de rechterheup"
+
+#. Name for HIP 111123
+msgid "The star on the right buttock"
+msgstr "De ster op de rechterbil"
+
+#. Name for HIP 109139
+msgid "The southernmost of the two stars in the left buttock"
+msgstr "De zuidelijkste van de twee sterren in de linkerbil"
+
+#. Name for HIP 113136
+msgid "The southernmost of the two stars in the right lower leg"
+msgstr "De noordelijkste van de twee sterren in het rechter onderbeen"
+
+#. Name for HIP 112716
+msgid "The northernmost of them, under the knee-bend"
+msgstr "De noordelijkste van hen, onder de knie-buiging"
+
+#. Name for HIP 110778
+msgid "The star in the back of the left thigh"
+msgstr "De ster in de achterkant van de linkerdij"
+
+#. Name for HIP 112529
+msgid "The southernmost of the two stars in the left lower leg"
+msgstr "De zuidelijkste van de twee sterren in het linkeronderbeen"
+
+#. Name for HIP 112211
+msgid "The northernmost of these, under the knee"
+msgstr "De noordelijkste van deze, onder de knie"
+
+#. Name for HIP 112961
+msgid ""
+"The stars on the flow of water:  the most advanced [in the section] "
+"beginning at the hand"
+msgstr ""
+"De sterren op de stroom van water: de voorste [in de sectie] beginnend bij "
+"de hand"
+
+#. Name for HIP 113996
+msgid "The one next to the latter towards the south"
+msgstr "Die naast de laatste naar het zuiden"
+
+#. Name for HIP 114724
+msgid "The one next to this, after [the beginning of] the water bend"
+msgstr "Die naast dit, na [het begin van] de waterbocht"
+
+#. Name for HIP 114855
+msgid "The one in the bend to the south of this"
+msgstr "Die in de bocht ten zuiden van dit"
+
+#. Name for HIP 115033
+msgid "The northernmost of the two stars to the south of this"
+msgstr "De noordelijkste van de twee sterren ten zuiden van dit"
+
+#. Name for HIP 115115
+msgid "The southernmost of the two"
+msgstr "De zuidelijkste van de twee"
+
+#. Name for HIP 115404
+msgid "The lone star at some distance from these [two] towards the south"
+msgstr "De eenzame ster op enige afstand van deze [twee] naar het zuiden"
+
+#. Name for HIP 116758
+msgid "The more advanced of the two stars close together after the latter"
+msgstr ""
+"De meer naar voren staande van de twee sterren dicht bij elkaar in de laatste"
+
+#. Name for HIP 116901
+msgid "The northernmost of the three stars in the next bend group"
+msgstr "De noordelijkste van de drie sterren in de volgende bochten groep"
+
+#. Name for HIP 115438
+msgid "The northernmost of the next three [arranged] likewise"
+msgstr "De noordelijkste van de volgende drie sterren [gerangschikt] eveneens"
+
+#. Name for HIP 114119
+msgid "The most advanced of the three stars in the remaining bend group"
+msgstr "De voorste van de drie sterren in de overgebleven groep"
+
+#. Name for HIP 113368
+msgid "The star at the end of the water and on the mouth of Piscis Austrinus"
+msgstr "De ster aan het eind van het water en op de mond van Piscis Austrinus"
+
+#. Name for HIP 301
+msgid ""
+"The most advanced of the three stars to the rear of the bend in the water"
+msgstr "De voorste van de drie sterren achter de bocht in het water"
+
+#. Name for HIP 113368
+msgid "The first frog"
+msgstr "De eerste kikker"
+
+#. Name for HIP 113368
+msgid "The male ostrich"
+msgstr "De manlijke struisvogel"
+
+#. Name for HIP 113889
+msgid "The star in the mouth of the advance fish"
+msgstr "De ster in de mond van de voorste vis"
+
+#. Name for HIP 114971
+msgid "The southernmost of the two stars in the top of its head"
+msgstr "De zuidelijkste van de twee sterren in de bovenkant van zijn hoofd"
+
+#. Name for HIP 115738
+msgid "The more advanced of the two stars in the belly"
+msgstr "De meer naar voren staande van de twee sterren in de buik"
+
+#. Name for HIP 118268
+msgid "The star in the tail of the same [advance] fish"
+msgstr "De ster in de staart van dezelfde [voorste] vis"
+
+#. Name for HIP 1645
+msgid "The first after the tail of the stars forming its fishing-line"
+msgstr "De eerste na de staart van sterren die zijn vislijn vormen"
+
+#. Name for HIP 3786
+msgid "The most advanced of the three following stars"
+msgstr "De voorste van de drie volgende sterren"
+
+#. Name for HIP 5346
+msgid "The northernmost of the two small stars under these, in the bend"
+msgstr "De noordelijkste van de twee sterren onder deze, in de bocht"
+
+#. Name for HIP 7007
+msgid "The most advanced of the three stars after the bend"
+msgstr "De voorste van de drie sterren na de bocht"
+
+#. Name for HIP 9487
+msgid "The star on the knot joining the two fishing-lines"
+msgstr "De ster op de knoop die de twee vislijnen verbind"
+
+#. Name for HIP 8198
+msgid ""
+"The first in the section beginning at the knot of the stars in the northern "
+"fishing-line"
+msgstr ""
+"De eerste in het deel dat begint bij de knoop van de sterren in de "
+"noordelijke vislijn"
+
+#. Name for HIP 7535
+msgid "The southernmost of the three stars following after that"
+msgstr "De zuidelijkste van de drie sterren volgend na dit"
+
+#. Name for HIP 6706
+msgid "The northernmost of the three, which is also on the end of the tail"
+msgstr "De noordelijkste van de drie, die ook aan het eind van de staart zit"
+
+#. Name for HIP 5544
+msgid "The northernmost of the two stars in the mouth of the rear fish"
+msgstr "De noordelijkste van de twee sterren in de mond van de achterste vis"
+
+#. Name for HIP 4510
+msgid "The rearmost of the three small stars in the head"
+msgstr "De achterste van de drie kleine sterren in de kop"
+
+#. Name for HIP 5131
+msgid ""
+"The most advanced of the three stars on the spine in the back, following [i."
+"e. to the rear of] the star on the elbow of Andromeda"
+msgstr ""
+"De voorste van de drie sterren op de ruggengraat achterin, volgt [d.w.z. "
+"naar de achterkant van] de ster op de elleboog van Andromeda"
+
+#. Name for HIP 6193
+msgid "The northernmost of the two stars in the belly"
+msgstr "De noordelijkste van de twee sterren in de buik"
+
+#. Name for HIP 5571
+msgid "The star in the rear spine, near the tail"
+msgstr "De ster in de achterste ruggengraad, naast de staart"
+
+#. Name for HIP 118209
+msgid ""
+"The more advanced of the two northern stars of the quadrilateral under the "
+"advance fish"
+msgstr ""
+"De meer naar voren staande van de twee noordelijke sterren van de vierhoek "
+"onder de voorste vis"
+
+#. Name for HIP 154
+msgid "The more advanced star on the southern side"
+msgstr "De meer naar voren staande ster op de zuidelijke zijde"
+
+#. Name for HIP 443
+msgid "The rearmost one on the southern side"
+msgstr "De achterste op de zuidelijke zijde"
+
+#. Name for HIP 14135
+msgid "The rearmost, on the end of the jaw of the three stars in the snout"
+msgstr "De achterste, op het eind van de kaak van de drie sterren in de snuit"
+
+#. Name for HIP 12706
+msgid "The middle one, in the middle of the mouth"
+msgstr "De middelste, in het midden van de mond"
+
+#. Name for HIP 12387
+msgid "The most advanced of the three, on the cheek"
+msgstr "De voorste van de drie, op de wang"
+
+#. Name for HIP 11484
+msgid "The star on the eyebrow and the eye"
+msgstr "De ster op de wenkbrauw en het oog"
+
+#. Name for HIP 12828
+msgid "The one to the north of this, about on the hair"
+msgstr "Die ten noorden van dit, ongeveer op het haar"
+
+#. Name for HIP 10324
+msgid "The one in advance of these, about on the mane"
+msgstr "De voorste van deze, ongeveer op de manen"
+
+#. Name for HIP 11345
+msgid ""
+"The northernmost star on the advance side of the quadrilateral in the chest"
+msgstr "De noordelijke ster op de voorste zijde van het vierhoek in de borst"
+
+#. Name for HIP 3436
+msgid "The southernmost one on the advance side"
+msgstr "De zuidelijkste aan de voorkant"
+
+#. Name for HIP 3849
+msgid "The southernmost one on the rear side"
+msgstr "De zuidelijkste aan de achterkant"
+
+#. Name for HIP 8102
+msgid "The midmost of the three stars in the body"
+msgstr "De middelste van de drie sterren in het lichaam"
+
+#. Name for HIP 6537
+msgid "The rearmost of the two stars by the section next to the tail"
+msgstr "De achterste van de twee sterren in het deel naast de staart"
+
+#. Name for HIP 3909
+msgid ""
+"The northernmost star on the rear side of the quadrilateral in the section "
+"next to the tail"
+msgstr ""
+"De noordelijke ster op de achterkant van het vierhoek in het deel naast de "
+"staart"
+
+#. Name for HIP 1562
+msgid ""
+"The one on the northern tail-fin of the two stars at the ends of the tail-"
+"fins"
+msgstr ""
+"Die op de noordelijke staartvin van de twee sterren aan de einden van de "
+"staartvinnen"
+
+#. Name for HIP 3419
+msgid "The one on the end of the southern tail-fin"
+msgstr "Die aan het eind van de zuidelijke staartvin"
+
+#. Name for HIP 3419
+msgid "The second frog"
+msgstr "De tweede kikker"
+
+#. Name for HIP 26207
+msgid "The nebulous star in the head of Orion, the three close stars"
+msgstr ""
+"De nevelige ster in de kop van Orion, de drie dicht bij elkaar staande "
+"sterren"
+
+#. Name for HIP 27989
+msgid "The bright, reddish star on the right shoulder"
+msgstr "De heldere, roodachtige ster op de rechterschouder"
+
+#. Name for HIP 25813
+msgid "The one under this to the rear"
+msgstr "Die onder dit naar achteren"
+
+#. Name for HIP 29426
+msgid ""
+"The rear, double star on the southern side of the quadrilateral in the right "
+"hand"
+msgstr ""
+"De achterste dubbele ster aan de zuidkant van de vierhoek in de rechterhand"
+
+#. Name for HIP 29704
+msgid "The rear one on the northern side"
+msgstr "De achterste op de noordelijke zijde"
+
+#. Name for HIP 29434
+msgid "The advance one on the northern side"
+msgstr "De voorste op de noordelijke zijde"
+
+#. Name for HIP 27913
+msgid "The more advanced of the two stars in the staff"
+msgstr "De meer naar voren staande van de twee sterren in de staf"
+
+#. Name for HIP 26594
+msgid ""
+"The rearmost of the four stars almost on a straight line just over the back"
+msgstr ""
+"De achterste van de vier steren bijna in een rechte lijn net boven de rug"
+
+#. Name for HIP 13701
+msgid "The one in advance again of this"
+msgstr "Die weer voor de dit"
+
+#. Name for HIP 25142
+msgid "The last and most advanced of the four"
+msgstr "De laatste en de voorste van de vier"
+
+#. Name for HIP 24010
+msgid "The northernmost of the nine stars in the pelt on the left arm"
+msgstr "De noordelijkste van de negen sterren in de huid van de linkerarm"
+
+#. Name for HIP 23607
+msgid "The second from the northernmost"
+msgstr "De tweede van de noordelijkste"
+
+#. Name for HIP 22957
+msgid "The third from the northernmost"
+msgstr "De derde van de noordelijkste"
+
+#. Name for HIP 22845
+msgid "The fourth from the northernmost"
+msgstr "De vierde vanaf de meest noordelijke"
+
+#. Name for HIP 22509
+msgid "The fifth from the northernmost"
+msgstr "De vijfde van de noordelijkste"
+
+#. Name for HIP 22449
+msgid "The sixth from the northernmost"
+msgstr "De zesde van de noordelijkste"
+
+#. Name for HIP 22549
+msgid "The seventh from the northernmost"
+msgstr "De zevende van de noordelijkste"
+
+#. Name for HIP 22797
+msgid "The eighth from the northernmost"
+msgstr "De achtste van de noordelijkste"
+
+#. Name for HIP 23123
+msgid "The last and southernmost of those in the pelt"
+msgstr "De laatste en zuidelijkste van die in de huid"
+
+#. Name for HIP 25930
+msgid "The most advanced of the three stars on the belt"
+msgstr "De voorste van de drie sterren in de riem"
+
+#. Name for HIP 25281
+msgid "The star near the handle of the dagger"
+msgstr "De ster naast het handvat van de dolk"
+
+#. Name for HIP 26237
+msgid ""
+"The northernmost of the three stars joined together at the tip of the dagger"
+msgstr ""
+"De noordelijkste van de drie sterren die samen komen in de punt van de dolk"
+
+#. Name for HIP 26563
+msgid "The rearmost of the two stars under the tip of the dagger"
+msgstr "De achterste van de twee sterren onder de punt van de dolk"
+
+#. Name for HIP 24436
+msgid ""
+"The bright star in the left foot, which is [applied in] common to the water "
+"[of Eridanus]"
+msgstr ""
+"De heldere ster in de linkervoet, die [algemeen toegepast] wordt in het "
+"water [van Eridanus]"
+
+#. Name for HIP 24674
+msgid "The star to the north of it in the lower leg, over the ankle-joint"
+msgstr ""
+"De ster in het noorden van het in het onderbeen, boven het enkelgewricht"
+
+#. Name for HIP 25247
+msgid "The star under the left heel, outside"
+msgstr "De ster onder de linkerhiel, buitenkant"
+
+#. Name for HIP 27366
+msgid "The star under the right, rear knee"
+msgstr "De ster onder de rechter, achter knie"
+
+#. Name for HIP 27989
+#. Al-Jawza is a proper Arabic name of Orion
+msgid "Shoulder of Al-Jawza"
+msgstr "Schouder van Al-Jawza"
+
+#. Name for HIP 27989
+#. Al-Jawza is a proper Arabic name of Orion
+msgid "Hand of Al-Jawza"
+msgstr "Hand van Al-Jawza"
+
+#. Name for HIP 24436
+#. Al-Jawza is a proper Arabic name of Orion
+msgid "Shepherd of Al-Jawza"
+msgstr "Herder van Al-Jawza"
+
+#. Name for HIP 24436
+#. Al-Najidh is a proper name
+msgid "Al-Najidh"
+msgstr "Al-Najidh"
+
+#. Name for HIP 25336
+#. Al-Mirzam is a proper name meaning the star of sound of thunder
+msgid "Al-Mirzam"
+msgstr "Al-Mirzam"
+
+#. Name for HIP 24436
+#. Al-Jawza is a proper Arabic name of Orion
+msgid "Leg of Al-Jawza"
+msgstr "Been van Al-Jawza"
+
+#. Name for HIP 23972
+msgid ""
+"The star after the one in the foot of Orion, at the beginning of the river"
+msgstr "De ster na die in de voet van Orion, aan het begin van de rivier"
+
+#. Name for HIP 23875
+msgid "The one north of this, in the curve near the shin of Orion"
+msgstr "Die ten noorden van dit, in de bocht bij het scheenbeen van Orion"
+
+#. Name for HIP 23364
+msgid "The rearmost of the two stars next in order after this"
+msgstr "De achterste van de twee sterren naast in volgorde na dit"
+
+#. Name for HIP 22109
+msgid "The rearmost of the next two in order again"
+msgstr "De achterste van de volgende twee weer in volgorde"
+
+#. Name for HIP 20507
+msgid "The rearmost of the three stars after this"
+msgstr "De achterste van de drie sterren na dit"
+
+#. Name for HIP 18543
+msgid "The rearmost of the four stars in the next interval"
+msgstr "De achterste van de vier sterren in het volgende interval"
+
+#. Name for HIP 12444
+msgid "The most advanced of the four"
+msgstr "De meest voorste van de vier"
+
+#. Name for HIP 15197
+msgid "The rearmost of the four stars in the next likewise interval again"
+msgstr "De achterste van de vier sterren weer in de zelfde interval"
+
+#. Name for HIP 12843
+msgid ""
+"The first star in the bend of the river, which touches the chest of Cetus"
+msgstr "De eerste ster in de bocht van de rivier, die de borst van Cetus raakt"
+
+#. Name for HIP 14146
+msgid "The most advanced of the next consecutive three"
+msgstr "De meest voorste van de volgende opeenvolgende drie"
+
+#. Name for HIP 17651
+msgid ""
+"The northern one on the advance side of the next four stars, nearly forming "
+"a trapezium"
+msgstr ""
+"De noordelijke aan de voorkant van de volgende vier sterren, bijna een "
+"trapezium vormend"
+
+#. Name for HIP 17717
+msgid "The southernmost on the advance side"
+msgstr "De zuidelijkste aan de voorkant"
+
+#. Name for HIP 18216
+msgid "The more advanced one on the rear side"
+msgstr "Die meer naar voren staat op de zuidelijke zijde"
+
+#. Name for HIP 18673
+msgid "The last of the four, the rear one on that side"
+msgstr "De laatste van de vier, de achterste aan die zijde"
+
+#. Name for HIP 21248
+msgid ""
+"The northernmost of the two stars close together at some distance to the east"
+msgstr ""
+"De noordelijkste van de twee sterren dicht bij elkaar op enige afstand naar "
+"het oosten"
+
+#. Name for HIP 20535
+msgid "The rearmost of the next two stars after the bend"
+msgstr "De achterste van de twee sterren na de bocht"
+
+#. Name for HIP 17874
+msgid "The rearmost of the three stars in the next interval"
+msgstr "De achterste van de drie sterren in de volgende interval"
+
+#. Name for HIP 13847
+msgid "The last star of the river, the bright one, called 'The male ostrich'"
+msgstr ""
+"De laatste ster van de rivier, de heldere, genaamd 'De manlijke struisvogel'"
+
+#. Name for HIP 24244
+msgid ""
+"The northern star on the advance side of the quadrilateral just over the ears"
+msgstr "De noordelijke ster aan de voorkant van de vierhoek net boven de oren"
+
+#. Name for HIP 24873
+msgid "The northern star on the rear side"
+msgstr "De noordelijke ster aan de achterkant"
+
+#. Name for HIP 24845
+msgid "The southern star on the rear side"
+msgstr "De zuidelijke ster aan de achterkant"
+
+#. Name for HIP 24305
+msgid "The star in the chin"
+msgstr "De ster op de kin"
+
+#. Name for HIP 23685
+msgid "The star on the left front foot"
+msgstr "De ster op de linker voorvoet"
+
+#. Name for HIP 25985
+msgid "The star in the middle of the body"
+msgstr "De ster in het midden van het lichaam"
+
+#. Name for HIP 25606
+msgid "The star under the belly"
+msgstr "De ster onder de buik"
+
+#. Name for HIP 27654
+msgid "The northernmost of the two stars in the hind legs"
+msgstr "De noordelijkste van de twee sterren in de achterpoten"
+
+#. Name for HIP 32349
+msgid "CMa_1"
+msgstr "CMa_1"
+
+#. Name for HIP 33160
+msgid "CMa_2"
+msgstr "CMa_2"
+
+#. Name for HIP 33345
+msgid "CMa_3"
+msgstr "CMa_3"
+
+#. Name for HIP 34045
+msgid "CMa_4"
+msgstr "CMa_4"
+
+#. Name for HIP 33347
+msgid "CMa_5"
+msgstr "CMa_5"
+
+#. Name for HIP 33302
+msgid "CMa_6"
+msgstr "CMa_6"
+
+#. Name for HIP 31700
+msgid "CMa_7"
+msgstr "CMa_7"
+
+#. Name for HIP 31592
+msgid "CMa_8"
+msgstr "CMa_8"
+
+#. Name for HIP 30324
+msgid "CMa_9"
+msgstr "CMa_9"
+
+#. Name for HIP 31125
+msgid "CMa_10"
+msgstr "CMa_10"
+
+#. Name for HIP 31416
+msgid "CMa_11"
+msgstr "CMa_11"
+
+#. Name for HIP 33977
+msgid "CMa_12"
+msgstr "CMa_12"
+
+#. Name for HIP 33152
+msgid "CMa_13"
+msgstr "CMa_13"
+
+#. Name for HIP 34444
+msgid "CMa_14"
+msgstr "CMa_14"
+
+#. Name for HIP 33579
+msgid "CMa_15"
+msgstr "CMa_15"
+
+#. Name for HIP 32759
+msgid "CMa_16"
+msgstr "CMa_16"
+
+#. Name for HIP 30122
+msgid "CMa_17"
+msgstr "CMa_17"
+
+#. Name for HIP 35904
+msgid "CMa_18"
+msgstr "CMa_18"
+
+#. Name for HIP 34769
+msgid "CMa_a_01"
+msgstr "CMa_a_01"
+
+#. Name for HIP 29034
+msgid "CMa_a_02"
+msgstr "CMa_a_02"
+
+#. Name for HIP 29807
+msgid "CMa_a_03"
+msgstr "CMa_a_03"
+
+#. Name for HIP 30277
+msgid "CMa_a_04"
+msgstr "CMa_a_04"
+
+#. Name for HIP 30788
+msgid "CMa_a_05"
+msgstr "CMa_a_05"
+
+#. Name for HIP 27204
+msgid "CMa_a_06"
+msgstr "CMa_a_06"
+
+#. Name for HIP 27810
+msgid "CMa_a_07"
+msgstr "CMa_a_07"
+
+#. Name for HIP 28199
+msgid "CMa_a_08"
+msgstr "CMa_a_08"
+
+#. Name for HIP 27628
+msgid "CMa_a_09"
+msgstr "CMa_a_09"
+
+#. Name for HIP 26634
+msgid "CMa_a_10"
+msgstr "CMa_a_10"
+
+#. Name for HIP 25859
+msgid "CMa_a_11"
+msgstr "CMa_a_11"
+
+#. Name for HIP 32349
+#. Shi'raa is the Arabic proper name of Sirius
+msgid ""
+"The star in the mouth, with utmost brightness, which is called 'the Dog' and "
+"'Southern or crossing Shi'raa'"
+msgstr ""
+"De ster in de mond, met de grootste helderheid, die genaamd is 'de Hond' en "
+"'Zuidelijke of kruising Shi'raa'"
+
+#. Name for HIP 33160
+msgid "The star on the ears"
+msgstr "De ster op de oren"
+
+#. Name for HIP 33302
+msgid "The star on the chest"
+msgstr "De ster op de borst"
+
+#. Name for HIP 31700
+msgid "The northernmost of the two stars on the right knee"
+msgstr "De noordelijkste van de twee sterren op de rechter knie"
+
+#. Name for HIP 30324
+#. Al-Mirzam is a proper name meaning the star of sound of thunder
+msgid "The star on the end of the front leg, called 'Al-Mirzam'"
+msgstr "De ster op het eind van de voorpoot, genaamd 'Al-Mirzam'"
+
+#. Name for HIP 31125
+msgid "The more advanced of the two stars in the left knee"
+msgstr "De meer voorste van de twee sterren in de linkerknie"
+
+#. Name for HIP 33977
+msgid "The rearmost of the two stars in the left shoulder"
+msgstr "De achterste van de twee sterren in de linker schouder"
+
+#. Name for HIP 34444
+msgid "The star in the place where the left thigh joins [the body]"
+msgstr "De ster op de plek waar de linkerdij dicht aansluit op [de bil]"
+
+#. Name for HIP 33579
+msgid "The star below the belly, in the place between the thighs"
+msgstr "De ster onder de buik, op de plek tussen de dijen"
+
+#. Name for HIP 32759
+msgid "The star on the joint of the right leg"
+msgstr "De ster op de samenkomst van de rechterpoot"
+
+#. Name for HIP 30122
+msgid "The star on the end of the right leg"
+msgstr "De ster op het einde van de rechterpoot"
+
+#. Name for HIP 35904
+msgid "The star on the tail"
+msgstr "De ster in de staart"
+
+#. Name for HIP 34769
+msgid "The star to the north of the top of the dog skull"
+msgstr "De ster ten noorden van de top van de hondenschedel"
+
+#. Name for HIP 29034
+msgid ""
+"The southernmost of the four stars almost on a straight line under the hind "
+"legs"
+msgstr ""
+"De zuidelijkste van de vier sterren bijna in een rechte lijn onder de "
+"achterpoten"
+
+#. Name for HIP 29807
+msgid "The one north of this"
+msgstr "Die ten noorden hiervan"
+
+#. Name for HIP 30788
+msgid "The last and northernmost of the four"
+msgstr "De laatste en noordelijkste van de vier"
+
+#. Name for HIP 27204
+msgid ""
+"The most advanced of the three stars almost on a straight line to the west "
+"of the [above] four"
+msgstr ""
+"De voorste van de drie sterren bijna in een rechte lijn ten westen van de "
+"[boven] vier"
+
+#. Name for HIP 27628
+msgid "The rearmost of the two bright stars under these"
+msgstr "De achterste van de twee heldere sterren onder deze"
+
+#. Name for HIP 25859
+msgid "The last star, to the south of the above"
+msgstr "De laatste ster, ten zuiden van de bovenstaande"
+
+#. Name for HIP 30324
+#. Al-Mirzam is a proper name meaning the star of sound of thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa that crossed [the milky way]"
+msgstr "De Mirzam van de Shi'raa dat [de Melkweg] kruist"
+
+#. Name for HIP 30324
+#. Al-Mirzam is a proper name meaning the star of sound of thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa"
+msgstr "De Mirzam van de Shi'raa"
+
+#. Name for HIP 30324
+msgid "The dog"
+msgstr "De hond"
+
+#. Name for HIP 36188
+#. Al-Mirzam is a proper name meaning the star of sound of thunder.
+msgid "The star in the neck, called Al-Mirzam"
+msgstr "De ster in de nek, genaamd 'Al-Mirzam'"
+
+#. Name for HIP 37279
+#. The northern Shi'raa or tearfull Shi'raa is a proper arabic name for Procyon.
+msgid ""
+"The bright star just over the hindquarters, called 'The northern or tearfull "
+"Shi'raa'"
+msgstr ""
+"De heldere ster net boven de achterhand, genaamd 'De noordelijke of "
+"verdrietige Shi'raa'"
+
+#. Name for HIP 38835
+msgid "The more advanced of the two stars at the end of the ship"
+msgstr ""
+"De meer naar voren staande van de twee sterren aan het eind van het schip"
+
+#. Name for HIP 38170
+msgid ""
+"The northernmost of the two stars close together over the little shield in "
+"the poop"
+msgstr ""
+"De noordelijkste van de twee sterren dicht bij elkaar boven het kleine "
+"schild op het achterdek"
+
+#. Name for HIP 37173
+msgid "The star in advance of these"
+msgstr "De ster voor deze"
+
+#. Name for HIP 37229
+msgid "The bright star in the middle of the little shield"
+msgstr "De heldere ster in het midden van het kleine schild"
+
+#. Name for HIP 36917
+msgid "The most advanced of the three stars under the little shield"
+msgstr "De voorste van de drie sterren onder het kleine schild"
+
+#. Name for HIP 38901
+msgid "The star on the stern neck"
+msgstr "De ster op de achtersteven nek"
+
+#. Name for HIP 36514
+msgid ""
+"The northernmost of the two stars in the sternpost on which are the two "
+"stern cabins"
+msgstr ""
+"De noordelijkste van twee steren in de achterstevenpost waarop zich de twee "
+"achterstevencabines bevinden"
+
+#. Name for HIP 37096
+msgid "The northernmost of the stars in the poop-deck"
+msgstr "De noordelijkste van de sterren in het achterdek"
+
+#. Name for HIP 37297
+msgid "The most advanced of the next three"
+msgstr "De voorste van de volgende drie"
+
+#. Name for HIP 39429
+msgid "The bright star on the deck to the rear of these"
+msgstr "De heldere ster op het dek aan de achterkant van deze"
+
+#. Name for HIP 38414
+msgid "The more advanced of the two faint stars under the bright one"
+msgstr "De voorste van de twee zwakkere sterren onder de heldere"
+
+#. Name for HIP 40091
+msgid "The more advanced of the two stars over the above-mentioned bright one"
+msgstr "De voorste van de twee zwakkere sterren boven de bovengenoemde heldere"
+
+#. Name for HIP 44191
+msgid ""
+"The northernmost of the three stars on the little shields, about on the mast-"
+"holder"
+msgstr ""
+"De noordelijkste van drie steren op het kleine op de schilden, ongeveer op "
+"de masthouder"
+
+#. Name for HIP 43023
+msgid "The northernmost of the two stars close together under these"
+msgstr "De noordelijkste van de twee sterren dicht bij elkaar onder deze"
+
+#. Name for HIP 42515
+msgid "The southernmost of the two stars in the middle of the mast"
+msgstr "De zuidelijkste van de twee sterren midden op de mast"
+
+#. Name for HIP 43409
+msgid "The more advanced of the two stars by the tip of the mast"
+msgstr "De voorste van de twee sterren bij de top van de mast"
+
+#. Name for HIP 44816
+msgid "The star below the three rear little shield"
+msgstr "De ster onder de drie kleine achter het kleine schild"
+
+#. Name for HIP 46651
+msgid "The star on the cut-off of the deck"
+msgstr "De ster op de afsnijding van het dek"
+
+#. Name for HIP 36377
+msgid "The star between the steering-oars in the keel"
+msgstr "De ster tussen de stuurriemen in de kiel"
+
+#. Name for HIP 38164
+msgid "The faint star to the rear of this"
+msgstr "De zwakke ster achter dit"
+
+#. Name for HIP 39953
+msgid "The bright star to the rear of this, under the deck"
+msgstr "De heldere ster achter dit, onder het dek"
+
+#. Name for HIP 38827
+msgid "The bright star to the south of this, on the sternpost"
+msgstr "De heldere ster ten zuiden van dit, op de stuurstand"
+
+#. Name for HIP 42913
+msgid "The most advanced of the three stars to the rear of this"
+msgstr "De voorste van de drie sterren aan de achter dit"
+
+#. Name for HIP 46701
+msgid ""
+"The more advanced of the two stars to the rear of these, near the cut-off of "
+"the deck"
+msgstr ""
+"De meer naar voren staande van de twee sterren achter deze, nabij de "
+"afsnijding van het dek"
+
+#. Name for HIP 28328
+msgid ""
+"The more advanced of the two stars in the northern, advance steering-oar"
+msgstr ""
+"De meer naar voren staande van de twee sterren in het noordelijke, voorste "
+"stuurriem"
+
+#. Name for HIP 30438
+#. Suhayl is the Arabic proper name of Canopus
+msgid ""
+"The more advanced of the two stars in the other steering-oar, called "
+"Canopus, and it is Suhayl"
+msgstr ""
+"De meer naar voren staande van de twee sterren in de andere stuurriem, "
+"genaamd Caopus en het is Suhyl"
+
+#. Name for HIP 32768
+msgid "The other, rearmost star"
+msgstr "DE andere, achterste ster"
+
+#. Name for HIP 42402
+msgid ""
+"The southernmost of the two advance ones, which is on the nostrils of the "
+"five stars in the head"
+msgstr ""
+"De zuidelijkste van de twee voorste, die zich in de neusgaten van de vijf "
+"sterren in de kop bevind"
+
+#. Name for HIP 42313
+msgid "The northernmost of these two, which is above the eye"
+msgstr "De noordelijkste van deze twee, die zich boven het oog bevindt"
+
+#. Name for HIP 43109
+msgid ""
+"The northernmost of the two to the rear of these, which is about on the skull"
+msgstr ""
+"De noordelijkste van de twee aan de achterkant van deze, die ongeveer op de "
+"schedel"
+
+#. Name for HIP 42799
+msgid "The southernmost of them, on the gaping jaws"
+msgstr "De zuidelijkste van hen, op de gapende kaken"
+
+#. Name for HIP 43813
+msgid "The rearmost of all, about on the chin"
+msgstr "De achterste van allen, ongeveer op de kin"
+
+#. Name for HIP 44659
+msgid ""
+"The more advanced of the two stars in the place where the neck joins [the "
+"head]"
+msgstr ""
+"De meer naar voren staande van de twee sterren op de plek waar de nek "
+"samenkomt bij [de kop]"
+
+#. Name for HIP 46776
+msgid "The middle star of the following three in the bend of the neck"
+msgstr "De middelste ster van de volgende drie in de bocht van de nek"
+
+#. Name for HIP 46404
+msgid "The faint, northernmost star of the two close together to the south"
+msgstr ""
+"De zwakke, noordelijkste ster van de twee dicht bij elkaar in het zuiden"
+
+#. Name for HIP 46390
+#. Al-Fard is a proper name meaning the lone star
+msgid "The bright one of these two close stars, called Al-Fard"
+msgstr ""
+"De heldere van deze twee dicht bij elkaar staande sterren, genaamd Al-Fard"
+
+#. Name for HIP 48356
+msgid ""
+"The most advanced of the three stars to the rear, after the bend [in the "
+"neck]"
+msgstr ""
+"De meest voorste van de drie sterren aan de achterkant, na de bocht [in de "
+"nek]"
+
+#. Name for HIP 51069
+msgid "The most advanced of the next three stars almost on a straight line"
+msgstr "De meest voorste van de volgende drie sterren bijna op een rechte lijn"
+
+#. Name for HIP 54682
+msgid ""
+"The northernmost of the two stars after [i.e. to the rear of] the base of "
+"Crater"
+msgstr ""
+"De noordelijkste van de twee na [d.w.z. de achterkant van] de basis van "
+"Crater"
+
+#. Name for HIP 56343
+msgid ""
+"The most advanced of the three stars after these, as it were in a triangle"
+msgstr "De voorste van de drie sterren na deze, als het waren in een driehoek"
+
+#. Name for HIP 56922
+msgid "The middle and southernmost one"
+msgstr "De middelste en zuidelijkste"
+
+#. Name for HIP 64962
+msgid "The star after Corvus, in the section by the tail"
+msgstr "De ster nar Corvus, in het deel bij de staart"
+
+#. Name for HIP 41307
+msgid "The star to the south of the head"
+msgstr "De heldere ster ten zuiden van de kop"
+
+#. Name for HIP 49641
+msgid "The star some distance to the rear of those in the neck"
+msgstr "De ster op enige afstand van de achterkant van die in de nek"
+
+#. Name for HIP 53740
+msgid "The star in the base of bowl, which is [applied in] common to Hydra"
+msgstr ""
+"De ster in de bodem van de schaal, die gemeenschappelijk [wordt toegepast] "
+"op Hydra"
+
+#. Name for HIP 55705
+msgid "The southernmost of the two stars in the middle of the bowl"
+msgstr "De zuidelijkste van de twee sterren in het midden van de schaal"
+
+#. Name for HIP 58188
+msgid "The star on the southern rim of the mouth"
+msgstr "De ster op de zuidelijke rand van de mond"
+
+#. Name for HIP 56633
+msgid "The star on the northern rim"
+msgstr "De ster op de noordelijke rand"
+
+#. Name for HIP 57283
+msgid "The star on the southern handle"
+msgstr "De ster op het zuidelijke handvat"
+
+#. Name for HIP 55687
+msgid "The star on the northern handle"
+msgstr "De ster op het noordelijke handvat"
+
+#. Name for HIP 59199
+msgid "The star in the beak, which is [applied in] common to Hydra"
+msgstr "De ster in de snavel, die gemeenschappelijk [wordt toegepast] op Hydra"
+
+#. Name for HIP 59316
+msgid "The star in the neck, by the head"
+msgstr "De ster in de nek, bij de kop"
+
+#. Name for HIP 59803
+msgid "The star in the advance, right wing"
+msgstr "De ster in de voorgrond, rechtervleugel"
+
+#. Name for HIP 60965
+msgid "The more advanced of the two stars in the rear wing"
+msgstr "De meer naar voren staande van de twee sterren in de achtervleugel"
+
+#. Name for HIP 61359
+msgid "The star on the end of the leg, which is [applied in] common to Hydra"
+msgstr ""
+"De ster op het eind van de poot, die gemeenschappelijk [wordt toegepast] op "
+"Hydra"
+
+#. Name for HIP 67457
+msgid "The southernmost of the four stars in the head"
+msgstr "De zuidelijkste van de vier sterren in het hoofd"
+
+#. Name for HIP 67153
+msgid "The more advanced of the other, middle two"
+msgstr "De meer naar voren staande van de andere, middelste twee"
+
+#. Name for HIP 67669
+msgid "The rearmost of these, the last of the four"
+msgstr "De achterste van deze, de laatste en de vier"
+
+#. Name for HIP 65109
+msgid "The star on the left, advance shoulder"
+msgstr "De ster op de linker, voorste schouder"
+
+#. Name for HIP 65936
+msgid "The star on the left shoulder-blade"
+msgstr "De ster op het linkerschouderblad"
+
+#. Name for HIP 70090
+msgid "The northernmost of the advance two of the four stars in the thyrsus"
+msgstr "De noordelijkste van de twee voorste van de vier sterren in de thyrsus"
+
+#. Name for HIP 72010
+msgid "That one of the other two which is at the tip of the thyrsus"
+msgstr "Die van de andere twee die zich op de punt van de thyrsus bevind"
+
+#. Name for HIP 71865
+msgid "The last one, south of the latter"
+msgstr "De laatste, ten zuiden van de laatste"
+
+#. Name for HIP 67464
+msgid "The most advanced of the three stars in the right side"
+msgstr "De voorste van de drie sterren in de rechterzijde"
+
+#. Name for HIP 73334
+msgid "The star in the right hand"
+msgstr "De ster in de rechterhand"
+
+#. Name for HIP 68002
+msgid "The bright star in the place where the human body joins [the horse's]"
+msgstr ""
+"De heldere ster op de plek waar het menselijk lichaam samenkomt [met dat van "
+"het paard]"
+
+#. Name for HIP 68523
+msgid "The rearmost of the two faint stars to the north of this"
+msgstr "De achterste van de twee zwakke sterren in het noorden van dit"
+
+#. Name for HIP 64004
+msgid "The star in advance of this, on the horse's back"
+msgstr "De ster voor dit, op de paardenrug"
+
+#. Name for HIP 61932
+msgid "The rearmost of the stars on the rump"
+msgstr "De achterste van de sterren op de romp"
+
+#. Name for HIP 59196
+msgid "The more advanced of the two stars close together on the right thigh"
+msgstr ""
+"De meer naar voren staande van de twee sterren dicht bij elkaar in de "
+"rechterdij"
+
+#. Name for HIP 67234
+msgid "The star in the chest, under the horse's armpit"
+msgstr "De ster in de borst, onder de oksel van het paard"
+
+#. Name for HIP 66657
+msgid "The more advanced of the two stars under the belly"
+msgstr "De meer naar voren staande van de twee sterren onder de buik"
+
+#. Name for HIP 61084
+msgid "The star on the knee-bend of the right [hind] leg"
+msgstr "De ster op de kniebocht van het rechter [achter]been"
+
+#. Name for HIP 62434
+msgid "The star in the hock of the same leg"
+msgstr "De ster in de hakpees van dezelfde been"
+
+#. Name for HIP 59747
+msgid "The star under the knee-bend of the left [hind] leg"
+msgstr "De ster op de kniebocht van het linker [achter]been"
+
+#. Name for HIP 60718
+msgid "The star on the frog of the hoof on the same leg"
+msgstr "De ster op de frog van de hoef van hetzelfde been"
+
+#. Name for HIP 71683
+msgid "The star on the end of the right front leg"
+msgstr "De ster op het einde van het rechterbeen"
+
+#. Name for HIP 68702
+msgid "The star on the knee of the left [front] leg"
+msgstr "De ster op de knie van het linker [voor]been"
+
+#. Name for HIP 63003
+msgid "The star outside, under the right hind leg"
+msgstr "De ster buiten, onder het linker achterbeen"
+
+#. Name for HIP 71683
+#. Al-wazn is a proper name
+msgid "Al-Wazn"
+msgstr "Al-Wazn"
+
+#. Name for HIP 68702
+#. Hadari is a proper name
+msgid "Hadari"
+msgstr "Hadari"
+
+#. Name for HIP 73273
+msgid "The star at the end of the hind leg, by the [right] hand of Centaurus"
+msgstr ""
+"De ster op het eind van de achterpoot, bij de [rechter] hand van Centaurus"
+
+#. Name for HIP 71860
+msgid "The star on the bend in the same leg"
+msgstr "De ster in de plooi van hetzelfde been"
+
+#. Name for HIP 75141
+msgid "The more advanced of the two stars just over the shoulder-blade"
+msgstr ""
+"De meer naar voren staande van de twee sterren net boven het schouderblad"
+
+#. Name for HIP 75264
+msgid "The star in the middle of the body of Lupus"
+msgstr "De ster in het midden van het lichaam van Lupus"
+
+#. Name for HIP 74117
+msgid "The star in the belly, under the flank"
+msgstr "De ster in de buik, onder de flank"
+
+#. Name for HIP 73807
+msgid "The star on the thigh"
+msgstr "De ster op de heup"
+
+#. Name for HIP 74911
+msgid ""
+"The northernmost of the two stars near the place where the thigh joins [the "
+"body]"
+msgstr ""
+"De noordelijkste van de twee sterren naast de plek waar de dij samenkomt met "
+"[het lichaam]"
+
+#. Name for HIP 74395
+msgid "The star on the end of the rump"
+msgstr "De ster op het eind van de romp"
+
+#. Name for HIP 69996
+msgid "The southernmost of the 3 stars in the end of the tail"
+msgstr "De zuidelijkste van de 3 sterren aan het eind van de staart"
+
+#. Name for HIP 78384
+msgid "The southernmost of the two stars in the neck"
+msgstr "De zuidelijkste van de 2 sterren in de nek"
+
+#. Name for HIP 77634
+msgid "The more advanced of the two stars in the snout"
+msgstr "De meer naar voren staande van de twee sterren in de snuit"
+
+#. Name for HIP 74604
+msgid "The southernmost of the two stars in the front leg, on the hand"
+msgstr "De zuidelijkste van de twee sterren in het voorbeen, op de hand"
+
+#. Name for HIP 86092
+msgid "The northernmost of the two stars in the base"
+msgstr "De noordelijkste van de twee sterren in de basis"
+
+#. Name for HIP 85792
+msgid "The star in the middle of the little altar"
+msgstr "De ster in het midden van het kleine altaar"
+
+#. Name for HIP 83153
+msgid "The northernmost of the three stars in the brazier"
+msgstr "De noordelijkste van de drie sterren in de koperslager"
+
+#. Name for HIP 85267
+msgid "The southernmost of the other two which are close together"
+msgstr "De zuidelijkste van de andere twee dicht bij elkaar"
+
+#. Name for HIP 85258
+msgid "The northernmost of these two"
+msgstr "De noordelijkste van deze twee"
+
+#. Name for HIP 83081
+msgid "The star on the end of the burning-apparatus"
+msgstr "De ster aan het eind van het verbrandingsapparaat"
+
+#. Name for HIP 90422
+msgid "The most advanced of the stars on the southern rim, outside [the crown]"
+msgstr "De voorste van de sterren op zuidelijke rand, buiten [de kroon]"
+
+#. Name for HIP 92308
+msgid "The star to the rear of this on the crown"
+msgstr "De ster achter dit op de kroon"
+
+#. Name for HIP 94005
+msgid "The one after this, before the knee of Sagittarius"
+msgstr "Die na dit, voor de knie van Sagittarius"
+
+#. Name for HIP 94160
+msgid ""
+"The one after this, which is north of the bright star in the knee [of "
+"Sagittarius]"
+msgstr ""
+"Die na dit, wat ten noorden is van de heldere ster in de knie [van "
+"Sagittarius]"
+
+#. Name for HIP 94114
+msgid "The star to the north of this"
+msgstr "De ster ten noorden van dit"
+
+#. Name for HIP 93825
+msgid "The one to the north again of this"
+msgstr "Die weer ten noorden van dit"
+
+#. Name for HIP 93174
+msgid ""
+"The rearmost of the two stars after this, in advance, in the northern rim"
+msgstr ""
+"De achterste van de twee sterren na dit, op afstand, in de noordelijke rand"
+
+#. Name for HIP 92989
+msgid "The more advanced of these two faint stars"
+msgstr "De meer naar voren staande van deze twee zwakke sterren"
+
+#. Name for HIP 91875
+msgid "The star quite some distance in advance of this"
+msgstr "De ster op behoorlijke afstand van dit"
+
+#. Name for HIP 90982
+msgid "The last one, which is south of the aforementioned star"
+msgstr "De laatste, die zuidelijk van de voornoemde ster"
+
+#. Name for HIP 111188
+msgid "The most advanced of the three stars on the southern rim of the head"
+msgstr "De voorste van de drie sterren op de zuidelijke rand van de kop"
+
+#. Name for HIP 111954
+msgid "The star by the gills"
+msgstr "De ster bij de kieuwen"
+
+#. Name for HIP 109285
+msgid "The star on the southernmost spine on the back"
+msgstr "De ster op de zuidelijkste ruggengraad op de rug"
+
+#. Name for HIP 111045
+msgid "The rearmost of the two stars in the belly"
+msgstr "De achterste van de twee sterren in de buik"
+
+#. Name for HIP 108661
+msgid "The rearmost of the three stars on the northern spine"
+msgstr "De achterste van de drie sterren op de noordelijke ruggengraad"
+
+#. Name for Mel 111
+msgid "Tassel of the lion"
+msgstr "Kwast van de leeuw"
+
+#. Name for NGC 869
+msgid "The nebulous mass on the right hand"
+msgstr "De nevelige massa op de rechter hand"
+
+#. Name for NGC 869
+msgid "wrist of Al-Thurayya"
+msgstr "pols van Al-Thurayya"
+
+#. Name for NGC 5139
+msgid "The star on the place where the back joins [the horse's body]"
+msgstr "De ster op de plaats waar de rug samenkomt [het paardenlijf]"
+
+#. Name for M 44
+msgid "The middle of the nebulous mass in the chest, called Praesepe"
+msgstr "Het midden van de nevelige massa in de borst, genaamd Praesepe"
+
+#. Name for M 44
+msgid "Nose tip of the lion"
+msgstr "Neuspunt van de leeuw"

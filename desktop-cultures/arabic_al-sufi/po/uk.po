@@ -1,0 +1,4551 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>, 2025\n"
+"Language-Team: Ukrainian (https://app.transifex.com/stellarium/teams/80998/"
+"uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != "
+"11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % "
+"100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || "
+"(n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#. Sky culture name
+msgid "Arabic (Al-Sufi)"
+msgstr "Арабська (Аль-Суфі)"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"The Book of Fixed Stars was written shortly before 964 AD. Dr. Paul "
+"Kunitzsch described it as \"the most outstanding among the works of the "
+"prominent astronomer Abu 'l-Ḥusayn 'Abd al-Raḥmān ibn 'Umar al-Şūfi (born in "
+"Rayy, 903; died 986), referred to as al-Sufi. In it, al-Şūfī treats the 48 "
+"classical constellations, which were established and transmitted in "
+"Ptolemy's Almagest. The description of each constellation comprises the "
+"following four sections: first, a general discussion of the constellation "
+"and its individual stars; this section also includes alŞūfi's criticism of "
+"the Ptolemaic tradition and notices of his own observations. Second, a "
+"record of the indigenous Arabic star names falling under that constellation, "
+"and the exact identification of the respective stars with the corresponding "
+"Ptolemaic stars. Third, two drawings of the constellation, one as it is seen "
+"on a celestial globe, and the other one as it is seen in the sky. Fourth, a "
+"table of the stars making up that constellation, giving a verbal description "
+"of each star's location and its longitude, latitude, and magnitude. This "
+"table closely follows the arrangement of Ptolemy's star catalogue in the "
+"Almagest.\" [#1]. In addition to the four sections of each constellation "
+"mentioned by dr. Kunitzsch, Al-Sufi would identify stars within the 6 "
+"magnitudes that were neglected by Ptolemy, but he did not catalogue them and "
+"was faithful to Ptolemy star catalog."
+msgstr ""
+"«Книгу нерухомих зірок» було написано незадовго до 964 р. н. е. Доктор "
+"Пауль\n"
+"Куніщ описав цю книгу як «найвидатнішу з робіт видатного астронома\n"
+"Абуль-Хусейна Абдуррахмана ібн Умара ас-Суфі (народився у Реї, 903; помер у\n"
+"Ширазі 986), якого називають аль-Суфі. У цій роботі аль-Суфі розглядає 48\n"
+"класичних сузір'їв, які було визначено і передано у «Альмагесті»\n"
+"Птолемея. Опис кожного сузір'я складається з чотирьох розділів: першого із\n"
+"загальним обговоренням сузір'я та його окремих зірок; до цього розділу "
+"також\n"
+"включено критику аль-Суфі традиції Птолемея та зауваження щодо його власних\n"
+"спостережень. Другим розділом є запис рідних арабських назв зірок сузір'я "
+"та\n"
+"точна ідентифікація цих зірок із відповідними зірками Птолемея. У третьому\n"
+"розділі наведено малюнки сузір'я — один вигляду сузір'я на небесному "
+"глобусі\n"
+"і один вигляду сузір'я на небі. Четвертий розділ містить таблицю зірок, з\n"
+"яких складається сузір'я зі словесним описом розташування кожної із зірок "
+"та\n"
+"її довготи, широти та величини. Ця таблиця дуже схожа на компонуванням на\n"
+"каталог зірок Птолемея у «Альмагесті».\" [#1]. Окрім чотирьох розділів для "
+"кожного\n"
+"сузір'я, про які згадує доктор Куніщ, аль-Суфі ідентифікує зірки за 6\n"
+"величинами, як було проігноровано Птолемеєм, але не каталогізує їх,\n"
+"довіряючи каталогу зірок Птолемея."
+
+#. Sky culture description section in markdown format
+msgid ""
+"An important aspect of the general discussion section is Al-Sufi method of "
+"facilitating the star identification. He describes each individual star in "
+"more than way: By the star position related to the constellation figure, by "
+"its magnitude, by the asterism it forms with other stars like triangle or "
+"arc shapes, sometimes by the star position related to the Milky way, and by "
+"the angular distance from a close by star. I have counted more than 700 "
+"angular distances measured by al-Sufi in his book. The units he uses for "
+"angular distances are cubits, spear length, man-height, span, and finger. Al-"
+"Sufi explicitly said in his book that a cubit is equal to two degrees and 20 "
+"minutes [#2]. For the other units, Schjellerup concluded some values, but "
+"tracking the 700 measurements, I came up with different values. The "
+"following table summarizes the units and relationship to the cubit value "
+"from Schjellerup[#3] and from my research.\n"
+"\n"
+"### Angular distance units used by Al-Sufi\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>&nbsp;</notr></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Schjellerup</b></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Khalid</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>unit</b></td>\n"
+"\t<td><b>cubits</b></td>\n"
+"\t<td><b>Angular Value</b></td>\n"
+"\t<td><b>cubits</b></td>\n"
+"\t<td><b>Angular Value</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>spear</td>\n"
+"\t<td>6 cubits</td>\n"
+"\t<td><notr>14°</notr></td>\n"
+"\t<td>6 cubits</td>\n"
+"\t<td><notr>14°</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Man-Height</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"\t<td>3 cubits</td>\n"
+"\t<td><notr>7°</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>cubit</td>\n"
+"\t<td>1 cubit</td>\n"
+"\t<td><notr>2°20'</notr></td>\n"
+"\t<td>1 cubit</td>\n"
+"\t<td><notr>2°20'</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>span</td>\n"
+"\t<td>1/3 of a cubit</td>\n"
+"\t<td><notr>47'</notr></td>\n"
+"\t<td>1/2 of a cubit</td>\n"
+"\t<td><notr>1°10'</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>finger</td>\n"
+"\t<td>1/32 of a cubit</td>\n"
+"\t<td><notr>4.4'</notr></td>\n"
+"\t<td>1/16 of a cubit</td>\n"
+"\t<td><notr>8.75'</notr></td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"Another important aspect of Al-Sufi book is his record of the indigenous "
+"Arabic star names falling under each constellation, and the exact "
+"identification of the respective stars with the corresponding Ptolemaic "
+"stars. This means that we are looking at two layers of stars knowledge at "
+"the same time: the Ptolemaic one and the indigenous Arab one.\n"
+"\n"
+"### The Sky Culture\n"
+"\n"
+"This sky culture is a result of a research done on several manuscripts of "
+"the book, oldest of which is the [#8].\n"
+"\n"
+"First, the manuscripts of the Book of Fixed Stars were critically edited, "
+"and the text was produced. Second, each member star of the 48 constellations "
+"was identified according to Al-Sufi description, and new tables were built "
+"including modern star designations from the Hipparcos, Bright stars, and "
+"Bayer catalogues. Third, Arab indigenous star names were collected and "
+"identified as mapped by Al-Sufi to the Ptolemaic ones. All the previous "
+"steps were included in a book published digitally of the Book of Fixed Stars "
+"plus explanations and commentary by Khalid Al-Ajaji[#4].\n"
+"\n"
+"The sky culture stick figures of the constellations are the images in the "
+"Ulugh Beg manuscript of the Book of Fixed Stars, extracted, and adapted for "
+"Stellarium by Mr. Kutaibaa Akraa [#5]. The star names file includes the star "
+"number in the constellation as the primary star name and the description of "
+"the star in the tables as a secondary name. For example, Polaris primary "
+"name that is displayed with the star is: UMi1, UMi being Ursa Minor and 1 is "
+"the first star of this constellation. If the star is selected other "
+"secondary names are displayed, which will display \"The star on the end of "
+"the tail\" on the top of the screen. The constellation lines are constructed "
+"according to the constellation shapes with an attempt to include most of the "
+"member stars. For indigenous Arab star knowledge, individual star names were "
+"added to the star file as secondary names, while names of group of stars "
+"were defined through asterism names and asterism lines files.\n"
+"\n"
+"The translation of star descriptions from Arabic into English was extracted "
+"from Ernie Wright website[#6] which was transcribed from Toomer's "
+"translation of the Almagest[#7]. The translation was modified in a few "
+"places to agree with Al-Sufi wording.\n"
+"\n"
+"The single source of the sky culture is the Book of Fixed Stars and the "
+"objective is to give a faithful representation of the book content."
+msgstr ""
+"Важливим аспектом розділу загального обговорення є спосіб аль-Суфі\n"
+"полегшення ідентифікації зірок. Він описує кожну зірку окремо у декілька\n"
+"способів: за розташуванням зірки відносно фігури сузір'я, за її величиною,\n"
+"за астеризмом, який вона формує разом із іншими зірками, наприклад формою\n"
+"трикутника або дуги, іноді за розташуванням зірки відносно Чумацького Шляху\n"
+"та за кутовою відстанню від близької зірки. Автор картини зоряного неба\n"
+"нарахував понад 700 кутових відстаней, які було виміряно аль-Суфі для його\n"
+"книги. Одиницями, які було ним використано для вимірювання кутових "
+"відстаней\n"
+"є лікоть, довжина списа, зріст людини, п'ядь та палець. Аль-Суфі явним "
+"чином\n"
+"пояснює у своїй книзі, що лікоть дорівнює двом градусам і 20 мінутам[#2]. "
+"Для інших одиниць міркування наведено\n"
+"Шєллерупом, але аналізуючи 700 вимірювань, автор картини зоряного неба "
+"вивів\n"
+"інші значення. У наведеній нижче таблиці вказано взаємозв'язок одиниць із\n"
+"значенням ліктя з роботи Шєллерупа[#3]\n"
+"та дослідження автора картини зоряного неба.\n"
+"\n"
+"### Одиниці кутової відстані, які використовував аль-Суфі\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td>&nbsp;</td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Шєллеруп</b></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Халід</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>одиниця</b></td>\n"
+"\t<td><b>лікті</b></td>\n"
+"\t<td><b>Значення кута</b></td>\n"
+"\t<td><b>лікті</b></td>\n"
+"\t<td><b>Значення кута</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>спис</td>\n"
+"\t<td>6 ліктів</td>\n"
+"\t<td>14°</td>\n"
+"\t<td>6 ліктів</td>\n"
+"\t<td>14°</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Зріст людини</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"\t<td>3 ліктя</td>\n"
+"\t<td>7°</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>лікоть</td>\n"
+"\t<td>1 лікоть</td>\n"
+"\t<td>2°20'</td>\n"
+"\t<td>1 лікоть</td>\n"
+"\t<td>2°20'</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>п'ядь</td>\n"
+"\t<td>1/3 ліктя</td>\n"
+"\t<td>47'</td>\n"
+"\t<td>1/2 ліктя</td>\n"
+"\t<td>1°10'</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>палець</td>\n"
+"\t<td>1/32 ліктя</td>\n"
+"\t<td>4.4'</td>\n"
+"\t<td>1/16 ліктя</td>\n"
+"\t<td>8.75'</td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"Ще одним важливим аспектом книги аль-Суфі є його записи арабських назв "
+"зірок\n"
+"під кожним сузір'ям і точна ідентифікація відповідних зірок із описаними\n"
+"Птолемеєм. Це означає, що ми маємо два шари знань про зірки водночас:\n"
+"птолемеїв та арабський.\n"
+"\n"
+"### Картина зоряного неба\n"
+"\n"
+"Ця картина зоряного неба є результатом досліджень, які виконано на основі\n"
+"аналізу декількох рукописів книги, найдавнішим з яких є [#8].\n"
+"\n"
+"Спочатку було виконано критичне редагування «Книги нерухомих зірок» зі\n"
+"створенням текстової частини. Далі, було ідентифіковано усі зірки 48\n"
+"сузір'їв, відповідно до опису аль-Суфі і побудовано нові таблиці, до яких\n"
+"включено сучасні позначення зірок з каталогів Гіппарха, каталогу яскравих\n"
+"зірок та каталогу Беєра. Потім було зібрано арабські назви зірок і\n"
+"ідентифіковано їх прив'язкою аль-Суфі до птолемеєвих. Усі попередні кроки\n"
+"було включено до опублікованої у цифровому форматі «Книги нерухомих зірок "
+"із\n"
+"поясненнями і коментарями Халіда аль-Аджаджі»[#4].\n"
+"\n"
+"Каркасні фігури сузір'їв картини зоряного неба є зображеннями із рукопису\n"
+"Улугбека «Книги нерухомих зірок», які видобуто і адаптовано до паном\n"
+"Кутайбою Акраа[#5]. До файла назв зірок\n"
+"включено номер зірки у сузір'ї як основну назву зірки та опис зірки у\n"
+"таблицях як допоміжну назву. Наприклад, основною назвою Полярної, яку\n"
+"показано поряд із зіркою, є UMi1, UMi — Ursa Minor і 1 — перша зірка\n"
+"сузір'я. Якщо зірку позначено, у верхній частині екрана буде показано\n"
+"допоміжну назву, якою є «Зірка на кінці хвоста». Лінії сузір'їв побудовано\n"
+"відповідно до форм сузір'їв зі спробую включити найбільше зірок\n"
+"сузір'я. Рідні арабські назви зірок включено як окремі назви у записах\n"
+"допоміжних назв файла назв зірок. Назви груп зірок визначено за допомогою\n"
+"назв астеризмів та файлів ліній астеризмів.\n"
+"\n"
+"Переклад описів зірок з арабської англійською мовою було видобуто із сайта\n"
+"Ерні Райта (Ernie Wright)[#6], де\n"
+"використано транскрипцію із перекладу Тумера «Альмагеста»[#7]. У декількох "
+"місцях переклад було змінено\n"
+"для узгодження зі словами, які використано аль-Суфі.\n"
+"\n"
+"Єдиним джерелом даних карти зоряного неба є «Книга нерухомих зірок», а "
+"метою\n"
+"є створення достовірного представлення вмісту книги."
+
+#. Sky culture authors section in markdown format
+msgid ""
+"This sky culture was compiled and added to Stellarium by Khalid Al-Ajaji: "
+"turath.alfalak@gmail.com"
+msgstr ""
+"Картину зоряного неба «Книги нерухомих зірок» було створено і додано до\n"
+"Stellarium Халідом Аль-Аджаджі: turath.alfalak@gmail.com"
+
+#. Sky culture references section in markdown format
+msgid ""
+" - [#1]: The Arabs and the Stars, Paul Kunitzsch,The Astronomer Abu'L-Husayn "
+"Al-Sufi And His Book On The Constellations, XI, pg 57. Northampton "
+"[England]: Variorum Reprints, 1989.\n"
+" - [#2]: See Al-Sufi description in his book of the 14th star in Auriga.\n"
+" - [#3]: DESCRIPTIONS DES ETOILES FIXES, traduction littérale avec des notes "
+"par H C F C Schjellerup, St Petersbourg, 1874, pg 26-27.\n"
+" - [#4]: [Book of Fixed Stars: Critical edition with commentary by Khalid "
+"AlAjaji](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).\n"
+" - [#5]: [Oulough Beg copy of ʿAbd al-Raḥmān ibn ʿUmar al-Ṣūfī. Kitāb ṣuwar "
+"al-kawākib al-ṯābita, Paris, Bibliothèque nationale de France Ms. Arabe 5036]"
+"(https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Seeing Ancient Stars, Visualization of the Almagest Catalog]"
+"(http://www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Ptolemy’s ALMAGEST, G. J. Toomer, Princeton University Press, 2nd "
+"ed., 1998.\n"
+" - [#8]: [Oxford, Bodleian Library Ms. Marsh 144 dated 1009 AD](https://iiif."
+"bodleian.ox.ac.uk/iiif/viewer/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?"
+"c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)"
+msgstr ""
+" - [#1]: The Arabs and the Stars, Paul Kunitzsch, The Astronomer Abu'L-"
+"Husayn Al-Sufi And His Book On The Constellations, XI, pg 57. Northampton "
+"[England]: Variorum Reprints, 1989.\n"
+" - [#2]: Див. опис аль-Суфі у його книзі 14-ї зірки у Візничому.\n"
+" - [#3]: DESCRIPTIONS DES ETOILES FIXES, traduction littérale avec des notes "
+"par H C F C Schjellerup, St Petersbourg, 1874, pg 26-27.\n"
+" - [#4]: [Книга нерухомих зірок: видання з критикою, коментарі Халіда "
+"Альаджаджі](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).\n"
+" - [#5]: [Копія Улугбека, Абдуррахман ібн Умар ас-Суфі. Kitāb ṣuwar al-"
+"kawākib al-ṯābita, Paris, Bibliothèque nationale de France Ms. Arabe 5036]"
+"(https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Погляд на давні зірки, візуалізація каталогу Альмагеста](http://"
+"www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Ptolemy’s ALMAGEST, G. J. Toomer, Princeton University Press, 2nd "
+"ed., 1998.\n"
+" - [#8]: [Oxford, Bodleian Library Ms. Marsh 144, датований 1009 р. н. е.]"
+"(https://iiif.bodleian.ox.ac.uk/iiif/viewer/c1caa84c-"
+"f6d2-483f-9eb4-2439cccdc801#?"
+"c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two oryx calves"
+msgstr "Двоє телят орикса"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The axe of the grindstone"
+msgstr "Колун жорен"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The smaller daughters of Na'sh"
+msgstr "Менші дочки Наша"
+
+#. Arabic (Al-Sufi) asterism
+#. Na'sh is a proper name meaning bier
+msgid "Daughters of Na'sh"
+msgstr "Дочки Наша"
+
+#. Arabic (Al-Sufi) asterism
+#. Na'sh is a proper name meaning bier
+msgid "The couch of daughters of Na'sh"
+msgstr "Ложе дочок Наша"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Gazelles"
+msgstr "Газелі"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Gazelles youngsters"
+msgstr "Молодняк Газелей"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The water pool"
+msgstr "Басейн з водою"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The first leap"
+msgstr "Перший стрибок"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The second leap"
+msgstr "Другий стрибок"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The third leap"
+msgstr "Третій стрибок"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The leaps - The little foxes - the couples"
+msgstr "Стрибки — Малі лисиці — пари"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two wolves - The two falcons - The two black birds"
+msgstr "Два вовки — Два соколи — Дві галки"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The wolf claws"
+msgstr "Клики вовка"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The mother camels"
+msgstr "Верблюдиці"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The three stone support (first narrative)"
+msgstr "Три кам'яні опори (перша оповідка)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The three stone support (second narrative)"
+msgstr "Три кам'яні опори (друга оповідка)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The pot"
+msgstr "Казанок"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two stars of separation"
+msgstr "Дві зірки усамітнення"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The sheep"
+msgstr "Вівця"
+
+#. Arabic (Al-Sufi) asterism
+#. Name for HIP 67927
+msgid "The spear"
+msgstr "Спис"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The front spear tassel - the weapon"
+msgstr "Передня китиця списа — зброя"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The rear spear tassel"
+msgstr "Задня китиця списа"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The hyenas and their youngsters"
+msgstr "Гієни і їхні дитинчата"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The open circle - The bowl of the poor"
+msgstr "Відкрите коло — таз бідного"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The northern line"
+msgstr "Північна лінія"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The statues"
+msgstr "Статуї"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The landing eagle "
+msgstr "Орел, що сідає"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The claws"
+msgstr "Клешні"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The knights"
+msgstr "Рицарі"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The she-camel"
+msgstr "Верблюдиця"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The henna tinted hand"
+msgstr "Пофарбована хною рука"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The forearm"
+msgstr "Передпліччя"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The arm"
+msgstr "Рука"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The shoulder"
+msgstr "Плече"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Thurayya is a proper name
+msgid "The extended arm of Al-Thurayya"
+msgstr "Витягнута рука аль-Тураї"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The northern tent"
+msgstr "Північний намет"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Ayyuq is a proper name meaning the obstructor
+msgid "The posts - The associates of Al-Ayyuq"
+msgstr "Пости — приятелі аль-Айюка"
+
+#. Arabic (Al-Sufi) asterism
+#. kid is the young male goat
+msgid "The two kids"
+msgstr "Двоє козенят"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The desert natural garden and the goats"
+msgstr "Оаза і козли"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The southern line"
+msgstr "Північна лінія"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The flying eagle"
+msgstr "Орел, що летить"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two young male ostriches"
+msgstr "Двох молодих страусів-самців"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The young camel"
+msgstr "Молодий верблюд"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The well bucket"
+msgstr "Криничний ківш"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The front bucket mouth"
+msgstr "Передній бік ковша"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The rear bucket mouth"
+msgstr "Задній бік ковша"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The well poles - The bucket rope knot"
+msgstr "Шести колодязя — Вузол на мотузці до ковша"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the young sheep"
+msgstr "Щаслива зірка ягняти"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the one with great endeavour"
+msgstr "Щаслива зірка того, хто докладає великі зусилля"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the excellent one"
+msgstr "Щаслива зірка Величного"
+
+#. Arabic (Al-Sufi) asterism
+#. Mattar is a proper name meaning rain
+msgid "The lucky star of Mattar"
+msgstr "Щаслива зірка Маттара"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The fox place"
+msgstr "Місце лисиці"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The fish"
+msgstr "Риба"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two forelegs of the lamb"
+msgstr "Дві передніх ноги ягняти"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two signs (first narrative)"
+msgstr "Два знаки (перша оповідка)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two signs (second narrative)"
+msgstr "Два знаки (друга оповідка)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The signs (first narrative)"
+msgstr "Знаки (перша оповідка)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The signs (second narrative)"
+msgstr "Знаки (друга оповідка)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The little abdomen"
+msgstr "Маленьке черевце"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Thurayya is a proper name referring to the Pleiades
+#. Name for M 45
+msgid "Al-Thurayya"
+msgstr "Аль-Турая"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The young she-camels"
+msgstr "Молоді верблюдиці"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Dabaran is a proper name meaning the follower
+msgid "The two dogs of Al-Dabaran"
+msgstr "Двоє собак Аль-Дабарана"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The extended arm [of the lion]"
+msgstr "Витягнута лапа [лева]"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The downward bend (first narrative)"
+msgstr "Вигин вниз (перша оповідка)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The downward bend (second narrative)"
+msgstr "Вигин вниз (друга оповідка)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The stars of rain (first narrative)"
+msgstr "Зірки дощу (перша оповідка)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Stars of rain (second narrative)"
+msgstr "Зірки дощу (друга оповідка)"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Jawza is a proper name
+msgid "Bow of Al-Jawza"
+msgstr "Лук аль-Джози"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Nostrils [of the lion]"
+msgstr "Ніздрі [лева]"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Mouth of the lion"
+msgstr "Паща лева"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The eyes [of the lion]"
+msgstr "Очі [лева]"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Northern eyelashes roots"
+msgstr "Північні корені вій"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Southern eyelashes roots"
+msgstr "Південні корені вій"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Forehead [of the lion]"
+msgstr "Чоло [лева]"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Mane of the lion"
+msgstr "Грива лева"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The bend"
+msgstr "Вигин"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The tassel"
+msgstr "Китиця"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Claws of the scorpion"
+msgstr "Клешні Скорпіона"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The diadem (according to Al-Sufi)"
+msgstr "Діадема (за аль-Суфі)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The diadem (as narrated by Arabs)"
+msgstr "Діадема (за арабськими переказами)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Veins of the heart"
+msgstr "Вени серця"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Tail segments of the scorpion"
+msgstr "Сегменти хвоста скорпіона"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Raised Tail of the Scorpion - the sting"
+msgstr "Піднятий хвіст скорпіона — Жало"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Ostriches drinking at the river"
+msgstr "Страуси, які п'ють з річки"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Ostriches leaving the river"
+msgstr "Страуси полишають ріку"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two male ostriches"
+msgstr "Двоє страусів-самців"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The link"
+msgstr "Зв'язок"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Ostrich nest - The necklace"
+msgstr "Гніздо страусів — Намисто"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The empty place"
+msgstr "Порожнє місце"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two shrikes"
+msgstr "Двоє сорокопудів"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the slaughterer"
+msgstr "Щаслива зірка Вбивці"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of Nashira"
+msgstr "Щаслива зірка Нашира"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the king"
+msgstr "Щаслива зірка короля"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The luckiest of the lucky stars"
+msgstr "Найщасливіша зі щасливих зірок"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the swallower"
+msgstr "Щаслива зірка ковтальника"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the tents"
+msgstr "Щаслива зірка наметів"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The ringed rope"
+msgstr "Змотана у кільця мотузка"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The short hand"
+msgstr "Коротка рука"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The ostriches"
+msgstr "Страуси"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The circular mark"
+msgstr "Кругова позначка"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Jawza is a proper name
+msgid "The backbone of Al-Jawza - The belt of Al-Jawza - The string"
+msgstr "Хребет аль-Джози — Пояс аль-Джози — Струна"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Sword of Orion - The facial line tattoo"
+msgstr "Меч Оріона — Лінійне татуювання на обличчі"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Jawza is a proper name
+msgid "Hair braids of Al-Jawza - Crown of Al-Jawza"
+msgstr "Пасма волосся аль-Джози — корона аль-Джози"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Jawza is a proper name
+msgid "The front footstool of Al-Jawza"
+msgstr "Передній ослінчик під ногами аль-Джози"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The ostriches nest"
+msgstr "Гніздо страусів"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Eggs and egg shells"
+msgstr "Яйця та шкаралупи яєць"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The young ostriches"
+msgstr "Молоді страуси"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The camels that quenched their thirst - The rear footstool of Al-Jawza"
+msgstr "Верблюди, які тамують спрагу — Задній ослінчик під ногами аль-Джози"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The virgins"
+msgstr "Діви"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The ravens - The monkeys"
+msgstr "Ворони — Мавпи"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Retracted arm of the lion"
+msgstr "Витягнута лапа лева"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The tied camels"
+msgstr "Зв'язані верблюди"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The horses and the foals"
+msgstr "Коні і лошата"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The trough"
+msgstr "Годівниця"
+
+#. Arabic (Al-Sufi) asterism
+msgid ""
+"The southern tent - The throne of the armless high one - The camels - The "
+"lion buttock"
+msgstr "Південний намет — Трон Безрукого правителя — Верблюди — Зад лева"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The date clusters"
+msgstr "Скупчення дат"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The oath stars"
+msgstr "Зірки клятви"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The domed tent - The ostriches nest"
+msgstr "Намет із куполом — Гніздо страусів"
+
+#. Arabic (Al-Sufi) constellation, native: الدب الأصغر
+msgid "Ursa Minor"
+msgstr "Мала Ведмедиця"
+
+#. Arabic (Al-Sufi) constellation, native: الدب الأكبر
+msgid "Ursa Major"
+msgstr "Велика Ведмедиця"
+
+#. Arabic (Al-Sufi) constellation, native: التنين
+msgid "Draco"
+msgstr "Дракон"
+
+#. Arabic (Al-Sufi) constellation, native: قيقاوس
+msgid "Cepheus"
+msgstr "Цефей"
+
+#. Arabic (Al-Sufi) constellation, native: العواء
+msgid "Bootes"
+msgstr "Волопас"
+
+#. Arabic (Al-Sufi) constellation, native: الإكليل الشمالي
+msgid "Corona Borealis"
+msgstr "Північна Корона"
+
+#. Arabic (Al-Sufi) constellation, native: الجاثي
+msgid "Hercules"
+msgstr "Геркулес"
+
+#. Arabic (Al-Sufi) constellation, native: اللورا
+msgid "Lyra"
+msgstr "Ліра"
+
+#. Arabic (Al-Sufi) constellation, native: الطائر
+msgid "Cygnus"
+msgstr "Лебідь"
+
+#. Arabic (Al-Sufi) constellation, native: ذات الكرسي
+msgid "Cassiopeia"
+msgstr "Кассіопея"
+
+#. Arabic (Al-Sufi) constellation, native: برشاوش
+msgid "Perseus"
+msgstr "Персей"
+
+#. Arabic (Al-Sufi) constellation, native: ممسك الأعنة
+msgid "Auriga"
+msgstr "Візничий"
+
+#. Arabic (Al-Sufi) constellation, native: الحواء
+msgid "Ophiuchus"
+msgstr "Змієносець"
+
+#. Arabic (Al-Sufi) constellation, native: الحية
+msgid "Serpens"
+msgstr "Змія"
+
+#. Arabic (Al-Sufi) constellation, native: السهم
+msgid "Sagitta"
+msgstr "Стріла"
+
+#. Arabic (Al-Sufi) constellation, native: العقاب
+msgid "Aquila"
+msgstr "Орел"
+
+#. Arabic (Al-Sufi) constellation, native: الدلفين
+msgid "Delphinus"
+msgstr "Дельфін"
+
+#. Arabic (Al-Sufi) constellation, native: قطعة الفرس
+msgid "Equuleus"
+msgstr "Малий Кінь"
+
+#. Arabic (Al-Sufi) constellation, native: الفرس
+msgid "Pegasus"
+msgstr "Пегас"
+
+#. Arabic (Al-Sufi) constellation, native: المسلسلة
+msgid "Andromeda"
+msgstr "Андромеда"
+
+#. Arabic (Al-Sufi) constellation, native: المثلث
+msgid "Triangulum"
+msgstr "Трикутник"
+
+#. Arabic (Al-Sufi) constellation, native: الحمل
+msgid "Aries"
+msgstr "Овен"
+
+#. Arabic (Al-Sufi) constellation, native: الثور
+msgid "Taurus"
+msgstr "Телець"
+
+#. Arabic (Al-Sufi) constellation, native: التوأمان
+msgid "Gemini"
+msgstr "Близнюки"
+
+#. Arabic (Al-Sufi) constellation, native: السرطان
+msgid "Cancer"
+msgstr "Рак"
+
+#. Arabic (Al-Sufi) constellation, native: الأسد
+msgid "Leo"
+msgstr "Лев"
+
+#. Arabic (Al-Sufi) constellation, native: العذراء
+msgid "Virgo"
+msgstr "Діва"
+
+#. Arabic (Al-Sufi) constellation, native: الميزان
+msgid "Libra"
+msgstr "Терези"
+
+#. Arabic (Al-Sufi) constellation, native: العقرب
+msgid "Scorpius"
+msgstr "Скорпіон"
+
+#. Arabic (Al-Sufi) constellation, native: الرامي
+msgid "Sagittarius"
+msgstr "Стрілець"
+
+#. Arabic (Al-Sufi) constellation, native: الجدي
+msgid "Capricornus"
+msgstr "Козоріг"
+
+#. Arabic (Al-Sufi) constellation, native: ساكب الماء
+msgid "Aquarius"
+msgstr "Водолій"
+
+#. Arabic (Al-Sufi) constellation, native: السمكتان
+msgid "Pisces"
+msgstr "Риби"
+
+#. Arabic (Al-Sufi) constellation, native: قيطس
+msgid "Cetus"
+msgstr "Левіафан"
+
+#. Arabic (Al-Sufi) constellation, native: الجبار
+msgid "Orion"
+msgstr "Оріон"
+
+#. Arabic (Al-Sufi) constellation, native: النهر
+msgid "Eridanus"
+msgstr "Ерідан"
+
+#. Arabic (Al-Sufi) constellation, native: الأرنب
+msgid "Lepus"
+msgstr "Заєць"
+
+#. Arabic (Al-Sufi) constellation, native: الكلب الأكبر
+msgid "Canis Major"
+msgstr "Великий Пес"
+
+#. Arabic (Al-Sufi) constellation, native: الكلب الأصغر
+msgid "Canis Minor"
+msgstr "Малий Пес"
+
+#. Arabic (Al-Sufi) constellation, native: السفينة
+msgid "Argo Navis"
+msgstr "Корабель «Арго»"
+
+#. Arabic (Al-Sufi) constellation, native: الشجاع
+msgid "Hydra"
+msgstr "Гідра"
+
+#. Arabic (Al-Sufi) constellation, native: الباطية
+msgid "Crater"
+msgstr "Чаша"
+
+#. Arabic (Al-Sufi) constellation, native: الغراب
+msgid "Corvus"
+msgstr "Ворон"
+
+#. Arabic (Al-Sufi) constellation, native: قنطورس
+msgid "Centaurus"
+msgstr "Кентавр"
+
+#. Arabic (Al-Sufi) constellation, native: السبع
+msgid "Lupus"
+msgstr "Вовк"
+
+#. Arabic (Al-Sufi) constellation, native: المجمرة
+msgid "Ara"
+msgstr "Ara"
+
+#. Arabic (Al-Sufi) constellation, native: الإكليل الجنوبي
+msgid "Corona Australis"
+msgstr "Південна Корона"
+
+#. Arabic (Al-Sufi) constellation, native: الحوت الجنوبي
+msgid "Piscis Austrinus"
+msgstr "Південна Риба"
+
+#. Arabic (Al-Sufi) constellation, native: فرس الصوفي
+msgid "The Horse"
+msgstr "Кінь"
+
+#. Arabic (Al-Sufi) constellation, native: الحوت العظيم
+msgid "The great fish"
+msgstr "Велика риба"
+
+#. Arabic (Al-Sufi) constellation, native: الحوت الآخر
+msgid "The other fish"
+msgstr "Інша риба"
+
+#. Name for HIP 11767
+#. The Kid (Baby male goat) is the name of Polaris in Arabic.
+msgid "The star on the end of the tail: it is the Kid"
+msgstr "Зірка наприкінці хвоста: Дитя"
+
+#. Name for HIP 85822
+msgid "The one next to it on the tail"
+msgstr "Зірка поряд із нею у хвості"
+
+#. Name for HIP 82080
+msgid "The one next to that, before the place where the tail joins [the body]"
+msgstr "Зірка поряд, до місця, де хвіст з'єднується [з тілом]"
+
+#. Name for HIP 77055
+msgid "The southernmost of the stars in the advance side of the rectangle"
+msgstr "Найпівденніша з зірок на передній стороні прямокутника"
+
+#. Name for HIP 79822
+msgid "The northernmost of [those in] the same side"
+msgstr "Найпівнічніша з [тих, які] того самого боку"
+
+#. Name for HIP 72607
+msgid "The southern star in the rear side: The brighter of the two calves"
+msgstr "Південна зірка на задньому боці: яскравіший з двох жереб'ят"
+
+#. Name for HIP 75097
+msgid "The northern one in the same side: The dimmer of the two calves"
+msgstr "Північна зірка на тому самому боці: тьмяніший з двох жереб'ят"
+
+#. Name for HIP 70692
+msgid ""
+"The star lying on a straight line with the stars in the rear side [of the "
+"rectangle] and south of them"
+msgstr ""
+"Зірка лежить на прямій ліній із зірками на задньому боці [прямокутника] і "
+"півдні від них"
+
+#. Name for HIP 41704
+msgid "The star on the end of the snout"
+msgstr "Зірка на кінчику рила"
+
+#. Name for HIP 42080
+msgid "The more advanced of the stars in the two eyes"
+msgstr "Передніша з зірок у двох очах"
+
+#. Name for HIP 2548
+msgid "The one to the rear"
+msgstr "Зірка ззаду"
+
+#. Name for HIP 44390
+msgid "The more advanced of the two stars in the forehead"
+msgstr "Передніша з двох зірок на лобі"
+
+#. Name for HIP 46977
+msgid "The star on the tip of the advance ear"
+msgstr "Зірка на кінчику переднього вуха"
+
+#. Name for HIP 45075
+msgid "The more advanced of the two stars in the neck"
+msgstr "Передніша з двох зірок на шиї"
+
+#. Name for HIP 46733
+msgid ""
+"The one to the rear, there is an error in either the longitude or latitude"
+msgstr "Зірка ззаду, помилка у довготі або широті"
+
+#. Name for HIP 48319
+msgid "The northernmost of the two stars in the chest"
+msgstr "Найпівнічніша з двох зірок у грудях"
+
+#. Name for HIP 1170
+msgid "The southernmost of them"
+msgstr "Найпівденніша з них"
+
+#. Name for HIP 18532
+msgid "The star on the left knee"
+msgstr "Зірка на лівому коліні"
+
+#. Name for HIP 44127
+msgid ""
+"The northernmost of the [two] in the front left paw: Leap [of the gazelle]"
+msgstr "Найпівнічніша з [двох] у передній лівій лапі: Стрибок [газелі]"
+
+#. Name for HIP 44471
+msgid "The southernmost of them: Leap [of the gazelle]"
+msgstr "Найпівденніша з них: Стрибок [газелі]"
+
+#. Name for HIP 45493
+msgid "The star above the right knee"
+msgstr "Зірка над правим коліном"
+
+#. Name for HIP 44901
+msgid "The star below the right knee"
+msgstr "Зірка під правим коліном"
+
+#. Name for HIP 54061
+msgid "The stars in the quadrilateral: the one on the back"
+msgstr "Зірки у чотирикутнику: задня"
+
+#. Name for HIP 53910
+msgid "The one on the pelvis"
+msgstr "Зірка на тазі"
+
+#. Name for HIP 59774
+msgid "The one on the place where the tail joins [the body]"
+msgstr "Зірка на місці, де хвіст з'єднується [з тілом]"
+
+#. Name for HIP 58001
+msgid "The remaining one, on the left hind thigh"
+msgstr "Остання, на лівому задньому стегні"
+
+#. Name for HIP 50372
+msgid "The more advanced of the [two stars] in the left hind paw"
+msgstr "Передніша з [двох зірок] на лівій задній лапі"
+
+#. Name for HIP 50801
+msgid "The one to the rear of it"
+msgstr "Зірка ззаду від неї"
+
+#. Name for HIP 54539
+msgid "The star on the left knee-bend"
+msgstr "Зірка на лівому зігнутому коліні"
+
+#. Name for HIP 55219
+msgid "The northernmost of the [two stars] in the right hind paw"
+msgstr "Найпівнічніша з [двох зірок] на правій задній лапі"
+
+#. Name for HIP 62956
+msgid ""
+"The first of the three stars on the tail next to the place where it joins "
+"[the body]"
+msgstr ""
+"Перша з трьох зірок у хвості поряд із місцем, де він з'єднується [із тілом]"
+
+#. Name for HIP 17797
+msgid "The middle one"
+msgstr "Середня зірка"
+
+#. Name for HIP 67301
+msgid "The third, on the end of the tail"
+msgstr "Третя, на кінці хвоста"
+
+#. Name for HIP 63125
+msgid "The star under the tail, at some distance towards the south"
+msgstr "Зірка під хвостом, на певній відстані на південь"
+
+#. Name for HIP 61317
+msgid "The rather fainter star in advance of it"
+msgstr "Доволі тьмяніша зірка попереду від неї"
+
+#. Name for HIP 45860
+msgid ""
+"The southernmost of the [two] stars between the front legs of Ursa [Major] "
+"and the head of Leo"
+msgstr ""
+"Найпівденніша з [двох] зірок між передніми лапами [Великої] Ведмедиці і "
+"головою Лева"
+
+#. Name for HIP 45688
+msgid "The one north of it"
+msgstr "Зірка на північ від неї"
+
+#. Name for HIP 44700
+msgid "The rearmost of the remaining three faint stars"
+msgstr "Найзадніша із решти трьох тьмяних зірок"
+
+#. Name for HIP 14293
+msgid "The one in advance of this"
+msgstr "Зірка на продовженні цього"
+
+#. Name for HIP 43531
+msgid "The one in advance again of the latter"
+msgstr "Зірка ще далі на продовженні від останньої"
+
+#. Name for HIP 41075
+msgid "The star between the front legs [of Ursa Major] and Gemini"
+msgstr "Зірка між передніми лапами [Великої Ведмедиці] і Близнюками"
+
+#. Name for HIP 62956
+msgid "The dark camel"
+msgstr "Темний верблюд"
+
+#. Name for HIP 62956
+msgid "The Oryx"
+msgstr "Орикс"
+
+#. Name for HIP 65378
+msgid "The little goat"
+msgstr "Малий козел"
+
+#. Name for HIP 67301
+msgid "The leader"
+msgstr "Лідер"
+
+#. Name for HIP 63125
+msgid "Liver of the lion"
+msgstr "Печінка лева"
+
+#. Name for HIP 65477
+#. Proper name
+msgid "Al-Suha"
+msgstr "Аль-Суха"
+
+#. Name for HIP 65477
+#. Proper name
+msgid "Al-Suta"
+msgstr "Аль-Сута"
+
+#. Name for HIP 65477
+#. Proper name
+msgid "Al-Saydaq"
+msgstr "Аль-Сайдак"
+
+#. Name for HIP 65477
+#. Proper name
+msgid "Nua'ish"
+msgstr "Нуаїш"
+
+#. Name for HIP 83608
+msgid "The star on the tongue"
+msgstr "Зірка на язиці"
+
+#. Name for HIP 85819
+msgid "The star in the mouth"
+msgstr "Зірка у роті"
+
+#. Name for HIP 85670
+msgid "The star above the eye"
+msgstr "Зірка над оком"
+
+#. Name for HIP 87585
+msgid "The star on the chin"
+msgstr "Зірка на підборідді"
+
+#. Name for HIP 87833
+msgid "The star above the head"
+msgstr "Зірка над головою"
+
+#. Name for HIP 90156
+msgid ""
+"The northernmost of the three stars in a straight line in the first bend of "
+"the neck"
+msgstr "Найпівнічніша з трьох зірок на прямій лінії на першому згині шиї"
+
+#. Name for HIP 47908
+msgid "The southernmost of these"
+msgstr "Найпівденніша з цих"
+
+#. Name for HIP 92512
+msgid ""
+"The star to the rear of the latter and due east of the quadrilateral in the "
+"next bend after the latter"
+msgstr ""
+"Зірка ззаду від останньої і прямо на схід від чотирикутника у наступному "
+"вигині після останньої"
+
+#. Name for HIP 95081
+msgid "The southern star of the [two] forming the advance side"
+msgstr "Південна зірка з [двох], що формують передній бік"
+
+#. Name for HIP 94376
+msgid "The more northerly star of the advance side"
+msgstr "Північніша зірка переднього боку"
+
+#. Name for HIP 97433
+msgid "The northern star of the rear side [of the quadrilateral]"
+msgstr "Північна зірка заднього боку [чотирикутника]"
+
+#. Name for HIP 98702
+msgid "The southern star of the rear side"
+msgstr "Південна зірка на задньому боці"
+
+#. Name for HIP 96100
+msgid "The southern star of [those forming] the triangle in the next bend"
+msgstr "Південна зірка [з тих, що формують] трикутник у наступному вигині"
+
+#. Name for HIP 92782
+msgid "The more advanced of the other two stars of the triangle"
+msgstr "Передніша з інших двох зірок трикутника"
+
+#. Name for HIP 86614
+msgid ""
+"The rearmost of the three stars in the next triangle, which is in advance "
+"[of the last]"
+msgstr ""
+"Найзадніша з трьох зірок у наступному трикутнику, який є попереду [від "
+"останнього]"
+
+#. Name for HIP 89937
+msgid "The southernmost of the other two forming the triangle"
+msgstr "Найпівденніша з інших двох, які формують трикутник"
+
+#. Name for HIP 910
+msgid "The northernmost of the other two"
+msgstr "Найпівнічніша з інших двох"
+
+#. Name for HIP 85805
+msgid "The rearmost of the two small stars to the west of the triangle"
+msgstr "Найзадніша з двох малих зірок на захід від трикутника"
+
+#. Name for HIP 86201
+msgid "The one in advance"
+msgstr "Зірка попереду"
+
+#. Name for HIP 81660
+msgid "The southernmost of the next three stars in a straight line"
+msgstr "Найпівденніша з наступних трьох зірок на прямій лінії"
+
+#. Name for HIP 1686
+msgid "The middle one of the three"
+msgstr "Середня зірка з трьох"
+
+#. Name for HIP 1366
+msgid "The northernmost of them"
+msgstr "Найпівнічніша з них"
+
+#. Name for HIP 80331
+msgid "The northernmost of the next two to the west"
+msgstr "Найпівнічніша з наступних двох на захід"
+
+#. Name for HIP 75458
+msgid "The star to the west of these, in the bend by the tail"
+msgstr "Зірка на захід від цих, у вигині хвоста"
+
+#. Name for HIP 67627
+msgid "The advance star of the two quite some distance from the latter"
+msgstr "Передня зірка з двох на певній відстані від останньої"
+
+#. Name for HIP 68756
+msgid "The rear star of these [two]"
+msgstr "Задня зірка з цих [двох]"
+
+#. Name for HIP 61281
+msgid "The star close by these, by the tail"
+msgstr "Зірка поблизу від цих, за хвостом"
+
+#. Name for HIP 56211
+msgid "The remaining star, on the tip of the tail"
+msgstr "Остання зірка, на кінчику хвоста"
+
+#. Name for HIP 83608
+msgid "The trotting camel"
+msgstr "Верблюд, що біжить риссю"
+
+#. Name for HIP 86782
+msgid "The baby camel"
+msgstr "Верблюжа"
+
+#. Name for HIP 75458
+msgid "The male hyena"
+msgstr "Самець гієни"
+
+#. Name for HIP 99255
+msgid "The star on the right leg"
+msgstr "Зірка на правій нозі"
+
+#. Name for HIP 116727
+msgid "The one on the left leg"
+msgstr "Зірка на лівій нозі"
+
+#. Name for HIP 106032
+msgid "The star under the belt on the right side"
+msgstr "Зірка під поясом на правому боці"
+
+#. Name for HIP 105199
+msgid "The star over the right shoulder, which touches it"
+msgstr "Зірка під правим плечем, яке торкається її"
+
+#. Name for HIP 102422
+msgid "The star over the right elbow, which touches it"
+msgstr "Зірка під правим ліктем, яке торкається її"
+
+#. Name for HIP 101093
+msgid "The one under that elbow"
+msgstr "Зірка під тим ліктем"
+
+#. Name for HIP 18724
+msgid "The star in the chest"
+msgstr "Зірка у грудях"
+
+#. Name for HIP 112724
+msgid "The star on the left arm"
+msgstr "Зірка на лівій руці"
+
+#. Name for HIP 109857
+msgid "The southernmost of the three stars on the hat"
+msgstr "Найпівденніша з трьох зірок на капелюсі"
+
+#. Name for HIP 3881
+msgid "The northernmost of the three"
+msgstr "Найпівнічніша з трьох"
+
+#. Name for HIP 107259
+msgid "The one in advance of the stars on the head"
+msgstr "Зірка спереду від зірок у голові"
+
+#. Name for HIP 110991
+msgid "The one to the rear of them"
+msgstr "Зірка ззаду від них"
+
+#. Name for HIP 116727
+msgid "The [northern] Shepherd"
+msgstr "[Північний] Пастух"
+
+#. Name for HIP 111056
+msgid "The [northern] Shepherd dog"
+msgstr "Собака [Північного] Пастуха"
+
+#. Name for HIP 108917
+msgid "The horse forehead star"
+msgstr "Зірка у лобі коня"
+
+#. Name for HIP 69483
+msgid "The most advanced of the three in the left arm"
+msgstr "Передніша з трьох зірок у лівій руці"
+
+#. Name for HIP 69713
+msgid "The middle and southernmost of the three"
+msgstr "Середня і найпівденніша з трьох"
+
+#. Name for HIP 5454
+msgid "The rearmost of the three"
+msgstr "Найзадніша з трьох"
+
+#. Name for HIP 4463
+msgid "The star on the left elbow"
+msgstr "Зірка на лівому лікті"
+
+#. Name for HIP 12777
+msgid "The star on the left shoulder"
+msgstr "Зірка на лівому плечі"
+
+#. Name for HIP 2920
+msgid "The star on the head"
+msgstr "Зірка у голові"
+
+#. Name for HIP 14328
+msgid "The star on the right shoulder"
+msgstr "Зірка на правому плечі"
+
+#. Name for HIP 75411
+msgid "The one to the north of these, on the staff"
+msgstr "Зірка на північ від цих, на палиці"
+
+#. Name for HIP 75973
+msgid ""
+"The one farther to the north again of this, on the tip of the staff, and it "
+"is a common star [with Hercules]"
+msgstr ""
+"Зірка далі на північ знову від цієї, на кінці палиці а це спільна зірка [із "
+"Геркулесом]"
+
+#. Name for HIP 75312
+msgid "The northernmost of the two stars below the shoulder, in the club"
+msgstr "Найпівнічніша з двох зірок під плечем, на палиці"
+
+#. Name for HIP 73996
+msgid "The star on the end of the right arm"
+msgstr "Зірка на кінці правої руки"
+
+#. Name for HIP 73745
+msgid "The more advanced of the two stars in the wrist"
+msgstr "Передніша з двох зірок на зап'ястку"
+
+#. Name for HIP 145
+msgid "The rearmost of them"
+msgstr "Найзадніша з них"
+
+#. Name for HIP 73568
+msgid "The star on the end of the handle of the staff"
+msgstr "Зірка на кінці ручки палиці"
+
+#. Name for HIP 72105
+msgid ""
+"The star on the belt which Ptolemy claims that it is on the right thigh, in "
+"the apron"
+msgstr "Зірка на поясі, яку Птолемей називає частиною правого стегна, на плащі"
+
+#. Name for HIP 71284
+msgid "The rearmost of the two stars in the belt"
+msgstr "Найзадніша з двох зірок на поясі"
+
+#. Name for HIP 5364
+msgid "The more advanced of them"
+msgstr "Передня з них"
+
+#. Name for HIP 71795
+msgid "The star on the right heel"
+msgstr "Зірка на правій п'ятці"
+
+#. Name for HIP 67927
+msgid "The northernmost of the three stars in the left leg"
+msgstr "Найпівнічніша з трьох зірок на лівій нозі"
+
+#. Name for HIP 69673
+msgid "The star between the thighs, called 'The high one with the spear'"
+msgstr "Зірка між стегнами, яку називають «Стегно зі списом»"
+
+#. Name for HIP 69673
+msgid "The guard of the sky"
+msgstr "Захисник неба"
+
+#. Name for HIP 69673
+msgid "The guard of the north"
+msgstr "Захисник півночі"
+
+#. Name for HIP 69673
+msgid "Leg of the lion"
+msgstr "Лапа лева"
+
+#. Name for HIP 72105
+msgid "Associate of the high one"
+msgstr "Супутники правителя"
+
+#. Name for HIP 72105
+msgid "Flag of the high one"
+msgstr "Прапор правителя"
+
+#. Name for HIP 72105
+#. Al-Fakkah is a proper name meaning incomplete circle referring to Corona Borealis
+msgid "Flag of Al-Fakkah"
+msgstr "Прапор аль-Факка"
+
+#. Name for HIP 76267
+msgid "The bright star in the crown"
+msgstr "Яскрава зірка у короні"
+
+#. Name for HIP 75695
+msgid "The star in advance of it"
+msgstr "Зірка перед нею"
+
+#. Name for HIP 76127
+msgid "The one above this and due north"
+msgstr "Зірка над цією і прямо на північ"
+
+#. Name for HIP 30277
+msgid "The one north again of this"
+msgstr "Зірка знову на північ від цієї"
+
+#. Name for HIP 76952
+msgid ""
+"The one to the rear of the bright star in the other half circle from the "
+"south"
+msgstr "Зірка позаду від яскравої зірки на іншій половині кола з півдня"
+
+#. Name for HIP 77512
+msgid ""
+"The one to the rear again of the latter, and it is a little more to the north"
+msgstr "Зірка знову ззаду від останньої, її розташовано трохи північніше"
+
+#. Name for HIP 78159
+msgid "The one to the rear again of these, and again it is more to the north"
+msgstr "Зірка знову ззаду від цих, і знову її розташовано ще трохи північніше"
+
+#. Name for HIP 78493
+msgid "The star at the end of the opening of this half circle"
+msgstr "Зірка на кінці початку цього пів кола"
+
+#. Name for HIP 76267
+#. Al-Fakkah is a proper name meaning incomplete circle referring to Corona Borealis
+msgid "The bright star of Al-Fakkah"
+msgstr "Яскрава зірка аль-Факка"
+
+#. Name for HIP 80816
+msgid "The star on the right shoulder by the armpit"
+msgstr "Зірка на правому плечі поряд із пахвою"
+
+#. Name for HIP 68862
+msgid "The star on the right upper arm"
+msgstr "Зірка на правій верхній частині руки"
+
+#. Name for HIP 13268
+msgid "The star on the right elbow"
+msgstr "Зірка на правому лікті"
+
+#. Name for HIP 3693
+msgid "The star on the left upper arm"
+msgstr "Зірка на верхній частині лівої руки"
+
+#. Name for HIP 88794
+msgid "The rearmost of the three stars in the left wrist"
+msgstr "Найзадніша з трьох зірок на лівому зап'ястку"
+
+#. Name for HIP 81693
+msgid "The star in the right side"
+msgstr "Зірка на правому боці"
+
+#. Name for HIP 83207
+msgid "The star in the left side"
+msgstr "Зірка на лівому боці"
+
+#. Name for HIP 83313
+msgid "The one north of the latter, on the left buttock"
+msgstr "Зірка на північ від останньої на лівій сідниці"
+
+#. Name for HIP 83838
+msgid "The one on the place where the thigh joins the same [buttock]"
+msgstr "Зірка на місці, де стегно з'єднується із відповідною [сідницею]"
+
+#. Name for HIP 84380
+msgid "The most advanced of the three in the left thigh"
+msgstr "Передніша з трьох зірок на лівому стегні"
+
+#. Name for HIP 13288
+msgid "The one to the rear of this"
+msgstr "Зірка позаду цієї"
+
+#. Name for HIP 85112
+msgid "The one yet further to the rear of this"
+msgstr "Зірка далі позаду від цієї"
+
+#. Name for HIP 86414
+msgid "The star on the left shin on the ankle place"
+msgstr "Зірка на лівій гомілці на місці кісточки"
+
+#. Name for HIP 87212
+msgid "The most advanced of the three stars in the left foot"
+msgstr "Передніша з трьох зірок на лівій ступні"
+
+#. Name for HIP 81833
+msgid "The star on the place where the right thigh joins [the buttock]"
+msgstr "Зірка на місці, де праве стегно з'єднується із відповідною [сідницею]"
+
+#. Name for HIP 81126
+msgid "The star north of it in the same thigh"
+msgstr "Зірка на північ від неї на тому самому стегні"
+
+#. Name for HIP 5434
+msgid "The star on the right knee"
+msgstr "Зірка на правому коліні"
+
+#. Name for HIP 79101
+msgid "The southernmost of the two stars under the right knee"
+msgstr "Найпівденніша з двох зірок під правим коліном"
+
+#. Name for HIP 77760
+msgid "The star in the right lower leg"
+msgstr "Зірка на нижній частині правої ноги"
+
+#. Name for HIP 75973
+msgid ""
+"The star on the end of the right leg is the same as the ninth star of Bootes "
+"on the tip of the staff, shared by the two constellations"
+msgstr ""
+"Зірка на кінці правої ноги та сама, що і дев'ята зірка Волопаса на кінці "
+"палиці, є спільною для двох сузір'їв"
+
+#. Name for HIP 80463
+msgid "The star south of the one in the right upper arm"
+msgstr "Зірка південніше від зірки у верхній частині правої руки"
+
+#. Name for HIP 84345
+msgid "First dog of [southern] shepherd"
+msgstr "Перша собака [південного] пастуха"
+
+#. Name for HIP 86414
+msgid "The line"
+msgstr "Лінія"
+
+#. Name for HIP 91262
+msgid ""
+"The bright star on the carrying cloth, called Lyra, and it is the landing "
+"eagle"
+msgstr "Яскрава зірка на полотні, яку називають «Ліра», і це орел, що сідає"
+
+#. Name for HIP 91919
+msgid "The northernmost of the two stars lying near the latter, close together"
+msgstr ""
+"Найпівнічніша з двох зірок, які розташовано поряд із останньою, близько одна "
+"від одної"
+
+#. Name for HIP 92791
+msgid ""
+"The one to the rear of these, in between the points where the horns [of the "
+"lyre] are attached"
+msgstr "Зірка позаду від цих, між точками з'єднання рогів [ліри] із основою"
+
+#. Name for HIP 94481
+msgid ""
+"The northernmost of the two stars close together in the region to the east "
+"of the cloth"
+msgstr "Найпівнічніша з двох близьких зірок у області на схід від полотна"
+
+#. Name for HIP 92420
+msgid "The northernmost of the two advance stars in the crossbar"
+msgstr "Найпівнічніша з двох передніх зірок на перехресті"
+
+#. Name for HIP 93194
+msgid "The northernmost of the two rear stars in the crossbar"
+msgstr "Найпівнічніша з двох задніх зірок на перехресті"
+
+#. Name for HIP 95947
+msgid "The star on the beak"
+msgstr "Зірка на дзьобі"
+
+#. Name for HIP 96683
+msgid "The one to the rear of this, on the head"
+msgstr "Зірка позаду від цієї, на голові"
+
+#. Name for HIP 98110
+msgid "The star in the middle of the neck"
+msgstr "Зірка посередині шиї"
+
+#. Name for HIP 3179
+msgid "The star in the breast"
+msgstr "Зірка на грудях"
+
+#. Name for HIP 102098
+msgid "The bright star in the tail"
+msgstr "Яскрава зірка на хвості"
+
+#. Name for HIP 97165
+msgid "The star in the bend of the right wing"
+msgstr "Зірка на вигині правого крила"
+
+#. Name for HIP 96441
+msgid "The southernmost of the three in the right wing-feathers"
+msgstr "Найпівденніша з трьох на пір'ї правого крила"
+
+#. Name for HIP 94779
+msgid "The northernmost of them, on the tip of the wing-feathers"
+msgstr "Найпівнічніша з них, на кінці пір'я крила"
+
+#. Name for HIP 102488
+msgid "The star on the bend of the left wing"
+msgstr "Зірка на вигині лівого крила"
+
+#. Name for HIP 102589
+msgid "The star north of this, in the middle of the same wing"
+msgstr "Зірка на північ від цієї, на середині того самого крила"
+
+#. Name for HIP 104732
+msgid "The star in the tip of the feathers of the left wing"
+msgstr "Зірка на кінчику пір'я лівого крила"
+
+#. Name for HIP 103413
+msgid "The star on the left leg"
+msgstr "Зірка на лівій нозі"
+
+#. Name for HIP 99675
+msgid "The more advanced of the two stars in the right leg"
+msgstr "Передніша з двох зірок на правій нозі"
+
+#. Name for HIP 101138
+msgid "The northern star on the right knee"
+msgstr "Північна зірка на правому коліні"
+
+#. Name for HIP 104887
+msgid "The southernmost of the two stars under the left wing"
+msgstr "Найпівденніша з двох зірок під лівим крилом"
+
+#. Name for HIP 102098
+msgid "The rear knight"
+msgstr "Задній рицар"
+
+#. Name for HIP 3821
+msgid "The one north of that, on the belt"
+msgstr "Зірка північніше, на поясі"
+
+#. Name for HIP 4427
+msgid "The star over the chair, just over the thighs"
+msgstr "Зірка над стільцем, одразу над стегнами"
+
+#. Name for HIP 6686
+msgid "The star in the knees"
+msgstr "Зірка на колінах"
+
+#. Name for HIP 8886
+msgid "The star on the lower leg"
+msgstr "Зірка на нижній частині ноги"
+
+#. Name for HIP 11569
+msgid "The star on the end of the leg"
+msgstr "Зірка на кінці ноги"
+
+#. Name for HIP 6242
+msgid "The star below the left elbow"
+msgstr "Зірка під правим ліктем"
+
+#. Name for HIP 29800
+msgid "The star on the right forearm"
+msgstr "Зірка на правому зап'ястку"
+
+#. Name for HIP 2599
+msgid "The star above the post of the chair"
+msgstr "Зірка над стійкою стільця"
+
+#. Name for HIP 746
+msgid ""
+"The star on the middle of the chair backrest, and it is called The henna "
+"tinted hand"
+msgstr ""
+"Зірка посередині спинки стільця, і її називають пофарбованою хною рукою"
+
+#. Name for HIP 117863
+msgid "The star at the end of the chair backrest"
+msgstr "Зірка на кінці спинки стільця"
+
+#. Name for HIP 14632
+msgid "The star on the place between the shoulders"
+msgstr "Зірка на місці між плечима"
+
+#. Name for HIP 15863
+msgid "The bright star in the right side"
+msgstr "Яскрава зірка на правому боці"
+
+#. Name for HIP 16335
+msgid "The most advanced of the three stars next to the one in the side"
+msgstr "Найпередніша з трьох зірок поряд із зіркою на боці"
+
+#. Name for HIP 14576
+msgid "The bright one of the stars in the Gorgon-head"
+msgstr "Яскрава зірка із зірок голови Горгони"
+
+#. Name for HIP 14354
+msgid "The one in advance of the bright star"
+msgstr "Зірка попереду від яскравої зірки"
+
+#. Name for HIP 13879
+msgid "The remaining one, yet again in advance of this"
+msgstr "Остання зірка, знову попереду від цієї"
+
+#. Name for HIP 20070
+msgid "The star in the right knee"
+msgstr "Зірка на правому коліні"
+
+#. Name for HIP 19167
+msgid "The one in advance of this, over the knee"
+msgstr "Зірка попереду від цієї, над коліном"
+
+#. Name for HIP 19343
+msgid "The more advanced of the two stars above the bend in the knee"
+msgstr "Передніша з двох зірок над вигином коліна"
+
+#. Name for HIP 19812
+msgid "The rearmost of them, just over the bend in the knee"
+msgstr "Найзадніша з них, одразу над вигином коліна"
+
+#. Name for HIP 20354
+msgid "The star on the right calf"
+msgstr "Зірка на правій литці"
+
+#. Name for HIP 21476
+msgid "The star on the right ankle"
+msgstr "Зірка на правій кісточці"
+
+#. Name for HIP 17529
+msgid "The star in the left thigh"
+msgstr "Зірка на лівому стегні"
+
+#. Name for HIP 18614
+msgid "The star on the left lower leg"
+msgstr "Зірка на нижній частині лівої ноги"
+
+#. Name for HIP 17448
+msgid "The star on the left heel"
+msgstr "Зірка на лівій п'ятці"
+
+#. Name for HIP 18246
+msgid "The one to the rear of this, on the left foot"
+msgstr "Зірка позаду від цієї, на лівій ступні"
+
+#. Name for HIP 19811
+msgid "The star to the east of the one on the left knee"
+msgstr "Зірка на схід від зірки на лівому коліні"
+
+#. Name for HIP 19949
+msgid "The star to the north of the one in the right knee"
+msgstr "Зірка на північ від зірки на правому коліні"
+
+#. Name for HIP 13254
+msgid "The star in advance of those in the Gorgon-head"
+msgstr "Зірка попереду від зірок на голові Горгони"
+
+#. Name for HIP 15863
+#. Al-Thurayya is a proper name
+msgid "The elbow [of Al-Thurayya]"
+msgstr "Зап'ясток [аль-Тураї]"
+
+#. Name for HIP 16335
+#. Al-Thurayya is a proper name
+msgid "Bend of the hand [of Al-Thurayya]"
+msgstr "Вигин руки [аль-Тураї]"
+
+#. Name for HIP 16826
+#. Al-Thurayya is a proper name
+msgid "Tip of the elbow [of Al-Thurayya]"
+msgstr "Кінчик ліктя [аль-Тураї]"
+
+#. Name for HIP 14576
+msgid "The caracal (second narrative)"
+msgstr "Каракал (друга оповідка)"
+
+#. Name for HIP 18614
+#. Al-Thurayya is a proper name
+msgid "The shoulder [of Al-Thurayya]"
+msgstr "Плече [аль-Тураї]"
+
+#. Name for HIP 28358
+msgid "The southernmost of the two on the head"
+msgstr "Найпівденніша з двох на голові"
+
+#. Name for HIP 27949
+msgid "The northernmost [of these], over the head"
+msgstr "Найпівнічніша [з цих], над головою"
+
+#. Name for HIP 24608
+#. Al-Ayyuq is a proper name meaning the obstructor
+msgid "The star on the left shoulder, called Al-Ayyuq"
+msgstr "Зірка на лівому плечі, яку називають аль-Айюк"
+
+#. Name for HIP 28380
+msgid "The star on the right wrist"
+msgstr "Зірка на правому зап'ястку"
+
+#. Name for HIP 23767
+#. kids here are the baby goats
+msgid ""
+"The rearmost of the two stars on the left wrist, which are called 'The two "
+"kids'"
+msgstr ""
+"Найзадніша з двох зірок на лівому зап'ястку, яку називають «Двоє жереб'ят»"
+
+#. Name for HIP 23453
+msgid "The more advanced of these"
+msgstr "Передніша з цих"
+
+#. Name for HIP 23015
+msgid "The star on the left ankle"
+msgstr "Зірка на лівій кісточці"
+
+#. Name for HIP 25428
+msgid ""
+"The star on the right ankle, which is [applied in] common to the northern "
+"horn of Taurus"
+msgstr "Зірка на правій кісточці, яка [є] спільною із північним рогом Тільця"
+
+#. Name for HIP 25984
+msgid "The one to the north of the latter, in the lower hem [of the garment]"
+msgstr "Зірка на північ від останньої на нижньому рубці [вбрання]"
+
+#. Name for HIP 25541
+msgid "The one north again of this, on the buttock"
+msgstr "Зірка знову на північ від цієї, на сідниці"
+
+#. Name for HIP 23416
+msgid "The Goat"
+msgstr "Козел"
+
+#. Name for HIP 24608
+#. Al-Thurayya is a proper name
+msgid "Al-Thurayya Watcher"
+msgstr "Наглядач Аль-Тураї"
+
+#. Name for HIP 24608
+#. Ayyuq Al-Thurayya is a proper name meaning the obstructor of Al-Thurayya
+msgid "Ayyuq Al-Thurayya"
+msgstr "Аюк Аль-Турая"
+
+#. Name for HIP 24608
+msgid "The goats owner"
+msgstr "Власник козлів"
+
+#. Name for HIP 86742
+msgid "The more advanced of the two stars on the right shoulder"
+msgstr "Передніша з двох зірок на правому плечі"
+
+#. Name for HIP 82673
+msgid "The more advanced of the two stars on the left shoulder"
+msgstr "Передніша з двох зірок на лівому плечі"
+
+#. Name for HIP 79593
+msgid "The more advanced of the two stars in the left hand"
+msgstr "Передніша з двох зірок на лівій руці"
+
+#. Name for HIP 88048
+msgid "The more advanced of the two stars in the right hand"
+msgstr "Передніша з двох зірок на правій руці"
+
+#. Name for HIP 84893
+msgid "The star on the right lower leg"
+msgstr "Зірка на нижній частині правої ноги"
+
+#. Name for HIP 84405
+msgid "The most advanced of the four stars on the right foot"
+msgstr "Передніша з чотирьох зірок на правій ступні"
+
+#. Name for HIP 85340
+msgid "The one to the rear again of that"
+msgstr "Зірка знову ззаду від тої самої"
+
+#. Name for HIP 64238
+msgid "The last and rearmost of the four"
+msgstr "Остання і найзадніша з чотирьох"
+
+#. Name for HIP 86736
+msgid "The star to the rear of these, which touches the heel"
+msgstr "Зірка позаду від цих, яка торкається п'ятки"
+
+#. Name for HIP 81377
+msgid "The star in the left knee"
+msgstr "Зірка на лівому коліні"
+
+#. Name for HIP 80894
+msgid ""
+"The northernmost of the three stars in a straight line in the left lower leg"
+msgstr ""
+"Найпівнічніша з трьох зірок на прямій лінії на нижній частині лівої ноги"
+
+#. Name for HIP 4366
+msgid "The middle one of these"
+msgstr "Середня з цих"
+
+#. Name for HIP 26241
+msgid "The southernmost of the three"
+msgstr "Найпівденніша з трьох"
+
+#. Name for HIP 80473
+msgid "The star touching the hollow of the left foot"
+msgstr "Зірка, що торкається порожнечі лівої ступні"
+
+#. Name for HIP 88149
+msgid ""
+"The northernmost of the three that are on a straight line, to the east of "
+"the right shoulder"
+msgstr "Найпівнічніша з трьох зірок на прямій лінії на схід від правого плеча"
+
+#. Name for HIP 88601
+msgid "The star to the rear of these three, and over the middle one"
+msgstr "Зірка позаду від цих трьох і над середньою зіркою"
+
+#. Name for HIP 88771
+msgid "The lone star north of these four"
+msgstr "Одинока зірка на північ від цих чотирьох"
+
+#. Name for HIP 86032
+msgid "The [southern] shepherd"
+msgstr "[Південний] Пастух"
+
+#. Name for HIP 86742
+msgid "Second dog of the [southern] shepherd"
+msgstr "Другий собака [південного] пастуха"
+
+#. Name for HIP 76852
+msgid "Stars on the quadrilateral in the head:  the one on the end of the jaw"
+msgstr "Зірки на чотирикутнику у голові: зірка на кінці щелепи"
+
+#. Name for HIP 77661
+msgid "The one touching the nostrils"
+msgstr "Зірка, що торкається ніздрів"
+
+#. Name for HIP 78072
+msgid "The one in the temple"
+msgstr "Зірка у храмі"
+
+#. Name for HIP 77233
+msgid "The one where the neck joins [the head]"
+msgstr "Зірка, де з'єднується шия [із головою]"
+
+#. Name for HIP 77450
+msgid "The one in the middle of the quadrilateral, in the mouth"
+msgstr "Зірка посередині чотирикутника, у роті"
+
+#. Name for HIP 78554
+msgid "The star outside the head, to the north of it"
+msgstr "Зірка поза головою на північ від неї"
+
+#. Name for HIP 76276
+msgid "The one after the first bend in the neck"
+msgstr "Зірка після першого вигину шиї"
+
+#. Name for HIP 77257
+msgid "The northernmost of the three following this"
+msgstr "Найпівнічніша з трьох за цією"
+
+#. Name for HIP 77516
+msgid ""
+"The star after the next bend, which is in advance of the left hand of "
+"Ophiuchus"
+msgstr "Зірка після наступного вигину, яка передує лівій руці Змієносця"
+
+#. Name for HIP 80628
+msgid "The star to the rear of those in the hand of Ophiuchus"
+msgstr "Зірка позаду від цих на руці Змієносця"
+
+#. Name for HIP 84880
+msgid "The one after the back of the right thigh of Ophiuchus"
+msgstr "Зірка після задньої частини правого стегна Змієносця"
+
+#. Name for HIP 86263
+msgid "The southernmost of the two to the rear of the latter"
+msgstr "Найпівденніша з двох зірок позаду від останньої"
+
+#. Name for HIP 88175
+msgid "The one after the right hand [of Ophiuchus], on the bend in the tail"
+msgstr "Зірка після правої руки [Змієносця] на вигину хвоста"
+
+#. Name for HIP 89962
+msgid "The one to the rear of this, likewise on the tail"
+msgstr "Зірка позаду від цієї, так само на хвості"
+
+#. Name for HIP 28103
+msgid "The star on the tip of the tail"
+msgstr "Зірка на кінчику хвоста"
+
+#. Name for HIP 98337
+msgid "The lone star on the arrow-head"
+msgstr "Самотня зірка на кінці стріли"
+
+#. Name for HIP 97496
+msgid "The rearmost of the three stars in the shaft"
+msgstr "Найзадніша з трьох зірок на древку"
+
+#. Name for HIP 3885
+msgid "The most advanced of the three"
+msgstr "Найпередніша з трьох"
+
+#. Name for HIP 96837
+msgid "The star on the end of the notch"
+msgstr "Зірка на кінці прорізу"
+
+#. Name for HIP 98823
+msgid "The star in the middle of the head"
+msgstr "Зірка посередині голови"
+
+#. Name for HIP 98036
+msgid "The one in advance of this, on the neck"
+msgstr "Зірка на продовженні цього на шиї"
+
+#. Name for HIP 97649
+msgid ""
+"The bright star on the place between the shoulders, called The flying eagle"
+msgstr "Яскрава зірка на місці між плечима, яку називають «Орел, що летить»"
+
+#. Name for HIP 97938
+msgid "The one close to this towards the north"
+msgstr "Зірка поряд із зіркою на північ"
+
+#. Name for HIP 97278
+msgid "The more advanced of the two in the left shoulder"
+msgstr "Передніша з двох зірок на лівому плечі"
+
+#. Name for HIP 96229
+msgid "The more advanced of the two in the right shoulder"
+msgstr "Передніша з двох зірок на правому плечі"
+
+#. Name for HIP 93747
+msgid ""
+"The star some distance under the tail of the eagle, touching the Milky Way"
+msgstr "Зірка на певній відстані під хвостом орла, торкається Чумацького Шляху"
+
+#. Name for HIP 97804
+msgid "The more advanced of the two stars south of the head of the eagle"
+msgstr "Передніша з двох зірок на південь від голови орла"
+
+#. Name for HIP 95501
+msgid "The star to the south and west of the right shoulder of the eagle"
+msgstr "Зірка на південь і захід від правого плеча орла"
+
+#. Name for HIP 96468
+msgid "The one to the south of this"
+msgstr "Зірка на південь від цієї"
+
+#. Name for HIP 96483
+msgid "The one to the south again of the latter"
+msgstr "Зірка ще на південь від останньої"
+
+#. Name for HIP 93805
+msgid "The star most in advance of all"
+msgstr "Зірка попереду від усіх"
+
+#. Name for HIP 101421
+msgid "The most advanced of the three stars in the tail"
+msgstr "Передніша з трьох зірок у хвості"
+
+#. Name for HIP 101769
+msgid ""
+"The southernmost one of the two on the advance side of the rhomboid "
+"quadrilateral"
+msgstr ""
+"Найпівденніша зірка з двох на передній стороні ромбічного чотирикутника"
+
+#. Name for HIP 3455
+msgid "The northernmost one on the advance side"
+msgstr "Найпівнічніша зірка на передньому боці"
+
+#. Name for HIP 102281
+msgid "The southernmost one on the rear side of the rhombus"
+msgstr "Найпівденніша зірка на задньому боці ромба"
+
+#. Name for HIP 12390
+msgid "The northernmost one on the rear side"
+msgstr "Найпівнічніша зірка на задньому боці"
+
+#. Name for HIP 101589
+msgid "The northernmost of the three stars between the tail and the rhombus"
+msgstr "Найпівнічніша з трьох зірок міх хвостом і ромбом"
+
+#. Name for HIP 101483
+msgid "The more advanced of the two other northern stars"
+msgstr "Передніша з двох інших північних зірок"
+
+#. Name for HIP 101882
+msgid "The remaining, rearmost one"
+msgstr "Остання, та, що найдалі позаду"
+
+#. Name for HIP 104987
+msgid "The more advanced of the two stars in the head"
+msgstr "Передніша з двох зірок у голові"
+
+#. Name for HIP 104521
+msgid "The more advanced of the two stars in the mouth"
+msgstr "Передніша з двох зірок у роті"
+
+#. Name for HIP 677
+msgid ""
+"The star on the navel, which is [applied in] common to the head of Andromeda"
+msgstr "Зірка у пупку, яка є спільною із головою Андромеди"
+
+#. Name for HIP 1067
+msgid "The star on the rump and the wing-tip"
+msgstr "Зірка на крижах і кінчику крила"
+
+#. Name for HIP 113881
+msgid "The star on the right shoulder and the place where the leg joins [it]"
+msgstr "Зірка на правому плечі і місці, де з'єднується нога [із ним]"
+
+#. Name for HIP 113963
+msgid ""
+"The star on the place between the shoulders and the shoulder-part of the wing"
+msgstr "Зірка на місці між плечима і плечовій частині крила"
+
+#. Name for HIP 115250
+msgid "The northernmost of the two stars in the body under the wing"
+msgstr "Найпівнічніша з двох зірок на тілі під крилом"
+
+#. Name for HIP 112158
+msgid "The northernmost of the two stars in the right knee"
+msgstr "Найпівнічніша з двох зірок на правому коліні"
+
+#. Name for HIP 112440
+msgid "The more advanced of the two stars close together in the chest"
+msgstr "Передніша з двох близьких зірок на грудях"
+
+#. Name for HIP 112029
+msgid "The more advanced of the two stars close together in the neck"
+msgstr "Передніша з двох близьких зірок на шиї"
+
+#. Name for HIP 113186
+msgid "The southernmost of the two stars on the mane"
+msgstr "Найпівденніша з двох зірок на гриві"
+
+#. Name for HIP 109427
+msgid "The northernmost of the two stars close together on the head"
+msgstr "Найпівнічніша з двох зірок близько одна від одної на голові"
+
+#. Name for HIP 107315
+msgid "The star in the muzzle"
+msgstr "Зірка на морді"
+
+#. Name for HIP 109410
+msgid "The star in the right hock"
+msgstr "Зірка на правій жижці"
+
+#. Name for HIP 107354
+msgid "The star in the left hock"
+msgstr "Зірка на лівій жижці"
+
+#. Name for HIP 3092
+msgid "The star in the place between the shoulders"
+msgstr "Зірка на місці між плечима"
+
+#. Name for HIP 2912
+msgid "The star in the right shoulder"
+msgstr "Зірка на правому плечі"
+
+#. Name for HIP 3031
+msgid "The star in the left shoulder"
+msgstr "Зірка на лівому плечі"
+
+#. Name for HIP 1473
+msgid "The southernmost of the three stars on the right upper arm"
+msgstr "Найпівденніша з трьох зірок на верхній частині правої руки"
+
+#. Name for HIP 116631
+msgid "The southernmost of the three stars on the right hand"
+msgstr "Найпівденніша з трьох зірок на правій руці"
+
+#. Name for HIP 5447
+msgid "The southernmost of the three stars over the girdle"
+msgstr "Найпівденніша з трьох зірок над поясом"
+
+#. Name for HIP 9640
+msgid "The star over the left foot: called the caracal"
+msgstr "Зірка над лівою ступнею, яку називають «каракал»"
+
+#. Name for HIP 8068
+msgid "The star in the right foot"
+msgstr "Зірка на правій ступні"
+
+#. Name for HIP 7607
+msgid "The one south of the latter"
+msgstr "Зірка на південь від останньої"
+
+#. Name for HIP 7513
+msgid "The northernmost of the two stars on the left knee-bend"
+msgstr "Найпівнічніша з двох зірок на вигині лівого коліна"
+
+#. Name for HIP 6999
+msgid "The northernmost of the two stars in the lower hem of the garment"
+msgstr "Найпівнічніша з двох зірок на нижньому рубці вбрання"
+
+#. Name for HIP 113726
+msgid "The star in advance of the three in the right hand, outside [of it]"
+msgstr "Зірка перед трьома на правій руці, ззовні [від неї]"
+
+#. Name for HIP 5447
+msgid "Abdomen of the fish"
+msgstr "Черево риби"
+
+#. Name for HIP 9640
+msgid "The caracal (first narrative)"
+msgstr "Каракал (перша оповідка)"
+
+#. Name for HIP 8796
+msgid "The star in the apex of the triangle"
+msgstr "Зірка на вершині трикутника"
+
+#. Name for HIP 10064
+msgid "The most advanced of the three on the base"
+msgstr "Найпередніша з трьох в основі"
+
+#. Name for HIP 8832
+msgid "The more advanced of the two stars on the horn"
+msgstr "Передніша з двох зірок на розі"
+
+#. Name for HIP 10306
+msgid "The northernmost of the two stars on the muzzle"
+msgstr "Найпівнічніша з двох зірок на морді"
+
+#. Name for HIP 9110
+msgid "The star on the neck"
+msgstr "Зірка на шиї"
+
+#. Name for HIP 12332
+msgid "The star on the rump"
+msgstr "Зірка на крижах"
+
+#. Name for HIP 13914
+msgid "The star on the place where the fatty tail joins [the body]"
+msgstr "Зірка на місці, де жирний хвіст з'єднується [з тілом]"
+
+#. Name for HIP 14838
+msgid "The most advanced of the three stars in the fatty tail"
+msgstr "Найпередніша з трьох зірок у жирному хвості"
+
+#. Name for HIP 13702
+msgid "The star in the back of the thigh"
+msgstr "Зірка на задній частині стегна"
+
+#. Name for HIP 13327
+msgid "The star over the knee-bend"
+msgstr "Зірка над вигином коліна"
+
+#. Name for HIP 12832
+msgid "The star on the hind hoof"
+msgstr "Зірка на задньому копиті"
+
+#. Name for HIP 9884
+msgid ""
+"The star over the head, which Hipparchus [calls] 'the one on the muzzle'"
+msgstr "Зірка над головою, яку Гіппарх називає «зіркою на морді»"
+
+#. Name for HIP 13209
+msgid "The rearmost, which is brighter of the four stars over the rump"
+msgstr "Найзадніша, яка є найяскравішою з чотирьох зірок над крижами"
+
+#. Name for HIP 13061
+msgid "The northernmost of the other three, fainter stars"
+msgstr "Найпівнічніша з інших трьох тьмяніших зірок"
+
+#. Name for HIP 12719
+msgid "The middle one of these three"
+msgstr "Середня з цих трьох"
+
+#. Name for HIP 9884
+msgid "The butting [horn]"
+msgstr "Межа [рогу]"
+
+#. Name for HIP 16369
+msgid "The northernmost of the four stars in the cut-off"
+msgstr "Найпівнічніша з чотирьох зірок на обрізі"
+
+#. Name for HIP 16322
+msgid "The one close by this"
+msgstr "Зірка близько від цієї"
+
+#. Name for HIP 16083
+msgid "The one close again to the latter"
+msgstr "Зірка знову близько від останньої"
+
+#. Name for HIP 15900
+msgid "The southernmost of the four"
+msgstr "Найпівденніша з чотирьох"
+
+#. Name for HIP 17771
+msgid "The one to the rear of the latter, on the right shoulder-blade"
+msgstr "Зірка позаду від останньої на правому краю плеча"
+
+#. Name for HIP 18907
+msgid "The star on the right hock"
+msgstr "Зірка на правій жижці"
+
+#. Name for HIP 20205
+msgid ""
+"The one on the nostrils of the stars in the face, resembling the Greek "
+"letter Λ"
+msgstr "Зірка на ніздрях з зірок на обличчі, нагадує грецьку літеру Λ"
+
+#. Name for HIP 20455
+msgid "The one between the latter and the northern eye"
+msgstr "Зірка між останньою і північним оком"
+
+#. Name for HIP 20885
+msgid "The one between that latter itself and the southern eye"
+msgstr "Зірка між останньою і південним оком"
+
+#. Name for HIP 21421
+msgid ""
+"The bright star of the group of stars resembling the Arabic letter 'dal د', "
+"the reddish one on the southern eye"
+msgstr ""
+"Яскрава зірка групи зірок, форма якої нагадує арабську літеру «даль» («د»), "
+"червоняста зірка на південному оці"
+
+#. Name for HIP 20889
+msgid "The remaining one, on the northern eye"
+msgstr "Остання, на північному оці"
+
+#. Name for HIP 22565
+msgid ""
+"The star on the place where the southern horn and the ear join [the head]"
+msgstr "Зірка на місці, де південний ріг і вухо з'єднуються [з головою]"
+
+#. Name for HIP 23835
+msgid "The southernmost of the two stars on the southern horn"
+msgstr "Найпівденніша з двох зірок на південному розі"
+
+#. Name for HIP 23871
+msgid "The northernmost of these"
+msgstr "Найпівнічніша з цих"
+
+#. Name for HIP 26451
+msgid "The star on the tip of the southern horn"
+msgstr "Зірка на кінці південного рогу"
+
+#. Name for HIP 21881
+msgid "The star on the place where the northern horn joins [the head]"
+msgstr "Зірка у місці, де з'єднується північний ріг [із головою]"
+
+#. Name for HIP 25428
+msgid ""
+"The star on the tip of the northern horn, which is the same as the one on "
+"the right foot of Auriga"
+msgstr ""
+"Зірка на кінчику північного рогу, яка збігається із зіркою на правій ступні "
+"Візничого"
+
+#. Name for HIP 20711
+msgid "The northernmost of the two stars close together in the northern ear"
+msgstr "Найпівнічніша з двох близьких зірок у північному вусі"
+
+#. Name for HIP 19038
+msgid "The more advanced of the two small stars in the neck"
+msgstr "Передніша з двох малих зірок на шиї"
+
+#. Name for HIP 19513
+msgid ""
+"The southernmost star on the advance side of the four stars forming the "
+"quadrilateral in the neck"
+msgstr ""
+"Найпівденніша зірка переднього блоку з чотирьох зірок, що формують "
+"чотирикутник на шиї"
+
+#. Name for HIP 19205
+msgid "The northernmost star on the advance side"
+msgstr "Найпівнічніша зірка на передньому боці"
+
+#. Name for HIP 20430
+msgid "The southernmost star on the rear side"
+msgstr "Найпівденніша зірка на задньому боці"
+
+#. Name for HIP 17573
+msgid "The Pleiades:  the northern end of the advance side"
+msgstr "Плеяди: північний кінець переднього боку"
+
+#. Name for HIP 17499
+msgid "The southern end of the advance side [of the Pleiades]"
+msgstr "Південний кінець переднього боку [Плеяд]"
+
+#. Name for HIP 17702
+msgid "The rearmost and narrowest end of the Pleiades"
+msgstr "Найдальший і найвужчий кінець Плеяд"
+
+#. Name for HIP 17847
+msgid "The small star outside the Pleiades, towards the north"
+msgstr "Мала зірка поза Плеядами у напрямку півночі"
+
+#. Name for HIP 16852
+msgid "The star under the right foot and the ankle"
+msgstr "Зірка під правою ступнею і кісточкою"
+
+#. Name for HIP 23497
+msgid "The most advanced of the three stars over the southern horn"
+msgstr "Передніша з трьох зірок над південним рогом"
+
+#. Name for HIP 25945
+msgid "The northernmost of the two stars under the tip of the southern horn"
+msgstr "Найпівнічніша з двох зірок під кінчиком південного рогу"
+
+#. Name for HIP 26248
+msgid "The most advanced of the next five stars under the northern horn"
+msgstr "Передніша з наступних п'яти зірок під південним рогом"
+
+#. Name for HIP 27468
+msgid "The one to the rear again of the latter"
+msgstr "Зірка ще на позаду від останньої"
+
+#. Name for HIP 27830
+msgid "The northernmost of the remaining, rearmost two"
+msgstr "Найпівнічніші із решти зірок, найзадніші дві"
+
+#. Name for HIP 28237
+msgid "The southernmost of these two"
+msgstr "Найпівденніша з цих двох"
+
+#. Name for HIP 21421
+#. Al-Thurayya is a proper name
+msgid "The follower of Al-Thurayya"
+msgstr "Послідовник аль-Тураї"
+
+#. Name for HIP 21421
+#. Al-Mijdah is a proper name meaning the star of rain or the fork referring to the shape of the Hyades
+msgid "Al-Mijdah"
+msgstr "Аль-Міжда"
+
+#. Name for HIP 21421
+msgid "The follower"
+msgstr "Послідовник"
+
+#. Name for HIP 21421
+msgid "The special camel"
+msgstr "Особливий верблюд"
+
+#. Name for HIP 36850
+msgid "The star on the head of the advance twin"
+msgstr "Зірка у голові переднього близнюка"
+
+#. Name for HIP 37826
+msgid "The reddish star on the head of the rear twin"
+msgstr "Червоняста зірка у голові заднього близнюка"
+
+#. Name for HIP 33018
+msgid "The star in the left forearm of the advance twin"
+msgstr "Зірка у лівому передпліччі переднього близнюка"
+
+#. Name for HIP 34693
+msgid "The star in the same [left] upper arm"
+msgstr "Зірка у тій самій верхній частині [лівої] руки"
+
+#. Name for HIP 36046
+msgid "The one to the rear of that, between the shoulders"
+msgstr "Зірка позаду від цієї, між плечима"
+
+#. Name for HIP 36962
+msgid ""
+"The one to the rear of this, on the right shoulder of the same [advance] twin"
+msgstr "Зірка позаду цієї на правому плечі того самого [переднього] близнюка"
+
+#. Name for HIP 37740
+msgid "The star on the rear shoulder of the rear twin"
+msgstr "Зірка на задньому плечі заднього близнюка"
+
+#. Name for HIP 35846
+msgid "The star on the right side of the advance twin"
+msgstr "Зірка на правому боці переднього близнюка"
+
+#. Name for HIP 36238
+msgid "The star on the left side of the rear twin"
+msgstr "Зірка на лівому боці заднього близнюка"
+
+#. Name for HIP 32246
+msgid "The star on the left knee of the advance twin"
+msgstr "Зірка на лівому коліні переднього близнюка"
+
+#. Name for HIP 35550
+msgid "The star in the left side of the rear twin"
+msgstr "Зірка у лівому боці заднього близнюка"
+
+#. Name for HIP 34088
+msgid "The star over the left knee of the rear twin"
+msgstr "Зірка над лівим коліном заднього близнюка"
+
+#. Name for HIP 35350
+msgid "The star over the bend in the right knee of the same [rear] twin"
+msgstr "Зірка над вигином правого коліна того самого [заднього] близнюка"
+
+#. Name for HIP 29655
+msgid "The star in front of the left foot of the advance twin"
+msgstr "Зірка перед лівою ступнею переднього близнюка"
+
+#. Name for HIP 30343
+msgid "The one to the rear of this on the same foot"
+msgstr "Зірка позаду від цієї, на тій самій ступні"
+
+#. Name for HIP 30883
+msgid "The star on the right foot of the advance twin"
+msgstr "Зірка на правій ступні переднього близнюка"
+
+#. Name for HIP 31681
+msgid "The star on the left foot of the rear twin"
+msgstr "Зірка на лівій ступні заднього близнюка"
+
+#. Name for HIP 32362
+msgid "The star on the right foot of the rear twin"
+msgstr "Зірка на правій ступні заднього близнюка"
+
+#. Name for HIP 28734
+msgid "The star in advance of the one in front of the foot of the advance twin"
+msgstr "Зірка попереду від зірки попереду від ступні переднього близнюка"
+
+#. Name for HIP 29696
+msgid "The bright star in advance of the advance knee"
+msgstr "Яскрава зірка попереду від переднього коліна"
+
+#. Name for HIP 32921
+msgid "The star in advance of the left knee of the rear twin"
+msgstr "Зірка попереду від лівого коліна заднього близнюка"
+
+#. Name for HIP 38722
+msgid ""
+"The northernmost of the three stars in a straight line to the rear of the "
+"right arm of the rear twin"
+msgstr ""
+"Найпівнічніша з трьох зірок на прямій лінії позаду від правої руки заднього "
+"близнюка"
+
+#. Name for HIP 37300
+msgid "The southernmost of them, near the forearm of the [right] arm"
+msgstr "Найпівденніша з них, поряд із зап'ястком [правої] руки"
+
+#. Name for HIP 40167
+msgid "The bright star to the rear of the above-mentioned three"
+msgstr "Яскрава зірка позаду від вищезгаданих трьох"
+
+#. Name for HIP 41909
+msgid ""
+"The northernmost of the two stars in advance of the quadrilateral containing "
+"the nebula"
+msgstr ""
+"Найпівнічніша з двох зірок попереду від чотирикутника, що містить туманність"
+
+#. Name for HIP 41822
+msgid "The southernmost of the two stars in advance"
+msgstr "Найпівденніша з двох зірок попереду"
+
+#. Name for HIP 42806
+msgid ""
+"The northernmost of the rear two stars on the quadrilateral, which are "
+"called 'Aselli'"
+msgstr ""
+"Найпівнічніша з двох задніх зірок на чотирикутнику, яку називають «Аселлі»"
+
+#. Name for HIP 44066
+msgid "The star on the southern claw"
+msgstr "Зірка на південній клешні"
+
+#. Name for HIP 43103
+msgid "The star on the northern claw"
+msgstr "Зірка на північній клешні"
+
+#. Name for HIP 39780
+msgid "The star on the northern back leg"
+msgstr "Зірка на північній задній лапі"
+
+#. Name for HIP 40526
+msgid "The star on the southern back leg"
+msgstr "Зірка на південній задній лапі"
+
+#. Name for HIP 45410
+msgid "The star over the joint in the southern claw"
+msgstr "Зірка на з'єднанням у південній клешні"
+
+#. Name for HIP 44798
+msgid "The star to the rear of the tip of the southern claw"
+msgstr "Зірка позаду кінчика південної клешні"
+
+#. Name for HIP 44405
+msgid ""
+"The more advanced of the two stars over the nebula and to the rear of it"
+msgstr "Передніша із двох зірок над туманністю і позаду неї"
+
+#. Name for HIP 44946
+msgid "The rearmost of these [two]"
+msgstr "Задня з цих [двох]"
+
+#. Name for HIP 13954
+msgid "The star on the tip of the nostrils"
+msgstr "Зірка на кінчику ніздрів"
+
+#. Name for HIP 46750
+msgid "The star in the gaping jaws"
+msgstr "Зірка у розкритих щелепах"
+
+#. Name for HIP 48455
+msgid "The northernmost of the two stars in the head"
+msgstr "Найпівнічніша з двох зірок у голові"
+
+#. Name for HIP 50335
+msgid "The northernmost of the three stars in the neck"
+msgstr "Найпівнічніша з трьох зірок у шиї"
+
+#. Name for HIP 50583
+msgid "The one close to this, the middle one of the three"
+msgstr "Зірка поряд із цією, середня з трьох"
+
+#. Name for HIP 49669
+msgid "The star on the heart, called 'Regulus' and it is the lion heart"
+msgstr "Зірка у серці, яку називають «Регул», вона є серцем лева"
+
+#. Name for HIP 49637
+msgid "The one south of this, about on the chest"
+msgstr "Зірка не південь від неї, майже на грудях"
+
+#. Name for HIP 48883
+msgid "The star a little in advance of the star on the heart"
+msgstr "Зірка трохи попереду від зірки у серці"
+
+#. Name for HIP 46771
+msgid "The star on the right front claw-clutch"
+msgstr "Зірка на правому краю кігтя клешні"
+
+#. Name for HIP 47508
+msgid "The star on the left front claw-clutch"
+msgstr "Зірка на лівому краю кігтя клешні"
+
+#. Name for HIP 49029
+msgid "The star on the left [front] knee"
+msgstr "Зірка на лівому коліні [передній частині]"
+
+#. Name for HIP 51624
+msgid "The star on the left armpit"
+msgstr "Зірка на лівій пахві"
+
+#. Name for HIP 51585
+msgid "The most advanced of the three stars in the belly"
+msgstr "Найпередніша з трьох зірок на животі"
+
+#. Name for HIP 52689
+msgid "The northernmost of the other, rearmost two"
+msgstr "Найпівнічніші з інших, задні дві"
+
+#. Name for HIP 52911
+msgid "The southernmost of these [two]"
+msgstr "Найпівденніша з цих [двох]"
+
+#. Name for HIP 53954
+msgid "The more advanced of the two stars on the rump"
+msgstr "Передніша з двох зірок на крижах"
+
+#. Name for HIP 55765
+msgid "The northernmost of the two stars in the buttocks"
+msgstr "Найпівнічніша з двох зірок на сідницях"
+
+#. Name for HIP 55642
+msgid "The star in the hind thighs"
+msgstr "Зірка на задній частині стегон"
+
+#. Name for HIP 55434
+msgid "The star in the hind leg-bends"
+msgstr "Зірка на задній частині вигин лап"
+
+#. Name for HIP 55084
+msgid "The one south of this, about in the lower legs"
+msgstr "Зірка не південь від неї, майже на нижніх лапах"
+
+#. Name for HIP 56647
+msgid "The star on the hind claw-clutches"
+msgstr "Зірка на задніх кігтях клешні"
+
+#. Name for HIP 57632
+msgid "The star on the end of the tail"
+msgstr "Зірка наприкінці хвоста"
+
+#. Name for HIP 52457
+msgid "The more advanced of the two over the back"
+msgstr "Передніша з двох зірок над спиною"
+
+#. Name for HIP 54182
+msgid "The northernmost of the three under the flank"
+msgstr "Найпівнічніша з трьох під боком"
+
+#. Name for HIP 60742
+msgid ""
+"The northernmost part of the nebulous mass between the edges of Leo and Ursa "
+"[Major], called Coma [Berenices]"
+msgstr ""
+"Найпівнічніша частина туманної маси між краями Лева і [Великої] Ведмедиці, "
+"яку називають Волосся [Вероніки]"
+
+#. Name for HIP 59847
+msgid "The most advanced of the southern outrunners of Coma"
+msgstr "Передніша з південних крайніх зірок Волосся"
+
+#. Name for HIP 61394
+msgid "The rearmost of them, shaped like an ivy leaf"
+msgstr "Найзадніша з них, у формі листка плюща"
+
+#. Name for HIP 57632
+msgid "Star of weather change"
+msgstr "Зірка зміни погоди"
+
+#. Name for HIP 57380
+msgid "The southernmost of the two stars in the top of the skull"
+msgstr "Найпівденніша з двох зірок у верхній частині черепа"
+
+#. Name for HIP 58948
+msgid "The northernmost of the two stars to the rear of these, in the face"
+msgstr "Найпівнічніша з двох зірок позаду від цих, у обличчі"
+
+#. Name for HIP 57757
+msgid "The star on the tip of the southern, left wing"
+msgstr "Зірка на кінці південного лівого крила"
+
+#. Name for HIP 60129
+msgid "The most advanced of the four stars in the left wing"
+msgstr "Передніша з чотирьох зірок у лівому крилі"
+
+#. Name for HIP 63494
+msgid "The one to the rear again of this"
+msgstr "Зірка знову ззаду від тої самої"
+
+#. Name for HIP 63090
+msgid "The star in the right side under the girdle"
+msgstr "Зірка на правому боці під поясом"
+
+#. Name for HIP 61960
+msgid "The most advanced of the three stars in the right, northern wing"
+msgstr "Найпередніша з трьох зірок у правому північному крилі"
+
+#. Name for HIP 62267
+msgid "The southernmost of the other two"
+msgstr "Найпівденніша з інших двох"
+
+#. Name for HIP 63608
+msgid "The northernmost of these, called 'Vindemiatrix'"
+msgstr "Найпівнічніша з цих, яку називають «Віндеміатрікс»"
+
+#. Name for HIP 65474
+#. The armless high one is the Arabic name for Spica
+msgid ""
+"The star on the left hand, called 'Spica', and it is The armless high one"
+msgstr "Зірка на лівій руці, яку називають «Спіка», і це «Безрукий правитель»"
+
+#. Name for HIP 66249
+msgid "The star under the apron just about over the right buttock"
+msgstr "Зірка під запоною майже над правою сідницею"
+
+#. Name for HIP 66006
+msgid ""
+"The northern star on the advance side of the quadrilateral in the left thigh"
+msgstr "Північна зірка на передньому боці чотирикутника на лівому стегні"
+
+#. Name for HIP 24327
+msgid "The southern star on the advance side"
+msgstr "Південна зірка на передньому боці"
+
+#. Name for HIP 66803
+msgid "The northernmost of the two stars on the rear side"
+msgstr "Найпівнічніша з двох зірок на задньому боці"
+
+#. Name for HIP 67929
+msgid "The star in the back of the right thigh"
+msgstr "Зірка на задній частині правого стегна"
+
+#. Name for HIP 69701
+msgid "The middle star of the three in the garment-hem round the feet"
+msgstr "Середня зірка з трьох на рубці вбрання навколо ступні"
+
+#. Name for HIP 69974
+msgid "The star on the left, southern foot"
+msgstr "Зірка на лівій південній ступні"
+
+#. Name for HIP 71957
+msgid "The star on the right, northern foot"
+msgstr "Зірка на правій північній ступні"
+
+#. Name for HIP 61740
+msgid ""
+"The most advanced of the three in a straight line under the left forearm"
+msgstr "Передніша з трьох зірок на прямій ліній під лівою пахвою"
+
+#. Name for HIP 64407
+msgid ""
+"The most advanced of the three stars almost on a straight line under Spica"
+msgstr "Передніша з трьох зірок майже на прямій ліній під Спікою"
+
+#. Name for HIP 64924
+msgid "The middle one of these, which is a double star"
+msgstr "Середня з цих, яка є подвійною зіркою"
+
+#. Name for HIP 72622
+msgid "The brighter one of the two stars on the tip of the southern claw"
+msgstr "Яскравіша зірка з двох зірок на кінчику південної клешні"
+
+#. Name for HIP 72489
+msgid "The northern one and fainter of the two"
+msgstr "Північніша і тьмяніша з двох зірок"
+
+#. Name for HIP 74785
+msgid "The brighter one of the two stars on the tip of the northern claw"
+msgstr "Яскравіша зірка з двох зірок на кінчику північної клешні"
+
+#. Name for HIP 73473
+msgid "The advanced one and fainter of the two"
+msgstr "Передня і тьмяніша з двох зірок"
+
+#. Name for HIP 74392
+msgid "The star in the middle of the southern claw"
+msgstr "Зірка посередині південної клешні"
+
+#. Name for HIP 73945
+msgid "The one in advance of this on the same claw"
+msgstr "Зірка попереду від цієї на тій самій клешні"
+
+#. Name for HIP 76333
+msgid "The star in the middle of the northern claw"
+msgstr "Зірка посередині північної клешні"
+
+#. Name for HIP 77853
+msgid "The one to the rear of this on the same claw"
+msgstr "Зірка позаду від цієї, на тій самій клешні"
+
+#. Name for HIP 76219
+msgid "The most advanced of the three stars north of the northern claw"
+msgstr "Найпередніша з трьох зірок північніше від північної клешні"
+
+#. Name for HIP 78207
+msgid "The southernmost of the rearmost two [of these]"
+msgstr "Найпівденніша з цих з задніх двох [з цих]"
+
+#. Name for HIP 77811
+msgid "The rearmost of the three stars between the claws"
+msgstr "Найзадніша з трьох зірок між клешнями"
+
+#. Name for HIP 77060
+msgid "The northernmost of the other two in advance [of the latter]"
+msgstr "Найпівнічніша з інших двох попереду [від останньої]"
+
+#. Name for HIP 73714
+msgid "The most advanced of the three stars south of the southern claw"
+msgstr "Передніша з трьох зірок на південь від південної клешні"
+
+#. Name for HIP 76470
+msgid "The northernmost of the other, rear two"
+msgstr "Найпівнічніша з інших двох, задні дві"
+
+#. Name for HIP 78820
+msgid "The northernmost of the three bright stars in the forehead"
+msgstr "Найпівнічніша з трьох яскравих зірок на лобі"
+
+#. Name for HIP 78104
+msgid "The star south again of this, on one of the legs"
+msgstr "Зірка ще на південь від цієї на одній з ніг"
+
+#. Name for HIP 79374
+msgid ""
+"The northernmost of the two stars adjacent to the northernmost of the three "
+"bright ones"
+msgstr ""
+"Найпівнічніша з двох зірок поблизу від найпівнічнішої з трьох яскравих зірок"
+
+#. Name for HIP 80112
+msgid "The most advanced of the three bright stars in the body"
+msgstr "Найпередніша з трьох яскравих зірок у тілі"
+
+#. Name for HIP 80763
+msgid ""
+"The middle one of these, which is reddish and called 'Heart of the scorpion'"
+msgstr "Середня зірка з цих, яка є червонястою і називається «Серце скорпіона»"
+
+#. Name for HIP 79404
+msgid "The advance star of the two under these, approximately on the last legs"
+msgstr "Передня зірка з двох зірок під цими, приблизно на останніх ногах"
+
+#. Name for HIP 79881
+msgid "The rearmost of these"
+msgstr "Найзадніша зірка із цих"
+
+#. Name for HIP 82396
+msgid "The star in the first tail-joint from the body"
+msgstr "Зірка у першій від тіла ланці хвоста"
+
+#. Name for HIP 82514
+msgid "The one after this, in the second joint"
+msgstr "Зірка після цієї на другій ланці"
+
+#. Name for HIP 82729
+msgid "The northern star of the double-star in the third joint"
+msgstr "Північна зірка з подвійної зірки у третій ланці"
+
+#. Name for HIP 82671
+msgid "The southern star of the double-star"
+msgstr "Південна зірка у подвійній зірці"
+
+#. Name for HIP 84143
+msgid "The one following, in the forth joint"
+msgstr "Наступна зірка у четвертій ланці"
+
+#. Name for HIP 86228
+msgid "The one after that, in the fifth joint"
+msgstr "Зірка після цієї у п'ятій ланці"
+
+#. Name for HIP 87073
+msgid "The next one again, in the sixth joint"
+msgstr "Ще одна наступна у шостій ланці"
+
+#. Name for HIP 86670
+msgid "The star in the seventh joint, the joint next to the sting"
+msgstr "Зірка у сьомій ланці, ланці поряд із жалом"
+
+#. Name for HIP 85927
+msgid "The rearmost of the two stars in the sting"
+msgstr "Найзадніша з двох зірок на жалі"
+
+#. Name for HIP 87261
+msgid "The nebulous star to the rear of the sting"
+msgstr "Туманна зірка у дальньому кінці жала"
+
+#. Name for HIP 85423
+msgid "The most advanced of the two stars to the north of the sting"
+msgstr "Передніша з двох зірок на північ від жала"
+
+#. Name for HIP 88635
+msgid "The star on the point of the arrow"
+msgstr "Зірка на кінчику стріли"
+
+#. Name for HIP 89931
+msgid "The star in the bow-grip held by the left hand"
+msgstr "Зірка на луці там, де ліва рука тримає лук"
+
+#. Name for HIP 90185
+msgid "The star in the southern portion of the bow"
+msgstr "Зірка на південній частині лука"
+
+#. Name for HIP 90496
+msgid "The southernmost of the two stars in the northern portion of the bow"
+msgstr "Найпівденніша з двох зірок на північній частині лука"
+
+#. Name for HIP 89341
+msgid "The northernmost of these, on the tip of the bow"
+msgstr "Найпівнічніша з цих на кінчику лука"
+
+#. Name for HIP 92041
+msgid "The one in advance of this, on the arrow"
+msgstr "Зірка перед цією, на стрілі"
+
+#. Name for HIP 92761
+msgid "The star on the eye, which is nebulous and double"
+msgstr "Зірка у оці, яка є туманною і подвійною"
+
+#. Name for HIP 93085
+msgid "The most advanced of the three stars in the head"
+msgstr "Найпередніша з трьох зірок у голові"
+
+#. Name for HIP 94820
+msgid "The southernmost of the three stars in the northern cloak-attachment"
+msgstr "Найпівденніша з трьох зірок на капелюсі"
+
+#. Name for HIP 96950
+msgid "The faint star to the rear of these three"
+msgstr "Тьмяна зірка позаду цих трьох"
+
+#. Name for HIP 98258
+msgid "The northernmost of the two stars on the southern cloak-attachment"
+msgstr "Найпівнічніша з двох зірок на південному долученні до плаща"
+
+#. Name for HIP 94643
+msgid "The one between the shoulders of the three stars in the back"
+msgstr "Зірка між плечима, одна з трьох зірок на спині"
+
+#. Name for HIP 93864
+msgid "The middle one, on the shoulder-blade"
+msgstr "Середня зірка на лопатці"
+
+#. Name for HIP 93506
+msgid "The other one, under the armpit"
+msgstr "Інша зірка, під пахвою"
+
+#. Name for HIP 95241
+msgid "The star on the front left hock"
+msgstr "Зірка на передній лівій жижці"
+
+#. Name for HIP 95347
+msgid "The one on the knee of the same leg"
+msgstr "Зірка на коліні тієї самої ноги"
+
+#. Name for HIP 89642
+msgid "The star on the front right hock"
+msgstr "Зірка на передній правій жижці"
+
+#. Name for HIP 98412
+msgid "The star on the left thigh"
+msgstr "Зірка на лівому стегні"
+
+#. Name for HIP 98032
+msgid "The star on the right hind lower leg"
+msgstr "Зірка на нижній задній частині правої ноги"
+
+#. Name for HIP 98066
+msgid ""
+"The advance star on the northern side of the four stars [forming a "
+"quadrilateral] in the place where the tail joins [the body]"
+msgstr ""
+"Передня зірка на північному боці чотирьох зірок [з яких складається "
+"чотирикутник] на місці з'єднання хвоста [з тілом]"
+
+#. Name for HIP 98353
+msgid "The rear star on the northern side"
+msgstr "Задня зірка на північному боці"
+
+#. Name for HIP 29038
+msgid "The advance star on the southern side"
+msgstr "Передня зірка на південному боці"
+
+#. Name for HIP 98688
+msgid "The rear star on the southern side"
+msgstr "Задня зірка на південному боці"
+
+#. Name for HIP 100027
+msgid "The northernmost of the three stars in the rear horn"
+msgstr "Найпівнічніша з трьох зірок на задньому розі"
+
+#. Name for HIP 99572
+msgid "The star on the tip of the advance horn"
+msgstr "Зірка на кінчику переднього рогу"
+
+#. Name for HIP 101123
+msgid "The southernmost of the three stars in the muzzle"
+msgstr "Найпівденніша з трьох зірок на рилі"
+
+#. Name for HIP 100881
+msgid "The more advanced of the other two"
+msgstr "Передня зірка з інших двох"
+
+#. Name for HIP 100195
+msgid "The star in advance of the three, under the right eye"
+msgstr "Зірка попереду трьох, під правим оком"
+
+#. Name for HIP 34045
+msgid "The northernmost of the two stars in the neck"
+msgstr "Найпівнічніша з двох зірок на шиї"
+
+#. Name for HIP 102485
+msgid "The star under the right knee"
+msgstr "Зірка під правим коліном"
+
+#. Name for HIP 102978
+msgid "The star on the left, doubled-up knee"
+msgstr "Зірка ліворуч, подвоєне коліно"
+
+#. Name for HIP 105881
+msgid "The more advanced of the two stars close together under the belly"
+msgstr "Передніша з двох близьких зірок під черевом"
+
+#. Name for HIP 104963
+msgid "The rearmost of the three stars in the middle of the body"
+msgstr "Найзадніша з трьох зірок посередині тіла"
+
+#. Name for HIP 104365
+msgid "The fainter of the other, advance two"
+msgstr "Тьмяніша з інших, перед двома"
+
+#. Name for HIP 104139
+msgid "The more advanced of the two stars in the back"
+msgstr "Передніша з двох зірок на спині"
+
+#. Name for HIP 106723
+msgid "The more advanced of the two stars in the southern spine"
+msgstr "Передніша з двох зірок на південній частині спини"
+
+#. Name for HIP 106985
+msgid ""
+"The more advanced of the two stars in the section [of the body] next to the "
+"tail"
+msgstr "Передніша з двох зірок на перетині [тіла] поряд із хвостом"
+
+#. Name for HIP 107095
+msgid "The most advanced of the four stars on the northern portion of the tail"
+msgstr "Найпередніша з чотирьох зірок на північній частині хвоста"
+
+#. Name for HIP 108036
+msgid "The southernmost of the other three"
+msgstr "Найпівденніша з інших трьох"
+
+#. Name for HIP 107382
+msgid "The northernmost of them, on the end of the tail-fin"
+msgstr "Найпівнічніша з них, на кінці хвостового плавця"
+
+#. Name for HIP 100310
+msgid "The sheep of the lucky star of the slaughterer"
+msgstr "Вівця щасливої зірки Вбивці"
+
+#. Name for HIP 106944
+msgid "The star on the head of Aquarius"
+msgstr "Зірка у голові Водолія"
+
+#. Name for HIP 109074
+msgid "The brighter of the two stars in the right shoulder"
+msgstr "Яскравіша з двох зірок на правому плечі"
+
+#. Name for HIP 108874
+msgid "The fainter one, under it"
+msgstr "Тьмяніша зірка, під нею"
+
+#. Name for HIP 106786
+msgid "The one under that, in the back, approximately under the armpit"
+msgstr "Зірка під тією, на спині, приблизно під пахвою"
+
+#. Name for HIP 103401
+msgid "The rearmost of the three stars in the left arm, on the coat"
+msgstr "Найзадніша з трьох зірок на лівій руці, на накидці"
+
+#. Name for HIP 110395
+msgid "The star in the right forearm"
+msgstr "Зірка на правому зап'ястку"
+
+#. Name for HIP 110672
+msgid "The northernmost of the three stars on the right hand"
+msgstr "Найпівнічніша з трьох зірок на правій руці"
+
+#. Name for HIP 110960
+msgid "The more advanced of the other two to the south"
+msgstr "Передня зірка з інших двох на південь"
+
+#. Name for HIP 110003
+msgid ""
+"The more advanced of the two stars close together in the hollow of the right "
+"hip"
+msgstr "Передніша з двох близьких зірок у проміжку правого стегна"
+
+#. Name for HIP 111123
+msgid "The star on the right buttock"
+msgstr "Зірка на правій сідниці"
+
+#. Name for HIP 109139
+msgid "The southernmost of the two stars in the left buttock"
+msgstr "Найпівденніша з двох зірок на лівій сідниці"
+
+#. Name for HIP 113136
+msgid "The southernmost of the two stars in the right lower leg"
+msgstr "Найпівденніша з двох зірок у нижній частині правої ноги"
+
+#. Name for HIP 112716
+msgid "The northernmost of them, under the knee-bend"
+msgstr "Найпівнічніша з них, під вигином коліна"
+
+#. Name for HIP 110778
+msgid "The star in the back of the left thigh"
+msgstr "Зірка на задній частині лівого стегна"
+
+#. Name for HIP 112529
+msgid "The southernmost of the two stars in the left lower leg"
+msgstr "Найпівденніша з двох зірок у нижній частині лівої ноги"
+
+#. Name for HIP 112211
+msgid "The northernmost of these, under the knee"
+msgstr "Найпівнічніша з цих, під коліном"
+
+#. Name for HIP 112961
+msgid ""
+"The stars on the flow of water:  the most advanced [in the section] "
+"beginning at the hand"
+msgstr "Зірки у потоці води: передня у початковій [частині] від руки"
+
+#. Name for HIP 113996
+msgid "The one next to the latter towards the south"
+msgstr "Зірка поряд із останньою у напрямку на південь"
+
+#. Name for HIP 114724
+msgid "The one next to this, after [the beginning of] the water bend"
+msgstr "Зірка поряд із цією, після [початку] вигину потоку води"
+
+#. Name for HIP 114855
+msgid "The one in the bend to the south of this"
+msgstr "Зірка на вигині, південніше від цієї"
+
+#. Name for HIP 115033
+msgid "The northernmost of the two stars to the south of this"
+msgstr "Найпівнічніша з двох зірок на південь від цієї"
+
+#. Name for HIP 115115
+msgid "The southernmost of the two"
+msgstr "Найпівденніша з двох"
+
+#. Name for HIP 115404
+msgid "The lone star at some distance from these [two] towards the south"
+msgstr "Самотня зірка на певній відстані від цих [двох] у напрямку на південь"
+
+#. Name for HIP 116758
+msgid "The more advanced of the two stars close together after the latter"
+msgstr "Передніша з двох близьких зірок після останньої"
+
+#. Name for HIP 116901
+msgid "The northernmost of the three stars in the next bend group"
+msgstr "Найпівнічніша з трьох зірок у групі наступного згину"
+
+#. Name for HIP 115438
+msgid "The northernmost of the next three [arranged] likewise"
+msgstr "Найпівнічніша з наступних трьох подібно [упорядкованих]"
+
+#. Name for HIP 114119
+msgid "The most advanced of the three stars in the remaining bend group"
+msgstr "Найпередніша з трьох зірок у останній групі вигину"
+
+#. Name for HIP 113368
+msgid "The star at the end of the water and on the mouth of Piscis Austrinus"
+msgstr "Зірка на кінці води і у роті Південної Риби"
+
+#. Name for HIP 301
+msgid ""
+"The most advanced of the three stars to the rear of the bend in the water"
+msgstr "Передніша з трьох зірок у хвості ззаду від вигину водяного потоку"
+
+#. Name for HIP 113368
+msgid "The first frog"
+msgstr "Перша жаба"
+
+#. Name for HIP 113368
+msgid "The male ostrich"
+msgstr "Страус-самець"
+
+#. Name for HIP 113889
+msgid "The star in the mouth of the advance fish"
+msgstr "Зірка у роті передньої риби"
+
+#. Name for HIP 114971
+msgid "The southernmost of the two stars in the top of its head"
+msgstr "Найпівденніша з двох зірок у верхній частині його голови"
+
+#. Name for HIP 115738
+msgid "The more advanced of the two stars in the belly"
+msgstr "Передніша з двох зірок на череві"
+
+#. Name for HIP 118268
+msgid "The star in the tail of the same [advance] fish"
+msgstr "Зірка на хвості тієї самої [передньої] риби"
+
+#. Name for HIP 1645
+msgid "The first after the tail of the stars forming its fishing-line"
+msgstr "Перша зірка після хвоста зірок, який формує її волосінь"
+
+#. Name for HIP 3786
+msgid "The most advanced of the three following stars"
+msgstr "Найпередніша з трьох наступних зірок"
+
+#. Name for HIP 5346
+msgid "The northernmost of the two small stars under these, in the bend"
+msgstr "Найпівнічніша з двох малих зірок під цими, на вигині"
+
+#. Name for HIP 7007
+msgid "The most advanced of the three stars after the bend"
+msgstr "Найпередніша з трьох зірок після вигину"
+
+#. Name for HIP 9487
+msgid "The star on the knot joining the two fishing-lines"
+msgstr "Зірка у вузлі, що з'єднує дві волосіні"
+
+#. Name for HIP 8198
+msgid ""
+"The first in the section beginning at the knot of the stars in the northern "
+"fishing-line"
+msgstr ""
+"Перша зірка у частині, що починається від взула зірок на північній волосіні"
+
+#. Name for HIP 7535
+msgid "The southernmost of the three stars following after that"
+msgstr "Найпівденніша з трьох зірок після неї"
+
+#. Name for HIP 6706
+msgid "The northernmost of the three, which is also on the end of the tail"
+msgstr "Найпівнічніша з трьох, яка також розташовано на кінчику хвоста"
+
+#. Name for HIP 5544
+msgid "The northernmost of the two stars in the mouth of the rear fish"
+msgstr "Найпівнічніша з двох зірок у роті задньої риби"
+
+#. Name for HIP 4510
+msgid "The rearmost of the three small stars in the head"
+msgstr "Найзадніша з трьох малих зірок у голові"
+
+#. Name for HIP 5131
+msgid ""
+"The most advanced of the three stars on the spine in the back, following [i."
+"e. to the rear of] the star on the elbow of Andromeda"
+msgstr ""
+"Найпередніша з трьох зірок на спині, за якими [тобто ззаду] йде зірка на "
+"лікті Андромеди"
+
+#. Name for HIP 6193
+msgid "The northernmost of the two stars in the belly"
+msgstr "Найпівнічніша з двох зірок на череві"
+
+#. Name for HIP 5571
+msgid "The star in the rear spine, near the tail"
+msgstr "Зірка на задній частині спини, поряд із хвостом"
+
+#. Name for HIP 118209
+msgid ""
+"The more advanced of the two northern stars of the quadrilateral under the "
+"advance fish"
+msgstr "Найпередніша з двох північних зірок чотирикутника під передньою рибою"
+
+#. Name for HIP 154
+msgid "The more advanced star on the southern side"
+msgstr "Найпередніша зірка на південному боці"
+
+#. Name for HIP 443
+msgid "The rearmost one on the southern side"
+msgstr "Найзадніша зірка на південному боці"
+
+#. Name for HIP 14135
+msgid "The rearmost, on the end of the jaw of the three stars in the snout"
+msgstr "Найзадніша, на кінці щелепи з трьох зірок на рилі"
+
+#. Name for HIP 12706
+msgid "The middle one, in the middle of the mouth"
+msgstr "Середня зірка, посередині рота"
+
+#. Name for HIP 12387
+msgid "The most advanced of the three, on the cheek"
+msgstr "Найпередніша з трьох, на щоці"
+
+#. Name for HIP 11484
+msgid "The star on the eyebrow and the eye"
+msgstr "Зірка на брові ока"
+
+#. Name for HIP 12828
+msgid "The one to the north of this, about on the hair"
+msgstr "Зірка на північ від цієї, майже на волоссі"
+
+#. Name for HIP 10324
+msgid "The one in advance of these, about on the mane"
+msgstr "Зірка перед цими, майже на гриві"
+
+#. Name for HIP 11345
+msgid ""
+"The northernmost star on the advance side of the quadrilateral in the chest"
+msgstr "Найпівнічніша зірка на передньому боці чотирикутника на грудях"
+
+#. Name for HIP 3436
+msgid "The southernmost one on the advance side"
+msgstr "Найпівденніша зірка на передній стороні"
+
+#. Name for HIP 3849
+msgid "The southernmost one on the rear side"
+msgstr "Найпівденніша зірка на задній стороні"
+
+#. Name for HIP 8102
+msgid "The midmost of the three stars in the body"
+msgstr "Середня з трьох зірок на тілі"
+
+#. Name for HIP 6537
+msgid "The rearmost of the two stars by the section next to the tail"
+msgstr "Найзадніша з двох зірок у частині поряд із хвостом"
+
+#. Name for HIP 3909
+msgid ""
+"The northernmost star on the rear side of the quadrilateral in the section "
+"next to the tail"
+msgstr ""
+"Найпівнічніша зірка на задньому боці чотирикутника у частині поряд із хвостом"
+
+#. Name for HIP 1562
+msgid ""
+"The one on the northern tail-fin of the two stars at the ends of the tail-"
+"fins"
+msgstr ""
+"Зірка у північній частині хвостового плавця з двох зірок на кінцях хвостових "
+"плавців"
+
+#. Name for HIP 3419
+msgid "The one on the end of the southern tail-fin"
+msgstr "Зірка на кінці кінці південного хвоста"
+
+#. Name for HIP 3419
+msgid "The second frog"
+msgstr "Друга жаба"
+
+#. Name for HIP 26207
+msgid "The nebulous star in the head of Orion, the three close stars"
+msgstr "Туманна зірка у голові Оріона, три близькі зірки"
+
+#. Name for HIP 27989
+msgid "The bright, reddish star on the right shoulder"
+msgstr "Яскрава червоняста зірка на правому плечі"
+
+#. Name for HIP 25813
+msgid "The one under this to the rear"
+msgstr "Зірка під цією позаду"
+
+#. Name for HIP 29426
+msgid ""
+"The rear, double star on the southern side of the quadrilateral in the right "
+"hand"
+msgstr "Задня подвійна зірка на південному боці чотирикутника у правій руці"
+
+#. Name for HIP 29704
+msgid "The rear one on the northern side"
+msgstr "Задня зірка на північному боці"
+
+#. Name for HIP 29434
+msgid "The advance one on the northern side"
+msgstr "Передня зірка на північному боці"
+
+#. Name for HIP 27913
+msgid "The more advanced of the two stars in the staff"
+msgstr "Передніша з двох зірок на палиці"
+
+#. Name for HIP 26594
+msgid ""
+"The rearmost of the four stars almost on a straight line just over the back"
+msgstr "Найзадніша з чотирьох зірок майже на прямій ліній одразу над спиною"
+
+#. Name for HIP 13701
+msgid "The one in advance again of this"
+msgstr "Зірка знову перед цією"
+
+#. Name for HIP 25142
+msgid "The last and most advanced of the four"
+msgstr "Остання і найпередніша з чотирьох"
+
+#. Name for HIP 24010
+msgid "The northernmost of the nine stars in the pelt on the left arm"
+msgstr "Найпівнічніша з дев'яти зірок на шкірі лівої руки"
+
+#. Name for HIP 23607
+msgid "The second from the northernmost"
+msgstr "Друга з найпівнічніших"
+
+#. Name for HIP 22957
+msgid "The third from the northernmost"
+msgstr "Третя з найпівнічніших"
+
+#. Name for HIP 22845
+msgid "The fourth from the northernmost"
+msgstr "Четверта з найпівнічніших"
+
+#. Name for HIP 22509
+msgid "The fifth from the northernmost"
+msgstr "П'ята з найпівнічніших"
+
+#. Name for HIP 22449
+msgid "The sixth from the northernmost"
+msgstr "Шоста з найпівнічніших"
+
+#. Name for HIP 22549
+msgid "The seventh from the northernmost"
+msgstr "Сьома з найпівнічніших"
+
+#. Name for HIP 22797
+msgid "The eighth from the northernmost"
+msgstr "Восьма з найпівнічніших"
+
+#. Name for HIP 23123
+msgid "The last and southernmost of those in the pelt"
+msgstr "Остання і найпівденніша з зірок на шкірі"
+
+#. Name for HIP 25930
+msgid "The most advanced of the three stars on the belt"
+msgstr "Передніша з трьох зірок на поясі"
+
+#. Name for HIP 25281
+msgid "The star near the handle of the dagger"
+msgstr "Зірка поряд із держаком кинджала"
+
+#. Name for HIP 26237
+msgid ""
+"The northernmost of the three stars joined together at the tip of the dagger"
+msgstr "Найпівнічніша з трьох зірок, які поєднуються на кінчику кинджала"
+
+#. Name for HIP 26563
+msgid "The rearmost of the two stars under the tip of the dagger"
+msgstr "Задніша з двох зірок під кінчиком кинджала"
+
+#. Name for HIP 24436
+msgid ""
+"The bright star in the left foot, which is [applied in] common to the water "
+"[of Eridanus]"
+msgstr "Яскрава зірка на лівій ступні, яка є спільною із водою [Ерідана]"
+
+#. Name for HIP 24674
+msgid "The star to the north of it in the lower leg, over the ankle-joint"
+msgstr ""
+"Зірка на північ від неї на нижній частині ноги, над з'єднанням із кісточкою"
+
+#. Name for HIP 25247
+msgid "The star under the left heel, outside"
+msgstr "Зірка під лівою п'ятою, ззовні"
+
+#. Name for HIP 27366
+msgid "The star under the right, rear knee"
+msgstr "Зірка під правим коліном позаду"
+
+#. Name for HIP 27989
+#. Al-Jawza is a proper Arabic name of Orion
+msgid "Shoulder of Al-Jawza"
+msgstr "Плече аль-Джози"
+
+#. Name for HIP 27989
+#. Al-Jawza is a proper Arabic name of Orion
+msgid "Hand of Al-Jawza"
+msgstr "Рука аль-Джози"
+
+#. Name for HIP 24436
+#. Al-Jawza is a proper Arabic name of Orion
+msgid "Shepherd of Al-Jawza"
+msgstr "Пастух аль-Джози"
+
+#. Name for HIP 24436
+#. Al-Najidh is a proper name
+msgid "Al-Najidh"
+msgstr "Аль-Наджид"
+
+#. Name for HIP 25336
+#. Al-Mirzam is a proper name meaning the star of sound of thunder
+msgid "Al-Mirzam"
+msgstr "Аль-Мірцам"
+
+#. Name for HIP 24436
+#. Al-Jawza is a proper Arabic name of Orion
+msgid "Leg of Al-Jawza"
+msgstr "Нога аль-Джози"
+
+#. Name for HIP 23972
+msgid ""
+"The star after the one in the foot of Orion, at the beginning of the river"
+msgstr "Зірка після зірки у ступні Оріона, на початку ріки"
+
+#. Name for HIP 23875
+msgid "The one north of this, in the curve near the shin of Orion"
+msgstr "Зірка на північ від цієї, на кривій поряд із гомілкою Оріона"
+
+#. Name for HIP 23364
+msgid "The rearmost of the two stars next in order after this"
+msgstr "Найзадніша з двох зірок далі за порядком після цієї"
+
+#. Name for HIP 22109
+msgid "The rearmost of the next two in order again"
+msgstr "Найзадніша з наступних двох зірок далі за порядком"
+
+#. Name for HIP 20507
+msgid "The rearmost of the three stars after this"
+msgstr "Найзадніша з трьох зірок після цієї"
+
+#. Name for HIP 18543
+msgid "The rearmost of the four stars in the next interval"
+msgstr "Найзадніша з чотирьох зірок на наступному інтервалі"
+
+#. Name for HIP 12444
+msgid "The most advanced of the four"
+msgstr "Найпередніша з чотирьох"
+
+#. Name for HIP 15197
+msgid "The rearmost of the four stars in the next likewise interval again"
+msgstr "Найзадніша з чотирьох зірок на наступному подібному інтервалі"
+
+#. Name for HIP 12843
+msgid ""
+"The first star in the bend of the river, which touches the chest of Cetus"
+msgstr "Перша зірка на вигині ріки, яка торкається грудей Кита"
+
+#. Name for HIP 14146
+msgid "The most advanced of the next consecutive three"
+msgstr "Найпередніша з наступних послідовних трьох"
+
+#. Name for HIP 17651
+msgid ""
+"The northern one on the advance side of the next four stars, nearly forming "
+"a trapezium"
+msgstr ""
+"Північна зірка на передньому боці наступних чотирьох зірок, які майже "
+"формують трапецію"
+
+#. Name for HIP 17717
+msgid "The southernmost on the advance side"
+msgstr "Найпівденніша зірка на передній стороні"
+
+#. Name for HIP 18216
+msgid "The more advanced one on the rear side"
+msgstr "Передніша зірка на задньому боці"
+
+#. Name for HIP 18673
+msgid "The last of the four, the rear one on that side"
+msgstr "Остання з чотирьох, задня зірка на тому боці"
+
+#. Name for HIP 21248
+msgid ""
+"The northernmost of the two stars close together at some distance to the east"
+msgstr ""
+"Найпівнічніша з двох близьких зірок у області на певній відстані на схід"
+
+#. Name for HIP 20535
+msgid "The rearmost of the next two stars after the bend"
+msgstr "Найзадніша з наступних двох зірок після вигину"
+
+#. Name for HIP 17874
+msgid "The rearmost of the three stars in the next interval"
+msgstr "Найзадніша з трьох зірок на наступному інтервалі"
+
+#. Name for HIP 13847
+msgid "The last star of the river, the bright one, called 'The male ostrich'"
+msgstr "Остання зірка ріки, яскрава, називають «Страус-самець»"
+
+#. Name for HIP 24244
+msgid ""
+"The northern star on the advance side of the quadrilateral just over the ears"
+msgstr "Північна зірка на передньому боці чотирикутника одразу над вухами"
+
+#. Name for HIP 24873
+msgid "The northern star on the rear side"
+msgstr "Північна зірка на задньому боці"
+
+#. Name for HIP 24845
+msgid "The southern star on the rear side"
+msgstr "Південна зірка на задньому боці"
+
+#. Name for HIP 24305
+msgid "The star in the chin"
+msgstr "Зірка на підборідді"
+
+#. Name for HIP 23685
+msgid "The star on the left front foot"
+msgstr "Зірка на лівому передній частині лівої ступні"
+
+#. Name for HIP 25985
+msgid "The star in the middle of the body"
+msgstr "Зірка посередині тіла"
+
+#. Name for HIP 25606
+msgid "The star under the belly"
+msgstr "Зірка під черевом"
+
+#. Name for HIP 27654
+msgid "The northernmost of the two stars in the hind legs"
+msgstr "Найпівнічніша з двох зірок на задніх лапах"
+
+#. Name for HIP 32349
+msgid "CMa_1"
+msgstr "CMa_1"
+
+#. Name for HIP 33160
+msgid "CMa_2"
+msgstr "CMa_2"
+
+#. Name for HIP 33345
+msgid "CMa_3"
+msgstr "CMa_3"
+
+#. Name for HIP 34045
+msgid "CMa_4"
+msgstr "CMa_4"
+
+#. Name for HIP 33347
+msgid "CMa_5"
+msgstr "CMa_5"
+
+#. Name for HIP 33302
+msgid "CMa_6"
+msgstr "CMa_6"
+
+#. Name for HIP 31700
+msgid "CMa_7"
+msgstr "CMa_7"
+
+#. Name for HIP 31592
+msgid "CMa_8"
+msgstr "CMa_8"
+
+#. Name for HIP 30324
+msgid "CMa_9"
+msgstr "CMa_9"
+
+#. Name for HIP 31125
+msgid "CMa_10"
+msgstr "CMa_10"
+
+#. Name for HIP 31416
+msgid "CMa_11"
+msgstr "CMa_11"
+
+#. Name for HIP 33977
+msgid "CMa_12"
+msgstr "CMa_12"
+
+#. Name for HIP 33152
+msgid "CMa_13"
+msgstr "CMa_13"
+
+#. Name for HIP 34444
+msgid "CMa_14"
+msgstr "CMa_14"
+
+#. Name for HIP 33579
+msgid "CMa_15"
+msgstr "CMa_15"
+
+#. Name for HIP 32759
+msgid "CMa_16"
+msgstr "CMa_16"
+
+#. Name for HIP 30122
+msgid "CMa_17"
+msgstr "CMa_17"
+
+#. Name for HIP 35904
+msgid "CMa_18"
+msgstr "CMa_18"
+
+#. Name for HIP 34769
+msgid "CMa_a_01"
+msgstr "CMa_a_01"
+
+#. Name for HIP 29034
+msgid "CMa_a_02"
+msgstr "CMa_a_02"
+
+#. Name for HIP 29807
+msgid "CMa_a_03"
+msgstr "CMa_a_03"
+
+#. Name for HIP 30277
+msgid "CMa_a_04"
+msgstr "CMa_a_04"
+
+#. Name for HIP 30788
+msgid "CMa_a_05"
+msgstr "CMa_a_05"
+
+#. Name for HIP 27204
+msgid "CMa_a_06"
+msgstr "CMa_a_06"
+
+#. Name for HIP 27810
+msgid "CMa_a_07"
+msgstr "CMa_a_07"
+
+#. Name for HIP 28199
+msgid "CMa_a_08"
+msgstr "CMa_a_08"
+
+#. Name for HIP 27628
+msgid "CMa_a_09"
+msgstr "CMa_a_09"
+
+#. Name for HIP 26634
+msgid "CMa_a_10"
+msgstr "CMa_a_10"
+
+#. Name for HIP 25859
+msgid "CMa_a_11"
+msgstr "CMa_a_11"
+
+#. Name for HIP 32349
+#. Shi'raa is the Arabic proper name of Sirius
+msgid ""
+"The star in the mouth, with utmost brightness, which is called 'the Dog' and "
+"'Southern or crossing Shi'raa'"
+msgstr ""
+"Зірка у роті, найбільшої яскравості, яку називають «Пес» і «Північна або "
+"перехрещена Ші'раа»"
+
+#. Name for HIP 33160
+msgid "The star on the ears"
+msgstr "Зірка на вухах"
+
+#. Name for HIP 33302
+msgid "The star on the chest"
+msgstr "Зірка у грудях"
+
+#. Name for HIP 31700
+msgid "The northernmost of the two stars on the right knee"
+msgstr "Найпівнічніша з двох зірок на правому коліні"
+
+#. Name for HIP 30324
+#. Al-Mirzam is a proper name meaning the star of sound of thunder
+msgid "The star on the end of the front leg, called 'Al-Mirzam'"
+msgstr "Зірка на кінці передньої лапи, яку називають «Аль-Мірцам»"
+
+#. Name for HIP 31125
+msgid "The more advanced of the two stars in the left knee"
+msgstr "Передніша з двох зірок на лівому коліні"
+
+#. Name for HIP 33977
+msgid "The rearmost of the two stars in the left shoulder"
+msgstr "Найзадніша з двох зірок на лівому плечі"
+
+#. Name for HIP 34444
+msgid "The star in the place where the left thigh joins [the body]"
+msgstr "Зірка на місці, де ліве стегно з'єднується [з тілом]"
+
+#. Name for HIP 33579
+msgid "The star below the belly, in the place between the thighs"
+msgstr "Зірка під черевом, у місці між стегнами"
+
+#. Name for HIP 32759
+msgid "The star on the joint of the right leg"
+msgstr "Зірка на з'єднанні правої лапи"
+
+#. Name for HIP 30122
+msgid "The star on the end of the right leg"
+msgstr "Зірка на кінці правої лапи"
+
+#. Name for HIP 35904
+msgid "The star on the tail"
+msgstr "Зірка на хвості"
+
+#. Name for HIP 34769
+msgid "The star to the north of the top of the dog skull"
+msgstr "Зірка на північ від верхньої частини черепа пса"
+
+#. Name for HIP 29034
+msgid ""
+"The southernmost of the four stars almost on a straight line under the hind "
+"legs"
+msgstr ""
+"Найпівденніша з чотирьох зірок майже на прямій лінії під задніми лапами"
+
+#. Name for HIP 29807
+msgid "The one north of this"
+msgstr "Зірка на північ від цієї"
+
+#. Name for HIP 30788
+msgid "The last and northernmost of the four"
+msgstr "Остання і найпівнічніша з чотирьох"
+
+#. Name for HIP 27204
+msgid ""
+"The most advanced of the three stars almost on a straight line to the west "
+"of the [above] four"
+msgstr ""
+"Передніша з трьох зірок майже на прямій ліній на захід від чотирьох [згори]"
+
+#. Name for HIP 27628
+msgid "The rearmost of the two bright stars under these"
+msgstr "Задніша з двох яскравих зірок під цими"
+
+#. Name for HIP 25859
+msgid "The last star, to the south of the above"
+msgstr "Остання зірка, на південь вище"
+
+#. Name for HIP 30324
+#. Al-Mirzam is a proper name meaning the star of sound of thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa that crossed [the milky way]"
+msgstr "Мірцам Ші'раа, який перетинах [Чумацький Шлях]"
+
+#. Name for HIP 30324
+#. Al-Mirzam is a proper name meaning the star of sound of thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa"
+msgstr "Мірцам Ші'раа"
+
+#. Name for HIP 30324
+msgid "The dog"
+msgstr "Пес"
+
+#. Name for HIP 36188
+#. Al-Mirzam is a proper name meaning the star of sound of thunder.
+msgid "The star in the neck, called Al-Mirzam"
+msgstr "Зірка на підборідді, яку називають «Аль-Мірцам»"
+
+#. Name for HIP 37279
+#. The northern Shi'raa or tearfull Shi'raa is a proper arabic name for Procyon.
+msgid ""
+"The bright star just over the hindquarters, called 'The northern or tearfull "
+"Shi'raa'"
+msgstr ""
+"Яскрава зірка одразу над крижами, яку називають «Північна або сльозлива "
+"Ші'раа»"
+
+#. Name for HIP 38835
+msgid "The more advanced of the two stars at the end of the ship"
+msgstr "Передніша з двох зірок на кінці корабля"
+
+#. Name for HIP 38170
+msgid ""
+"The northernmost of the two stars close together over the little shield in "
+"the poop"
+msgstr "Найпівнічніша з двох близьких зірок над малим щитом на кормі"
+
+#. Name for HIP 37173
+msgid "The star in advance of these"
+msgstr "Зірка перед цими"
+
+#. Name for HIP 37229
+msgid "The bright star in the middle of the little shield"
+msgstr "Яскрава зірка посередині малого щита"
+
+#. Name for HIP 36917
+msgid "The most advanced of the three stars under the little shield"
+msgstr "Передніша з трьох зірок під малим щитом"
+
+#. Name for HIP 38901
+msgid "The star on the stern neck"
+msgstr "Зірка на звуженні корми"
+
+#. Name for HIP 36514
+msgid ""
+"The northernmost of the two stars in the sternpost on which are the two "
+"stern cabins"
+msgstr ""
+"Найпівнічніша з двох зірок на ахтерштевні, на якому розташовано дві кормові "
+"каюти"
+
+#. Name for HIP 37096
+msgid "The northernmost of the stars in the poop-deck"
+msgstr "Найпівнічніша з зірок на палубі юта"
+
+#. Name for HIP 37297
+msgid "The most advanced of the next three"
+msgstr "Найпередніша з наступних трьох"
+
+#. Name for HIP 39429
+msgid "The bright star on the deck to the rear of these"
+msgstr "Яскрава зірка на палубі позаду цих"
+
+#. Name for HIP 38414
+msgid "The more advanced of the two faint stars under the bright one"
+msgstr "Передніша з двох тьмяних зірок під яскравою зіркою"
+
+#. Name for HIP 40091
+msgid "The more advanced of the two stars over the above-mentioned bright one"
+msgstr "Передніша з двох зірок над згаданою вище яскравою зіркою"
+
+#. Name for HIP 44191
+msgid ""
+"The northernmost of the three stars on the little shields, about on the mast-"
+"holder"
+msgstr "Найпівнічніша з трьох зірок на малих щитах майже на тримачі щогли"
+
+#. Name for HIP 43023
+msgid "The northernmost of the two stars close together under these"
+msgstr "Найпівнічніша з двох зірок близько одна від одної під цими"
+
+#. Name for HIP 42515
+msgid "The southernmost of the two stars in the middle of the mast"
+msgstr "Найпівденніша з двох зірок у середній частині щогли"
+
+#. Name for HIP 43409
+msgid "The more advanced of the two stars by the tip of the mast"
+msgstr "Передніша з двох зірок поряд із кінчиком щогли"
+
+#. Name for HIP 44816
+msgid "The star below the three rear little shield"
+msgstr "Зірка під трьома задніми малими щитами"
+
+#. Name for HIP 46651
+msgid "The star on the cut-off of the deck"
+msgstr "Зірка на обрізанні палуби"
+
+#. Name for HIP 36377
+msgid "The star between the steering-oars in the keel"
+msgstr "Зірка між рульовими веслами у кілі"
+
+#. Name for HIP 38164
+msgid "The faint star to the rear of this"
+msgstr "Тьмяна зірка позаду від цієї"
+
+#. Name for HIP 39953
+msgid "The bright star to the rear of this, under the deck"
+msgstr "Яскрава зірка позаду від цієї, під палубою"
+
+#. Name for HIP 38827
+msgid "The bright star to the south of this, on the sternpost"
+msgstr "Яскрава зірка на південь від цієї, на ахтерштевні"
+
+#. Name for HIP 42913
+msgid "The most advanced of the three stars to the rear of this"
+msgstr "Передніша з трьох зірок у хвості ззаду від цієї"
+
+#. Name for HIP 46701
+msgid ""
+"The more advanced of the two stars to the rear of these, near the cut-off of "
+"the deck"
+msgstr "Передніша із двох зірок позаду цих, поряд із обрізом палуби"
+
+#. Name for HIP 28328
+msgid ""
+"The more advanced of the two stars in the northern, advance steering-oar"
+msgstr "Передніша з двох зірок на північним, переднім рульовим веслом"
+
+#. Name for HIP 30438
+#. Suhayl is the Arabic proper name of Canopus
+msgid ""
+"The more advanced of the two stars in the other steering-oar, called "
+"Canopus, and it is Suhayl"
+msgstr ""
+"Передніша з двох зірок на іншому рульовому веслі, яку називають Канопус, і "
+"це Сухайль"
+
+#. Name for HIP 32768
+msgid "The other, rearmost star"
+msgstr "Інша, найзадніша зірка"
+
+#. Name for HIP 42402
+msgid ""
+"The southernmost of the two advance ones, which is on the nostrils of the "
+"five stars in the head"
+msgstr ""
+"Найпівденніша з двох передніх зірок, яку розташовано на ніздрях з п'яти "
+"зірок у голові"
+
+#. Name for HIP 42313
+msgid "The northernmost of these two, which is above the eye"
+msgstr "Найпівнічніша з цих двох, яку розташовано над оком"
+
+#. Name for HIP 43109
+msgid ""
+"The northernmost of the two to the rear of these, which is about on the skull"
+msgstr ""
+"Найпівнічніша з двох зірок позаду від цих, яку розташовано майже на черепі"
+
+#. Name for HIP 42799
+msgid "The southernmost of them, on the gaping jaws"
+msgstr "Найпівденніша з них, на розкритих щелепах"
+
+#. Name for HIP 43813
+msgid "The rearmost of all, about on the chin"
+msgstr "Найзадніша з усіх, майже на підборідді"
+
+#. Name for HIP 44659
+msgid ""
+"The more advanced of the two stars in the place where the neck joins [the "
+"head]"
+msgstr "Передніша з двох зірок на місці, де з'єднується шия [із головою]"
+
+#. Name for HIP 46776
+msgid "The middle star of the following three in the bend of the neck"
+msgstr "Середня зірка з наступних трьох на вигині шиї"
+
+#. Name for HIP 46404
+msgid "The faint, northernmost star of the two close together to the south"
+msgstr "Тьм'яна, найпівнічніша з двох зірок близько одна від одної на півдні"
+
+#. Name for HIP 46390
+#. Al-Fard is a proper name meaning the lone star
+msgid "The bright one of these two close stars, called Al-Fard"
+msgstr "Яскрава зірка з двох близьких зірок, яку називають «Аль-Фард»"
+
+#. Name for HIP 48356
+msgid ""
+"The most advanced of the three stars to the rear, after the bend [in the "
+"neck]"
+msgstr "Передніша з трьох зірок у хвості ззаду, після вигину [шиї]"
+
+#. Name for HIP 51069
+msgid "The most advanced of the next three stars almost on a straight line"
+msgstr "Передніша з наступних трьох зірок майже на прямій ліній"
+
+#. Name for HIP 54682
+msgid ""
+"The northernmost of the two stars after [i.e. to the rear of] the base of "
+"Crater"
+msgstr "Найпівнічніша з двох зірок після [тобто позаду] основи Чаші"
+
+#. Name for HIP 56343
+msgid ""
+"The most advanced of the three stars after these, as it were in a triangle"
+msgstr "Найпередніша з трьох зірок після цих, наче вона у трикутнику"
+
+#. Name for HIP 56922
+msgid "The middle and southernmost one"
+msgstr "Середня і найпівденніша зірка"
+
+#. Name for HIP 64962
+msgid "The star after Corvus, in the section by the tail"
+msgstr "Зірка після Ворона, у частині поряд із хвостом"
+
+#. Name for HIP 41307
+msgid "The star to the south of the head"
+msgstr "Зірка на південь від голови"
+
+#. Name for HIP 49641
+msgid "The star some distance to the rear of those in the neck"
+msgstr "Зірка на певній відстані позаду від зірок на шиї"
+
+#. Name for HIP 53740
+msgid "The star in the base of bowl, which is [applied in] common to Hydra"
+msgstr "Зірка у основі чаші, яка є спільною із Гідрою"
+
+#. Name for HIP 55705
+msgid "The southernmost of the two stars in the middle of the bowl"
+msgstr "Найпівденніша з двох зірок у середній частині чаші"
+
+#. Name for HIP 58188
+msgid "The star on the southern rim of the mouth"
+msgstr "Зірка на південному краю шийки"
+
+#. Name for HIP 56633
+msgid "The star on the northern rim"
+msgstr "Зірка на північному краю"
+
+#. Name for HIP 57283
+msgid "The star on the southern handle"
+msgstr "Зірка на південній ручці"
+
+#. Name for HIP 55687
+msgid "The star on the northern handle"
+msgstr "Зірка на північній ручці"
+
+#. Name for HIP 59199
+msgid "The star in the beak, which is [applied in] common to Hydra"
+msgstr "Зірка у дзьобі, яка є спільною із Гідрою"
+
+#. Name for HIP 59316
+msgid "The star in the neck, by the head"
+msgstr "Зірка у шиї, поряд із головою"
+
+#. Name for HIP 59803
+msgid "The star in the advance, right wing"
+msgstr "Зірка попереду, праве крило"
+
+#. Name for HIP 60965
+msgid "The more advanced of the two stars in the rear wing"
+msgstr "Передня з двох зірок на задньому крилі"
+
+#. Name for HIP 61359
+msgid "The star on the end of the leg, which is [applied in] common to Hydra"
+msgstr "Зірка на кінці лапи, яка є спільною із Гідрою"
+
+#. Name for HIP 67457
+msgid "The southernmost of the four stars in the head"
+msgstr "Найпівденніша з чотирьох зірок у голові"
+
+#. Name for HIP 67153
+msgid "The more advanced of the other, middle two"
+msgstr "Передніші з інших, середні дві"
+
+#. Name for HIP 67669
+msgid "The rearmost of these, the last of the four"
+msgstr "Найзадніша зірка із цих, остання з чотирьох"
+
+#. Name for HIP 65109
+msgid "The star on the left, advance shoulder"
+msgstr "Зірка на лівому передньому плечі"
+
+#. Name for HIP 65936
+msgid "The star on the left shoulder-blade"
+msgstr "Зірка на лівому краю плеча"
+
+#. Name for HIP 70090
+msgid "The northernmost of the advance two of the four stars in the thyrsus"
+msgstr "Найпівнічніша з передніх двох з чотирьох зірок на тирсі"
+
+#. Name for HIP 72010
+msgid "That one of the other two which is at the tip of the thyrsus"
+msgstr "Зірка з інших двох, які розташовано на кінчику тирси"
+
+#. Name for HIP 71865
+msgid "The last one, south of the latter"
+msgstr "Остання зірка на південь від попередньої"
+
+#. Name for HIP 67464
+msgid "The most advanced of the three stars in the right side"
+msgstr "Найпередніша з трьох зірок на правому боці"
+
+#. Name for HIP 73334
+msgid "The star in the right hand"
+msgstr "Зірка на правій руці"
+
+#. Name for HIP 68002
+msgid "The bright star in the place where the human body joins [the horse's]"
+msgstr ""
+"Яскрава зірка у місці, де людське тіло з'єднується [із конячим тулубом]"
+
+#. Name for HIP 68523
+msgid "The rearmost of the two faint stars to the north of this"
+msgstr "Найзадніша з двох зірок на північ від цієї"
+
+#. Name for HIP 64004
+msgid "The star in advance of this, on the horse's back"
+msgstr "Зірка перед цією, на спині коня"
+
+#. Name for HIP 61932
+msgid "The rearmost of the stars on the rump"
+msgstr "Найзадніша з зірок на крижах"
+
+#. Name for HIP 59196
+msgid "The more advanced of the two stars close together on the right thigh"
+msgstr "Передніша з двох близьких зірок на правому стегні"
+
+#. Name for HIP 67234
+msgid "The star in the chest, under the horse's armpit"
+msgstr "Зірка у грудях, під пахвою коня"
+
+#. Name for HIP 66657
+msgid "The more advanced of the two stars under the belly"
+msgstr "Передніша з двох зірок під черевом"
+
+#. Name for HIP 61084
+msgid "The star on the knee-bend of the right [hind] leg"
+msgstr "Зірка на вигині коліна правої [задньої] ноги"
+
+#. Name for HIP 62434
+msgid "The star in the hock of the same leg"
+msgstr "Зірка на підколінку тієї самої ноги"
+
+#. Name for HIP 59747
+msgid "The star under the knee-bend of the left [hind] leg"
+msgstr "Зірка під вигином коліна лівої [задньої] ноги"
+
+#. Name for HIP 60718
+msgid "The star on the frog of the hoof on the same leg"
+msgstr "Зірка на стрілці копита тієї самої ноги"
+
+#. Name for HIP 71683
+msgid "The star on the end of the right front leg"
+msgstr "Зірка на кінці правої передньої ноги"
+
+#. Name for HIP 68702
+msgid "The star on the knee of the left [front] leg"
+msgstr "Зірка на коліні лівої [передньої] ноги"
+
+#. Name for HIP 63003
+msgid "The star outside, under the right hind leg"
+msgstr "Зірка назовні, під правою задньою ногою"
+
+#. Name for HIP 71683
+#. Al-wazn is a proper name
+msgid "Al-Wazn"
+msgstr "Аль-Вазн"
+
+#. Name for HIP 68702
+#. Hadari is a proper name
+msgid "Hadari"
+msgstr "Хадарі"
+
+#. Name for HIP 73273
+msgid "The star at the end of the hind leg, by the [right] hand of Centaurus"
+msgstr "Зірка на кінці задньої лапи, поряд із [правою] рукою Центавра"
+
+#. Name for HIP 71860
+msgid "The star on the bend in the same leg"
+msgstr "Зірка на вигині тієї самої лапи"
+
+#. Name for HIP 75141
+msgid "The more advanced of the two stars just over the shoulder-blade"
+msgstr "Передніша з двох зірок одразу над краєм плеча"
+
+#. Name for HIP 75264
+msgid "The star in the middle of the body of Lupus"
+msgstr "Зірка посередині тіла Вовка"
+
+#. Name for HIP 74117
+msgid "The star in the belly, under the flank"
+msgstr "Зірка на череві, під боком"
+
+#. Name for HIP 73807
+msgid "The star on the thigh"
+msgstr "Зірка на стегні"
+
+#. Name for HIP 74911
+msgid ""
+"The northernmost of the two stars near the place where the thigh joins [the "
+"body]"
+msgstr ""
+"Найпівнічніша з двох зірок поряд із місцем, де з'єднуються стегна [із тілом]"
+
+#. Name for HIP 74395
+msgid "The star on the end of the rump"
+msgstr "Зірка на кінці крижів"
+
+#. Name for HIP 69996
+msgid "The southernmost of the 3 stars in the end of the tail"
+msgstr "Найпівденніша з трьох зірок на кінці хвоста"
+
+#. Name for HIP 78384
+msgid "The southernmost of the two stars in the neck"
+msgstr "Найпівденніша з двох зірок на шиї"
+
+#. Name for HIP 77634
+msgid "The more advanced of the two stars in the snout"
+msgstr "Передніша з двох зірок на рилі"
+
+#. Name for HIP 74604
+msgid "The southernmost of the two stars in the front leg, on the hand"
+msgstr "Найпівденніша з двох зірок на передній нозі, на руці"
+
+#. Name for HIP 86092
+msgid "The northernmost of the two stars in the base"
+msgstr "Найпівнічніша з двох зірок у основі"
+
+#. Name for HIP 85792
+msgid "The star in the middle of the little altar"
+msgstr "Зірка посередині малого вівтаря"
+
+#. Name for HIP 83153
+msgid "The northernmost of the three stars in the brazier"
+msgstr "Найпівнічніша з трьох зірок у жаровні"
+
+#. Name for HIP 85267
+msgid "The southernmost of the other two which are close together"
+msgstr "Найпівденніша з інших двох, які є близькими"
+
+#. Name for HIP 85258
+msgid "The northernmost of these two"
+msgstr "Найпівнічніша з цих двох"
+
+#. Name for HIP 83081
+msgid "The star on the end of the burning-apparatus"
+msgstr "Зірка на кінці вогню"
+
+#. Name for HIP 90422
+msgid "The most advanced of the stars on the southern rim, outside [the crown]"
+msgstr "Найпередніша з зірок на південному краю, ззовні [корони]"
+
+#. Name for HIP 92308
+msgid "The star to the rear of this on the crown"
+msgstr "Зірка позаду цієї на короні"
+
+#. Name for HIP 94005
+msgid "The one after this, before the knee of Sagittarius"
+msgstr "Зірка після цієї, перед коліном Стрільця"
+
+#. Name for HIP 94160
+msgid ""
+"The one after this, which is north of the bright star in the knee [of "
+"Sagittarius]"
+msgstr ""
+"Зірка після цієї, яку розташовано на північ від яскравої зірки у коліні "
+"[Стрільця]"
+
+#. Name for HIP 94114
+msgid "The star to the north of this"
+msgstr "Зірка на північ від цієї"
+
+#. Name for HIP 93825
+msgid "The one to the north again of this"
+msgstr "Зірка ще на північ від цієї"
+
+#. Name for HIP 93174
+msgid ""
+"The rearmost of the two stars after this, in advance, in the northern rim"
+msgstr "Найзадніша з двох зірок після цієї, попереду, на північному краю"
+
+#. Name for HIP 92989
+msgid "The more advanced of these two faint stars"
+msgstr "Передніша з цих двох тьмяних зірок"
+
+#. Name for HIP 91875
+msgid "The star quite some distance in advance of this"
+msgstr "Зірка на певній відстані перед цією"
+
+#. Name for HIP 90982
+msgid "The last one, which is south of the aforementioned star"
+msgstr "Остання зірка, яку розташовано на південь від вищезгаданої зірки"
+
+#. Name for HIP 111188
+msgid "The most advanced of the three stars on the southern rim of the head"
+msgstr "Передніша з трьох зірок на південному краю голови"
+
+#. Name for HIP 111954
+msgid "The star by the gills"
+msgstr "Зірка за жабрами"
+
+#. Name for HIP 109285
+msgid "The star on the southernmost spine on the back"
+msgstr "Зірка на найпівденнішій задній частині спини"
+
+#. Name for HIP 111045
+msgid "The rearmost of the two stars in the belly"
+msgstr "Найзадніша з двох зірок на животі"
+
+#. Name for HIP 108661
+msgid "The rearmost of the three stars on the northern spine"
+msgstr "Найзадніша з трьох зірок на півночі спини"
+
+#. Name for Mel 111
+msgid "Tassel of the lion"
+msgstr "Китиця лева"
+
+#. Name for NGC 869
+msgid "The nebulous mass on the right hand"
+msgstr "Туманна маса на правій руці"
+
+#. Name for NGC 869
+msgid "wrist of Al-Thurayya"
+msgstr "Зап'ясток Аль-Тураї"
+
+#. Name for NGC 5139
+msgid "The star on the place where the back joins [the horse's body]"
+msgstr "Зірка у місці, де задня частина з'єднується [із конячим тулубом]"
+
+#. Name for M 44
+msgid "The middle of the nebulous mass in the chest, called Praesepe"
+msgstr "Середина туманної маси у грудях, яку називають «Ясла»"
+
+#. Name for M 44
+msgid "Nose tip of the lion"
+msgstr "Кінчик носа лева"

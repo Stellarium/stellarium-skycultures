@@ -1,0 +1,4609 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
+"Language-Team: Lithuanian (https://app.transifex.com/stellarium/teams/80998/"
+"lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < "
+"11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? "
+"1 : n % 1 != 0 ? 2: 3);\n"
+
+#. Sky culture name
+msgid "Arabic (Al-Sufi)"
+msgstr "Arabų (Al-Sufi)"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"The Book of Fixed Stars was written shortly before 964 AD. Dr. Paul "
+"Kunitzsch described it as \"the most outstanding among the works of the "
+"prominent astronomer Abu 'l-Ḥusayn 'Abd al-Raḥmān ibn 'Umar al-Şūfi (born in "
+"Rayy, 903; died 986), referred to as al-Sufi. In it, al-Şūfī treats the 48 "
+"classical constellations, which were established and transmitted in "
+"Ptolemy's Almagest. The description of each constellation comprises the "
+"following four sections: first, a general discussion of the constellation "
+"and its individual stars; this section also includes alŞūfi's criticism of "
+"the Ptolemaic tradition and notices of his own observations. Second, a "
+"record of the indigenous Arabic star names falling under that constellation, "
+"and the exact identification of the respective stars with the corresponding "
+"Ptolemaic stars. Third, two drawings of the constellation, one as it is seen "
+"on a celestial globe, and the other one as it is seen in the sky. Fourth, a "
+"table of the stars making up that constellation, giving a verbal description "
+"of each star's location and its longitude, latitude, and magnitude. This "
+"table closely follows the arrangement of Ptolemy's star catalogue in the "
+"Almagest.\" [#1]. In addition to the four sections of each constellation "
+"mentioned by dr. Kunitzsch, Al-Sufi would identify stars within the 6 "
+"magnitudes that were neglected by Ptolemy, but he did not catalogue them and "
+"was faithful to Ptolemy star catalog."
+msgstr ""
+"Fiksuotųjų žvaigždžių knyga buvo parašyta prieš pat 964 m. po\n"
+"Kr. Dr. Paulius Kunitšas ją apibūdino kaip \"iškiliausią iš žymaus "
+"astronomo\n"
+"Abu 'l-Ḥusayn 'Abd al-Raḥmān ibn 'Umar al-Şūfi (gimė 903 m. Rayy, mirė 986\n"
+"m.), vadinamo al-Sufi, darbų. Jame al-Şūfī nagrinėja 48 klasikinius\n"
+"žvaigždynus, kurie buvo nustatyti ir perduoti Ptolemėjaus\n"
+"\"Almageste\". Kiekvieno žvaigždyno aprašymą sudaro šie keturi skyriai: "
+"pirma,\n"
+"bendras žvaigždyno ir atskirų jo žvaigždžių aptarimas; šiame skyriuje taip\n"
+"pat pateikiama alŞūfi Ptolemėjaus tradicijos kritika ir jo paties stebėjimų\n"
+"pastabos. Antra, vietinių arabiškų žvaigždžių pavadinimų, priklausančių tam\n"
+"žvaigždynui, įrašas ir tikslus atitinkamų žvaigždžių tapatinimas su\n"
+"atitinkamomis Ptolemėjaus žvaigždėmis. Trečia, du žvaigždyno brėžiniai:\n"
+"vienas, kaip jis matomas dangaus gaublyje, o kitas - kaip jis matomas\n"
+"danguje. Ketvirta, žvaigždyną sudarančių žvaigždžių lentelė, kurioje žodžiu\n"
+"aprašoma kiekvienos žvaigždės vieta, jos ilguma, platuma ir ryškumas.Ši\n"
+"lentelė tiksliai atitinka Ptolemėjo \"Almagesto\" žvaigždžių katalogo\n"
+"išdėstymą.[#1].Greta keturių kiekvieno\n"
+"žvaigždyno skyrių, kuriuos paminėjo dr. Kunitšas, Al-Sufi nustatė žvaigždes\n"
+"6 magnitudžių ribose, į kurias Ptolemėjas neatsižvelgė, tačiau jų\n"
+"nekatalogavo ir buvo ištikimas Ptolemėjo žvaigždžių katalogui."
+
+#. Sky culture description section in markdown format
+msgid ""
+"An important aspect of the general discussion section is Al-Sufi method of "
+"facilitating the star identification. He describes each individual star in "
+"more than way: By the star position related to the constellation figure, by "
+"its magnitude, by the asterism it forms with other stars like triangle or "
+"arc shapes, sometimes by the star position related to the Milky way, and by "
+"the angular distance from a close by star. I have counted more than 700 "
+"angular distances measured by al-Sufi in his book. The units he uses for "
+"angular distances are cubits, spear length, man-height, span, and finger. Al-"
+"Sufi explicitly said in his book that a cubit is equal to two degrees and 20 "
+"minutes [#2]. For the other units, Schjellerup concluded some values, but "
+"tracking the 700 measurements, I came up with different values. The "
+"following table summarizes the units and relationship to the cubit value "
+"from Schjellerup[#3] and from my research.\n"
+"\n"
+"### Angular distance units used by Al-Sufi\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>&nbsp;</notr></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Schjellerup</b></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Khalid</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>unit</b></td>\n"
+"\t<td><b>cubits</b></td>\n"
+"\t<td><b>Angular Value</b></td>\n"
+"\t<td><b>cubits</b></td>\n"
+"\t<td><b>Angular Value</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>spear</td>\n"
+"\t<td>6 cubits</td>\n"
+"\t<td><notr>14°</notr></td>\n"
+"\t<td>6 cubits</td>\n"
+"\t<td><notr>14°</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Man-Height</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"\t<td>3 cubits</td>\n"
+"\t<td><notr>7°</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>cubit</td>\n"
+"\t<td>1 cubit</td>\n"
+"\t<td><notr>2°20'</notr></td>\n"
+"\t<td>1 cubit</td>\n"
+"\t<td><notr>2°20'</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>span</td>\n"
+"\t<td>1/3 of a cubit</td>\n"
+"\t<td><notr>47'</notr></td>\n"
+"\t<td>1/2 of a cubit</td>\n"
+"\t<td><notr>1°10'</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>finger</td>\n"
+"\t<td>1/32 of a cubit</td>\n"
+"\t<td><notr>4.4'</notr></td>\n"
+"\t<td>1/16 of a cubit</td>\n"
+"\t<td><notr>8.75'</notr></td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"Another important aspect of Al-Sufi book is his record of the indigenous "
+"Arabic star names falling under each constellation, and the exact "
+"identification of the respective stars with the corresponding Ptolemaic "
+"stars. This means that we are looking at two layers of stars knowledge at "
+"the same time: the Ptolemaic one and the indigenous Arab one.\n"
+"\n"
+"### The Sky Culture\n"
+"\n"
+"This sky culture is a result of a research done on several manuscripts of "
+"the book, oldest of which is the [#8].\n"
+"\n"
+"First, the manuscripts of the Book of Fixed Stars were critically edited, "
+"and the text was produced. Second, each member star of the 48 constellations "
+"was identified according to Al-Sufi description, and new tables were built "
+"including modern star designations from the Hipparcos, Bright stars, and "
+"Bayer catalogues. Third, Arab indigenous star names were collected and "
+"identified as mapped by Al-Sufi to the Ptolemaic ones. All the previous "
+"steps were included in a book published digitally of the Book of Fixed Stars "
+"plus explanations and commentary by Khalid Al-Ajaji[#4].\n"
+"\n"
+"The sky culture stick figures of the constellations are the images in the "
+"Ulugh Beg manuscript of the Book of Fixed Stars, extracted, and adapted for "
+"Stellarium by Mr. Kutaibaa Akraa [#5]. The star names file includes the star "
+"number in the constellation as the primary star name and the description of "
+"the star in the tables as a secondary name. For example, Polaris primary "
+"name that is displayed with the star is: UMi1, UMi being Ursa Minor and 1 is "
+"the first star of this constellation. If the star is selected other "
+"secondary names are displayed, which will display \"The star on the end of "
+"the tail\" on the top of the screen. The constellation lines are constructed "
+"according to the constellation shapes with an attempt to include most of the "
+"member stars. For indigenous Arab star knowledge, individual star names were "
+"added to the star file as secondary names, while names of group of stars "
+"were defined through asterism names and asterism lines files.\n"
+"\n"
+"The translation of star descriptions from Arabic into English was extracted "
+"from Ernie Wright website[#6] which was transcribed from Toomer's "
+"translation of the Almagest[#7]. The translation was modified in a few "
+"places to agree with Al-Sufi wording.\n"
+"\n"
+"The single source of the sky culture is the Book of Fixed Stars and the "
+"objective is to give a faithful representation of the book content."
+msgstr ""
+"Svarbus bendrosios diskusijos skyriaus aspektas yra Al-Sufi metodas,\n"
+"palengvinantis žvaigždės identifikavimą. Kiekvieną atskirą žvaigždę jis\n"
+"apibūdina daugiau nei vienu būdu: pagal žvaigždės padėtį, susijusią su\n"
+"žvaigždyno figūra, pagal jos ryškį, pagal asterizmą, kurį ji sudaro su\n"
+"kitomis žvaigždėmis, pavyzdžiui, trikampio ar lanko formos, kartais pagal\n"
+"žvaigždės padėtį, susijusią su Paukščių taku, ir kampiniu atstumu nuo\n"
+"artimos žvaigždės. Savo knygoje suskaičiavau daugiau nei 700 kampinių\n"
+"atstumų, kuriuos matavo al-Sufi. Vienetai, kuriuos jis naudoja kampiniams\n"
+"atstumams, yra uolektys, ieties ilgis, žmogaus ūgis, tarpatramis ir\n"
+"pirštas. Al-Sufi savo knygoje aiškiai pasakė, kad uolektis yra lygi dviem\n"
+"laipsniams ir 20 minučių [#2]. Kitų\n"
+"vienetų atveju Schjellerup padarė kai kurias vertes, tačiau stebėdamas 700\n"
+"matavimų, aš gavau skirtingas vertes. Šioje lentelėje apibendrinami "
+"vienetai\n"
+"ir santykis su uolekčių verte iš Schjellerup[#3] ir mano tyrimo.\n"
+"\n"
+"### Kampinio atstumo vienetai, naudoti Al-Sufi.\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td>&nbsp;</td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Schjellerup</b></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Khalid</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>vienetas</b></td>\n"
+"\t<td><b>kubitai</b></td>\n"
+"\t<td><b>Kampinis dydis</b></td>\n"
+"\t<td><b>kubitai</b></td>\n"
+"\t<td><b>Kampinis dydis</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Ietis</td>\n"
+"\t<td>6 kubitai</td>\n"
+"\t<td>14°</td>\n"
+"\t<td>6 kubitai</td>\n"
+"\t<td>14°</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Žmogaus aukštis</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"\t<td>3 kubitai</td>\n"
+"\t<td>7°</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>kubitas</td>\n"
+"\t<td>1 kubitas</td>\n"
+"\t<td>2°20'</td>\n"
+"\t<td>1 kubitas</td>\n"
+"\t<td>2°20'</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>tarpas</td>\n"
+"\t<td>1/3 kubito</td>\n"
+"\t<td>47'</td>\n"
+"\t<td>1/2 kubito</td>\n"
+"\t<td>1°10'</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>pirštas</td>\n"
+"\t<td>1/32 kubito</td>\n"
+"\t<td>4.4'</td>\n"
+"\t<td>1/16 kubito</td>\n"
+"\t<td>8.75'</td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"Kitas svarbus Al-Sufi knygos aspektas yra jo įrašas apie vietinius arabų\n"
+"žvaigždžių pavadinimus, esančius kiekviename žvaigždyne, ir atitinkamų\n"
+"žvaigždžių tikslus identifikavimas su atitinkamomis Ptolemėjaus\n"
+"žvaigždėmis. Tai reiškia, kad tuo pačiu metu žiūrime į dvi žvaigždžių\n"
+"žinias: Ptolemėjaus ir vietinės arabų žinias.\n"
+"\n"
+"### Dangaus kultūra\n"
+"\n"
+"Ši dangaus kultūra yra rezultatas atlikto tyrimo,  remiantis keliomis\n"
+"rankraščių knygomis, seniausia iš kurių yra [#8].\n"
+"\n"
+"Pirmiausia, \"Fiksuotų žvaigždžių knygos\" rankraščiai buvo kritiškai\n"
+"redaguoti ir sukurtas tekstas. Antra, kiekviena 48 žvaigždynų žvaigždė buvo\n"
+"identifikuota pagal Al-Sufi aprašymą ir buvo sukurta naujų lentelių,\n"
+"įtraukiančių šiuolaikinius žvaigždžių pavadinimus iš Hipparcos, Bright\n"
+"žvaigždžių ir Bayer katalogų. Trečia, buvo surinkti ir identifikuoti\n"
+"arabiški  žvaigždžių pavadinimai, kurie buvo susiejami su Ptolemėjaus\n"
+"pavadinimais pagal Al-Sufi žemėlapį. Visi ankstesni žingsniai buvo įtraukti\n"
+"į knygą, skaitmeniškai išleistą \"Fiksuotų žvaigždžių knygos\" kartu su\n"
+"paaiškinimais ir komentarais, parašytais Khalid Al-Ajaji[#4].\n"
+"\n"
+"Dangaus kultūros figūros - žvaigždynų paveikslai yra Ulugh Beg rankraščio\n"
+"\"Fiksuotų žvaigždžių knygos\" ištraukos, pritaikytos Stellarium programai,\n"
+"kurias atliko p. Kutaibaa Akraa[#5]. Žvaigždžių pavadinimų failas apima "
+"žvaigždės numerį\n"
+"žvaigždyno viduje kaip pagrindinį žvaigždės pavadinimą ir žvaigždės "
+"aprašymą\n"
+"lentelėse kaip antrinį pavadinimą. Pavyzdžiui, Šiaurinės pagrindinis\n"
+"pavadinimas, kuris rodomas su žvaigžde, yra: UMi1, UMi reiškia Ursa Minor, "
+"o\n"
+"1 yra šio žvaigždyno pirmoji žvaigždė. Jei pasirenkama kita žvaigždė, "
+"rodomi\n"
+"kiti antriniai pavadinimai, kurie viršuje ekrano rodo \"Žvaigždė ant "
+"uodegos\n"
+"galo\". Žvaigždyno linijos yra sudarytos pagal žvaigždyno formą, "
+"stengiantis\n"
+"įtraukti kuo daugiau žvaigždžių. Vietos arabų žvaigždžių žinioms,\n"
+"individualūs žvaigždžių pavadinimai buvo pridėti į žvaigždžių failą kaip\n"
+"antriniai pavadinimai, o žvaigždžių grupių pavadinimai buvo apibrėžti per\n"
+"asterizmų pavadinimus ir asterizmų linijų failus.\n"
+"\n"
+"Žvaigždžių aprašymų vertimas iš arabų kalbos į anglų kalbą buvo ištrauktas\n"
+"iš Ernie Wright svetainės[#6], kuri buvo\n"
+"transkribuota iš Toomerio vertimo Almagesto[#7]. Vertimas buvo keletą vietų "
+"pakeistas, kad\n"
+"atitiktų Al-Sufi žodžius.\n"
+"\n"
+"Vienintelis dangaus kultūros šaltinis yra \"Fiksuotų žvaigždžių knyga\", o\n"
+"tikslas yra pateikti patikimą knygos turinio atvaizdavimą."
+
+#. Sky culture authors section in markdown format
+msgid ""
+"This sky culture was compiled and added to Stellarium by Khalid Al-Ajaji: "
+"turath.alfalak@gmail.com"
+msgstr ""
+"Ši dangaus kultūra buvo sudaryta ir pridėta prie Stellarium Khalidui\n"
+"Al-Ajajiui: turath.alfalak@gmail.com"
+
+#. Sky culture references section in markdown format
+msgid ""
+" - [#1]: The Arabs and the Stars, Paul Kunitzsch,The Astronomer Abu'L-Husayn "
+"Al-Sufi And His Book On The Constellations, XI, pg 57. Northampton "
+"[England]: Variorum Reprints, 1989.\n"
+" - [#2]: See Al-Sufi description in his book of the 14th star in Auriga.\n"
+" - [#3]: DESCRIPTIONS DES ETOILES FIXES, traduction littérale avec des notes "
+"par H C F C Schjellerup, St Petersbourg, 1874, pg 26-27.\n"
+" - [#4]: [Book of Fixed Stars: Critical edition with commentary by Khalid "
+"AlAjaji](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).\n"
+" - [#5]: [Oulough Beg copy of ʿAbd al-Raḥmān ibn ʿUmar al-Ṣūfī. Kitāb ṣuwar "
+"al-kawākib al-ṯābita, Paris, Bibliothèque nationale de France Ms. Arabe 5036]"
+"(https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Seeing Ancient Stars, Visualization of the Almagest Catalog]"
+"(http://www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Ptolemy’s ALMAGEST, G. J. Toomer, Princeton University Press, 2nd "
+"ed., 1998.\n"
+" - [#8]: [Oxford, Bodleian Library Ms. Marsh 144 dated 1009 AD](https://iiif."
+"bodleian.ox.ac.uk/iiif/viewer/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?"
+"c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)"
+msgstr ""
+" - [#1]: Arabai ir žvaigždės, Paul Kunitzsch, Astronomas Abu'L-Husayn Al-"
+"Sufi ir jo knyga apie žvaigždynus, XI, psl. 57. Northampton [Anglija]: "
+"Variorum Reprints, 1989.\n"
+" - [#2]: Peržiūrėkite Al-Sufi aprašymą jo knygoje apie 14-ąją žvaigždę "
+"Vežėjo žvgždn.\n"
+" - [#3]: FIKSUOTŲ ŽVAIGŽDŽIŲ APRAŠYMAS, tiesioginė vertimas su pastabomis, H "
+"C F C Schjellerup, St Peterburgas, 1874, psl. 26-27.\n"
+" - [#4]: [Fiksuotų žvaigždžių knyga: Kritinė redakcija su komentaru, parengė "
+"Khalid AlAjaji](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).\n"
+" - [#5]: [Oulough Beg kopija knygosʿAbd al-Raḥmān ibn ʿUmar al-Ṣūfī. Kitāb "
+"ṣuwar al-kawākib al-ṯābita, Paryžius, Prancūzijos nacionalinė biblioteka, "
+"Arabe 5036](https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Senovinių žvaigždžių stebėjimas, Almagesto katalogo vizualizacija]"
+"(http://www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Ptolemėjaus ALMAGESTAS, G. J. Toomer, Prinstono universiteto "
+"leidykla, 2-asis leid., 1998.\n"
+" - [#8]: [Oxford, Bodleian bibliotekos p. Marsh 144, datuojama 1009 m.]"
+"(https://iiif.bodleian.ox.ac.uk/iiif/viewer/c1caa84c-"
+"f6d2-483f-9eb4-2439cccdc801#?"
+"c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two oryx calves"
+msgstr "Du Orikso jaunikliai"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The axe of the grindstone"
+msgstr "Galąstuvo ašis"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The smaller daughters of Na'sh"
+msgstr "Našo  jaunesniosios dukterys"
+
+#. Arabic (Al-Sufi) asterism
+#. Na'sh is a proper name meaning bier
+msgid "Daughters of Na'sh"
+msgstr "Našo dukterys"
+
+#. Arabic (Al-Sufi) asterism
+#. Na'sh is a proper name meaning bier
+msgid "The couch of daughters of Na'sh"
+msgstr " Našo dukterų kušetė"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Gazelles"
+msgstr "Gazelės"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Gazelles youngsters"
+msgstr "Jaunos Gazelės "
+
+#. Arabic (Al-Sufi) asterism
+msgid "The water pool"
+msgstr "Vandens baseinas"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The first leap"
+msgstr "Pirmasis šuolis"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The second leap"
+msgstr "Antrasis šuolis"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The third leap"
+msgstr "Trečiasis šuolis"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The leaps - The little foxes - the couples"
+msgstr "Šuoliai - Mažos lapės - poros"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two wolves - The two falcons - The two black birds"
+msgstr "Du vilkai - Du sakalai - Du juodi paukščiai"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The wolf claws"
+msgstr "Vilko nagai"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The mother camels"
+msgstr "Motinos kupranugarės"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The three stone support (first narrative)"
+msgstr "Tris akmenų atrama (pirmasis pasakojimas)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The three stone support (second narrative)"
+msgstr "Tris akmenų atrama (antrasis pasakojimas)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The pot"
+msgstr "Puodas"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two stars of separation"
+msgstr " Dvi atskirties žvaigždės"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The sheep"
+msgstr "Avis"
+
+#. Arabic (Al-Sufi) asterism
+#. Name for HIP 67927
+msgid "The spear"
+msgstr "Ietis"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The front spear tassel - the weapon"
+msgstr "Priekinės ieties kutas - ginklas"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The rear spear tassel"
+msgstr "Galiniai ieties kutai"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The hyenas and their youngsters"
+msgstr "Hienos ir jų jaunikliai"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The open circle - The bowl of the poor"
+msgstr " Atviras ratas - vargšų dubuo"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The northern line"
+msgstr "Šiaurinė linija"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The statues"
+msgstr "Statulos"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The landing eagle "
+msgstr "Besileidžiantis erelis"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The claws"
+msgstr "Nagai"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The knights"
+msgstr "Riteriai"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The she-camel"
+msgstr "Kupranugarė"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The henna tinted hand"
+msgstr "Chna nuspalvinta ranka"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The forearm"
+msgstr "Dilbis"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The arm"
+msgstr "Ranka"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The shoulder"
+msgstr "Petys"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Thurayya is a proper name
+msgid "The extended arm of Al-Thurayya"
+msgstr "Ištiesta Al Turajos ranka"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The northern tent"
+msgstr "Šiaurinė palapinė"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Ayyuq is a proper name meaning the obstructor
+msgid "The posts - The associates of Al-Ayyuq"
+msgstr "Postai - Al-Ajuko bendražygiai"
+
+#. Arabic (Al-Sufi) asterism
+#. kid is the young male goat
+msgid "The two kids"
+msgstr "Du vaikai"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The desert natural garden and the goats"
+msgstr "Dykumos natūralus sodas ir ožkos."
+
+#. Arabic (Al-Sufi) asterism
+msgid "The southern line"
+msgstr "Pietinė linija"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The flying eagle"
+msgstr "Skraidantis erelis"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two young male ostriches"
+msgstr "Du jauni stručių patinai"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The young camel"
+msgstr "Jaunas kupranugaris"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The well bucket"
+msgstr "Šulinio kibiras"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The front bucket mouth"
+msgstr "Priekinė kibiro pusė"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The rear bucket mouth"
+msgstr "Galinė kibiro pusė"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The well poles - The bucket rope knot"
+msgstr "Šulinio stulpai - Kibiro virvės mazgas"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the young sheep"
+msgstr "Jauno avinėlio laimingoji žvaigždė"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the one with great endeavour"
+msgstr "Laimingoji žvaigždė to, kuris labai stengiasi"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the excellent one"
+msgstr "Puikiojo Laimingoji žvaigždė "
+
+#. Arabic (Al-Sufi) asterism
+#. Mattar is a proper name meaning rain
+msgid "The lucky star of Mattar"
+msgstr "Laimingoji Mataro žvaigždė"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The fox place"
+msgstr "Lapės vieta"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The fish"
+msgstr "Žuvis"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two forelegs of the lamb"
+msgstr "Dvi avinėlio priekinės kojos"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two signs (first narrative)"
+msgstr "Du ženklai (pirmasis pasakojimas)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two signs (second narrative)"
+msgstr "Du ženklai (antrasis pasakojimas)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The signs (first narrative)"
+msgstr "Ženklai (pirmasis pasakojimas)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The signs (second narrative)"
+msgstr "Ženklai (antrasis pasakojimas)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The little abdomen"
+msgstr "Mažas pilvas"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Thurayya is a proper name referring to the Pleiades
+#. Name for M 45
+msgid "Al-Thurayya"
+msgstr "Al-Turaja"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The young she-camels"
+msgstr "Jaunosios kupranugarės"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Dabaran is a proper name meaning the follower
+msgid "The two dogs of Al-Dabaran"
+msgstr "Du Aldebarano šunys"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The extended arm [of the lion]"
+msgstr "Ištiesta ranka [liūto]"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The downward bend (first narrative)"
+msgstr "Lenkimas žemyn (pirmasis naratyvas)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The downward bend (second narrative)"
+msgstr "Lenkimas žemyn (antrasis naratyvas)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The stars of rain (first narrative)"
+msgstr "Lietaus žvaigždės (pirmasis pasakojimas)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Stars of rain (second narrative)"
+msgstr "Lietaus žvaigždės (antrasis pasakojimas)"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Jawza is a proper name
+msgid "Bow of Al-Jawza"
+msgstr "Al-Džavzos lankas"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Nostrils [of the lion]"
+msgstr "Šnervės [liūto]"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Mouth of the lion"
+msgstr "Liūto burna"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The eyes [of the lion]"
+msgstr "Akys [liūto]"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Northern eyelashes roots"
+msgstr "Šiaurinių blakstienų šaknys"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Southern eyelashes roots"
+msgstr "Pietinių blakstienų šaknys"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Forehead [of the lion]"
+msgstr "Kakta [liūto]"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Mane of the lion"
+msgstr "Liūto karčiai"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The bend"
+msgstr "Išlinkimas"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The tassel"
+msgstr "Kutas"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Claws of the scorpion"
+msgstr "Skorpiono žnyplės"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The diadem (according to Al-Sufi)"
+msgstr "Diadema (pagal Al-Sufi)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The diadem (as narrated by Arabs)"
+msgstr "Diadema (kaip pasakoja arabai)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Veins of the heart"
+msgstr "Širdies venos"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Tail segments of the scorpion"
+msgstr "Skorpiono uodegos segmentai"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Raised Tail of the Scorpion - the sting"
+msgstr "Pakelta Skorpiono uodega - geluonis"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Ostriches drinking at the river"
+msgstr "Stručiai geria vandenį upėje"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Ostriches leaving the river"
+msgstr "Stručiai palieka upę"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two male ostriches"
+msgstr "Du patinai stručiai"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The link"
+msgstr "Ryšys"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Ostrich nest - The necklace"
+msgstr "Stručio lizdas - Vėrinys"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The empty place"
+msgstr "Tuščia vieta"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two shrikes"
+msgstr "Dvi medšarkės"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the slaughterer"
+msgstr "Skerdiko laimingoji žvaigždė"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of Nashira"
+msgstr "Laimingoji Naširos žvaigždė"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the king"
+msgstr "Karaliaus laimingoji žvaigždė"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The luckiest of the lucky stars"
+msgstr "Laimingiausia iš laimingiausių žvaigždžių"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the swallower"
+msgstr "Rijiko laimingoji žvaigždė"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the tents"
+msgstr "Laimingoji palapinės žvaigždė"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The ringed rope"
+msgstr "Susukta virvė"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The short hand"
+msgstr "Trumpa ranka"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The ostriches"
+msgstr "Stručiai"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The circular mark"
+msgstr "Apskritas ženklas"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Jawza is a proper name
+msgid "The backbone of Al-Jawza - The belt of Al-Jawza - The string"
+msgstr "Al-Džavzos stuburas - Al-Džavzos diržas - Styga"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Sword of Orion - The facial line tattoo"
+msgstr "Oriono kardas - veido linijos tatuiruotė"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Jawza is a proper name
+msgid "Hair braids of Al-Jawza - Crown of Al-Jawza"
+msgstr "Al-Džavzos plaukų pynės - Al-Džavzos karūna"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Jawza is a proper name
+msgid "The front footstool of Al-Jawza"
+msgstr "Priekinis Al-Džavzos pakojis"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The ostriches nest"
+msgstr "Stručių lizdas"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Eggs and egg shells"
+msgstr "Kiaušiniai ir kiaušinių lukštai"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The young ostriches"
+msgstr "Jauni stručiai"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The camels that quenched their thirst - The rear footstool of Al-Jawza"
+msgstr "Troškulį numalšinę kupranugariai - galinis Al-Džavzos pakojis"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The virgins"
+msgstr "Nekaltos mergelės"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The ravens - The monkeys"
+msgstr "Varnai - Beždžionės"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Retracted arm of the lion"
+msgstr "Atitraukta liūto letena"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The tied camels"
+msgstr "Supančioti kupranugariai"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The horses and the foals"
+msgstr "Arkliai ir kumeliukai"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The trough"
+msgstr "Lovys"
+
+#. Arabic (Al-Sufi) asterism
+msgid ""
+"The southern tent - The throne of the armless high one - The camels - The "
+"lion buttock"
+msgstr ""
+"Pietinė palapinė - Aukščiausiojo berankio sostas - Kupranugariai - Liūto "
+"sėdmenys"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The date clusters"
+msgstr "Datulių laukai"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The oath stars"
+msgstr "Priesaikos žvaigždės"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The domed tent - The ostriches nest"
+msgstr "Kupolinė palapinė - Stručių lizdas"
+
+#. Arabic (Al-Sufi) constellation, native: الدب الأصغر
+msgid "Ursa Minor"
+msgstr "Mažieji Grįžulo Ratai"
+
+#. Arabic (Al-Sufi) constellation, native: الدب الأكبر
+msgid "Ursa Major"
+msgstr "Didieji Grįžulo Ratai"
+
+#. Arabic (Al-Sufi) constellation, native: التنين
+msgid "Draco"
+msgstr "Slibinas"
+
+#. Arabic (Al-Sufi) constellation, native: قيقاوس
+msgid "Cepheus"
+msgstr "Cefėjas"
+
+#. Arabic (Al-Sufi) constellation, native: العواء
+msgid "Bootes"
+msgstr "Jaučiaganis"
+
+#. Arabic (Al-Sufi) constellation, native: الإكليل الشمالي
+msgid "Corona Borealis"
+msgstr "Šiaurės Vainikas"
+
+#. Arabic (Al-Sufi) constellation, native: الجاثي
+msgid "Hercules"
+msgstr "Heraklis"
+
+#. Arabic (Al-Sufi) constellation, native: اللورا
+msgid "Lyra"
+msgstr "Lyra"
+
+#. Arabic (Al-Sufi) constellation, native: الطائر
+msgid "Cygnus"
+msgstr "Gulbė"
+
+#. Arabic (Al-Sufi) constellation, native: ذات الكرسي
+msgid "Cassiopeia"
+msgstr "Kasiopėja"
+
+#. Arabic (Al-Sufi) constellation, native: برشاوش
+msgid "Perseus"
+msgstr "Persėjas"
+
+#. Arabic (Al-Sufi) constellation, native: ممسك الأعنة
+msgid "Auriga"
+msgstr "Vežėjas"
+
+#. Arabic (Al-Sufi) constellation, native: الحواء
+msgid "Ophiuchus"
+msgstr "Gyvatnešis"
+
+#. Arabic (Al-Sufi) constellation, native: الحية
+msgid "Serpens"
+msgstr "Gyvatė"
+
+#. Arabic (Al-Sufi) constellation, native: السهم
+msgid "Sagitta"
+msgstr "Strėlė"
+
+#. Arabic (Al-Sufi) constellation, native: العقاب
+msgid "Aquila"
+msgstr "Erelis"
+
+#. Arabic (Al-Sufi) constellation, native: الدلفين
+msgid "Delphinus"
+msgstr "Delfinas"
+
+#. Arabic (Al-Sufi) constellation, native: قطعة الفرس
+msgid "Equuleus"
+msgstr "Žirgelis"
+
+#. Arabic (Al-Sufi) constellation, native: الفرس
+msgid "Pegasus"
+msgstr "Pegasas"
+
+#. Arabic (Al-Sufi) constellation, native: المسلسلة
+msgid "Andromeda"
+msgstr "Andromeda"
+
+#. Arabic (Al-Sufi) constellation, native: المثلث
+msgid "Triangulum"
+msgstr "Trikampis"
+
+#. Arabic (Al-Sufi) constellation, native: الحمل
+msgid "Aries"
+msgstr "Avinas"
+
+#. Arabic (Al-Sufi) constellation, native: الثور
+msgid "Taurus"
+msgstr "Jautis"
+
+#. Arabic (Al-Sufi) constellation, native: التوأمان
+msgid "Gemini"
+msgstr "Dvyniai"
+
+#. Arabic (Al-Sufi) constellation, native: السرطان
+msgid "Cancer"
+msgstr "Vėžys"
+
+#. Arabic (Al-Sufi) constellation, native: الأسد
+msgid "Leo"
+msgstr "Liūtas"
+
+#. Arabic (Al-Sufi) constellation, native: العذراء
+msgid "Virgo"
+msgstr "Mergelė"
+
+#. Arabic (Al-Sufi) constellation, native: الميزان
+msgid "Libra"
+msgstr "Svarstyklės"
+
+#. Arabic (Al-Sufi) constellation, native: العقرب
+msgid "Scorpius"
+msgstr "Skorpionas"
+
+#. Arabic (Al-Sufi) constellation, native: الرامي
+msgid "Sagittarius"
+msgstr "Šaulys"
+
+#. Arabic (Al-Sufi) constellation, native: الجدي
+msgid "Capricornus"
+msgstr "Ožiaragis"
+
+#. Arabic (Al-Sufi) constellation, native: ساكب الماء
+msgid "Aquarius"
+msgstr "Vandenis"
+
+#. Arabic (Al-Sufi) constellation, native: السمكتان
+msgid "Pisces"
+msgstr "Žuvys"
+
+#. Arabic (Al-Sufi) constellation, native: قيطس
+msgid "Cetus"
+msgstr "Banginis"
+
+#. Arabic (Al-Sufi) constellation, native: الجبار
+msgid "Orion"
+msgstr "Orionas / Šienpjoviai"
+
+#. Arabic (Al-Sufi) constellation, native: النهر
+msgid "Eridanus"
+msgstr "Eridanas"
+
+#. Arabic (Al-Sufi) constellation, native: الأرنب
+msgid "Lepus"
+msgstr "Kiškis"
+
+#. Arabic (Al-Sufi) constellation, native: الكلب الأكبر
+msgid "Canis Major"
+msgstr "Didysis Šuo"
+
+#. Arabic (Al-Sufi) constellation, native: الكلب الأصغر
+msgid "Canis Minor"
+msgstr "Mažasis Šuo"
+
+#. Arabic (Al-Sufi) constellation, native: السفينة
+msgid "Argo Navis"
+msgstr "Argo Navis"
+
+#. Arabic (Al-Sufi) constellation, native: الشجاع
+msgid "Hydra"
+msgstr "Hidra"
+
+#. Arabic (Al-Sufi) constellation, native: الباطية
+msgid "Crater"
+msgstr "Taurė"
+
+#. Arabic (Al-Sufi) constellation, native: الغراب
+msgid "Corvus"
+msgstr "Varnas"
+
+#. Arabic (Al-Sufi) constellation, native: قنطورس
+msgid "Centaurus"
+msgstr "Kentauras"
+
+#. Arabic (Al-Sufi) constellation, native: السبع
+msgid "Lupus"
+msgstr "Vilkas"
+
+#. Arabic (Al-Sufi) constellation, native: المجمرة
+msgid "Ara"
+msgstr "Aukuras"
+
+#. Arabic (Al-Sufi) constellation, native: الإكليل الجنوبي
+msgid "Corona Australis"
+msgstr "Pietinis Vainikas"
+
+#. Arabic (Al-Sufi) constellation, native: الحوت الجنوبي
+msgid "Piscis Austrinus"
+msgstr "Pietinė Žuvis"
+
+#. Arabic (Al-Sufi) constellation, native: فرس الصوفي
+msgid "The Horse"
+msgstr "Arklys"
+
+#. Arabic (Al-Sufi) constellation, native: الحوت العظيم
+msgid "The great fish"
+msgstr "Didžioji žuvis"
+
+#. Arabic (Al-Sufi) constellation, native: الحوت الآخر
+msgid "The other fish"
+msgstr "Kita žuvis"
+
+#. Name for HIP 11767
+#. The Kid (Baby male goat) is the name of Polaris in Arabic.
+msgid "The star on the end of the tail: it is the Kid"
+msgstr "  Žvaigždė uodegos gale: tai yra vaikas"
+
+#. Name for HIP 85822
+msgid "The one next to it on the tail"
+msgstr "Viena šalia jos, uodegoje"
+
+#. Name for HIP 82080
+msgid "The one next to that, before the place where the tail joins [the body]"
+msgstr "Viena šalia tos prieš vietą, kur uodega prisijungia [prie kūno]"
+
+#. Name for HIP 77055
+msgid "The southernmost of the stars in the advance side of the rectangle"
+msgstr "Piečiausia žvaigždė iš išsikišusios stačiakampio pusės."
+
+#. Name for HIP 79822
+msgid "The northernmost of [those in] the same side"
+msgstr "Šiauriausioji iš [esančių viduje] tos pačios pusės"
+
+#. Name for HIP 72607
+msgid "The southern star in the rear side: The brighter of the two calves"
+msgstr "Pietinė žvaigždė galinėje pusėje: Ryškesnė iš dviejų jauniklių"
+
+#. Name for HIP 75097
+msgid "The northern one in the same side: The dimmer of the two calves"
+msgstr "Šiaurinė - toje pačioje pusėje: Blankesnė iš dviejų jauniklių"
+
+#. Name for HIP 70692
+msgid ""
+"The star lying on a straight line with the stars in the rear side [of the "
+"rectangle] and south of them"
+msgstr ""
+"Žvaigždė, esanti tiesioje linijoje su žvaigždėmis, esančiomis užpakalinėje "
+"[stačiakampio] pusėje ir į pietus nuo jų."
+
+#. Name for HIP 41704
+msgid "The star on the end of the snout"
+msgstr "Žvaigždė snukio gale"
+
+#. Name for HIP 42080
+msgid "The more advanced of the stars in the two eyes"
+msgstr "Labiau pažengusi tarp žvaigždžių dviejose akyse"
+
+#. Name for HIP 2548
+msgid "The one to the rear"
+msgstr "Ta, kuri yra gale"
+
+#. Name for HIP 44390
+msgid "The more advanced of the two stars in the forehead"
+msgstr "Labiau pažengusi iš dviejų žvaigždžių kaktoje"
+
+#. Name for HIP 46977
+msgid "The star on the tip of the advance ear"
+msgstr "Žvaigždė priekinės ausies galiuke"
+
+#. Name for HIP 45075
+msgid "The more advanced of the two stars in the neck"
+msgstr "Labiau pažengusi iš dviejų žvaigždžių kakle"
+
+#. Name for HIP 46733
+msgid ""
+"The one to the rear, there is an error in either the longitude or latitude"
+msgstr "Kuri yra gale, yra ilgumos arba platumos klaida."
+
+#. Name for HIP 48319
+msgid "The northernmost of the two stars in the chest"
+msgstr "Šiauriausia iš dviejų žvaigždžių krūtinėje"
+
+#. Name for HIP 1170
+msgid "The southernmost of them"
+msgstr "Piečiausia iš jų"
+
+#. Name for HIP 18532
+msgid "The star on the left knee"
+msgstr "Kairiąjame kelyje esanti žvaigždė."
+
+#. Name for HIP 44127
+msgid ""
+"The northernmost of the [two] in the front left paw: Leap [of the gazelle]"
+msgstr ""
+"Šiauriausioji iš [dviejų] priekinėje kairėje letenoje: Šuolis [gazelės]"
+
+#. Name for HIP 44471
+msgid "The southernmost of them: Leap [of the gazelle]"
+msgstr "Piečiausioji iš jų: Šuolis [gazelės]"
+
+#. Name for HIP 45493
+msgid "The star above the right knee"
+msgstr "Žvaigždė virš dešinio kelio"
+
+#. Name for HIP 44901
+msgid "The star below the right knee"
+msgstr "Žvaigždė žemiau dešinio kelio"
+
+#. Name for HIP 54061
+msgid "The stars in the quadrilateral: the one on the back"
+msgstr "Keturkampyje esančios žvaigždės: ta, kuri yra nugaroje"
+
+#. Name for HIP 53910
+msgid "The one on the pelvis"
+msgstr "Dubenyje"
+
+#. Name for HIP 59774
+msgid "The one on the place where the tail joins [the body]"
+msgstr "Vietoje, kur uodega jungiasi [su kūnu]"
+
+#. Name for HIP 58001
+msgid "The remaining one, on the left hind thigh"
+msgstr "Likusioji - kairėje užpakalinėje šlaunyje"
+
+#. Name for HIP 50372
+msgid "The more advanced of the [two stars] in the left hind paw"
+msgstr "Labiau pažengusi iš [dviejų žvaigždžių] kairėje užpakalinėje letenoje"
+
+#. Name for HIP 50801
+msgid "The one to the rear of it"
+msgstr "Už jos gale esanti"
+
+#. Name for HIP 54539
+msgid "The star on the left knee-bend"
+msgstr "Žvaigždė kairiojo kelio lenkime"
+
+#. Name for HIP 55219
+msgid "The northernmost of the [two stars] in the right hind paw"
+msgstr "Šiauriausia iš [dviejų žvaigždžių] dešinėje užpakalinėje letenoje"
+
+#. Name for HIP 62956
+msgid ""
+"The first of the three stars on the tail next to the place where it joins "
+"[the body]"
+msgstr ""
+"Pirmoji iš trijų žvaigždžių uodegoje šalia vietos, kur ji jungiasi [prie "
+"kūno]"
+
+#. Name for HIP 17797
+msgid "The middle one"
+msgstr "Vidurinioji"
+
+#. Name for HIP 67301
+msgid "The third, on the end of the tail"
+msgstr "Trečioji, uodegos gale"
+
+#. Name for HIP 63125
+msgid "The star under the tail, at some distance towards the south"
+msgstr "Žvaigždė po uodega, šiek tiek į pietus."
+
+#. Name for HIP 61317
+msgid "The rather fainter star in advance of it"
+msgstr "Šiek tiek silpnesnė žvaigždė prieš ją"
+
+#. Name for HIP 45860
+msgid ""
+"The southernmost of the [two] stars between the front legs of Ursa [Major] "
+"and the head of Leo"
+msgstr ""
+"Piečiausioji iš [dviejų] žvaigždžių tarp [Didžiojo] Lokio priekinių kojų ir "
+"Liūto galvos"
+
+#. Name for HIP 45688
+msgid "The one north of it"
+msgstr "Šiauriau nuo jos."
+
+#. Name for HIP 44700
+msgid "The rearmost of the remaining three faint stars"
+msgstr "Paskutinė iš trijų likusių silpnų žvaigždžių"
+
+#. Name for HIP 14293
+msgid "The one in advance of this"
+msgstr "Prieš tai esanti"
+
+#. Name for HIP 43531
+msgid "The one in advance again of the latter"
+msgstr "Vėl išankstinė iš paskutiniųjų"
+
+#. Name for HIP 41075
+msgid "The star between the front legs [of Ursa Major] and Gemini"
+msgstr "Žvaigždė tarp priekinių kojų [Didžiojo Lokio] ir Dvynių"
+
+#. Name for HIP 62956
+msgid "The dark camel"
+msgstr "Tamsus kupranugaris"
+
+#. Name for HIP 62956
+msgid "The Oryx"
+msgstr "Oriksai/antilopės"
+
+#. Name for HIP 65378
+msgid "The little goat"
+msgstr "Mažytis ožiukas"
+
+#. Name for HIP 67301
+msgid "The leader"
+msgstr "Lyderis"
+
+#. Name for HIP 63125
+msgid "Liver of the lion"
+msgstr "Liūto kepenys"
+
+#. Name for HIP 65477
+#. Proper name
+msgid "Al-Suha"
+msgstr "Al-Suha"
+
+#. Name for HIP 65477
+#. Proper name
+msgid "Al-Suta"
+msgstr "Al-Suta"
+
+#. Name for HIP 65477
+#. Proper name
+msgid "Al-Saydaq"
+msgstr "Al-Saidakas"
+
+#. Name for HIP 65477
+#. Proper name
+msgid "Nua'ish"
+msgstr "Nuaiš"
+
+#. Name for HIP 83608
+msgid "The star on the tongue"
+msgstr "Žvaigždė ant liežuvio"
+
+#. Name for HIP 85819
+msgid "The star in the mouth"
+msgstr "Žvaigždė burnoje"
+
+#. Name for HIP 85670
+msgid "The star above the eye"
+msgstr "Žvaigždė virš akies"
+
+#. Name for HIP 87585
+msgid "The star on the chin"
+msgstr "Žvaigždė ant smakro"
+
+#. Name for HIP 87833
+msgid "The star above the head"
+msgstr "Žvaigždė virš galvos"
+
+#. Name for HIP 90156
+msgid ""
+"The northernmost of the three stars in a straight line in the first bend of "
+"the neck"
+msgstr ""
+"Šiauriausia iš trijų žvaigždžių tiesioje linijoje pirmojo kaklo lenkimo "
+"dalies "
+
+#. Name for HIP 47908
+msgid "The southernmost of these"
+msgstr "Piečiausiai iš jų"
+
+#. Name for HIP 92512
+msgid ""
+"The star to the rear of the latter and due east of the quadrilateral in the "
+"next bend after the latter"
+msgstr ""
+"Žvaigždė, esanti už pastarosios ir į rytus nuo keturkampio, esančio kitame "
+"posūkyje už pastarosios."
+
+#. Name for HIP 95081
+msgid "The southern star of the [two] forming the advance side"
+msgstr "Pietinė žvaigždė iš [dviejų], sudarančių priekinę pusę"
+
+#. Name for HIP 94376
+msgid "The more northerly star of the advance side"
+msgstr "Šiauriau esanti priekinės pusės žvaigždė"
+
+#. Name for HIP 97433
+msgid "The northern star of the rear side [of the quadrilateral]"
+msgstr "Galinės [keturkampio] pusės šiaurinė žvaigždė"
+
+#. Name for HIP 98702
+msgid "The southern star of the rear side"
+msgstr "Pietinė žvaigždė iš užpakalinės pusės"
+
+#. Name for HIP 96100
+msgid "The southern star of [those forming] the triangle in the next bend"
+msgstr "Pietinė žvaigždė [tų, kurios formuoja] trikampį kitame posūkyje"
+
+#. Name for HIP 92782
+msgid "The more advanced of the other two stars of the triangle"
+msgstr "Labiau pasislinkusi tarp dviejų kitų trikampio žvaigždžių"
+
+#. Name for HIP 86614
+msgid ""
+"The rearmost of the three stars in the next triangle, which is in advance "
+"[of the last]"
+msgstr ""
+"Paskutinė iš trijų žvaigždžių šiame trikampyje, kuris yra pažengęs [už "
+"paskutiniojo]"
+
+#. Name for HIP 89937
+msgid "The southernmost of the other two forming the triangle"
+msgstr "Piečiausioji tarp kitų dviejų, sudarančių trikampį."
+
+#. Name for HIP 910
+msgid "The northernmost of the other two"
+msgstr "Šiauriausioji tarp kitų dviejų"
+
+#. Name for HIP 85805
+msgid "The rearmost of the two small stars to the west of the triangle"
+msgstr "Galinė iš dviejų mažų žvaigždžių, esančių į vakarus nuo trikampio"
+
+#. Name for HIP 86201
+msgid "The one in advance"
+msgstr "Priekyje esanti"
+
+#. Name for HIP 81660
+msgid "The southernmost of the next three stars in a straight line"
+msgstr "Piečiausioji iš kitų trijų žvaigždžių tiesioje linijoje"
+
+#. Name for HIP 1686
+msgid "The middle one of the three"
+msgstr "Vidurinioji iš trijų"
+
+#. Name for HIP 1366
+msgid "The northernmost of them"
+msgstr "Šiauriausia iš jų"
+
+#. Name for HIP 80331
+msgid "The northernmost of the next two to the west"
+msgstr "Šiauriausia iš dviejų vakaruose"
+
+#. Name for HIP 75458
+msgid "The star to the west of these, in the bend by the tail"
+msgstr "Žvaigždė į vakarus nuo jų, posūkyje prie uodegos"
+
+#. Name for HIP 67627
+msgid "The advance star of the two quite some distance from the latter"
+msgstr "Priešakinė žvaigždė nuo pastarosios nutolusi gana dideliu atstumu."
+
+#. Name for HIP 68756
+msgid "The rear star of these [two]"
+msgstr "Paskutinioji iš šių [dviejų]"
+
+#. Name for HIP 61281
+msgid "The star close by these, by the tail"
+msgstr "Žvaigždė šalia jų, prie uodegos"
+
+#. Name for HIP 56211
+msgid "The remaining star, on the tip of the tail"
+msgstr "Likusi žvaigždė, ant uodegos galo"
+
+#. Name for HIP 83608
+msgid "The trotting camel"
+msgstr "Risnojantis kupranugaris"
+
+#. Name for HIP 86782
+msgid "The baby camel"
+msgstr "Jauniklis kupranugaris"
+
+#. Name for HIP 75458
+msgid "The male hyena"
+msgstr "Hienos patinas"
+
+#. Name for HIP 99255
+msgid "The star on the right leg"
+msgstr "Žvaigždė Dešinėje kojoje "
+
+#. Name for HIP 116727
+msgid "The one on the left leg"
+msgstr "Žvaigždė Kairėje kojoje"
+
+#. Name for HIP 106032
+msgid "The star under the belt on the right side"
+msgstr "Žvaigždė po diržu dešinėje pusėje"
+
+#. Name for HIP 105199
+msgid "The star over the right shoulder, which touches it"
+msgstr "Žvaigždė virš dešiniojo peties, kuri jį liečia"
+
+#. Name for HIP 102422
+msgid "The star over the right elbow, which touches it"
+msgstr "Žvaigždė virš dešiniosios alkūnės, kuri jį liečia"
+
+#. Name for HIP 101093
+msgid "The one under that elbow"
+msgstr "Viena po ta alkūne"
+
+#. Name for HIP 18724
+msgid "The star in the chest"
+msgstr "Žvaigždė krūtinėje"
+
+#. Name for HIP 112724
+msgid "The star on the left arm"
+msgstr "Žvaigždė kairėje rankoje "
+
+#. Name for HIP 109857
+msgid "The southernmost of the three stars on the hat"
+msgstr "Piečiausia iš trijų žvaigždžių  skrybėlėje."
+
+#. Name for HIP 3881
+msgid "The northernmost of the three"
+msgstr "Šiauriausioji tarp trijų"
+
+#. Name for HIP 107259
+msgid "The one in advance of the stars on the head"
+msgstr "Esanti prieš žvaigždes galvoje"
+
+#. Name for HIP 110991
+msgid "The one to the rear of them"
+msgstr "Ta, kuri yra jų gale."
+
+#. Name for HIP 116727
+msgid "The [northern] Shepherd"
+msgstr "[Šiaurinis] piemuo"
+
+#. Name for HIP 111056
+msgid "The [northern] Shepherd dog"
+msgstr "[Šiaurinio] piemens šuo"
+
+#. Name for HIP 108917
+msgid "The horse forehead star"
+msgstr "Arklio kaktos žvaigždė"
+
+#. Name for HIP 69483
+msgid "The most advanced of the three in the left arm"
+msgstr "Labiausiai pažengusi iš trijų kairėje rankoje"
+
+#. Name for HIP 69713
+msgid "The middle and southernmost of the three"
+msgstr "Vidurinioji ir piečiausioji iš trijų"
+
+#. Name for HIP 5454
+msgid "The rearmost of the three"
+msgstr "Tolimiausioji iš trijų."
+
+#. Name for HIP 4463
+msgid "The star on the left elbow"
+msgstr "Žvaigždė kairėje alkūnėje"
+
+#. Name for HIP 12777
+msgid "The star on the left shoulder"
+msgstr "Kairiajame petyje esanti žvaigždė"
+
+#. Name for HIP 2920
+msgid "The star on the head"
+msgstr "Žvaigždė ant galvos"
+
+#. Name for HIP 14328
+msgid "The star on the right shoulder"
+msgstr "Dešiniajame petyje esanti žvaigždė"
+
+#. Name for HIP 75411
+msgid "The one to the north of these, on the staff"
+msgstr "Į šiaurę nuo jų, lazdoje"
+
+#. Name for HIP 75973
+msgid ""
+"The one farther to the north again of this, on the tip of the staff, and it "
+"is a common star [with Hercules]"
+msgstr ""
+"Ta, kuri yra toliau į šiaurę nuo šios žvaigždės, ant lazdos galo, yra bendra "
+"žvaigždė [su Herakliu]."
+
+#. Name for HIP 75312
+msgid "The northernmost of the two stars below the shoulder, in the club"
+msgstr "Šiauriausia iš dviejų žvaigždžių, esančių po petimi, klube"
+
+#. Name for HIP 73996
+msgid "The star on the end of the right arm"
+msgstr "Žvaigždė dešinės rankos gale"
+
+#. Name for HIP 73745
+msgid "The more advanced of the two stars in the wrist"
+msgstr "Labiau nutolusi iš dviejų riešo žvaigždžių"
+
+#. Name for HIP 145
+msgid "The rearmost of them"
+msgstr "Tolimiausioji iš jų"
+
+#. Name for HIP 73568
+msgid "The star on the end of the handle of the staff"
+msgstr "Žvaigždė lazdos rankenos gale"
+
+#. Name for HIP 72105
+msgid ""
+"The star on the belt which Ptolemy claims that it is on the right thigh, in "
+"the apron"
+msgstr ""
+"Žvaigždė ant diržo, apie kurį Ptolemėjas teigia, kad jis yra ant dešinės "
+"šlaunies, ant prijuostės"
+
+#. Name for HIP 71284
+msgid "The rearmost of the two stars in the belt"
+msgstr "Tolimiausia iš dviejų diržo žvaigždžių"
+
+#. Name for HIP 5364
+msgid "The more advanced of them"
+msgstr "Pažangesnė iš jų"
+
+#. Name for HIP 71795
+msgid "The star on the right heel"
+msgstr "Žvaigždė dešiniąjame kulne"
+
+#. Name for HIP 67927
+msgid "The northernmost of the three stars in the left leg"
+msgstr "Šiauriausia iš trijų žvaigždžių kairėje kojoje"
+
+#. Name for HIP 69673
+msgid "The star between the thighs, called 'The high one with the spear'"
+msgstr "Žvaigždė tarp šlaunų, vadinama „Aukštasis su ietimi“"
+
+#. Name for HIP 69673
+msgid "The guard of the sky"
+msgstr "Dangaus sargybinis"
+
+#. Name for HIP 69673
+msgid "The guard of the north"
+msgstr "Šiaurės sargybinis"
+
+#. Name for HIP 69673
+msgid "Leg of the lion"
+msgstr "Liūto koja"
+
+#. Name for HIP 72105
+msgid "Associate of the high one"
+msgstr "Aukštojo partneris"
+
+#. Name for HIP 72105
+msgid "Flag of the high one"
+msgstr "Aukštojo vėliava"
+
+#. Name for HIP 72105
+#. Al-Fakkah is a proper name meaning incomplete circle referring to Corona Borealis
+msgid "Flag of Al-Fakkah"
+msgstr "Al-Fakkos vėliava"
+
+#. Name for HIP 76267
+msgid "The bright star in the crown"
+msgstr "Šviesi žvaigždė karūnoje"
+
+#. Name for HIP 75695
+msgid "The star in advance of it"
+msgstr "Prieš ją esanti žvaigždė"
+
+#. Name for HIP 76127
+msgid "The one above this and due north"
+msgstr "Virš šios ir į šiaurę"
+
+#. Name for HIP 30277
+msgid "The one north again of this"
+msgstr "Vėl į šiaurę nuo šios"
+
+#. Name for HIP 76952
+msgid ""
+"The one to the rear of the bright star in the other half circle from the "
+"south"
+msgstr ""
+"Esanti už ryškios žvaigždės, esančios kitoje pusės apskritimo iš pietų "
+"pusėje, gale."
+
+#. Name for HIP 77512
+msgid ""
+"The one to the rear again of the latter, and it is a little more to the north"
+msgstr "Vėlgi pastarosios gale, ir ji yra šiek tiek labiau į šiaurę."
+
+#. Name for HIP 78159
+msgid "The one to the rear again of these, and again it is more to the north"
+msgstr "Esanti už jų, ir dar labiau į šiaurę"
+
+#. Name for HIP 78493
+msgid "The star at the end of the opening of this half circle"
+msgstr "Žvaigždė šio pusapskritimio angos gale"
+
+#. Name for HIP 76267
+#. Al-Fakkah is a proper name meaning incomplete circle referring to Corona Borealis
+msgid "The bright star of Al-Fakkah"
+msgstr "Ryški Al-Fakkos žvaigždė"
+
+#. Name for HIP 80816
+msgid "The star on the right shoulder by the armpit"
+msgstr "Žvaigždė dešiniajame petyje ties pažastimi"
+
+#. Name for HIP 68862
+msgid "The star on the right upper arm"
+msgstr "Žvaigždė dešiniąjame žaste"
+
+#. Name for HIP 13268
+msgid "The star on the right elbow"
+msgstr "Žvaigždė dešinėje alkūnėje"
+
+#. Name for HIP 3693
+msgid "The star on the left upper arm"
+msgstr "Žvaigždė kairiame žaste"
+
+#. Name for HIP 88794
+msgid "The rearmost of the three stars in the left wrist"
+msgstr "Galinė iš trijų žvaigždžių kairiajame rieše"
+
+#. Name for HIP 81693
+msgid "The star in the right side"
+msgstr "Dešinėje pusėje žvaigždė"
+
+#. Name for HIP 83207
+msgid "The star in the left side"
+msgstr "Kairiojoje pusėje esanti žvaigždė"
+
+#. Name for HIP 83313
+msgid "The one north of the latter, on the left buttock"
+msgstr "Į šiaurę nuo pastarojo, ant kairiojo sėdmens"
+
+#. Name for HIP 83838
+msgid "The one on the place where the thigh joins the same [buttock]"
+msgstr "Vienas toje vietoje, kur šlaunis jungiasi su tuo pačiu [užpakaliu]"
+
+#. Name for HIP 84380
+msgid "The most advanced of the three in the left thigh"
+msgstr "Pažangiausia iš trijų kairėje šlaunyje"
+
+#. Name for HIP 13288
+msgid "The one to the rear of this"
+msgstr "Į galą nuo šios"
+
+#. Name for HIP 85112
+msgid "The one yet further to the rear of this"
+msgstr "Dar toliau už šios"
+
+#. Name for HIP 86414
+msgid "The star on the left shin on the ankle place"
+msgstr "Žvaigždė kairėje blauzdoje ties kulkšnimi"
+
+#. Name for HIP 87212
+msgid "The most advanced of the three stars in the left foot"
+msgstr "Pažangiausia iš trijų žvaigždžių kairėje pėdoje"
+
+#. Name for HIP 81833
+msgid "The star on the place where the right thigh joins [the buttock]"
+msgstr "Žvaigždė dešinės šlaunies susijungimo vietoje [ant sėdmenų]"
+
+#. Name for HIP 81126
+msgid "The star north of it in the same thigh"
+msgstr "Žvaigždė į šiaurę nuo jos toje pačioje šlaunyje"
+
+#. Name for HIP 5434
+msgid "The star on the right knee"
+msgstr "Žvaigždė dešiniąjame kelyje"
+
+#. Name for HIP 79101
+msgid "The southernmost of the two stars under the right knee"
+msgstr "Piečiausia iš dviejų žvaigždžių po dešiniuoju keliu"
+
+#. Name for HIP 77760
+msgid "The star in the right lower leg"
+msgstr "Žvaigždė dešinėje blauzdoje"
+
+#. Name for HIP 75973
+msgid ""
+"The star on the end of the right leg is the same as the ninth star of Bootes "
+"on the tip of the staff, shared by the two constellations"
+msgstr ""
+"Žvaigždė ant dešiniosios kojos galo yra ta pati, kaip ir devintoji "
+"Jaučiaganio žvaigždė ant lazdos galo, kurią dalijasi abu žvaigždynai."
+
+#. Name for HIP 80463
+msgid "The star south of the one in the right upper arm"
+msgstr "Žvaigždė į pietus nuo tos, kuri yra dešiniame žaste"
+
+#. Name for HIP 84345
+msgid "First dog of [southern] shepherd"
+msgstr "Pirmasis [pietų] piemens šuo"
+
+#. Name for HIP 86414
+msgid "The line"
+msgstr "Linija"
+
+#. Name for HIP 91262
+msgid ""
+"The bright star on the carrying cloth, called Lyra, and it is the landing "
+"eagle"
+msgstr ""
+"Ryški žvaigždė ant nešančiojo audeklo, vadinama Lyra, ir tai yra "
+"besileidžiantis erelis"
+
+#. Name for HIP 91919
+msgid "The northernmost of the two stars lying near the latter, close together"
+msgstr ""
+"Šiauriausia iš dviejų žvaigždžių, esančių netoli pastarosios, arti viena "
+"kitos"
+
+#. Name for HIP 92791
+msgid ""
+"The one to the rear of these, in between the points where the horns [of the "
+"lyre] are attached"
+msgstr "Už jų, tarp tų vietų, kur yra [lyros] ragai."
+
+#. Name for HIP 94481
+msgid ""
+"The northernmost of the two stars close together in the region to the east "
+"of the cloth"
+msgstr ""
+"Šiauriausia iš dviejų žvaigždžių, esančių arti viena kitos į rytus nuo "
+"audeklo"
+
+#. Name for HIP 92420
+msgid "The northernmost of the two advance stars in the crossbar"
+msgstr "Šiauriausia iš dviejų priešakinių žvaigždžių skersinėje juostoje"
+
+#. Name for HIP 93194
+msgid "The northernmost of the two rear stars in the crossbar"
+msgstr "Šiauriausia iš dviejų galinių žvaigždžių skersinėje juostoje"
+
+#. Name for HIP 95947
+msgid "The star on the beak"
+msgstr "Žvaigždė snape"
+
+#. Name for HIP 96683
+msgid "The one to the rear of this, on the head"
+msgstr "Užpakalinėje dalyje, ant galvos"
+
+#. Name for HIP 98110
+msgid "The star in the middle of the neck"
+msgstr "Viduryje kaklo esanti žvaigždė"
+
+#. Name for HIP 3179
+msgid "The star in the breast"
+msgstr "Žvaigždė krūtinėje"
+
+#. Name for HIP 102098
+msgid "The bright star in the tail"
+msgstr "Šviesi žvaigždė uodegoje"
+
+#. Name for HIP 97165
+msgid "The star in the bend of the right wing"
+msgstr "Žvaigždė dešiniojo sparno lenktyje"
+
+#. Name for HIP 96441
+msgid "The southernmost of the three in the right wing-feathers"
+msgstr "Piečiausioji iš trijų dešiniojo sparno plunksnų"
+
+#. Name for HIP 94779
+msgid "The northernmost of them, on the tip of the wing-feathers"
+msgstr "Šiauriausioji iš jų, sparno plunksnų gale"
+
+#. Name for HIP 102488
+msgid "The star on the bend of the left wing"
+msgstr "Kairiojo sparno lenktyje esanti žvaigždė"
+
+#. Name for HIP 102589
+msgid "The star north of this, in the middle of the same wing"
+msgstr "Žvaigždė į šiaurę nuo jos, to paties sparno viduryje"
+
+#. Name for HIP 104732
+msgid "The star in the tip of the feathers of the left wing"
+msgstr "Žvaigždė kairiojo sparno plunksnų gale"
+
+#. Name for HIP 103413
+msgid "The star on the left leg"
+msgstr "Kairėje kojoje esanti žvaigždė."
+
+#. Name for HIP 99675
+msgid "The more advanced of the two stars in the right leg"
+msgstr "Labiau pažengusi iš dviejų žvaigždžių dešinėje kojoje"
+
+#. Name for HIP 101138
+msgid "The northern star on the right knee"
+msgstr "Šiaurinė žvaigždė dešiniajame kelyje"
+
+#. Name for HIP 104887
+msgid "The southernmost of the two stars under the left wing"
+msgstr "Pietinė iš dviejų žvaigždžių po kairiuoju sparnu"
+
+#. Name for HIP 102098
+msgid "The rear knight"
+msgstr "Galinis riteris"
+
+#. Name for HIP 3821
+msgid "The one north of that, on the belt"
+msgstr "Į šiaurę nuo jos, ant juostos."
+
+#. Name for HIP 4427
+msgid "The star over the chair, just over the thighs"
+msgstr "Žvaigždė virš kėdės, tiesiai virš šlaunų"
+
+#. Name for HIP 6686
+msgid "The star in the knees"
+msgstr "Žvaigždė keliuose"
+
+#. Name for HIP 8886
+msgid "The star on the lower leg"
+msgstr "Žvaigždė apatinėje kojoje"
+
+#. Name for HIP 11569
+msgid "The star on the end of the leg"
+msgstr "Žvaigždė kojos gale"
+
+#. Name for HIP 6242
+msgid "The star below the left elbow"
+msgstr "Žvaigždė po kairiąja alkūne"
+
+#. Name for HIP 29800
+msgid "The star on the right forearm"
+msgstr "Žvaigždė ant dešiniojo dilbio"
+
+#. Name for HIP 2599
+msgid "The star above the post of the chair"
+msgstr "Žvaigždė virš kėdės stovo"
+
+#. Name for HIP 746
+msgid ""
+"The star on the middle of the chair backrest, and it is called The henna "
+"tinted hand"
+msgstr "Žvaigždė ant kėdės atlošo vidurio, vadinama chna nuspalvinta ranka"
+
+#. Name for HIP 117863
+msgid "The star at the end of the chair backrest"
+msgstr "Žvaigždė kėdės atlošo gale"
+
+#. Name for HIP 14632
+msgid "The star on the place between the shoulders"
+msgstr "Žvaigždė tarp pečių"
+
+#. Name for HIP 15863
+msgid "The bright star in the right side"
+msgstr "Ryški žvaigždė dešinėje"
+
+#. Name for HIP 16335
+msgid "The most advanced of the three stars next to the one in the side"
+msgstr "Pažangiausia iš trijų žvaigždžių, esančių šalia šone"
+
+#. Name for HIP 14576
+msgid "The bright one of the stars in the Gorgon-head"
+msgstr "Ryški iš žvaigždžių Gorgonės galvoje"
+
+#. Name for HIP 14354
+msgid "The one in advance of the bright star"
+msgstr "Priešais ryškią žvaigždę"
+
+#. Name for HIP 13879
+msgid "The remaining one, yet again in advance of this"
+msgstr "Likusioji, dar kartą prieš šią"
+
+#. Name for HIP 20070
+msgid "The star in the right knee"
+msgstr "Žvaigždė dešiniajame kelyje"
+
+#. Name for HIP 19167
+msgid "The one in advance of this, over the knee"
+msgstr "Esanti prieš šią, virš kelio"
+
+#. Name for HIP 19343
+msgid "The more advanced of the two stars above the bend in the knee"
+msgstr "Labiau pažengusi iš dviejų žvaigždžių virš kelio išlinkimo"
+
+#. Name for HIP 19812
+msgid "The rearmost of them, just over the bend in the knee"
+msgstr "Tolimiausia iš jų, šiek tiek aukščiau kelio išlinkimo."
+
+#. Name for HIP 20354
+msgid "The star on the right calf"
+msgstr "Žvaigždė dešinėje blauzdoje"
+
+#. Name for HIP 21476
+msgid "The star on the right ankle"
+msgstr "Žvaigždė dešiniojoje kulkšnyje"
+
+#. Name for HIP 17529
+msgid "The star in the left thigh"
+msgstr "Žvaigždė kairėje šlaunyje"
+
+#. Name for HIP 18614
+msgid "The star on the left lower leg"
+msgstr "Žvaigždė kairėje apatinėje kojoje"
+
+#. Name for HIP 17448
+msgid "The star on the left heel"
+msgstr "Žvaigždė ant kairiojo kulno."
+
+#. Name for HIP 18246
+msgid "The one to the rear of this, on the left foot"
+msgstr "Užpakalyje esanti, kairėje kojoje"
+
+#. Name for HIP 19811
+msgid "The star to the east of the one on the left knee"
+msgstr "Žvaigždė į rytus nuo esančios kairiajame kelyje"
+
+#. Name for HIP 19949
+msgid "The star to the north of the one in the right knee"
+msgstr "Žvaigždė, esanti šiauriau dešiniojo kelio žvaigždės"
+
+#. Name for HIP 13254
+msgid "The star in advance of those in the Gorgon-head"
+msgstr "Žvaigždė, esanti prieš Gorgonės galvą"
+
+#. Name for HIP 15863
+#. Al-Thurayya is a proper name
+msgid "The elbow [of Al-Thurayya]"
+msgstr "Alkūnė [ Al-Turajos]"
+
+#. Name for HIP 16335
+#. Al-Thurayya is a proper name
+msgid "Bend of the hand [of Al-Thurayya]"
+msgstr "Rankos linkis [Al-Turajos]"
+
+#. Name for HIP 16826
+#. Al-Thurayya is a proper name
+msgid "Tip of the elbow [of Al-Thurayya]"
+msgstr "Alkūnės galiukas [ Al-Turajos]"
+
+#. Name for HIP 14576
+msgid "The caracal (second narrative)"
+msgstr "Karakalas (antrasis naratyvas)"
+
+#. Name for HIP 18614
+#. Al-Thurayya is a proper name
+msgid "The shoulder [of Al-Thurayya]"
+msgstr "Petys [ Al-Turajos]"
+
+#. Name for HIP 28358
+msgid "The southernmost of the two on the head"
+msgstr "Piečiausioji iš dviejų galvoje"
+
+#. Name for HIP 27949
+msgid "The northernmost [of these], over the head"
+msgstr "Šiauriausioji [iš jų], virš galvos"
+
+#. Name for HIP 24608
+#. Al-Ayyuq is a proper name meaning the obstructor
+msgid "The star on the left shoulder, called Al-Ayyuq"
+msgstr "Žvaigždė kairiajame petyje, vadinama Al-Ayyuq"
+
+#. Name for HIP 28380
+msgid "The star on the right wrist"
+msgstr "Žvaigždė dešiniajame rieše"
+
+#. Name for HIP 23767
+#. kids here are the baby goats
+msgid ""
+"The rearmost of the two stars on the left wrist, which are called 'The two "
+"kids'"
+msgstr ""
+"Galinė iš dviejų žvaigždžių vadinamų \"Dviem vaikais\" ant kairės rankos "
+"riešo, ."
+
+#. Name for HIP 23453
+msgid "The more advanced of these"
+msgstr "Pažangesnė iš šių"
+
+#. Name for HIP 23015
+msgid "The star on the left ankle"
+msgstr "Žvaigždė kairiojoje kulkšnyje"
+
+#. Name for HIP 25428
+msgid ""
+"The star on the right ankle, which is [applied in] common to the northern "
+"horn of Taurus"
+msgstr ""
+"Žvaigždė dešiniojoje kulkšnyje, kuri yra bendra šiauriniam Tauro ragui."
+
+#. Name for HIP 25984
+msgid "The one to the north of the latter, in the lower hem [of the garment]"
+msgstr "Ta, esanti į šiaurę nuo pastarosios, apatiniame [drabužio] krašte."
+
+#. Name for HIP 25541
+msgid "The one north again of this, on the buttock"
+msgstr "Dar viena į šiaurę nuo šios, ant sėdmenų"
+
+#. Name for HIP 23416
+msgid "The Goat"
+msgstr "Ožka"
+
+#. Name for HIP 24608
+#. Al-Thurayya is a proper name
+msgid "Al-Thurayya Watcher"
+msgstr "Al-Turajos stebėtojas"
+
+#. Name for HIP 24608
+#. Ayyuq Al-Thurayya is a proper name meaning the obstructor of Al-Thurayya
+msgid "Ayyuq Al-Thurayya"
+msgstr "Ajuq Al-Thuraja"
+
+#. Name for HIP 24608
+msgid "The goats owner"
+msgstr "Ožkų savininkas"
+
+#. Name for HIP 86742
+msgid "The more advanced of the two stars on the right shoulder"
+msgstr "Pažangesnė iš dviejų žvaigždžių dešiniajame petyje"
+
+#. Name for HIP 82673
+msgid "The more advanced of the two stars on the left shoulder"
+msgstr "Pažangesnė iš dviejų žvaigždžių kairiajame petyje"
+
+#. Name for HIP 79593
+msgid "The more advanced of the two stars in the left hand"
+msgstr "Pažangesnė iš dviejų kairėje rankoje esančių žvaigždžių"
+
+#. Name for HIP 88048
+msgid "The more advanced of the two stars in the right hand"
+msgstr "Pažangesnė iš dviejų dešinėje rankoje esančių žvaigždžių"
+
+#. Name for HIP 84893
+msgid "The star on the right lower leg"
+msgstr "Žvaigždė dešinėje apatinėje kojoje"
+
+#. Name for HIP 84405
+msgid "The most advanced of the four stars on the right foot"
+msgstr "Pažangiausia iš keturių žvaigždžių dešinėje kojoje"
+
+#. Name for HIP 85340
+msgid "The one to the rear again of that"
+msgstr "Ta, kuri yra gale, vėl nuo tos"
+
+#. Name for HIP 64238
+msgid "The last and rearmost of the four"
+msgstr "Paskutinė ir galinė iš keturių"
+
+#. Name for HIP 86736
+msgid "The star to the rear of these, which touches the heel"
+msgstr "Žvaigždė už šių, kurios liečia kulną"
+
+#. Name for HIP 81377
+msgid "The star in the left knee"
+msgstr " Žvaigždė Kairiajame kelyje."
+
+#. Name for HIP 80894
+msgid ""
+"The northernmost of the three stars in a straight line in the left lower leg"
+msgstr ""
+"Šiauriausia iš trijų žvaigždžių tiesioje linijoje su kaire apatine koja"
+
+#. Name for HIP 4366
+msgid "The middle one of these"
+msgstr "Vidurinioji iš šių"
+
+#. Name for HIP 26241
+msgid "The southernmost of the three"
+msgstr "Piečiausioji iš trijų"
+
+#. Name for HIP 80473
+msgid "The star touching the hollow of the left foot"
+msgstr "Žvaigždė liečianti kairės pėdos ertmę"
+
+#. Name for HIP 88149
+msgid ""
+"The northernmost of the three that are on a straight line, to the east of "
+"the right shoulder"
+msgstr ""
+"Šiauriausia iš trijų, esančių tiesia linija į rytus nuo dešiniojo peties."
+
+#. Name for HIP 88601
+msgid "The star to the rear of these three, and over the middle one"
+msgstr "Žvaigždė, esanti šių trijų žvaigždžių gale ir virš viduriniosios."
+
+#. Name for HIP 88771
+msgid "The lone star north of these four"
+msgstr "Vieniša žvaigždė šiauriau šių keturių"
+
+#. Name for HIP 86032
+msgid "The [southern] shepherd"
+msgstr "[Pietinis] piemuo"
+
+#. Name for HIP 86742
+msgid "Second dog of the [southern] shepherd"
+msgstr "Antrasis [Pietų] piemens šuo"
+
+#. Name for HIP 76852
+msgid "Stars on the quadrilateral in the head:  the one on the end of the jaw"
+msgstr "Žvaigždės ant galvos keturkampio: ant žandikaulio galo"
+
+#. Name for HIP 77661
+msgid "The one touching the nostrils"
+msgstr "Liečianti nosies šnerves"
+
+#. Name for HIP 78072
+msgid "The one in the temple"
+msgstr "Esantis Šventykloje"
+
+#. Name for HIP 77233
+msgid "The one where the neck joins [the head]"
+msgstr "Ten, kur kaklas jungiasi [prie galvos]"
+
+#. Name for HIP 77450
+msgid "The one in the middle of the quadrilateral, in the mouth"
+msgstr "Keturkampio viduryje, burnoje"
+
+#. Name for HIP 78554
+msgid "The star outside the head, to the north of it"
+msgstr "Žvaigždė už galvos, šiaurėje nuo jos."
+
+#. Name for HIP 76276
+msgid "The one after the first bend in the neck"
+msgstr "Pirmojis po pirmojo kaklo linkio"
+
+#. Name for HIP 77257
+msgid "The northernmost of the three following this"
+msgstr "Šiauriausia iš trijų po šio"
+
+#. Name for HIP 77516
+msgid ""
+"The star after the next bend, which is in advance of the left hand of "
+"Ophiuchus"
+msgstr "Žvaigždė už kito vingio, esanti prieš kairiąją Gyvatnešio ranką "
+
+#. Name for HIP 80628
+msgid "The star to the rear of those in the hand of Ophiuchus"
+msgstr "Žvaigždė, esanti užpakalyje tų, esančių Gyvatnešio rankoje"
+
+#. Name for HIP 84880
+msgid "The one after the back of the right thigh of Ophiuchus"
+msgstr "Ta, kuri yra po Gyvatnešio dešiniosios šlaunies užpakaline dalimi "
+
+#. Name for HIP 86263
+msgid "The southernmost of the two to the rear of the latter"
+msgstr "Piečiausioji iš dviejų, esančių pastarojo gale. "
+
+#. Name for HIP 88175
+msgid "The one after the right hand [of Ophiuchus], on the bend in the tail"
+msgstr "Už dešiniosios rankos [Gyvatnešio], ant uodegos vingio "
+
+#. Name for HIP 89962
+msgid "The one to the rear of this, likewise on the tail"
+msgstr "Užpakalinė, panašiai ir uodegoje"
+
+#. Name for HIP 28103
+msgid "The star on the tip of the tail"
+msgstr "Žvaigždė uodegos gale"
+
+#. Name for HIP 98337
+msgid "The lone star on the arrow-head"
+msgstr "Vieniša žvaigždė ant strėlės antgalio."
+
+#. Name for HIP 97496
+msgid "The rearmost of the three stars in the shaft"
+msgstr "Galinė iš trijų ašies žvaigždžių  "
+
+#. Name for HIP 3885
+msgid "The most advanced of the three"
+msgstr "Pažangiausia iš trijų"
+
+#. Name for HIP 96837
+msgid "The star on the end of the notch"
+msgstr "Žvaigždė įpjovos gale"
+
+#. Name for HIP 98823
+msgid "The star in the middle of the head"
+msgstr "Viduryje galvos esanti žvaigždė"
+
+#. Name for HIP 98036
+msgid "The one in advance of this, on the neck"
+msgstr "Prieš tai esanti, kakle"
+
+#. Name for HIP 97649
+msgid ""
+"The bright star on the place between the shoulders, called The flying eagle"
+msgstr "Ryški žvaigždė vietoje tarp pečių, vadinama Skraidantis erelis"
+
+#. Name for HIP 97938
+msgid "The one close to this towards the north"
+msgstr "Arti šios, šiauriau"
+
+#. Name for HIP 97278
+msgid "The more advanced of the two in the left shoulder"
+msgstr "Pažangesnė iš dviejų kairiajame petyje"
+
+#. Name for HIP 96229
+msgid "The more advanced of the two in the right shoulder"
+msgstr "Pažangesnė iš dviejų dešiniajame petyje"
+
+#. Name for HIP 93747
+msgid ""
+"The star some distance under the tail of the eagle, touching the Milky Way"
+msgstr "Žvaigždė tam tikru atstumu po erelio uodega, liečianti Paukščių Taką"
+
+#. Name for HIP 97804
+msgid "The more advanced of the two stars south of the head of the eagle"
+msgstr ""
+"Labiau pažengusi iš dviejų žvaigždžių, esančių į pietus nuo erelio galvos"
+
+#. Name for HIP 95501
+msgid "The star to the south and west of the right shoulder of the eagle"
+msgstr "Žvaigždė į pietus ir vakarus nuo dešiniojo erelio peties"
+
+#. Name for HIP 96468
+msgid "The one to the south of this"
+msgstr "Piečiau nuo šios"
+
+#. Name for HIP 96483
+msgid "The one to the south again of the latter"
+msgstr "Į pietus nuo pastarosios"
+
+#. Name for HIP 93805
+msgid "The star most in advance of all"
+msgstr "Žvaigždė labiausiai priekyje iš visų"
+
+#. Name for HIP 101421
+msgid "The most advanced of the three stars in the tail"
+msgstr "Pažangiausia iš trijų žvaigždžių uodegoje"
+
+#. Name for HIP 101769
+msgid ""
+"The southernmost one of the two on the advance side of the rhomboid "
+"quadrilateral"
+msgstr ""
+" Labiausiai į pietus nutolusi iš dviejų rombo formos keturkampio "
+"priešakinėje pusėje esančių žvaigždžių"
+
+#. Name for HIP 3455
+msgid "The northernmost one on the advance side"
+msgstr "Šiauriausia priekinėje pusėje"
+
+#. Name for HIP 102281
+msgid "The southernmost one on the rear side of the rhombus"
+msgstr "Piečiausioji iš užpakalinės rombo pusės"
+
+#. Name for HIP 12390
+msgid "The northernmost one on the rear side"
+msgstr "Šiauriausia iš užpakalinės pusės"
+
+#. Name for HIP 101589
+msgid "The northernmost of the three stars between the tail and the rhombus"
+msgstr "Šiauriausia iš trijų žvaigždžių tarp uodegos ir rombo"
+
+#. Name for HIP 101483
+msgid "The more advanced of the two other northern stars"
+msgstr "Labiau pažengusi iš kitų dviejų šiaurinių žvaigždžių"
+
+#. Name for HIP 101882
+msgid "The remaining, rearmost one"
+msgstr "Likusioji, užpakalinė"
+
+#. Name for HIP 104987
+msgid "The more advanced of the two stars in the head"
+msgstr "Pažangesnė iš dviejų žvaigždžių galvoje"
+
+#. Name for HIP 104521
+msgid "The more advanced of the two stars in the mouth"
+msgstr "Pažangesnė iš dviejų žvaigždžių burnoje"
+
+#. Name for HIP 677
+msgid ""
+"The star on the navel, which is [applied in] common to the head of Andromeda"
+msgstr ""
+"Ant bambos esanti žvaigždė, kuri yra [priskiriama] kartu Andromedos galvai."
+
+#. Name for HIP 1067
+msgid "The star on the rump and the wing-tip"
+msgstr "Žvaigždė ant kumpio ir sparno galiuko"
+
+#. Name for HIP 113881
+msgid "The star on the right shoulder and the place where the leg joins [it]"
+msgstr "Žvaigždė peties dešinėje ir vieta, kur koja prisijungia [prie jos]"
+
+#. Name for HIP 113963
+msgid ""
+"The star on the place between the shoulders and the shoulder-part of the wing"
+msgstr "Žvaigždė vietoje tarp pečių ir sparno peties dalies"
+
+#. Name for HIP 115250
+msgid "The northernmost of the two stars in the body under the wing"
+msgstr "Šiauriausia iš dviejų žvaigždžių kūne po sparnu"
+
+#. Name for HIP 112158
+msgid "The northernmost of the two stars in the right knee"
+msgstr "Šiauriausia iš dviejų žvaigždžių dešiniojo kelio srityje."
+
+#. Name for HIP 112440
+msgid "The more advanced of the two stars close together in the chest"
+msgstr "Pažangesnė iš dviejų žvaigždžių, esančių arti viena kitos krūtinėje"
+
+#. Name for HIP 112029
+msgid "The more advanced of the two stars close together in the neck"
+msgstr "Pažangesnė iš dviejų žvaigždžių, esančių arti viena kitos kakle."
+
+#. Name for HIP 113186
+msgid "The southernmost of the two stars on the mane"
+msgstr "Piečiausia iš dviejų žvaigždžių ant karčių"
+
+#. Name for HIP 109427
+msgid "The northernmost of the two stars close together on the head"
+msgstr "Šiauriausia iš dviejų arti viena kitos esančių žvaigždžių galvoje"
+
+#. Name for HIP 107315
+msgid "The star in the muzzle"
+msgstr "Žvaigždė snukyje"
+
+#. Name for HIP 109410
+msgid "The star in the right hock"
+msgstr "Žvaigždė dešiniajame kelio sąnaryje"
+
+#. Name for HIP 107354
+msgid "The star in the left hock"
+msgstr "Žvaigždė kairiajame kelio sąnaryje"
+
+#. Name for HIP 3092
+msgid "The star in the place between the shoulders"
+msgstr "Žvaigždė tarp pečių"
+
+#. Name for HIP 2912
+msgid "The star in the right shoulder"
+msgstr "Žvaigždė Dešiniajame petyje "
+
+#. Name for HIP 3031
+msgid "The star in the left shoulder"
+msgstr "Kairiajame petyje esanti žvaigždė"
+
+#. Name for HIP 1473
+msgid "The southernmost of the three stars on the right upper arm"
+msgstr "Piečiausia iš trijų dešiniojo žasto žvaigždžių ."
+
+#. Name for HIP 116631
+msgid "The southernmost of the three stars on the right hand"
+msgstr "Piečiausioji iš trijų dešinėje rankoje esančių žvaigždžių"
+
+#. Name for HIP 5447
+msgid "The southernmost of the three stars over the girdle"
+msgstr "Piečiausioji iš trijų žvaigždžių virš juosmens"
+
+#. Name for HIP 9640
+msgid "The star over the left foot: called the caracal"
+msgstr "Žvaigždė virš kairės pėdos: vadinama karakalu"
+
+#. Name for HIP 8068
+msgid "The star in the right foot"
+msgstr "Žvaigždė dešinėje pėdoje "
+
+#. Name for HIP 7607
+msgid "The one south of the latter"
+msgstr "Į pietus nuo pastarosios"
+
+#. Name for HIP 7513
+msgid "The northernmost of the two stars on the left knee-bend"
+msgstr "Šiauriausia iš dviejų žvaigždžių kairiajame kelio linkyje"
+
+#. Name for HIP 6999
+msgid "The northernmost of the two stars in the lower hem of the garment"
+msgstr "Šiauriausia iš dviejų žvaigždžių, esančių apatiniame drabužio krašte"
+
+#. Name for HIP 113726
+msgid "The star in advance of the three in the right hand, outside [of it]"
+msgstr ""
+"Žvaigždė, esanti prieš tris žvaigždes, esančias dešinėje rankoje, už [jos] "
+"ribų."
+
+#. Name for HIP 5447
+msgid "Abdomen of the fish"
+msgstr "Žuvies pilvas"
+
+#. Name for HIP 9640
+msgid "The caracal (first narrative)"
+msgstr "Karakalas (pirmasis naratyvas)"
+
+#. Name for HIP 8796
+msgid "The star in the apex of the triangle"
+msgstr "Žvaigždė trikampio viršūnėje"
+
+#. Name for HIP 10064
+msgid "The most advanced of the three on the base"
+msgstr "Artimiausia iš trijų esančių pagrinde"
+
+#. Name for HIP 8832
+msgid "The more advanced of the two stars on the horn"
+msgstr "Artimesnė iš dviejų rage esančių žvaigždžių"
+
+#. Name for HIP 10306
+msgid "The northernmost of the two stars on the muzzle"
+msgstr "Šiauriausia iš dviejų žvaigždžių ant snukio"
+
+#. Name for HIP 9110
+msgid "The star on the neck"
+msgstr "Žvaigždė ant kaklo"
+
+#. Name for HIP 12332
+msgid "The star on the rump"
+msgstr "Žvaigždė kumpyje"
+
+#. Name for HIP 13914
+msgid "The star on the place where the fatty tail joins [the body]"
+msgstr "Žvaigždė toje vietoje, kur riebi uodega jungiasi [su kūnu]."
+
+#. Name for HIP 14838
+msgid "The most advanced of the three stars in the fatty tail"
+msgstr "Labiausiai pažengusi iš trijų žvaigždžių riebiojoje uodegoje"
+
+#. Name for HIP 13702
+msgid "The star in the back of the thigh"
+msgstr "Žvaigždė šlaunies užpakalinėje dalyje"
+
+#. Name for HIP 13327
+msgid "The star over the knee-bend"
+msgstr "Žvaigždė virš kelio sąnario"
+
+#. Name for HIP 12832
+msgid "The star on the hind hoof"
+msgstr "Žvaigždė užpakalinėje kanopoje"
+
+#. Name for HIP 9884
+msgid ""
+"The star over the head, which Hipparchus [calls] 'the one on the muzzle'"
+msgstr ""
+"Žvaigždė virš galvos, kurią Hiparchas [vadina] \"žvaigžde ant antsnukio\"."
+
+#. Name for HIP 13209
+msgid "The rearmost, which is brighter of the four stars over the rump"
+msgstr "Užpakalinė, ryškesnė už keturias žvaigždes, esančias virš užpakaliuko."
+
+#. Name for HIP 13061
+msgid "The northernmost of the other three, fainter stars"
+msgstr "Šiauriausia iš kitų trijų silpnesnių žvaigždžių"
+
+#. Name for HIP 12719
+msgid "The middle one of these three"
+msgstr "Vidurinioji iš šių trijų"
+
+#. Name for HIP 9884
+msgid "The butting [horn]"
+msgstr "Badymasis [ragais]"
+
+#. Name for HIP 16369
+msgid "The northernmost of the four stars in the cut-off"
+msgstr "Šiauriausia iš keturių žvaigždžių, esančių riboje"
+
+#. Name for HIP 16322
+msgid "The one close by this"
+msgstr "Arti šios"
+
+#. Name for HIP 16083
+msgid "The one close again to the latter"
+msgstr "Netoli pastarosios vėlgi"
+
+#. Name for HIP 15900
+msgid "The southernmost of the four"
+msgstr "Piečiausioji iš keturių"
+
+#. Name for HIP 17771
+msgid "The one to the rear of the latter, on the right shoulder-blade"
+msgstr "Pastarojo užpakalinėje dalyje, ant dešiniosios mentės"
+
+#. Name for HIP 18907
+msgid "The star on the right hock"
+msgstr "Žvaigždė ant dešiniojo kumpio"
+
+#. Name for HIP 20205
+msgid ""
+"The one on the nostrils of the stars in the face, resembling the Greek "
+"letter Λ"
+msgstr "Viena nosies žvaigždžių veide , sudarančių graikišką raidę Λ"
+
+#. Name for HIP 20455
+msgid "The one between the latter and the northern eye"
+msgstr "Tarp pastarosios ir šiaurinės akies"
+
+#. Name for HIP 20885
+msgid "The one between that latter itself and the southern eye"
+msgstr "Esanti tarp pačios pastarosios ir pietinės akies"
+
+#. Name for HIP 21421
+msgid ""
+"The bright star of the group of stars resembling the Arabic letter 'dal د', "
+"the reddish one on the southern eye"
+msgstr ""
+"Ryški žvaigždė žvaigždyno, panašaus į arabų raidę 'dal د', raudona pietinėje "
+"akyje."
+
+#. Name for HIP 20889
+msgid "The remaining one, on the northern eye"
+msgstr "Likusioji, šiaurinėje akyje"
+
+#. Name for HIP 22565
+msgid ""
+"The star on the place where the southern horn and the ear join [the head]"
+msgstr ""
+"Žvaigždė toje vietoje, kur susijungia pietinis ragas ir ausis [prie galvos]."
+
+#. Name for HIP 23835
+msgid "The southernmost of the two stars on the southern horn"
+msgstr "Piečiausioji iš dviejų žvaigždžių, pietiniame rage"
+
+#. Name for HIP 23871
+msgid "The northernmost of these"
+msgstr "Šiauriausioji iš jų"
+
+#. Name for HIP 26451
+msgid "The star on the tip of the southern horn"
+msgstr "Žvaigždė ant pietinio rago galo"
+
+#. Name for HIP 21881
+msgid "The star on the place where the northern horn joins [the head]"
+msgstr "Žvaigždė ten, kur šiaurinis ragas jungiasi [su galva]"
+
+#. Name for HIP 25428
+msgid ""
+"The star on the tip of the northern horn, which is the same as the one on "
+"the right foot of Auriga"
+msgstr "Žvaigždė šiaurinio rago viršuje, ta pati ir dešinėje Vežėjo kojoje."
+
+#. Name for HIP 20711
+msgid "The northernmost of the two stars close together in the northern ear"
+msgstr "Šiauriausia iš dviejų žvaigždžių, arti viena kitos šiaurinėje ausyje"
+
+#. Name for HIP 19038
+msgid "The more advanced of the two small stars in the neck"
+msgstr "Daugiau pažengusi iš dviejų mažų žvaigždžių kakle"
+
+#. Name for HIP 19513
+msgid ""
+"The southernmost star on the advance side of the four stars forming the "
+"quadrilateral in the neck"
+msgstr ""
+"Labiausiai į pietus nutolusi žvaigždė, iš keturių žvaigždžių, sudarančių "
+"keturkampį kakle, priekinėje pusėje"
+
+#. Name for HIP 19205
+msgid "The northernmost star on the advance side"
+msgstr "Šiauriausia žvaigždė priešakinėje pusėje"
+
+#. Name for HIP 20430
+msgid "The southernmost star on the rear side"
+msgstr "Piečiausia žvaigždė iš užpakalinės pusės"
+
+#. Name for HIP 17573
+msgid "The Pleiades:  the northern end of the advance side"
+msgstr "Plejadės: šiaurinis priekinės pusės galas"
+
+#. Name for HIP 17499
+msgid "The southern end of the advance side [of the Pleiades]"
+msgstr "Pietinis priekinės [Plejadžių] pusės galas"
+
+#. Name for HIP 17702
+msgid "The rearmost and narrowest end of the Pleiades"
+msgstr "Plejadžių užpakalinė ir siauriausia galinė dalis"
+
+#. Name for HIP 17847
+msgid "The small star outside the Pleiades, towards the north"
+msgstr "Maža žvaigždė už Plejadžių, šiauriau"
+
+#. Name for HIP 16852
+msgid "The star under the right foot and the ankle"
+msgstr "Žvaigždė po dešinės kojos pėda ir čiurna."
+
+#. Name for HIP 23497
+msgid "The most advanced of the three stars over the southern horn"
+msgstr "Artimesnė iš trijų žvaigždžių virš pietinio rago"
+
+#. Name for HIP 25945
+msgid "The northernmost of the two stars under the tip of the southern horn"
+msgstr "Šiauriausia iš dviejų žvaigždžių po pietinio rago galu"
+
+#. Name for HIP 26248
+msgid "The most advanced of the next five stars under the northern horn"
+msgstr "Artimiausia iš kitų penkių žvaigždžių po šiauriniu ragu"
+
+#. Name for HIP 27468
+msgid "The one to the rear again of the latter"
+msgstr "Pastarosios gale esanti vėlgi"
+
+#. Name for HIP 27830
+msgid "The northernmost of the remaining, rearmost two"
+msgstr "Šiauriausia iš dviejų likusių, galinių"
+
+#. Name for HIP 28237
+msgid "The southernmost of these two"
+msgstr "Piečiausia iš šių dviejų"
+
+#. Name for HIP 21421
+#. Al-Thurayya is a proper name
+msgid "The follower of Al-Thurayya"
+msgstr "Al-Turaja sekėjas"
+
+#. Name for HIP 21421
+#. Al-Mijdah is a proper name meaning the star of rain or the fork referring to the shape of the Hyades
+msgid "Al-Mijdah"
+msgstr "Al-Mijdah"
+
+#. Name for HIP 21421
+msgid "The follower"
+msgstr "Sekėjas"
+
+#. Name for HIP 21421
+msgid "The special camel"
+msgstr "Specialus kupranugaris"
+
+#. Name for HIP 36850
+msgid "The star on the head of the advance twin"
+msgstr "Žvaigždė pirmojo dvynio galvoje "
+
+#. Name for HIP 37826
+msgid "The reddish star on the head of the rear twin"
+msgstr "Raudonoka žvaigždė galinio dvynio galvoje"
+
+#. Name for HIP 33018
+msgid "The star in the left forearm of the advance twin"
+msgstr "Žvaigždė kairiąjame priekinio dvynio dilbyje "
+
+#. Name for HIP 34693
+msgid "The star in the same [left] upper arm"
+msgstr "Tokia pati žvaigždė [kairėje] žaste"
+
+#. Name for HIP 36046
+msgid "The one to the rear of that, between the shoulders"
+msgstr "Esanti užpakalinėje dalyje, tarp pečių."
+
+#. Name for HIP 36962
+msgid ""
+"The one to the rear of this, on the right shoulder of the same [advance] twin"
+msgstr "Užpakalyje, ant dešiniojo to paties [priešakinio] dvynio peties."
+
+#. Name for HIP 37740
+msgid "The star on the rear shoulder of the rear twin"
+msgstr "Žvaigždė galinio dvynio galiniame petyje"
+
+#. Name for HIP 35846
+msgid "The star on the right side of the advance twin"
+msgstr "Pirmojo dvynio dešinėje pusėje esanti žvaigždė "
+
+#. Name for HIP 36238
+msgid "The star on the left side of the rear twin"
+msgstr "Žvaigždė  galinio dvynio kairėje"
+
+#. Name for HIP 32246
+msgid "The star on the left knee of the advance twin"
+msgstr "Žvaigždė pirmojo dvynio kairiąjame kelyje "
+
+#. Name for HIP 35550
+msgid "The star in the left side of the rear twin"
+msgstr "Žvaigždė  galinio dvynio kairėje"
+
+#. Name for HIP 34088
+msgid "The star over the left knee of the rear twin"
+msgstr "Žvaigždė virš galinio dvynio kairiojo kelio"
+
+#. Name for HIP 35350
+msgid "The star over the bend in the right knee of the same [rear] twin"
+msgstr "Žvaigždė virš dešiniojo kelio linkio to paties [galinio] dvynio"
+
+#. Name for HIP 29655
+msgid "The star in front of the left foot of the advance twin"
+msgstr "Žvaigždė priešais pimojo dvynio kairę pėdą"
+
+#. Name for HIP 30343
+msgid "The one to the rear of this on the same foot"
+msgstr "Užpakalinėje dalyje esanti toje pačioje pėdoje"
+
+#. Name for HIP 30883
+msgid "The star on the right foot of the advance twin"
+msgstr "Žvaigždė dešinėje priešakinio dvynio pėdoje"
+
+#. Name for HIP 31681
+msgid "The star on the left foot of the rear twin"
+msgstr "Žvaigždė galinio dvynio kairiojoje pėdoje"
+
+#. Name for HIP 32362
+msgid "The star on the right foot of the rear twin"
+msgstr "Žvaigždė galinio dvynio dešiniojoje pėdoje "
+
+#. Name for HIP 28734
+msgid "The star in advance of the one in front of the foot of the advance twin"
+msgstr "Žvaigždė, esanti priešais priekinio dvynio pėdą"
+
+#. Name for HIP 29696
+msgid "The bright star in advance of the advance knee"
+msgstr "Ryški žvaigždė prieš priekinį kelį"
+
+#. Name for HIP 32921
+msgid "The star in advance of the left knee of the rear twin"
+msgstr "Žvaigždė prieš galinio dvynio kairįjį kelį"
+
+#. Name for HIP 38722
+msgid ""
+"The northernmost of the three stars in a straight line to the rear of the "
+"right arm of the rear twin"
+msgstr ""
+"Šiauriausia iš trijų žvaigždžių, esanti tiesia linija už galinio dvynio "
+"dešiniosios rankos."
+
+#. Name for HIP 37300
+msgid "The southernmost of them, near the forearm of the [right] arm"
+msgstr "Piečiausioji iš jų, šalia [dešinės] rankos dilbio."
+
+#. Name for HIP 40167
+msgid "The bright star to the rear of the above-mentioned three"
+msgstr "Ryški žvaigždė, esanti aukščiau minėtų trijų žvaigždžių gale"
+
+#. Name for HIP 41909
+msgid ""
+"The northernmost of the two stars in advance of the quadrilateral containing "
+"the nebula"
+msgstr ""
+"Šiauriausia iš dviejų žvaigždžių, esančių prieš keturkampį, turintį ūką"
+
+#. Name for HIP 41822
+msgid "The southernmost of the two stars in advance"
+msgstr "Piečiausia iš dviejų žvaigždžių priešakyje"
+
+#. Name for HIP 42806
+msgid ""
+"The northernmost of the rear two stars on the quadrilateral, which are "
+"called 'Aselli'"
+msgstr ""
+"Šiauriausia iš dviejų galinių keturkampio žvaigždžių, kurios vadinamos "
+"\"Aselli\"."
+
+#. Name for HIP 44066
+msgid "The star on the southern claw"
+msgstr "Žvaigždė pietiniame nage"
+
+#. Name for HIP 43103
+msgid "The star on the northern claw"
+msgstr "Žvaigždė šiauriniame nage"
+
+#. Name for HIP 39780
+msgid "The star on the northern back leg"
+msgstr "Žvaigždė šiaurinėje galinėje kojoje"
+
+#. Name for HIP 40526
+msgid "The star on the southern back leg"
+msgstr "Žvaigždė pietinėje galinėje kojoje"
+
+#. Name for HIP 45410
+msgid "The star over the joint in the southern claw"
+msgstr "Žvaigždė virš pietinio nago sąnario"
+
+#. Name for HIP 44798
+msgid "The star to the rear of the tip of the southern claw"
+msgstr "Žvaigždė, esanti už pietinio nago galo"
+
+#. Name for HIP 44405
+msgid ""
+"The more advanced of the two stars over the nebula and to the rear of it"
+msgstr "Artimesnė iš dviejų žvaigždžių virš ūko ir už jo esančių"
+
+#. Name for HIP 44946
+msgid "The rearmost of these [two]"
+msgstr "Paskutinioji iš šių [dviejų]"
+
+#. Name for HIP 13954
+msgid "The star on the tip of the nostrils"
+msgstr "Žvaigždė ant nosies galiuko"
+
+#. Name for HIP 46750
+msgid "The star in the gaping jaws"
+msgstr "Žvaigždė atvertuose nasruose"
+
+#. Name for HIP 48455
+msgid "The northernmost of the two stars in the head"
+msgstr "Šiauriausia iš dviejų žvaigždžių galvoje."
+
+#. Name for HIP 50335
+msgid "The northernmost of the three stars in the neck"
+msgstr "Šiauriausia iš trijų žvaigždžių kakle"
+
+#. Name for HIP 50583
+msgid "The one close to this, the middle one of the three"
+msgstr "Netoli šios, vidurinioji iš trijų"
+
+#. Name for HIP 49669
+msgid "The star on the heart, called 'Regulus' and it is the lion heart"
+msgstr "Žvaigždė ant širdies, 'Regulas', tai liūto širdis"
+
+#. Name for HIP 49637
+msgid "The one south of this, about on the chest"
+msgstr "Į pietus nuo šios, maždaug ant krūtinės"
+
+#. Name for HIP 48883
+msgid "The star a little in advance of the star on the heart"
+msgstr "Žvaigždė šiek tiek pirmiau už žvaigždę ant širdies"
+
+#. Name for HIP 46771
+msgid "The star on the right front claw-clutch"
+msgstr "Žvaigždė ant dešiniosios priekinės nago jungties"
+
+#. Name for HIP 47508
+msgid "The star on the left front claw-clutch"
+msgstr "Žvaigždė ant kairiosios priekinės nago jungties"
+
+#. Name for HIP 49029
+msgid "The star on the left [front] knee"
+msgstr "Žvaigždė ant kairiojo [priekinio] kelio"
+
+#. Name for HIP 51624
+msgid "The star on the left armpit"
+msgstr "Žvaigždė kairėje pažastyje"
+
+#. Name for HIP 51585
+msgid "The most advanced of the three stars in the belly"
+msgstr "Labiausiai nutolusi iš trijų pilve esančių žvaigždžių"
+
+#. Name for HIP 52689
+msgid "The northernmost of the other, rearmost two"
+msgstr "Šiauriausia iš kitų dviejų, galinių"
+
+#. Name for HIP 52911
+msgid "The southernmost of these [two]"
+msgstr "Piečiausioji iš jų [dviejų]"
+
+#. Name for HIP 53954
+msgid "The more advanced of the two stars on the rump"
+msgstr " Labiau pažengusi iš dviejų žvaigždžių užpakalyje"
+
+#. Name for HIP 55765
+msgid "The northernmost of the two stars in the buttocks"
+msgstr "Šiauriausia iš dviejų žvaigždžių sėdmenyse"
+
+#. Name for HIP 55642
+msgid "The star in the hind thighs"
+msgstr "Žvaigždė užpakalinėse šlaunyse"
+
+#. Name for HIP 55434
+msgid "The star in the hind leg-bends"
+msgstr "Žvaigždė, esanti užpakalinės kojos linkyje"
+
+#. Name for HIP 55084
+msgid "The one south of this, about in the lower legs"
+msgstr "Esanti į pietus nuo šios, maždaug apatinėje kojų dalyje"
+
+#. Name for HIP 56647
+msgid "The star on the hind claw-clutches"
+msgstr "Žvaigždė ant užpakalinių nagų žnyplių"
+
+#. Name for HIP 57632
+msgid "The star on the end of the tail"
+msgstr "Žvaigždė uodegos gale"
+
+#. Name for HIP 52457
+msgid "The more advanced of the two over the back"
+msgstr "Artimesnė iš dviejų virš nugaros"
+
+#. Name for HIP 54182
+msgid "The northernmost of the three under the flank"
+msgstr "Šiauriausia iš trijų po šonu"
+
+#. Name for HIP 60742
+msgid ""
+"The northernmost part of the nebulous mass between the edges of Leo and Ursa "
+"[Major], called Coma [Berenices]"
+msgstr ""
+"Šiauriausia ūko masės dalis tarp Liūto ir Grįžulo Ratų [Didžiųjų] kraštų, "
+"vadinama Garbanos [Berenikės]."
+
+#. Name for HIP 59847
+msgid "The most advanced of the southern outrunners of Coma"
+msgstr "Artimiausia iš pietinių Garbanų persekiotojų"
+
+#. Name for HIP 61394
+msgid "The rearmost of them, shaped like an ivy leaf"
+msgstr "Paskutinė iš jų, panaši į gebenės lapą"
+
+#. Name for HIP 57632
+msgid "Star of weather change"
+msgstr "Oro kaitos žvaigždė"
+
+#. Name for HIP 57380
+msgid "The southernmost of the two stars in the top of the skull"
+msgstr "Piečiausioji iš dviejų žvaigždžių, kaukolės viršuje"
+
+#. Name for HIP 58948
+msgid "The northernmost of the two stars to the rear of these, in the face"
+msgstr "Šiauriausia iš dviejų žvaigždžių, gale tų, esančių veide"
+
+#. Name for HIP 57757
+msgid "The star on the tip of the southern, left wing"
+msgstr "Žvaigždė ant pietinio kairiojo sparno galo"
+
+#. Name for HIP 60129
+msgid "The most advanced of the four stars in the left wing"
+msgstr "Labiausiai išsišokusi iš keturių kairiojo sparno žvaigždžių"
+
+#. Name for HIP 63494
+msgid "The one to the rear again of this"
+msgstr "Vėl į galą nuo šios"
+
+#. Name for HIP 63090
+msgid "The star in the right side under the girdle"
+msgstr "Žvaigždė dešinėje pusėje po juosta"
+
+#. Name for HIP 61960
+msgid "The most advanced of the three stars in the right, northern wing"
+msgstr "Artimiausia iš trijų žvaigždžių dešiniajame, šiauriniame sparne"
+
+#. Name for HIP 62267
+msgid "The southernmost of the other two"
+msgstr "Piečiausioji iš kitų dviejų"
+
+#. Name for HIP 63608
+msgid "The northernmost of these, called 'Vindemiatrix'"
+msgstr "Šiauriausia iš jų, vadinama 'Vindemiatriksė'"
+
+#. Name for HIP 65474
+#. The armless high one is the Arabic name for Spica
+msgid ""
+"The star on the left hand, called 'Spica', and it is The armless high one"
+msgstr ""
+"Žvaigždė kairėje rankoje, vadinama \" Spika \", ir ji yra Berankė, aukštoji"
+
+#. Name for HIP 66249
+msgid "The star under the apron just about over the right buttock"
+msgstr " Žvaigždė po prijuoste šiek tiek virš dešiniojo sėdmens"
+
+#. Name for HIP 66006
+msgid ""
+"The northern star on the advance side of the quadrilateral in the left thigh"
+msgstr ""
+"Šiaurinė žvaigždė kairėje šlaunyje esančio keturkampio priekinėje pusėje"
+
+#. Name for HIP 24327
+msgid "The southern star on the advance side"
+msgstr "Pietinė žvaigždė priešakinėje pusėje"
+
+#. Name for HIP 66803
+msgid "The northernmost of the two stars on the rear side"
+msgstr "Šiauriausia iš dviejų žvaigždžių užpakalinėje pusėje."
+
+#. Name for HIP 67929
+msgid "The star in the back of the right thigh"
+msgstr " Žvaigždė dešinės šlaunies užpakalinėje dalyje"
+
+#. Name for HIP 69701
+msgid "The middle star of the three in the garment-hem round the feet"
+msgstr "Vidurinioji žvaigždė iš trijų, esančių ant drabužio aplink pėdas"
+
+#. Name for HIP 69974
+msgid "The star on the left, southern foot"
+msgstr "Žvaigždė kairėje, pietinėje pėdoje"
+
+#. Name for HIP 71957
+msgid "The star on the right, northern foot"
+msgstr "Žvaigždė dešinėje, šiaurinėje pėdoje"
+
+#. Name for HIP 61740
+msgid ""
+"The most advanced of the three in a straight line under the left forearm"
+msgstr "Labiausiai išsikišusi iš trijų tiesioje linijoje po kairiuoju dilbiu"
+
+#. Name for HIP 64407
+msgid ""
+"The most advanced of the three stars almost on a straight line under Spica"
+msgstr ""
+" Labiausiai išsikišusi iš trijų žvaigždžių beveik tiesia linija po Spika"
+
+#. Name for HIP 64924
+msgid "The middle one of these, which is a double star"
+msgstr "Vidurinioji iš šių, tai yra dviguba žvaigždė"
+
+#. Name for HIP 72622
+msgid "The brighter one of the two stars on the tip of the southern claw"
+msgstr "Ryškesnė iš dviejų žvaigždžių ant pietinio nago galo"
+
+#. Name for HIP 72489
+msgid "The northern one and fainter of the two"
+msgstr "Šiaurinė ir blankesnė iš dviejų"
+
+#. Name for HIP 74785
+msgid "The brighter one of the two stars on the tip of the northern claw"
+msgstr " Ryškesnioji iš dviejų žvaigždžių, esančių ant šiaurinio nago galo"
+
+#. Name for HIP 73473
+msgid "The advanced one and fainter of the two"
+msgstr "Labiau nutolusi ir silpnesnė iš dviejų"
+
+#. Name for HIP 74392
+msgid "The star in the middle of the southern claw"
+msgstr " Žvaigždė pietinio nago viduryje"
+
+#. Name for HIP 73945
+msgid "The one in advance of this on the same claw"
+msgstr "Pirmiau esanti ant to paties nago"
+
+#. Name for HIP 76333
+msgid "The star in the middle of the northern claw"
+msgstr "Žvaigždė šiaurinio nago viduryje"
+
+#. Name for HIP 77853
+msgid "The one to the rear of this on the same claw"
+msgstr "Užpakalinėje dalyje esanti tame pačiame nage"
+
+#. Name for HIP 76219
+msgid "The most advanced of the three stars north of the northern claw"
+msgstr "Artimiausia iš trijų žvaigždžių, esančių į šiaurę nuo šiaurinio nago"
+
+#. Name for HIP 78207
+msgid "The southernmost of the rearmost two [of these]"
+msgstr " Labiausiai į pietus nutolusi iš dviejų galinių [šių]"
+
+#. Name for HIP 77811
+msgid "The rearmost of the three stars between the claws"
+msgstr "Galinė iš trijų žvaigždžių tarp nagų"
+
+#. Name for HIP 77060
+msgid "The northernmost of the other two in advance [of the latter]"
+msgstr "Šiauriausia iš kitų dviejų, esančių prieš [pastarąją]"
+
+#. Name for HIP 73714
+msgid "The most advanced of the three stars south of the southern claw"
+msgstr "Artimiausia iš trijų žvaigždžių, esančių į pietus nuo pietinio nago"
+
+#. Name for HIP 76470
+msgid "The northernmost of the other, rear two"
+msgstr "Šiauriausia iš kitų, galinių dviejų"
+
+#. Name for HIP 78820
+msgid "The northernmost of the three bright stars in the forehead"
+msgstr "Šiauriausia iš trijų ryškių žvaigždžių kaktoje"
+
+#. Name for HIP 78104
+msgid "The star south again of this, on one of the legs"
+msgstr "Žvaigždė vėl į pietus nuo šios, esančios ant vienos iš kojų"
+
+#. Name for HIP 79374
+msgid ""
+"The northernmost of the two stars adjacent to the northernmost of the three "
+"bright ones"
+msgstr ""
+"Šiauriausia iš dviejų žvaigždžių, besiribojanti su šiauriausia iš trijų "
+"ryškių žvaigždžių"
+
+#. Name for HIP 80112
+msgid "The most advanced of the three bright stars in the body"
+msgstr "Artimiausia iš trijų ryškių žvaigždžių kūne"
+
+#. Name for HIP 80763
+msgid ""
+"The middle one of these, which is reddish and called 'Heart of the scorpion'"
+msgstr "Vidurinioji iš jų, rausva, vadinama \"Skorpiono širdimi\"."
+
+#. Name for HIP 79404
+msgid "The advance star of the two under these, approximately on the last legs"
+msgstr "Priešakinė žvaigždė iš dviejų po šiomis, maždaug ant paskutiniųjų kojų"
+
+#. Name for HIP 79881
+msgid "The rearmost of these"
+msgstr "Tolimiausioji iš jų."
+
+#. Name for HIP 82396
+msgid "The star in the first tail-joint from the body"
+msgstr "Žvaigždė pirmajame uodegos sąnaryje nuo kūno"
+
+#. Name for HIP 82514
+msgid "The one after this, in the second joint"
+msgstr "Po šios, antrajame sąnaryje"
+
+#. Name for HIP 82729
+msgid "The northern star of the double-star in the third joint"
+msgstr "Šiaurinė dvigubos žvaigždės žvaigždė trečiame sąnaryje"
+
+#. Name for HIP 82671
+msgid "The southern star of the double-star"
+msgstr "Dvigubos žvaigždės pietinė žvaigždė"
+
+#. Name for HIP 84143
+msgid "The one following, in the forth joint"
+msgstr "Toliau esanti, ketvirtajame sąnaryje"
+
+#. Name for HIP 86228
+msgid "The one after that, in the fifth joint"
+msgstr "Po to sekanti, penktajame sąnaryje"
+
+#. Name for HIP 87073
+msgid "The next one again, in the sixth joint"
+msgstr "Dar viena, šeštajame sąnaryje"
+
+#. Name for HIP 86670
+msgid "The star in the seventh joint, the joint next to the sting"
+msgstr "Žvaigždė septintajame sąnaryje, sąnaryje, esančiame šalia geluonies"
+
+#. Name for HIP 85927
+msgid "The rearmost of the two stars in the sting"
+msgstr "Užpakalinė iš dviejų žvaigždžių geluonyje"
+
+#. Name for HIP 87261
+msgid "The nebulous star to the rear of the sting"
+msgstr "Miglota žvaigždė, esanti už geluonies"
+
+#. Name for HIP 85423
+msgid "The most advanced of the two stars to the north of the sting"
+msgstr ""
+"Labiausiai nutolusi iš dviejų žvaigždžių, esančių į šiaurę nuo geluonies"
+
+#. Name for HIP 88635
+msgid "The star on the point of the arrow"
+msgstr "Žvaigždė strėlės smaigalyje"
+
+#. Name for HIP 89931
+msgid "The star in the bow-grip held by the left hand"
+msgstr "Žvaigždė kairėje rankoje laikomoje lanko rankenoje"
+
+#. Name for HIP 90185
+msgid "The star in the southern portion of the bow"
+msgstr "Žvaigždė pietinėje lanko dalyje"
+
+#. Name for HIP 90496
+msgid "The southernmost of the two stars in the northern portion of the bow"
+msgstr "Piečiausia iš dviejų žvaigždžių šiaurinėje lanko dalyje"
+
+#. Name for HIP 89341
+msgid "The northernmost of these, on the tip of the bow"
+msgstr "Šiauriausia iš jų, esanti lanko gale"
+
+#. Name for HIP 92041
+msgid "The one in advance of this, on the arrow"
+msgstr "Tolimesnė už šią, strėlėje"
+
+#. Name for HIP 92761
+msgid "The star on the eye, which is nebulous and double"
+msgstr "Žvaigždė akyje, kuri yra miglota ir dviguba"
+
+#. Name for HIP 93085
+msgid "The most advanced of the three stars in the head"
+msgstr "Labiausiai pažengusi iš trijų žvaigždžių galvoje"
+
+#. Name for HIP 94820
+msgid "The southernmost of the three stars in the northern cloak-attachment"
+msgstr "Piečiausia iš trijų žvaigždžių, esančių šiauriniame apsiausto priekyje"
+
+#. Name for HIP 96950
+msgid "The faint star to the rear of these three"
+msgstr "Silpna žvaigždė už šių trijų"
+
+#. Name for HIP 98258
+msgid "The northernmost of the two stars on the southern cloak-attachment"
+msgstr "Šiauriausia iš dviejų žvaigždžių, esančių pietinėje apsiausto dalyje"
+
+#. Name for HIP 94643
+msgid "The one between the shoulders of the three stars in the back"
+msgstr "Esanti tarp pečių iš trijų žvaigždžių nugaroje"
+
+#. Name for HIP 93864
+msgid "The middle one, on the shoulder-blade"
+msgstr "Vidurinioji, ant mentės"
+
+#. Name for HIP 93506
+msgid "The other one, under the armpit"
+msgstr "Kita, po pažastimi"
+
+#. Name for HIP 95241
+msgid "The star on the front left hock"
+msgstr "Žvaigždė priekiniame kairiajame klubo sąnaryje"
+
+#. Name for HIP 95347
+msgid "The one on the knee of the same leg"
+msgstr "Ant to paties kojos kelio"
+
+#. Name for HIP 89642
+msgid "The star on the front right hock"
+msgstr "Žvaigždė priekiniame dešiniajame klubo sąnaryje"
+
+#. Name for HIP 98412
+msgid "The star on the left thigh"
+msgstr "Žvaigždė ant kairiosios šlaunies"
+
+#. Name for HIP 98032
+msgid "The star on the right hind lower leg"
+msgstr "Žvaigždė dešinėje užpakalinėje blauzdoje"
+
+#. Name for HIP 98066
+msgid ""
+"The advance star on the northern side of the four stars [forming a "
+"quadrilateral] in the place where the tail joins [the body]"
+msgstr ""
+"Priešakinė žvaigždė, esanti keturių žvaigždžių [sudarančių keturkampį] "
+"šiaurinėje pusėje, toje vietoje, kur uodega jungiasi [su kūnu]"
+
+#. Name for HIP 98353
+msgid "The rear star on the northern side"
+msgstr "Galinė žvaigždė šiaurinėje pusėje"
+
+#. Name for HIP 29038
+msgid "The advance star on the southern side"
+msgstr "Priešakinė žvaigždė pietinėje pusėje"
+
+#. Name for HIP 98688
+msgid "The rear star on the southern side"
+msgstr "Galinė žvaigždė pietinėje pusėje"
+
+#. Name for HIP 100027
+msgid "The northernmost of the three stars in the rear horn"
+msgstr "Šiauriausia iš trijų žvaigždžių užpakaliniame rage"
+
+#. Name for HIP 99572
+msgid "The star on the tip of the advance horn"
+msgstr "Žvaigždė ant priekinio rago galo"
+
+#. Name for HIP 101123
+msgid "The southernmost of the three stars in the muzzle"
+msgstr "Piečiausia iš trijų žvaigždžių snukyje"
+
+#. Name for HIP 100881
+msgid "The more advanced of the other two"
+msgstr "Artimesnė iš kitų dviejų"
+
+#. Name for HIP 100195
+msgid "The star in advance of the three, under the right eye"
+msgstr "Žvaigždė, esanti priekyje tarp trijų, po dešine akimi"
+
+#. Name for HIP 34045
+msgid "The northernmost of the two stars in the neck"
+msgstr "Šiauriausia iš dviejų žvaigždžių kakle"
+
+#. Name for HIP 102485
+msgid "The star under the right knee"
+msgstr "Žvaigždė po dešiniu keliu"
+
+#. Name for HIP 102978
+msgid "The star on the left, doubled-up knee"
+msgstr "Kairėje pusėje esanti žvaigždė, padvigubintame kelyje"
+
+#. Name for HIP 105881
+msgid "The more advanced of the two stars close together under the belly"
+msgstr ""
+"Labiau nutolusi iš dviejų žvaigždžių, esančių arti viena kitos po pilvu"
+
+#. Name for HIP 104963
+msgid "The rearmost of the three stars in the middle of the body"
+msgstr "Galinė iš trijų žvaigždžių kūno viduryje"
+
+#. Name for HIP 104365
+msgid "The fainter of the other, advance two"
+msgstr "Blankesnė iš kitų, priekinių dviejų"
+
+#. Name for HIP 104139
+msgid "The more advanced of the two stars in the back"
+msgstr "Labiau nutolusi iš dviejų žvaigždžių nugaroje"
+
+#. Name for HIP 106723
+msgid "The more advanced of the two stars in the southern spine"
+msgstr "Artimesnė iš dviejų žvaigždžių pietinėje stuburo dalyje"
+
+#. Name for HIP 106985
+msgid ""
+"The more advanced of the two stars in the section [of the body] next to the "
+"tail"
+msgstr "Artimesnė iš dviejų žvaigždžių [kūno] dalyje prie uodegos"
+
+#. Name for HIP 107095
+msgid "The most advanced of the four stars on the northern portion of the tail"
+msgstr "Artimiausia iš keturių žvaigždžių, esančių šiaurinėje uodegos dalyje"
+
+#. Name for HIP 108036
+msgid "The southernmost of the other three"
+msgstr "Piečiausioji iš kitų trijų"
+
+#. Name for HIP 107382
+msgid "The northernmost of them, on the end of the tail-fin"
+msgstr "Šiauriausiioji iš jų, ant uodegos galo"
+
+#. Name for HIP 100310
+msgid "The sheep of the lucky star of the slaughterer"
+msgstr "Skerdiko laimės žvaigždės avys"
+
+#. Name for HIP 106944
+msgid "The star on the head of Aquarius"
+msgstr "Žvaigždė Vandenio galvoje"
+
+#. Name for HIP 109074
+msgid "The brighter of the two stars in the right shoulder"
+msgstr "Ryškesnė iš dviejų žvaigždžių dešiniąjame petyje."
+
+#. Name for HIP 108874
+msgid "The fainter one, under it"
+msgstr "Silpnesnioji, po ja"
+
+#. Name for HIP 106786
+msgid "The one under that, in the back, approximately under the armpit"
+msgstr "Po ja esanti, nugaroje, maždaug po pažastimi."
+
+#. Name for HIP 103401
+msgid "The rearmost of the three stars in the left arm, on the coat"
+msgstr "Galinė iš trijų žvaigždžių kairėje rankoje, ant apsiausto"
+
+#. Name for HIP 110395
+msgid "The star in the right forearm"
+msgstr "Žvaigždė dešiniame dilbyje"
+
+#. Name for HIP 110672
+msgid "The northernmost of the three stars on the right hand"
+msgstr "Šiauriausia iš trijų dešinėje rankoje esančių žvaigždžių"
+
+#. Name for HIP 110960
+msgid "The more advanced of the other two to the south"
+msgstr "Artimesnė iš kitų dviejų į pietus esančių"
+
+#. Name for HIP 110003
+msgid ""
+"The more advanced of the two stars close together in the hollow of the right "
+"hip"
+msgstr ""
+"Artimesnė iš dviejų žvaigždžių, esančių arti viena kitos dešiniojo klubo "
+"duobutėje."
+
+#. Name for HIP 111123
+msgid "The star on the right buttock"
+msgstr "Žvaigždė ant dešiniojo sėdmenio"
+
+#. Name for HIP 109139
+msgid "The southernmost of the two stars in the left buttock"
+msgstr "Piečiausia iš dviejų žvaigždžių kairiajame sėdmenyje"
+
+#. Name for HIP 113136
+msgid "The southernmost of the two stars in the right lower leg"
+msgstr "Piečiausia iš dviejų žvaigždžių dešiniosios blauzdos srityje."
+
+#. Name for HIP 112716
+msgid "The northernmost of them, under the knee-bend"
+msgstr " Šiauriausia iš jų, esanti po kelių linkiu"
+
+#. Name for HIP 110778
+msgid "The star in the back of the left thigh"
+msgstr "Žvaigždė kairės šlaunies užpakalinėje dalyje"
+
+#. Name for HIP 112529
+msgid "The southernmost of the two stars in the left lower leg"
+msgstr "Piečiausia iš dviejų žvaigždžių kairiojoje blauzdoje."
+
+#. Name for HIP 112211
+msgid "The northernmost of these, under the knee"
+msgstr "Šiauriausioji iš jų, po keliu"
+
+#. Name for HIP 112961
+msgid ""
+"The stars on the flow of water:  the most advanced [in the section] "
+"beginning at the hand"
+msgstr ""
+"Žvaigždės vandens tėkmėje: labiausiai pažengusios [skyriuje], "
+"prasidedančiame nuo rankos"
+
+#. Name for HIP 113996
+msgid "The one next to the latter towards the south"
+msgstr "Šalia pastarosios į pietus"
+
+#. Name for HIP 114724
+msgid "The one next to this, after [the beginning of] the water bend"
+msgstr "Šalia esanti, po vandens lanko [pradžios]"
+
+#. Name for HIP 114855
+msgid "The one in the bend to the south of this"
+msgstr "Esanti vingyje į pietus nuo šios"
+
+#. Name for HIP 115033
+msgid "The northernmost of the two stars to the south of this"
+msgstr " Šiauriausia iš dviejų žvaigždžių, esančių į pietus nuo šios"
+
+#. Name for HIP 115115
+msgid "The southernmost of the two"
+msgstr "Piečiausia iš šių dviejų"
+
+#. Name for HIP 115404
+msgid "The lone star at some distance from these [two] towards the south"
+msgstr "Vieniša žvaigždė šiek tiek toliau nuo šių [dviejų] į pietus"
+
+#. Name for HIP 116758
+msgid "The more advanced of the two stars close together after the latter"
+msgstr "Artimesnė iš dviejų žvaigždžių arti viena kitos po pastarosios"
+
+#. Name for HIP 116901
+msgid "The northernmost of the three stars in the next bend group"
+msgstr " Šiauriausia iš trijų kitos vingio grupės žvaigždžių"
+
+#. Name for HIP 115438
+msgid "The northernmost of the next three [arranged] likewise"
+msgstr " Šiauriausia iš kitų trijų [išdėstytų] taip pat"
+
+#. Name for HIP 114119
+msgid "The most advanced of the three stars in the remaining bend group"
+msgstr "Artimiausia iš trijų likusios vingio grupės žvaigždžių"
+
+#. Name for HIP 113368
+msgid "The star at the end of the water and on the mouth of Piscis Austrinus"
+msgstr " Žvaigždė prie vandens pabaigos ir Piscis Austrinus burnos"
+
+#. Name for HIP 301
+msgid ""
+"The most advanced of the three stars to the rear of the bend in the water"
+msgstr " Labiausiai išsikišusi iš trijų žvaigždžių, esanti už vandens posūkio."
+
+#. Name for HIP 113368
+msgid "The first frog"
+msgstr "Pirmoji varlė"
+
+#. Name for HIP 113368
+msgid "The male ostrich"
+msgstr "Stručio patinas"
+
+#. Name for HIP 113889
+msgid "The star in the mouth of the advance fish"
+msgstr " Žvaigždė priekinės žuvies burnoje"
+
+#. Name for HIP 114971
+msgid "The southernmost of the two stars in the top of its head"
+msgstr "Piečiausia iš dviejų žvaigždžių jos viršugalvyje"
+
+#. Name for HIP 115738
+msgid "The more advanced of the two stars in the belly"
+msgstr "Daugiau pažengusi iš dviejų žvaigždžių pilve"
+
+#. Name for HIP 118268
+msgid "The star in the tail of the same [advance] fish"
+msgstr "Žvaigždė tos pačios [pažengusios] žuvies uodegoje"
+
+#. Name for HIP 1645
+msgid "The first after the tail of the stars forming its fishing-line"
+msgstr " Pirmoji po žvaigždžių uodegos, sudarančios jos meškerę"
+
+#. Name for HIP 3786
+msgid "The most advanced of the three following stars"
+msgstr "Artimiausia iš trijų šių žvaigždžių"
+
+#. Name for HIP 5346
+msgid "The northernmost of the two small stars under these, in the bend"
+msgstr " Šiauriausia iš dviejų mažų žvaigždžių, esančių po jomis, vingyje"
+
+#. Name for HIP 7007
+msgid "The most advanced of the three stars after the bend"
+msgstr " Labiausiai pažengusi iš trijų žvaigždžių po posūkio"
+
+#. Name for HIP 9487
+msgid "The star on the knot joining the two fishing-lines"
+msgstr " Žvaigždė ant mazgo, jungiančio dvi žvejybos valus"
+
+#. Name for HIP 8198
+msgid ""
+"The first in the section beginning at the knot of the stars in the northern "
+"fishing-line"
+msgstr ""
+" Pirmoji dalyje, prasidedančioje ties žvaigždžių mazgu šiauriniame žūklės "
+"vale"
+
+#. Name for HIP 7535
+msgid "The southernmost of the three stars following after that"
+msgstr " Piečiausia iš trijų po jos einančių žvaigždžių"
+
+#. Name for HIP 6706
+msgid "The northernmost of the three, which is also on the end of the tail"
+msgstr " Šiauriausia iš trijų, taip pat esanti uodegos gale"
+
+#. Name for HIP 5544
+msgid "The northernmost of the two stars in the mouth of the rear fish"
+msgstr " Šiauriausia iš dviejų žvaigždžių galinės žuvies burnoje"
+
+#. Name for HIP 4510
+msgid "The rearmost of the three small stars in the head"
+msgstr "Užpakalinė iš trijų mažų žvaigždžių galvoje"
+
+#. Name for HIP 5131
+msgid ""
+"The most advanced of the three stars on the spine in the back, following [i."
+"e. to the rear of] the star on the elbow of Andromeda"
+msgstr ""
+" Labiausiai pažengusi iš trijų žvaigždžių, esančių stubure, nugaroje [t. y. "
+"po] žvaigždės, esančios Andromedos alkūnėje"
+
+#. Name for HIP 6193
+msgid "The northernmost of the two stars in the belly"
+msgstr "Šiauriausia iš dviejų žvaigždžių pilve"
+
+#. Name for HIP 5571
+msgid "The star in the rear spine, near the tail"
+msgstr " Žvaigždė galinėje stuburo dalyje, netoli uodegos"
+
+#. Name for HIP 118209
+msgid ""
+"The more advanced of the two northern stars of the quadrilateral under the "
+"advance fish"
+msgstr ""
+" Labiau pažengusi iš dviejų šiaurinių keturkampio žvaigždžių po nutolusia "
+"žuvimi"
+
+#. Name for HIP 154
+msgid "The more advanced star on the southern side"
+msgstr "Artimesnė žvaigždė pietinėje pusėje"
+
+#. Name for HIP 443
+msgid "The rearmost one on the southern side"
+msgstr "Galinė iš esančių pietinėje pusėje"
+
+#. Name for HIP 14135
+msgid "The rearmost, on the end of the jaw of the three stars in the snout"
+msgstr "Užpakalinė, žandikaulio iš trijų žvaigždžių gale, snukyje"
+
+#. Name for HIP 12706
+msgid "The middle one, in the middle of the mouth"
+msgstr "Vidurinioji, burnos viduryje"
+
+#. Name for HIP 12387
+msgid "The most advanced of the three, on the cheek"
+msgstr "Artimiausia iš trijų, ant skruosto"
+
+#. Name for HIP 11484
+msgid "The star on the eyebrow and the eye"
+msgstr "Žvaigždė ant antakio ir akies"
+
+#. Name for HIP 12828
+msgid "The one to the north of this, about on the hair"
+msgstr "Esanti į šiaurę nuo šios, maždaug plaukuose"
+
+#. Name for HIP 10324
+msgid "The one in advance of these, about on the mane"
+msgstr "Ta, kuri yra prieš šias, apie grivą"
+
+#. Name for HIP 11345
+msgid ""
+"The northernmost star on the advance side of the quadrilateral in the chest"
+msgstr "Šiauriausia žvaigždė priekinėje keturkampio pusėje krūtinėje"
+
+#. Name for HIP 3436
+msgid "The southernmost one on the advance side"
+msgstr "Piečiausia priešakinėje pusėje"
+
+#. Name for HIP 3849
+msgid "The southernmost one on the rear side"
+msgstr "Piečiausia galinėje pusėje"
+
+#. Name for HIP 8102
+msgid "The midmost of the three stars in the body"
+msgstr "Vidurinioji iš trijų žvaigždžių kūne"
+
+#. Name for HIP 6537
+msgid "The rearmost of the two stars by the section next to the tail"
+msgstr "Galinė iš dviejų žvaigždžių, esanti šalia dalies greta uodegos"
+
+#. Name for HIP 3909
+msgid ""
+"The northernmost star on the rear side of the quadrilateral in the section "
+"next to the tail"
+msgstr ""
+"Šiauriausia žvaigždė, esanti keturkampio galinėje pusėje, greta uodegos "
+"esančioje dalyje."
+
+#. Name for HIP 1562
+msgid ""
+"The one on the northern tail-fin of the two stars at the ends of the tail-"
+"fins"
+msgstr ""
+"Šiauriniame uodegos peleke esanti viena iš dviejų žvaigždžių uodegos pelekų "
+"galuose"
+
+#. Name for HIP 3419
+msgid "The one on the end of the southern tail-fin"
+msgstr "Ant pietinio uodegos peleko galo"
+
+#. Name for HIP 3419
+msgid "The second frog"
+msgstr "Antra varlė"
+
+#. Name for HIP 26207
+msgid "The nebulous star in the head of Orion, the three close stars"
+msgstr "Miglota žvaigždė Oriono galvoje, trys artimos žvaigždės"
+
+#. Name for HIP 27989
+msgid "The bright, reddish star on the right shoulder"
+msgstr "Ryški, rausva žvaigždė ant dešiniojo peties"
+
+#. Name for HIP 25813
+msgid "The one under this to the rear"
+msgstr "Po šia į galą esanti"
+
+#. Name for HIP 29426
+msgid ""
+"The rear, double star on the southern side of the quadrilateral in the right "
+"hand"
+msgstr "Galinė, dviguba žvaigždė pietinėje keturkampio pusėje dešinėje rankoje"
+
+#. Name for HIP 29704
+msgid "The rear one on the northern side"
+msgstr "Galinė, esanti šiaurinėje pusėje"
+
+#. Name for HIP 29434
+msgid "The advance one on the northern side"
+msgstr " Artimiausia šiaurinėje pusėje"
+
+#. Name for HIP 27913
+msgid "The more advanced of the two stars in the staff"
+msgstr "Artimesnė iš dviejų žvaigždžių lazdoje"
+
+#. Name for HIP 26594
+msgid ""
+"The rearmost of the four stars almost on a straight line just over the back"
+msgstr ""
+"Galinė iš keturių žvaigždžių yra beveik tiesia linija tiesiai virš nugaros."
+
+#. Name for HIP 13701
+msgid "The one in advance again of this"
+msgstr "Esanti priekyje vėl nuo šios"
+
+#. Name for HIP 25142
+msgid "The last and most advanced of the four"
+msgstr " Paskutinė ir artimiausia iš keturių"
+
+#. Name for HIP 24010
+msgid "The northernmost of the nine stars in the pelt on the left arm"
+msgstr "Šiauriausia iš devynių žvaigždžių kairės rankos kailyje"
+
+#. Name for HIP 23607
+msgid "The second from the northernmost"
+msgstr "Antroji nuo šiauriausios"
+
+#. Name for HIP 22957
+msgid "The third from the northernmost"
+msgstr "Trečioji nuo šiauriausios"
+
+#. Name for HIP 22845
+msgid "The fourth from the northernmost"
+msgstr "Ketvirtoji nuo šiauriausios"
+
+#. Name for HIP 22509
+msgid "The fifth from the northernmost"
+msgstr "Penktoji nuo šiauriausios"
+
+#. Name for HIP 22449
+msgid "The sixth from the northernmost"
+msgstr "Šeštoji nuo šiauriausios"
+
+#. Name for HIP 22549
+msgid "The seventh from the northernmost"
+msgstr "Septintoji nuo šiauriausios"
+
+#. Name for HIP 22797
+msgid "The eighth from the northernmost"
+msgstr "Aštuntoji nuo šiauriausios"
+
+#. Name for HIP 23123
+msgid "The last and southernmost of those in the pelt"
+msgstr "Paskutinioji ir piečiausioji iš esančių kailyje"
+
+#. Name for HIP 25930
+msgid "The most advanced of the three stars on the belt"
+msgstr "Artimiausia iš trijų diržo žvaigždžių"
+
+#. Name for HIP 25281
+msgid "The star near the handle of the dagger"
+msgstr "Žvaigždė prie durklo rankenos"
+
+#. Name for HIP 26237
+msgid ""
+"The northernmost of the three stars joined together at the tip of the dagger"
+msgstr "Šiauriausia iš trijų žvaigždžių, sujungtų prie durklo smaigalio"
+
+#. Name for HIP 26563
+msgid "The rearmost of the two stars under the tip of the dagger"
+msgstr "Tolimiausia iš žvaigždžių, esančių po durklo smaigaliu, "
+
+#. Name for HIP 24436
+msgid ""
+"The bright star in the left foot, which is [applied in] common to the water "
+"[of Eridanus]"
+msgstr ""
+" Ryški žvaigždė kairėje pėdoje, kuri [ priskiriama] bendram [Eridano] "
+"vandeniui."
+
+#. Name for HIP 24674
+msgid "The star to the north of it in the lower leg, over the ankle-joint"
+msgstr " Žvaigždė į šiaurę nuo jos blauzdoje, virš čiurnos sąnario."
+
+#. Name for HIP 25247
+msgid "The star under the left heel, outside"
+msgstr "Žvaigždė po kairiuoju kulnu, išorėje"
+
+#. Name for HIP 27366
+msgid "The star under the right, rear knee"
+msgstr "Žvaigždė po dešiniuoju, galiniu keliu"
+
+#. Name for HIP 27989
+#. Al-Jawza is a proper Arabic name of Orion
+msgid "Shoulder of Al-Jawza"
+msgstr "Al-Džavzos petys"
+
+#. Name for HIP 27989
+#. Al-Jawza is a proper Arabic name of Orion
+msgid "Hand of Al-Jawza"
+msgstr "Al-Džavzos ranka"
+
+#. Name for HIP 24436
+#. Al-Jawza is a proper Arabic name of Orion
+msgid "Shepherd of Al-Jawza"
+msgstr "Al-Džavzos Ganytojas"
+
+#. Name for HIP 24436
+#. Al-Najidh is a proper name
+msgid "Al-Najidh"
+msgstr "Al-Nadždi"
+
+#. Name for HIP 25336
+#. Al-Mirzam is a proper name meaning the star of sound of thunder
+msgid "Al-Mirzam"
+msgstr "Al-Mirzamas"
+
+#. Name for HIP 24436
+#. Al-Jawza is a proper Arabic name of Orion
+msgid "Leg of Al-Jawza"
+msgstr "Al-Džavzos koja"
+
+#. Name for HIP 23972
+msgid ""
+"The star after the one in the foot of Orion, at the beginning of the river"
+msgstr "Žvaigždė po ta, kuri Oriono pėdoje, upės pradžioje"
+
+#. Name for HIP 23875
+msgid "The one north of this, in the curve near the shin of Orion"
+msgstr "Esanti Į šiaurę nuo jos, vingyje netoli Oriono blauzdos."
+
+#. Name for HIP 23364
+msgid "The rearmost of the two stars next in order after this"
+msgstr "Užpakalinė iš dviejų žvaigždžių, sekanti pagal eiliškumą po šios"
+
+#. Name for HIP 22109
+msgid "The rearmost of the next two in order again"
+msgstr "Užpakalinė iš kitų dviejų vėl eilės tvarka "
+
+#. Name for HIP 20507
+msgid "The rearmost of the three stars after this"
+msgstr "Užpakalinė iš trijų žvaigždžių po šios "
+
+#. Name for HIP 18543
+msgid "The rearmost of the four stars in the next interval"
+msgstr "Galinė iš keturių žvaigždžių kitame intervale "
+
+#. Name for HIP 12444
+msgid "The most advanced of the four"
+msgstr "Artimiausia iš keturių"
+
+#. Name for HIP 15197
+msgid "The rearmost of the four stars in the next likewise interval again"
+msgstr "Galinė iš keturių žvaigždžių kitame panašiame intervale vėl "
+
+#. Name for HIP 12843
+msgid ""
+"The first star in the bend of the river, which touches the chest of Cetus"
+msgstr "Pirmoji žvaigždė upės, liečiančios Banginio krūtinę, vingyje "
+
+#. Name for HIP 14146
+msgid "The most advanced of the next consecutive three"
+msgstr " Labiausiai pažengusi iš kitų trijų iš eilės"
+
+#. Name for HIP 17651
+msgid ""
+"The northern one on the advance side of the next four stars, nearly forming "
+"a trapezium"
+msgstr ""
+"Šiaurinė žvaigždė, esanti kitų keturių žvaigždžių priešakinėje pusėje ir "
+"beveik sudaranti trapeciją."
+
+#. Name for HIP 17717
+msgid "The southernmost on the advance side"
+msgstr "Piečiausioji priekinėje pusėje"
+
+#. Name for HIP 18216
+msgid "The more advanced one on the rear side"
+msgstr "Artimesnė galinėje pusėje"
+
+#. Name for HIP 18673
+msgid "The last of the four, the rear one on that side"
+msgstr "Paskutinioji iš keturių, galinė toje pusėje"
+
+#. Name for HIP 21248
+msgid ""
+"The northernmost of the two stars close together at some distance to the east"
+msgstr ""
+" Šiauriausia iš dviejų žvaigždžių, esančių netoli viena nuo kitos tam tikru "
+"atstumu į rytus"
+
+#. Name for HIP 20535
+msgid "The rearmost of the next two stars after the bend"
+msgstr "Už linkio esanti tolimiausia iš kitų dviejų žvaigždžių"
+
+#. Name for HIP 17874
+msgid "The rearmost of the three stars in the next interval"
+msgstr "Galinė iš trijų žvaigždžių kitame intervale"
+
+#. Name for HIP 13847
+msgid "The last star of the river, the bright one, called 'The male ostrich'"
+msgstr "Paskutinė upės žvaigždė, ryški, vadinama „Patinas strutis“"
+
+#. Name for HIP 24244
+msgid ""
+"The northern star on the advance side of the quadrilateral just over the ears"
+msgstr "Šiaurinė žvaigždė priekinėje keturkampio pusėje iškart virš ausų"
+
+#. Name for HIP 24873
+msgid "The northern star on the rear side"
+msgstr "Šiaurinė žvaigždė iš užpakalinės pusės"
+
+#. Name for HIP 24845
+msgid "The southern star on the rear side"
+msgstr "Pietinė žvaigždė iš užpakalinės pusės"
+
+#. Name for HIP 24305
+msgid "The star in the chin"
+msgstr "Žvaigždė ant smakro"
+
+#. Name for HIP 23685
+msgid "The star on the left front foot"
+msgstr "Žvaigždė ant kairės priekinės kojos"
+
+#. Name for HIP 25985
+msgid "The star in the middle of the body"
+msgstr "Viduryje kūno esanti žvaigždė"
+
+#. Name for HIP 25606
+msgid "The star under the belly"
+msgstr "Žvaigždė po pilvu"
+
+#. Name for HIP 27654
+msgid "The northernmost of the two stars in the hind legs"
+msgstr "Šiauriausia iš dviejų žvaigždžių užpakalinėse kojose"
+
+#. Name for HIP 32349
+msgid "CMa_1"
+msgstr "CMa_1"
+
+#. Name for HIP 33160
+msgid "CMa_2"
+msgstr "CMa_2"
+
+#. Name for HIP 33345
+msgid "CMa_3"
+msgstr "CMa_3"
+
+#. Name for HIP 34045
+msgid "CMa_4"
+msgstr "CMa_4"
+
+#. Name for HIP 33347
+msgid "CMa_5"
+msgstr "CMa_5"
+
+#. Name for HIP 33302
+msgid "CMa_6"
+msgstr "CMa_6"
+
+#. Name for HIP 31700
+msgid "CMa_7"
+msgstr "CMa_7"
+
+#. Name for HIP 31592
+msgid "CMa_8"
+msgstr "CMa_8"
+
+#. Name for HIP 30324
+msgid "CMa_9"
+msgstr "CMa_9"
+
+#. Name for HIP 31125
+msgid "CMa_10"
+msgstr "CMa_10"
+
+#. Name for HIP 31416
+msgid "CMa_11"
+msgstr "CMa_11"
+
+#. Name for HIP 33977
+msgid "CMa_12"
+msgstr "CMa_12"
+
+#. Name for HIP 33152
+msgid "CMa_13"
+msgstr "CMa_13"
+
+#. Name for HIP 34444
+msgid "CMa_14"
+msgstr "CMa_14"
+
+#. Name for HIP 33579
+msgid "CMa_15"
+msgstr "CMa_15"
+
+#. Name for HIP 32759
+msgid "CMa_16"
+msgstr "CMa_16"
+
+#. Name for HIP 30122
+msgid "CMa_17"
+msgstr "CMa_17"
+
+#. Name for HIP 35904
+msgid "CMa_18"
+msgstr "CMa_18"
+
+#. Name for HIP 34769
+msgid "CMa_a_01"
+msgstr "CMa_a_01"
+
+#. Name for HIP 29034
+msgid "CMa_a_02"
+msgstr "CMa_a_02"
+
+#. Name for HIP 29807
+msgid "CMa_a_03"
+msgstr "CMa_a_03"
+
+#. Name for HIP 30277
+msgid "CMa_a_04"
+msgstr "CMa_a_04"
+
+#. Name for HIP 30788
+msgid "CMa_a_05"
+msgstr "CMa_a_05"
+
+#. Name for HIP 27204
+msgid "CMa_a_06"
+msgstr "CMa_a_06"
+
+#. Name for HIP 27810
+msgid "CMa_a_07"
+msgstr "CMa_a_07"
+
+#. Name for HIP 28199
+msgid "CMa_a_08"
+msgstr "CMa_a_08"
+
+#. Name for HIP 27628
+msgid "CMa_a_09"
+msgstr "CMa_a_09"
+
+#. Name for HIP 26634
+msgid "CMa_a_10"
+msgstr "CMa_a_10"
+
+#. Name for HIP 25859
+msgid "CMa_a_11"
+msgstr "CMa_a_11"
+
+#. Name for HIP 32349
+#. Shi'raa is the Arabic proper name of Sirius
+msgid ""
+"The star in the mouth, with utmost brightness, which is called 'the Dog' and "
+"'Southern or crossing Shi'raa'"
+msgstr ""
+"Žvaigždė burnoje, su didžiausiu šviesumu, kuris vadinamas 'Šuo' ir 'Pietų "
+"arba kertančiu Shi'raa'"
+
+#. Name for HIP 33160
+msgid "The star on the ears"
+msgstr "Žvaigždė ausyse"
+
+#. Name for HIP 33302
+msgid "The star on the chest"
+msgstr "Žvaigždė krūtinėje"
+
+#. Name for HIP 31700
+msgid "The northernmost of the two stars on the right knee"
+msgstr "Šiauriausia iš dviejų žvaigždžių dešiniojo kelio srityje."
+
+#. Name for HIP 30324
+#. Al-Mirzam is a proper name meaning the star of sound of thunder
+msgid "The star on the end of the front leg, called 'Al-Mirzam'"
+msgstr "Priekinės kojos gale esanti žvaigždė, vadinama 'Al-Mirzam'"
+
+#. Name for HIP 31125
+msgid "The more advanced of the two stars in the left knee"
+msgstr "Artimesnė iš dviejų kairiojo kelio žvaigždžių"
+
+#. Name for HIP 33977
+msgid "The rearmost of the two stars in the left shoulder"
+msgstr "Užpakalinė iš dviejų žvaigždžių kairiajame petyje"
+
+#. Name for HIP 34444
+msgid "The star in the place where the left thigh joins [the body]"
+msgstr "Žvaigždė toje vietoje, kur kairė šlaunis jungiasi [su kūnu]."
+
+#. Name for HIP 33579
+msgid "The star below the belly, in the place between the thighs"
+msgstr "Žvaigždė žemiau pilvo, tarp šlaunų"
+
+#. Name for HIP 32759
+msgid "The star on the joint of the right leg"
+msgstr "Žvaigždė dešinės kojos sąnaryje"
+
+#. Name for HIP 30122
+msgid "The star on the end of the right leg"
+msgstr "Žvaigždė dešinės kojos gale"
+
+#. Name for HIP 35904
+msgid "The star on the tail"
+msgstr "Žvaigždė uodegoje"
+
+#. Name for HIP 34769
+msgid "The star to the north of the top of the dog skull"
+msgstr "Žvaigždė šiauriau virš šuns kaukolės"
+
+#. Name for HIP 29034
+msgid ""
+"The southernmost of the four stars almost on a straight line under the hind "
+"legs"
+msgstr ""
+"Piečiausioji iš keturių žvaigždžių, beveik tiesia linija po galinėmis "
+"kojomis."
+
+#. Name for HIP 29807
+msgid "The one north of this"
+msgstr "Esanti šiauriau šios "
+
+#. Name for HIP 30788
+msgid "The last and northernmost of the four"
+msgstr "Paskutinė ir šiauriausia iš keturių"
+
+#. Name for HIP 27204
+msgid ""
+"The most advanced of the three stars almost on a straight line to the west "
+"of the [above] four"
+msgstr ""
+" Aukščiausia iš trijų žvaigždžių yra beveik tiesia linija į vakarus nuo "
+"[pirmiau minėtų] keturių žvaigždžių."
+
+#. Name for HIP 27628
+msgid "The rearmost of the two bright stars under these"
+msgstr "Užpakalinė iš dviejų ryškių žvaigždžių po šiomis"
+
+#. Name for HIP 25859
+msgid "The last star, to the south of the above"
+msgstr "Paskutinė žvaigždė, esanti į pietus nuo aukščiau esančios"
+
+#. Name for HIP 30324
+#. Al-Mirzam is a proper name meaning the star of sound of thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa that crossed [the milky way]"
+msgstr "Mirzamas iš Širaa, kuris kirto [Paukščių taką]"
+
+#. Name for HIP 30324
+#. Al-Mirzam is a proper name meaning the star of sound of thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa"
+msgstr "Mirzamas iš Širaa"
+
+#. Name for HIP 30324
+msgid "The dog"
+msgstr "Šuo"
+
+#. Name for HIP 36188
+#. Al-Mirzam is a proper name meaning the star of sound of thunder.
+msgid "The star in the neck, called Al-Mirzam"
+msgstr "Žvaigždė kakle, vadinama Al-Mirzam"
+
+#. Name for HIP 37279
+#. The northern Shi'raa or tearfull Shi'raa is a proper arabic name for Procyon.
+msgid ""
+"The bright star just over the hindquarters, called 'The northern or tearfull "
+"Shi'raa'"
+msgstr ""
+"Ryški žvaigždė tiesiai virš užpakalinių ketvirčių, vadinama \"Šiaurine arba "
+"ašarojančia Širaa\"."
+
+#. Name for HIP 38835
+msgid "The more advanced of the two stars at the end of the ship"
+msgstr " Aukštesnė iš dviejų žvaigždžių, esančių laivo gale"
+
+#. Name for HIP 38170
+msgid ""
+"The northernmost of the two stars close together over the little shield in "
+"the poop"
+msgstr ""
+"Šiauriausia iš dviejų žvaigždžių, esančių arti viena kitos virš mažo skydo "
+"kupė"
+
+#. Name for HIP 37173
+msgid "The star in advance of these"
+msgstr " Žvaigždė prieš šias"
+
+#. Name for HIP 37229
+msgid "The bright star in the middle of the little shield"
+msgstr "Ryški žvaigždė mažojo skydo viduryje"
+
+#. Name for HIP 36917
+msgid "The most advanced of the three stars under the little shield"
+msgstr " Aukščiausia iš trijų žvaigždžių po mažuoju skydu"
+
+#. Name for HIP 38901
+msgid "The star on the stern neck"
+msgstr "Žvaigždė ant laivagalio koto"
+
+#. Name for HIP 36514
+msgid ""
+"The northernmost of the two stars in the sternpost on which are the two "
+"stern cabins"
+msgstr ""
+"Šiauriausia iš dviejų žvaigždžių, esančių laivagalyje, ant kurio yra dvi "
+"laivagalio kajutės"
+
+#. Name for HIP 37096
+msgid "The northernmost of the stars in the poop-deck"
+msgstr "Šiauriausia iš žvaigždžių kabinos denyje"
+
+#. Name for HIP 37297
+msgid "The most advanced of the next three"
+msgstr "Aukščiausiai iš kitų trijų"
+
+#. Name for HIP 39429
+msgid "The bright star on the deck to the rear of these"
+msgstr "Ryški žvaigždė denyje, esančiame už šių"
+
+#. Name for HIP 38414
+msgid "The more advanced of the two faint stars under the bright one"
+msgstr " Aukščiau esanti iš dviejų silpnų žvaigždžių po ryškia žvaigžde"
+
+#. Name for HIP 40091
+msgid "The more advanced of the two stars over the above-mentioned bright one"
+msgstr "Artimesnė iš dviejų žvaigždžių virš minėtos ryškiosios"
+
+#. Name for HIP 44191
+msgid ""
+"The northernmost of the three stars on the little shields, about on the mast-"
+"holder"
+msgstr ""
+"Šiauriausia iš trijų žvaigždžių, esančių ant mažųjų skydų, maždaug stiebo "
+"laikiklyje"
+
+#. Name for HIP 43023
+msgid "The northernmost of the two stars close together under these"
+msgstr "Šiauriausia iš dviejų žvaigždžių, esančių arti viena kitos po šiomis"
+
+#. Name for HIP 42515
+msgid "The southernmost of the two stars in the middle of the mast"
+msgstr "Piečiausia iš dviejų žvaigždžių stiebo viduryje"
+
+#. Name for HIP 43409
+msgid "The more advanced of the two stars by the tip of the mast"
+msgstr "Labiau išsikišusi iš dviejų žvaigždžių prie stiebo galo"
+
+#. Name for HIP 44816
+msgid "The star below the three rear little shield"
+msgstr "Žvaigždė po trimis galiniais mažais skydais"
+
+#. Name for HIP 46651
+msgid "The star on the cut-off of the deck"
+msgstr "Žvaigždė ant denio krašto"
+
+#. Name for HIP 36377
+msgid "The star between the steering-oars in the keel"
+msgstr "Žvaigždė tarp kilio vairalazdžių"
+
+#. Name for HIP 38164
+msgid "The faint star to the rear of this"
+msgstr "Blausi žvaigždė, esanti šios gale"
+
+#. Name for HIP 39953
+msgid "The bright star to the rear of this, under the deck"
+msgstr "Ryški žvaigždė jos gale, po deniu"
+
+#. Name for HIP 38827
+msgid "The bright star to the south of this, on the sternpost"
+msgstr "Ryški žvaigždė, esanti į pietus nuo jos, ant laivagalio stovo"
+
+#. Name for HIP 42913
+msgid "The most advanced of the three stars to the rear of this"
+msgstr " Aukščiausia iš trijų žvaigždžių, esančių už šios"
+
+#. Name for HIP 46701
+msgid ""
+"The more advanced of the two stars to the rear of these, near the cut-off of "
+"the deck"
+msgstr ""
+"Artimesnė iš šių dviejų žvaigždžių, esanti užpakalinėje dalyje, netoli denio "
+"krašto"
+
+#. Name for HIP 28328
+msgid ""
+"The more advanced of the two stars in the northern, advance steering-oar"
+msgstr ""
+"Artimesnė iš dviejų žvaigždžių, esančių šiaurinėje, priekinės vairo mentės "
+"pusėje"
+
+#. Name for HIP 30438
+#. Suhayl is the Arabic proper name of Canopus
+msgid ""
+"The more advanced of the two stars in the other steering-oar, called "
+"Canopus, and it is Suhayl"
+msgstr ""
+"Artimesnė iš dviejų žvaigždžių, esančių kitoje vairo mentėje, vadinamame "
+"Kanopu, ir ji yra Suhailis"
+
+#. Name for HIP 32768
+msgid "The other, rearmost star"
+msgstr "Kita, galinė žvaigždė"
+
+#. Name for HIP 42402
+msgid ""
+"The southernmost of the two advance ones, which is on the nostrils of the "
+"five stars in the head"
+msgstr ""
+" Piečiausia iš dviejų priekinių, esančių penkių žvaigždžių galvos šnervėse."
+
+#. Name for HIP 42313
+msgid "The northernmost of these two, which is above the eye"
+msgstr "Šiauriausioji iš jų dviejų, esanti virš akies"
+
+#. Name for HIP 43109
+msgid ""
+"The northernmost of the two to the rear of these, which is about on the skull"
+msgstr ""
+"Šiauriausioji iš šių dviejų, esančių užpakalyje šių, kuri yra maždaug ant "
+"kaukolės"
+
+#. Name for HIP 42799
+msgid "The southernmost of them, on the gaping jaws"
+msgstr "Piečiausia iš jų, ant išskėstų žandikaulių"
+
+#. Name for HIP 43813
+msgid "The rearmost of all, about on the chin"
+msgstr "Labiausiai iš visų gale, maždaug ant smakro"
+
+#. Name for HIP 44659
+msgid ""
+"The more advanced of the two stars in the place where the neck joins [the "
+"head]"
+msgstr ""
+"Artimesnė iš dviejų žvaigždžių toje vietoje, kur kaklas jungiasi [su galva]"
+
+#. Name for HIP 46776
+msgid "The middle star of the following three in the bend of the neck"
+msgstr "Vidurinė žvaigždė iš šių trijų, esančių kaklo išlinkime"
+
+#. Name for HIP 46404
+msgid "The faint, northernmost star of the two close together to the south"
+msgstr ""
+"Blausi, šiauriausia žvaigždė iš dviejų arti viena kitos esančių žvaigždžių "
+"pietuose"
+
+#. Name for HIP 46390
+#. Al-Fard is a proper name meaning the lone star
+msgid "The bright one of these two close stars, called Al-Fard"
+msgstr "Ryškioji iš šių dviejų artimų žvaigždžių, vadinama Al-Fard"
+
+#. Name for HIP 48356
+msgid ""
+"The most advanced of the three stars to the rear, after the bend [in the "
+"neck]"
+msgstr "Artimiausia iš trijų žvaigždžių, esanti užpakalyje, už [kaklo] vingio"
+
+#. Name for HIP 51069
+msgid "The most advanced of the next three stars almost on a straight line"
+msgstr "Artimiausia iš kitų trijų žvaigždžių esančių beveik tiesioje linijoje"
+
+#. Name for HIP 54682
+msgid ""
+"The northernmost of the two stars after [i.e. to the rear of] the base of "
+"Crater"
+msgstr ""
+"Šiauriausia iš dviejų žvaigždžių, esančių po [t. y. už] kraterio pagrindo."
+
+#. Name for HIP 56343
+msgid ""
+"The most advanced of the three stars after these, as it were in a triangle"
+msgstr "Labiausiai išsikišusi iš trijų žvaigždžių po šių, tarsi trikampyje"
+
+#. Name for HIP 56922
+msgid "The middle and southernmost one"
+msgstr "Vidurinė ir piečiausioji"
+
+#. Name for HIP 64962
+msgid "The star after Corvus, in the section by the tail"
+msgstr "Žvaigždė po Varno skiltyje už uodegos."
+
+#. Name for HIP 41307
+msgid "The star to the south of the head"
+msgstr "Žvaigždė į pietus nuo galvos"
+
+#. Name for HIP 49641
+msgid "The star some distance to the rear of those in the neck"
+msgstr "Žvaigždė, esanti šiek tiek toliau nuo kakle esančių "
+
+#. Name for HIP 53740
+msgid "The star in the base of bowl, which is [applied in] common to Hydra"
+msgstr "Žvaigždė dubens pagrinde, kuri [taikoma] bendrai Hidrai "
+
+#. Name for HIP 55705
+msgid "The southernmost of the two stars in the middle of the bowl"
+msgstr "Piečiausia iš dviejų žvaigždžių dubens viduryje "
+
+#. Name for HIP 58188
+msgid "The star on the southern rim of the mouth"
+msgstr "Žvaigždė ant pietinio žiočių krašto"
+
+#. Name for HIP 56633
+msgid "The star on the northern rim"
+msgstr "Žvaigždė ant šiaurinio krašto "
+
+#. Name for HIP 57283
+msgid "The star on the southern handle"
+msgstr "Žvaigždė ant pietinės rankenos "
+
+#. Name for HIP 55687
+msgid "The star on the northern handle"
+msgstr "Žvaigždė ant šiaurinės rankenos "
+
+#. Name for HIP 59199
+msgid "The star in the beak, which is [applied in] common to Hydra"
+msgstr "Žvaigždė snape, kuri [taikoma] bendrai Hidrai "
+
+#. Name for HIP 59316
+msgid "The star in the neck, by the head"
+msgstr "Žvaigždė kakle, prie galvos"
+
+#. Name for HIP 59803
+msgid "The star in the advance, right wing"
+msgstr " Žvaigždė artimajame, dešiniajame sparne"
+
+#. Name for HIP 60965
+msgid "The more advanced of the two stars in the rear wing"
+msgstr "Artimesnė iš dviejų žvaigždžių galiniame sparne"
+
+#. Name for HIP 61359
+msgid "The star on the end of the leg, which is [applied in] common to Hydra"
+msgstr "Žvaigždė ant kojos galo, kuri yra [taikoma] bendrai Hidrai"
+
+#. Name for HIP 67457
+msgid "The southernmost of the four stars in the head"
+msgstr "Piečiausia iš keturių žvaigždžių galvoje"
+
+#. Name for HIP 67153
+msgid "The more advanced of the other, middle two"
+msgstr " Artimesnė iš kitų, vidurinių dviejų"
+
+#. Name for HIP 67669
+msgid "The rearmost of these, the last of the four"
+msgstr "Galinė iš jų, paskutinė iš keturių"
+
+#. Name for HIP 65109
+msgid "The star on the left, advance shoulder"
+msgstr " Žvaigždė kairiajame, priekiniame petyje"
+
+#. Name for HIP 65936
+msgid "The star on the left shoulder-blade"
+msgstr "Žvaigždė kairėje mentėje"
+
+#. Name for HIP 70090
+msgid "The northernmost of the advance two of the four stars in the thyrsus"
+msgstr ""
+" Šiauriausia iš priekinių dviejų iš keturių žvaigždžių ritualų lazdoje, tyrse"
+
+#. Name for HIP 72010
+msgid "That one of the other two which is at the tip of the thyrsus"
+msgstr " Kad viena iš kitų dviejų, esanti ties ritualų lazdos, tyrso, galu"
+
+#. Name for HIP 71865
+msgid "The last one, south of the latter"
+msgstr "Paskutinė, esanti į pietus nuo pastarosios"
+
+#. Name for HIP 67464
+msgid "The most advanced of the three stars in the right side"
+msgstr "Artimiausia iš trijų dešinėje pusėje esančių žvaigždžių"
+
+#. Name for HIP 73334
+msgid "The star in the right hand"
+msgstr "Žvaigždė dešinėje rankoje"
+
+#. Name for HIP 68002
+msgid "The bright star in the place where the human body joins [the horse's]"
+msgstr ""
+"Ryški žvaigždė toje vietoje, kur žmogaus kūnas jungiasi su [arklio] kūnu."
+
+#. Name for HIP 68523
+msgid "The rearmost of the two faint stars to the north of this"
+msgstr "Galinė iš dviejų silpnų žvaigždžių, esančių į šiaurę nuo šios"
+
+#. Name for HIP 64004
+msgid "The star in advance of this, on the horse's back"
+msgstr "Žvaigždė prieš šią, ant žirgo nugaros"
+
+#. Name for HIP 61932
+msgid "The rearmost of the stars on the rump"
+msgstr "Galinė žvaigždė užpakalyje"
+
+#. Name for HIP 59196
+msgid "The more advanced of the two stars close together on the right thigh"
+msgstr ""
+" Aukštesnė iš dviejų arti viena kitos esančių žvaigždžių ant dešinės šlaunies"
+
+#. Name for HIP 67234
+msgid "The star in the chest, under the horse's armpit"
+msgstr "Žvaigždė krūtinėje, po arklio pažastimi "
+
+#. Name for HIP 66657
+msgid "The more advanced of the two stars under the belly"
+msgstr "Aukštesnė iš dviejų žvaigždžių po pilvu"
+
+#. Name for HIP 61084
+msgid "The star on the knee-bend of the right [hind] leg"
+msgstr "Žvaigždė dešinėje [užpakalinėje] kojoje ant kelio vingio "
+
+#. Name for HIP 62434
+msgid "The star in the hock of the same leg"
+msgstr "Žvaigždė tos pačios kojos kelyje"
+
+#. Name for HIP 59747
+msgid "The star under the knee-bend of the left [hind] leg"
+msgstr "Žvaigždė po kairės [galinės] kojos kelio sąnariu"
+
+#. Name for HIP 60718
+msgid "The star on the frog of the hoof on the same leg"
+msgstr " Žvaigždė ant tos pačios kojos kanopos"
+
+#. Name for HIP 71683
+msgid "The star on the end of the right front leg"
+msgstr "Žvaigždė ant dešinės priekinės kojos galo"
+
+#. Name for HIP 68702
+msgid "The star on the knee of the left [front] leg"
+msgstr "Žvaigždė ant kairės [priekinės] kojos kelio"
+
+#. Name for HIP 63003
+msgid "The star outside, under the right hind leg"
+msgstr "Žvaigždė išorėje, po dešine užpakaline koja"
+
+#. Name for HIP 71683
+#. Al-wazn is a proper name
+msgid "Al-Wazn"
+msgstr "Al-Vaznas"
+
+#. Name for HIP 68702
+#. Hadari is a proper name
+msgid "Hadari"
+msgstr "Hadaris"
+
+#. Name for HIP 73273
+msgid "The star at the end of the hind leg, by the [right] hand of Centaurus"
+msgstr ""
+"Žvaigždė, esanti užpakalinės kojos gale, prie [dešiniosios] Kentauro rankos"
+
+#. Name for HIP 71860
+msgid "The star on the bend in the same leg"
+msgstr "Žvaigždė ant tos pačios kojos vingio"
+
+#. Name for HIP 75141
+msgid "The more advanced of the two stars just over the shoulder-blade"
+msgstr " Aukštesnė iš dviejų žvaigždžių, esančių tiesiai virš mentės"
+
+#. Name for HIP 75264
+msgid "The star in the middle of the body of Lupus"
+msgstr "Žvaigždė Vilko kūno viduryje"
+
+#. Name for HIP 74117
+msgid "The star in the belly, under the flank"
+msgstr "Žvaigždė pilve, po šonu"
+
+#. Name for HIP 73807
+msgid "The star on the thigh"
+msgstr "Žvaigždė šlaunyje"
+
+#. Name for HIP 74911
+msgid ""
+"The northernmost of the two stars near the place where the thigh joins [the "
+"body]"
+msgstr ""
+"Šiauriausia iš dviejų žvaigždžių netoli tos vietos, kur šlaunis jungiasi [su "
+"kūnu]."
+
+#. Name for HIP 74395
+msgid "The star on the end of the rump"
+msgstr "Žvaigždė ant užpakalio krašto."
+
+#. Name for HIP 69996
+msgid "The southernmost of the 3 stars in the end of the tail"
+msgstr "Piečiausia iš 3 žvaigždžių, esančių uodegos gale"
+
+#. Name for HIP 78384
+msgid "The southernmost of the two stars in the neck"
+msgstr "Piečiausia iš dviejų kaklo žvaigždžių"
+
+#. Name for HIP 77634
+msgid "The more advanced of the two stars in the snout"
+msgstr "Labiau išsikišusi iš dviejų žvaigždžių snukyje"
+
+#. Name for HIP 74604
+msgid "The southernmost of the two stars in the front leg, on the hand"
+msgstr "Piečiausia iš dviejų žvaigždžių priekinėje kojoje, rankoje"
+
+#. Name for HIP 86092
+msgid "The northernmost of the two stars in the base"
+msgstr "Šiauriausia iš dviejų pagrindo žvaigždžių"
+
+#. Name for HIP 85792
+msgid "The star in the middle of the little altar"
+msgstr "Žvaigždė mažojo altoriaus viduryje"
+
+#. Name for HIP 83153
+msgid "The northernmost of the three stars in the brazier"
+msgstr "Šiauriausia iš trijų žvaigždžių, esančių keptuvėje"
+
+#. Name for HIP 85267
+msgid "The southernmost of the other two which are close together"
+msgstr "Piečiausioji iš kitų dviejų, esančių netoli viena nuo kitos"
+
+#. Name for HIP 85258
+msgid "The northernmost of these two"
+msgstr "Šiauriausia iš šių dviejų"
+
+#. Name for HIP 83081
+msgid "The star on the end of the burning-apparatus"
+msgstr "Žvaigždė ant degančio aparato galo"
+
+#. Name for HIP 90422
+msgid "The most advanced of the stars on the southern rim, outside [the crown]"
+msgstr "Artimiausia žvaigždė pietiniame pakraštyje, [už karūnos]"
+
+#. Name for HIP 92308
+msgid "The star to the rear of this on the crown"
+msgstr "Žvaigždė, esanti už jos, karūnoje"
+
+#. Name for HIP 94005
+msgid "The one after this, before the knee of Sagittarius"
+msgstr "Kita po šios, prieš Šaulio kelį"
+
+#. Name for HIP 94160
+msgid ""
+"The one after this, which is north of the bright star in the knee [of "
+"Sagittarius]"
+msgstr ""
+"Kita, po šios, esančios į šiaurę nuo ryškios žvaigždės, esančios [Šaulio] "
+"kelyje."
+
+#. Name for HIP 94114
+msgid "The star to the north of this"
+msgstr "Žvaigždė į šiaurę nuo šios"
+
+#. Name for HIP 93825
+msgid "The one to the north again of this"
+msgstr "Žvaigždė dar į šiaurę nuo šios"
+
+#. Name for HIP 93174
+msgid ""
+"The rearmost of the two stars after this, in advance, in the northern rim"
+msgstr ""
+"Užpakalinė iš dviejų žvaigždžių po šios, priekinė, šiauriniame pakraštyje"
+
+#. Name for HIP 92989
+msgid "The more advanced of these two faint stars"
+msgstr "Labiau atitolusi iš šių dviejų silpnų žvaigždžių"
+
+#. Name for HIP 91875
+msgid "The star quite some distance in advance of this"
+msgstr "Žvaigždė ganėtinai dideliu atstumu prieš šią"
+
+#. Name for HIP 90982
+msgid "The last one, which is south of the aforementioned star"
+msgstr " Paskutinioji, esanti į pietus nuo minėtos žvaigždės"
+
+#. Name for HIP 111188
+msgid "The most advanced of the three stars on the southern rim of the head"
+msgstr "Artimiausia iš trijų žvaigždžių pietiniame galvos lanke"
+
+#. Name for HIP 111954
+msgid "The star by the gills"
+msgstr "Žvaigždė prie žiaunų"
+
+#. Name for HIP 109285
+msgid "The star on the southernmost spine on the back"
+msgstr "Žvaigždė ant labiausiai į pietus nutolusios nugaros stuburo dalies"
+
+#. Name for HIP 111045
+msgid "The rearmost of the two stars in the belly"
+msgstr "Galinė iš dviejų pilvo žvaigždžių"
+
+#. Name for HIP 108661
+msgid "The rearmost of the three stars on the northern spine"
+msgstr "Užpakalinė iš trijų žvaigždžių šiauriniame stubure"
+
+#. Name for Mel 111
+msgid "Tassel of the lion"
+msgstr "Liūto kutas"
+
+#. Name for NGC 869
+msgid "The nebulous mass on the right hand"
+msgstr "Ūkanota masė dešinėje rankoje"
+
+#. Name for NGC 869
+msgid "wrist of Al-Thurayya"
+msgstr "Al-Turaja riešas"
+
+#. Name for NGC 5139
+msgid "The star on the place where the back joins [the horse's body]"
+msgstr "Žvaigždė toje vietoje, kur nugara jungiasi [prie arklio kūno]"
+
+#. Name for M 44
+msgid "The middle of the nebulous mass in the chest, called Praesepe"
+msgstr "Viduryje ūkų masės , vadinamas Prakartu arba Aviliu"
+
+#. Name for M 44
+msgid "Nose tip of the lion"
+msgstr "Liūto nosies galiukas"

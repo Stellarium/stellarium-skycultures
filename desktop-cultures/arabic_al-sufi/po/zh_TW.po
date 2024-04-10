@@ -1,0 +1,4456 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
+"Language-Team: Chinese (Taiwan) (https://app.transifex.com/stellarium/"
+"teams/80998/zh_TW/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Sky culture name
+msgid "Arabic (Al-Sufi)"
+msgstr "阿拉伯 (蘇菲)"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"The Book of Fixed Stars was written shortly before 964 AD. Dr. Paul "
+"Kunitzsch described it as \"the most outstanding among the works of the "
+"prominent astronomer Abu 'l-Ḥusayn 'Abd al-Raḥmān ibn 'Umar al-Şūfi (born in "
+"Rayy, 903; died 986), referred to as al-Sufi. In it, al-Şūfī treats the 48 "
+"classical constellations, which were established and transmitted in "
+"Ptolemy's Almagest. The description of each constellation comprises the "
+"following four sections: first, a general discussion of the constellation "
+"and its individual stars; this section also includes alŞūfi's criticism of "
+"the Ptolemaic tradition and notices of his own observations. Second, a "
+"record of the indigenous Arabic star names falling under that constellation, "
+"and the exact identification of the respective stars with the corresponding "
+"Ptolemaic stars. Third, two drawings of the constellation, one as it is seen "
+"on a celestial globe, and the other one as it is seen in the sky. Fourth, a "
+"table of the stars making up that constellation, giving a verbal description "
+"of each star's location and its longitude, latitude, and magnitude. This "
+"table closely follows the arrangement of Ptolemy's star catalogue in the "
+"Almagest.\" [#1]. In addition to the four sections of each constellation "
+"mentioned by dr. Kunitzsch, Al-Sufi would identify stars within the 6 "
+"magnitudes that were neglected by Ptolemy, but he did not catalogue them and "
+"was faithful to Ptolemy star catalog."
+msgstr ""
+"《恆星之書》於西元 964 年不久之前所寫。 Paul Kunitzsch 博士將其描述為“著名天"
+"文學家阿卜杜勒-拉赫曼·蘇菲，簡稱為阿左飛\n"
+"Al-Sufi 或蘇菲，（生於 903 年；死於 986 年）所寫的作品之中最傑出的， 這本書"
+"中，蘇菲論述了托勒密的《天文學大成》中所建立和傳達的 48\n"
+"個經典星座，將每個星座的描述分成以下四個部分：第一，對星座及其所含恆星的一般"
+"討論；這部分也包括蘇菲對托勒密傳統的評論和他自己觀察所注意到的事項。第二，記"
+"錄該星座內的傳統阿拉伯星名，以及與托勒密恆星相對應的恆星的準確識別。第三，星"
+"座的兩幅圖,\n"
+"一個是在天球上看到的，另一個是在天空中看到的。第四，組成該星座的星表，對每顆"
+"星星的位置進行口頭描述以及它的經度、緯度和星等大小。這張表的順序與托勒密在"
+"《天文學大成》中的星表排列緊密相連。\n"
+"[#1]。除了 Kunitzsch\n"
+"博士提到的每個星座的四個部分外，蘇菲另外標識被托勒密忽略的 6 等星內的恆星，但"
+"他並沒有對它們進行編目，而是忠於托勒密的星表。"
+
+#. Sky culture description section in markdown format
+msgid ""
+"An important aspect of the general discussion section is Al-Sufi method of "
+"facilitating the star identification. He describes each individual star in "
+"more than way: By the star position related to the constellation figure, by "
+"its magnitude, by the asterism it forms with other stars like triangle or "
+"arc shapes, sometimes by the star position related to the Milky way, and by "
+"the angular distance from a close by star. I have counted more than 700 "
+"angular distances measured by al-Sufi in his book. The units he uses for "
+"angular distances are cubits, spear length, man-height, span, and finger. Al-"
+"Sufi explicitly said in his book that a cubit is equal to two degrees and 20 "
+"minutes [#2]. For the other units, Schjellerup concluded some values, but "
+"tracking the 700 measurements, I came up with different values. The "
+"following table summarizes the units and relationship to the cubit value "
+"from Schjellerup[#3] and from my research.\n"
+"\n"
+"### Angular distance units used by Al-Sufi\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>&nbsp;</notr></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Schjellerup</b></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Khalid</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>unit</b></td>\n"
+"\t<td><b>cubits</b></td>\n"
+"\t<td><b>Angular Value</b></td>\n"
+"\t<td><b>cubits</b></td>\n"
+"\t<td><b>Angular Value</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>spear</td>\n"
+"\t<td>6 cubits</td>\n"
+"\t<td><notr>14°</notr></td>\n"
+"\t<td>6 cubits</td>\n"
+"\t<td><notr>14°</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Man-Height</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"\t<td>3 cubits</td>\n"
+"\t<td><notr>7°</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>cubit</td>\n"
+"\t<td>1 cubit</td>\n"
+"\t<td><notr>2°20'</notr></td>\n"
+"\t<td>1 cubit</td>\n"
+"\t<td><notr>2°20'</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>span</td>\n"
+"\t<td>1/3 of a cubit</td>\n"
+"\t<td><notr>47'</notr></td>\n"
+"\t<td>1/2 of a cubit</td>\n"
+"\t<td><notr>1°10'</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>finger</td>\n"
+"\t<td>1/32 of a cubit</td>\n"
+"\t<td><notr>4.4'</notr></td>\n"
+"\t<td>1/16 of a cubit</td>\n"
+"\t<td><notr>8.75'</notr></td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"Another important aspect of Al-Sufi book is his record of the indigenous "
+"Arabic star names falling under each constellation, and the exact "
+"identification of the respective stars with the corresponding Ptolemaic "
+"stars. This means that we are looking at two layers of stars knowledge at "
+"the same time: the Ptolemaic one and the indigenous Arab one.\n"
+"\n"
+"### The Sky Culture\n"
+"\n"
+"This sky culture is a result of a research done on several manuscripts of "
+"the book, oldest of which is the [#8].\n"
+"\n"
+"First, the manuscripts of the Book of Fixed Stars were critically edited, "
+"and the text was produced. Second, each member star of the 48 constellations "
+"was identified according to Al-Sufi description, and new tables were built "
+"including modern star designations from the Hipparcos, Bright stars, and "
+"Bayer catalogues. Third, Arab indigenous star names were collected and "
+"identified as mapped by Al-Sufi to the Ptolemaic ones. All the previous "
+"steps were included in a book published digitally of the Book of Fixed Stars "
+"plus explanations and commentary by Khalid Al-Ajaji[#4].\n"
+"\n"
+"The sky culture stick figures of the constellations are the images in the "
+"Ulugh Beg manuscript of the Book of Fixed Stars, extracted, and adapted for "
+"Stellarium by Mr. Kutaibaa Akraa [#5]. The star names file includes the star "
+"number in the constellation as the primary star name and the description of "
+"the star in the tables as a secondary name. For example, Polaris primary "
+"name that is displayed with the star is: UMi1, UMi being Ursa Minor and 1 is "
+"the first star of this constellation. If the star is selected other "
+"secondary names are displayed, which will display \"The star on the end of "
+"the tail\" on the top of the screen. The constellation lines are constructed "
+"according to the constellation shapes with an attempt to include most of the "
+"member stars. For indigenous Arab star knowledge, individual star names were "
+"added to the star file as secondary names, while names of group of stars "
+"were defined through asterism names and asterism lines files.\n"
+"\n"
+"The translation of star descriptions from Arabic into English was extracted "
+"from Ernie Wright website[#6] which was transcribed from Toomer's "
+"translation of the Almagest[#7]. The translation was modified in a few "
+"places to agree with Al-Sufi wording.\n"
+"\n"
+"The single source of the sky culture is the Book of Fixed Stars and the "
+"objective is to give a faithful representation of the book content."
+msgstr ""
+"一般討論部分的一個重要觀點是蘇菲對恆星識別採用的方法。\n"
+"他以多種方式描述每顆恆星：通過與星座圖繪相對的位置，通過其星等大小，通過它與"
+"其他恆星所形成如三角形或弧形的星群，有時通過與銀河相對的位置，以及通過與附近"
+"恆星的角距離。\n"
+"我計算過蘇菲在他的書中所測量的角距離有 700 多個。 他用於角距離的單位是手肘"
+"長、矛長、人的高度、跨度和手指寬。\n"
+"蘇菲在他的書中明確指出，一個肘長等於2 度 20 分  [#2]。\n"
+"對於其他單位，Schjellerup 得出了一些數值，但在追蹤探詢 700 個測量值，我得出了"
+"不同的值。 下表總結了從 Schjellerup\n"
+"[#3] 和從我的研究中所得的單位和相對於手肘長大小的關係。\n"
+"\n"
+"### 蘇菲使用的角距離單位\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td>&nbsp;</td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Schjellerup</b></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Khalid</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>單位</b></td>\n"
+"\t<td><b>手肘長</b></td>\n"
+"\t<td><b>角距離</b></td>\n"
+"\t<td><b>手肘長</b></td>\n"
+"\t<td><b>角距離</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>矛長</td>\n"
+"\t<td>6 手肘長</td>\n"
+"\t<td>14°</td>\n"
+"\t<td>6 手肘長</td>\n"
+"\t<td>14°</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>人高</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"\t<td>3 手肘長</td>\n"
+"\t<td>7°</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>手肘長</td>\n"
+"\t<td>1 手肘長</td>\n"
+"\t<td>2°20'</td>\n"
+"\t<td>1 手肘長</td>\n"
+"\t<td>2°20'</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>跨度</td>\n"
+"\t<td>手肘長的 1/3</td>\n"
+"\t<td>47'</td>\n"
+"\t<td>手肘長的 1/2</td>\n"
+"\t<td>1°10'</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>手指寬</td>\n"
+"\t<td>手肘長的 1/32</td>\n"
+"\t<td>4.4'</td>\n"
+"\t<td>手肘長的 1/16</td>\n"
+"\t<td>8.75'</td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"蘇菲的書中另一個重要觀點是他記錄了每個星座下的傳統阿拉伯星名，以及與托勒密恆"
+"星相對應恆星的準確識別。\n"
+"這意味著我們同時在看兩種恆星知識：托勒密的和傳統阿拉伯的。\n"
+"\n"
+"### 星空述語\n"
+"\n"
+"這個星空述語是是對該書的幾份手稿進行研究的結果，其中最古老的是 [#8]。\n"
+"\n"
+"首先，這本《恆星之書》手稿是校勘編輯並製成文字。 其次，這是根據蘇菲的描述來確"
+"定 48 個星座的每個星星成員，並包括來自 Hipparcos、亮星和\n"
+"Bayer 星表的現代恆星名稱來建立了新的表格。 第三，收集和辨識的阿拉伯傳統星名是"
+"由蘇菲對應托勒密星表所確定的星名。 前面的所有步驟都包含在加上\n"
+"Khalid Al-Ajaji 的解釋和評論《恆星之書》的電子版中[#4]。\n"
+"\n"
+"本星空術語的圖繪是取自《恆星之書》的Ulugh Beg手稿[#5]中的圖像，並被\n"
+"Kutaibaa Akraa 先生採用於 Stellarium 中。\n"
+"恆星名稱檔案使用星座內的恆星編號當作主恆星名，星表內的恆星描述當作次恆星名。"
+"例如，北極星的的主恆星名為：UMi1，UMi 指的是小熊座 Ursa\n"
+"Minor ，1 是該星座的第一號星。 如果選擇了恆星的其他名稱，則會顯示次恆星名，它"
+"將在螢幕上端顯示 「尾巴末端的星星」。\n"
+"星座連線是試圖包括大多數成員恆星來構據星座的形狀。\n"
+"對於傳統阿拉伯星空知識，個別星名被添加到恆星檔案中作為次恆星名，而成群星星的"
+"名稱則通過星群名和星群連線檔案加以定義。\n"
+"\n"
+"從阿拉伯語到英語的恆星描述翻譯是摘自 Ernie Wright 網站 [#6]，該網站是從 "
+"Toomer 對《天文學大成》的翻譯[#7]中轉錄的。\n"
+"翻譯詞彙在幾個地方以符合蘇菲的措辭進行了修改。譯註：中文翻譯限於作者的能力是"
+"取自翻譯後的英文然後再譯成中文，這個勢必與原來的阿拉伯文意思無法完全吻合甚至"
+"會造成誤解，歡迎修正。\n"
+"\n"
+"星空述語的單一來源是《恆星之書》，目的是忠實地再現書中的內容。"
+
+#. Sky culture authors section in markdown format
+msgid ""
+"This sky culture was compiled and added to Stellarium by Khalid Al-Ajaji: "
+"turath.alfalak@gmail.com"
+msgstr ""
+"本星空術語是由 Khalid Al-Ajaji: turath.alfalak@gmail.com 所編譯並加入 "
+"Stellarium 中。"
+
+#. Sky culture references section in markdown format
+msgid ""
+" - [#1]: The Arabs and the Stars, Paul Kunitzsch,The Astronomer Abu'L-Husayn "
+"Al-Sufi And His Book On The Constellations, XI, pg 57. Northampton "
+"[England]: Variorum Reprints, 1989.\n"
+" - [#2]: See Al-Sufi description in his book of the 14th star in Auriga.\n"
+" - [#3]: DESCRIPTIONS DES ETOILES FIXES, traduction littérale avec des notes "
+"par H C F C Schjellerup, St Petersbourg, 1874, pg 26-27.\n"
+" - [#4]: [Book of Fixed Stars: Critical edition with commentary by Khalid "
+"AlAjaji](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).\n"
+" - [#5]: [Oulough Beg copy of ʿAbd al-Raḥmān ibn ʿUmar al-Ṣūfī. Kitāb ṣuwar "
+"al-kawākib al-ṯābita, Paris, Bibliothèque nationale de France Ms. Arabe 5036]"
+"(https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Seeing Ancient Stars, Visualization of the Almagest Catalog]"
+"(http://www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Ptolemy’s ALMAGEST, G. J. Toomer, Princeton University Press, 2nd "
+"ed., 1998.\n"
+" - [#8]: [Oxford, Bodleian Library Ms. Marsh 144 dated 1009 AD](https://iiif."
+"bodleian.ox.ac.uk/iiif/viewer/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?"
+"c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)"
+msgstr ""
+" - [#1]: The Arabs and the Stars, Paul Kunitzsch,The Astronomer Abu'L-Husayn "
+"Al-Sufi And His Book On The Constellations, XI, pg 57. Northampton "
+"[England]: Variorum Reprints, 1989.\n"
+" - [#2]: 參見蘇菲在他的書中對御夫座第14號星的描述\n"
+" - [#3]: DESCRIPTIONS DES ETOILES FIXES, traduction littérale avec des notes "
+"par H C F C Schjellerup, St Petersbourg, 1874, pg 26-27.\n"
+" - [#4]: [Book of Fixed Stars: Critical edition with commentary by Khalid "
+"AlAjaji](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).\n"
+" - [#5]: [Oulough Beg copy of ʿAbd al-Raḥmān ibn ʿUmar al-Ṣūfī. Kitāb ṣuwar "
+"al-kawākib al-ṯābita, Paris, Bibliothèque nationale de France Ms. Arabe 5036]"
+"(https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Seeing Ancient Stars, Visualization of the Almagest Catalog]"
+"(http://www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Ptolemy’s ALMAGEST, G. J. Toomer, Princeton University Press, 2nd "
+"ed., 1998.\n"
+" - [#8]: [Marsh 144 女士，西元 1009 年紀錄，牛津博德利圖書館](https://iiif."
+"bodleian.ox.ac.uk/iiif/viewer/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?"
+"c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two oryx calves"
+msgstr "兩隻幼劍羚崽"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The axe of the grindstone"
+msgstr "磨刀石的斧頭"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The smaller daughters of Na'sh"
+msgstr "Na'sh 的小女兒"
+
+#. Arabic (Al-Sufi) asterism
+#. Na'sh is a proper name meaning bier
+msgid "Daughters of Na'sh"
+msgstr "Na'sh 的女兒"
+
+#. Arabic (Al-Sufi) asterism
+#. Na'sh is a proper name meaning bier
+msgid "The couch of daughters of Na'sh"
+msgstr "Na'sh 女兒的臥榻"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Gazelles"
+msgstr "瞪羚"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Gazelles youngsters"
+msgstr "年輕的瞪羚"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The water pool"
+msgstr "水池"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The first leap"
+msgstr "第一跳"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The second leap"
+msgstr "第二跳"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The third leap"
+msgstr "第三跳"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The leaps - The little foxes - the couples"
+msgstr "跳躍 - 小狐狸 - 夫妻"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two wolves - The two falcons - The two black birds"
+msgstr "二匹狼 - 二隻獵鷹 - 二隻黑鳥"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The wolf claws"
+msgstr "狼爪"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The mother camels"
+msgstr "母駱駝"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The three stone support (first narrative)"
+msgstr "三石支撐 (第一說)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The three stone support (second narrative)"
+msgstr "三石支撐 (第二說)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The pot"
+msgstr "壺罐"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two stars of separation"
+msgstr "分離的二顆星"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The sheep"
+msgstr "綿羊"
+
+#. Arabic (Al-Sufi) asterism
+#. Name for HIP 67927
+msgid "The spear"
+msgstr "槍矛"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The front spear tassel - the weapon"
+msgstr "前方的槍纓 - 兵器"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The rear spear tassel"
+msgstr "後方的槍纓"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The hyenas and their youngsters"
+msgstr "鬣狗和牠們的幼犬"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The open circle - The bowl of the poor"
+msgstr "開口圓 - 窮人的碗"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The northern line"
+msgstr "北方線"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The statues"
+msgstr "雕像"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The landing eagle "
+msgstr "著陸的老鷹"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The claws"
+msgstr "爪"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The knights"
+msgstr "騎士"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The she-camel"
+msgstr "雌性駱駝"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The henna tinted hand"
+msgstr "指甲花彩繪的手"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The forearm"
+msgstr "前臂"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The arm"
+msgstr "手臂"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The shoulder"
+msgstr "肩膀"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Thurayya is a proper name
+msgid "The extended arm of Al-Thurayya"
+msgstr "Al-Thurayya 伸長的手臂"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The northern tent"
+msgstr "北方的帳篷"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Ayyuq is a proper name meaning the obstructor
+msgid "The posts - The associates of Al-Ayyuq"
+msgstr "準星 - Al-Ayyuq 的同夥"
+
+#. Arabic (Al-Sufi) asterism
+#. kid is the young male goat
+msgid "The two kids"
+msgstr "兩個孩子"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The desert natural garden and the goats"
+msgstr "沙漠上的自然花園和山羊"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The southern line"
+msgstr "南方線"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The flying eagle"
+msgstr "飛鷹"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two young male ostriches"
+msgstr "兩隻年輕的公鴕鳥"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The young camel"
+msgstr "年輕的駱駝"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The well bucket"
+msgstr "井水桶"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The front bucket mouth"
+msgstr "前面的桶口"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The rear bucket mouth"
+msgstr "後面的桶口"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The well poles - The bucket rope knot"
+msgstr "井桿 - 鬥繩結"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the young sheep"
+msgstr "幼羊的幸運星"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the one with great endeavour"
+msgstr "努力者的幸運星"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the excellent one"
+msgstr "優秀者的幸運星"
+
+#. Arabic (Al-Sufi) asterism
+#. Mattar is a proper name meaning rain
+msgid "The lucky star of Mattar"
+msgstr "Mattar 的幸運星"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The fox place"
+msgstr "狐狸的地方"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The fish"
+msgstr "魚"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two forelegs of the lamb"
+msgstr "羔羊的兩條前腿"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two signs (first narrative)"
+msgstr "雙標誌 (第一說)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two signs (second narrative)"
+msgstr "雙標誌 (第二說)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The signs (first narrative)"
+msgstr ""
+
+#. Arabic (Al-Sufi) asterism
+msgid "The signs (second narrative)"
+msgstr ""
+
+#. Arabic (Al-Sufi) asterism
+msgid "The little abdomen"
+msgstr "小肚子"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Thurayya is a proper name referring to the Pleiades
+#. Name for M 45
+msgid "Al-Thurayya"
+msgstr "Al-Thurayya (昴宿)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The young she-camels"
+msgstr "年輕的雌性駱駝"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Dabaran is a proper name meaning the follower
+msgid "The two dogs of Al-Dabaran"
+msgstr "Al-Dabaran 的兩隻狗"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The extended arm [of the lion]"
+msgstr "[獅子] 伸長的手臂"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The downward bend (first narrative)"
+msgstr ""
+
+#. Arabic (Al-Sufi) asterism
+msgid "The downward bend (second narrative)"
+msgstr ""
+
+#. Arabic (Al-Sufi) asterism
+msgid "The stars of rain (first narrative)"
+msgstr "下雨之星 (第一說)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Stars of rain (second narrative)"
+msgstr "下雨之星 (第二說)"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Jawza is a proper name
+msgid "Bow of Al-Jawza"
+msgstr "Al-Jawza 的弓"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Nostrils [of the lion]"
+msgstr "[獅子的] 鼻孔"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Mouth of the lion"
+msgstr "獅子的嘴巴"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The eyes [of the lion]"
+msgstr "[獅子的] 眼睛"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Northern eyelashes roots"
+msgstr "北方的睫毛根"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Southern eyelashes roots"
+msgstr "南方的睫毛根"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Forehead [of the lion]"
+msgstr "[獅子的] 額頭"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Mane of the lion"
+msgstr "獅子的鬃毛"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The bend"
+msgstr "彎曲"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The tassel"
+msgstr "纓"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Claws of the scorpion"
+msgstr "蠍子的爪"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The diadem (according to Al-Sufi)"
+msgstr "帶狀皇冠 (根據蘇菲 Al-Sufi)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The diadem (as narrated by Arabs)"
+msgstr "帶狀皇冠 (正如阿拉伯人所說)"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Veins of the heart"
+msgstr "心臟的血管"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Tail segments of the scorpion"
+msgstr "蠍子的尾巴區段"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Raised Tail of the Scorpion - the sting"
+msgstr "蝎子舉起的尾巴 - 螫刺"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Ostriches drinking at the river"
+msgstr "在河邊飲水的鴕鳥"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Ostriches leaving the river"
+msgstr "離開河的鴕鳥"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two male ostriches"
+msgstr "兩隻公鴕鳥"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The link"
+msgstr "鏈接"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The Ostrich nest - The necklace"
+msgstr "鴕鳥巢 - 項鍊"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The empty place"
+msgstr "空曠之地"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The two shrikes"
+msgstr "兩隻伯勞鳥"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the slaughterer"
+msgstr "屠夫的幸運星"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of Nashira"
+msgstr "Nashirah 的幸運星"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the king"
+msgstr "國王的幸運星"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The luckiest of the lucky stars"
+msgstr "最幸運的幸運星"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the swallower"
+msgstr "貪吃者的幸運星"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The lucky star of the tents"
+msgstr "帳篷的幸運星"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The ringed rope"
+msgstr "環形繩"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The short hand"
+msgstr "短手"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The ostriches"
+msgstr "鴕鳥"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The circular mark"
+msgstr "圓形標記"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Jawza is a proper name
+msgid "The backbone of Al-Jawza - The belt of Al-Jawza - The string"
+msgstr "Al-Jawza 的脊梁 - Al-Jawza 的腰帶 - 繩線"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Sword of Orion - The facial line tattoo"
+msgstr "獵戶座之劍 - 刺青的紋線"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Jawza is a proper name
+msgid "Hair braids of Al-Jawza - Crown of Al-Jawza"
+msgstr "Al-Jawza 的髮辮 - Al-Jawza 的皇冠"
+
+#. Arabic (Al-Sufi) asterism
+#. Al-Jawza is a proper name
+msgid "The front footstool of Al-Jawza"
+msgstr "Al-Jawza 的前腳凳"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The ostriches nest"
+msgstr "鴕鳥巢"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Eggs and egg shells"
+msgstr "蛋和蛋殼"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The young ostriches"
+msgstr "年輕的鴕鳥"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The camels that quenched their thirst - The rear footstool of Al-Jawza"
+msgstr "解渴的駱駝 - Al-Jawza 的後腳凳"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The virgins"
+msgstr "處女"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The ravens - The monkeys"
+msgstr "烏鴉 -猴子"
+
+#. Arabic (Al-Sufi) asterism
+msgid "Retracted arm of the lion"
+msgstr "獅子縮回的手臂"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The tied camels"
+msgstr "被綁的駱駝"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The horses and the foals"
+msgstr "馬和小馬駒"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The trough"
+msgstr "波谷"
+
+#. Arabic (Al-Sufi) asterism
+msgid ""
+"The southern tent - The throne of the armless high one - The camels - The "
+"lion buttock"
+msgstr "南方帳篷 - 無臂高個的寶座 - 駱駝 - 獅臀"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The date clusters"
+msgstr "海棗星團"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The oath stars"
+msgstr "立誓星"
+
+#. Arabic (Al-Sufi) asterism
+msgid "The domed tent - The ostriches nest"
+msgstr "圓頂帳篷 - 鴕鳥巢"
+
+#. Arabic (Al-Sufi) constellation, native: الدب الأصغر
+msgid "Ursa Minor"
+msgstr "小熊座"
+
+#. Arabic (Al-Sufi) constellation, native: الدب الأكبر
+msgid "Ursa Major"
+msgstr "大熊座"
+
+#. Arabic (Al-Sufi) constellation, native: التنين
+msgid "Draco"
+msgstr "天龍座"
+
+#. Arabic (Al-Sufi) constellation, native: قيقاوس
+msgid "Cepheus"
+msgstr "仙王座"
+
+#. Arabic (Al-Sufi) constellation, native: العواء
+msgid "Bootes"
+msgstr "牧夫座"
+
+#. Arabic (Al-Sufi) constellation, native: الإكليل الشمالي
+msgid "Corona Borealis"
+msgstr "北冕座"
+
+#. Arabic (Al-Sufi) constellation, native: الجاثي
+msgid "Hercules"
+msgstr "武仙座"
+
+#. Arabic (Al-Sufi) constellation, native: اللورا
+msgid "Lyra"
+msgstr "天琴座"
+
+#. Arabic (Al-Sufi) constellation, native: الطائر
+msgid "Cygnus"
+msgstr "天鵝座"
+
+#. Arabic (Al-Sufi) constellation, native: ذات الكرسي
+msgid "Cassiopeia"
+msgstr "仙后座"
+
+#. Arabic (Al-Sufi) constellation, native: برشاوش
+msgid "Perseus"
+msgstr "英仙座"
+
+#. Arabic (Al-Sufi) constellation, native: ممسك الأعنة
+msgid "Auriga"
+msgstr "御夫座"
+
+#. Arabic (Al-Sufi) constellation, native: الحواء
+msgid "Ophiuchus"
+msgstr "蛇夫座"
+
+#. Arabic (Al-Sufi) constellation, native: الحية
+msgid "Serpens"
+msgstr "巨蛇座"
+
+#. Arabic (Al-Sufi) constellation, native: السهم
+msgid "Sagitta"
+msgstr "天箭座"
+
+#. Arabic (Al-Sufi) constellation, native: العقاب
+msgid "Aquila"
+msgstr "天鷹座"
+
+#. Arabic (Al-Sufi) constellation, native: الدلفين
+msgid "Delphinus"
+msgstr "海豚座"
+
+#. Arabic (Al-Sufi) constellation, native: قطعة الفرس
+msgid "Equuleus"
+msgstr "小馬座"
+
+#. Arabic (Al-Sufi) constellation, native: الفرس
+msgid "Pegasus"
+msgstr "飛馬座"
+
+#. Arabic (Al-Sufi) constellation, native: المسلسلة
+msgid "Andromeda"
+msgstr "仙女座"
+
+#. Arabic (Al-Sufi) constellation, native: المثلث
+msgid "Triangulum"
+msgstr "三角座"
+
+#. Arabic (Al-Sufi) constellation, native: الحمل
+msgid "Aries"
+msgstr "白羊座"
+
+#. Arabic (Al-Sufi) constellation, native: الثور
+msgid "Taurus"
+msgstr "金牛座"
+
+#. Arabic (Al-Sufi) constellation, native: التوأمان
+msgid "Gemini"
+msgstr "雙子座"
+
+#. Arabic (Al-Sufi) constellation, native: السرطان
+msgid "Cancer"
+msgstr "巨蟹座"
+
+#. Arabic (Al-Sufi) constellation, native: الأسد
+msgid "Leo"
+msgstr "獅子座"
+
+#. Arabic (Al-Sufi) constellation, native: العذراء
+msgid "Virgo"
+msgstr "室女座"
+
+#. Arabic (Al-Sufi) constellation, native: الميزان
+msgid "Libra"
+msgstr "天秤座"
+
+#. Arabic (Al-Sufi) constellation, native: العقرب
+msgid "Scorpius"
+msgstr "天蝎座"
+
+#. Arabic (Al-Sufi) constellation, native: الرامي
+msgid "Sagittarius"
+msgstr "人馬座"
+
+#. Arabic (Al-Sufi) constellation, native: الجدي
+msgid "Capricornus"
+msgstr "摩羯座"
+
+#. Arabic (Al-Sufi) constellation, native: ساكب الماء
+msgid "Aquarius"
+msgstr "寶瓶座"
+
+#. Arabic (Al-Sufi) constellation, native: السمكتان
+msgid "Pisces"
+msgstr "雙魚座"
+
+#. Arabic (Al-Sufi) constellation, native: قيطس
+msgid "Cetus"
+msgstr "鯨魚座"
+
+#. Arabic (Al-Sufi) constellation, native: الجبار
+msgid "Orion"
+msgstr "獵戶座"
+
+#. Arabic (Al-Sufi) constellation, native: النهر
+msgid "Eridanus"
+msgstr "波江座"
+
+#. Arabic (Al-Sufi) constellation, native: الأرنب
+msgid "Lepus"
+msgstr "天兔座"
+
+#. Arabic (Al-Sufi) constellation, native: الكلب الأكبر
+msgid "Canis Major"
+msgstr "大犬座"
+
+#. Arabic (Al-Sufi) constellation, native: الكلب الأصغر
+msgid "Canis Minor"
+msgstr "小犬座"
+
+#. Arabic (Al-Sufi) constellation, native: السفينة
+msgid "Argo Navis"
+msgstr "阿爾戈號"
+
+#. Arabic (Al-Sufi) constellation, native: الشجاع
+msgid "Hydra"
+msgstr "長蛇座"
+
+#. Arabic (Al-Sufi) constellation, native: الباطية
+msgid "Crater"
+msgstr "巨爵座"
+
+#. Arabic (Al-Sufi) constellation, native: الغراب
+msgid "Corvus"
+msgstr "烏鴉座"
+
+#. Arabic (Al-Sufi) constellation, native: قنطورس
+msgid "Centaurus"
+msgstr "半人馬座"
+
+#. Arabic (Al-Sufi) constellation, native: السبع
+msgid "Lupus"
+msgstr "豺狼座"
+
+#. Arabic (Al-Sufi) constellation, native: المجمرة
+msgid "Ara"
+msgstr "天壇座"
+
+#. Arabic (Al-Sufi) constellation, native: الإكليل الجنوبي
+msgid "Corona Australis"
+msgstr "南冕座"
+
+#. Arabic (Al-Sufi) constellation, native: الحوت الجنوبي
+msgid "Piscis Austrinus"
+msgstr "南魚座"
+
+#. Arabic (Al-Sufi) constellation, native: فرس الصوفي
+msgid "The Horse"
+msgstr "馬"
+
+#. Arabic (Al-Sufi) constellation, native: الحوت العظيم
+msgid "The great fish"
+msgstr "大魚"
+
+#. Arabic (Al-Sufi) constellation, native: الحوت الآخر
+msgid "The other fish"
+msgstr "另一條魚"
+
+#. Name for HIP 11767
+#. The Kid (Baby male goat) is the name of Polaris in Arabic.
+msgid "The star on the end of the tail: it is the Kid"
+msgstr "尾巴末端的星星 : 它是Kid"
+
+#. Name for HIP 85822
+msgid "The one next to it on the tail"
+msgstr "尾巴旁邊的那顆"
+
+#. Name for HIP 82080
+msgid "The one next to that, before the place where the tail joins [the body]"
+msgstr "旁邊的那顆，在尾巴連接[身體]的地方之前"
+
+#. Name for HIP 77055
+msgid "The southernmost of the stars in the advance side of the rectangle"
+msgstr "長方形前方最南端的星星"
+
+#. Name for HIP 79822
+msgid "The northernmost of [those in] the same side"
+msgstr "[那些在]同一邊的最北端"
+
+#. Name for HIP 72607
+msgid "The southern star in the rear side: The brighter of the two calves"
+msgstr "在背面的南方恆星：兩隻幼獸中較亮的那顆"
+
+#. Name for HIP 75097
+msgid "The northern one in the same side: The dimmer of the two calves"
+msgstr "在同側的北方恆星：兩隻幼獸中較暗的那顆"
+
+#. Name for HIP 70692
+msgid ""
+"The star lying on a straight line with the stars in the rear side [of the "
+"rectangle] and south of them"
+msgstr "這顆星躺在 [矩形] 的背面與它們的南邊的星星的一直線上"
+
+#. Name for HIP 41704
+msgid "The star on the end of the snout"
+msgstr "鼻子末端的恆星"
+
+#. Name for HIP 42080
+msgid "The more advanced of the stars in the two eyes"
+msgstr "在兩隻眼睛內星星中較前面的"
+
+#. Name for HIP 2548
+msgid "The one to the rear"
+msgstr "接到後面的那顆"
+
+#. Name for HIP 44390
+msgid "The more advanced of the two stars in the forehead"
+msgstr "額頭兩顆星中較前面的"
+
+#. Name for HIP 46977
+msgid "The star on the tip of the advance ear"
+msgstr "前耳尖上的恆星"
+
+#. Name for HIP 45075
+msgid "The more advanced of the two stars in the neck"
+msgstr "脖子上兩顆星中比較前面的"
+
+#. Name for HIP 46733
+msgid ""
+"The one to the rear, there is an error in either the longitude or latitude"
+msgstr "靠後的一顆，經度或緯度的數據有誤"
+
+#. Name for HIP 48319
+msgid "The northernmost of the two stars in the chest"
+msgstr "胸中兩顆星中最北端"
+
+#. Name for HIP 1170
+msgid "The southernmost of them"
+msgstr "他們˙當中的最南端"
+
+#. Name for HIP 18532
+msgid "The star on the left knee"
+msgstr "左膝上的恆星"
+
+#. Name for HIP 44127
+msgid ""
+"The northernmost of the [two] in the front left paw: Leap [of the gazelle]"
+msgstr "這[二]顆在左前爪中最北端 : [羚羊的] 跳躍"
+
+#. Name for HIP 44471
+msgid "The southernmost of them: Leap [of the gazelle]"
+msgstr "他們當中的最南端 : [羚羊的] 跳躍"
+
+#. Name for HIP 45493
+msgid "The star above the right knee"
+msgstr "在右膝上方的恆星"
+
+#. Name for HIP 44901
+msgid "The star below the right knee"
+msgstr "在右膝下方的恆星"
+
+#. Name for HIP 54061
+msgid "The stars in the quadrilateral: the one on the back"
+msgstr "四邊形中的星星 : 背面的那顆"
+
+#. Name for HIP 53910
+msgid "The one on the pelvis"
+msgstr "骨盆上的那顆"
+
+#. Name for HIP 59774
+msgid "The one on the place where the tail joins [the body]"
+msgstr "在尾巴連接[身體]之處的恆星"
+
+#. Name for HIP 58001
+msgid "The remaining one, on the left hind thigh"
+msgstr "剩下的一顆，在左後大腿上"
+
+#. Name for HIP 50372
+msgid "The more advanced of the [two stars] in the left hind paw"
+msgstr "左後爪[兩顆星]中較前面的"
+
+#. Name for HIP 50801
+msgid "The one to the rear of it"
+msgstr "接到它後面的那顆"
+
+#. Name for HIP 54539
+msgid "The star on the left knee-bend"
+msgstr "在左膝彎曲處的星星"
+
+#. Name for HIP 55219
+msgid "The northernmost of the [two stars] in the right hind paw"
+msgstr "右後爪[兩顆星]的最北端"
+
+#. Name for HIP 62956
+msgid ""
+"The first of the three stars on the tail next to the place where it joins "
+"[the body]"
+msgstr "尾巴三顆星中的第一顆，靠近它連接 [身體] 的地方"
+
+#. Name for HIP 17797
+msgid "The middle one"
+msgstr "中間的一顆"
+
+#. Name for HIP 67301
+msgid "The third, on the end of the tail"
+msgstr "第三顆，在尾巴的末端"
+
+#. Name for HIP 63125
+msgid "The star under the tail, at some distance towards the south"
+msgstr "尾巴下的恆星，靠南方些許距離處"
+
+#. Name for HIP 61317
+msgid "The rather fainter star in advance of it"
+msgstr "在它之前的那顆比較暗淡的恆星"
+
+#. Name for HIP 45860
+msgid ""
+"The southernmost of the [two] stars between the front legs of Ursa [Major] "
+"and the head of Leo"
+msgstr "大熊[座]前腿與獅子座頭部之間 [兩顆] 恆星的最南端"
+
+#. Name for HIP 45688
+msgid "The one north of it"
+msgstr "它的北邊那顆"
+
+#. Name for HIP 44700
+msgid "The rearmost of the remaining three faint stars"
+msgstr "剩下三顆微弱恆星的最後面"
+
+#. Name for HIP 14293
+msgid "The one in advance of this"
+msgstr "在此之前的那顆"
+
+#. Name for HIP 43531
+msgid "The one in advance again of the latter"
+msgstr "偏向後者前面的那顆"
+
+#. Name for HIP 41075
+msgid "The star between the front legs [of Ursa Major] and Gemini"
+msgstr "[大熊座]和雙子座前腿之間的星星"
+
+#. Name for HIP 62956
+msgid "The dark camel"
+msgstr "黑暗的駱駝"
+
+#. Name for HIP 62956
+msgid "The Oryx"
+msgstr "羚羊"
+
+#. Name for HIP 65378
+msgid "The little goat"
+msgstr "小山羊"
+
+#. Name for HIP 67301
+msgid "The leader"
+msgstr "領導者"
+
+#. Name for HIP 63125
+msgid "Liver of the lion"
+msgstr "獅子的肝臟"
+
+#. Name for HIP 65477
+#. Proper name
+msgid "Al-Suha"
+msgstr "Al-Suha"
+
+#. Name for HIP 65477
+#. Proper name
+msgid "Al-Suta"
+msgstr "Al-Suta"
+
+#. Name for HIP 65477
+#. Proper name
+msgid "Al-Saydaq"
+msgstr "Al-Saydaq"
+
+#. Name for HIP 65477
+#. Proper name
+msgid "Nua'ish"
+msgstr "Nua'ish"
+
+#. Name for HIP 83608
+msgid "The star on the tongue"
+msgstr "舌尖上的恆星"
+
+#. Name for HIP 85819
+msgid "The star in the mouth"
+msgstr "嘴內的恆星"
+
+#. Name for HIP 85670
+msgid "The star above the eye"
+msgstr "眼睛上面的恆星"
+
+#. Name for HIP 87585
+msgid "The star on the chin"
+msgstr "下巴上的恆星"
+
+#. Name for HIP 87833
+msgid "The star above the head"
+msgstr "頭上的恆星"
+
+#. Name for HIP 90156
+msgid ""
+"The northernmost of the three stars in a straight line in the first bend of "
+"the neck"
+msgstr "在脖子彎曲處的一直線上三顆星的最北處"
+
+#. Name for HIP 47908
+msgid "The southernmost of these"
+msgstr "這些的最南端"
+
+#. Name for HIP 92512
+msgid ""
+"The star to the rear of the latter and due east of the quadrilateral in the "
+"next bend after the latter"
+msgstr "後者後面的星，在後者之後的下一個彎曲中四邊形的正東"
+
+#. Name for HIP 95081
+msgid "The southern star of the [two] forming the advance side"
+msgstr "[二顆]形成前側的南方恆星"
+
+#. Name for HIP 94376
+msgid "The more northerly star of the advance side"
+msgstr "前進側更偏北的恆星"
+
+#. Name for HIP 97433
+msgid "The northern star of the rear side [of the quadrilateral]"
+msgstr "[四邊形]背側的北方恆星"
+
+#. Name for HIP 98702
+msgid "The southern star of the rear side"
+msgstr "背面的南方恆星"
+
+#. Name for HIP 96100
+msgid "The southern star of [those forming] the triangle in the next bend"
+msgstr "在下一個彎曲中 [那些形成] 三角形的最南方星星"
+
+#. Name for HIP 92782
+msgid "The more advanced of the other two stars of the triangle"
+msgstr "三角形的另外兩顆中較前面的"
+
+#. Name for HIP 86614
+msgid ""
+"The rearmost of the three stars in the next triangle, which is in advance "
+"[of the last]"
+msgstr "在[最後一個]之前，下個三角形中三顆星的最後面"
+
+#. Name for HIP 89937
+msgid "The southernmost of the other two forming the triangle"
+msgstr "其他兩顆的最南端形成三角形"
+
+#. Name for HIP 910
+msgid "The northernmost of the other two"
+msgstr "其他兩顆的最北端"
+
+#. Name for HIP 85805
+msgid "The rearmost of the two small stars to the west of the triangle"
+msgstr "接著三角形西邊兩顆小星的最後面"
+
+#. Name for HIP 86201
+msgid "The one in advance"
+msgstr "前面的那顆"
+
+#. Name for HIP 81660
+msgid "The southernmost of the next three stars in a straight line"
+msgstr "接下來在一條直線上三顆星中最南端"
+
+#. Name for HIP 1686
+msgid "The middle one of the three"
+msgstr "三顆中間的那顆"
+
+#. Name for HIP 1366
+msgid "The northernmost of them"
+msgstr "他們˙當中的最北端"
+
+#. Name for HIP 80331
+msgid "The northernmost of the next two to the west"
+msgstr "接下來靠西側兩顆的最北端邊"
+
+#. Name for HIP 75458
+msgid "The star to the west of these, in the bend by the tail"
+msgstr "靠近這些西邊的星星，在尾巴的彎曲處"
+
+#. Name for HIP 67627
+msgid "The advance star of the two quite some distance from the latter"
+msgstr "距離後者還有一段距離的兩顆恆星之前"
+
+#. Name for HIP 68756
+msgid "The rear star of these [two]"
+msgstr "這些[二顆]恆星的後面"
+
+#. Name for HIP 61281
+msgid "The star close by these, by the tail"
+msgstr "靠近這些的恆星，在尾巴旁邊"
+
+#. Name for HIP 56211
+msgid "The remaining star, on the tip of the tail"
+msgstr "剩下的恆星，在尾巴尖端上"
+
+#. Name for HIP 83608
+msgid "The trotting camel"
+msgstr "快步的駱駝"
+
+#. Name for HIP 86782
+msgid "The baby camel"
+msgstr "駱駝寶寶"
+
+#. Name for HIP 75458
+msgid "The male hyena"
+msgstr "公土狼"
+
+#. Name for HIP 99255
+msgid "The star on the right leg"
+msgstr "右腿上的恆星"
+
+#. Name for HIP 116727
+msgid "The one on the left leg"
+msgstr "左腿上的那顆"
+
+#. Name for HIP 106032
+msgid "The star under the belt on the right side"
+msgstr "右側腰帶下的恆星"
+
+#. Name for HIP 105199
+msgid "The star over the right shoulder, which touches it"
+msgstr "右肩上的恆星，有觸碰到它"
+
+#. Name for HIP 102422
+msgid "The star over the right elbow, which touches it"
+msgstr "右肘上的恆星，有觸碰到它"
+
+#. Name for HIP 101093
+msgid "The one under that elbow"
+msgstr "肘下的那顆"
+
+#. Name for HIP 18724
+msgid "The star in the chest"
+msgstr "胸中的恆星"
+
+#. Name for HIP 112724
+msgid "The star on the left arm"
+msgstr "左臂上的恆星"
+
+#. Name for HIP 109857
+msgid "The southernmost of the three stars on the hat"
+msgstr "帽子上三顆星的最南端"
+
+#. Name for HIP 3881
+msgid "The northernmost of the three"
+msgstr "這三顆的最北端"
+
+#. Name for HIP 107259
+msgid "The one in advance of the stars on the head"
+msgstr "頭上恆星的前面那顆"
+
+#. Name for HIP 110991
+msgid "The one to the rear of them"
+msgstr "接到它們後面的那顆"
+
+#. Name for HIP 116727
+msgid "The [northern] Shepherd"
+msgstr "[北方]牧羊人"
+
+#. Name for HIP 111056
+msgid "The [northern] Shepherd dog"
+msgstr "[北方]牧羊犬"
+
+#. Name for HIP 108917
+msgid "The horse forehead star"
+msgstr "馬前額恆星"
+
+#. Name for HIP 69483
+msgid "The most advanced of the three in the left arm"
+msgstr "左邊三顆的最前面"
+
+#. Name for HIP 69713
+msgid "The middle and southernmost of the three"
+msgstr "三顆星的中間和最南端"
+
+#. Name for HIP 5454
+msgid "The rearmost of the three"
+msgstr "三顆的最後端"
+
+#. Name for HIP 4463
+msgid "The star on the left elbow"
+msgstr "左肘上的恆星"
+
+#. Name for HIP 12777
+msgid "The star on the left shoulder"
+msgstr "左肩上的恆星"
+
+#. Name for HIP 2920
+msgid "The star on the head"
+msgstr "頭上的恆星"
+
+#. Name for HIP 14328
+msgid "The star on the right shoulder"
+msgstr "右肩上的恆星"
+
+#. Name for HIP 75411
+msgid "The one to the north of these, on the staff"
+msgstr "桿子上，靠近這些北方的那顆"
+
+#. Name for HIP 75973
+msgid ""
+"The one farther to the north again of this, on the tip of the staff, and it "
+"is a common star [with Hercules]"
+msgstr "這顆偏向靠北方的這些，在桿子尖端上，是一顆 [與武仙座] 共用的恆星"
+
+#. Name for HIP 75312
+msgid "The northernmost of the two stars below the shoulder, in the club"
+msgstr "肩下兩顆星中最北端，在棒子內"
+
+#. Name for HIP 73996
+msgid "The star on the end of the right arm"
+msgstr "右臂末端上的恆星"
+
+#. Name for HIP 73745
+msgid "The more advanced of the two stars in the wrist"
+msgstr "手腕內兩顆星中比較前面的"
+
+#. Name for HIP 145
+msgid "The rearmost of them"
+msgstr "他們˙當中的最後端"
+
+#. Name for HIP 73568
+msgid "The star on the end of the handle of the staff"
+msgstr "在桿子握把末端上的恆星"
+
+#. Name for HIP 72105
+msgid ""
+"The star on the belt which Ptolemy claims that it is on the right thigh, in "
+"the apron"
+msgstr "托勒密聲稱它在在擋板裡，右大腿上方腰帶上的恆星"
+
+#. Name for HIP 71284
+msgid "The rearmost of the two stars in the belt"
+msgstr "腰帶中兩顆星的最後面"
+
+#. Name for HIP 5364
+msgid "The more advanced of them"
+msgstr "他們的最前面"
+
+#. Name for HIP 71795
+msgid "The star on the right heel"
+msgstr "右腳跟上的恆星"
+
+#. Name for HIP 67927
+msgid "The northernmost of the three stars in the left leg"
+msgstr "左腿三顆星中的最北端"
+
+#. Name for HIP 69673
+msgid "The star between the thighs, called 'The high one with the spear'"
+msgstr "大腿間的恆星，名曰“持槍高者”"
+
+#. Name for HIP 69673
+msgid "The guard of the sky"
+msgstr "天空的守衛"
+
+#. Name for HIP 69673
+msgid "The guard of the north"
+msgstr "北方的守衛"
+
+#. Name for HIP 69673
+msgid "Leg of the lion"
+msgstr "獅子的腿"
+
+#. Name for HIP 72105
+msgid "Associate of the high one"
+msgstr "高個的同夥"
+
+#. Name for HIP 72105
+msgid "Flag of the high one"
+msgstr "高個的旗子"
+
+#. Name for HIP 72105
+#. Al-Fakkah is a proper name meaning incomplete circle referring to Corona Borealis
+msgid "Flag of Al-Fakkah"
+msgstr "Al-Fakkah 的旗子"
+
+#. Name for HIP 76267
+msgid "The bright star in the crown"
+msgstr "皇冠上的那顆明亮恆星"
+
+#. Name for HIP 75695
+msgid "The star in advance of it"
+msgstr "在它之前的那顆星"
+
+#. Name for HIP 76127
+msgid "The one above this and due north"
+msgstr "在這上面和正北的那顆"
+
+#. Name for HIP 30277
+msgid "The one north again of this"
+msgstr "偏向這個北方的那顆"
+
+#. Name for HIP 76952
+msgid ""
+"The one to the rear of the bright star in the other half circle from the "
+"south"
+msgstr "從南邊另一半圓圈中亮星後方的那顆"
+
+#. Name for HIP 77512
+msgid ""
+"The one to the rear again of the latter, and it is a little more to the north"
+msgstr "偏向後者的靠後面那顆，而且有更偏北一點"
+
+#. Name for HIP 78159
+msgid "The one to the rear again of these, and again it is more to the north"
+msgstr "偏向這些的靠後面那顆，而且有更偏北一點"
+
+#. Name for HIP 78493
+msgid "The star at the end of the opening of this half circle"
+msgstr ""
+
+#. Name for HIP 76267
+#. Al-Fakkah is a proper name meaning incomplete circle referring to Corona Borealis
+msgid "The bright star of Al-Fakkah"
+msgstr "Al-Fakkah 的亮星"
+
+#. Name for HIP 80816
+msgid "The star on the right shoulder by the armpit"
+msgstr "右肩腋下的恆星"
+
+#. Name for HIP 68862
+msgid "The star on the right upper arm"
+msgstr "右上臂的恆星"
+
+#. Name for HIP 13268
+msgid "The star on the right elbow"
+msgstr "右肘上的恆星"
+
+#. Name for HIP 3693
+msgid "The star on the left upper arm"
+msgstr "左上臂上的恆星"
+
+#. Name for HIP 88794
+msgid "The rearmost of the three stars in the left wrist"
+msgstr "左手腕三顆星的最後面"
+
+#. Name for HIP 81693
+msgid "The star in the right side"
+msgstr "右側內的恆星"
+
+#. Name for HIP 83207
+msgid "The star in the left side"
+msgstr "左側內的恆星"
+
+#. Name for HIP 83313
+msgid "The one north of the latter, on the left buttock"
+msgstr "後者的北側那顆，左邊臀部上"
+
+#. Name for HIP 83838
+msgid "The one on the place where the thigh joins the same [buttock]"
+msgstr "大腿連接 [臀部] 處的那顆"
+
+#. Name for HIP 84380
+msgid "The most advanced of the three in the left thigh"
+msgstr "左大腿內三顆的最前面"
+
+#. Name for HIP 13288
+msgid "The one to the rear of this"
+msgstr "靠這顆後面的那顆"
+
+#. Name for HIP 85112
+msgid "The one yet further to the rear of this"
+msgstr "靠這顆後面更遠的那顆"
+
+#. Name for HIP 86414
+msgid "The star on the left shin on the ankle place"
+msgstr "在左小腿腳踝上的恆星"
+
+#. Name for HIP 87212
+msgid "The most advanced of the three stars in the left foot"
+msgstr "左腳內三顆星中的最前面"
+
+#. Name for HIP 81833
+msgid "The star on the place where the right thigh joins [the buttock]"
+msgstr "右大腿連接 [臀部] 處的恆星"
+
+#. Name for HIP 81126
+msgid "The star north of it in the same thigh"
+msgstr "同一條大腿上它北邊的恆星"
+
+#. Name for HIP 5434
+msgid "The star on the right knee"
+msgstr "在右膝上的恆星"
+
+#. Name for HIP 79101
+msgid "The southernmost of the two stars under the right knee"
+msgstr "右膝下兩顆星中最南端"
+
+#. Name for HIP 77760
+msgid "The star in the right lower leg"
+msgstr "右小腿內的恆星"
+
+#. Name for HIP 75973
+msgid ""
+"The star on the end of the right leg is the same as the ninth star of Bootes "
+"on the tip of the staff, shared by the two constellations"
+msgstr "右腿末端的星星與牧夫座杖尖上的第九顆星星相同，為兩個星座共用"
+
+#. Name for HIP 80463
+msgid "The star south of the one in the right upper arm"
+msgstr "在右上臂內這顆的南邊恆星"
+
+#. Name for HIP 84345
+msgid "First dog of [southern] shepherd"
+msgstr "[南方]牧羊人的第一隻狗"
+
+#. Name for HIP 86414
+msgid "The line"
+msgstr "連線"
+
+#. Name for HIP 91262
+msgid ""
+"The bright star on the carrying cloth, called Lyra, and it is the landing "
+"eagle"
+msgstr "在包袱上的亮星，稱為勞拉 Lyra，它是下降的老鷹"
+
+#. Name for HIP 91919
+msgid "The northernmost of the two stars lying near the latter, close together"
+msgstr "兩顆恆星中的最北端靠近後者，靠得很近"
+
+#. Name for HIP 92791
+msgid ""
+"The one to the rear of these, in between the points where the horns [of the "
+"lyre] are attached"
+msgstr "接近後面的那個，在[天琴]的角連接點之間"
+
+#. Name for HIP 94481
+msgid ""
+"The northernmost of the two stars close together in the region to the east "
+"of the cloth"
+msgstr "兩顆在布匹以東的區域內靠在一起恆星的最北端"
+
+#. Name for HIP 92420
+msgid "The northernmost of the two advance stars in the crossbar"
+msgstr "兩顆在橫桿前面恆星的最北端"
+
+#. Name for HIP 93194
+msgid "The northernmost of the two rear stars in the crossbar"
+msgstr "兩顆在橫桿後面恆星的最北端"
+
+#. Name for HIP 95947
+msgid "The star on the beak"
+msgstr "鳥嘴上的星星"
+
+#. Name for HIP 96683
+msgid "The one to the rear of this, on the head"
+msgstr "靠近這個後面的那顆，在頭上"
+
+#. Name for HIP 98110
+msgid "The star in the middle of the neck"
+msgstr "脖子中間的星星"
+
+#. Name for HIP 3179
+msgid "The star in the breast"
+msgstr "乳房中的星星"
+
+#. Name for HIP 102098
+msgid "The bright star in the tail"
+msgstr "尾巴上的那顆亮星"
+
+#. Name for HIP 97165
+msgid "The star in the bend of the right wing"
+msgstr "右翼彎曲處的星星"
+
+#. Name for HIP 96441
+msgid "The southernmost of the three in the right wing-feathers"
+msgstr "右翼羽中三顆的最南端"
+
+#. Name for HIP 94779
+msgid "The northernmost of them, on the tip of the wing-feathers"
+msgstr "它們當中的最北端，在翼羽的尖端"
+
+#. Name for HIP 102488
+msgid "The star on the bend of the left wing"
+msgstr "左翼彎曲處的星星"
+
+#. Name for HIP 102589
+msgid "The star north of this, in the middle of the same wing"
+msgstr "這顆以北的星星，在同一個翅膀的中間"
+
+#. Name for HIP 104732
+msgid "The star in the tip of the feathers of the left wing"
+msgstr "左翼羽毛尖端的星星"
+
+#. Name for HIP 103413
+msgid "The star on the left leg"
+msgstr "左腿上的恆星"
+
+#. Name for HIP 99675
+msgid "The more advanced of the two stars in the right leg"
+msgstr "右腿兩顆星中較前面的"
+
+#. Name for HIP 101138
+msgid "The northern star on the right knee"
+msgstr "在右膝上北方的恆星"
+
+#. Name for HIP 104887
+msgid "The southernmost of the two stars under the left wing"
+msgstr "左翼下兩顆星的最南端"
+
+#. Name for HIP 102098
+msgid "The rear knight"
+msgstr "後面的騎士"
+
+#. Name for HIP 3821
+msgid "The one north of that, on the belt"
+msgstr "那個北邊的那顆，在腰帶上"
+
+#. Name for HIP 4427
+msgid "The star over the chair, just over the thighs"
+msgstr "椅子上的星星，就在大腿上"
+
+#. Name for HIP 6686
+msgid "The star in the knees"
+msgstr "膝蓋上的星星"
+
+#. Name for HIP 8886
+msgid "The star on the lower leg"
+msgstr "小腿上的星星"
+
+#. Name for HIP 11569
+msgid "The star on the end of the leg"
+msgstr "腳底上的星星"
+
+#. Name for HIP 6242
+msgid "The star below the left elbow"
+msgstr "左肘下方的星星"
+
+#. Name for HIP 29800
+msgid "The star on the right forearm"
+msgstr "右前臂上的星星"
+
+#. Name for HIP 2599
+msgid "The star above the post of the chair"
+msgstr "椅腳上方的星星"
+
+#. Name for HIP 746
+msgid ""
+"The star on the middle of the chair backrest, and it is called The henna "
+"tinted hand"
+msgstr "椅子靠背中間的星星，它被稱為指甲花彩繪手"
+
+#. Name for HIP 117863
+msgid "The star at the end of the chair backrest"
+msgstr "椅背末端的星星"
+
+#. Name for HIP 14632
+msgid "The star on the place between the shoulders"
+msgstr "肩膀之間的星星"
+
+#. Name for HIP 15863
+msgid "The bright star in the right side"
+msgstr "右側內的亮星"
+
+#. Name for HIP 16335
+msgid "The most advanced of the three stars next to the one in the side"
+msgstr "鄰近側邊那顆的三顆星的最前面"
+
+#. Name for HIP 14576
+msgid "The bright one of the stars in the Gorgon-head"
+msgstr "蛇髮女妖頭上的亮星"
+
+#. Name for HIP 14354
+msgid "The one in advance of the bright star"
+msgstr "亮星前面的那顆"
+
+#. Name for HIP 13879
+msgid "The remaining one, yet again in advance of this"
+msgstr "剩下的一顆，再偏向這之前"
+
+#. Name for HIP 20070
+msgid "The star in the right knee"
+msgstr "右膝內的星星"
+
+#. Name for HIP 19167
+msgid "The one in advance of this, over the knee"
+msgstr "在此之前的那顆，在膝蓋上方"
+
+#. Name for HIP 19343
+msgid "The more advanced of the two stars above the bend in the knee"
+msgstr "在膝蓋彎曲以上的兩顆星中比較前面的"
+
+#. Name for HIP 19812
+msgid "The rearmost of them, just over the bend in the knee"
+msgstr "他們當中的最後一個，剛好在膝蓋彎曲處"
+
+#. Name for HIP 20354
+msgid "The star on the right calf"
+msgstr "右小腿肚上的星星"
+
+#. Name for HIP 21476
+msgid "The star on the right ankle"
+msgstr "右腳踝上的星星"
+
+#. Name for HIP 17529
+msgid "The star in the left thigh"
+msgstr "左大腿內的星星"
+
+#. Name for HIP 18614
+msgid "The star on the left lower leg"
+msgstr "左小腿上的星星"
+
+#. Name for HIP 17448
+msgid "The star on the left heel"
+msgstr "左腳跟上的星星"
+
+#. Name for HIP 18246
+msgid "The one to the rear of this, on the left foot"
+msgstr "在這個後面的那顆，在左腳上"
+
+#. Name for HIP 19811
+msgid "The star to the east of the one on the left knee"
+msgstr "靠左膝上那顆東邊的那顆星"
+
+#. Name for HIP 19949
+msgid "The star to the north of the one in the right knee"
+msgstr "靠右膝內那顆北邊的那顆星"
+
+#. Name for HIP 13254
+msgid "The star in advance of those in the Gorgon-head"
+msgstr "在蛇髮女妖頭上星星的前面那顆星"
+
+#. Name for HIP 15863
+#. Al-Thurayya is a proper name
+msgid "The elbow [of Al-Thurayya]"
+msgstr "[Al-Thurayya 的] 手肘"
+
+#. Name for HIP 16335
+#. Al-Thurayya is a proper name
+msgid "Bend of the hand [of Al-Thurayya]"
+msgstr "[Al-Thurayya 的] 手臂彎曲處"
+
+#. Name for HIP 16826
+#. Al-Thurayya is a proper name
+msgid "Tip of the elbow [of Al-Thurayya]"
+msgstr "[Al-Thurayya 的] 手肘尖"
+
+#. Name for HIP 14576
+msgid "The caracal (second narrative)"
+msgstr "獰貓 (第二說)"
+
+#. Name for HIP 18614
+#. Al-Thurayya is a proper name
+msgid "The shoulder [of Al-Thurayya]"
+msgstr "[Al-Thurayya 的] 肩膀"
+
+#. Name for HIP 28358
+msgid "The southernmost of the two on the head"
+msgstr "在頭上二顆的最南端"
+
+#. Name for HIP 27949
+msgid "The northernmost [of these], over the head"
+msgstr "[這些的] 最北端，在頭頂上方"
+
+#. Name for HIP 24608
+#. Al-Ayyuq is a proper name meaning the obstructor
+msgid "The star on the left shoulder, called Al-Ayyuq"
+msgstr "左肩上的這顆星，稱為 Ayyuq"
+
+#. Name for HIP 28380
+msgid "The star on the right wrist"
+msgstr "右手腕上的星星"
+
+#. Name for HIP 23767
+#. kids here are the baby goats
+msgid ""
+"The rearmost of the two stars on the left wrist, which are called 'The two "
+"kids'"
+msgstr "左手腕兩顆星的最後面，稱為“兩個小孩”"
+
+#. Name for HIP 23453
+msgid "The more advanced of these"
+msgstr "這些中較前面的"
+
+#. Name for HIP 23015
+msgid "The star on the left ankle"
+msgstr "左腳踝上的星星"
+
+#. Name for HIP 25428
+msgid ""
+"The star on the right ankle, which is [applied in] common to the northern "
+"horn of Taurus"
+msgstr "右腳踝上的星星，也 [被當作] 是金牛座北角的共用點"
+
+#. Name for HIP 25984
+msgid "The one to the north of the latter, in the lower hem [of the garment]"
+msgstr "靠後者的北邊那顆，在[衣服的]下擺中"
+
+#. Name for HIP 25541
+msgid "The one north again of this, on the buttock"
+msgstr "這個往北的那顆，在屁股上"
+
+#. Name for HIP 23416
+msgid "The Goat"
+msgstr "山羊"
+
+#. Name for HIP 24608
+#. Al-Thurayya is a proper name
+msgid "Al-Thurayya Watcher"
+msgstr "Al-Thurayya 看守者"
+
+#. Name for HIP 24608
+#. Ayyuq Al-Thurayya is a proper name meaning the obstructor of Al-Thurayya
+msgid "Ayyuq Al-Thurayya"
+msgstr "Ayyuq Al-Thurayya"
+
+#. Name for HIP 24608
+msgid "The goats owner"
+msgstr "山羊的主人"
+
+#. Name for HIP 86742
+msgid "The more advanced of the two stars on the right shoulder"
+msgstr "右肩兩顆星中較前面的"
+
+#. Name for HIP 82673
+msgid "The more advanced of the two stars on the left shoulder"
+msgstr "左肩兩顆星中較前面的"
+
+#. Name for HIP 79593
+msgid "The more advanced of the two stars in the left hand"
+msgstr "左手兩顆星中較前面的"
+
+#. Name for HIP 88048
+msgid "The more advanced of the two stars in the right hand"
+msgstr "右手兩顆星中較前面的"
+
+#. Name for HIP 84893
+msgid "The star on the right lower leg"
+msgstr "右小腿上的恆星"
+
+#. Name for HIP 84405
+msgid "The most advanced of the four stars on the right foot"
+msgstr "右腳上四顆星中的最前面"
+
+#. Name for HIP 85340
+msgid "The one to the rear again of that"
+msgstr "偏向靠在那個後面的那顆"
+
+#. Name for HIP 64238
+msgid "The last and rearmost of the four"
+msgstr "四顆的最後一個"
+
+#. Name for HIP 86736
+msgid "The star to the rear of these, which touches the heel"
+msgstr "靠這些後面的星星，觸及腳後跟"
+
+#. Name for HIP 81377
+msgid "The star in the left knee"
+msgstr "左膝內的星星"
+
+#. Name for HIP 80894
+msgid ""
+"The northernmost of the three stars in a straight line in the left lower leg"
+msgstr "在左小腿內三顆在一條直線上的最北端"
+
+#. Name for HIP 4366
+msgid "The middle one of these"
+msgstr "這些中間的一顆"
+
+#. Name for HIP 26241
+msgid "The southernmost of the three"
+msgstr "三顆的最南端"
+
+#. Name for HIP 80473
+msgid "The star touching the hollow of the left foot"
+msgstr "觸及左腳凹處的星星"
+
+#. Name for HIP 88149
+msgid ""
+"The northernmost of the three that are on a straight line, to the east of "
+"the right shoulder"
+msgstr "在一條直線上三顆的最北端，靠右肩的東邊"
+
+#. Name for HIP 88601
+msgid "The star to the rear of these three, and over the middle one"
+msgstr "靠這三顆後面那顆星，並在中間那顆的上面"
+
+#. Name for HIP 88771
+msgid "The lone star north of these four"
+msgstr "這四顆北邊的孤星"
+
+#. Name for HIP 86032
+msgid "The [southern] shepherd"
+msgstr "[南方]牧羊人"
+
+#. Name for HIP 86742
+msgid "Second dog of the [southern] shepherd"
+msgstr "[南方]牧羊人的第二隻狗"
+
+#. Name for HIP 76852
+msgid "Stars on the quadrilateral in the head:  the one on the end of the jaw"
+msgstr "在頭部四邊形上的星星：下巴末端ㄕㄤ的這顆"
+
+#. Name for HIP 77661
+msgid "The one touching the nostrils"
+msgstr "碰到鼻孔的那顆"
+
+#. Name for HIP 78072
+msgid "The one in the temple"
+msgstr "寺院裡的那顆"
+
+#. Name for HIP 77233
+msgid "The one where the neck joins [the head]"
+msgstr "脖子連接 [腦袋] 的那顆"
+
+#. Name for HIP 77450
+msgid "The one in the middle of the quadrilateral, in the mouth"
+msgstr "在嘴裡，四邊形中間的那顆"
+
+#. Name for HIP 78554
+msgid "The star outside the head, to the north of it"
+msgstr "頭外的星星，靠它的北邊"
+
+#. Name for HIP 76276
+msgid "The one after the first bend in the neck"
+msgstr "脖子的第一次彎曲後的那顆"
+
+#. Name for HIP 77257
+msgid "The northernmost of the three following this"
+msgstr "在這之後的三顆中最北端"
+
+#. Name for HIP 77516
+msgid ""
+"The star after the next bend, which is in advance of the left hand of "
+"Ophiuchus"
+msgstr "下個彎曲後的星星，在蛇夫座左手之前"
+
+#. Name for HIP 80628
+msgid "The star to the rear of those in the hand of Ophiuchus"
+msgstr "靠蛇夫座手中這些星後面的那顆"
+
+#. Name for HIP 84880
+msgid "The one after the back of the right thigh of Ophiuchus"
+msgstr "在蛇夫座右大腿後側的後面那顆"
+
+#. Name for HIP 86263
+msgid "The southernmost of the two to the rear of the latter"
+msgstr "到後者的後方兩顆的最南端"
+
+#. Name for HIP 88175
+msgid "The one after the right hand [of Ophiuchus], on the bend in the tail"
+msgstr "[蛇夫座的]右手之後的那顆，在尾巴的彎曲處"
+
+#. Name for HIP 89962
+msgid "The one to the rear of this, likewise on the tail"
+msgstr "靠這個後面的那顆，同樣在尾巴上"
+
+#. Name for HIP 28103
+msgid "The star on the tip of the tail"
+msgstr "尾巴尖上的星星"
+
+#. Name for HIP 98337
+msgid "The lone star on the arrow-head"
+msgstr "箭頭上的孤星"
+
+#. Name for HIP 97496
+msgid "The rearmost of the three stars in the shaft"
+msgstr "箭桿中三顆星的最後面"
+
+#. Name for HIP 3885
+msgid "The most advanced of the three"
+msgstr "三顆中最前面的"
+
+#. Name for HIP 96837
+msgid "The star on the end of the notch"
+msgstr "缺口末端上的星星"
+
+#. Name for HIP 98823
+msgid "The star in the middle of the head"
+msgstr "頭中間的星星"
+
+#. Name for HIP 98036
+msgid "The one in advance of this, on the neck"
+msgstr "在這之前的那顆，在脖子上"
+
+#. Name for HIP 97649
+msgid ""
+"The bright star on the place between the shoulders, called The flying eagle"
+msgstr "兩肩之間那顆亮星，稱為飛鷹"
+
+#. Name for HIP 97938
+msgid "The one close to this towards the north"
+msgstr "靠近這顆朝北的那顆"
+
+#. Name for HIP 97278
+msgid "The more advanced of the two in the left shoulder"
+msgstr "左肩兩顆中較前面的"
+
+#. Name for HIP 96229
+msgid "The more advanced of the two in the right shoulder"
+msgstr "右肩兩顆中較前面的"
+
+#. Name for HIP 93747
+msgid ""
+"The star some distance under the tail of the eagle, touching the Milky Way"
+msgstr "老鷹尾巴的下方有點距離的恆星，接到銀河"
+
+#. Name for HIP 97804
+msgid "The more advanced of the two stars south of the head of the eagle"
+msgstr "老鷹頭部以南兩顆星中較前面的"
+
+#. Name for HIP 95501
+msgid "The star to the south and west of the right shoulder of the eagle"
+msgstr "老鷹右肩靠南側和西側的星星"
+
+#. Name for HIP 96468
+msgid "The one to the south of this"
+msgstr "靠這顆南方的那顆"
+
+#. Name for HIP 96483
+msgid "The one to the south again of the latter"
+msgstr "靠後者偏南的這顆"
+
+#. Name for HIP 93805
+msgid "The star most in advance of all"
+msgstr "最前面的星星"
+
+#. Name for HIP 101421
+msgid "The most advanced of the three stars in the tail"
+msgstr "尾巴上三顆星的最前面"
+
+#. Name for HIP 101769
+msgid ""
+"The southernmost one of the two on the advance side of the rhomboid "
+"quadrilateral"
+msgstr "菱形四邊形前側的兩顆中最南端的那顆"
+
+#. Name for HIP 3455
+msgid "The northernmost one on the advance side"
+msgstr "前進側上最北端的那顆"
+
+#. Name for HIP 102281
+msgid "The southernmost one on the rear side of the rhombus"
+msgstr "菱形背面最南端的那顆"
+
+#. Name for HIP 12390
+msgid "The northernmost one on the rear side"
+msgstr "背面的最北方那顆"
+
+#. Name for HIP 101589
+msgid "The northernmost of the three stars between the tail and the rhombus"
+msgstr "尾部和菱形之間三顆星的最北端"
+
+#. Name for HIP 101483
+msgid "The more advanced of the two other northern stars"
+msgstr "其他兩顆北星中較前面的"
+
+#. Name for HIP 101882
+msgid "The remaining, rearmost one"
+msgstr "剩下的，最後一顆"
+
+#. Name for HIP 104987
+msgid "The more advanced of the two stars in the head"
+msgstr "頭部兩顆星中比較前面的"
+
+#. Name for HIP 104521
+msgid "The more advanced of the two stars in the mouth"
+msgstr "嘴巴兩顆星中比較前面的"
+
+#. Name for HIP 677
+msgid ""
+"The star on the navel, which is [applied in] common to the head of Andromeda"
+msgstr "肚臍上的星星，也[被當作]是仙女座頭部的共用點"
+
+#. Name for HIP 1067
+msgid "The star on the rump and the wing-tip"
+msgstr "臀部和翼尖上的星星"
+
+#. Name for HIP 113881
+msgid "The star on the right shoulder and the place where the leg joins [it]"
+msgstr "右肩上的星星和腿連接[它]的地方"
+
+#. Name for HIP 113963
+msgid ""
+"The star on the place between the shoulders and the shoulder-part of the wing"
+msgstr "肩膀和雨翼肩部之間的星星"
+
+#. Name for HIP 115250
+msgid "The northernmost of the two stars in the body under the wing"
+msgstr "羽翼下身體內兩顆恆星的最北端"
+
+#. Name for HIP 112158
+msgid "The northernmost of the two stars in the right knee"
+msgstr "右膝內兩顆星的最北端"
+
+#. Name for HIP 112440
+msgid "The more advanced of the two stars close together in the chest"
+msgstr "胸中靠攏的兩顆星中較前面的"
+
+#. Name for HIP 112029
+msgid "The more advanced of the two stars close together in the neck"
+msgstr "脖子內靠攏的兩顆星中較前面的"
+
+#. Name for HIP 113186
+msgid "The southernmost of the two stars on the mane"
+msgstr "鬃毛上兩顆星的最南端"
+
+#. Name for HIP 109427
+msgid "The northernmost of the two stars close together on the head"
+msgstr "在頭上靠攏的兩顆星的最北端"
+
+#. Name for HIP 107315
+msgid "The star in the muzzle"
+msgstr "鼻口裡的星星"
+
+#. Name for HIP 109410
+msgid "The star in the right hock"
+msgstr "右踝關節內的星星"
+
+#. Name for HIP 107354
+msgid "The star in the left hock"
+msgstr "左踝關節內的星星"
+
+#. Name for HIP 3092
+msgid "The star in the place between the shoulders"
+msgstr "肩膀間的星星"
+
+#. Name for HIP 2912
+msgid "The star in the right shoulder"
+msgstr "右肩內的恆星"
+
+#. Name for HIP 3031
+msgid "The star in the left shoulder"
+msgstr "左肩內的恆星"
+
+#. Name for HIP 1473
+msgid "The southernmost of the three stars on the right upper arm"
+msgstr "右上臂三顆星的最南端"
+
+#. Name for HIP 116631
+msgid "The southernmost of the three stars on the right hand"
+msgstr "右手上三顆星的最南端"
+
+#. Name for HIP 5447
+msgid "The southernmost of the three stars over the girdle"
+msgstr "腰帶上三顆星的最南端"
+
+#. Name for HIP 9640
+msgid "The star over the left foot: called the caracal"
+msgstr "左腳上方的星星：稱為獰貓"
+
+#. Name for HIP 8068
+msgid "The star in the right foot"
+msgstr "右腳的星星"
+
+#. Name for HIP 7607
+msgid "The one south of the latter"
+msgstr "後者的南邊那顆"
+
+#. Name for HIP 7513
+msgid "The northernmost of the two stars on the left knee-bend"
+msgstr "左膝彎處兩顆星中最北端"
+
+#. Name for HIP 6999
+msgid "The northernmost of the two stars in the lower hem of the garment"
+msgstr "衣服下擺兩顆星的最北端"
+
+#. Name for HIP 113726
+msgid "The star in advance of the three in the right hand, outside [of it]"
+msgstr "右手三顆前面的星星，[它的] 外側"
+
+#. Name for HIP 5447
+msgid "Abdomen of the fish"
+msgstr "魚的腹部"
+
+#. Name for HIP 9640
+msgid "The caracal (first narrative)"
+msgstr "獰貓 (第一說)"
+
+#. Name for HIP 8796
+msgid "The star in the apex of the triangle"
+msgstr "三角形頂點的星星"
+
+#. Name for HIP 10064
+msgid "The most advanced of the three on the base"
+msgstr "基地上三顆的最前面"
+
+#. Name for HIP 8832
+msgid "The more advanced of the two stars on the horn"
+msgstr "角上兩顆星中較前面的"
+
+#. Name for HIP 10306
+msgid "The northernmost of the two stars on the muzzle"
+msgstr "鼻口上兩顆星的最北端"
+
+#. Name for HIP 9110
+msgid "The star on the neck"
+msgstr "脖子上的星星"
+
+#. Name for HIP 12332
+msgid "The star on the rump"
+msgstr "臀部上的星星"
+
+#. Name for HIP 13914
+msgid "The star on the place where the fatty tail joins [the body]"
+msgstr "胖尾巴連接[身體]處的星星"
+
+#. Name for HIP 14838
+msgid "The most advanced of the three stars in the fatty tail"
+msgstr "胖尾巴內三顆星的最前面"
+
+#. Name for HIP 13702
+msgid "The star in the back of the thigh"
+msgstr "大腿後側內的星星"
+
+#. Name for HIP 13327
+msgid "The star over the knee-bend"
+msgstr "膝蓋彎曲處的星星"
+
+#. Name for HIP 12832
+msgid "The star on the hind hoof"
+msgstr "後蹄上的星星"
+
+#. Name for HIP 9884
+msgid ""
+"The star over the head, which Hipparchus [calls] 'the one on the muzzle'"
+msgstr "頭上方的星星，喜帕恰斯[稱其為]“鼻口上的星星”"
+
+#. Name for HIP 13209
+msgid "The rearmost, which is brighter of the four stars over the rump"
+msgstr "最後面，臀部上方四顆星中較亮的"
+
+#. Name for HIP 13061
+msgid "The northernmost of the other three, fainter stars"
+msgstr "其他三顆較暗恆星的最北端"
+
+#. Name for HIP 12719
+msgid "The middle one of these three"
+msgstr "這三顆中間的那顆"
+
+#. Name for HIP 9884
+msgid "The butting [horn]"
+msgstr "牴 [角]"
+
+#. Name for HIP 16369
+msgid "The northernmost of the four stars in the cut-off"
+msgstr "處於切入位置四顆的最北端"
+
+#. Name for HIP 16322
+msgid "The one close by this"
+msgstr "靠近這個的那顆"
+
+#. Name for HIP 16083
+msgid "The one close again to the latter"
+msgstr "偏近後者的那顆"
+
+#. Name for HIP 15900
+msgid "The southernmost of the four"
+msgstr "四顆中最南端"
+
+#. Name for HIP 17771
+msgid "The one to the rear of the latter, on the right shoulder-blade"
+msgstr "後者的後方那顆，在右肩胛骨上"
+
+#. Name for HIP 18907
+msgid "The star on the right hock"
+msgstr "右踝關節上的星星"
+
+#. Name for HIP 20205
+msgid ""
+"The one on the nostrils of the stars in the face, resembling the Greek "
+"letter Λ"
+msgstr "臉部像鼻孔的星星的那個，類似希臘字母Λ"
+
+#. Name for HIP 20455
+msgid "The one between the latter and the northern eye"
+msgstr "在後者與北方眼睛中間的那顆"
+
+#. Name for HIP 20885
+msgid "The one between that latter itself and the southern eye"
+msgstr "在它後面與南方眼睛中間的那顆"
+
+#. Name for HIP 21421
+msgid ""
+"The bright star of the group of stars resembling the Arabic letter 'dal د', "
+"the reddish one on the southern eye"
+msgstr "形成像阿拉伯字母“dal د”群星中的一顆亮星，南方眼睛上微紅的那顆"
+
+#. Name for HIP 20889
+msgid "The remaining one, on the northern eye"
+msgstr "剩下的一顆，在北方眼睛上"
+
+#. Name for HIP 22565
+msgid ""
+"The star on the place where the southern horn and the ear join [the head]"
+msgstr "南角與耳朵連接 [頭部] 位置的星星"
+
+#. Name for HIP 23835
+msgid "The southernmost of the two stars on the southern horn"
+msgstr "南角上兩顆星的最南端"
+
+#. Name for HIP 23871
+msgid "The northernmost of these"
+msgstr "這些的最北端"
+
+#. Name for HIP 26451
+msgid "The star on the tip of the southern horn"
+msgstr "南角頂端的那顆星"
+
+#. Name for HIP 21881
+msgid "The star on the place where the northern horn joins [the head]"
+msgstr "北角連接 [頭部] 位置的星星"
+
+#. Name for HIP 25428
+msgid ""
+"The star on the tip of the northern horn, which is the same as the one on "
+"the right foot of Auriga"
+msgstr "北角尖端的星星，與御夫座右腳的星星是同一顆"
+
+#. Name for HIP 20711
+msgid "The northernmost of the two stars close together in the northern ear"
+msgstr "在北方耳朵靠在一起的兩顆恆星的最北端"
+
+#. Name for HIP 19038
+msgid "The more advanced of the two small stars in the neck"
+msgstr "脖子上兩顆小星星中比較前面的"
+
+#. Name for HIP 19513
+msgid ""
+"The southernmost star on the advance side of the four stars forming the "
+"quadrilateral in the neck"
+msgstr "在頸部形成四邊形四顆星的前側最南端的星星"
+
+#. Name for HIP 19205
+msgid "The northernmost star on the advance side"
+msgstr "前側最北端的星星"
+
+#. Name for HIP 20430
+msgid "The southernmost star on the rear side"
+msgstr "後側最南端的星星"
+
+#. Name for HIP 17573
+msgid "The Pleiades:  the northern end of the advance side"
+msgstr "昴宿星團：前側的北終點"
+
+#. Name for HIP 17499
+msgid "The southern end of the advance side [of the Pleiades]"
+msgstr "[昴宿星團] 前側的南終點"
+
+#. Name for HIP 17702
+msgid "The rearmost and narrowest end of the Pleiades"
+msgstr "昴宿星團ㄉㄜ最後和最窄端"
+
+#. Name for HIP 17847
+msgid "The small star outside the Pleiades, towards the north"
+msgstr "昴宿星團朝北方外側的小星星"
+
+#. Name for HIP 16852
+msgid "The star under the right foot and the ankle"
+msgstr "右腳和腳踝下面的星星"
+
+#. Name for HIP 23497
+msgid "The most advanced of the three stars over the southern horn"
+msgstr "南角三顆星的最前面"
+
+#. Name for HIP 25945
+msgid "The northernmost of the two stars under the tip of the southern horn"
+msgstr "南角尖端下方兩顆星的最北端"
+
+#. Name for HIP 26248
+msgid "The most advanced of the next five stars under the northern horn"
+msgstr "在北角下五顆星後的最前面"
+
+#. Name for HIP 27468
+msgid "The one to the rear again of the latter"
+msgstr "靠旁邊偏後的那顆"
+
+#. Name for HIP 27830
+msgid "The northernmost of the remaining, rearmost two"
+msgstr "剩下最後二顆的最北端"
+
+#. Name for HIP 28237
+msgid "The southernmost of these two"
+msgstr "這兩顆的最南端"
+
+#. Name for HIP 21421
+#. Al-Thurayya is a proper name
+msgid "The follower of Al-Thurayya"
+msgstr "Al-Thurayya 的跟隨者"
+
+#. Name for HIP 21421
+#. Al-Mijdah is a proper name meaning the star of rain or the fork referring to the shape of the Hyades
+msgid "Al-Mijdah"
+msgstr "Al-Mijdah"
+
+#. Name for HIP 21421
+msgid "The follower"
+msgstr "跟隨者"
+
+#. Name for HIP 21421
+msgid "The special camel"
+msgstr "特別的駱駝"
+
+#. Name for HIP 36850
+msgid "The star on the head of the advance twin"
+msgstr "前雙子頭上的星星"
+
+#. Name for HIP 37826
+msgid "The reddish star on the head of the rear twin"
+msgstr "後雙子頭上的微紅星星"
+
+#. Name for HIP 33018
+msgid "The star in the left forearm of the advance twin"
+msgstr "前雙子左前臂內的星星"
+
+#. Name for HIP 34693
+msgid "The star in the same [left] upper arm"
+msgstr "同一隻 [左] 上臂內的恆星"
+
+#. Name for HIP 36046
+msgid "The one to the rear of that, between the shoulders"
+msgstr "靠肩膀之間的後面那顆"
+
+#. Name for HIP 36962
+msgid ""
+"The one to the rear of this, on the right shoulder of the same [advance] twin"
+msgstr "靠同一隻 [前] 雙子右肩上的後面那顆"
+
+#. Name for HIP 37740
+msgid "The star on the rear shoulder of the rear twin"
+msgstr "後雙子的後肩膀上的星星"
+
+#. Name for HIP 35846
+msgid "The star on the right side of the advance twin"
+msgstr "前雙子的右側上的星星"
+
+#. Name for HIP 36238
+msgid "The star on the left side of the rear twin"
+msgstr "後雙子左側上的星星"
+
+#. Name for HIP 32246
+msgid "The star on the left knee of the advance twin"
+msgstr "前雙子左膝上的星星"
+
+#. Name for HIP 35550
+msgid "The star in the left side of the rear twin"
+msgstr "後雙子左側內的星星"
+
+#. Name for HIP 34088
+msgid "The star over the left knee of the rear twin"
+msgstr "後雙子左膝上方的星星"
+
+#. Name for HIP 35350
+msgid "The star over the bend in the right knee of the same [rear] twin"
+msgstr "同一個 [後面] 雙胞胎右膝彎曲處的星星"
+
+#. Name for HIP 29655
+msgid "The star in front of the left foot of the advance twin"
+msgstr "前雙子左腿前面的星星"
+
+#. Name for HIP 30343
+msgid "The one to the rear of this on the same foot"
+msgstr "靠同一條腿上這個的後面那顆"
+
+#. Name for HIP 30883
+msgid "The star on the right foot of the advance twin"
+msgstr "前雙子右腿上的星星"
+
+#. Name for HIP 31681
+msgid "The star on the left foot of the rear twin"
+msgstr "後雙子左腿上的星星"
+
+#. Name for HIP 32362
+msgid "The star on the right foot of the rear twin"
+msgstr "後雙子右腿上的星星"
+
+#. Name for HIP 28734
+msgid "The star in advance of the one in front of the foot of the advance twin"
+msgstr "靠前雙子腿前面那顆前面的星星"
+
+#. Name for HIP 29696
+msgid "The bright star in advance of the advance knee"
+msgstr "在前膝蓋之前的亮星"
+
+#. Name for HIP 32921
+msgid "The star in advance of the left knee of the rear twin"
+msgstr "在後雙子左膝之前的星星"
+
+#. Name for HIP 38722
+msgid ""
+"The northernmost of the three stars in a straight line to the rear of the "
+"right arm of the rear twin"
+msgstr "靠後雙子右臂後面三顆在一直線上的星星的最北端"
+
+#. Name for HIP 37300
+msgid "The southernmost of them, near the forearm of the [right] arm"
+msgstr "靠近[右]前臂星星的最南端，"
+
+#. Name for HIP 40167
+msgid "The bright star to the rear of the above-mentioned three"
+msgstr "靠上述三顆星後面的那顆亮星"
+
+#. Name for HIP 41909
+msgid ""
+"The northernmost of the two stars in advance of the quadrilateral containing "
+"the nebula"
+msgstr "在包含星雲的四邊形之前兩顆恆星的最北端"
+
+#. Name for HIP 41822
+msgid "The southernmost of the two stars in advance"
+msgstr "在前面二顆星的最南端"
+
+#. Name for HIP 42806
+msgid ""
+"The northernmost of the rear two stars on the quadrilateral, which are "
+"called 'Aselli'"
+msgstr "四邊形後兩顆星中最北端，稱為“Aselli”"
+
+#. Name for HIP 44066
+msgid "The star on the southern claw"
+msgstr "南爪上的星星"
+
+#. Name for HIP 43103
+msgid "The star on the northern claw"
+msgstr "北爪上的星星"
+
+#. Name for HIP 39780
+msgid "The star on the northern back leg"
+msgstr "北後腿上的星星"
+
+#. Name for HIP 40526
+msgid "The star on the southern back leg"
+msgstr "南後腿上的星星"
+
+#. Name for HIP 45410
+msgid "The star over the joint in the southern claw"
+msgstr "南爪連接處上方的星星"
+
+#. Name for HIP 44798
+msgid "The star to the rear of the tip of the southern claw"
+msgstr "靠南爪尖端後面的星星"
+
+#. Name for HIP 44405
+msgid ""
+"The more advanced of the two stars over the nebula and to the rear of it"
+msgstr "在星雲上方和它後面的兩顆星中較前面的"
+
+#. Name for HIP 44946
+msgid "The rearmost of these [two]"
+msgstr "這些[二顆]恆星的最後面"
+
+#. Name for HIP 13954
+msgid "The star on the tip of the nostrils"
+msgstr "鼻尖上的星星"
+
+#. Name for HIP 46750
+msgid "The star in the gaping jaws"
+msgstr "張大嘴裡的星星"
+
+#. Name for HIP 48455
+msgid "The northernmost of the two stars in the head"
+msgstr "頭內兩顆星的最北端"
+
+#. Name for HIP 50335
+msgid "The northernmost of the three stars in the neck"
+msgstr "脖內三顆星的最北端"
+
+#. Name for HIP 50583
+msgid "The one close to this, the middle one of the three"
+msgstr "靠近三顆中間顆的那顆"
+
+#. Name for HIP 49669
+msgid "The star on the heart, called 'Regulus' and it is the lion heart"
+msgstr "獅子心臟上的星星，叫做 ‘Regulus’，"
+
+#. Name for HIP 49637
+msgid "The one south of this, about on the chest"
+msgstr "大約在胸前這個南邊的那顆"
+
+#. Name for HIP 48883
+msgid "The star a little in advance of the star on the heart"
+msgstr "比心上的星星稍微前面一點的星星"
+
+#. Name for HIP 46771
+msgid "The star on the right front claw-clutch"
+msgstr "右前爪上的星星"
+
+#. Name for HIP 47508
+msgid "The star on the left front claw-clutch"
+msgstr "左前爪上的星星"
+
+#. Name for HIP 49029
+msgid "The star on the left [front] knee"
+msgstr "左[前]膝上的星星"
+
+#. Name for HIP 51624
+msgid "The star on the left armpit"
+msgstr "左腋窩上的星星"
+
+#. Name for HIP 51585
+msgid "The most advanced of the three stars in the belly"
+msgstr "肚子內三顆星的最前面"
+
+#. Name for HIP 52689
+msgid "The northernmost of the other, rearmost two"
+msgstr "最後端其他兩顆的最北端"
+
+#. Name for HIP 52911
+msgid "The southernmost of these [two]"
+msgstr "這些[二顆]星的最南端"
+
+#. Name for HIP 53954
+msgid "The more advanced of the two stars on the rump"
+msgstr "尾部兩顆星中較前面的"
+
+#. Name for HIP 55765
+msgid "The northernmost of the two stars in the buttocks"
+msgstr "臀部內兩顆星的最北端"
+
+#. Name for HIP 55642
+msgid "The star in the hind thighs"
+msgstr "後大腿內的星星"
+
+#. Name for HIP 55434
+msgid "The star in the hind leg-bends"
+msgstr "後腿彎曲處的星星"
+
+#. Name for HIP 55084
+msgid "The one south of this, about in the lower legs"
+msgstr "大約在小腿上這個南邊的那顆"
+
+#. Name for HIP 56647
+msgid "The star on the hind claw-clutches"
+msgstr "後前爪上的星星"
+
+#. Name for HIP 57632
+msgid "The star on the end of the tail"
+msgstr "尾巴末端上的星星"
+
+#. Name for HIP 52457
+msgid "The more advanced of the two over the back"
+msgstr "後面上方兩顆的比較前面的"
+
+#. Name for HIP 54182
+msgid "The northernmost of the three under the flank"
+msgstr "側翼下方三顆的最北端"
+
+#. Name for HIP 60742
+msgid ""
+"The northernmost part of the nebulous mass between the edges of Leo and Ursa "
+"[Major], called Coma [Berenices]"
+msgstr "獅子和大熊[座] 邊界之間的星雲的最北端，稱為后髮[座]"
+
+#. Name for HIP 59847
+msgid "The most advanced of the southern outrunners of Coma"
+msgstr "后髮南方的最前面"
+
+#. Name for HIP 61394
+msgid "The rearmost of them, shaped like an ivy leaf"
+msgstr "形狀像常春藤葉片的最後一個"
+
+#. Name for HIP 57632
+msgid "Star of weather change"
+msgstr "季節變化之星"
+
+#. Name for HIP 57380
+msgid "The southernmost of the two stars in the top of the skull"
+msgstr "頭骨頂部兩顆星的最南端"
+
+#. Name for HIP 58948
+msgid "The northernmost of the two stars to the rear of these, in the face"
+msgstr "在臉部後方兩顆星的最北端"
+
+#. Name for HIP 57757
+msgid "The star on the tip of the southern, left wing"
+msgstr "南方左翼尖端上的星星"
+
+#. Name for HIP 60129
+msgid "The most advanced of the four stars in the left wing"
+msgstr "左翼內四顆星的最前面"
+
+#. Name for HIP 63494
+msgid "The one to the rear again of this"
+msgstr "偏這個後面的那顆"
+
+#. Name for HIP 63090
+msgid "The star in the right side under the girdle"
+msgstr "束帶下方右側的星星"
+
+#. Name for HIP 61960
+msgid "The most advanced of the three stars in the right, northern wing"
+msgstr "右邊北翼內三顆星的最前面"
+
+#. Name for HIP 62267
+msgid "The southernmost of the other two"
+msgstr "其他兩顆的最南端"
+
+#. Name for HIP 63608
+msgid "The northernmost of these, called 'Vindemiatrix'"
+msgstr "稱作 'Vindemiatrix' 星星的最北端"
+
+#. Name for HIP 65474
+#. The armless high one is the Arabic name for Spica
+msgid ""
+"The star on the left hand, called 'Spica', and it is The armless high one"
+msgstr "左手上的星星，稱為 'Spica'，它是無武裝的高個"
+
+#. Name for HIP 66249
+msgid "The star under the apron just about over the right buttock"
+msgstr "裙擺下方的星星剛好在右臀部上方"
+
+#. Name for HIP 66006
+msgid ""
+"The northern star on the advance side of the quadrilateral in the left thigh"
+msgstr "左大腿內四邊形前側上的北星"
+
+#. Name for HIP 24327
+msgid "The southern star on the advance side"
+msgstr "在前側上的南星"
+
+#. Name for HIP 66803
+msgid "The northernmost of the two stars on the rear side"
+msgstr "後側上兩顆星的最北端"
+
+#. Name for HIP 67929
+msgid "The star in the back of the right thigh"
+msgstr "右大腿後側內的星星"
+
+#. Name for HIP 69701
+msgid "The middle star of the three in the garment-hem round the feet"
+msgstr "衣服下擺腳周圍內三顆的中間星星"
+
+#. Name for HIP 69974
+msgid "The star on the left, southern foot"
+msgstr "南邊左腳上的星星"
+
+#. Name for HIP 71957
+msgid "The star on the right, northern foot"
+msgstr "北方右腳上的星星"
+
+#. Name for HIP 61740
+msgid ""
+"The most advanced of the three in a straight line under the left forearm"
+msgstr "左前臂下方在一直線的三顆的最前面"
+
+#. Name for HIP 64407
+msgid ""
+"The most advanced of the three stars almost on a straight line under Spica"
+msgstr "角宿一下方幾乎在一條直線上的三顆星的最前面"
+
+#. Name for HIP 64924
+msgid "The middle one of these, which is a double star"
+msgstr "這些的中間那顆，它是雙星"
+
+#. Name for HIP 72622
+msgid "The brighter one of the two stars on the tip of the southern claw"
+msgstr "南爪尖端上兩顆星中較亮的那顆"
+
+#. Name for HIP 72489
+msgid "The northern one and fainter of the two"
+msgstr "北方的那顆和兩顆中較暗的"
+
+#. Name for HIP 74785
+msgid "The brighter one of the two stars on the tip of the northern claw"
+msgstr "北爪尖端上兩顆星中較亮的那顆"
+
+#. Name for HIP 73473
+msgid "The advanced one and fainter of the two"
+msgstr "前面的那顆和兩顆中較暗的"
+
+#. Name for HIP 74392
+msgid "The star in the middle of the southern claw"
+msgstr "南爪中間的星星"
+
+#. Name for HIP 73945
+msgid "The one in advance of this on the same claw"
+msgstr "在同一隻爪上這個的前面那顆"
+
+#. Name for HIP 76333
+msgid "The star in the middle of the northern claw"
+msgstr "北爪中間的星星"
+
+#. Name for HIP 77853
+msgid "The one to the rear of this on the same claw"
+msgstr "在同一隻爪上這個的後面那顆"
+
+#. Name for HIP 76219
+msgid "The most advanced of the three stars north of the northern claw"
+msgstr "北爪北方三顆星的最前面"
+
+#. Name for HIP 78207
+msgid "The southernmost of the rearmost two [of these]"
+msgstr "[這些的]最後兩顆的最南端"
+
+#. Name for HIP 77811
+msgid "The rearmost of the three stars between the claws"
+msgstr "爪子中間三顆星的最後面"
+
+#. Name for HIP 77060
+msgid "The northernmost of the other two in advance [of the latter]"
+msgstr "[後者的] 前面兩顆的最北端"
+
+#. Name for HIP 73714
+msgid "The most advanced of the three stars south of the southern claw"
+msgstr "南爪南方三顆星的最前面"
+
+#. Name for HIP 76470
+msgid "The northernmost of the other, rear two"
+msgstr "後邊其他兩顆的最北端"
+
+#. Name for HIP 78820
+msgid "The northernmost of the three bright stars in the forehead"
+msgstr "額頭三顆亮星中最北端"
+
+#. Name for HIP 78104
+msgid "The star south again of this, on one of the legs"
+msgstr "某隻腿上偏南方的星星"
+
+#. Name for HIP 79374
+msgid ""
+"The northernmost of the two stars adjacent to the northernmost of the three "
+"bright ones"
+msgstr "兩顆星中最北端與三顆亮星中最北端相鄰"
+
+#. Name for HIP 80112
+msgid "The most advanced of the three bright stars in the body"
+msgstr "體內三顆亮星的最前面"
+
+#. Name for HIP 80763
+msgid ""
+"The middle one of these, which is reddish and called 'Heart of the scorpion'"
+msgstr "中間的這顆，呈紅色且被稱為“蝎子之心”"
+
+#. Name for HIP 79404
+msgid "The advance star of the two under these, approximately on the last legs"
+msgstr "大約在後腿下方兩顆星之前"
+
+#. Name for HIP 79881
+msgid "The rearmost of these"
+msgstr "這些的最後端"
+
+#. Name for HIP 82396
+msgid "The star in the first tail-joint from the body"
+msgstr "在第一條尾巴連接身體內的星星"
+
+#. Name for HIP 82514
+msgid "The one after this, in the second joint"
+msgstr "在第二節之後的那顆"
+
+#. Name for HIP 82729
+msgid "The northern star of the double-star in the third joint"
+msgstr "在第三節內雙星的北星"
+
+#. Name for HIP 82671
+msgid "The southern star of the double-star"
+msgstr "雙星的南星"
+
+#. Name for HIP 84143
+msgid "The one following, in the forth joint"
+msgstr "接著前一節的那顆"
+
+#. Name for HIP 86228
+msgid "The one after that, in the fifth joint"
+msgstr "在第五節之後的那顆"
+
+#. Name for HIP 87073
+msgid "The next one again, in the sixth joint"
+msgstr "在偏第六節的下一顆"
+
+#. Name for HIP 86670
+msgid "The star in the seventh joint, the joint next to the sting"
+msgstr "接著刺的第七節內的星星"
+
+#. Name for HIP 85927
+msgid "The rearmost of the two stars in the sting"
+msgstr "刺上兩顆星的最後一顆"
+
+#. Name for HIP 87261
+msgid "The nebulous star to the rear of the sting"
+msgstr "靠刺後面的模糊星星"
+
+#. Name for HIP 85423
+msgid "The most advanced of the two stars to the north of the sting"
+msgstr "靠刺北方兩顆星的最前面"
+
+#. Name for HIP 88635
+msgid "The star on the point of the arrow"
+msgstr "箭頭處的星星"
+
+#. Name for HIP 89931
+msgid "The star in the bow-grip held by the left hand"
+msgstr "左手握著弓把處的星星"
+
+#. Name for HIP 90185
+msgid "The star in the southern portion of the bow"
+msgstr "在弓的南半部內的星星"
+
+#. Name for HIP 90496
+msgid "The southernmost of the two stars in the northern portion of the bow"
+msgstr "在弓的北半部內兩顆星的最南端"
+
+#. Name for HIP 89341
+msgid "The northernmost of these, on the tip of the bow"
+msgstr "在弓的尖端上的最北端"
+
+#. Name for HIP 92041
+msgid "The one in advance of this, on the arrow"
+msgstr "在箭頭的前方那顆"
+
+#. Name for HIP 92761
+msgid "The star on the eye, which is nebulous and double"
+msgstr "這顆星在眼睛，它是模糊的而且是雙星"
+
+#. Name for HIP 93085
+msgid "The most advanced of the three stars in the head"
+msgstr "在頭部三顆星的最前面"
+
+#. Name for HIP 94820
+msgid "The southernmost of the three stars in the northern cloak-attachment"
+msgstr "在北斗篷內三顆星的最南端"
+
+#. Name for HIP 96950
+msgid "The faint star to the rear of these three"
+msgstr "靠這三顆後面的暗星"
+
+#. Name for HIP 98258
+msgid "The northernmost of the two stars on the southern cloak-attachment"
+msgstr "在南斗篷內兩顆星的最北端"
+
+#. Name for HIP 94643
+msgid "The one between the shoulders of the three stars in the back"
+msgstr "在背部三顆星的肩膀之間的那顆"
+
+#. Name for HIP 93864
+msgid "The middle one, on the shoulder-blade"
+msgstr "在肩胛骨上中間那顆"
+
+#. Name for HIP 93506
+msgid "The other one, under the armpit"
+msgstr "在腋下的另一顆"
+
+#. Name for HIP 95241
+msgid "The star on the front left hock"
+msgstr "左前踝關節上的星星"
+
+#. Name for HIP 95347
+msgid "The one on the knee of the same leg"
+msgstr "同一條腿膝蓋上的那顆"
+
+#. Name for HIP 89642
+msgid "The star on the front right hock"
+msgstr "右前踝關節上的星星"
+
+#. Name for HIP 98412
+msgid "The star on the left thigh"
+msgstr "左大腿上的星星"
+
+#. Name for HIP 98032
+msgid "The star on the right hind lower leg"
+msgstr "右後小腿上的星星"
+
+#. Name for HIP 98066
+msgid ""
+"The advance star on the northern side of the four stars [forming a "
+"quadrilateral] in the place where the tail joins [the body]"
+msgstr "在尾部連接 [身體] 的地方 [形成矩形] 的四顆星的北側前面"
+
+#. Name for HIP 98353
+msgid "The rear star on the northern side"
+msgstr "在北側上後面的星星"
+
+#. Name for HIP 29038
+msgid "The advance star on the southern side"
+msgstr "在南側上前面的星星"
+
+#. Name for HIP 98688
+msgid "The rear star on the southern side"
+msgstr "在南側上後面的星星"
+
+#. Name for HIP 100027
+msgid "The northernmost of the three stars in the rear horn"
+msgstr "在後角內三顆星的最北端"
+
+#. Name for HIP 99572
+msgid "The star on the tip of the advance horn"
+msgstr "前角尖端上的星星"
+
+#. Name for HIP 101123
+msgid "The southernmost of the three stars in the muzzle"
+msgstr "鼻口內三顆星的最南端"
+
+#. Name for HIP 100881
+msgid "The more advanced of the other two"
+msgstr "其他兩顆中較前面的"
+
+#. Name for HIP 100195
+msgid "The star in advance of the three, under the right eye"
+msgstr "右眼下方三顆星的前面星星"
+
+#. Name for HIP 34045
+msgid "The northernmost of the two stars in the neck"
+msgstr "脖子內兩顆星的最北端"
+
+#. Name for HIP 102485
+msgid "The star under the right knee"
+msgstr "右膝下方的星星"
+
+#. Name for HIP 102978
+msgid "The star on the left, doubled-up knee"
+msgstr "雙膝左邊上的星星"
+
+#. Name for HIP 105881
+msgid "The more advanced of the two stars close together under the belly"
+msgstr "肚子下方靠攏的兩顆星中較前面的"
+
+#. Name for HIP 104963
+msgid "The rearmost of the three stars in the middle of the body"
+msgstr "身體中間三顆星的最後面"
+
+#. Name for HIP 104365
+msgid "The fainter of the other, advance two"
+msgstr "其他兩顆之前的暗星"
+
+#. Name for HIP 104139
+msgid "The more advanced of the two stars in the back"
+msgstr "背上兩顆星中比較前面的"
+
+#. Name for HIP 106723
+msgid "The more advanced of the two stars in the southern spine"
+msgstr "南方脊椎兩顆星中較前面的"
+
+#. Name for HIP 106985
+msgid ""
+"The more advanced of the two stars in the section [of the body] next to the "
+"tail"
+msgstr "在尾部旁邊 [身體的] 部分兩顆星中較前面的"
+
+#. Name for HIP 107095
+msgid "The most advanced of the four stars on the northern portion of the tail"
+msgstr "尾巴北部四顆星中最前面的"
+
+#. Name for HIP 108036
+msgid "The southernmost of the other three"
+msgstr "其他三顆的最南端"
+
+#. Name for HIP 107382
+msgid "The northernmost of them, on the end of the tail-fin"
+msgstr "尾鰭末端中的最北端"
+
+#. Name for HIP 100310
+msgid "The sheep of the lucky star of the slaughterer"
+msgstr "屠夫幸運星的信徒"
+
+#. Name for HIP 106944
+msgid "The star on the head of Aquarius"
+msgstr "寶瓶座頭上的星星"
+
+#. Name for HIP 109074
+msgid "The brighter of the two stars in the right shoulder"
+msgstr "右肩兩顆星中較亮的"
+
+#. Name for HIP 108874
+msgid "The fainter one, under it"
+msgstr "在它下面的暗星"
+
+#. Name for HIP 106786
+msgid "The one under that, in the back, approximately under the armpit"
+msgstr "在背部，大約在腋下的那顆"
+
+#. Name for HIP 103401
+msgid "The rearmost of the three stars in the left arm, on the coat"
+msgstr "外套上左臂三顆星的最後面"
+
+#. Name for HIP 110395
+msgid "The star in the right forearm"
+msgstr "右前臂上的星星"
+
+#. Name for HIP 110672
+msgid "The northernmost of the three stars on the right hand"
+msgstr "右手上三顆星的最北端"
+
+#. Name for HIP 110960
+msgid "The more advanced of the other two to the south"
+msgstr "其他兩顆靠南方的比較前面的"
+
+#. Name for HIP 110003
+msgid ""
+"The more advanced of the two stars close together in the hollow of the right "
+"hip"
+msgstr "在右髖關節的凹陷處靠在一起兩顆星中較前面的"
+
+#. Name for HIP 111123
+msgid "The star on the right buttock"
+msgstr "右邊屁股上的星星"
+
+#. Name for HIP 109139
+msgid "The southernmost of the two stars in the left buttock"
+msgstr "左臀部兩顆星的最南端"
+
+#. Name for HIP 113136
+msgid "The southernmost of the two stars in the right lower leg"
+msgstr "右小腿內兩顆星的最南端"
+
+#. Name for HIP 112716
+msgid "The northernmost of them, under the knee-bend"
+msgstr "他們的最北處，在膝蓋彎曲之下"
+
+#. Name for HIP 110778
+msgid "The star in the back of the left thigh"
+msgstr "左大腿後側內的星星"
+
+#. Name for HIP 112529
+msgid "The southernmost of the two stars in the left lower leg"
+msgstr "左小腿內兩顆星的最南端"
+
+#. Name for HIP 112211
+msgid "The northernmost of these, under the knee"
+msgstr "在膝蓋下方這些星的最北端"
+
+#. Name for HIP 112961
+msgid ""
+"The stars on the flow of water:  the most advanced [in the section] "
+"beginning at the hand"
+msgstr "流水上的星星：從手 [部] 開始的最前面"
+
+#. Name for HIP 113996
+msgid "The one next to the latter towards the south"
+msgstr "靠近後者朝南的那顆"
+
+#. Name for HIP 114724
+msgid "The one next to this, after [the beginning of] the water bend"
+msgstr "這顆旁邊的那顆，在水道 [開始] 彎曲之後"
+
+#. Name for HIP 114855
+msgid "The one in the bend to the south of this"
+msgstr "在這個南方彎曲處的那顆"
+
+#. Name for HIP 115033
+msgid "The northernmost of the two stars to the south of this"
+msgstr "靠這南邊兩顆星的最北端"
+
+#. Name for HIP 115115
+msgid "The southernmost of the two"
+msgstr "這兩顆的最南端"
+
+#. Name for HIP 115404
+msgid "The lone star at some distance from these [two] towards the south"
+msgstr "離這 [兩顆] 向南有一段距離的孤星"
+
+#. Name for HIP 116758
+msgid "The more advanced of the two stars close together after the latter"
+msgstr "在後者後面靠在一起的兩顆星中較前面的"
+
+#. Name for HIP 116901
+msgid "The northernmost of the three stars in the next bend group"
+msgstr "在下一群彎曲處中三顆星的最北端的"
+
+#. Name for HIP 115438
+msgid "The northernmost of the next three [arranged] likewise"
+msgstr "接下來三顆相似 [排列] 的最北端"
+
+#. Name for HIP 114119
+msgid "The most advanced of the three stars in the remaining bend group"
+msgstr "剩餘彎曲組中三顆星的最前面"
+
+#. Name for HIP 113368
+msgid "The star at the end of the water and on the mouth of Piscis Austrinus"
+msgstr "流水的盡頭和南魚座嘴上的星星"
+
+#. Name for HIP 301
+msgid ""
+"The most advanced of the three stars to the rear of the bend in the water"
+msgstr "靠近水道彎曲後方三顆星的最前面"
+
+#. Name for HIP 113368
+msgid "The first frog"
+msgstr "首隻青蛙"
+
+#. Name for HIP 113368
+msgid "The male ostrich"
+msgstr "公鴕鳥"
+
+#. Name for HIP 113889
+msgid "The star in the mouth of the advance fish"
+msgstr "前魚嘴內的星星"
+
+#. Name for HIP 114971
+msgid "The southernmost of the two stars in the top of its head"
+msgstr "它頭頂兩顆星的最南端"
+
+#. Name for HIP 115738
+msgid "The more advanced of the two stars in the belly"
+msgstr "肚子兩顆星中比較前面的"
+
+#. Name for HIP 118268
+msgid "The star in the tail of the same [advance] fish"
+msgstr "同一隻[前]魚尾的星星"
+
+#. Name for HIP 1645
+msgid "The first after the tail of the stars forming its fishing-line"
+msgstr "星星尾部成魚線後的第一顆"
+
+#. Name for HIP 3786
+msgid "The most advanced of the three following stars"
+msgstr "以下三顆星的最前面"
+
+#. Name for HIP 5346
+msgid "The northernmost of the two small stars under these, in the bend"
+msgstr "在彎曲處，在這些下面的兩顆小星星中的最北端"
+
+#. Name for HIP 7007
+msgid "The most advanced of the three stars after the bend"
+msgstr "在彎曲後方的三顆星中最前面的"
+
+#. Name for HIP 9487
+msgid "The star on the knot joining the two fishing-lines"
+msgstr "兩條魚線連結處上的星星"
+
+#. Name for HIP 8198
+msgid ""
+"The first in the section beginning at the knot of the stars in the northern "
+"fishing-line"
+msgstr "北方星星魚線連結處開始的第一顆"
+
+#. Name for HIP 7535
+msgid "The southernmost of the three stars following after that"
+msgstr "緊隨其後的三顆星的最南端"
+
+#. Name for HIP 6706
+msgid "The northernmost of the three, which is also on the end of the tail"
+msgstr "這個也在尾巴末端中三顆的最北端"
+
+#. Name for HIP 5544
+msgid "The northernmost of the two stars in the mouth of the rear fish"
+msgstr "後魚嘴中兩顆星的最北端"
+
+#. Name for HIP 4510
+msgid "The rearmost of the three small stars in the head"
+msgstr "頭上三顆小星星的最後面"
+
+#. Name for HIP 5131
+msgid ""
+"The most advanced of the three stars on the spine in the back, following [i."
+"e. to the rear of] the star on the elbow of Andromeda"
+msgstr "背部脊椎上三顆星的最前面，緊隨仙女座手肘上 [也就是後面] 的星星"
+
+#. Name for HIP 6193
+msgid "The northernmost of the two stars in the belly"
+msgstr "肚子兩顆星的最北端"
+
+#. Name for HIP 5571
+msgid "The star in the rear spine, near the tail"
+msgstr "後脊椎靠近尾巴的星星"
+
+#. Name for HIP 118209
+msgid ""
+"The more advanced of the two northern stars of the quadrilateral under the "
+"advance fish"
+msgstr "在前魚下方矩形北邊兩顆星中較前面的"
+
+#. Name for HIP 154
+msgid "The more advanced star on the southern side"
+msgstr "南側上較前面的星星"
+
+#. Name for HIP 443
+msgid "The rearmost one on the southern side"
+msgstr "南側上最後面的星星"
+
+#. Name for HIP 14135
+msgid "The rearmost, on the end of the jaw of the three stars in the snout"
+msgstr "口鼻三顆星的下頜末端的最後面"
+
+#. Name for HIP 12706
+msgid "The middle one, in the middle of the mouth"
+msgstr "在嘴中間的中間那顆"
+
+#. Name for HIP 12387
+msgid "The most advanced of the three, on the cheek"
+msgstr "在臉頰上三顆星的最前面"
+
+#. Name for HIP 11484
+msgid "The star on the eyebrow and the eye"
+msgstr "在眉毛和眼睛上的星星"
+
+#. Name for HIP 12828
+msgid "The one to the north of this, about on the hair"
+msgstr "大約在頭髮上，靠這北邊的那顆"
+
+#. Name for HIP 10324
+msgid "The one in advance of these, about on the mane"
+msgstr "大約在鬃毛上這些星星之前的那顆"
+
+#. Name for HIP 11345
+msgid ""
+"The northernmost star on the advance side of the quadrilateral in the chest"
+msgstr "胸中四邊形前側最北端的星星"
+
+#. Name for HIP 3436
+msgid "The southernmost one on the advance side"
+msgstr "在前側上最南端的那顆"
+
+#. Name for HIP 3849
+msgid "The southernmost one on the rear side"
+msgstr "在後側上最南端的那顆"
+
+#. Name for HIP 8102
+msgid "The midmost of the three stars in the body"
+msgstr "在身體內三顆星的最中間"
+
+#. Name for HIP 6537
+msgid "The rearmost of the two stars by the section next to the tail"
+msgstr "鄰近尾巴部分旁邊兩顆星的最後面"
+
+#. Name for HIP 3909
+msgid ""
+"The northernmost star on the rear side of the quadrilateral in the section "
+"next to the tail"
+msgstr "靠近尾巴部分的四邊形後側最北端的星星"
+
+#. Name for HIP 1562
+msgid ""
+"The one on the northern tail-fin of the two stars at the ends of the tail-"
+"fins"
+msgstr "尾鰭末端兩顆星的北尾鰭上的那顆"
+
+#. Name for HIP 3419
+msgid "The one on the end of the southern tail-fin"
+msgstr "南尾鰭末端的那顆"
+
+#. Name for HIP 3419
+msgid "The second frog"
+msgstr "青蛙 2"
+
+#. Name for HIP 26207
+msgid "The nebulous star in the head of Orion, the three close stars"
+msgstr "獵戶座頭頂的模糊星，三顆距離很近的星"
+
+#. Name for HIP 27989
+msgid "The bright, reddish star on the right shoulder"
+msgstr "右肩上那顆明亮的紅色星星"
+
+#. Name for HIP 25813
+msgid "The one under this to the rear"
+msgstr "靠後面下方的那顆"
+
+#. Name for HIP 29426
+msgid ""
+"The rear, double star on the southern side of the quadrilateral in the right "
+"hand"
+msgstr "右手四邊形南側後面的雙星"
+
+#. Name for HIP 29704
+msgid "The rear one on the northern side"
+msgstr "在北側上後面那顆"
+
+#. Name for HIP 29434
+msgid "The advance one on the northern side"
+msgstr "在北側上前面那顆"
+
+#. Name for HIP 27913
+msgid "The more advanced of the two stars in the staff"
+msgstr "桿中兩顆星中比較前面的"
+
+#. Name for HIP 26594
+msgid ""
+"The rearmost of the four stars almost on a straight line just over the back"
+msgstr "剛好在後面四顆幾乎在一條直線上的星星的最後面"
+
+#. Name for HIP 13701
+msgid "The one in advance again of this"
+msgstr "偏向這個前面的那顆"
+
+#. Name for HIP 25142
+msgid "The last and most advanced of the four"
+msgstr "四顆的最後和最前面的"
+
+#. Name for HIP 24010
+msgid "The northernmost of the nine stars in the pelt on the left arm"
+msgstr "左臂上毛披肩中九顆星的最北端"
+
+#. Name for HIP 23607
+msgid "The second from the northernmost"
+msgstr "從最北端數來的第二顆"
+
+#. Name for HIP 22957
+msgid "The third from the northernmost"
+msgstr "從最北端數來的第三顆"
+
+#. Name for HIP 22845
+msgid "The fourth from the northernmost"
+msgstr ""
+
+#. Name for HIP 22509
+msgid "The fifth from the northernmost"
+msgstr "從最北端數來的第五顆"
+
+#. Name for HIP 22449
+msgid "The sixth from the northernmost"
+msgstr "從最北端數來的第六顆"
+
+#. Name for HIP 22549
+msgid "The seventh from the northernmost"
+msgstr "從最北端數來的第七顆"
+
+#. Name for HIP 22797
+msgid "The eighth from the northernmost"
+msgstr "從最北端數來的第八顆"
+
+#. Name for HIP 23123
+msgid "The last and southernmost of those in the pelt"
+msgstr "毛披肩這些的最南端和最後一顆"
+
+#. Name for HIP 25930
+msgid "The most advanced of the three stars on the belt"
+msgstr "腰帶上三顆星的最前面"
+
+#. Name for HIP 25281
+msgid "The star near the handle of the dagger"
+msgstr "匕首把柄附近的星星"
+
+#. Name for HIP 26237
+msgid ""
+"The northernmost of the three stars joined together at the tip of the dagger"
+msgstr "三顆連接匕首尖端星星的最北端"
+
+#. Name for HIP 26563
+msgid "The rearmost of the two stars under the tip of the dagger"
+msgstr "二顆匕首尖端下方星星的最後一顆"
+
+#. Name for HIP 24436
+msgid ""
+"The bright star in the left foot, which is [applied in] common to the water "
+"[of Eridanus]"
+msgstr "左腳的亮星，也[被當作]是[波江座]水面的共用點"
+
+#. Name for HIP 24674
+msgid "The star to the north of it in the lower leg, over the ankle-joint"
+msgstr "在踝關節上方靠小腿以北的星星"
+
+#. Name for HIP 25247
+msgid "The star under the left heel, outside"
+msgstr "左腳後跟外側下方的星星，"
+
+#. Name for HIP 27366
+msgid "The star under the right, rear knee"
+msgstr "右後膝蓋下方的星星"
+
+#. Name for HIP 27989
+#. Al-Jawza is a proper Arabic name of Orion
+msgid "Shoulder of Al-Jawza"
+msgstr "Al-Jawza 的肩膀"
+
+#. Name for HIP 27989
+#. Al-Jawza is a proper Arabic name of Orion
+msgid "Hand of Al-Jawza"
+msgstr "Al-Jawza 的手"
+
+#. Name for HIP 24436
+#. Al-Jawza is a proper Arabic name of Orion
+msgid "Shepherd of Al-Jawza"
+msgstr "Al-Jawza 的牧羊"
+
+#. Name for HIP 24436
+#. Al-Najidh is a proper name
+msgid "Al-Najidh"
+msgstr "Al-Najidh"
+
+#. Name for HIP 25336
+#. Al-Mirzam is a proper name meaning the star of sound of thunder
+msgid "Al-Mirzam"
+msgstr "Al-Mirzam"
+
+#. Name for HIP 24436
+#. Al-Jawza is a proper Arabic name of Orion
+msgid "Leg of Al-Jawza"
+msgstr "Al-Jawza 的腿"
+
+#. Name for HIP 23972
+msgid ""
+"The star after the one in the foot of Orion, at the beginning of the river"
+msgstr "獵戶座腳下那顆的後面星星，在河流的起點"
+
+#. Name for HIP 23875
+msgid "The one north of this, in the curve near the shin of Orion"
+msgstr "在靠近獵戶座脛骨曲線的這個北邊那顆"
+
+#. Name for HIP 23364
+msgid "The rearmost of the two stars next in order after this"
+msgstr "依序在此之後的兩顆星的最後面"
+
+#. Name for HIP 22109
+msgid "The rearmost of the next two in order again"
+msgstr "再依順序而下兩顆的最後"
+
+#. Name for HIP 20507
+msgid "The rearmost of the three stars after this"
+msgstr "在此之後三顆星的最後"
+
+#. Name for HIP 18543
+msgid "The rearmost of the four stars in the next interval"
+msgstr "下個間隔的四顆星的最後"
+
+#. Name for HIP 12444
+msgid "The most advanced of the four"
+msgstr "四顆中最前面的"
+
+#. Name for HIP 15197
+msgid "The rearmost of the four stars in the next likewise interval again"
+msgstr "下個再同樣間隔的四顆星的最後"
+
+#. Name for HIP 12843
+msgid ""
+"The first star in the bend of the river, which touches the chest of Cetus"
+msgstr "河流彎曲處的第一顆星，碰觸到鯨魚座的胸膛"
+
+#. Name for HIP 14146
+msgid "The most advanced of the next consecutive three"
+msgstr "下個連續三顆的最前面"
+
+#. Name for HIP 17651
+msgid ""
+"The northern one on the advance side of the next four stars, nearly forming "
+"a trapezium"
+msgstr "在接下來的四顆幾乎形成一個梯形的星星前側的北方那顆"
+
+#. Name for HIP 17717
+msgid "The southernmost on the advance side"
+msgstr "在前側上的最南端"
+
+#. Name for HIP 18216
+msgid "The more advanced one on the rear side"
+msgstr "背面的更北方那顆"
+
+#. Name for HIP 18673
+msgid "The last of the four, the rear one on that side"
+msgstr "在那邊的後側那個的四顆中的最後"
+
+#. Name for HIP 21248
+msgid ""
+"The northernmost of the two stars close together at some distance to the east"
+msgstr "在東方有點距離的靠在一起兩顆星星的最北端"
+
+#. Name for HIP 20535
+msgid "The rearmost of the next two stars after the bend"
+msgstr "在下個彎曲後兩顆星的最後面"
+
+#. Name for HIP 17874
+msgid "The rearmost of the three stars in the next interval"
+msgstr "下個間隔的三顆星的最後"
+
+#. Name for HIP 13847
+msgid "The last star of the river, the bright one, called 'The male ostrich'"
+msgstr "河裡的最後那顆明亮的星星，叫做“公鴕鳥”"
+
+#. Name for HIP 24244
+msgid ""
+"The northern star on the advance side of the quadrilateral just over the ears"
+msgstr "就在耳朵上方四邊形前側上的北星"
+
+#. Name for HIP 24873
+msgid "The northern star on the rear side"
+msgstr "背面上的北方恆星"
+
+#. Name for HIP 24845
+msgid "The southern star on the rear side"
+msgstr "背面上的南方星星"
+
+#. Name for HIP 24305
+msgid "The star in the chin"
+msgstr "下巴內的恆星"
+
+#. Name for HIP 23685
+msgid "The star on the left front foot"
+msgstr "左前腳上的星星"
+
+#. Name for HIP 25985
+msgid "The star in the middle of the body"
+msgstr "身體中間的星星"
+
+#. Name for HIP 25606
+msgid "The star under the belly"
+msgstr "肚子下方的星星"
+
+#. Name for HIP 27654
+msgid "The northernmost of the two stars in the hind legs"
+msgstr "後腿內兩顆星的最北端"
+
+#. Name for HIP 32349
+msgid "CMa_1"
+msgstr "CMa_1"
+
+#. Name for HIP 33160
+msgid "CMa_2"
+msgstr "CMa_2"
+
+#. Name for HIP 33345
+msgid "CMa_3"
+msgstr "CMa_3"
+
+#. Name for HIP 34045
+msgid "CMa_4"
+msgstr "CMa_4"
+
+#. Name for HIP 33347
+msgid "CMa_5"
+msgstr "CMa_5"
+
+#. Name for HIP 33302
+msgid "CMa_6"
+msgstr "CMa_6"
+
+#. Name for HIP 31700
+msgid "CMa_7"
+msgstr "CMa_7"
+
+#. Name for HIP 31592
+msgid "CMa_8"
+msgstr "CMa_8"
+
+#. Name for HIP 30324
+msgid "CMa_9"
+msgstr "CMa_9"
+
+#. Name for HIP 31125
+msgid "CMa_10"
+msgstr "CMa_10"
+
+#. Name for HIP 31416
+msgid "CMa_11"
+msgstr "CMa_11"
+
+#. Name for HIP 33977
+msgid "CMa_12"
+msgstr "CMa_12"
+
+#. Name for HIP 33152
+msgid "CMa_13"
+msgstr "CMa_13"
+
+#. Name for HIP 34444
+msgid "CMa_14"
+msgstr "CMa_14"
+
+#. Name for HIP 33579
+msgid "CMa_15"
+msgstr "CMa_15"
+
+#. Name for HIP 32759
+msgid "CMa_16"
+msgstr "CMa_16"
+
+#. Name for HIP 30122
+msgid "CMa_17"
+msgstr "CMa_17"
+
+#. Name for HIP 35904
+msgid "CMa_18"
+msgstr "CMa_18"
+
+#. Name for HIP 34769
+msgid "CMa_a_01"
+msgstr "CMa_a_01"
+
+#. Name for HIP 29034
+msgid "CMa_a_02"
+msgstr "CMa_a_02"
+
+#. Name for HIP 29807
+msgid "CMa_a_03"
+msgstr "CMa_a_03"
+
+#. Name for HIP 30277
+msgid "CMa_a_04"
+msgstr "CMa_a_04"
+
+#. Name for HIP 30788
+msgid "CMa_a_05"
+msgstr "CMa_a_05"
+
+#. Name for HIP 27204
+msgid "CMa_a_06"
+msgstr "CMa_a_06"
+
+#. Name for HIP 27810
+msgid "CMa_a_07"
+msgstr "CMa_a_07"
+
+#. Name for HIP 28199
+msgid "CMa_a_08"
+msgstr "CMa_a_08"
+
+#. Name for HIP 27628
+msgid "CMa_a_09"
+msgstr "CMa_a_09"
+
+#. Name for HIP 26634
+msgid "CMa_a_10"
+msgstr "CMa_a_10"
+
+#. Name for HIP 25859
+msgid "CMa_a_11"
+msgstr "CMa_a_11"
+
+#. Name for HIP 32349
+#. Shi'raa is the Arabic proper name of Sirius
+msgid ""
+"The star in the mouth, with utmost brightness, which is called 'the Dog' and "
+"'Southern or crossing Shi'raa'"
+msgstr "亮度最高的口中之星，被稱為“狗星”和“南星或Shi'raa穿越星”"
+
+#. Name for HIP 33160
+msgid "The star on the ears"
+msgstr "耳朵上的星星"
+
+#. Name for HIP 33302
+msgid "The star on the chest"
+msgstr "胸口上的恆星"
+
+#. Name for HIP 31700
+msgid "The northernmost of the two stars on the right knee"
+msgstr "右膝上兩顆星的最北端"
+
+#. Name for HIP 30324
+#. Al-Mirzam is a proper name meaning the star of sound of thunder
+msgid "The star on the end of the front leg, called 'Al-Mirzam'"
+msgstr "前腿末端上的星星，稱為“Al-Mirzam”"
+
+#. Name for HIP 31125
+msgid "The more advanced of the two stars in the left knee"
+msgstr "左膝兩顆星中較前面的"
+
+#. Name for HIP 33977
+msgid "The rearmost of the two stars in the left shoulder"
+msgstr "左肩兩顆星中最後面的"
+
+#. Name for HIP 34444
+msgid "The star in the place where the left thigh joins [the body]"
+msgstr "左大腿連接 [身體] 處的星星"
+
+#. Name for HIP 33579
+msgid "The star below the belly, in the place between the thighs"
+msgstr "在肚子下方大腿間的星星"
+
+#. Name for HIP 32759
+msgid "The star on the joint of the right leg"
+msgstr "右腿關節處的星星"
+
+#. Name for HIP 30122
+msgid "The star on the end of the right leg"
+msgstr "右腿末端上的恆星"
+
+#. Name for HIP 35904
+msgid "The star on the tail"
+msgstr "尾巴上的星星"
+
+#. Name for HIP 34769
+msgid "The star to the north of the top of the dog skull"
+msgstr "狗頭骨頂部以北的星星"
+
+#. Name for HIP 29034
+msgid ""
+"The southernmost of the four stars almost on a straight line under the hind "
+"legs"
+msgstr "在後腿下方四顆幾乎在一條直線上的星星的最南端"
+
+#. Name for HIP 29807
+msgid "The one north of this"
+msgstr "這個的北邊那顆"
+
+#. Name for HIP 30788
+msgid "The last and northernmost of the four"
+msgstr "四顆的最後和最北端那顆"
+
+#. Name for HIP 27204
+msgid ""
+"The most advanced of the three stars almost on a straight line to the west "
+"of the [above] four"
+msgstr "四顆 [上方] 的西方幾乎在一條直線上的三顆星的最前面"
+
+#. Name for HIP 27628
+msgid "The rearmost of the two bright stars under these"
+msgstr "在此之後二顆亮星的最後"
+
+#. Name for HIP 25859
+msgid "The last star, to the south of the above"
+msgstr "靠上方南邊的最後一顆星星"
+
+#. Name for HIP 30324
+#. Al-Mirzam is a proper name meaning the star of sound of thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa that crossed [the milky way]"
+msgstr "Shi'raa 橫跨 [銀河] 的 Mirzam "
+
+#. Name for HIP 30324
+#. Al-Mirzam is a proper name meaning the star of sound of thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa"
+msgstr "Shi'raa 的 Mirzam"
+
+#. Name for HIP 30324
+msgid "The dog"
+msgstr "狗"
+
+#. Name for HIP 36188
+#. Al-Mirzam is a proper name meaning the star of sound of thunder.
+msgid "The star in the neck, called Al-Mirzam"
+msgstr "脖子內的星星，稱為“Al-Mirzam”"
+
+#. Name for HIP 37279
+#. The northern Shi'raa or tearfull Shi'raa is a proper arabic name for Procyon.
+msgid ""
+"The bright star just over the hindquarters, called 'The northern or tearfull "
+"Shi'raa'"
+msgstr "後軀上方的那顆亮星，稱為“北星或 Shi'raa 的眼淚 ”"
+
+#. Name for HIP 38835
+msgid "The more advanced of the two stars at the end of the ship"
+msgstr "船尾兩顆星中較前面的"
+
+#. Name for HIP 38170
+msgid ""
+"The northernmost of the two stars close together over the little shield in "
+"the poop"
+msgstr "靠在艉艛上兩顆鄰近的星星的最北端"
+
+#. Name for HIP 37173
+msgid "The star in advance of these"
+msgstr "在這之前的那顆星"
+
+#. Name for HIP 37229
+msgid "The bright star in the middle of the little shield"
+msgstr "小盾中間那顆亮星"
+
+#. Name for HIP 36917
+msgid "The most advanced of the three stars under the little shield"
+msgstr "小盾下三顆星的最前面"
+
+#. Name for HIP 38901
+msgid "The star on the stern neck"
+msgstr "艉艛上的星星"
+
+#. Name for HIP 36514
+msgid ""
+"The northernmost of the two stars in the sternpost on which are the two "
+"stern cabins"
+msgstr "兩個艉艙上的艉柱中兩顆星的最北端"
+
+#. Name for HIP 37096
+msgid "The northernmost of the stars in the poop-deck"
+msgstr "艉艛甲板內星星的最北端"
+
+#. Name for HIP 37297
+msgid "The most advanced of the next three"
+msgstr "接著三顆的最前面"
+
+#. Name for HIP 39429
+msgid "The bright star on the deck to the rear of these"
+msgstr "靠這些後面甲板上的亮星"
+
+#. Name for HIP 38414
+msgid "The more advanced of the two faint stars under the bright one"
+msgstr "亮星下的兩顆暗星中的較前面"
+
+#. Name for HIP 40091
+msgid "The more advanced of the two stars over the above-mentioned bright one"
+msgstr "在前述亮星上方兩顆星星中比較前面的"
+
+#. Name for HIP 44191
+msgid ""
+"The northernmost of the three stars on the little shields, about on the mast-"
+"holder"
+msgstr "大約在桅杆上的小盾牌上三顆星的最北端"
+
+#. Name for HIP 43023
+msgid "The northernmost of the two stars close together under these"
+msgstr "在這些下方靠攏的兩顆星的最北端"
+
+#. Name for HIP 42515
+msgid "The southernmost of the two stars in the middle of the mast"
+msgstr "桅杆中間兩顆星的最南端"
+
+#. Name for HIP 43409
+msgid "The more advanced of the two stars by the tip of the mast"
+msgstr "桅杆尖端的兩顆星中較前面的"
+
+#. Name for HIP 44816
+msgid "The star below the three rear little shield"
+msgstr "後方小盾三顆星下的星星"
+
+#. Name for HIP 46651
+msgid "The star on the cut-off of the deck"
+msgstr "甲板截斷處的星星"
+
+#. Name for HIP 36377
+msgid "The star between the steering-oars in the keel"
+msgstr "龍骨中舵槳之間的星星"
+
+#. Name for HIP 38164
+msgid "The faint star to the rear of this"
+msgstr "靠這後面的那顆暗星"
+
+#. Name for HIP 39953
+msgid "The bright star to the rear of this, under the deck"
+msgstr "靠甲板下方的後面亮星"
+
+#. Name for HIP 38827
+msgid "The bright star to the south of this, on the sternpost"
+msgstr "靠艉柱上南邊的那顆亮星"
+
+#. Name for HIP 42913
+msgid "The most advanced of the three stars to the rear of this"
+msgstr "靠這後面的三顆星的最前面"
+
+#. Name for HIP 46701
+msgid ""
+"The more advanced of the two stars to the rear of these, near the cut-off of "
+"the deck"
+msgstr "甲板的截斷處附近的後面兩顆星中較前面的"
+
+#. Name for HIP 28328
+msgid ""
+"The more advanced of the two stars in the northern, advance steering-oar"
+msgstr "在舵槳北前方兩顆星中較前面的"
+
+#. Name for HIP 30438
+#. Suhayl is the Arabic proper name of Canopus
+msgid ""
+"The more advanced of the two stars in the other steering-oar, called "
+"Canopus, and it is Suhayl"
+msgstr "另一隻舵槳上的兩顆星中較前面的是老人星，它的阿拉伯名是 Suhayl"
+
+#. Name for HIP 32768
+msgid "The other, rearmost star"
+msgstr "其他，最後的星星"
+
+#. Name for HIP 42402
+msgid ""
+"The southernmost of the two advance ones, which is on the nostrils of the "
+"five stars in the head"
+msgstr "在頭部五顆星的鼻孔上，兩顆前面的最南端"
+
+#. Name for HIP 42313
+msgid "The northernmost of these two, which is above the eye"
+msgstr "這兩顆在眼睛上方的最北端"
+
+#. Name for HIP 43109
+msgid ""
+"The northernmost of the two to the rear of these, which is about on the skull"
+msgstr "大約在頭骨上，兩顆靠後面的最北端"
+
+#. Name for HIP 42799
+msgid "The southernmost of them, on the gaping jaws"
+msgstr "在張開的下巴上的最南端"
+
+#. Name for HIP 43813
+msgid "The rearmost of all, about on the chin"
+msgstr "大約在下巴上全部的最後一顆"
+
+#. Name for HIP 44659
+msgid ""
+"The more advanced of the two stars in the place where the neck joins [the "
+"head]"
+msgstr "頸部連接 [頭部] 處兩顆星中較前面的"
+
+#. Name for HIP 46776
+msgid "The middle star of the following three in the bend of the neck"
+msgstr "在接著脖子彎曲處三顆的中間星星"
+
+#. Name for HIP 46404
+msgid "The faint, northernmost star of the two close together to the south"
+msgstr "兩顆靠攏在南邊的星星中最北端的暗星"
+
+#. Name for HIP 46390
+#. Al-Fard is a proper name meaning the lone star
+msgid "The bright one of these two close stars, called Al-Fard"
+msgstr "這兩顆靠攏星星中的亮星，稱為 Al-Fard"
+
+#. Name for HIP 48356
+msgid ""
+"The most advanced of the three stars to the rear, after the bend [in the "
+"neck]"
+msgstr "在 [脖子] 彎曲處下面的後方三顆星的最前面"
+
+#. Name for HIP 51069
+msgid "The most advanced of the next three stars almost on a straight line"
+msgstr "下個幾乎在一條直線上的三顆星的最前面"
+
+#. Name for HIP 54682
+msgid ""
+"The northernmost of the two stars after [i.e. to the rear of] the base of "
+"Crater"
+msgstr "在巨爵座底部 [也就是它後面] 之後兩顆星星的最北端"
+
+#. Name for HIP 56343
+msgid ""
+"The most advanced of the three stars after these, as it were in a triangle"
+msgstr "在一個三角形內這些之後三顆星的最前面"
+
+#. Name for HIP 56922
+msgid "The middle and southernmost one"
+msgstr "中間和最南端的那顆"
+
+#. Name for HIP 64962
+msgid "The star after Corvus, in the section by the tail"
+msgstr "烏鴉座尾巴部分之後的星星"
+
+#. Name for HIP 41307
+msgid "The star to the south of the head"
+msgstr "靠頭南邊的星星"
+
+#. Name for HIP 49641
+msgid "The star some distance to the rear of those in the neck"
+msgstr "離脖子後面有些距離的星星"
+
+#. Name for HIP 53740
+msgid "The star in the base of bowl, which is [applied in] common to Hydra"
+msgstr "碗底的星星，也[被當作]是長蛇座所屬的共用點"
+
+#. Name for HIP 55705
+msgid "The southernmost of the two stars in the middle of the bowl"
+msgstr "碗中央兩顆星的最南端"
+
+#. Name for HIP 58188
+msgid "The star on the southern rim of the mouth"
+msgstr "嘴巴南緣的星星"
+
+#. Name for HIP 56633
+msgid "The star on the northern rim"
+msgstr "北緣上的星星"
+
+#. Name for HIP 57283
+msgid "The star on the southern handle"
+msgstr "南把手上的星星"
+
+#. Name for HIP 55687
+msgid "The star on the northern handle"
+msgstr "北把手上的星星"
+
+#. Name for HIP 59199
+msgid "The star in the beak, which is [applied in] common to Hydra"
+msgstr "喙中的星星，也[被當作]是長蛇座所屬的共用點"
+
+#. Name for HIP 59316
+msgid "The star in the neck, by the head"
+msgstr "頭旁脖子內的星星"
+
+#. Name for HIP 59803
+msgid "The star in the advance, right wing"
+msgstr "前右翼內的星星"
+
+#. Name for HIP 60965
+msgid "The more advanced of the two stars in the rear wing"
+msgstr "後翼內兩顆星中較前面的"
+
+#. Name for HIP 61359
+msgid "The star on the end of the leg, which is [applied in] common to Hydra"
+msgstr "腿部末端的星星，也[被當作]是長蛇座所屬的共用點"
+
+#. Name for HIP 67457
+msgid "The southernmost of the four stars in the head"
+msgstr "頭內四顆星星的最南端"
+
+#. Name for HIP 67153
+msgid "The more advanced of the other, middle two"
+msgstr "其他中間兩顆中較前面的"
+
+#. Name for HIP 67669
+msgid "The rearmost of these, the last of the four"
+msgstr "剩下這四顆的最後"
+
+#. Name for HIP 65109
+msgid "The star on the left, advance shoulder"
+msgstr "左前肩膀上的星星"
+
+#. Name for HIP 65936
+msgid "The star on the left shoulder-blade"
+msgstr "左肩胛骨上的星星"
+
+#. Name for HIP 70090
+msgid "The northernmost of the advance two of the four stars in the thyrsus"
+msgstr "酒神權杖 thyrsus 四顆星中兩顆前面的最北端"
+
+#. Name for HIP 72010
+msgid "That one of the other two which is at the tip of the thyrsus"
+msgstr "酒神權杖 thyrsus 的尖端其他兩顆中的那顆"
+
+#. Name for HIP 71865
+msgid "The last one, south of the latter"
+msgstr "後者南邊的最後那顆"
+
+#. Name for HIP 67464
+msgid "The most advanced of the three stars in the right side"
+msgstr "右側三顆星的最前面"
+
+#. Name for HIP 73334
+msgid "The star in the right hand"
+msgstr "右手內的星星"
+
+#. Name for HIP 68002
+msgid "The bright star in the place where the human body joins [the horse's]"
+msgstr "人體結合 [馬體] 處的亮星"
+
+#. Name for HIP 68523
+msgid "The rearmost of the two faint stars to the north of this"
+msgstr "這顆以北兩顆暗星的最後一顆"
+
+#. Name for HIP 64004
+msgid "The star in advance of this, on the horse's back"
+msgstr "在馬背上這個之前的星星"
+
+#. Name for HIP 61932
+msgid "The rearmost of the stars on the rump"
+msgstr "臀部星星的最後一顆"
+
+#. Name for HIP 59196
+msgid "The more advanced of the two stars close together on the right thigh"
+msgstr "兩顆在右大腿靠攏的星星中較前面的"
+
+#. Name for HIP 67234
+msgid "The star in the chest, under the horse's armpit"
+msgstr "馬腋下胸部內的星星"
+
+#. Name for HIP 66657
+msgid "The more advanced of the two stars under the belly"
+msgstr "腹下兩顆星中比較前面的"
+
+#. Name for HIP 61084
+msgid "The star on the knee-bend of the right [hind] leg"
+msgstr "右[後]腿膝蓋彎曲處的星星"
+
+#. Name for HIP 62434
+msgid "The star in the hock of the same leg"
+msgstr "同一條腿踝關節內的星星"
+
+#. Name for HIP 59747
+msgid "The star under the knee-bend of the left [hind] leg"
+msgstr "左[後]腿膝蓋彎曲處的星星"
+
+#. Name for HIP 60718
+msgid "The star on the frog of the hoof on the same leg"
+msgstr "同一條馬腿蹄的蹄楔上的星星"
+
+#. Name for HIP 71683
+msgid "The star on the end of the right front leg"
+msgstr "右前腿末端上的星星"
+
+#. Name for HIP 68702
+msgid "The star on the knee of the left [front] leg"
+msgstr "右 [前] 腿膝蓋上的星星"
+
+#. Name for HIP 63003
+msgid "The star outside, under the right hind leg"
+msgstr "在右後腿下方外側的星星"
+
+#. Name for HIP 71683
+#. Al-wazn is a proper name
+msgid "Al-Wazn"
+msgstr "Al-Wazn"
+
+#. Name for HIP 68702
+#. Hadari is a proper name
+msgid "Hadari"
+msgstr "Hadari"
+
+#. Name for HIP 73273
+msgid "The star at the end of the hind leg, by the [right] hand of Centaurus"
+msgstr "靠半人馬座[右]手的後腿末端的星星"
+
+#. Name for HIP 71860
+msgid "The star on the bend in the same leg"
+msgstr "在同一條腿彎曲處的星星"
+
+#. Name for HIP 75141
+msgid "The more advanced of the two stars just over the shoulder-blade"
+msgstr "就在肩胛骨上方的兩顆星中較前面的"
+
+#. Name for HIP 75264
+msgid "The star in the middle of the body of Lupus"
+msgstr "豺狼座身體中間的星星"
+
+#. Name for HIP 74117
+msgid "The star in the belly, under the flank"
+msgstr "腹下肚子中的星星"
+
+#. Name for HIP 73807
+msgid "The star on the thigh"
+msgstr "大腿上的星星"
+
+#. Name for HIP 74911
+msgid ""
+"The northernmost of the two stars near the place where the thigh joins [the "
+"body]"
+msgstr "靠近大腿連接 [身體] 處的兩顆星的最北端"
+
+#. Name for HIP 74395
+msgid "The star on the end of the rump"
+msgstr "臀部末端上的星星"
+
+#. Name for HIP 69996
+msgid "The southernmost of the 3 stars in the end of the tail"
+msgstr "尾巴末端 3 顆星的最南端"
+
+#. Name for HIP 78384
+msgid "The southernmost of the two stars in the neck"
+msgstr "脖子上兩顆星的最南端"
+
+#. Name for HIP 77634
+msgid "The more advanced of the two stars in the snout"
+msgstr "口鼻部兩顆星中較前面的"
+
+#. Name for HIP 74604
+msgid "The southernmost of the two stars in the front leg, on the hand"
+msgstr "在手上前腿兩顆星的最南端"
+
+#. Name for HIP 86092
+msgid "The northernmost of the two stars in the base"
+msgstr "底部兩顆星星的最北端"
+
+#. Name for HIP 85792
+msgid "The star in the middle of the little altar"
+msgstr "小祭壇中間的星星"
+
+#. Name for HIP 83153
+msgid "The northernmost of the three stars in the brazier"
+msgstr "在火盆內三顆星的最北端"
+
+#. Name for HIP 85267
+msgid "The southernmost of the other two which are close together"
+msgstr "其他兩顆靠在一起的最南端"
+
+#. Name for HIP 85258
+msgid "The northernmost of these two"
+msgstr "這兩顆中的最北端"
+
+#. Name for HIP 83081
+msgid "The star on the end of the burning-apparatus"
+msgstr "燃燒器末端的星星"
+
+#. Name for HIP 90422
+msgid "The most advanced of the stars on the southern rim, outside [the crown]"
+msgstr "在[皇冠]外側南緣這些星星的最前面"
+
+#. Name for HIP 92308
+msgid "The star to the rear of this on the crown"
+msgstr "靠皇冠後面的星星"
+
+#. Name for HIP 94005
+msgid "The one after this, before the knee of Sagittarius"
+msgstr "在人馬座膝蓋前後的那顆"
+
+#. Name for HIP 94160
+msgid ""
+"The one after this, which is north of the bright star in the knee [of "
+"Sagittarius]"
+msgstr "在[人馬座]膝蓋上那顆亮星的北邊之後的那顆"
+
+#. Name for HIP 94114
+msgid "The star to the north of this"
+msgstr "靠這北方的星星"
+
+#. Name for HIP 93825
+msgid "The one to the north again of this"
+msgstr "偏這個北方的那顆"
+
+#. Name for HIP 93174
+msgid ""
+"The rearmost of the two stars after this, in advance, in the northern rim"
+msgstr "在北緣前得這之後兩顆星的最後面"
+
+#. Name for HIP 92989
+msgid "The more advanced of these two faint stars"
+msgstr "兩顆暗星中比較前面的"
+
+#. Name for HIP 91875
+msgid "The star quite some distance in advance of this"
+msgstr "離這之前還有段距離的星星"
+
+#. Name for HIP 90982
+msgid "The last one, which is south of the aforementioned star"
+msgstr "最後一顆就是在前面提到的星星的南邊"
+
+#. Name for HIP 111188
+msgid "The most advanced of the three stars on the southern rim of the head"
+msgstr "頭部南緣三顆星中最前面的"
+
+#. Name for HIP 111954
+msgid "The star by the gills"
+msgstr "腮邊的星星"
+
+#. Name for HIP 109285
+msgid "The star on the southernmost spine on the back"
+msgstr "背部最南端脊椎上的星星"
+
+#. Name for HIP 111045
+msgid "The rearmost of the two stars in the belly"
+msgstr "肚子內兩顆星的最後面"
+
+#. Name for HIP 108661
+msgid "The rearmost of the three stars on the northern spine"
+msgstr "北脊椎上三顆星的最後面"
+
+#. Name for Mel 111
+msgid "Tassel of the lion"
+msgstr "獅子的毛穗"
+
+#. Name for NGC 869
+msgid "The nebulous mass on the right hand"
+msgstr "右手上的模糊團塊"
+
+#. Name for NGC 869
+msgid "wrist of Al-Thurayya"
+msgstr "Al-Thurayya 的手腕"
+
+#. Name for NGC 5139
+msgid "The star on the place where the back joins [the horse's body]"
+msgstr "背部連接 [馬的身體] 處的星星"
+
+#. Name for M 44
+msgid "The middle of the nebulous mass in the chest, called Praesepe"
+msgstr "胸中模糊團塊的中間，稱為蜂巢 Praesepe"
+
+#. Name for M 44
+msgid "Nose tip of the lion"
+msgstr "獅子的鼻尖"
