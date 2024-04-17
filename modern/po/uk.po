@@ -1,0 +1,4126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>, 2024\n"
+"Language-Team: Ukrainian (https://app.transifex.com/stellarium/teams/80998/"
+"uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != "
+"11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % "
+"100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || "
+"(n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+# Sky culture name
+msgid "Modern"
+msgstr "Сучасна"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The modern sky culture is used internationally by modern astronomers, and is "
+"the official scheme of The International Astronomical Union. It has "
+"historical roots in Ancient Greek astronomy, with influences from Islamic "
+"astronomy."
+msgstr ""
+"Сучасна картина зоряного неба використовується на міжнародному рівні "
+"сучасними астрономами та є офіційною схемою зоряного неба Міжнародного "
+"астрономічного союзу. Історичні корені цієї картини сягають давньогрецької "
+"астрономії, можна також прослідкувати вплив ісламських астрономів."
+
+# Sky culture description section in markdown format
+msgid ""
+"The modern sky culture divides the celestial sphere into 88 areas of various "
+"sizes called constellations, each with precise boundary, issued by the "
+"International Astronomical Union in 1922. These constellations have become "
+"the standard way to describe the sky, replacing similar sets in other sky "
+"cultures exhaustively in daily usage.\n"
+"\n"
+"The constellations in use today are based mainly on ancient Greek "
+"constellations depicted by Ptolemy in his book the Almagest during the 2nd "
+"century CE. In the subsequent centuries, this book has been translated from "
+"Greek into Arabic (6th to 9th century) and later to medieval Latin. In the "
+"Arabic more than in the Latin tradition, the Ptolemaic figures were enriched "
+"and transformed by native Arabic constellations and star names.\n"
+"\n"
+"In the 16-18th centuries, European astronomers suggested new constellations "
+"to fill the gaps between northern constellations (e.g. the constellation of "
+"\"the lynx\" for an area close to the Great Bear but with stars so faint "
+"that you would need the eyes of a lynx to see them) and also created new "
+"constellations in the southern part of the sky which had not been visible to "
+"Ptolemy. These new constellations were usually named after new technical "
+"inventions of the early modern period (e.g. a chemical furnace, a balloon, "
+"an air pump) or exotic animals (e.g. a chamaeleon, a tucan, a paradise "
+"bird). Among them several constellations were also named with political "
+"consideration to honor certain kings or patrons.\n"
+"\n"
+"In the beginning of the 20th century, the IAU (International Astronomical "
+"Union) aimed for a large clean-up: in 1922, it officially accepted the list "
+"of 88 constellation names. In 1928 it also defined precise constellation "
+"boundaries [#40] still in use today.\n"
+"\n"
+"### Extras\n"
+"\n"
+"In the 2nd century CE, Ptolemy in Alexandria published a multi-volume book "
+"which summarised the astronomical knowledge of the time, rooted in a "
+"tradition of mathematical astronomy since Hipparchus (at least 265 years "
+"earlier). In the subsequent centuries, this book has been translated from "
+"Greek into Arabic (6th to 9th century), from Arabic into Latin, and later, "
+"from the original ancient Greek into medieval Latin. Due to this "
+"transformation, it is now known under the artificial name Almagest, derived "
+"from the Arabic title [#46].\n"
+"\n"
+"The Almagest star catalogue (books VII and VIII) has been depicted many "
+"times in the Islamic as well as in the Christian astronomical traditions. "
+"Often, the figures were re-drawn in order to adapt them to the taste of art "
+"of the epoch. In the Arabic more than in the Latin tradition, the Ptolemaic "
+"figures were enriched and transformed by native Arabic constellations and "
+"star names. Therefore, this sky culture displays a modern descendant of the "
+"Ptolemaic one with traces of translations, misunderstandings, "
+"transformations, and deliberate additions.\n"
+"\n"
+"In 1603 the lawyer and hobby astronomer Johann Bayer from Augsburg, Germany, "
+"made a new celestial atlas, called Uranometria [#41]. In this atlas, he "
+"introduced a systematic naming of stars starting with alpha, the brightest, "
+"beta, the second brightest, gamma, the third ... within a constellation. "
+"Subsequently, it was established to name a star with a Greek letter and the "
+"Latin constellation name in casus genitive.\n"
+"\n"
+"In the 18th century, the century of great atlases (Flamsteed, Fortin, Bode: "
+"[#42][#43]), new constellations were added to fill the gaps between northern "
+"constellations. Additionally, there were suggestions to create new "
+"constellations in the southern part of the sky which had not been visible to "
+"Ptolemy. European astronomers visited the European colonies and instead of "
+"asking the native people for their constellations, the Europeans were "
+"creative. This way, many new technical inventions of the early modern period "
+"were depicted in constellations (e.g. a chemical furnace, a balloon, an air "
+"pump) as well as exotic animals (e.g. a chamaeleon, a tucan, a paradise "
+"bird).\n"
+"\n"
+"The problem was that sometimes astronomers did not agree with each other "
+"and, thus, atlases showed deviations from each other.\n"
+"\n"
+"After many centuries of astronomers taking liberties in interpretation of "
+"the Ptolemaic original, there were many variants of constellations. As "
+"constellations are a positioning system, i.e. astronomers describe positions "
+"in the sky relative to stars and stars relative to constellations (like "
+"\"Betelgeuse\", Orion's right shoulder), it is necessary to use "
+"constellation names and star names uniformly all over the world.\n"
+"\n"
+"In the \"Fin de siècle\", there were upcoming suggestions in the "
+"astronomical community to unify the system of constellations and star names "
+"[#44].\n"
+"\n"
+"The IAU, only founded in 1919, in 1928 defined the boundaries of these areas "
+"[#43] and not the way of drawing artwork or connecting lines within them. "
+"Consequently several sub-cultures of painting figures and drawing simplified "
+"stickfigures were developed during the 20th and 21st century. We provide "
+"some of them as further sky cultures.\n"
+"\n"
+"### Constellations\n"
+"\n"
+"These constellations are based mainly on the Ptolemaic tradition which had "
+"been used in all three Abrahamitic religions and, thus, was common in the "
+"Near East, in Europe and its colonies on all continents. However, between "
+"the ancient Greek constellations there were gaps of areas with only faint "
+"stars belonging to no constellation.[#47] In the Modern Epoch, several "
+"astronomers suggested constellation figures for these gaps, among them "
+"several political constellations to the honor of certain kings or patrons. "
+"In the late 19th century, the astronomical research community aimed for a "
+"huge clean-up to avoid ambiguities in assigning stars to constellations.\n"
+"\n"
+"In 1922, the IAU officially approved the list of 88 constellation names and "
+"their official abbreviations with three letters. The only remaining "
+"political constellation is Scutum, the shield of a Polish king but without "
+"mentioning the political reference anymore. The Belgian priest E. Delporte "
+"got the task to define constellation boundaries according to coordinates. In "
+"1928, he finished the work, based on an atlas from Argentina [#51], and the "
+"IAU accepted his delimitations [#40].\n"
+"\n"
+"These \"constellations\" are naked areas in the sky without any stick "
+"figures or depictions [#44]. The borders simply follow the lines of right "
+"ascension and declination from the epoch 1875.0. Precession causes a slowly "
+"increasing deviation from the originally rectilinear grid. These "
+"constellations became the standard way to describe the sky, replacing "
+"similar sets in other sky cultures exhaustively in daily usage.\n"
+"\n"
+"Stellarium by default displays the precise RA-DEC-boundaries and a set of "
+"artwork constellations on the basis of Ptolemaic figures but following our "
+"contemporary taste of art.\n"
+"\n"
+"### Asterisms\n"
+"\n"
+"The term \"asterism\" (assembly of stars) can sometimes be used synonymously "
+"to \"constellation\". In the modern use it describes a figure which is not "
+"part of the official canon. Sometimes an asterism is a part of a "
+"constellation, e.g. the Big Dipper as part of Ursa Major, or Great Square as "
+"part of Pegasus. Other asterisms span over several constellations, e.g. the "
+"Summer Triangle or Winter Hexagon. Yet others are only visible in binoculars "
+"or telescopes and are aptly named \"telescopic asterism\", e.g. the "
+"Coathanger. They are often discussed in the observing columns of popular "
+"astronomy magazines.\n"
+"\n"
+"### Ray Helpers\n"
+"\n"
+"Seasoned observers can find their way around the sky easily. One mnemonic "
+"tool are associative chains of stars that span large distances. We show them "
+"as \"ray helpers\". These are not standardized.\n"
+"\n"
+"### Proper names of stars\n"
+"\n"
+"Ptolemy's star catalogue had the layout of a table listing the description "
+"of the star's position in the constellation's figure, the ecliptical "
+"coordinates, and the magnitude e.g.: \"The star at the tip of the tail of "
+"Ursa Minor\", \"Gem 0 1/6, +66\", \"Mag 3\".\n"
+"\n"
+"In most cases, the star names evolved by astronomer's systematical "
+"abbreviations of these descriptions, e.g., a first astronomer abbreviated in "
+"a text \"tip of the tail\", a next astronomer drew a map with less space and "
+"wrote only \"tail\" next to the star and this name remained. Over centuries, "
+"these descriptions were translated into Arabic and Latin, and in some cases "
+"the translators or scribes made mistakes because of misreading or "
+"misspelling of the Arabic words (e.g. the Arabic \"yad al gauza\", the hand "
+"of the giant woman, was mangled to the common term \"Betelgeuse\").\n"
+"\n"
+"However, there are also a few original Greek words like the red star "
+"\"Antares\", the counterpart of Ares (Mars), and even a few original "
+"Babylonian terms like \"Shargaz\", the Sting, in Scorpius. Our modern, most "
+"recent IAU star names [#45] are a renewed mixture, also with influences or "
+"even politically wanted additions of star names from the non-Ptolemaic sky "
+"cultures, e.g. the traditional Pingsing, a Chinese star name for a star in "
+"Hydra (its meaning is only \"star\", a reminescence to his lonely position), "
+"or newly adopted star names from Polynesian, Hawaiian, or Aboriginal "
+"cultures for names of stars with exoplanets.\n"
+"\n"
+"The IAU is the only scientifically accepted authority to assign new names to "
+"stars. Commercial exploits like \"star name registries\", who sell stars for "
+"commemorative purposes or as gifts, only sell printed pieces of paper. These "
+"names are not approved and never used by scientists."
+msgstr ""
+"У сучасній культурі небесну сферу поділено на 88 ділянок найрізноманітніших "
+"розмірів, які називаються сузір'ями, кожна область має точно визначені межі, "
+"які стандартизовано Міжнародним астрономічним союзом. Ці сузір’я є "
+"стандартним способом опису неба, який повністю замінив подібні набори інших "
+"картин зоряного неба.\n"
+"\n"
+"Сузір'я, які ми використовуємо сьогодні, засновано, в основному, на "
+"давньогрецьких сузір'ях, які описано Птолемеєм у його книзі «Альмагест», "
+"написаній у 2-му сторіччі нашої ери. Протягом наступних сторіч цю книгу було "
+"перекладено з грецької арабською (від 6-го до 9-го сторіч), а потім і "
+"середньовічною латинською мовами. Арабський переклад, порівняно із "
+"традиційним латинським, містить доповнення фігур Птолемея власними та "
+"перетвореними арабськими назвами сузір'їв та зірок.\n"
+"\n"
+"Протягом 16-18-го сторіч європейські астрономи запропонували нові сузір'я "
+"для заповнення прогалин між сузір'ями північної півкулі (наприклад, сузір'я "
+"«рисі» для області, близької до Великої Ведмедиці, але заповненої тьмяними "
+"зірками, розгледіти які можна лише маючи око рисі), а також створили нові "
+"сузір'я для південної частини неба, яка лишалася невидимою для Птолемея. Ці "
+"нові сузір'я, зазвичай, називали на честь нових технічних винаходів початку "
+"сучасної доби (наприклад хімічної печі, повітряної кулі або насосу) чи "
+"екзотичних тварин (наприклад хамелеона, тукана або райського птаха). Серед "
+"назв також були назви, які давалися з політичних причин, на вшанування "
+"певних королів або спонсорів.\n"
+"\n"
+"На початку 20-го сторіччя МАС (Міжнародний астрономічний союз) поставив "
+"ціллю велике чищення: у 1922 році ця організація затвердила список з 88 назв "
+"сузір'їв. У 1928 році вона також визначила точні межі сузір'їв [#40], якими "
+"ми користуємося і досі.\n"
+"\n"
+"### Додатки\n"
+"\n"
+"У 2-му сторіччі нашої ери Птолемей з Александрії опублікував багатотомну "
+"книгу, у якій підбив підсумки астрономічних знань тих часів, заснованих на "
+"традиційній математичній астрономії, започаткованій Гіппархом (принаймні на "
+"265 років раніше). Протягом наступних сторіч цю книгу було перекладено з "
+"грецької арабською (від 6-го до 9-го сторіччя), з арабської латиною і, "
+"пізніше, з початкової давньої грецької середньовічною латиною. Через ці "
+"перетворення книга зараз відома під штучною назвою «Альмагест», яка походить "
+"від назви арабського перекладу книги [#46].\n"
+"\n"
+"Каталог зірок «Альмагеста» (книги VII і VIII) багато разів відтворювався у "
+"ісламській, а також християнській астрономічній традиції. Часто рисунки "
+"перемальовували, адаптуючи їх до художніх віянь епохи. В арабському "
+"варіанті, більше, ніж у традиційному латинському, рисунки Птолемея "
+"доповнювалися та перетворювалися арабською традицією та арабськими назвами "
+"зірок. Через це, у цій картині зоряного неба показано сучасний спадок робіт "
+"Птолемея із результатами перекладу, помилкової інтерпретації, перетворень та "
+"навмисних доповнень.\n"
+"\n"
+"У 1603 році юрист та астроном-аматор Йоган Баєр (Johann Bayer) з Аугсбурга, "
+"Німеччина, створив новий небесний атлас, який назвав «Уранометрією» [#41]. У "
+"цьому атласі було впроваджено систему назв зірок, яка передбачала позначення "
+"найяскравішої зірки у межах сузір'я літерою «альфа», наступної за яскравістю "
+"— літерою «бета», наступної за яскравістю — літерою «гамма», тощо. Надалі, "
+"було прийнято систему іменування зірок грецькою літерою із доповненням назви "
+"назвою сузір'я латиною у родовому відмінку.\n"
+"\n"
+"У 18-му сторіччі, сторіччі великих атласів (Флемстіда, Фортіна, Боде: [#42]"
+"[#43]), було додано нові сузір'я для заповнення прогалин між сузір'ями "
+"північної півкулі. Крім того, з'явилися пропозиції щодо створення нових "
+"сузір'їв південної півкулі, які не були видимими Птолемею. Європейські "
+"астрономи відвідували європейські колонії і, замість питати тубільців про "
+"їхні назви сузір'їв, європейці створювали власні. Таким чином, у назвах "
+"сузір'їв з'явилися назви нових технічних винаходів початку сучасної доби "
+"(наприклад хімічної печі, повітряної кулі або насосу) чи екзотичних тварин "
+"(наприклад хамелеона, тукана або райського птаха).\n"
+"\n"
+"Проблема полягала у тому, що іноді астрономи не могли дійти спільної думки "
+"і, отже, атласи різнилися один від одного.\n"
+"\n"
+"За багато сторіч, протягом яких астрономи довільним чином трактували "
+"оригінальний твір Птолемея, накопичилося багато варіантів сузір'їв. Оскільки "
+"сузір'я є позиційною системою, тобто астрономи описують позиції на небі "
+"відносно зірок, і зірки відносно сузір'їв (зокрема, «Бетельгейзе», праве "
+"плече Оріона), необхідним є систематичне та універсальне використання назв "
+"сузір'їв та зірок.\n"
+"\n"
+"У «Fin de siècle» було наведено пропозиції до астрономічної спільноти щодо "
+"уніфікації системи сузір'їв та назв зірок [#44].\n"
+"\n"
+"МАС, який було засновано лише у 1919 році, у 1928 році визначив межі цих "
+"областей [#43], але не спосіб малювання зображень сузір'їв або з'єднання "
+"ліній у сузір'ях. Надалі, протягом 20-го та 21-го сторіч було розроблено "
+"декілька способів малювання фігур та спрощених стрижневих малюнків. Ми "
+"надаємо дані щодо них у вказаних нижче картинах зоряного неба.\n"
+"\n"
+"### Сузір'я\n"
+"\n"
+"Дані щодо цих сузір'їв, в основному, засновано на птолемеївській традиції, "
+"яку використано у всіх трьох авраамічних релігіях, і отже, такій, як була "
+"поширена на Близькому Сході, в Європі та у європейських колоніях на усіх "
+"континентах. Втім, між давніми грецькими сузір'ями були прогалини, де можна "
+"було спостерігати лише тьмяні зірки, які не належали до жодного сузір'я "
+"[#47]. У сучасну добу декілька астрономів запропонували фігури сузір'їв для "
+"цих прогалин, серед них були декілька політичних сузір'їв, які було створено "
+"на честь певних королів або спонсорів. Протягом другої половини 19-го "
+"сторіччя спільнота астрономів-дослідників поставила метою велике чищення для "
+"усування неоднозначностей прив'язки зірок до сузір'їв.\n"
+"\n"
+"У 1922 році МАС офіційно затвердив список із 88 назв сузір'їв та їхні "
+"офіційні абревіатури з трьох літер. Єдиним політичним сузір'ям, яке лишилося "
+"на карті неба, є Щит, щит польських королів, але вже без політичної "
+"прив'язки. За завдання з визначення меж сузір'їв відповідно до координат "
+"взявся бельгійський священик Е. Дельпорте (E. Delporte). Роботу було "
+"завершено у 1928 році на основі атласу з Аргентини [#51]. МАС затвердив "
+"результати роботи з розмежування [#40].\n"
+"\n"
+"Ці «сузір'я» прості області на небі без будь-яких контурних фігур або "
+"зображень [#44]. Межі просто є лініями прямого сходження та схилення для "
+"епохи 1875.0. Прецесія спричиняє відхилення від початкової ортогональної "
+"сітки, що поступово зростає. Ці сузір'я стали стандартним способом опису "
+"неба, повністю замінивши подібні набори в інших картинах зоряного неба у "
+"щоденному використанні.\n"
+"\n"
+"Типово, Stellarium показує точні межі за ПС та Схил і набір художніх "
+"зображень сузір'їв на основі рисунків Птолемея, але із використанням "
+"сучасного мистецького погляду.\n"
+"\n"
+"### Астеризми\n"
+"\n"
+"Термін «астеризм» (набір зірок) можна іноді використовувати як синонім "
+"терміна «сузір'я». Сучасне його використання передбачає якусь фігуру, яка не "
+"є частиною офіційного канону. Іноді, астеризм є частиною сузір'я. Зокрема, "
+"Великий Ківш є частиною Великої Ведмедиці, а Великий Квадрат є частиною "
+"Пегаса. Інші астеризми належать одразу декільком сузір'ям, зокрема, Літній "
+"Трикутник або Зимовий Шестикутник. Інші ж видимі лише у бінокль або "
+"телескоп. Їх називають «телескопічними сузір'ями». Прикладом є Вішалка. Їх "
+"часто використовують в обговореннях колонок спостереження популярних "
+"астрономічних журналів.\n"
+"\n"
+"### Напрямні\n"
+"\n"
+"Спостерігачі можуть легко орієнтуватися у сузір'ях за сезонами. Мнемонічним "
+"інструментом можуть бути асоціативні ланцюжки зірок, які покривають значні "
+"частки неба. Ми показуємо їх як «напрямні». Ці ланцюжки не стандартизовано.\n"
+"\n"
+"### Власні назви зірок\n"
+"\n"
+"У каталозі зірок Птолемея наведено таблицю з описовими розташуваннями зірок "
+"у фігурі сузір'я, екліптичними координатами та зоряною величиною. Приклад: "
+"«Зірка на кінці хвоста Малої Ведмедиці », «Gem 0 1/6, +66», «Вел. 3».\n"
+"\n"
+"Здебільшого, назви зірок походять від систематичних скорочень астрономів у "
+"описах зірок. Наприклад, перший астроном скоротив текст до «кінчик хвоста», "
+"наступний астроном малював карту, де було менше місця, і написав поряд із "
+"зіркою лише «хвіст», і ця назва набула поширення. Протягом століть ці описи "
+"перекладали арабською і латиною, і іноді перекладачі або ті, хто переписував "
+"тексти, робили помилки через неправильне прочитання або транскрипцію "
+"арабських слів (наприклад, арабське «яд-ель-гауза», рука гігантської жінки, "
+"перетворилося у поширену назву «Бетельгейзе»).\n"
+"\n"
+"Втім, також збереглося декілька початкових слів грецькою мовою, наприклад "
+"для назви червоної зірки «Антарес», двійника Ареса (Марса), і навіть "
+"декілька початкових назв вавилонською, зокрема «Шаргаз», Жало, у Скорпіоні. "
+"Наші сучасні, найновіші назви зірок МАС [#45] є оновленою сумішшю із "
+"впливами або навіть політично вигідними доповненнями назв зірок з не "
+"пов'язаних із Птолемеєм картин зоряного неба, наприклад традиційна китайська "
+"назва Піньсінь для зірки у Гідрі (значенням цього слова є просто «зірка», що "
+"позначає відокремленість цієї зірки від решти сузір'я) або нові назви зірок "
+"з полінезійськодї, гавайської та австралійської картини зоряного неба для "
+"зірок з екзопланетами.\n"
+"\n"
+"МАС є єдиною установою, яка надає науково прийнятні нові назви зіркам. "
+"Комерційні установи, які ведуть «списки назв зірок» і продають зірки для "
+"комерційних потреб, продають ніким не визнані шматки паперу. Запроваджені "
+"ними назви не затверджено науковцями і не буде використано у науковій "
+"практиці."
+
+#. TRANSLATORS: Proper name of star 14 Andromedae
+#. TRANSLATORS: https://en.wikipedia.org/wiki/14_Andromedae
+msgid "Veritate"
+msgstr "Верітате"
+
+#. TRANSLATORS: Proper name of star 18 Delphini
+#. TRANSLATORS: https://en.wikipedia.org/wiki/18_Delphini
+msgid "Musica"
+msgstr "Музика"
+
+#. TRANSLATORS: Proper name of star 42 Draconis
+#. TRANSLATORS: https://en.wikipedia.org/wiki/42_Draconis
+msgid "Fafnir"
+msgstr "Фафнір"
+
+#. TRANSLATORS: Proper name of star 47 Ursae Majoris
+#. TRANSLATORS: https://en.wikipedia.org/wiki/47_Ursae_Majoris
+msgid "Chalawan"
+msgstr "Чалаван"
+
+#. TRANSLATORS: Proper name of star 51 Pegasi
+#. TRANSLATORS: https://en.wikipedia.org/wiki/51_Pegasi
+msgid "Helvetios"
+msgstr "Гельветіос"
+
+#. TRANSLATORS: Proper name of star 55 Cancri
+#. TRANSLATORS: https://en.wikipedia.org/wiki/55_Cancri
+msgid "Copernicus"
+msgstr "Копернікус"
+
+#. TRANSLATORS: Proper name of star epsilon Eridani
+#. TRANSLATORS: https://en.wikipedia.org/wiki/Epsilon_Eridani
+msgid "Ran"
+msgstr "Ран"
+
+#. TRANSLATORS: Proper name of star HD 104985
+#. TRANSLATORS: https://en.wikipedia.org/wiki/HD_104985
+msgid "Tonatiuh"
+msgstr "Тонатіу"
+
+#. TRANSLATORS: Proper name of star HD 149026
+#. TRANSLATORS: https://en.wikipedia.org/wiki/HD_149026
+msgid "Ogma"
+msgstr "Оґма"
+
+#. TRANSLATORS: Proper name of star HD 81688
+#. TRANSLATORS: https://en.wikipedia.org/wiki/41_Lyncis
+msgid "Intercrus"
+msgstr "Інтеркрус"
+
+#. TRANSLATORS: Proper name of star mu Arae
+#. TRANSLATORS: https://en.wikipedia.org/wiki/Mu_Arae
+msgid "Cervantes"
+msgstr "Сервантес"
+
+#. TRANSLATORS: Proper name of star upsilon Andromedae
+#. TRANSLATORS: https://en.wikipedia.org/wiki/Upsilon_Andromedae
+msgid "Titawin"
+msgstr "Тітавін"
+
+#. TRANSLATORS: Proper name of star xi Aquilae
+#. TRANSLATORS: https://en.wikipedia.org/wiki/Xi_Aquilae
+msgid "Libertas"
+msgstr "Лібертас"
+
+#. TRANSLATORS: Proper name of star HD 82886
+#. TRANSLATORS: Historians largely believe that the Albanians are descendants
+#. of the Illyrians, a term Albanians proudly call themselves.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Illyrian"
+msgstr "Ілірійська"
+
+#. TRANSLATORS: Proper name of star HD 28678
+#. TRANSLATORS: Hoggar is the name of the main mountain range in the Sahara
+#. Desert in southern Algeria.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Hoggar"
+msgstr "Хоггар"
+
+#. TRANSLATORS: Proper name of star HD 131496
+#. TRANSLATORS: Arcalis is a famous peak in the north of Andorra, where the
+#. Sun passes through a hole in the mountain twice a year at fixed dates. It
+#. was used as a primitive solar calendar and reference point for shepherds
+#. and early inhabitants of Andorra.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Arcalís"
+msgstr "Аркаліс"
+
+#. TRANSLATORS: Proper name of star HD 48265
+#. TRANSLATORS: Nosaxa means spring in the Moqoit language. The word comes
+#. from a combination of nosahuec, which means renew, and ñaaxa, which means
+#. year.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Nosaxa"
+msgstr "Носаха"
+
+#. TRANSLATORS: Proper name of star HD 38283
+#. TRANSLATORS: Bubup is the Boonwurrung word for child.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Bubup"
+msgstr "Бубуп"
+
+#. TRANSLATORS: Proper name of star HD 152581
+#. TRANSLATORS: Mahsati Ganjavi (1089–1159) is one of the brightest shining
+#. stars of Azerbaijani poetry. She was said to have associated with both Omar
+#. Khayyam and Nizami and was well educated and talented and played numerous
+#. musical instruments.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Mahsati"
+msgstr "Махсаті"
+
+#. TRANSLATORS: Proper name of star HD 148427
+#. TRANSLATORS: Timir means darkness in Bengali language, alluding to the star
+#. being far away in the darkness of space.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Timir"
+msgstr "Тімір"
+
+#. TRANSLATORS: Proper name of star HD 49674
+#. TRANSLATORS: Nervia, adapted from Nervii, was a prominent Belgian Celtic
+#. tribe.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Nervia"
+msgstr "Нервія"
+
+#. TRANSLATORS: Proper name of star HD 73534
+#. TRANSLATORS: Gakyid means happiness. Gross National Happiness is the
+#. development philosophy conceived and followed in Bhutan and is one of
+#. Bhutan's contributions to the world.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Gakyid"
+msgstr "Гак'їд"
+
+#. TRANSLATORS: Proper name of star HD 63765
+#. TRANSLATORS: Tapecue means eternal path in Guarani and represents the Milky
+#. Way through which the first inhabitants of the Earth arrived and could
+#. return.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Tapecue"
+msgstr "Тапеке"
+
+#. TRANSLATORS: Proper name of star HD 206610
+#. TRANSLATORS: Bosona is the name given to the territory of Bosnia in the
+#. 10th century. Later, the name was transformed to Bosnia originating from
+#. the name of the Bosna river.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Bosona"
+msgstr "Босона"
+
+#. TRANSLATORS: Proper name of star HD 23079
+#. TRANSLATORS: Tupi is the name of the most populous Indigenous People living
+#. on the eastern coast of South America, before the Portuguese arrived in the
+#. 16th century.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Tupi"
+msgstr "Тупі"
+
+#. TRANSLATORS: Proper name of star HD 179949
+#. TRANSLATORS: Gumala is a Malay word, which means a magic bezoar stone found
+#. in snakes, dragons, etc.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Gumala"
+msgstr "Гумала"
+
+#. TRANSLATORS: Proper name of star HD 30856
+#. TRANSLATORS: Mouhoun, also called Volta Noire, is the largest river in
+#. Burkina Faso and plays an important role in the lives of the people in the
+#. areas it passes through.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Mouhoun"
+msgstr "Мухун"
+
+#. TRANSLATORS: Proper name of star HD 136418
+#. TRANSLATORS: Nikawiy is the word for mother in the Indigenous Cree language
+#. of Canada.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Nikawiy"
+msgstr "Нікауї"
+
+#. TRANSLATORS: Proper name of star HD 164604
+#. TRANSLATORS: Pincoya is a female water spirit from southern Chilean
+#. mythology who is said to bring drowned sailors to the Caleuche so that they
+#. can live in the afterlife.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Pincoya"
+msgstr "Пінкоя"
+
+#. TRANSLATORS: Proper name of star HD 212771
+#. TRANSLATORS: Lion Rock is a lion-shaped peak overlooking Hong Kong and is a
+#. cultural symbol with deep respect from the local community.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Lionrock"
+msgstr "Лайонрок"
+
+#. TRANSLATORS: Proper name of star HD 173416
+#. TRANSLATORS: Xihe (羲和) is the goddess of the sun in the Chinese mythology
+#. and also represents the earliest astronomers and developers of calendars in
+#. ancient China.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Xihe"
+msgstr "Сіхе"
+
+#. TRANSLATORS: Proper name of star HD 100655
+#. TRANSLATORS: Formosa is the historical name of Taiwan used in the 17th
+#. century, meaning beautiful in Latin.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Formosa"
+msgstr "Формоза"
+
+#. TRANSLATORS: Proper name of star HD 93083
+#. TRANSLATORS: Macondo is the mythical village of the novel One Hundred Years
+#. of Solitude (Cien años de soledad) the classic novel by Gabriel García
+#. Marquez. Macondo is a fictional place where magic and reality are mixed.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Macondo"
+msgstr "Макондо"
+
+#. TRANSLATORS: Proper name of star HD 221287
+#. TRANSLATORS: Poerava is the word in the Cook Islands Maori language for a
+#. large mystical black pearl of utter beauty and perfection.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Poerava"
+msgstr "Поерава"
+
+#. TRANSLATORS: Proper name of star HD 75898
+#. TRANSLATORS: Stribor is God of winds in Slavic mythology, as well as a
+#. literature character in the book Priče iz davnine (Croatian Tales of Long
+#. Ago) by the Croatian author Ivana Brlić-Mažuranić.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Stribor"
+msgstr "Стрибор"
+
+#. TRANSLATORS: Proper name of star BD-17 63
+#. TRANSLATORS: Felix Varela (1788–1853) was the first to teach science in
+#. Cuba at the San Carlos and San Ambrosio Seminary. He opened the way to
+#. education for all, and began the experimental teaching of physics in Cuba.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Felixvarela"
+msgstr "Феліксварела"
+
+#. TRANSLATORS: Proper name of star HD 168746
+#. TRANSLATORS: Alasia is the first historically recorded name of Cyprus,
+#. dating back to mid-fifteenth century BC.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Alasia"
+msgstr "Аласія"
+
+#. TRANSLATORS: Proper name of star HD 6434
+#. TRANSLATORS: Nenque means the Sun in the language spoken by the Indigenous
+#. Waorani tribes of the Amazon regions of Ecuador
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Nenque"
+msgstr "Ненке"
+
+#. TRANSLATORS: Proper name of star HD 52265
+#. TRANSLATORS: Citalá means River of stars in the native Nahuat language.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Citalá"
+msgstr "Сітала"
+
+#. TRANSLATORS: Proper name of star HD 16175
+#. TRANSLATORS: Buna is the commonly used word for coffee in Ethiopia.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Buna"
+msgstr "Буна"
+
+#. TRANSLATORS: Proper name of star HD 8574
+#. TRANSLATORS: Bélénos was the god of light, of the Sun, and of health in
+#. Gaulish mythology.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Bélénos"
+msgstr "Беленос"
+
+#. TRANSLATORS: Proper name of star HD 208487
+#. TRANSLATORS: Itonda, in the Myene tongue, corresponds to all that is
+#. beautiful.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Itonda"
+msgstr "Ітонда"
+
+#. TRANSLATORS: Proper name of star HD 32518
+#. TRANSLATORS: Mago is a National Park in Ethiopia noted for its giraffes.
+#. The star also happens to be in the constellation of Camelopardis (the
+#. giraffe).
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Mago"
+msgstr "Маго"
+
+#. TRANSLATORS: Proper name of star HD 181720
+#. TRANSLATORS: Sika means gold in the Ewe language and gold is one of Ghana's
+#. principal exports.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Sika"
+msgstr "Сіка"
+
+#. TRANSLATORS: Proper name of star HD 1502
+#. TRANSLATORS: The Citadelle is a large mountaintop fortress in Nord, Haiti
+#. built after Haiti's independence, and was designated a UNESCO World
+#. Heritage site along with the nearby Sans-Souci Palace.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Citadelle"
+msgstr "Цитадель"
+
+#. TRANSLATORS: Proper name of star HD 98219
+#. TRANSLATORS: Hunahpú was one of the twin gods who became the Sun in K'iche'
+#. (Quiché) Mayan mythology as recounted in the Popol Vuh.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Hunahpú"
+msgstr "Хунахпу"
+
+#. TRANSLATORS: Proper name of star HAT-P-2
+#. TRANSLATORS: Hunor was a legendary ancestor of the Huns and the Hungarian
+#. nation, and brother of Magor.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Hunor"
+msgstr "Гунор"
+
+#. TRANSLATORS: Proper name of star HD 109246
+#. TRANSLATORS: Funi is an old Icelandic word meaning fire or blaze.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Funi"
+msgstr "Фуні"
+
+#. TRANSLATORS: Proper name of star HD 86081
+#. TRANSLATORS: Bibhā [/bɪbɦa/] is the Bengali pronunciation of the Sanskrit
+#. word Vibha, which means a bright beam of light.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Bibhā"
+msgstr "Бібха"
+
+#. TRANSLATORS: Proper name of star HD 117618
+#. TRANSLATORS: Dofida means our star in Nias language.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Dofida"
+msgstr "Дофіда"
+
+#. TRANSLATORS: Proper name of star HD 175541
+#. TRANSLATORS: Kaveh is one of the heroes of Shahnameh, the epic poem
+#. composed by Persian poet Ferdowsi between 977 and 1010 CE. Kaveh is a
+#. blacksmith who symbolises justice.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Kaveh"
+msgstr "Каве"
+
+#. TRANSLATORS: Proper name of star HD 231701
+#. TRANSLATORS: Uruk was an ancient city of the Sumer and Babylonian
+#. civilizations in Mesopotamia situated along an ancient channel of the
+#. Euphrates river in modern-day Iraq.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Uruk"
+msgstr "Урук"
+
+#. TRANSLATORS: Proper name of star HD 102195
+#. TRANSLATORS: Flegetonte is the underworld river of fire from Greek
+#. Mythology in the Italian narrative poem on the afterlife 'Divina Commedia'
+#. (Divine Commedy) by Dante Alighieri, chosen as an allusion to the star's
+#. fiery nature.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Flegetonte"
+msgstr "Флегетонте"
+
+#. TRANSLATORS: Proper name of star HD 83443
+#. TRANSLATORS: The word Kalausi means a very strong whirling column of wind
+#. in the Dholuo language of Kenya.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Kalausi"
+msgstr "Калаусі"
+
+#. TRANSLATORS: Proper name of star HD 118203
+#. TRANSLATORS: Liesma means flame, and it is the name of a character from the
+#. Latvian poem Staburags un Liesma.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Liesma"
+msgstr "Лієсма"
+
+#. TRANSLATORS: Proper name of star HD 192263
+#. TRANSLATORS: Phoenicia was an ancient thalassocratic civilisation of the
+#. Mediterranean that originated from the area of modern-day Lebanon.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Phoenicia"
+msgstr "Фінікія"
+
+#. TRANSLATORS: Proper name of star HD 45350
+#. TRANSLATORS: The Lucilinburhuc fortress was built in 963 by the founder of
+#. Luxembourg, Count Siegfried.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Lucilinburhuc"
+msgstr "Люсілінбурхуц"
+
+#. TRANSLATORS: Proper name of star HD 153950
+#. TRANSLATORS: Rapeto is a giant creature from Malagasy tales.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Rapeto"
+msgstr "Рапето"
+
+#. TRANSLATORS: Proper name of star HD 20868
+#. TRANSLATORS: Intan means diamond in the Malay language (Bahasa Melayu),
+#. alluding to the shining of a star.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Intan"
+msgstr "Інтан"
+
+#. TRANSLATORS: Proper name of star HD 224693
+#. TRANSLATORS: Axólotl means water animal in the native Nahuatl language,
+#. which is a unique and culturally significant endemic amphibious species
+#. from the basin of Mexico.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Axólotl"
+msgstr "Аксолотль"
+
+#. TRANSLATORS: Proper name of star HD 7199
+#. TRANSLATORS: Emiw represents love in the local Makhuwa language of the
+#. northern region of Mozambique.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Emiw"
+msgstr "Емів"
+
+#. TRANSLATORS: Proper name of star HD 18742
+#. TRANSLATORS: Ayeyarwady is the largest and most important river in Myanmar.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Ayeyarwady"
+msgstr "Іраваді"
+
+#. TRANSLATORS: Proper name of star HD 100777
+#. TRANSLATORS: Sagarmatha is the Nepali name for the highest peak in the
+#. world (also known as Mount Everest) and symbol of national pride of Nepal.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Sagarmatha"
+msgstr "Сагарматха"
+
+#. TRANSLATORS: Proper name of star HD 137388
+#. TRANSLATORS: Karaka is the word in the Māori language for a plant endemic
+#. to New Zealand that produces a bright orange, fleshy fruit.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Karaka"
+msgstr "Карака"
+
+#. TRANSLATORS: Proper name of star HD 4208
+#. TRANSLATORS: Cocibolca is the Nahualt name for the largest lake in Central
+#. America in Nicaragua.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Cocibolca"
+msgstr "Косіболка"
+
+#. TRANSLATORS: Proper name of star HD 43197
+#. TRANSLATORS: Amadioha is the god of thunder in Igbo mythology. As well as
+#. representing justice, Amadioha is also a god of love, peace and unity.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Amadioha"
+msgstr "Амадіоха"
+
+#. TRANSLATORS: Proper name of star HD 68988
+#. TRANSLATORS: Násti means star in the Northern Sami language of Norway.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Násti"
+msgstr "Насті"
+
+#. TRANSLATORS: Proper name of star HAT-P-23
+#. TRANSLATORS: Shama is an Urdu literary term meaning a small lamp or flame,
+#. symbolic of the light of the star.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Shama"
+msgstr "Шама"
+
+#. TRANSLATORS: Proper name of star HD 99109
+#. TRANSLATORS: Moriah is an ancient name for the mountain within the Old City
+#. of Jerusalem.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Moriah"
+msgstr "Моріа"
+
+#. TRANSLATORS: Proper name of star HD 108147
+#. TRANSLATORS: Tupã is one of four principle gods of the Guarani Cosmogony in
+#. popular Paraguayan folklore that helped the supreme god Ñamandu to create
+#. the Universe.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Tupã"
+msgstr "Тупа"
+
+#. TRANSLATORS: Proper name of star HD 156411
+#. TRANSLATORS: Inquil was one half of the couple involved in the tragic love
+#. story Way to the Sun by famous Peruvian writer Abraham Valdelomar.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Inquill"
+msgstr "Інкіл"
+
+#. TRANSLATORS: Proper name of star HD 102117
+#. TRANSLATORS: Uklun means us or we in the Pitkern language of the people of
+#. Pitcairn Islands.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Uklun"
+msgstr "Уклун"
+
+#. TRANSLATORS: Proper name of star BD+14 4559
+#. TRANSLATORS: Solaris is the title of a 1961 science fiction novel about an
+#. ocean-covered exoplanet by Polish writer Stanislaw Lem.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Solaris"
+msgstr "Соляріс"
+
+#. TRANSLATORS: Proper name of star HD 45652
+#. TRANSLATORS: Lusitânia is the ancient name of the western region of the
+#. Iberic Peninsula where the Lusitanian people lived and where most of
+#. modern-day Portugal is situated.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Lusitânia"
+msgstr "Лузітанія"
+
+#. TRANSLATORS: Proper name of star HIP 12961
+#. TRANSLATORS: Koeia was the word for star in the language of the Taíno
+#. Indigenous People of the Caribbean.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Koeia"
+msgstr "Коея"
+
+#. TRANSLATORS: Proper name of star HD 181342
+#. TRANSLATORS: Belel is a rare source of water in the north of Senegal.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Belel"
+msgstr "Белел"
+
+#. TRANSLATORS: Proper name of star 8 Umi
+#. TRANSLATORS: Baekdu is the highest mountain on the Korean peninsula,
+#. situated in North Korea, and symbolises the national spirit of Korea.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Baekdu"
+msgstr "Пекту"
+
+#. TRANSLATORS: Proper name of star HD 149143
+#. TRANSLATORS: Rosalía de Castro was a significant figure of Galician culture
+#. and prominent Spanish writer, whose pioneeting work often referenced the
+#. night and celestial objects.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Rosalíadecastro"
+msgstr "Росаліядекастро"
+
+#. TRANSLATORS: Proper name of star HD 205739
+#. TRANSLATORS: Sāmaya means peace in the Sinhalese language.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Sāmaya"
+msgstr "Самая"
+
+#. TRANSLATORS: Proper name of star HD 102956
+#. TRANSLATORS: Aniara is the name of a spaceship in the epic poem Aniara by
+#. Swedish author Harry Martinson.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Aniara"
+msgstr "Аніара"
+
+#. TRANSLATORS: Proper name of star HD 130322
+#. TRANSLATORS: Mönch is one of the prominent peaks of the Bernese Alps in
+#. Switzerland.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Mönch"
+msgstr "Мьонх"
+
+#. TRANSLATORS: Proper name of star HD 218566
+#. TRANSLATORS: Ebla was one of the earliest kingdoms in Syria, and served as
+#. a prominent region in the 2nd and 3rd millennia B.C.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Ebla"
+msgstr "Ебла"
+
+#. TRANSLATORS: Proper name of star HD 96063
+#. TRANSLATORS: Dingolay means to dance, twist and turn in elaborate
+#. movements, symbolising the culture and language of the ancestors of the
+#. people of Trinidad and Tobago.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Dingolay"
+msgstr "Дінголай"
+
+#. TRANSLATORS: Proper name of star HD 192699
+#. TRANSLATORS: Chechia is a flat-surfaced, traditional red wool hat worn by
+#. men and women, symbolising the country's rich traditions and is considered
+#. as the national headdress for in Tunisia.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Chechia"
+msgstr "Шешія"
+
+#. TRANSLATORS: Proper name of star HIP 79431
+#. TRANSLATORS: Sharjah is the cultural capital of United Arab Emirates, and
+#. considered the city of knowledge due to its many educational centers,
+#. institutes, museums, libraries and heritage centers.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Sharjah"
+msgstr "Шарджа"
+
+#. TRANSLATORS: Proper name of star HD 17156
+#. TRANSLATORS: Nushagak is a regional river near Dilingham, Alaska, which is
+#. famous for its wild salmon that sustain local Indigenous communities.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Nushagak"
+msgstr "Нушагак"
+
+#. TRANSLATORS: Proper name of star HD 63454
+#. TRANSLATORS: Ceibo is the name of the native tree of Uruguay that gives
+#. rise to the national flower.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Ceibo"
+msgstr "Сейбо"
+
+#. TRANSLATORS: Proper name of star HD 85390
+#. TRANSLATORS: Natasha means thank you in many languages of Zambia.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Natasha"
+msgstr "Наташа"
+
+msgid "Ursa Minor"
+msgstr "Мала Ведмедиця"
+
+msgid "Ursa Major"
+msgstr "Велика Ведмедиця"
+
+msgid "Draco"
+msgstr "Дракон"
+
+msgid "Cepheus"
+msgstr "Цефей"
+
+msgid "Bootes"
+msgstr "Волопас"
+
+msgid "Corona Borealis"
+msgstr "Північна Корона"
+
+msgid "Hercules"
+msgstr "Геркулес"
+
+msgid "Lyra"
+msgstr "Ліра"
+
+msgid "Cygnus"
+msgstr "Лебідь"
+
+msgid "Cassiopeia"
+msgstr "Кассіопея"
+
+msgid "Perseus"
+msgstr "Персей"
+
+msgid "Auriga"
+msgstr "Візничий"
+
+msgid "Ophiuchus"
+msgstr "Змієносець"
+
+msgid "Serpens"
+msgstr "Змія"
+
+msgid "Sagitta"
+msgstr "Стріла"
+
+msgid "Aquila"
+msgstr "Орел"
+
+msgid "Delphinus"
+msgstr "Дельфін"
+
+msgid "Equuleus"
+msgstr "Малий Кінь"
+
+msgid "Pegasus"
+msgstr "Пегас"
+
+msgid "Andromeda"
+msgstr "Андромеда"
+
+msgid "Triangulum"
+msgstr "Трикутник"
+
+msgid "Aries"
+msgstr "Овен"
+
+msgid "Taurus"
+msgstr "Телець"
+
+msgid "Gemini"
+msgstr "Близнюки"
+
+msgid "Cancer"
+msgstr "Рак"
+
+msgid "Leo"
+msgstr "Лев"
+
+msgid "Virgo"
+msgstr "Діва"
+
+msgid "Libra"
+msgstr "Терези"
+
+msgid "Scorpius"
+msgstr "Скорпіон"
+
+msgid "Sagittarius"
+msgstr "Стрілець"
+
+msgid "Capricornus"
+msgstr "Козоріг"
+
+msgid "Aquarius"
+msgstr "Водолій"
+
+msgid "Pisces"
+msgstr "Риби"
+
+msgid "Cetus"
+msgstr "Левіафан"
+
+msgid "Orion"
+msgstr "Оріон"
+
+msgid "Eridanus"
+msgstr "Ерідан"
+
+msgid "Lepus"
+msgstr "Заєць"
+
+msgid "Canis Major"
+msgstr "Великий Пес"
+
+msgid "Canis Minor"
+msgstr "Малий Пес"
+
+msgid "Hydra"
+msgstr "Гідра"
+
+msgid "Crater"
+msgstr "Чаша"
+
+msgid "Corvus"
+msgstr "Ворон"
+
+msgid "Centaurus"
+msgstr "Кентавр"
+
+msgid "Lupus"
+msgstr "Вовк"
+
+msgid "Ara"
+msgstr "Ara"
+
+msgid "Corona Australis"
+msgstr "Південна Корона"
+
+msgid "Piscis Austrinus"
+msgstr "Південна Риба"
+
+msgid "Han"
+msgstr "Han"
+
+msgid "Wei"
+msgstr "Wei"
+
+msgid "Procyon"
+msgstr "Проціон"
+
+msgid "Sirius"
+msgstr "Сіріус"
+
+msgid "Arcturus"
+msgstr "Арктур"
+
+msgid "Vega"
+msgstr "Вега"
+
+msgid "Capella"
+msgstr "Капелла"
+
+msgid "Aldebaran"
+msgstr "Альдебарана"
+
+msgid "Regulus"
+msgstr "Регул"
+
+msgid "Denebola"
+msgstr "Денебола"
+
+msgid "Spica"
+msgstr "Спіка"
+
+msgid "Fomalhaut"
+msgstr "Фомальгаут"
+
+msgid "Betelgeuse"
+msgstr "Бетельгейзе"
+
+msgid "Rigel"
+msgstr "Рігель"
+
+msgid "Canopus"
+msgstr "Канопус"
+
+msgid "Bellatrix"
+msgstr "Беллатрікс"
+
+msgid "Alnitak"
+msgstr "Альнітак"
+
+msgid "Alnilam"
+msgstr "Альнілам"
+
+msgid "Mintaka"
+msgstr "Мінтака"
+
+msgid "Achernar"
+msgstr "Ахернар"
+
+msgid "Acrux"
+msgstr "Акрукс"
+
+msgid "Hadar"
+msgstr "Хадар"
+
+msgid "Antares"
+msgstr "Антарес"
+
+msgid "Sculptor"
+msgstr "Скульптор"
+
+msgid "Pyxis"
+msgstr "Компас"
+
+msgid "Caelum"
+msgstr "Різець"
+
+msgid "Chamaeleon"
+msgstr "Хамелеон"
+
+msgid "Carina"
+msgstr "Кіль"
+
+msgid "Coma Berenices"
+msgstr "Волосся Вероніки"
+
+msgid "Canes Venatici"
+msgstr "Гончі Пси"
+
+msgid "Columba"
+msgstr "Голуб"
+
+msgid "Circinus"
+msgstr "Циркуль"
+
+msgid "Crux"
+msgstr "Хрест (Південний)"
+
+msgid "Dorado"
+msgstr "Золота Риба"
+
+msgid "Norma"
+msgstr "Косинець"
+
+msgid "Fornax"
+msgstr "Піч"
+
+msgid "Camelopardalis"
+msgstr "Жирафа"
+
+msgid "Grus"
+msgstr "Журавель"
+
+msgid "Horologium"
+msgstr "Годинник"
+
+msgid "Hydrus"
+msgstr "Південний Змій"
+
+msgid "Indus"
+msgstr "Індієць"
+
+msgid "Lacerta"
+msgstr "Ящірка"
+
+msgid "Monoceros"
+msgstr "Одноріг"
+
+msgid "Lynx"
+msgstr "Рись"
+
+msgid "Antlia"
+msgstr "Насос"
+
+msgid "Microscopium"
+msgstr "Мікроскоп"
+
+msgid "Musca"
+msgstr "Муха"
+
+msgid "Octans"
+msgstr "Октант"
+
+msgid "Apus"
+msgstr "Райський Птах"
+
+msgid "Pavo"
+msgstr "Павич"
+
+msgid "Pictor"
+msgstr "Живописець"
+
+msgid "Leo Minor"
+msgstr "Малий Лев"
+
+msgid "Vulpecula"
+msgstr "Лисичка"
+
+msgid "Phoenix"
+msgstr "Фенікс"
+
+msgid "Volans"
+msgstr "Летюча Риба"
+
+msgid "Puppis"
+msgstr "Корма"
+
+msgid "Reticulum"
+msgstr "Сітка"
+
+msgid "Scutum"
+msgstr "Щит"
+
+msgid "Sextans"
+msgstr "Секстант"
+
+msgid "Mensa"
+msgstr "Столова Гора"
+
+msgid "Telescopium"
+msgstr "Телескоп"
+
+msgid "Tucana"
+msgstr "Тукан"
+
+msgid "Triangulum Australe"
+msgstr "Південний Трикутник"
+
+msgid "Vela"
+msgstr "Вітрила"
+
+msgid "Alpheratz"
+msgstr "Альферац"
+
+msgid "Sirrah"
+msgstr "Сіррах"
+
+msgid "Mirach"
+msgstr "Мірах"
+
+msgid "Almach"
+msgstr "Альмах"
+
+msgid "Almaak"
+msgstr "Альмаак"
+
+msgid "Alamak"
+msgstr "Аламак"
+
+msgid "Adhil"
+msgstr "Адхіл"
+
+msgid "Nembus"
+msgstr "Нембус"
+
+msgid "Thail"
+msgstr "Таїл"
+
+msgid "Sadalmelik"
+msgstr "Садалмелік"
+
+msgid "Sadalmelek"
+msgstr "Садалмелек"
+
+msgid "Sadalsuud"
+msgstr "Садалсууд"
+
+msgid "Sadalsud"
+msgstr "Садалсуд"
+
+msgid "Sadachbia"
+msgstr "Садахбія"
+
+msgid "Sadalachbia"
+msgstr "Садалахбіа"
+
+msgid "Sadachiba"
+msgstr "Садакіба"
+
+msgid "Skat"
+msgstr "Скат"
+
+msgid "Scheat"
+msgstr "Шеат"
+
+msgid "Albali"
+msgstr "Альбалі"
+
+msgid "Ancha"
+msgstr "Анка"
+
+msgid "Situla"
+msgstr "Сітула"
+
+msgid "Sadaltager"
+msgstr "Садальтажір"
+
+msgid "Alsad"
+msgstr "Альсад"
+
+msgid "Hydor"
+msgstr "Гідор"
+
+msgid "Albulan II"
+msgstr "Альбулан II"
+
+msgid "Albulaan"
+msgstr "Альбулаан"
+
+msgid "Albulan I"
+msgstr "Альбулан I"
+
+msgid "Bunda"
+msgstr "Бунда"
+
+msgid "Sadalmulk"
+msgstr "Садальмульк"
+
+msgid "Al Sa'd al Mulk"
+msgstr "Аль-Сад аль-Мульк"
+
+msgid "Seat"
+msgstr "Сеат"
+
+msgid "Altair"
+msgstr "Альтаїр"
+
+msgid "Atair"
+msgstr "Атаїр"
+
+msgid "Alshain"
+msgstr "Альшаїн"
+
+msgid "Alschairn"
+msgstr "Альшаїрн"
+
+msgid "Tarazed"
+msgstr "Таразед"
+
+msgid "Reda"
+msgstr "Реда"
+
+msgid "Al Thalimain Prior"
+msgstr "Аль-Талімейн Пріор"
+
+msgid "Al Thalimain I"
+msgstr "Аль Талімейн I"
+
+msgid "Al Thalimain Posterior"
+msgstr "Аль Талімейн Молодший"
+
+msgid "Al Thalimain II"
+msgstr "Аль Талімейн II"
+
+msgid "Althalimain"
+msgstr "Альталімайн"
+
+msgid "Okab"
+msgstr "Окаб"
+
+msgid "Deneb al Okab Australis"
+msgstr "Денеб аль-Окаб Аустраліс"
+
+msgid "Deneb el Okab"
+msgstr "Денеб ель-Окаб"
+
+msgid "Dheneb"
+msgstr "Дхенеб"
+
+msgid "Deneb al Okab Borealis"
+msgstr "Денеб аль-Окаб Бореаліс"
+
+msgid "Almizan I"
+msgstr "Альміцан I"
+
+msgid "Deneb Okab"
+msgstr "Денеб Окаб"
+
+msgid "Almizan II"
+msgstr "Альміцан II"
+
+msgid "Almizan III"
+msgstr "Альміцан III"
+
+msgid "Hamal"
+msgstr "Гамаль"
+
+msgid "Sheratan"
+msgstr "Шератан"
+
+msgid "Mesarthim"
+msgstr "Месартхім"
+
+msgid "Mesartim"
+msgstr "Месартім"
+
+msgid "Botein"
+msgstr "Ботейн"
+
+msgid "Barani I"
+msgstr "Барані I"
+
+msgid "Barani II"
+msgstr "Барані II"
+
+msgid "Lilii Borea"
+msgstr "Північна Лілія"
+
+msgid "Barani III"
+msgstr "Барані III"
+
+msgid "Bharani"
+msgstr "Бхарані"
+
+msgid "Nair al Butain"
+msgstr "Наїр аль-Бутейн"
+
+msgid "Al Butain III"
+msgstr "Аль Бутейн III"
+
+msgid "Al Butain IV"
+msgstr "Аль Бутейн IV"
+
+msgid "Koleon"
+msgstr "Колеон"
+
+msgid "Al Butain I"
+msgstr "Аль Бутейн I"
+
+msgid "Al Butain II"
+msgstr "Аль Бутейн II"
+
+msgid "Alhajoth"
+msgstr "Альхайот"
+
+msgid "Goat Star"
+msgstr "Козяча зірка"
+
+msgid "Menkalinan"
+msgstr "Менкалінан"
+
+msgid "Menkarlina"
+msgstr "Менкарліна"
+
+msgid "Hassaleh"
+msgstr "Хассалех"
+
+msgid "Kabalinan"
+msgstr "Кабалінан"
+
+msgid "Saclateni"
+msgstr "Саклатені"
+
+msgid "Haedus I"
+msgstr "Гедус I"
+
+msgid "Haedus"
+msgstr "Гедус"
+
+msgid "Sadatoni"
+msgstr "Садатоні"
+
+msgid "Almaaz"
+msgstr "Альмаац"
+
+msgid "Al Ma'az"
+msgstr "Аль Ма’ац"
+
+msgid "Alanz"
+msgstr "Аланц"
+
+msgid "Al Anz"
+msgstr "Аль-Анз"
+
+msgid "Haedus II"
+msgstr "Гедус II"
+
+msgid "Mahasim"
+msgstr "Махазім"
+
+msgid "Bogardus"
+msgstr "Богард"
+
+msgid "Alhiba II"
+msgstr "Альхіба II"
+
+msgid "Alhiba I"
+msgstr "Альхіба I"
+
+msgid "Alhiba III"
+msgstr "Альхіба III"
+
+msgid "Dolones I"
+msgstr "Долонес I"
+
+msgid "Dolones III"
+msgstr "Долонес III"
+
+msgid "Dolones II"
+msgstr "Долонес II"
+
+msgid "Dolones IV"
+msgstr "Долонес IV"
+
+msgid "Dolones V"
+msgstr "Долонес V"
+
+msgid "Dolones VI"
+msgstr "Долонес VI"
+
+msgid "Dolones VII"
+msgstr "Долонес VII"
+
+msgid "Dolones VIII"
+msgstr "Долонес VIII"
+
+msgid "Dolones IX"
+msgstr "Долонес IX"
+
+msgid "Andrews' star"
+msgstr "Зірка Ендрюса"
+
+msgid "Prijipati"
+msgstr "Пріджипаті"
+
+msgid "Nekkar"
+msgstr "Неккар"
+
+msgid "Seginus"
+msgstr "Сегін"
+
+msgid "Haris"
+msgstr "Гаріс"
+
+msgid "Izar"
+msgstr "Ізар"
+
+msgid "Pulcherrima"
+msgstr "Пульхерріма"
+
+msgid "Mirak"
+msgstr "Мірак"
+
+msgid "Mirac"
+msgstr "Мірак"
+
+msgid "Muphrid"
+msgstr "Мюфрід"
+
+msgid "Alkalurops"
+msgstr "Алькалуропс"
+
+msgid "Inkalunis"
+msgstr "Інкалуніс"
+
+msgid "Clava"
+msgstr "Клава"
+
+msgid "Venabulum"
+msgstr "Венабулум"
+
+msgid "Merga"
+msgstr "Мерга"
+
+msgid "Asellus Primus"
+msgstr "Асселус Прімус"
+
+msgid "Asellus Secundus"
+msgstr "Аселлус Секундус"
+
+msgid "Asellus Secondus"
+msgstr "Аселлус Секондус"
+
+msgid "Asellus Tertius"
+msgstr "Аселлус Терціус"
+
+msgid "Thiba"
+msgstr "Тіба"
+
+msgid "Xuange"
+msgstr "Сюанге"
+
+msgid "Aulad Althiba"
+msgstr "Аулад Альтіба"
+
+msgid "Ceginus"
+msgstr "Цегінус"
+
+msgid "Aulad Alnathlat"
+msgstr "Аулад Альнатлат"
+
+msgid "Acubens"
+msgstr "Акубенс"
+
+msgid "Sertan"
+msgstr "Сертан"
+
+msgid "Asellus Borealis"
+msgstr "Аселлус Бореаліс"
+
+msgid "Asellus Australis"
+msgstr "Аселлус Аустраліс"
+
+msgid "Tegmine"
+msgstr "Тегмен"
+
+msgid "Tegmeni"
+msgstr "Тегмені"
+
+msgid "Tarf"
+msgstr "Тарф"
+
+msgid "Al Tarf"
+msgstr "Аль Тарф"
+
+msgid "Altarf"
+msgstr "Альтарф"
+
+msgid "Meleph"
+msgstr "Мелеф"
+
+msgid "Almalaf"
+msgstr "Альмалаф"
+
+msgid "Zubanah"
+msgstr "Цубанах"
+
+msgid "Piautos"
+msgstr "Піаутос"
+
+msgid "Nahn"
+msgstr "Нан"
+
+msgid "Cor Caroli"
+msgstr "Кор Каролі"
+
+msgid "Chara"
+msgstr "Хара"
+
+msgid "Asterion"
+msgstr "Астеріон"
+
+msgid "La Superba"
+msgstr "Ла Суперба"
+
+msgid "Canicula"
+msgstr "Канікула"
+
+msgid "Aschere"
+msgstr "Ащере"
+
+msgid "Mirzam"
+msgstr "Мірцам"
+
+msgid "Murzim"
+msgstr "Мурзім"
+
+msgid "Murzam"
+msgstr "Мурзам"
+
+msgid "Muliphein"
+msgstr "Муліфейн"
+
+msgid "Mirza"
+msgstr "Мірца"
+
+msgid "Isis"
+msgstr "Ісіда"
+
+msgid "Wezen"
+msgstr "Везен"
+
+msgid "Alwazn"
+msgstr "Альвазн"
+
+msgid "Al Wazor"
+msgstr "Аль-Вазор"
+
+msgid "Wezea"
+msgstr "Везея"
+
+msgid "Adhara"
+msgstr "Адхара"
+
+msgid "Adara"
+msgstr "Адара"
+
+msgid "Furud"
+msgstr "Фуруд"
+
+msgid "Phurad"
+msgstr "Фурад"
+
+msgid "Aludra"
+msgstr "Алудра"
+
+msgid "Udra"
+msgstr "Удра"
+
+msgid "Al Zara"
+msgstr "Аль Зара"
+
+msgid "Nganurganity"
+msgstr "Нганурганіті"
+
+msgid "Winter Albireo"
+msgstr "Зимова Альбірео"
+
+msgid "Elgomaisa"
+msgstr "Ельгомайса"
+
+msgid "Antecanis"
+msgstr "Антеканіс"
+
+msgid "Gomeisa"
+msgstr "Гомейса"
+
+msgid "Algomeyla"
+msgstr "Альгомейла"
+
+msgid "Gomelza"
+msgstr "Гомелса"
+
+msgid "Luyten's Star"
+msgstr "Зірка Люйтена"
+
+msgid "Prima Giedi"
+msgstr "Пріма Гієді"
+
+msgid "Gredi"
+msgstr "Греді"
+
+msgid "Giedi"
+msgstr "Гієді"
+
+msgid "Al Giedi Prima"
+msgstr "Аль-Ґ'єді Прима"
+
+msgid "Algedi"
+msgstr "Альгеді"
+
+msgid "Secunda Giedi"
+msgstr "Секунда Гієді"
+
+msgid "Al Giedi"
+msgstr "Альгеді"
+
+msgid "Dabih"
+msgstr "Дабіх"
+
+msgid "Dabih Major"
+msgstr "Дабіх Мажор"
+
+msgid "Dabih Minor"
+msgstr "Дабіх Мінор"
+
+msgid "Nashira"
+msgstr "Нашира"
+
+msgid "Deneb Algedi"
+msgstr "Денеб Альгеді"
+
+msgid "Deneb Algiedi"
+msgstr "Денеб Альгеді"
+
+msgid "Scheddi"
+msgstr "Шедді"
+
+msgid "Deneb al Giedi"
+msgstr "Денеб Альгеді"
+
+msgid "Alshat"
+msgstr "Альшат"
+
+msgid "Al Shat"
+msgstr "Аль Шат"
+
+msgid "Yen"
+msgstr "Єн"
+
+msgid "Suhel"
+msgstr "Сухель"
+
+msgid "Miaplacidus"
+msgstr "Міаплацидус"
+
+msgid "Avior"
+msgstr "Авіор"
+
+msgid "Aspidiske"
+msgstr "Аспідіска"
+
+msgid "Tureis"
+msgstr "Турейс"
+
+msgid "Turais"
+msgstr "Тураїс"
+
+msgid "Scutulum"
+msgstr "Скутулум"
+
+msgid "Innes' Star"
+msgstr "Зірка Іннза"
+
+msgid "Schedar"
+msgstr "Шедар"
+
+msgid "Shedar"
+msgstr "Шедар"
+
+msgid "Shedir"
+msgstr "Шедір"
+
+msgid "Caph"
+msgstr "Каф"
+
+msgid "Al Sanam al Nakah"
+msgstr "Аль-Санам Аль-Наках"
+
+msgid "Chaph"
+msgstr "Каф"
+
+msgid "Ruchbah"
+msgstr "Рухба"
+
+msgid "Ksora"
+msgstr "Ксора"
+
+msgid "Rucbar"
+msgstr "Рукбар"
+
+msgid "Achird"
+msgstr "Ахірд"
+
+msgid "Marfak"
+msgstr "Марфак"
+
+msgid "Segin"
+msgstr "Сегін"
+
+msgid "Marfak-East"
+msgstr "Марфак-східна"
+
+msgid "Marfak-West"
+msgstr "Марфак-західна"
+
+msgid "Al Marfak"
+msgstr "Аль Марфак"
+
+msgid "Navi"
+msgstr "Наві"
+
+msgid "Cih"
+msgstr "Ці"
+
+msgid "Fulu"
+msgstr "Фулу"
+
+msgid "Castula"
+msgstr "Кастула"
+
+msgid "Pearce's Star"
+msgstr "Зірка Пірса"
+
+msgid "Rigil Kentaurus"
+msgstr "Рігіл Кентаурус"
+
+msgid "Toliman"
+msgstr "Толіман"
+
+msgid "Rigel Kentaurus"
+msgstr "Рігель Кентаурус"
+
+msgid "Bungula"
+msgstr "Бунгула"
+
+msgid "Proxima"
+msgstr "Проксіма"
+
+msgid "Proxima Centauri"
+msgstr "Проксіма Центравра"
+
+msgid "Agena"
+msgstr "Аґена"
+
+msgid "Muhlifain"
+msgstr "Мухліфейн"
+
+msgid "Menkent"
+msgstr "Менкент"
+
+msgid "Alnair"
+msgstr "Альнаїр"
+
+msgid "Baten Kentaurus"
+msgstr "Батен Кентаурус"
+
+msgid "Al Nair al Kentaurus"
+msgstr "Альнаїр аль-Кентаурус"
+
+msgid "Haratan"
+msgstr "Харатан"
+
+msgid "Przybylski's Star"
+msgstr "Зірка Пржибильського"
+
+msgid "Bidelman's Helium Variable Star"
+msgstr "Гелієва змінна зірка Бідельмана"
+
+msgid "Popper's Star"
+msgstr "Зірка Поппера"
+
+msgid "Ke Kwan"
+msgstr "Ке Кван"
+
+msgid "Alderamin"
+msgstr "Альдерамін"
+
+msgid "Alfirk"
+msgstr "Альфірк"
+
+msgid "Alphirk"
+msgstr "Альфірк"
+
+msgid "Errai"
+msgstr "Ерраї"
+
+msgid "Alrai"
+msgstr "Альрай"
+
+msgid "The Garnet Star"
+msgstr "Гранатова Зірка"
+
+msgid "Erakis"
+msgstr "Еракіс"
+
+msgid "Kurhah"
+msgstr "Курхах"
+
+msgid "Al Kurhah"
+msgstr "Аль Курхах"
+
+msgid "Al Kalb al Rai"
+msgstr "Аль-Кальб аль-Раї"
+
+msgid "Kalbalrai"
+msgstr "Кальбальрай"
+
+msgid "Kruger 60"
+msgstr "Крюгер 60"
+
+msgid "Kabalfird"
+msgstr "Кабальфірд"
+
+msgid "Al Kidr"
+msgstr "Аль Кідр"
+
+msgid "Al Aghnam I"
+msgstr "Аль Агнам I"
+
+msgid "Al Aghnam II"
+msgstr "Аль Агнам II"
+
+msgid "Menkar"
+msgstr "Менкар"
+
+msgid "Diphda"
+msgstr "Діфда"
+
+msgid "Deneb Kaitos"
+msgstr "Денеб Кайтос"
+
+msgid "Baten Kaitos"
+msgstr "Батен Кайтос"
+
+msgid "Mira"
+msgstr "Міра"
+
+msgid "Mira Ceti"
+msgstr "Міра Цеті"
+
+msgid "Kaffaljidhma"
+msgstr "Каффальджідхма"
+
+msgid "Al Kaff al Jidhmah"
+msgstr "Аль Кафф аль-Джидмах"
+
+msgid "Kafalgidma"
+msgstr "Кафальґідма"
+
+msgid "Alkaffaljidhina"
+msgstr "Алькаффальджидіна"
+
+msgid "Deneb Algenubi"
+msgstr "Денеб Аль-дженубі"
+
+msgid "Deneb Kaitos Shemali"
+msgstr "Денеб Кайтос Шемалі"
+
+msgid "Schemali"
+msgstr "Шемалі"
+
+msgid "Baten Kaitos Shemali"
+msgstr "Батен Кайтос Шемалі"
+
+msgid "Menkab"
+msgstr "Менкаб"
+
+msgid "Al Kaff al Jidhmah III"
+msgstr "Аль Кафф аль-Джидмах III"
+
+msgid "Sadr al Kaitos III"
+msgstr "Садр аль-Кайтос III"
+
+msgid "Al Naymat I"
+msgstr "Аль Наймат I"
+
+msgid "Al Kaff al Jidhmah IV"
+msgstr "Аль Кафф аль-Джидмах IV"
+
+msgid "Al Kaff al Jidhmah I"
+msgstr "Аль Кафф аль-Джидмах I"
+
+msgid "Al Kaff al Jidhmah II"
+msgstr "Аль Кафф аль-Джидмах II"
+
+msgid "Sadr al Kaitos IV"
+msgstr "Садр аль-Кайтос IV"
+
+msgid "Sadr al Kaitos I"
+msgstr "Садр аль-Кайтос I"
+
+msgid "Sadr al Kaitos II"
+msgstr "Садр аль-Кайтос II"
+
+msgid "Al Naymat II"
+msgstr "Аль Наймат II"
+
+msgid "Al Naymat III"
+msgstr "Аль Наймат III"
+
+msgid "Alnitham I"
+msgstr "Альнітам I"
+
+msgid "Alnitham II"
+msgstr "Альнітам II"
+
+msgid "Alnitham III"
+msgstr "Альнітам III"
+
+msgid "Alnitham IV"
+msgstr "Альнітам IV"
+
+msgid "Phact"
+msgstr "Факт"
+
+msgid "Phaet"
+msgstr "Фает"
+
+msgid "Phakt"
+msgstr "Факт"
+
+msgid "Phad"
+msgstr "Фад"
+
+msgid "Wazn"
+msgstr "Вазн"
+
+msgid "Wezn"
+msgstr "Везн"
+
+msgid "Elkurud"
+msgstr "Ель-Куруд"
+
+msgid "Kurud I"
+msgstr "Куруд I"
+
+msgid "Kurud II"
+msgstr "Куруд II"
+
+msgid "Polaris Galacticus Borealis"
+msgstr "Поляріс Галактікус Бореаліс"
+
+msgid "Diadem"
+msgstr "Діадем"
+
+msgid "Diadema"
+msgstr "Діадема"
+
+msgid "Kissin"
+msgstr "Кіссін"
+
+msgid "Al Dafirah"
+msgstr "Аль Дафірах"
+
+msgid "Meridiana"
+msgstr "Меридіана"
+
+msgid "Alfecca Meridiana"
+msgstr "Альфекка Мерідіана"
+
+msgid "Alphecca"
+msgstr "Альфекка"
+
+msgid "Gemma"
+msgstr "Гемма"
+
+msgid "Alphekka"
+msgstr "Альфекка"
+
+msgid "Gnosia"
+msgstr "Ґносія"
+
+msgid "Ashtaroth"
+msgstr "Аштарот"
+
+msgid "Nusakan"
+msgstr "Нусакан"
+
+msgid "Variabilis Coronae"
+msgstr "Змінна Корони"
+
+msgid "Blaze Star"
+msgstr "Блискуча Зірка"
+
+msgid "Kamuy"
+msgstr "Камуй"
+
+msgid "Alchiba"
+msgstr "Альчіба"
+
+msgid "Al Chiba"
+msgstr "Аль Чіба"
+
+msgid "Alchita"
+msgstr "Альчита"
+
+msgid "Gienah"
+msgstr "Гієна"
+
+msgid "Gienah Corvi"
+msgstr "Гієна Корві"
+
+msgid "Gienah Ghurab"
+msgstr "Гієна Гураб"
+
+msgid "Minkar"
+msgstr "Мінкар"
+
+msgid "Algorab"
+msgstr "Альгораб"
+
+msgid "Algorel"
+msgstr "Альгорел"
+
+msgid "Kraz"
+msgstr "Крац"
+
+msgid "Alkes"
+msgstr "Алькес"
+
+msgid "Al Sharasif"
+msgstr "Аль Шарасіф"
+
+msgid "Al Sharasif II"
+msgstr "Аль Шарасіф II"
+
+msgid "Abt's Star"
+msgstr "Зірка Абта"
+
+msgid "Mimosa"
+msgstr "Мімоза"
+
+msgid "Becrux"
+msgstr "Бекрукс"
+
+msgid "Gacrux"
+msgstr "Гакрукс"
+
+msgid "Ginan"
+msgstr "Ґінан"
+
+msgid "Imai"
+msgstr "Імай"
+
+msgid "Deneb"
+msgstr "Денеб"
+
+msgid "Arided"
+msgstr "Арідед"
+
+msgid "Aridif"
+msgstr "Арідіф"
+
+msgid "Arrioph"
+msgstr "Аріоф"
+
+msgid "Deneb el Adige"
+msgstr "Денеб Ель-Адідж"
+
+msgid "Deneb Cygni"
+msgstr "Денеб Сигні"
+
+msgid "Albireo"
+msgstr "Альбірео"
+
+msgid "Sadr"
+msgstr "Садр"
+
+msgid "Sadir"
+msgstr "Садір"
+
+msgid "Aljanah"
+msgstr "Альджанах"
+
+msgid "Gienah Cygni"
+msgstr "Гієна Сіґні"
+
+msgid "Al Janah"
+msgstr "Аль Джанах"
+
+msgid "Azelfafage"
+msgstr "Азельфафаге"
+
+msgid "Azelfage"
+msgstr "Азельфаґе"
+
+msgid "Ruchba"
+msgstr "Рухба"
+
+msgid "Rucba"
+msgstr "Рукба"
+
+msgid "Bessel's Star"
+msgstr "Зірка Бесселя"
+
+msgid "Piazzi's Flying Star"
+msgstr "Летюча Зірка П’яцці"
+
+msgid "Campbell's Star"
+msgstr "Зірка Кемпбелла"
+
+msgid "Campbell’s Hydrogen Star"
+msgstr "Воднева Зірка Кемпбела"
+
+msgid "Revenant of the Swan"
+msgstr "Привид Лебедя"
+
+msgid "Permanent nova"
+msgstr "Постійна нова"
+
+msgid "Fawaris"
+msgstr "Фаваріс"
+
+msgid "Fawaris II"
+msgstr "Фаваріс II"
+
+msgid "Fawaris III"
+msgstr "Фаваріс III"
+
+msgid "Fawaris I"
+msgstr "Фаваріс I"
+
+msgid "Sualocin"
+msgstr "Суалокін"
+
+msgid "Svalocin"
+msgstr "Суалоцин"
+
+msgid "Rotanev"
+msgstr "Ротанев"
+
+msgid "Venator"
+msgstr "Венатор"
+
+msgid "Aldulfin"
+msgstr "Аль-Дульфін"
+
+msgid "Deneb Dulfim"
+msgstr "Денеб Дульфім"
+
+msgid "Al Salib"
+msgstr "Аль Саліб"
+
+msgid "Al Ukud"
+msgstr "Аль Укуд"
+
+msgid "Thuban"
+msgstr "Тубан"
+
+msgid "Adib"
+msgstr "Адіб"
+
+msgid "Al Tinnin"
+msgstr "Аль Тіннін"
+
+msgid "Rastaban"
+msgstr "Растабан"
+
+msgid "Alwaid"
+msgstr "Альвейд"
+
+msgid "Asuia"
+msgstr "Асуя"
+
+msgid "Eltanin"
+msgstr "Ельтанін"
+
+msgid "Etamin"
+msgstr "Етамін"
+
+msgid "Taurt"
+msgstr "Таурт"
+
+msgid "Eltamin"
+msgstr "Ельтамін"
+
+msgid "Altais"
+msgstr "Альтаїс"
+
+msgid "Al Tais"
+msgstr "Аль Таїс"
+
+msgid "Nodus II"
+msgstr "Нодус II"
+
+msgid "Nodus Secundus"
+msgstr "Нодус Секундус"
+
+msgid "Aldib"
+msgstr "Альдіб"
+
+msgid "Taïs"
+msgstr "Таїс"
+
+msgid "Edasich"
+msgstr "Едасіх"
+
+msgid "Ed Asich"
+msgstr "Едасіх"
+
+msgid "Al Dhihi"
+msgstr "Аль-Дхіхі"
+
+msgid "Giausar"
+msgstr "Джансар"
+
+msgid "Giansar"
+msgstr "Ґіансар"
+
+msgid "Alrakis"
+msgstr "Альракіс"
+
+msgid "Arrakis"
+msgstr "Арракіс"
+
+msgid "Errakis"
+msgstr "Ерракіс"
+
+msgid "Grumium"
+msgstr "Груміум"
+
+msgid "Genam"
+msgstr "Генам"
+
+msgid "Nodus I"
+msgstr "Нодус I"
+
+msgid "Juza"
+msgstr "Джуза"
+
+msgid "Kuma"
+msgstr "Кума"
+
+msgid "Tyl"
+msgstr "Тил"
+
+msgid "Alsafi"
+msgstr "Альсафі"
+
+msgid "Dziban"
+msgstr "Дзібан"
+
+msgid "Dziban I"
+msgstr "Дзібан I"
+
+msgid "Dziban II"
+msgstr "Дзібан II"
+
+msgid "Dsiban"
+msgstr "Дсібан"
+
+msgid "Al Dhih"
+msgstr "Аль Діх"
+
+msgid "Adfar Aldib II"
+msgstr "Адфар Альдіб II"
+
+msgid "Alruba"
+msgstr "Аль-Руба"
+
+msgid "Aldhibah"
+msgstr "Альдхібах"
+
+msgid "Al Dhibain Posterior"
+msgstr "Аль Дібайн Молодша"
+
+msgid "Dhibah"
+msgstr "Дібах"
+
+msgid "Athebyne"
+msgstr "Атебіна"
+
+msgid "Al Dhibain Prior"
+msgstr "Аль Дібайн Старша"
+
+msgid "Dhibain"
+msgstr "Дібайн"
+
+msgid "Aldhibain"
+msgstr "Альдхібайн"
+
+msgid "Adfar Aldib I"
+msgstr "Адфар Альдіб I"
+
+msgid "Tais I"
+msgstr "Таїс I"
+
+msgid "Tais II"
+msgstr "Таїс II"
+
+msgid "Athafi II"
+msgstr "Атафі II"
+
+msgid "Athafi I"
+msgstr "Атафі I"
+
+msgid "Aldhiba"
+msgstr "Альдіба"
+
+msgid "Alahakan"
+msgstr "Алахакан"
+
+msgid "Taiyi"
+msgstr "Тайї"
+
+msgid "Tianyi"
+msgstr "Тіан'ї"
+
+msgid "Kitalpha"
+msgstr "Кітальфа"
+
+msgid "Cursa"
+msgstr "Курса"
+
+msgid "Dhalim"
+msgstr "Дхалім"
+
+msgid "Kursa"
+msgstr "Курса"
+
+msgid "Zaurak"
+msgstr "Заурак"
+
+msgid "Zibal"
+msgstr "Зібал"
+
+msgid "Azha"
+msgstr "Азха"
+
+msgid "Acamar"
+msgstr "Акамар"
+
+msgid "Dalim"
+msgstr "Далім"
+
+msgid "Beid"
+msgstr "Бейд"
+
+msgid "Keid"
+msgstr "Кеїд"
+
+msgid "Theemin"
+msgstr "Тімін"
+
+msgid "Theemini"
+msgstr "Тееміні"
+
+msgid "Beemim"
+msgstr "Бімім"
+
+msgid "Theemim"
+msgstr "Феемім"
+
+msgid "Beemim II"
+msgstr "Бімім II"
+
+msgid "Angetenar"
+msgstr "Ангетенар"
+
+msgid "Anchat"
+msgstr "Анчат"
+
+msgid "An Anchat al Nahr"
+msgstr "Ан-Анхат Аль-Нахр"
+
+msgid "Beemim III"
+msgstr "Бімім III"
+
+msgid "Rana"
+msgstr "Рана"
+
+msgid "Sceptrum"
+msgstr "Сцептрум"
+
+msgid "Kursi al Jauzah II"
+msgstr "Курсі аль-Джаузах II"
+
+msgid "Aludhi I"
+msgstr "Алуді I"
+
+msgid "Aludhi II"
+msgstr "Алуді II"
+
+msgid "Aludhi III"
+msgstr "Алуді III"
+
+msgid "Beemim I"
+msgstr "Бімім I"
+
+msgid "Kursi al Jauzah I"
+msgstr "Курсі аль-Джаузах I"
+
+msgid "Fornacis"
+msgstr "Форнасіс"
+
+msgid "Castor"
+msgstr "Кастор"
+
+msgid "Apollo"
+msgstr "Аполлон"
+
+msgid "Pollux"
+msgstr "Поллукс"
+
+#. TRANSLATORS: Added context to avoid conflict with constellation name
+msgid "Hercules [star]"
+msgstr "Геракл [зірка]"
+
+msgid "Alhena"
+msgstr "Альгена"
+
+msgid "Almeisan"
+msgstr "Альмейсан"
+
+msgid "Wasat"
+msgstr "Васат"
+
+msgid "Mebsuta"
+msgstr "Мебсута"
+
+msgid "Melucta"
+msgstr "Мелукта"
+
+msgid "Meboula"
+msgstr "Мебула"
+
+msgid "Mekbuda"
+msgstr "Мекбуда"
+
+msgid "Propus"
+msgstr "Пропус"
+
+msgid "Tejat Prior"
+msgstr "Теят Пріор"
+
+msgid "Praepes"
+msgstr "Праепес"
+
+msgid "Tejat"
+msgstr "Тейят"
+
+msgid "Tejat Posterior"
+msgstr "Теят Постеріор"
+
+msgid "Calx"
+msgstr "Келкс"
+
+msgid "Alzirr"
+msgstr "Альзірр"
+
+msgid "Al Zirr"
+msgstr "Аль Зірр"
+
+msgid "Nucatai"
+msgstr "Нюкатай"
+
+msgid "Jishui"
+msgstr "Джишуї"
+
+msgid "Al Na'ir"
+msgstr "Аль-Наїр"
+
+msgid "Al Nair"
+msgstr "Аль-Наїр"
+
+msgid "Aldhanab"
+msgstr "Аль-Дханаб"
+
+msgid "Al Dhanab"
+msgstr "Аль Дханаб"
+
+msgid "Deneb Hut"
+msgstr "Денеб Хат"
+
+msgid "Tiaki"
+msgstr "Тіакі"
+
+msgid "Deneb Alnahr"
+msgstr "Денеб Альнахр"
+
+msgid "Rasalgethi"
+msgstr "Расальгеті"
+
+msgid "Ras Algethi"
+msgstr "Рас Альгеті"
+
+msgid "Kornephoros"
+msgstr "Корнефорос"
+
+msgid "Antilicus"
+msgstr "Антілкус"
+
+msgid "Rutilicus"
+msgstr "Рутілікус"
+
+msgid "Marsic"
+msgstr "Марсік"
+
+msgid "Marfik"
+msgstr "Марфік"
+
+msgid "Maasym"
+msgstr "Масім"
+
+msgid "Masym"
+msgstr "Масим"
+
+msgid "Cujam"
+msgstr "Куям"
+
+msgid "Sarin"
+msgstr "Сарін"
+
+msgid "Nasak Shamiya III"
+msgstr "Насак Шамія III"
+
+msgid "Alphard"
+msgstr "Альфард"
+
+msgid "Kalbelaphard"
+msgstr "Кальбелафард"
+
+msgid "Cor Hydrae"
+msgstr "Серце Змії"
+
+msgid "Ukdah III"
+msgstr "Укдах III"
+
+msgid "Minazal I"
+msgstr "Міназаль I"
+
+msgid "Ashlesha"
+msgstr "Ашлеша"
+
+msgid "Minazal III"
+msgstr "Міназаль III"
+
+msgid "Minazal V"
+msgstr "Міназаль V"
+
+msgid "Minazal II"
+msgstr "Міназаль II"
+
+msgid "Ukdah"
+msgstr "Укдах"
+
+msgid "Ukdah IV"
+msgstr "Укдах IV"
+
+msgid "Al Sharasif I"
+msgstr "Аль Шарасіф I"
+
+msgid "Minazal IV"
+msgstr "Міназаль IV"
+
+msgid "Minchir"
+msgstr "Мінчир"
+
+msgid "Minkalshuja"
+msgstr "Мінкальшуджа"
+
+msgid "Al Minliar al Shuja"
+msgstr "Аль-Мінліар-аль-Шуджа"
+
+msgid "Ukdah I"
+msgstr "Укдах I"
+
+msgid "Ukdah II"
+msgstr "Укдах II"
+
+msgid "Zhang"
+msgstr "Чжанг"
+
+msgid "Felis"
+msgstr "Феліс"
+
+msgid "Persian"
+msgstr "Перська"
+
+msgid "Babcock's Star"
+msgstr "Зірка Баблока"
+
+msgid "Cor Leonis"
+msgstr "Серце Лева"
+
+msgid "Rex"
+msgstr "Рекс"
+
+msgid "Kabeleced"
+msgstr "Кабелесед"
+
+msgid "Al Kalb al Asad"
+msgstr "Аль-Кальб аль-Асад"
+
+msgid "Deneb Aleet"
+msgstr "Денеб Аліт"
+
+msgid "Algieba"
+msgstr "Альгієба"
+
+msgid "Al Geiba"
+msgstr "Аль-Гейба"
+
+msgid "Zosma"
+msgstr "Зосма"
+
+msgid "Duhr"
+msgstr "Духр"
+
+msgid "Zubra"
+msgstr "Зубра"
+
+msgid "Adhafera"
+msgstr "Адгафера"
+
+msgid "Aldhafera"
+msgstr "Айдхафера"
+
+msgid "Chertan"
+msgstr "Шертан"
+
+msgid "Al Haratan"
+msgstr "Аль Харатан"
+
+msgid "Coxa"
+msgstr "Кокса"
+
+msgid "Chort"
+msgstr "Хорт"
+
+msgid "Alterf"
+msgstr "Альтерф"
+
+msgid "Rasalas"
+msgstr "Расалас"
+
+msgid "Alshemali"
+msgstr "Альшемалі"
+
+msgid "Ras Elased Borealis"
+msgstr "Расалас Бореаліс"
+
+msgid "Rassalas"
+msgstr "Рассалас"
+
+msgid "Subra"
+msgstr "Субра"
+
+msgid "Algenubi"
+msgstr "Альдженубі"
+
+msgid "Ras Elased Australis"
+msgstr "Расалас Аустраліс"
+
+msgid "Ras Elased"
+msgstr "Расалас"
+
+msgid "Asad Australis"
+msgstr "Асад Аустраліс"
+
+msgid "Al Minlear al Asad"
+msgstr "Аль-Мінлеар аль-Асад"
+
+msgid "Minkarasad"
+msgstr "Мінкарасад"
+
+msgid "Zubrah"
+msgstr "Зубрах"
+
+msgid "Al Jabhah"
+msgstr "Аль Джабхах"
+
+msgid "Klemola's Star"
+msgstr "Зірка Клемоли"
+
+msgid "Tsze Tseang"
+msgstr "Сі Цичжань"
+
+msgid "Praecipua"
+msgstr "Преціпуа"
+
+msgid "Arneb"
+msgstr "Арнеб"
+
+msgid "Arsh"
+msgstr "Арш"
+
+msgid "Nihal"
+msgstr "Нігаль"
+
+msgid "Hind's Crimson Star"
+msgstr "Пурпурова Зірка Гайнда"
+
+msgid "Kursi al Jabbar"
+msgstr "Курсі аль-Джаббар"
+
+msgid "Arsh al Jauzah"
+msgstr "Арш аль-Джаузах"
+
+msgid "Zubenelgenubi I"
+msgstr "Зубенельґенубі I"
+
+msgid "Zubenelgenubi"
+msgstr "Зубен Ельгенубі"
+
+msgid "Zuben el Genubi"
+msgstr "Зубен-ель-Генубі"
+
+msgid "Zuben Elgenubi"
+msgstr "Зубен Ельгенубі"
+
+msgid "Zubenelgenubi II"
+msgstr "Зубенельґенубі II"
+
+msgid "Zubeneschamali"
+msgstr "Зубен Ельшемалі"
+
+msgid "Zuben Eschamali"
+msgstr "Зубен Ешамалі"
+
+msgid "Zuben Elschemali"
+msgstr "Зубен Ельшемалі"
+
+msgid "Zubenelchemale"
+msgstr "Зубенельшемале"
+
+msgid "Brachium"
+msgstr "Брахіум"
+
+msgid "Zuben Acrabi"
+msgstr "Зубен Акрабі"
+
+msgid "Cornu"
+msgstr "Корну"
+
+msgid "Zubenalgubi"
+msgstr "Зубенальгубі"
+
+msgid "Zuben Elakribi"
+msgstr "Зубен Елакрібі"
+
+msgid "Mulu-Lizi"
+msgstr "Мулу-Лізі"
+
+msgid "Zubenelhakrabi"
+msgstr "Зубен-ель-хакрабі"
+
+msgid "Zuben Elakrab"
+msgstr "Зубен аль-Хакрабі"
+
+msgid "Zuben Hakrabi"
+msgstr "Зубен Хакрабі"
+
+msgid "Methuselah star"
+msgstr "Зірка Метузела"
+
+msgid "Zuban al Kravi"
+msgstr "Зубен-аль-Краві"
+
+msgid "Men"
+msgstr "Мен"
+
+msgid "KeKouan"
+msgstr "КеКоуан"
+
+msgid "Alsciaukat"
+msgstr "Альсціаукат"
+
+msgid "Mabsuthat"
+msgstr "Мабсутхат"
+
+msgid "Shaukah"
+msgstr "Шауках"
+
+msgid "Dolones X"
+msgstr "Долонес X"
+
+msgid "Fidis"
+msgstr "Фідіс"
+
+msgid "Harp star"
+msgstr "Зірка Арфи"
+
+msgid "Sheliak"
+msgstr "Шеліак"
+
+msgid "Sulafat"
+msgstr "Суляфат"
+
+msgid "Jugum"
+msgstr "Юґум"
+
+msgid "Sulaphat"
+msgstr "Сулафат"
+
+msgid "Aladfar"
+msgstr "Аладфар"
+
+msgid "Al Athfar"
+msgstr "Аль Атфар"
+
+msgid "Double Double I"
+msgstr "Дабл Дабл I"
+
+msgid "Double Double II"
+msgstr "Дабл Дабл II"
+
+msgid "Nasr Alwaki I"
+msgstr "Наср Альвакі I"
+
+msgid "Nasr Alwaki II"
+msgstr "Наср Альвакі II"
+
+msgid "Plaskett's Star"
+msgstr "Зірка Пласкетта"
+
+msgid "Red Rectangle"
+msgstr "Червоний прямокутник"
+
+msgid "Polaris Australis"
+msgstr "Поларіс Аустраліс"
+
+msgid "Rasalhague"
+msgstr "Расалгаага"
+
+msgid "Ras Alhague"
+msgstr "Рас Ельхейг"
+
+msgid "Cebalrai"
+msgstr "Кебальраї"
+
+msgid "Kelb Alrai"
+msgstr "Кельб Альрай"
+
+msgid "Cheleb"
+msgstr "Шелеб"
+
+msgid "Yed Prior"
+msgstr "Єд Пріор"
+
+msgid "Yed Posterior"
+msgstr "Єд Постеріор"
+
+msgid "Yed Post"
+msgstr "Єд Пост"
+
+msgid "Sabik"
+msgstr "Сабік"
+
+msgid "Muliphen"
+msgstr "Муліфен"
+
+msgid "Barnard's Star"
+msgstr "Зірка Барнарда"
+
+msgid "Velox Barnardi"
+msgstr "Велокс Барнарді"
+
+msgid "Saik"
+msgstr "Саїк"
+
+msgid "Garafsa"
+msgstr "Ґарафса"
+
+msgid "Aggia"
+msgstr "Аггія"
+
+msgid "Iron Star"
+msgstr "Залізна зірка"
+
+msgid "Guniibuu"
+msgstr "Гуніїбуу"
+
+msgid "Al Mankib"
+msgstr "Аль-Манкіб"
+
+msgid "Betelgeux"
+msgstr "Бетельгеукс"
+
+msgid "Martial Star"
+msgstr "Марсова зірка"
+
+msgid "Algebar"
+msgstr "Альгебар"
+
+msgid "Amazon Star"
+msgstr "Зірка Амазонок"
+
+msgid "Saiph"
+msgstr "Саїф"
+
+msgid "Meissa"
+msgstr "Меїса"
+
+msgid "Heka"
+msgstr "Гека"
+
+msgid "Hatysa"
+msgstr "Хатиса"
+
+msgid "Nair al Saif"
+msgstr "Наїр-аль-Саїф"
+
+msgid "Thabit"
+msgstr "Тхабіт"
+
+msgid "Tabit"
+msgstr "Табіт"
+
+msgid "Mizan Batil I"
+msgstr "Міцан Батіл I"
+
+msgid "Mizan Batil III"
+msgstr "Міцан Батіл III"
+
+msgid "Manica"
+msgstr "Маніка"
+
+msgid "Saif al Jabbar"
+msgstr "Саїф аль-Джаббар"
+
+msgid "Algjebbah"
+msgstr "Альджебба"
+
+msgid "Trapezium"
+msgstr "Трапеція"
+
+msgid "Mizan Batil II"
+msgstr "Міцан Батіл II"
+
+msgid "Al Kumm I"
+msgstr "Аль Кумм I"
+
+msgid "Al Kumm II"
+msgstr "Аль Кумм II"
+
+msgid "Al Taj IV"
+msgstr "Аль Тадж IV"
+
+msgid "Al Taj I"
+msgstr "Аль Тадж I"
+
+msgid "Al Taj II"
+msgstr "Аль Тадж II"
+
+msgid "Al Taj III"
+msgstr "Аль Тадж III"
+
+msgid "Al Taj V"
+msgstr "Аль Тадж V"
+
+msgid "Becklin's Star"
+msgstr "Зірка Бекліна"
+
+msgid "Peacock"
+msgstr "Пікок"
+
+msgid "Markab"
+msgstr "Маркаб"
+
+msgid "Yed Alpheras"
+msgstr "Єд Альферас"
+
+msgid "Marchab"
+msgstr "Мархаб"
+
+msgid "Seat Alpheras"
+msgstr "Шеат Альферас"
+
+msgid "Algenib"
+msgstr "Альгеніб"
+
+msgid "Enif"
+msgstr "Еніф"
+
+msgid "Os Pegasi"
+msgstr "Ос Пегасі"
+
+msgid "Fom"
+msgstr "Фом"
+
+msgid "Fumalfaras"
+msgstr "Фумалфарас"
+
+msgid "Homam"
+msgstr "Хомам"
+
+msgid "Al Hammam"
+msgstr "Аль-Хаммам"
+
+msgid "Homan"
+msgstr "Гоман"
+
+msgid "Matar"
+msgstr "Матар"
+
+msgid "Biham"
+msgstr "Біхам"
+
+msgid "Sadalbari"
+msgstr "Садалбарі"
+
+msgid "Sa'd al Bari'"
+msgstr "Саад аль-Барі"
+
+msgid "Salm"
+msgstr "Сальм"
+
+msgid "Al Karab"
+msgstr "Аль Караб"
+
+msgid "Salma"
+msgstr "Сальма"
+
+msgid "Sadalnazi"
+msgstr "Садальнаці"
+
+msgid "Fum al Faras"
+msgstr "Фум аль-Фарас"
+
+msgid "Suudalnujum"
+msgstr "Суудальнуджум"
+
+msgid "Sadalmatar"
+msgstr "Садальматар"
+
+msgid "Alkarab"
+msgstr "Аль-Караб"
+
+msgid "Mirfak"
+msgstr "Мірфак"
+
+msgid "Alchemb"
+msgstr "Альхемб"
+
+msgid "Mirphak"
+msgstr "Мірфак"
+
+msgid "Algol"
+msgstr "Алгол"
+
+msgid "Gorgonea Prima"
+msgstr "Коргонеа Пріма"
+
+msgid "Gorgona"
+msgstr "Горгона"
+
+msgid "Menkib"
+msgstr "Менкіб"
+
+msgid "Atik"
+msgstr "Атік"
+
+msgid "Ati"
+msgstr "Аті"
+
+msgid "Alatik"
+msgstr "Алатік"
+
+msgid "Menkhib"
+msgstr "Менхіб"
+
+msgid "Gorgonea Secunda"
+msgstr "Горгонея Секунда"
+
+msgid "Gorgonea Tertia"
+msgstr "Горгонея Терція"
+
+msgid "Gorgonea Terti"
+msgstr "Горгонея Терті"
+
+msgid "Gorgonea Quarta"
+msgstr "Горгонея Кварта"
+
+msgid "Miram"
+msgstr "Мірам"
+
+msgid "Misam"
+msgstr "Місам"
+
+msgid "Misam al Thurayya I"
+msgstr "Місам аль-Турайя I"
+
+msgid "Bidelman's Peculiar Star"
+msgstr "Особлива зірка Бідельмана"
+
+msgid "Kerb"
+msgstr "Керб"
+
+msgid "Ankaa"
+msgstr "Анкаа"
+
+msgid "Nair al Zaurak"
+msgstr "Наїр аль-Заурак"
+
+msgid "Alrial III"
+msgstr "Альріаль III"
+
+msgid "Alrial V"
+msgstr "Альріаль V"
+
+msgid "Alrial I"
+msgstr "Альріаль I"
+
+msgid "Alrial II"
+msgstr "Альріаль II"
+
+msgid "Alrial IV"
+msgstr "Альріаль IV"
+
+msgid "Wurren"
+msgstr "Вуррен"
+
+msgid "Kapteyn's Star"
+msgstr "Зірка Каптейна"
+
+msgid "Alrescha"
+msgstr "Альреша"
+
+msgid "Al Rescha"
+msgstr "Аль Реща"
+
+msgid "Alrischa"
+msgstr "Альріша"
+
+msgid "Alrisha"
+msgstr "Альріша"
+
+msgid "Okda"
+msgstr "Окда"
+
+msgid "Kaitain"
+msgstr "Кайтайн"
+
+msgid "Al Rischa"
+msgstr "Аль Ріща"
+
+msgid "van Maanen's Star"
+msgstr "Зірка ван Маанена"
+
+msgid "van Maanen 2"
+msgstr "ван Маанен 2"
+
+msgid "Torcular"
+msgstr "Торкулар"
+
+msgid "Torcularis Septentrionalis"
+msgstr "Торкуларіс Септентріоналіс"
+
+msgid "Alpherg"
+msgstr "Аль-Ферг"
+
+msgid "Kullat Nunu"
+msgstr "Куллат Нуну"
+
+msgid "Fumalsamakah"
+msgstr "Фум-аль-Самаках"
+
+msgid "Fum al Samakah"
+msgstr "Фум аль-Самака"
+
+msgid "Kuton I"
+msgstr "Кутон I"
+
+msgid "Revati"
+msgstr "Реваті"
+
+msgid "Kuton II"
+msgstr "Кутон II"
+
+msgid "Kuton III"
+msgstr "Кутон III"
+
+msgid "Thalim"
+msgstr "Талім"
+
+msgid "Os Piscis Meridiani"
+msgstr "Ос Пісіс Мерідіані"
+
+msgid "Os Piscis Notii"
+msgstr "Ос Пісіс Нотії"
+
+msgid "Fum al Hui"
+msgstr "Фум аль-Хуей"
+
+msgid "Naos"
+msgstr "Наос"
+
+msgid "Suhail Hadar"
+msgstr "Сухайл Хадар"
+
+msgid "Bernes 135"
+msgstr "Бернес 135"
+
+msgid "Azmidi"
+msgstr "Азміді"
+
+msgid "Asmidiske"
+msgstr "Асмідіска"
+
+msgid "Azmidiske"
+msgstr "Азмідіске"
+
+msgid "Sham"
+msgstr "Шам"
+
+msgid "Rukbat"
+msgstr "Рукбат"
+
+msgid "Alrami"
+msgstr "Альрамі"
+
+msgid "Arkab Prior"
+msgstr "Аркаб Старша"
+
+msgid "Arkab"
+msgstr "Аркаб"
+
+msgid "Arkab Posterior"
+msgstr "Аркаб Молодша"
+
+msgid "Alnasl"
+msgstr "Альнасл"
+
+msgid "Nushaba"
+msgstr "Нушаба"
+
+msgid "Al Nasl"
+msgstr "Аль Насл"
+
+msgid "Nash"
+msgstr "Наш"
+
+msgid "El Nasl"
+msgstr "Ель Насі"
+
+msgid "Alnasr"
+msgstr "Альнаср"
+
+msgid "Kaus Media"
+msgstr "Каус Медіа"
+
+msgid "Kaus Meridionalis"
+msgstr "Каус Меридіоналіс"
+
+msgid "Media"
+msgstr "Мадіа"
+
+msgid "Kaus Medius"
+msgstr "Каус Медіус"
+
+msgid "Kaus Australis"
+msgstr "Каус Аустраліс"
+
+msgid "Ascella"
+msgstr "Аскела"
+
+msgid "Kaus Borealis"
+msgstr "Каус Бореаліс"
+
+msgid "Al Thalimain"
+msgstr "Аль Талімейн"
+
+msgid "Nunki"
+msgstr "Нункі"
+
+msgid "Sadira"
+msgstr "Садіра"
+
+msgid "Polis"
+msgstr "Поліс"
+
+msgid "Alnam"
+msgstr "Альнам"
+
+msgid "Albaldah"
+msgstr "Альбалда"
+
+msgid "Al Baldah"
+msgstr "Аль Балдах"
+
+msgid "Terebellum"
+msgstr "Теребелум"
+
+msgid "Terebellum I"
+msgstr "Теребеллум I"
+
+msgid "Terebellum II"
+msgstr "Теребеллум II"
+
+msgid "Terebellum III"
+msgstr "Теребеллум III"
+
+msgid "Terebellum IV"
+msgstr "Теребеллум IV"
+
+msgid "Hamalwarid"
+msgstr "Гамальварід"
+
+msgid "Ainalrami"
+msgstr "Айнальрамі"
+
+msgid "Ain al Rami I"
+msgstr "Айн аль-Рамі I"
+
+msgid "Ain al Rami II"
+msgstr "Айн аль-Рамі II"
+
+msgid "Namalsadirah II"
+msgstr "Намальсадірах II"
+
+msgid "Namalsadirah I"
+msgstr "Намальсадірах I"
+
+msgid "Namalsadirah III"
+msgstr "Намальсадірах III"
+
+msgid "Namalsadirah IV"
+msgstr "Намальсадірах IV"
+
+msgid "Al Kiladah"
+msgstr "Аль Кіладах"
+
+msgid "Cor Scorpii"
+msgstr "Серце Скорпіона"
+
+msgid "Vespertilio"
+msgstr "Веспертільйо"
+
+msgid "Kalb al Akrab"
+msgstr "Кальб-аль-Акбар"
+
+msgid "Acrab"
+msgstr "Акраб"
+
+msgid "Graffias"
+msgstr "Граффіас"
+
+msgid "Akrab"
+msgstr "Акраб"
+
+msgid "Dschubba"
+msgstr "Джубба"
+
+msgid "Iclarkrau"
+msgstr "Ікларкрау"
+
+msgid "Sargas"
+msgstr "Саргас"
+
+msgid "Girtab"
+msgstr "Гіртаб"
+
+msgid "Shaula"
+msgstr "Шаула"
+
+msgid "Alniyat"
+msgstr "Альніят"
+
+msgid "Alniyat I"
+msgstr "Альніят I"
+
+msgid "Al Niyat"
+msgstr "Аль Нійятт"
+
+msgid "Paikauhale"
+msgstr "Пайкаухале"
+
+msgid "Alniyat II"
+msgstr "Альніят II"
+
+msgid "Lesath"
+msgstr "Лесат"
+
+msgid "Lesuth"
+msgstr "Лесут"
+
+msgid "Jabbah"
+msgstr "Джабба"
+
+msgid "Grafias"
+msgstr "Графлас"
+
+msgid "Grassias"
+msgstr "Грассіас"
+
+msgid "Vanant"
+msgstr "Ванант"
+
+msgid "Mula"
+msgstr "Мула"
+
+msgid "Xamidimura"
+msgstr "Ксамідімура"
+
+msgid "Tali al Shaulah I"
+msgstr "Талі аль-Шаула I"
+
+msgid "Pipirima"
+msgstr "Піпіріма"
+
+msgid "Tali al Shaulah II"
+msgstr "Талі аль-Шаула II"
+
+msgid "Fang"
+msgstr "Фанг"
+
+msgid "Nur"
+msgstr "Нур"
+
+msgid "Iklil"
+msgstr "Ікліл"
+
+msgid "Iolil"
+msgstr "Йоліл"
+
+msgid "Jabhat Acrabi I"
+msgstr "Джабат Акрабі I"
+
+msgid "Jabhat al Akrab"
+msgstr "Джабат-аль-Акраб"
+
+msgid "Jabhat Acrabi II"
+msgstr "Джабат Акрабі II"
+
+msgid "Fuyue"
+msgstr "Фуюе"
+
+msgid "Larawag"
+msgstr "Лараваґ"
+
+msgid "Unukalhai"
+msgstr "Унук-аль-Хей"
+
+msgid "Cor Serpentis"
+msgstr "Серце Змія"
+
+msgid "Unuk al Hay"
+msgstr "Унук-аль-Хей"
+
+msgid "Unuk Elhaia"
+msgstr "Унук-Ельхая"
+
+msgid "Alya"
+msgstr "Алія"
+
+msgid "Chow"
+msgstr "Чжоу"
+
+msgid "Nasak Shamiya I"
+msgstr "Насак Шамія I"
+
+msgid "Nasak Shamiya II"
+msgstr "Насак Шамія II"
+
+msgid "Nasak Yamani I"
+msgstr "Насак Ямані I"
+
+msgid "Tsin"
+msgstr "Цін"
+
+msgid "Nasak Yamani II"
+msgstr "Насак Ямані II"
+
+msgid "Tweedledee and Tweedledum"
+msgstr "Траляля і Труляля"
+
+msgid "Gudja"
+msgstr "Гуджа"
+
+msgid "Alava"
+msgstr "Алава"
+
+msgid "Cor Tauri"
+msgstr "Серце Тільця"
+
+msgid "Parilicium"
+msgstr "Паріліціум"
+
+msgid "Elnath"
+msgstr "Ельнатх"
+
+msgid "El Nath"
+msgstr "Ель Натх"
+
+msgid "Nath"
+msgstr "Нат"
+
+msgid "Al Nath"
+msgstr "Аль Натх"
+
+msgid "Ain"
+msgstr "Ен"
+
+msgid "Oculus Boreus"
+msgstr "Окулус Бореус"
+
+msgid "Alcyone"
+msgstr "Алкіона"
+
+msgid "Celaeno"
+msgstr "Келено"
+
+msgid "Electra"
+msgstr "Електра"
+
+msgid "Taygeta"
+msgstr "Тайгета"
+
+msgid "Maia"
+msgstr "Майя"
+
+msgid "Asterope"
+msgstr "Астеропа"
+
+msgid "Sterope I"
+msgstr "Стеропа I"
+
+msgid "Merope"
+msgstr "Меропа"
+
+msgid "Atlas"
+msgstr "Атлас"
+
+msgid "Pleione"
+msgstr "Плейона"
+
+msgid "Prima Hyadum"
+msgstr "Пріма Гіадум"
+
+msgid "Hyadum I"
+msgstr "Хьядум I"
+
+msgid "Hyadum Primus"
+msgstr "Гіадум Прімус"
+
+msgid "Secunda Hyadum"
+msgstr "Друга з Гіад"
+
+msgid "Hyadum II"
+msgstr "Хьядум II"
+
+msgid "The Ruby Star"
+msgstr "Рубінова Зірка"
+
+msgid "Sterope II"
+msgstr "Стеропа II"
+
+msgid "Hyadum III"
+msgstr "Гіадум III"
+
+msgid "Chamukuy"
+msgstr "Чамукуй"
+
+msgid "Hyadum IV"
+msgstr "Гіадум IV"
+
+msgid "Alkalbain III"
+msgstr "Алькальбайн III"
+
+msgid "Alkalbain IV"
+msgstr "Алькальбайн IV"
+
+msgid "Alkalbain V"
+msgstr "Алькальбайн V"
+
+msgid "Alkalbain I"
+msgstr "Алькальбайн I"
+
+msgid "Alkalbain II"
+msgstr "Алькальбайн II"
+
+msgid "Tianguan"
+msgstr "Цзяньгуань"
+
+msgid "Alheka"
+msgstr "Альгека"
+
+msgid "Mothallah"
+msgstr "Мотхаллах"
+
+msgid "Caput Trianguli"
+msgstr "Капут Тріангулі"
+
+msgid "Methallah"
+msgstr "Металлах"
+
+msgid "Atria"
+msgstr "Атрія"
+
+msgid "Rasalmudallah"
+msgstr "Расальмудалла"
+
+msgid "Rasalmothallah"
+msgstr "Расальмоталла"
+
+msgid "Mizan"
+msgstr "Мізан"
+
+msgid "Dubhe"
+msgstr "Дубге"
+
+msgid "Dubb"
+msgstr "Дубб"
+
+msgid "Ak"
+msgstr "Ак"
+
+msgid "Dubh"
+msgstr "Дубг"
+
+msgid "Merak"
+msgstr "Мерак"
+
+msgid "Phecda"
+msgstr "Фекда"
+
+msgid "Phekda"
+msgstr "Фекда"
+
+msgid "Megrez"
+msgstr "Мегрец"
+
+msgid "Kaffa"
+msgstr "Каффа"
+
+msgid "Alioth"
+msgstr "Аліот"
+
+msgid "Aliath"
+msgstr "Аліат"
+
+msgid "Mizar"
+msgstr "Міцар"
+
+msgid "Alcor"
+msgstr "Алькор"
+
+msgid "Alkaid"
+msgstr "Алькаїд"
+
+msgid "Benetnasch"
+msgstr "Бенетнащ"
+
+msgid "Talitha"
+msgstr "Таліта"
+
+msgid "Talita"
+msgstr "Таліта"
+
+msgid "Dnoces"
+msgstr "Днокес"
+
+msgid "Tania Borealis"
+msgstr "Танія Бореаліс"
+
+msgid "Tania Australis"
+msgstr "Танія Аустраліс"
+
+msgid "Alula Borealis"
+msgstr "Алула Бореаліс"
+
+msgid "Alula Australis"
+msgstr "Алула Аустраліс"
+
+msgid "Muscida"
+msgstr "Мускіда"
+
+msgid "Groombridge 1830"
+msgstr "Ґрумбрідж 1830"
+
+msgid "Flying Star"
+msgstr "Летюча Зірка"
+
+msgid "Runaway Star"
+msgstr "Зірка-втікач"
+
+msgid "Argelander's Star"
+msgstr "Зірка Аргеландера"
+
+msgid "Taiyangshou"
+msgstr "Тайянгшоу"
+
+msgid "Al Kaphrah"
+msgstr "Аль Кафра"
+
+msgid "Alkafzah"
+msgstr "Альказа"
+
+msgid "Althiba I"
+msgstr "Альтіба I"
+
+msgid "Althiba VII"
+msgstr "Альтіба VII"
+
+msgid "Alhaud III"
+msgstr "Альхауд III"
+
+msgid "Alhaud I"
+msgstr "Альхауд I"
+
+msgid "Alhaud IV"
+msgstr "Альхауд IV"
+
+msgid "Alhaud V"
+msgstr "Альхауд V"
+
+msgid "Alkaphrah"
+msgstr "Алькафрах"
+
+msgid "Kafzatania"
+msgstr "Кафзатанья"
+
+msgid "Al Kaprah"
+msgstr "Аль-Капрах"
+
+msgid "Talitha Australis"
+msgstr "Таліта Аустраліс"
+
+msgid "Althiba II"
+msgstr "Альтіба II"
+
+msgid "Althiba III"
+msgstr "Альтіба III"
+
+msgid "Museida"
+msgstr "Мусейда"
+
+msgid "Althiba IV"
+msgstr "Альтіба IV"
+
+msgid "Althiba V"
+msgstr "Альтіба V"
+
+msgid "Althiba VI"
+msgstr "Альтіба VI"
+
+msgid "Alhaud II"
+msgstr "Альхауд II"
+
+msgid "Alhaud VI"
+msgstr "Альхауд VI"
+
+msgid "Alhaud VII"
+msgstr "Альхауд VII"
+
+msgid "Lalande 21185"
+msgstr "Лаланд 21185"
+
+msgid "Polaris"
+msgstr "Полярна"
+
+msgid "Alrucaba"
+msgstr "Альрукаба"
+
+msgid "Cinosura"
+msgstr "Сінозура"
+
+msgid "Cynosura"
+msgstr "Синозура"
+
+msgid "Tramontana"
+msgstr "Трамонтана"
+
+msgid "Yilduz"
+msgstr "Їлдуз"
+
+msgid "Mismar"
+msgstr "Місмар"
+
+msgid "Star of Arcady"
+msgstr "Зірка Аркади"
+
+msgid "Kochab"
+msgstr "Кохаб"
+
+msgid "Kocab"
+msgstr "Кохаб"
+
+msgid "Pherkad"
+msgstr "Феркад"
+
+msgid "Pherkad Major"
+msgstr "Феркад Мажор"
+
+msgid "Pherkad Minor"
+msgstr "Феркад Мінор"
+
+msgid "Yildun"
+msgstr "Їлдун"
+
+msgid "Vildiur"
+msgstr "Вілдіур"
+
+msgid "Pherkard"
+msgstr "Феркард"
+
+msgid "Circitores"
+msgstr "Сірсітори"
+
+msgid "Akfa Farkadain"
+msgstr "Акфа Фаркадайн"
+
+msgid "Anwa Farkadain"
+msgstr "Анва Фаркадайн"
+
+msgid "Regor"
+msgstr "Регор"
+
+msgid "Suhail al Muhlif"
+msgstr "Сухайль-аль-Мухліф"
+
+msgid "Suhail"
+msgstr "Сухайль"
+
+msgid "Markeb"
+msgstr "Маркеб"
+
+msgid "Al Suhail al Wazn"
+msgstr "Аль-Сухайль-аль-Вазн"
+
+msgid "Alsuhail"
+msgstr "Аль-Сухайл"
+
+msgid "Alsephina"
+msgstr "Аль-Сефіна"
+
+msgid "Koo She"
+msgstr "Коо Ше"
+
+msgid "Azimech"
+msgstr "Азімех"
+
+msgid "Alaraph"
+msgstr "Алараф"
+
+msgid "Zavijava"
+msgstr "Завіджава"
+
+msgid "Minelauva"
+msgstr "Мінелаува"
+
+msgid "Zavijah"
+msgstr "Завіджа"
+
+msgid "Porrima"
+msgstr "Порріма"
+
+msgid "Antevorta"
+msgstr "Антеворта"
+
+msgid "Arich"
+msgstr "Аріх"
+
+msgid "Vindemiatrix"
+msgstr "Віндеміатрікс"
+
+msgid "Almuredin"
+msgstr "Альмюредін"
+
+msgid "Provindemiator"
+msgstr "Провіднеміатор"
+
+msgid "Protrigetrix"
+msgstr "Протригетрікс"
+
+msgid "Zaniah"
+msgstr "Занія"
+
+msgid "Syrma"
+msgstr "Сирма"
+
+msgid "Heze"
+msgstr "Гезе"
+
+msgid "Auva"
+msgstr "Аува"
+
+msgid "Khambalia"
+msgstr "Хамбалія"
+
+msgid "Kambalia"
+msgstr "Камбалія"
+
+msgid "Rijl al Awwa"
+msgstr "Ріджл-аль-Авва"
+
+msgid "Rigilawwa"
+msgstr "Ріггілавва"
+
+msgid "Kang"
+msgstr "Канг"
+
+msgid "Algafar I"
+msgstr "Альгафар I"
+
+msgid "Elgafar"
+msgstr "Ель-Гафар"
+
+msgid "Algafar II"
+msgstr "Альгафар II"
+
+msgid "Anser"
+msgstr "Ансер"
