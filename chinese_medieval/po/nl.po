@@ -1,0 +1,1854 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alex Rijckaert, 2023\n"
+"Language-Team: Dutch (https://app.transifex.com/stellarium/teams/80998/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Chinese Medieval"
+msgstr "Chinees middeleeuws"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"<p>This sky culture is based on the observation data of Huangyou four years "
+"(1052 AD), and presents the medieval Chinese sky map as faithfully as "
+"possible. This sky culture includes 283 Xingguans (星官, Chinese "
+"Constellations) and 1464 stars (including clusters M7, M44) of the "
+"<i>Xinyixiangfayao Star Map</i>. And the determinative star is marked for "
+"each Xingguan that can determine the determinative star. The boundaries of "
+"Twenty-eight Lunar Mansions are based on 1052 AD.</p>"
+msgstr ""
+"<p>Deze hemelcultuur is gebaseerd op observatie data, gedurende vier jaar "
+"door\n"
+"Huangyou (1052 n.Chr.), en presenteert de middeleeuwse Chinese hemelkaart "
+"zo\n"
+"getrouw als mogelijk. Deze hemelcultuur omvat 283 Xingguans (星官, Chinese\n"
+"Sterrenbeelden) en 1464 sterren (inclusief de clusters M7, M44) uit de\n"
+"<i>Xinyixiangfayao sterrenkaart</i>. En de bepalende ster is gemarkeerd "
+"voor\n"
+"elke Xingguan die de bepalende ster kan bepalen. De grenzen van de\n"
+"achtentwintig maan Mansions zijn gebaseerd op 1052 n.Chr.</p>"
+
+# Sky culture description section in markdown format
+msgid ""
+"### Medieval Xingguans\n"
+"\n"
+"<p>From the Three Kingdoms Period to the Ming Dynasty, covering the whole of "
+"the Middle Ages, China's star map is similar.</p>\n"
+"<p>The Xingguans originated in ancient times. Wuxian (巫咸) of Shang "
+"Dynasty(16th century BC-1046 BC), Gan De (甘德) and Shi Shen (石申) of The "
+"Warring States Period (475–221 BC), created their own Xingguan system "
+"respectively. During the Three Kingdoms period (220–280 AD), Chen Zhuo (陈"
+"卓) summarized the Xingguans system of Gan De, Shi Shen and Wuxian, "
+"including 283 Xingguans and 1464 stars. Since then, Xingguan system has been "
+"basically defined, and after a thousand years, there has not been much "
+"change. Since the 17th century, Western astronomy has had an impact on "
+"Chinese astronomy, and the shape and number of Xingguans have changed "
+"significantly. Only about half of the constellations maintained the medieval "
+"style.</p>\n"
+"<p>Determinative star is an important concept. In the Middle Ages, Chinese "
+"astronomers did not name all stars, and each Xingguans was chosen as a major "
+"star called determinative star. In ancient China, astronomical measurements "
+"measured its coordinate position, and other stars in the Xingguan were "
+"rarely mentioned. However, some important constellations will be selected "
+"more stars for observation and recording. In ancient China, astronomers used "
+"mansion distance degrees (determinative star distance) and polar distance "
+"degrees to record the position of stars. <b>In ancient China, the "
+"determinative stars of Twenty-eight Lunar Mansions was the benchmark for "
+"determining the longitude of the equatorial coordinate system</b>.</p>\n"
+"<p>The <i>Song of the Sky Pacers</i> (步天歌) is an early Chinese star "
+"catalogue in the form of poem in heptasyllabic verse, enumerating the names "
+"of stars.</p>\n"
+"<p>Below is <i>Xinyixiangfayao Star Map</i> from Su Song(苏颂, 1020-1101 AD)."
+"</p>\n"
+"<p><img src=\"xyxfy.png\"/><br/><em>Xinyixiangfayao Star Map(1088 AD)</em></"
+"p>\n"
+"\n"
+"### Restore Sky Map\n"
+"\n"
+"<p>The sky map of the Song dynasty is typical of the Chinese medieval sky "
+"map. In 1052 AD, the Song Dynasty official conducted accurate stellar "
+"measurements, leaving a lot of data.</p>\n"
+"<p>Pan Nai(潘鼐) collated these astronomical observations data and based on "
+"the <i>Xinyixiangfayao Star Map</i>, he restored most of the Song Dynasty's "
+"Xingguan in his masterpiece <i>The History of Stellar Observation in China</"
+"i>, which is the most important reference book. Qi Rui (齐锐) and Wan Haoyi "
+"(万昊宜) also restored the Xingguans of the Song Dynasty in the book "
+"<i>Roving China Heavens</i>, which is also an important reference book.</p>\n"
+"<p>Due to the limitation of observation conditions in Song Dynasty, combined "
+"with instruments, circulated errors and other reasons, different scholars "
+"restored the sky map is somewhat different.</p>\n"
+"<p>Based on these books, Stellarium can almost truly present the Chinese "
+"medieval sky map of Huangyou four years (1052 AD).</p>\n"
+"\n"
+"### Planets\n"
+"\n"
+"<p>Taiyang (太阳), Sun. The name comes from yin and yang, meaning a lot of "
+"yang,\n"
+"<p>Taiyin (太阴), Moon. The name comes from yin and yang, meaning a lot of "
+"Yin,\n"
+"<p>Chen Star (辰星), Mercury. Chen is an angle unit, which refers to about "
+"30 degrees. Mercury is always within 30 degrees of the sun.</p>\n"
+"<p>Taibai (太白), Venus. Taibai means big and white.</p>\n"
+"<p>Yinghuo (荧惑), Mars. The colors of Mars are like fire, and movement is "
+"confusing.</p>\n"
+"<p>Sui Star (岁星), Jupiter. It means the old star. Jupiter travels around "
+"the celestial sphere for a week every 12 years. The ancients took Jupiter's "
+"position as the standard of the chronology.</p>\n"
+"<p>Zhen Star (填星), Saturn. Zhen, means passing Lunar Mansions. Saturn "
+"travels around the celestial sphere about every 28 years. Saturn will pass "
+"through a Lunar Mansion every year. </p>"
+msgstr ""
+"### Middeleeuwse Xingguans\n"
+"\n"
+"<p>Vanaf de Drie Koninkrijk periode tot de Ming-dynastie, die de hele\n"
+"middeleeuwen omvat, is de Chinese sterrenkaart vergelijkbaar.</p>\n"
+"<p>De Xingguans zijn ontstaan in de oudheid. Wuxian (巫咸) van de\n"
+"Shang-dynastie(16e eeuw v.Chr.-1046 v.Chr.), Gan De (甘德) en Shi Shen (石"
+"申) in\n"
+"de Strijdende Staten periode (475–221 v.Chr.), creëerde respectievelijk hun\n"
+"eigen Xingguan systeem . Gedurende de Drie Koninkrijk periode (220–280\n"
+"n.Chr.), Chen Zhuo (陈卓) verzamelde het Xingguans systeem van Gan De, Shi\n"
+"Shen en Wuxian, inclusief 283 Xingguans en 1464 starren. Sindsdien, is het\n"
+"Xingguan systeem feitelijk gedefinieerd, en na duizend jaar, is er niet "
+"veel\n"
+"veranderd. Sinds de 17e eeuw heeft de Westerse astronomie een zeker impact\n"
+"gehad op de Chinese astronomie en de vorm en het aantal Xingguans zijn\n"
+"significant gewijzigd. Alleen ongeveer de helft van de sterrenbeelden\n"
+"behielden de middeleeuwse stijl.</p>\n"
+"<p>De bepalende ster is een belangrijk concept. In de middeleeuwen gaven de\n"
+"Chinese astronomen niet alle sterren een naam, en elke Xingguans werd\n"
+"gekozen als een belangrijkste ster genaamd de bepalende ster. In het oude\n"
+"China, astronomische metingen bepaalde de coördinatenpositie en andere\n"
+"sterren in de Xingguan werden nauwelijks genoemd. Echter, in sommige\n"
+"belangrijke sterrenbeelden werden meer sterren geselecteerd voor observatie\n"
+"en opname. In het oude China gebruikte astronomen de mansion afstandgraden\n"
+"(bepalende ster afstand) en de polaire afstandgraden om de positie van de\n"
+"sterren vast te leggen. <b>In het oude China waren de bepalende sterren van\n"
+"de Achtentwintig Maan Mansions de maatstaf voor het bepalen van de lengte\n"
+"van het equatoriale coördinatensysteem</b>.</p>\n"
+"<p>De <i>Song of the Sky Pacers</i> (步 天歌) is een vroege Chinese\n"
+"sterrencatalogus in de vorm van een gedicht in een heptasyllabisch vers, "
+"met\n"
+"een opsomming van de namen van sterren.</p>\n"
+"<p>Hieronder de <i>Xinyixiangfayao Star Map</i> van Su Song(苏颂, 1020-1101\n"
+"n.Chr.).</p>\n"
+"<p><img src=\"xyxfy.png\"/><br/><em>Xinyixiangfayao sterrenkaart (1088 n."
+"Chr.)</em></p>\n"
+"\n"
+"### Hemelkaart herstellen\n"
+"\n"
+"<p>De hemelkaart van de Song-dynastie is typisch voor de Chinese "
+"middeleeuwen\n"
+"hemelkaart. In 1052 n.Chr. voerde de functionaris van de Song-dynastie\n"
+"nauwkeurige stellaire metingen uit, wat veel gegevens achter liet.</p>\n"
+"<p>Pan Nai(潘鼐) verzamelde deze astronomische observatie data en gebaseerd "
+"op de\n"
+"<i>Xinyixiangfayao sterrenkaart</i>, herstelde hij het meeste uit de\n"
+"Song-dynastie Xingguan in zijn meesterwerk <i>De historie van de sterren\n"
+"observatie in China</i>, wat het meest belangrijke referentie boek is. Qi\n"
+"Rui (齐锐) en Wan Haoyi (万昊宜) herstelde ook de Xingguans van de Song "
+"dynastie\n"
+"in het boek <i>Roving China Heavens</i>, wat ook een belangrijk referentie\n"
+"boek is.</p>\n"
+"<p>Vanwege de beperking van observatieomstandigheden in de Song-dynastie,\n"
+"gecombineerd met instrumenten, gecirculeerde fouten en andere redenen,\n"
+"verschillende wetenschappers hebben de hemelkaart hersteld.</p>\n"
+"<p>Gebaseerd op deze boeken kan Stellarium, na bijna vier jaar, de Chinese\n"
+"middeleeuwen hemelkaart van Huangyou (1052 n.Chr.) presenteren.</p>\n"
+"\n"
+"### Planeten\n"
+"\n"
+"<p>Taiyang (太阳), Zon. De naam komt van yin en yang, betekent veel yang,\n"
+"<p>Taiyin (太阴), Maan. De naam komt van yin en yang, betekent veel Yin,\n"
+"<p>Chen ster (辰星), Mercurius. Chen is een hoek unit, wat refereert naar\n"
+"ongeveer 30 graden. Mercurius bevind zich altijd binnen 30 graden van de\n"
+"zon.</p>\n"
+"<p>Taibai (太白), Venus. Taibai betekent groot en wit.</p>\n"
+"<p>Yinghuo (荧惑), Mars. De kleuren van Mars lijken op die van vuur, en de\n"
+"beweging is verwarrend.</p>\n"
+"<p>Sui Star (岁星), Jupiter. Het betekent de oude ster. Jupiter reist elke "
+"12\n"
+"jaar gedurende een week rond de hemelbol. De ouderen namen Jupiters positie\n"
+"als de standaard van de chronologie.</p>\n"
+"<p>Zhen ster (填星), Saturnus. Zhen betekent passeert de maan Mansions. "
+"Saturnus\n"
+"reist ongeveer elke 28 jaar rond de hemelbol. Saturnus passeert elk jaar de\n"
+"maan Mansion. </p>"
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: Pan Nai. The History of Stellar Observation in China\n"
+" - [#2]: Qi Rui and Wan Haoyi. Roving China Heavens\n"
+" - [#3]: Su Song. *Xinyixiangfayao Star Map*\n"
+" - [#4]: *Records of the Grand Historian*\n"
+" - [#5]: *Book of Sui*\n"
+" - [#6]: *History of Song*\n"
+"\n"
+"### External links\n"
+"\n"
+"<ul>\n"
+"<li><a href=\"https://en.wikipedia.org/wiki/Su_Song\">wikipedia - Su Song</"
+"a></li>\n"
+"<li><a href=\"http://chinesenotes.com/songshi.html\">History of Song</a></"
+"li>\n"
+"<li><a href=\"http://chinesenotes.com/shiji.html\">Records of the Grand "
+"Historian</a></li>\n"
+"<li><a href=\"https://www.lcsd.gov.hk/CE/Museum/Space/archive/Research/"
+"Literature/c_research_literature_9.htm\">(Chinese) Song of the Sky Pacers</"
+"a></li>\n"
+"<li><a href=\"https://en.wikipedia.org/wiki/Song_of_the_Sky_Pacers"
+"\">wikipedia - Song of the Sky Pacers</a></li>\n"
+"<li><a href=\"http://wwt.china-vo.org/why/chineseheaven.htm\">(Chinese) "
+"Chinese Heaven in WWT Community Beijing</a></li>\n"
+"</ul>"
+msgstr ""
+" - [#1]: Pan Nai. De historie van sterrenobservatie in China\n"
+" - [#2]: Qi Rui en Wan Haoyi. Roving China Heavens\n"
+" - [#3]: Su Song. *Xinyixiangfayao sterrenkaart*\n"
+" - [#4]: *Opname van de grote historicus*\n"
+" - [#5]: *Boek van Sui*\n"
+" - [#6]: *Historie van Song*\n"
+"\n"
+"### Externe links\n"
+"\n"
+"<ul>\n"
+"<li><a href=\"https://en.wikipedia.org/wiki/Su_Song\">wikipedia - Su Song</"
+"a></li>\n"
+"<li><a href=\"http://chinesenotes.com/songshi.html\">Historie van Song</a></"
+"li>\n"
+"<li><a href=\"http://chinesenotes.com/shiji.html\">Opname van de grote\n"
+"historicus</a></li>\n"
+"<li><a\n"
+"href=\"https://www.lcsd.gov.hk/CE/Museum/Space/archive/Research/Literature/"
+"c_research_literature_9.htm\">(Chinees)\n"
+"Song of the Sky Pacers</a></li>\n"
+"<li><a href=\"https://en.wikipedia.org/wiki/Song_of_the_Sky_Pacers"
+"\">wikipedia -\n"
+"Song of the Sky Pacers</a></li>\n"
+"<li><a href=\"http://wwt.china-vo.org/why/chineseheaven.htm\">(Chinees) "
+"Chinese\n"
+"hemel in WWT Community Beijing </a></li>\n"
+"</ul>"
+
+# Sky culture authors section in markdown format
+msgid ""
+"<p><p>This sky culture was contributed by Stellarium user <i>Sun Shuwei</i> "
+"(孙殳玮) .\n"
+"<a href=\"mailto:sunshuwei.hi@foxmail.com\">sunshuwei.hi@foxmail.com</a><br/"
+"></p>"
+msgstr ""
+"<p><p>Deze hemelcultuur is een bijdrage van de Stellarium gebruiker <i>Sun\n"
+"Shuwei</i> (孙殳玮) .  <a\n"
+"href=\"mailto:sunshuwei.hi@foxmail.com\">sunshuwei.hi@foxmail.com</a><br/></"
+"p>"
+
+msgid "Old Man"
+msgstr "Old Man - Oude man"
+
+msgid "Dog"
+msgstr "Dog - Hond"
+
+msgid "Fish"
+msgstr "Fish - Vissen"
+
+msgid "Wolf"
+msgstr "Wolf"
+
+msgid "Net"
+msgstr "Net - Net"
+
+msgid "Wall"
+msgstr "Wall - Muur"
+
+msgid "Three Stars"
+msgstr "Three Stars - Drie sterren"
+
+msgid "Root"
+msgstr "Root - Roots"
+
+msgid "Dipper"
+msgstr "Dipper"
+
+msgid "Room"
+msgstr "Room - Kamer"
+
+msgid "Ghosts"
+msgstr "Ghosts - Geesten"
+
+msgid "Winnowing Basket"
+msgstr "Winnowing Basket - Windscheidingsmand"
+
+msgid "Horn"
+msgstr "Horn - Hoorn"
+
+msgid "Well"
+msgstr "Well - Bron"
+
+msgid "Neck"
+msgstr "Neck - Nek"
+
+msgid "Legs"
+msgstr "Legs - Benen"
+
+msgid "Willow"
+msgstr "Willow - Wilg"
+
+msgid "Bond"
+msgstr "Bond - Band"
+
+msgid "Hairy Head"
+msgstr "Hairy Head - Harig hoofd"
+
+msgid "Ox"
+msgstr "Ox - Os"
+
+msgid "Girl"
+msgstr "Girl - Meisje"
+
+msgid "Encampment"
+msgstr "Encampment - Kampement"
+
+msgid "Rooftop"
+msgstr "Rooftop - Dak"
+
+msgid "Tail"
+msgstr "Tail -Staart"
+
+msgid "Stomach"
+msgstr "Stomach - Maag"
+
+msgid "Heart"
+msgstr "Heart - Hart"
+
+msgid "Star"
+msgstr "Ster"
+
+msgid "Emptiness"
+msgstr "Emptiness - Leegte"
+
+msgid "Wings"
+msgstr "Wings -Vleugels"
+
+msgid "Extended Net"
+msgstr "Uitgebreid net"
+
+msgid "Chariot"
+msgstr "Chariot - Strijdwagen"
+
+msgid "Turtle Beak"
+msgstr "Turtle Beak - Schilpadbek"
+
+msgid "Eight Kinds of Crops"
+msgstr "Eight Kinds of Crops - Acht soorten gewas"
+
+msgid "Net for Catching Birds"
+msgstr "Net for Catching Birds - Net om vogels te vangen"
+
+msgid "Rotten Gourd"
+msgstr "Rotten Gourd - Rotte kalebas"
+
+msgid "Decayed Mortar"
+msgstr "Decayed Mortar - Rotte mortel"
+
+msgid "Northern Dipper"
+msgstr "Northern Dipper - Noordelijk steelpannetje"
+
+msgid "North River"
+msgstr "North River - Noord rivier"
+
+#. TRANSLATORS: Pinyin transliteration
+#. Reference:
+#. 1.Yi Shitong. (1981). Chinese and Western Contrast Star Chart and Catalogue
+#. 1950.0. Beijing. Science Press.
+#. 2.English-Chinese Glossary of Chinese Star Regions, Asterisms and Star
+#. Names|http://www.lcsd.gov.hk/CE/Museum/Space/zh_CN/web/spm/starshine/resources/constemyth/glossary.html
+msgid "Northern Pole"
+msgstr "Northern Pole - Noordpool"
+
+msgid "North Gate of the Military Camp"
+msgstr "North Gate of the Military Camp ­- Noordpoort van het militaire kamp"
+
+msgid "River Turtle"
+msgstr "River Turtle - Rivierschildpad"
+
+msgid "Textile Ruler"
+msgstr "Textile Ruler - Textielroller"
+
+msgid "Banner of Three Stars"
+msgstr "Banner of Three Stars - Spandoek van de drie sterren"
+
+msgid "Toilet"
+msgstr "Toilet - Toilet"
+
+msgid "Whip"
+msgstr "Whip - Zweep"
+
+msgid "Royal Guards"
+msgstr "Royal Guards - Koninklijke bewakers"
+
+msgid "Big Yard for Chariots"
+msgstr "Big Yard for Chariots - Grote tuin voor strijdwagens"
+
+msgid "Chariots and Cavalry"
+msgstr "Chariots and Cavalry - Strijdwagens en cavalerie"
+
+msgid "Commodity Market"
+msgstr "Commodity Market - Goederenmarkt"
+
+msgid "Hay"
+msgstr "Hay - Hooi"
+
+msgid "Pestle (In Winnowing Basket Mansion)"
+msgstr "Stamper (in Mansion Windscheidingsmand)"
+
+msgid "Pestle (In Rooftop Mansion)"
+msgstr "Stamper (in Mansion Dak)"
+
+msgid "Changsha (Vassal of Chariot)"
+msgstr "Changsha (Vassal of Chariot) - Changsha (Vazal van strijdwagen)"
+
+msgid "Guest House"
+msgstr "Guest House - Gasthuis"
+
+msgid "Retinue (In Room Mansion)"
+msgstr "Gevolg (in Mansion Kamer)"
+
+msgid "Retinue (In Supreme Palace Enclosure)"
+msgstr "Gevolg (in suprême paleistuin)"
+
+msgid "Great Horn"
+msgstr "Grote hoorn"
+
+msgid "Chief Judge"
+msgstr "Chief Judge - Hoofdrechter"
+
+msgid "Mausoleum"
+msgstr "Mausoleum - Mausoleum"
+
+msgid "Celestial Temple"
+msgstr "Celestial Temple - Hemel tempel"
+
+msgid "Mattress of the Emperor"
+msgstr "Mattress of the Emperor - Matras van de keizer"
+
+msgid "Emperor's Seat"
+msgstr "Emperor's Seat - Keizerszetel"
+
+msgid "Eastern Door"
+msgstr "Eastern Door - Oostelijke deur"
+
+msgid "Dipper for Liquids"
+msgstr "Dipper for Liquids - Dipper voor vloeistoffen"
+
+msgid "Trials"
+msgstr "Trials - Sporen"
+
+msgid "Send Armed Forces To Suppress (Vassal of Three Stars)"
+msgstr ""
+"Send Armed Forces To Suppress (Vassal of Three Stars) - Gewapende eenheden "
+"sturen ter onderdrukking (Vazal van de drie sterren)"
+
+msgid "Punishment"
+msgstr "Punishment - Straf"
+
+msgid "Tomb (Vassal of Rooftop)"
+msgstr "Tomb (Vassal of Rooftop) - Graf (Vazal van dak)"
+
+msgid "Axe"
+msgstr "Axe - Bijl"
+
+msgid "Sickle"
+msgstr "Sickle - Sikkel"
+
+msgid "Basket for Mulberry Leaves"
+msgstr "Basket for Mulberry Leaves - Mand voor moerbeibladeren"
+
+msgid "Auxiliary Road"
+msgstr "Auxiliary Road - Hulpweg"
+
+msgid "Fu Yue"
+msgstr "Fu Yue - Fu Yue"
+
+msgid "Roofing"
+msgstr "Roofing - Dakwerk"
+
+msgid "Canopy Support (Vassal of Canopy of the Emperor)"
+msgstr "Baldakijnondersteuning (Vazal van de baldakijn van de keizer)"
+
+msgid "Flying Corridor"
+msgstr "Flying Corridor - Vliegcorridor"
+
+msgid "Celestial Lance"
+msgstr "Celestial Lance - Hemels lans"
+
+msgid "Curved Array"
+msgstr "Curved Array - Gebogen reeks"
+
+msgid "Lock (Vassal of Room)"
+msgstr "Lock (Vassal of Room) - Slot (Vazal van kamer)"
+
+msgid "Territory of Dog"
+msgstr "Territory of Dog - Territorium van de hond"
+
+msgid "Coiled Thong"
+msgstr "Coiled Thong - Opgerolde riem"
+
+msgid "Beacon Fire"
+msgstr "Beacon Fire - Vuurtoren"
+
+msgid "Tortoise"
+msgstr "Tortoise - Schildpad"
+
+msgid "Military Gate"
+msgstr "Military Gate - Militaire poort"
+
+msgid "Drum at the River"
+msgstr "Drum at the River - Trommel in de rivier"
+
+msgid "Railings"
+msgstr "Railings - Relingen"
+
+msgid "Astrologer"
+msgstr "Astrologer - Astroloog"
+
+msgid "Bow and Arrow"
+msgstr "Pijl en boog"
+
+msgid "Dipper for Solids"
+msgstr "Dipper for Solids - Dipper voor vaste stoffen"
+
+msgid "Emperor's Bodyguard"
+msgstr "Emperor's Bodyguard - Keizers lijfwacht"
+
+msgid "Good Gourd"
+msgstr "Good Gourd - Goede kalebas"
+
+msgid "Canopy of the Emperor"
+msgstr "Canopy of the Emperor - Baldakijn van de keizer"
+
+msgid "Eunuch Official"
+msgstr "Eunuch Official - Eunuch ambtenaar"
+
+msgid "Heap of Corpses"
+msgstr "Heap of Corpses - Hoop lijken"
+
+msgid "Stored water"
+msgstr "Opgeslagen water"
+
+msgid "Pile of Firewood"
+msgstr "Pile of Firewood - Stapel brandhout"
+
+msgid "Group of Soldiers"
+msgstr "Group of Soldiers - Groep soldaten"
+
+msgid "Establishment"
+msgstr "Establishment - Etablissement"
+
+msgid "Clepsydra Terrace"
+msgstr "Clepsydra Terrace - Clepsydra terras"
+
+msgid "Door Bolt"
+msgstr "Door Bolt - Deurbout"
+
+msgid "Recommending Virtuous Men"
+msgstr "Recommending Virtuous Men - Aanbevolen virtuoze man"
+
+msgid "Accumulated Water"
+msgstr "Accumulated Water - Verzameld water"
+
+msgid "Nine Water Wells"
+msgstr "Nine Water Wells - Negen waterbronnen"
+
+msgid "Nine Senior Officers"
+msgstr "Nine Senior Officers - Negen senior officieren"
+
+msgid "Imperial Military Flag"
+msgstr "Imperial Military Flag - Keizerlijke militaire vlag"
+
+msgid "Interpreters of Nine Dialects"
+msgstr "Interpreters of Nine Dialects - Tolken van negen dialecten"
+
+msgid "Banner of Wine Shop"
+msgstr "Banner of Wine Shop - Banier van de wijnwinkel"
+
+msgid "Mortar"
+msgstr "Mortar - Mortel"
+
+msgid "Rolled Tongue"
+msgstr "Gerolde tong"
+
+msgid "Military Well"
+msgstr "Militaire bron"
+
+msgid "Southern Military Gate"
+msgstr "Southern Military Gate - Zuidelijke militaire poort"
+
+msgid "Market for Soldiers"
+msgstr "Market for Soldiers - Markt voor soldaten"
+
+msgid "Chaff"
+msgstr "Chaff - Kaf"
+
+msgid "Boats and Lake"
+msgstr "Boats and Lake -Boten en meer"
+
+msgid "Crying"
+msgstr "Crying - Huilen"
+
+msgid "Arsenal"
+msgstr "Arsenal - Arsenaal"
+
+msgid "Captain of the Bodyguards"
+msgstr "Captain of the Bodyguards - Kaptein van de lijfwachten"
+
+msgid "Officers of the Imperial Guard"
+msgstr "Officers of the Imperial Guard - Officieren van de Keizerlijke wacht"
+
+msgid "Thunder and Lightning"
+msgstr "Thunder and Lightning - Donder en bliksem"
+
+msgid "Line of Ramparts"
+msgstr "Line of Ramparts - Lijn van borstweringen"
+
+msgid "Resting Palace (Vassal of Encampment)"
+msgstr ""
+"Resting Palace (Vassal of Encampment) - Rustend paleis (Vazal van het "
+"kampement)"
+
+msgid "Jade Ornament on Ladies' Wear"
+msgstr "Jade Ornament on Ladies' Wea - Jade ornament op dameskleding"
+
+msgid "Pearls on Ladies' Wear"
+msgstr "Pearls on Ladies' Wea - Parels op dameskleding"
+
+msgid "Whetstone"
+msgstr "Whetstone - Wetsteen"
+
+msgid "Jewel Market"
+msgstr "Jewel Market - Juwelenmarkt"
+
+msgid "Astronomical Observatory"
+msgstr "Astronomical Observatory - Astronomisch observatorium"
+
+msgid "Six Jia"
+msgstr "Six Jia - Zes Jia"
+
+msgid "Network of Dykes"
+msgstr "Network of Dykes - Netwerk van dijken"
+
+msgid "The Hall of Glory"
+msgstr "The Hall of Glory - De hal van glorie"
+
+msgid "South River"
+msgstr "South River - Zuid rivier"
+
+msgid "Dongou"
+msgstr "Dongou - Dongou"
+
+msgid "Southern Gate"
+msgstr "Southern Gate - Zuidelijke poort"
+
+msgid "Inner Kitchen"
+msgstr "Inner Kitchen - Binnenkeuken"
+
+msgid "Inner Steps"
+msgstr "Inner Steps - Binnentrap"
+
+msgid "High Judge"
+msgstr "High Judge - Hoge rechter"
+
+msgid "Inner Screen"
+msgstr "Inner Screen - Binnenscherm"
+
+msgid "Imperial Passageway"
+msgstr "Imperial Passageway - Keizerlijke doorgang"
+
+msgid "Peasant"
+msgstr "Peasant - Boer"
+
+msgid "Woman's Bed"
+msgstr "Woman's Bed - Vrouwenbed"
+
+msgid "Female Protocol"
+msgstr "Vrouwelijk protocol"
+
+msgid "Thunderbolt"
+msgstr "Thunderbolt - Bliksemschicht"
+
+msgid "Judging"
+msgstr "Berechting"
+
+msgid "Flat Road"
+msgstr "Flat Road - Vlakke weg"
+
+msgid "Screen"
+msgstr "Screen - Scherm"
+
+msgid "Seven Excellencies"
+msgstr "Seven Excellencies - Zeven excellenties"
+
+msgid "House for Musical Instruments"
+msgstr "House for Musical Instruments - Huis voor muziekinstrumenten"
+
+msgid "Imperial Guards"
+msgstr "Imperial Guards - Keizerlijke garde"
+
+msgid "Chariots and Cavalry General"
+msgstr "Chariots and Cavalry General - Strijdwagens en cavalerie generaal"
+
+msgid "Weeping"
+msgstr "Weeping - Tranen"
+
+msgid "Celestial Cereals"
+msgstr "Celestial Cereals - Hemelse granen"
+
+msgid "Green Hill"
+msgstr "Green Hill - Groene heuvel"
+
+msgid "Palace Gate"
+msgstr "Palace Gate - Paleispoort"
+
+msgid "Humans"
+msgstr "Humans - Mensen"
+
+msgid "Solar Star"
+msgstr "Solar Star - Zonnester"
+
+msgid "Three Excellencies (In Supreme Palace Enclosure)"
+msgstr "Drie excellenties (in suprême paleistuin)"
+
+msgid "Three Excellencies (In Purple Forbidden Enclosure)"
+msgstr "Drie excellenties (in purperen verboden behuizing)"
+
+msgid "Three Top Instructors"
+msgstr "Three Top Instructors - Drie top instructeurs"
+
+msgid "Royal Secretary"
+msgstr "Koninklijke secretarie"
+
+msgid "Junior Officers"
+msgstr "Junior Officers - Junior officieren"
+
+msgid "Changing Room (Vassal of Tail)"
+msgstr "Changing Room (Vassal of Tail) - Kleedkamer (Vazal van staart)"
+
+msgid "Excrement"
+msgstr "Excrement - UItwerpsel"
+
+msgid "Municipal Office"
+msgstr "Municipal Office - Gemeentekantoor"
+
+msgid "Eunuch"
+msgstr "Eunuch"
+
+msgid "Official for Irrigation"
+msgstr "Official for Irrigation - Ambtenaar voor irrigatie"
+
+msgid "Water Level"
+msgstr "Water Level - Waterpeil"
+
+msgid "Deified Judge of Right and Wrong"
+msgstr "Vergoddelijkte rechter boven goed of fout"
+
+msgid "Deity in Charge of Monsters"
+msgstr "Deity in Charge of Monsters - Godheid verantwoordelijk voor monsters"
+
+msgid "Deified Judge of Rank"
+msgstr "Deified Judge of Rank - Vergoddelijkte rechter van rang"
+
+msgid "Deified Judge of Life"
+msgstr "Deified Judge of Life - Vergoddelijkte rechter van het leven"
+
+msgid "Deified Judge of Disaster and Good Fortune"
+msgstr ""
+"Deified Judge of Disaster and Good Fortune - Vergoddelijkte rechter van ramp "
+"en geluk"
+
+msgid "Four Channels"
+msgstr "Four Channels - Vier kanalen"
+
+msgid "Four Advisors"
+msgstr "Four Advisors - Vier adviseurs"
+
+msgid "Grandson"
+msgstr "Grandson - Kleinzoon"
+
+msgid "Guard of the Sun"
+msgstr "Wachter van de zon"
+
+msgid "First Great One"
+msgstr "First Great One - Eerste grootste"
+
+msgid "Crown Prince"
+msgstr "Crown Prince - Kroonprins"
+
+msgid "Royals"
+msgstr "Royals - Koninklijken"
+
+msgid "Flying Serpent"
+msgstr "Vliegende slang"
+
+msgid "Celestial Concave"
+msgstr "Celestial Concave - Hemelse concaaf"
+
+msgid "Celestial Flail"
+msgstr "Celestial Flail - Hemelse dorsvlegel"
+
+msgid "Market Officer"
+msgstr "Market Officer - Marktopzichter"
+
+msgid "Square Celestial Granary"
+msgstr "Square Celestial Granary - Vierkante hemelse graanschuur"
+
+msgid "Celestial Slander"
+msgstr "Celestial Slander - Hemelse laster"
+
+msgid "Celestial Kitchen"
+msgstr "Celestial Kitchen - Hemelse keuken"
+
+msgid "Celestial Boat"
+msgstr "Celestial Boat - Hemelse boot"
+
+msgid "Celestial Bed"
+msgstr "Celestial Bed - Hemelbed"
+
+msgid "Great General of Heaven"
+msgstr "Great General of Heaven - Grote generaal van de hemel"
+
+msgid "Celestial Drumstick"
+msgstr "Celestial Drumstick - Hemelse drumstok"
+
+msgid "Celestial Spokes"
+msgstr "Celestial Spokes - Hemelspaken"
+
+msgid "Materials for Making Tents"
+msgstr "Materials for Making Tents - Materialen om tenten te maken"
+
+msgid "Celestial High Terrace"
+msgstr "Celestial High Terrace - Hemels hoog terras"
+
+msgid "Celestial Hook"
+msgstr "Celestial Hook - Hemelse haak"
+
+msgid "Celestial Dog"
+msgstr "Celestial Dog - Hemelse hond"
+
+msgid "Celestial Pass"
+msgstr "Celestial Pass - Hemelse pas"
+
+msgid "Great Emperor of Heaven"
+msgstr "Great Emperor of Heaven - Grote keizer van de hemel"
+
+msgid "Celestial Pier"
+msgstr "Celestial Pier - Hemelse pier"
+
+msgid "Celestial Pigsty"
+msgstr "Celestial Pigsty - Hemelse zwijnenstal"
+
+msgid "Celestial Cock"
+msgstr "Celestial Cock -Hemelse haan"
+
+msgid "Judge for Estimating the Age of Animals"
+msgstr ""
+"Judge for Estimating the Age of Animals - Rechter voor het leeftijd schatten "
+"van dieren"
+
+msgid "Celestial Discipline"
+msgstr "Celestial Discipline - Hemelse discipline"
+
+msgid "Celestial River"
+msgstr "Celestial River - Hemelse rivier"
+
+msgid "Celestial Street"
+msgstr "Celestial Street - Hemelse straat"
+
+msgid "Celestial Tally"
+msgstr "Celestial Tally - Hemelse overeenstemming"
+
+msgid "Celestial Ford"
+msgstr "Celestial Ford - Hemelse doorwaadbare plaats"
+
+msgid "Celestial Stable"
+msgstr "Celestial Stable - Hemelse stal"
+
+msgid "Celestial Prison"
+msgstr "Celestial Prison - Hemelse gevangenis"
+
+msgid "Celestial Ramparts"
+msgstr "Celestial Ramparts - Hemelse borstweringen"
+
+msgid "Judge for Nobility"
+msgstr "Judge for Nobility - Rechter voor nobelheid"
+
+msgid "Celestial Foodstuff"
+msgstr "Celestial Foodstuff - Hemels voedsel"
+
+msgid "Celestial Gate"
+msgstr "Celestial Gate - Hemelpoort"
+
+msgid "Celestial Money"
+msgstr "Celestial Money - Hemels geld"
+
+msgid "Celestial Spear"
+msgstr "Celestial Spear - Hemelse speer"
+
+msgid "Circular Celestial Granary"
+msgstr "Circular Celestial Granary - Ronde hemelse graanschuur"
+
+msgid "Celestial Milk"
+msgstr "Celestial Milk - Hemelse melk"
+
+msgid "Celestial Earth God's Temple"
+msgstr "Celestial Earth God's Temple - Hemelse aardse Godstempel"
+
+msgid "Celestial Farmland (In Horn Mansion)"
+msgstr "Hemels boerenland (in Mansion Hoorn)"
+
+msgid "Celestial Farmland (In Ox Mansion)"
+msgstr "Hemels boerenland (in Mansion Os)"
+
+msgid "Celestial Premier"
+msgstr "Celestial Premier - Hemelse premier"
+
+msgid "Celestial Great One"
+msgstr "Celestial Great One - Hemelse grootste"
+
+msgid "Celestial Yin Force"
+msgstr "Celestial Yin Force - Hemelse Yin kracht"
+
+msgid "Ricks of Grain"
+msgstr "Ricks of Grain - Graankorrels"
+
+msgid "Celestial Spring"
+msgstr "Celestial Spring - Hemelse lente"
+
+msgid "Celestial Orchard"
+msgstr "Celestial Orchard - Hemelse boomgaard"
+
+msgid "Celestial Meadows"
+msgstr "Celestial Meadows - Hemelse weilanden"
+
+msgid "Celestial Keyhole"
+msgstr "Celestial Keyhole - Hemels sleutelgat"
+
+msgid "Celestial Pillar"
+msgstr "Celestial Pillar - Hemelse pilaar"
+
+msgid "Celestial Wine Cup"
+msgstr "Celestial Wine Cup - Hemels wijnglas"
+
+msgid "Butcher's Shops"
+msgstr "Butcher's Shops - Slagerijen"
+
+msgid "Official for Earthworks and Buildings"
+msgstr ""
+"Official for Earthworks and Buildings - Ambtenaar voor grondwerken en "
+"gebouwen"
+
+msgid "Official for Materials Supply"
+msgstr "Official for Materials Supply - Ambtenaar voor materiaalvoorziening"
+
+msgid "Outer Kitchen"
+msgstr "Outer Kitchen - Buitenkeuken"
+
+msgid "Outer Fence"
+msgstr "Outer Fence - Buitenste hek"
+
+msgid "Wang Liang"
+msgstr "Wang Liang"
+
+msgid "Master of Constructions (In Legs Mansion)"
+msgstr "Meester van constructies (in Mansion Benen)"
+
+msgid "Administrative Center"
+msgstr "Administratief centrum"
+
+msgid "Five Chariots"
+msgstr "Five Chariots - Vijf strijdwagens"
+
+msgid "Interior Seats of the Five Emperors"
+msgstr "Interieurzetels van de vijf keizers"
+
+msgid "Seats of the Five Emperors"
+msgstr "Seats of the Five Emperors - Zetels van de vijf keizers"
+
+msgid "Five Feudal Kings"
+msgstr "Five Feudal Kings - Vijf feodale koningen"
+
+msgid "Five Lords"
+msgstr "Five Lords - Vijf heren"
+
+msgid "Western Door"
+msgstr "Western Door - Westelijke deur"
+
+msgid "Xi Zhong"
+msgstr "Xi Zhong - Xi Zhong"
+
+msgid "Pool of Harmony"
+msgstr "Pool of Harmony - Poel van harmonie"
+
+msgid "Prime Minister"
+msgstr "Premier"
+
+msgid "Officer of Honour"
+msgstr "Officer of Honour - Officier van eer"
+
+msgid "Temple"
+msgstr "Temple - Tempel"
+
+msgid "Xuanyuan"
+msgstr "Xuanyuan - Xuanyuan"
+
+msgid "Sombre Lance"
+msgstr "Sombre Lance - Donkere lans"
+
+msgid "Battle Axe (Vassal of Well)"
+msgstr "Battle Axe (Vassal of Well) - Strijdbijl (Vazal van bron)"
+
+msgid "Gate of Yang"
+msgstr "Gate of Yang - Poort van Yang"
+
+msgid "Wild Cockerel"
+msgstr "Wild Cockerel - Wilde krokodil"
+
+msgid "Usher to the Court"
+msgstr "Usher to the Court - Deurwaarder voor het gerecht"
+
+msgid "Hidden Virtue"
+msgstr "Hidden Virtue - Verborgen deugd"
+
+msgid "Official in Charge of Pasturing"
+msgstr "Official in Charge of Pasturing - Ambtenaar belast met grasland"
+
+msgid "Right Flag"
+msgstr "Right Flag - Rechtervlag"
+
+msgid "Right Conductor"
+msgstr "Right Conductor - Rechter dirigent"
+
+msgid "Palace Guard"
+msgstr "Palace Guard - Paleiswacht"
+
+msgid "Jade Well"
+msgstr "Jade Well - Jade bron"
+
+msgid "Maids-in-waiting"
+msgstr "Maids-in-waiting - Meiden-in-afwachting"
+
+msgid "Lunar Star"
+msgstr "Lunar Star - Maanster"
+
+msgid "Whisper (Vassal of Net)"
+msgstr "Whisper (Vassal of Net - Fluisteren (Vazal van het net)"
+
+msgid "Cloud and Rain"
+msgstr "Cloud and Rain - Regenwolk"
+
+msgid "Zaofu"
+msgstr "Zaofu - Zaofu"
+
+msgid "Long Wall"
+msgstr "Long Wall - Lange muur"
+
+msgid "Grandfather"
+msgstr "Grandfather - Grootvader"
+
+msgid "Twinkling Indicator"
+msgstr "Twinkling Indicator - Twinkelende indicator"
+
+msgid "Assistant (Vassal of Northern Dipper)"
+msgstr ""
+"Assistant (Vassal of Northern Dipper) - Assistent (Vazal van het noordelijke "
+"steelpannetje)"
+
+msgid "Executions"
+msgstr "Executions - Executies"
+
+msgid "Battle Chariots"
+msgstr "Battle Chariots - Strijdwagens"
+
+msgid "Right linchpin (Vassal of Chariot)"
+msgstr "Rechter wielborging (Vazal van strijdwagen)"
+
+msgid "Weaving Girl"
+msgstr "Weaving Girl - Weefster"
+
+msgid "Left linchpin (Vassal of Chariot)"
+msgstr "Linker wielborging (Vazal van strijdwagen)"
+
+msgid "Tripod of the Zhou"
+msgstr "Tripod of the Zhou - Driepoot van de Zhou"
+
+msgid "Feudal Kings"
+msgstr "Feudal Kings - Feodale koningen"
+
+msgid "Pillars (In Net Mansion)"
+msgstr "Pilaren (in Mansion Net)"
+
+msgid "Pillars (In Horn Mansion)"
+msgstr "Pilaren (in Mansion Hoorn)"
+
+msgid "Official of Royal Archives"
+msgstr "Official of Royal Archives - Ambtenaar van de Koninklijke archieven"
+
+msgid "Son"
+msgstr "Son - Zon"
+
+msgid "Patriarchal Clan"
+msgstr "Patriarchal Clan - Parchale clan"
+
+msgid "Official of Religious Ceremonies"
+msgstr ""
+"Official of Religious Ceremonies - Ambtenaar van de religieuze ceremonies"
+
+msgid "Official for the Royal Clan"
+msgstr "Official for the Royal Clan -Ambtenaar van de Koninklijke clan"
+
+msgid "Official in Charge of the Forest"
+msgstr "Official in Charge of the Forest - Ambtenaar belast met het bos"
+
+msgid "Left Flag"
+msgstr "Left Flag - Linkervlag"
+
+msgid "Left Conductor"
+msgstr "Left Conductor - Linker dirigent"
+
+msgid "Seat Flags"
+msgstr "Seat Flags - Zetelvlaggen"
+
+msgid "Hezhong"
+msgstr "Hezhong"
+
+msgid "Hejian"
+msgstr "Hejian"
+
+msgid "Jin"
+msgstr "Jin"
+
+msgid "Zheng"
+msgstr "Zheng"
+
+msgid "Zhou"
+msgstr "Zhou"
+
+msgid "Qin"
+msgstr "Qin"
+
+msgid "Shu"
+msgstr "Shu"
+
+msgid "Ba"
+msgstr "Ba"
+
+msgid "Liang"
+msgstr "Liang"
+
+msgid "Chu"
+msgstr "Chu"
+
+msgid "Han"
+msgstr "Han"
+
+msgid "Wei"
+msgstr "Wei"
+
+msgid "Zhao"
+msgstr "Zhao"
+
+msgid "Jiuhe"
+msgstr "Jiuhe"
+
+msgid "Zhongshan"
+msgstr "Zhongshan"
+
+msgid "Qi"
+msgstr "Qi"
+
+msgid "Wuyue"
+msgstr "Wuyue"
+
+msgid "Xu"
+msgstr "Xu"
+
+msgid "Donghai"
+msgstr "Donghai"
+
+msgid "Yan"
+msgstr "Yan"
+
+msgid "Nanhai"
+msgstr "Nanhai"
+
+msgid "Song"
+msgstr "Song"
+
+#. TRANSLATORS: Pinyin transliteration
+#. ## Corresponding star is in Boss General Catalogue but not in HIP
+#. catalogue.
+#. GC 6424	Five Chariots  Added XVIII
+#. GC 22632	Heart Added VII
+#. GC 10303	South River Added XI
+#. GC 17495	Recommending Virtuous Man Added VI
+#. GC 19251	Great Horn Added II
+#. GC 4536	Hairy Head Added X
+#. GC 14799 Sea and Mountain II (or NGC 3372)
+#. ## Nova
+#. N 1848 Song Added I
+#. N 1843 Sea and Mountain III
+#. Notes:
+#. 1.In the Chinese catalogue, some of the stars are "principle" (正星). These
+#. stars were first discovered and well-known.On the contrary, some of the
+#. stars are "added" (增星). They were recorded and named in later catalogues.
+#. 2.Perhaps due to the limitations of ancient observational capabilities some
+#. recorded stars could not find corresponding star,and ignore them here.
+#. Reference:
+#. 1.Yi Shitong. (1981). Chinese and Western Contrast Star Chart and Catalogue
+#. 1950.0. Beijing. Science Press.
+#. 2.Pan Nai. (2009). The History of Stellar Observation in China. Shanghai.
+#. Academia Press. ISBN 9787807306948.
+#. 3.Yi Shitong. (1980). Chinese and Western Contrast Star Chart. Encyclopedia
+#. of China - Astronomy. Beijing. Encyclopedia of China Publishing House.
+#. 4.English-Chinese Glossary of Chinese Star Regions, Asterisms and Star
+#. Names|http://www.lcsd.gov.hk/CE/Museum/Space/zh_CN/web/spm/starshine/resources/constemyth/glossary.html
+#. TRANSLATORS: Native name of the Sun in Chinese culture
+msgid "Taiyang"
+msgstr "Taiyang"
+
+msgid "Purple Forbidden East Wall"
+msgstr "Paarse verboden oostmuur"
+
+msgid "Purple Forbidden West Wall"
+msgstr "Paarse verboden westmuur"
+
+msgid "Supreme Palace East Wall"
+msgstr "Suprême paleis oostmuur"
+
+msgid "Supreme Palace West Wall"
+msgstr "Suprême paleis westmuur"
+
+msgid "Three Steps (Upper Step)"
+msgstr "Drie stappen (Bovenste stap)"
+
+msgid "Three Steps (Middle Step)"
+msgstr "Drie stappen (Middelste stap)"
+
+msgid "Three Steps (Lower Step)"
+msgstr "Drie stappen (Onderste stap)"
+
+msgid "Heavenly Market East Wall"
+msgstr "Hemelse markt oostmuur"
+
+msgid "Heavenly Market West Wall"
+msgstr "Hemelse markt westmuur"
+
+msgid "Twelve States (Zhao State)"
+msgstr "Twaalf staten (Zhao staat)"
+
+msgid "Twelve States (Yue State)"
+msgstr "Twaalf staten (Yue staat)"
+
+msgid "Twelve States (Zhou State)"
+msgstr "Twaalf staten (Zhou staat)"
+
+msgid "Twelve States (Qi State)"
+msgstr "Twaalf staten (Qi staat)"
+
+msgid "Twelve States (Zheng State)"
+msgstr "Twaalf staten (Zheng staat)"
+
+msgid "Twelve States (Chu State)"
+msgstr "Twaalf staten (Chu staat)"
+
+msgid "Twelve States (Qin State)"
+msgstr "Twaalf staten (Qin staat)"
+
+msgid "Twelve States (Yan State)"
+msgstr "Twaalf staten (Yan staat)"
+
+msgid "Twelve States (Wei State)"
+msgstr "Twaalf staten (Wei staat)"
+
+msgid "Twelve States (Dai State)"
+msgstr "Twaalf staten (Dai staat)"
+
+msgid "Twelve States (Jin State)"
+msgstr "Twaalf staten (Jin staat)"
+
+msgid "Twelve States (Han State)"
+msgstr "Twaalf staten (Han staat)"
+
+msgid "Cumulative Corpse Gas"
+msgstr "Cumulatieve lijken gas"
+
+msgid "Master of Constructions (In Chariot Mansion)"
+msgstr "Meester van constructies (In Mansion Strijdwagen)"
+
+msgid "Taizi/Crown Prince"
+msgstr "Taizi/Kroonprins"
+
+msgid "Di/Emperor"
+msgstr "Di/Keizer"
+
+msgid "Shuzi/Bastard"
+msgstr "Shuzi/Bastaard"
+
+msgid "Hougong/Harem"
+msgstr "Hougong/Harem"
+
+msgid "Tianshu/The Celestial Pivot"
+msgstr "Tianshu/De hemelse spil"
+
+msgid "Niuxing/Ancient Star"
+msgstr "Niuxing/Oude ster"
+
+msgid "Yuanshi/The Origin of All Things"
+msgstr "Yuanshi/Het oorsprong van alle dingen"
+
+msgid "Tianhuangdadi/Great Emperor of Heaven"
+msgstr "Tianhuangdadi/Grote keizer van de hemel"
+
+msgid "Nüshi/Female Protocol"
+msgstr "Nüshi/Vrouwelijk protocol"
+
+msgid "Zhushi/Official of Royal Archives"
+msgstr "Zhushi/Ambtenaar van de Koninklijke archieven"
+
+msgid "Youshu/Right Pivot"
+msgstr "Youshu/Rechter spil"
+
+msgid "Shaowei/The Second Commandant"
+msgstr "Shaowei/De tweede commandant"
+
+msgid "Shangfu/The Great Advisor"
+msgstr "Shangfu/De hoofdadviseur"
+
+msgid "Shaofu/The Second Advisor"
+msgstr "Shaofu/De tweede adviseur"
+
+msgid "Shangwei/The Great Imperial Guard"
+msgstr "Shangwei/De grote keizerlijke garde"
+
+msgid "Shaowei/The Second Imperial Guard"
+msgstr "Shaowei/De tweede keizerlijke garde"
+
+msgid "Shangcheng/The Great Imperial Minister"
+msgstr "Shangcheng/De hoogste keizerlijke minister"
+
+msgid "Zuoshu/Left Pivot"
+msgstr "Zuoshu/Linker spil"
+
+msgid "Shangzai/The Great Prime Minister"
+msgstr "Shangzai/De grote minister-president"
+
+msgid "Shaozai/The Second Prime Minister"
+msgstr "Shaozai/De tweede minister-president"
+
+msgid "Shangbi/The Great Protector"
+msgstr "De grote beschermer"
+
+msgid "Shaobi/The Second Protector"
+msgstr "Shaobi/De tweede beschermer"
+
+msgid "Shaocheng/The Second Imperial Minister"
+msgstr "Shaocheng/De tweede keizerlijke minister"
+
+msgid "Tianyi/Celestial Great One"
+msgstr "Tianyi/Hemelse grootste"
+
+msgid "Taiyi/First Great One"
+msgstr "Taiyi/Eerste grootste"
+
+msgid "Tianxuan/The Celestial Rotating Jade"
+msgstr "Tianxuan/De hemelse roterende jade"
+
+msgid "Tianji/The Celestial Shining Pearl"
+msgstr "Tianji/De hemelse schijnparel"
+
+msgid "Tianquan/The Celestial Balance"
+msgstr "Tianquan/De hemelse balans"
+
+msgid "Yuheng/The Jade Sighting-tube"
+msgstr "Yuheng/De jade-richtbuis"
+
+msgid "Kaiyang/The Opener of Heat"
+msgstr "Kaiyang/De opener van warmte"
+
+msgid "Yaoguang/The Twinkling Brilliance"
+msgstr "Yaoguang/De twinkelende schittering"
+
+msgid "Tanlang/Greedy Wolf"
+msgstr "Tanlang/Gulzige wolf"
+
+msgid "Jumen/Giant Gate"
+msgstr "Jumen/Gigantische poort"
+
+msgid "Lucun/Good Fortune Star"
+msgstr "Lucun/Gelukster"
+
+msgid "Wenqu/Literary Star"
+msgstr "Wenqu/Literaire ster"
+
+msgid "Lianzhen/Clean and Chaste"
+msgstr "Lianzhen/Schoon en kuis"
+
+msgid "Wuqu/Military Star"
+msgstr "Wuqu/Militaire ster"
+
+msgid "Pojun/Break the Enemy"
+msgstr "Pojun/Breekt de vijand"
+
+msgid "Zheng/Justice"
+msgstr "Zheng/Justicie"
+
+msgid "Fa/Law"
+msgstr "Fa/Wet"
+
+msgid "Ling/Command"
+msgstr "Ling/Commando"
+
+msgid "Fa/Crusade"
+msgstr "Fa/Kruistocht"
+
+msgid "Sha/Killing"
+msgstr "Sha/Doden"
+
+msgid "Wei/Danger"
+msgstr "Wei/Gevaar"
+
+msgid "Bu/Army"
+msgstr "Bu/Leger"
+
+msgid "Fu/Assistant"
+msgstr "Fu/Assistent"
+
+msgid "Xuange/Sombre Lance"
+msgstr "Fu/Donkere lans"
+
+msgid "Xiang/Prime Minister"
+msgstr "Xiang/Premier"
+
+msgid "Taiyangshou/Guard of the Sun"
+msgstr "Taiyangshou/Wachter van de zon"
+
+msgid "Taizun/Royals"
+msgstr "Taizun/Koninklijken"
+
+msgid "Shangjiang/Great General"
+msgstr "Shangjiang/Grote generaal"
+
+msgid "Cijiang/Second General"
+msgstr "Cijiang/Tweede generaal"
+
+msgid "Shangshu/Royal Secretary"
+msgstr "Shangshu/Koninklijke secretaris"
+
+msgid "Guixiang/Distinguished Primer"
+msgstr "Guixiang/Gedistingeerd premier"
+
+msgid "Taichang/Minister of Justice"
+msgstr "Taichang/Minister van Justitie"
+
+msgid "Silu/Deified Judge of Rank"
+msgstr "Silu/Vergoddelijkte rechter van rang"
+
+msgid "Sizhong/Deified Judge of Disaster"
+msgstr "Sizhong/Vergoddelijkte rechter van de ramp"
+
+msgid "Sili/Senior Judge"
+msgstr "Sili/Hoofdrechter"
+
+msgid "Siming/Deified Judge of Life"
+msgstr "Siming/Vergoddelijkte rechter van het leven"
+
+msgid "Siguai/Deity in Charge of Monsters"
+msgstr "Siguai/Godheid verantwoordelijk voor monsters"
+
+msgid "Taishi/Court Historian"
+msgstr "Taishi/Gerechts historicus"
+
+msgid "Sikou/Supreme Judge"
+msgstr "Sikou/Opperrechter"
+
+msgid "Dali/Minister of Justice"
+msgstr "Dali/Minister van Justitie"
+
+msgid "Huangdizuo/Seat of Yellow Emperor"
+msgstr "Huangdizuo/Zetel van de gele keizer"
+
+msgid "Cangdi/Azure Emperor"
+msgstr "Cangdi/Azuren keizer"
+
+msgid "Chidi/Red Emperor"
+msgstr "Chidi/Rode keizer"
+
+msgid "Baidi/White Emperor"
+msgstr "Baidi/Witte keizer"
+
+msgid "Heidi/Black Emperor"
+msgstr "Heidi/Zwarte keizer"
+
+msgid "Congguan/Retinue"
+msgstr "Congguan/Gevolg"
+
+msgid "Xingchen/Officer of Honour"
+msgstr "Xingchen/Officier van eer"
+
+msgid "Youzhifa/Right Law Administrator"
+msgstr "Youzhifa/Rechtse wet administrateur"
+
+msgid "Xishangjiang/The Great Western General"
+msgstr "Xishangjiang/De grote westerse generaal"
+
+msgid "Xicijiang/The Second Western General"
+msgstr "Xicijiang/De tweede westerse generaal"
+
+msgid "Xicixiang/The Second Western Premier"
+msgstr "Xicixiang/De tweede westerse premier"
+
+msgid "Xishangxiang/The Great Western Premier"
+msgstr "Xishangxiang/De grote westerse premier"
+
+msgid "Zuozhifa/Left Law Administrator"
+msgstr "Zuozhifa/Linkse wet administrateur"
+
+msgid "Dongshangxiang/The Great Eastern Premier"
+msgstr "Dongshangxiang/De grote westerse premier"
+
+msgid "Dongcixiang/The Second Eastern Premier"
+msgstr "Dongcixiang/De tweede westerse premier"
+
+msgid "Dongcijiang/The Second Eastern General"
+msgstr "Dongcijiang/De tweede westerse generaal"
+
+msgid "Dongshangjiang/The Great Eastern General"
+msgstr "Dongshangjiang/De grote westerse generaal"
+
+msgid "Tianzi/Son of Heaven"
+msgstr "Tianzi/Zon van de Hemel"
+
+msgid "Nüzhu/Empress"
+msgstr "Nüzhu/Keizerin"
+
+msgid "Zhuhousangong/ Feudal Kings and Three Excellencies"
+msgstr "Zhuhousangong/ Feodale koningen en drie excellenties"
+
+msgid "Qingdafu/High Ministers and Nobles"
+msgstr "Qingdafu/Hoge ministers en edelen"
+
+msgid "Shi/Gentry"
+msgstr "Shi/Gentry"
+
+msgid "Shuren/Common People"
+msgstr "Shuren/Gewone mensen"
+
+msgid "Huben/Emperor's Bodyguard"
+msgstr "Huben/Keizers lijfwacht"
+
+msgid "Yezhe/Usher to the Court"
+msgstr "Yezhe/Deurwaarder voor het gerecht"
+
+msgid "Dizuo/Emperor's Seat"
+msgstr "Dizuo/Zetel van de keizer"
+
+msgid "Hou/Astrologer"
+msgstr "Hou/Astroloog"
+
+msgid "Jinxian/Recommending Virtuous Men"
+msgstr "Jinxian/Aanbevolen virtuoze man"
+
+msgid "Dajiao/Great Horn"
+msgstr "Dajiao/Grote hoorn"
+
+msgid "Shi/Wedded Wife"
+msgstr "Shi/Echtelijke vrouw"
+
+msgid "Qie/Minor Concubine"
+msgstr "Qie/Kleine concubine"
+
+msgid "Zhaoyao/Twinkling Indicator"
+msgstr "Zhaoyao/Twinkelende indicator"
+
+msgid "Tianru/Celestial Milk"
+msgstr "Tianru/Hemelse melk"
+
+msgid "Qizhenjiangjun/Chariots and Cavalry General"
+msgstr "Qizhenjiangjun/Strijdwagens en cavalerie generaal"
+
+msgid "Cijiang/The Second General"
+msgstr "Cijiang/De tweede generaal"
+
+msgid "Shangjiang/The Great General"
+msgstr "Shangjiang/De grote generaal"
+
+msgid "Cixiang/The Second General"
+msgstr "Cixiang/De tweede generaal"
+
+msgid "Shangxiang/The Great Premier"
+msgstr "Shangxiang/De grote premier"
+
+msgid "Jianbi/Door Bolt"
+msgstr "Jianbi/Deurbout"
+
+msgid "Ri/Solar Star"
+msgstr "Ri/Zonnester"
+
+msgid "Tianwang/Celestial King"
+msgstr "Tianwang/Hemelse Koning"
+
+msgid "Mingtang/Cosmological Temple"
+msgstr "Mingtang/Kosmologische tempel"
+
+msgid "Dahuo/Great Fire"
+msgstr "Dahuo/Groot vuur"
+
+msgid "Hou/Empress Consort"
+msgstr "Hou/Wederhelft keizerin"
+
+msgid "Fei/Imperial Consort"
+msgstr "Fei/Keizerlijke wederhelft"
+
+msgid "Pin/Imperial Concubine"
+msgstr "Pin/keizerlijke concubine"
+
+msgid "Shengong/Changing Room"
+msgstr "Shengong/Kleedkamer"
+
+msgid "Fuyue/Fu Yue"
+msgstr "Fuyue/Fu Yue"
+
+msgid "Kang/Chaff"
+msgstr "Kang/Kaf"
+
+msgid "Tiantong/Celestial Collaborators"
+msgstr "Tiantong/Hemelse collaborateurs"
+
+msgid "Fu/Blessing"
+msgstr "Fu/Zegening"
+
+msgid "Tianxiang/Celestial Premier"
+msgstr "Tianxiang/Hemelse premier"
+
+msgid "Yin/Stamp"
+msgstr "Yin/Stempel"
+
+msgid "Qisha/Seven Assassins"
+msgstr "Qisha/Zeven moordenaars"
+
+msgid "Jiang/General"
+msgstr "Jiang/Algemeen"
+
+msgid "Tianji/Celestial Secret"
+msgstr "Tianji/Hemels geheim"
+
+msgid "Shan/Kindness"
+msgstr "Shan/Vriendelijkheid"
+
+msgid "Tianliang/Celestial Beam"
+msgstr "Tianliang/Hemelse stralenbundel"
+
+msgid "Yin/Shade"
+msgstr "Yin/Schaduw"
+
+msgid "Tianfu/Celestial Official"
+msgstr "Tianfu/Hemelse official"
+
+msgid "Nongzhangren/Peasant"
+msgstr "Nongzhangren/Boer"
+
+msgid "Dajiangjun/Great General"
+msgstr "Dajiangjun/Grote generaal"
+
+msgid "Zuojiangjun/Left General"
+msgstr "Zuojiangjun/Linker generaal"
+
+msgid "Youjiangjun/Right General"
+msgstr "Youjiangjun/Rechter generaal"
+
+msgid "Qianniuxing/Cowboy"
+msgstr "Qianniuxing/Cowboy"
+
+msgid "Zhinüxing/Weaving Girl"
+msgstr "Zhinüxing/Weefster"
+
+msgid "Yue"
+msgstr "Yue"
+
+msgid "Tiangang/Materials for Making Tents"
+msgstr "Tiangang/Materialen om tenten te maken"
+
+msgid "Beiluoshimen/North Gate of the Military Camp"
+msgstr "Beiluoshimen/Noordpoort van het militaire kamp"
+
+msgid "Wangiang/Wang Liang"
+msgstr "Wangiang/Wang Liang"
+
+msgid "Tiansi/Celestial Horse"
+msgstr "Tiansi/Hemels paard"
+
+msgid "Ce/Whip"
+msgstr "Ce/Zweep"
+
+msgid "Fulu/Auxiliary Road"
+msgstr "Fulu/Hulpweg"
+
+msgid "Junnanmen/Southern Military Gate"
+msgstr "Junnanmen/Zuidelijke militaire poort"
+
+msgid "Tusikong/Master of Constructions"
+msgstr "Tusikong/Meester van constructies"
+
+msgid "Jishi/Heap of Corpses"
+msgstr "Jishi/Hoop lijken"
+
+msgid "Jishui/Stored Water"
+msgstr "Jishui/Opgeslagen water"
+
+msgid "Tiane/Celestial Concave"
+msgstr "Tiane/Hemelse concaaf"
+
+msgid "Yue/Lunar Star"
+msgstr "Yue/Zonnester"
+
+msgid "Tianchan/Celestial Slander"
+msgstr "Tianchan/Hemelse laster"
+
+msgid "Tiangao/Celestial High Terrace"
+msgstr "Tiangao/Hemels hoog terras"
+
+msgid "Bianjiang/Side-general"
+msgstr "Bianjiang/Side-general"
+
+msgid "Fuer/Whisper"
+msgstr "Fuer/Fluisteren"
+
+msgid "Tianguan/Celestial Pass"
+msgstr "Tianguan/Hemelse pas"
+
+msgid "Hengshi/Scales"
+msgstr "Hengshi/Weegschaal"
+
+msgid "Zuojian/Left Shoulder"
+msgstr "Zuojian/Linker schouder"
+
+msgid "Youjian/Right Shoulder"
+msgstr "Youjian/Rechter schouder"
+
+msgid "Zuozu/Left Foot"
+msgstr "Zuozu/Linker voet"
+
+msgid "Youzu/Right Foot"
+msgstr "Youzu/Rechter voet"
+
+msgid "Shi/Excrement"
+msgstr "Shi/Uitwerpsel"
+
+msgid "Yue/Battle Axe"
+msgstr "Yue/Strijdbijl"
+
+msgid "Dishi/Emperor Teacher"
+msgstr "Dishi/Keizer leraar"
+
+msgid "Diyou/Emperor friend"
+msgstr "Diyou/Keizer vriend"
+
+msgid "Sangong/Three excellencies"
+msgstr "Sangong/Drie excellenties"
+
+msgid "Boshi/Doctor"
+msgstr "Boshi/Doctor"
+
+msgid "Jishui/Accumulated Water"
+msgstr "Jishui/Verzameld water"
+
+msgid "Jixin/Pile of Firewood"
+msgstr "Jixin/Stapel brandhout"
+
+msgid "Yeji/Wild Cockerel"
+msgstr "Yeji/Wilde krokodil"
+
+msgid "Lang/Wolf"
+msgstr "Lang/Wolf"
+
+msgid "Tianlang/Celestial Wolf"
+msgstr "Tianlang/Hemelse wolf"
+
+msgid "Laoren/Old Man"
+msgstr "Laoren/Oude man"
+
+msgid "Nanjilaoren/The Southernmost Old Man"
+msgstr "Nanjilaoren/De zuidelijkste oude man"
+
+msgid "Shi/Arrow"
+msgstr "Shi/Pijl"
+
+msgid "Tianji/Judge for Estimating the Age of Animals"
+msgstr "Tianji/Rechter voor het leeftijd schatten van dieren"
+
+msgid "Cifei/Minor Imperial Consort"
+msgstr "Cifei/Kleine keizerlijke wederhelft"
+
+msgid "Furen/Highest-ranking Imperial Consort"
+msgstr "Hoogste keizerlijk wederhelft"
+
+msgid "Damin/Patriarchal Clan of Empress Dowager"
+msgstr "Damin/Aartsvaderlijk clan van de keizerin weduwe"
+
+msgid "Shaomin/Patriarchal Clan of Empress Consort"
+msgstr "Shaomin/Aartsvaderlijk clan van de keizerin wederhelft"
+
+msgid "Yunü/Maids-in-waiting"
+msgstr "Yunü/Meiden-in-de-wacht"
+
+msgid "Youxia/Right linchpin"
+msgstr "Youxia/Rechter wielborging"
+
+msgid "Zuoxia/Left linchpin"
+msgstr "Zuoxia/Linker wielborging"
+
+msgid "Changsha/Changsha"
+msgstr "Changsha/Changsha"
+
+msgid "Determinative Star"
+msgstr "Bepalende ster"
+
+#. TRANSLATORS: Native name of the Moon in Chinese culture
+msgid "Taiyin"
+msgstr "Taiyin"
+
+#. TRANSLATORS: Native name of Mercury in Chinese culture
+msgid "Chen Star"
+msgstr "Chen ster"
+
+#. TRANSLATORS: Native name of Venus in Chinese culture
+msgid "Taibai"
+msgstr "Taibai"
+
+#. TRANSLATORS: Native name of Mars in Chinese culture
+msgid "Yinghuo"
+msgstr "Yinghuo"
+
+#. TRANSLATORS: Native name of Jupiter in Chinese culture
+msgid "Sui Star"
+msgstr "Sui Star"
+
+#. TRANSLATORS: Native name of Saturn in Chinese culture
+msgid "Zhen Star"
+msgstr "Zhen Star"
+
+msgid "Jishiqi / Cumulative Corpse Gas"
+msgstr "Jishiqi / Cumulatief lijkgas"
+
+msgid "Yu / Fish"
+msgstr "Yu / Vis"
+
+msgid "Maotou / Ancient Flag with Yak's Tail"
+msgstr "Maotou / oude vlag met jakstaart"

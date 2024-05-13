@@ -1,0 +1,1837 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Ilpo Kantonen, 2024\n"
+"Language-Team: Finnish (https://app.transifex.com/stellarium/teams/80998/"
+"fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Chinese Medieval"
+msgstr "Keskiaikainen kiinalainen "
+
+# Sky culture introduction section in markdown format
+msgid ""
+"<p>This sky culture is based on the observation data of Huangyou four years "
+"(1052 AD), and presents the medieval Chinese sky map as faithfully as "
+"possible. This sky culture includes 283 Xingguans (星官, Chinese "
+"Constellations) and 1464 stars (including clusters M7, M44) of the "
+"<i>Xinyixiangfayao Star Map</i>. And the determinative star is marked for "
+"each Xingguan that can determine the determinative star. The boundaries of "
+"Twenty-eight Lunar Mansions are based on 1052 AD.</p>"
+msgstr ""
+"<p>Tämä taivaskulttuuri perustuu Huangyoun neljän vuoden (1052 jKr)\n"
+"havaintotietoihin ja esittää Kiinan keskiaikaisen taivaskartan\n"
+"mahdollisimman uskollisesti. Tämä taivaskulttuuri sisältää 283 tähdistöä\n"
+"(星官, kiinalaista tähdistöä) ja 1464 tähteä (sisältäen ryhmät M7, M44)\n"
+"<i>Xinyixiangfayao Star Map</i>. Ja määräävä tähti on merkitty jokaiselle\n"
+"tähdistölle, joka voi määrittää määräävän tähden. Kahdenkymmenenkahdeksan\n"
+"Kuun tähtikuvion rajat perustuvat vuoteen 1052 jKr.</p>"
+
+# Sky culture description section in markdown format
+msgid ""
+"### Medieval Xingguans\n"
+"\n"
+"<p>From the Three Kingdoms Period to the Ming Dynasty, covering the whole of "
+"the Middle Ages, China's star map is similar.</p>\n"
+"<p>The Xingguans originated in ancient times. Wuxian (巫咸) of Shang "
+"Dynasty(16th century BC-1046 BC), Gan De (甘德) and Shi Shen (石申) of The "
+"Warring States Period (475–221 BC), created their own Xingguan system "
+"respectively. During the Three Kingdoms period (220–280 AD), Chen Zhuo (陈"
+"卓) summarized the Xingguans system of Gan De, Shi Shen and Wuxian, "
+"including 283 Xingguans and 1464 stars. Since then, Xingguan system has been "
+"basically defined, and after a thousand years, there has not been much "
+"change. Since the 17th century, Western astronomy has had an impact on "
+"Chinese astronomy, and the shape and number of Xingguans have changed "
+"significantly. Only about half of the constellations maintained the medieval "
+"style.</p>\n"
+"<p>Determinative star is an important concept. In the Middle Ages, Chinese "
+"astronomers did not name all stars, and each Xingguans was chosen as a major "
+"star called determinative star. In ancient China, astronomical measurements "
+"measured its coordinate position, and other stars in the Xingguan were "
+"rarely mentioned. However, some important constellations will be selected "
+"more stars for observation and recording. In ancient China, astronomers used "
+"mansion distance degrees (determinative star distance) and polar distance "
+"degrees to record the position of stars. <b>In ancient China, the "
+"determinative stars of Twenty-eight Lunar Mansions was the benchmark for "
+"determining the longitude of the equatorial coordinate system</b>.</p>\n"
+"<p>The <i>Song of the Sky Pacers</i> (步天歌) is an early Chinese star "
+"catalogue in the form of poem in heptasyllabic verse, enumerating the names "
+"of stars.</p>\n"
+"<p>Below is <i>Xinyixiangfayao Star Map</i> from Su Song(苏颂, 1020-1101 AD)."
+"</p>\n"
+"<p><img src=\"xyxfy.png\"/><br/><em>Xinyixiangfayao Star Map(1088 AD)</em></"
+"p>\n"
+"\n"
+"### Restore Sky Map\n"
+"\n"
+"<p>The sky map of the Song dynasty is typical of the Chinese medieval sky "
+"map. In 1052 AD, the Song Dynasty official conducted accurate stellar "
+"measurements, leaving a lot of data.</p>\n"
+"<p>Pan Nai(潘鼐) collated these astronomical observations data and based on "
+"the <i>Xinyixiangfayao Star Map</i>, he restored most of the Song Dynasty's "
+"Xingguan in his masterpiece <i>The History of Stellar Observation in China</"
+"i>, which is the most important reference book. Qi Rui (齐锐) and Wan Haoyi "
+"(万昊宜) also restored the Xingguans of the Song Dynasty in the book "
+"<i>Roving China Heavens</i>, which is also an important reference book.</p>\n"
+"<p>Due to the limitation of observation conditions in Song Dynasty, combined "
+"with instruments, circulated errors and other reasons, different scholars "
+"restored the sky map is somewhat different.</p>\n"
+"<p>Based on these books, Stellarium can almost truly present the Chinese "
+"medieval sky map of Huangyou four years (1052 AD).</p>\n"
+"\n"
+"### Planets\n"
+"\n"
+"<p>Taiyang (太阳), Sun. The name comes from yin and yang, meaning a lot of "
+"yang,\n"
+"<p>Taiyin (太阴), Moon. The name comes from yin and yang, meaning a lot of "
+"Yin,\n"
+"<p>Chen Star (辰星), Mercury. Chen is an angle unit, which refers to about "
+"30 degrees. Mercury is always within 30 degrees of the sun.</p>\n"
+"<p>Taibai (太白), Venus. Taibai means big and white.</p>\n"
+"<p>Yinghuo (荧惑), Mars. The colors of Mars are like fire, and movement is "
+"confusing.</p>\n"
+"<p>Sui Star (岁星), Jupiter. It means the old star. Jupiter travels around "
+"the celestial sphere for a week every 12 years. The ancients took Jupiter's "
+"position as the standard of the chronology.</p>\n"
+"<p>Zhen Star (填星), Saturn. Zhen, means passing Lunar Mansions. Saturn "
+"travels around the celestial sphere about every 28 years. Saturn will pass "
+"through a Lunar Mansion every year. </p>"
+msgstr ""
+"### Keskiaikaiset tähdet\n"
+"\n"
+"<p>Kolmen kuningaskunnan kaudesta Ming-dynastiaan, joka kattaa koko "
+"keskiajan,\n"
+"Kiinan tähtikartta on samanlainen.</p>\n"
+"<p>Tähdet syntyivät muinaisina aikoina. Wuxian (巫咸) Shang-dynastian\n"
+"(1500-luvulla eKr.-1046 eKr.), Gan De (甘德) ja Shi Shen (石申) sotivien\n"
+"valtioiden aikakaudella (475-221 eKr.) loi oman tähtijärjestelmän. Kolmen\n"
+"kuningaskunnan aikana (220–280 jKr.) Chen Zhuo (陈卓) teki yhteenvedon\n"
+"tähtijärjestelmästä Gan De, Shi Shen ja Wuxian, mukaan lukien 283 "
+"Xingguania\n"
+"ja 1464 tähteä. Siitä lähtien tähtijärjestelmä on periaatteessa määritelty,\n"
+"ja tuhannen vuoden jälkeen ei ole tapahtunut paljon muutoksia. 1600-luvulta\n"
+"lähtien länsimainen tähtitiede on vaikuttanut Kiinan tähtitiedeen, ja\n"
+"tähtien muoto ja lukumäärä ovat muuttuneet merkittävästi. Vain noin puolet\n"
+"tähtikuvioista säilytti keskiaikaisen tyylin.</p>\n"
+"<p>Determinatiivinen tähti on tärkeä käsite. Keskiajalla kiinalaiset\n"
+"tähtitieteilijät eivät nimenneet kaikkia tähtiä, ja jokainen Xingguans\n"
+"valittiin päätähdeksi, jota kutsuttiin määrääväksi tähdeksi. Muinaisessa\n"
+"Kiinassa tähtitieteellisillä mittauksilla mitattiin sen koordinaattipaikka,\n"
+"ja muita Xingguanin tähtiä mainittiin harvoin. Jotkut tärkeät tähtikuviot\n"
+"kuitenkin valitaan lisää tähtiä havainnointia ja tallennusta\n"
+"varten. Muinaisessa Kiinassa tähtitieteilijät käyttivät tähtikuvioiden\n"
+"etäisyysasteita (määrittävä tähtietäisyys) ja napaetäisyysasteita tähtien\n"
+"sijainnin kirjaamiseen. <b>Muinaisessa Kiinassa 28 Kuun tähtikuvion\n"
+"määräävät tähdet olivat vertailukohtana päiväntasaajan\n"
+"koordinaattijärjestelmän pituusasteen määrittämisessä.</b>.</p>\n"
+"<p> <i>Song of the Sky Pacers</i> (步天歌)on varhainen kiinalainen "
+"tähtiluettelo\n"
+"runon muodossa seitsentavuisessa säkeessä, jossa luetellaan tähtien nimet.</"
+"p>\n"
+"<p>Alla on <i>Xinyixiangfayao tähtikartta</i> Su Songista(苏颂, 1020-1101 "
+"AD).</p>\n"
+"<p><img src=\"xyxfy.png\"/><br/><em>Xinyixiangfayao tähtikartta(1088 AD)</"
+"em></p>\n"
+"\n"
+"### Palauta taivaskartta\n"
+"\n"
+"<p>Song-dynastian taivaskartta on tyypillinen Kiinan keskiaikaiselle\n"
+"taivaskartalle. Vuonna 1052 jKr. Song-dynastian virkamies suoritti tarkkoja\n"
+"tähtimittauksia jättäen paljon tietoa.</p>\n"
+"<p>Pan Nai(潘鼐) kokosi nämä tähtitieteellisten havaintojen tiedot ja "
+"perustui\n"
+"<i>Xinyixiangfayao tähtikartta</i>, hän palautti suurimman osan\n"
+"Song-dynastian tähdistöstä mestariteoksessaan <i>The History of Stellar\n"
+"Observation in China</i>, joka on tärkein hakuteos. Qi Rui (齐锐) ja Wan "
+"Haoyi\n"
+"(万昊宜) ennallistivat myös Song-dynastian Xingguanit kirjassa <i>Roving "
+"China\n"
+"Heavens</i>, joka on myös tärkeä hakuteos.</p>\n"
+"<p>Song-dynastian havainto-olosuhteiden rajoitusten sekä instrumenttien,\n"
+"leviävien virheiden ja muiden syiden vuoksi eri tutkijat palauttivat\n"
+"taivaskartan olevan hieman erilainen.</p>\n"
+"<p>Näiden kirjojen perusteella Stellarium pystyy lähes aidosti esittelemään\n"
+"Kiinan keskiaikaisen taivaskartan Huangyousta neljä vuotta (1052 jKr.).</p>\n"
+"\n"
+"### Planeetat\n"
+"\n"
+"<p>Taiyang (太阳), su. Nimi tulee sanoista yin ja yang, mikä tarkoittaa "
+"paljon\n"
+"yangia,\n"
+"<p>Taiyin (太阴), Kuu. Nimi tulee sanoista yin ja yang, mikä tarkoittaa "
+"paljon\n"
+"yiniä,\n"
+"<p>Chen Star (辰星), Mercury. Chen on kulmayksikkö, joka tarkoittaa noin 30\n"
+"astetta. Merkurius on aina 30 asteen sisällä auringosta.</p>\n"
+"<p>Taibai (太白), Venus. Taibai tarkoittaa isoa ja valkoista.</p>\n"
+"<p>Yinghuo (荧惑), Mars. Marsin värit ovat kuin tuli, ja liike on "
+"hämmentävää.</p>\n"
+"<p>Sui Star (岁星), Jupiter. Se tarkoittaa vanhaa tähteä. Jupiter kiertää\n"
+"taivaanpallon viikon ajan 12 vuoden välein. Muinaiset ottivat Jupiterin\n"
+"aseman kronologian standardina.</p>\n"
+"<p>Zhen Star (填星), Saturnus. Zhen tarkoittaa Kuun tähtikuvion\n"
+"ohittamista. Saturnus kiertää taivaanpallon noin 28 vuoden välein. Saturnus\n"
+"kulkee Kuun tähtikuvion läpi joka vuosi. </p>"
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: Pan Nai. The History of Stellar Observation in China\n"
+" - [#2]: Qi Rui and Wan Haoyi. Roving China Heavens\n"
+" - [#3]: Su Song. *Xinyixiangfayao Star Map*\n"
+" - [#4]: *Records of the Grand Historian*\n"
+" - [#5]: *Book of Sui*\n"
+" - [#6]: *History of Song*\n"
+"\n"
+"### External links\n"
+"\n"
+"<ul>\n"
+"<li><a href=\"https://en.wikipedia.org/wiki/Su_Song\">wikipedia - Su Song</"
+"a></li>\n"
+"<li><a href=\"http://chinesenotes.com/songshi.html\">History of Song</a></"
+"li>\n"
+"<li><a href=\"http://chinesenotes.com/shiji.html\">Records of the Grand "
+"Historian</a></li>\n"
+"<li><a href=\"https://www.lcsd.gov.hk/CE/Museum/Space/archive/Research/"
+"Literature/c_research_literature_9.htm\">(Chinese) Song of the Sky Pacers</"
+"a></li>\n"
+"<li><a href=\"https://en.wikipedia.org/wiki/Song_of_the_Sky_Pacers"
+"\">wikipedia - Song of the Sky Pacers</a></li>\n"
+"<li><a href=\"http://wwt.china-vo.org/why/chineseheaven.htm\">(Chinese) "
+"Chinese Heaven in WWT Community Beijing</a></li>\n"
+"</ul>"
+msgstr ""
+" - [#1]: Pan Nai. Tähtien havainnoinnin historia Kiinassa\n"
+" - [#2]: Qi Rui ja Wan Haoyi. Kiertelevät Kiinan taivaat\n"
+" - [#3]: Su Song. *Xinyixiangfayao-tähtikartta*\n"
+" - [#4]: *Suuren historioitsijan tallenteet*\n"
+" - [#5]: *Suin kirja*\n"
+" - [#6]: *Songin historia*\n"
+"\n"
+"### Ulkoiset linkit\n"
+"\n"
+"<ul>\n"
+"<li><a href=\"https://en.wikipedia.org/wiki/Su_Song\">wikipedia - Su Song</"
+"a></li>\n"
+"<li><a href=\"http://chinesenotes.com/songshi.html\">Songin historia</a></"
+"li>\n"
+"<li><a href=\"http://chinesenotes.com/shiji.html\">Suuren historioitsijan\n"
+"tallenteet</a></li>\n"
+"<li><a\n"
+"href=\"https://www.lcsd.gov.hk/CE/Museum/Space/archive/Research/Literature/"
+"c_research_literature_9.htm\">(Kiinalainen)\n"
+"Taivaan tahdittajien laulu</a></li>\n"
+"<li><a href=\"https://en.wikipedia.org/wiki/Song_of_the_Sky_Pacers"
+"\">wikipedia -\n"
+"Taivaan tahdittajien laulu</a></li>\n"
+"<li><a href=\"http://wwt.china-vo.org/why/chineseheaven.htm\">(Kiinalainen)\n"
+"Kiinalainen taivas WWT-yhteisössä Pekingissä</a></li>\n"
+"</ul>"
+
+# Sky culture authors section in markdown format
+msgid ""
+"<p><p>This sky culture was contributed by Stellarium user <i>Sun Shuwei</i> "
+"(孙殳玮) .\n"
+"<a href=\"mailto:sunshuwei.hi@foxmail.com\">sunshuwei.hi@foxmail.com</a><br/"
+"></p>"
+msgstr ""
+"<p><p>Tämän taivaskulttuurin loi Stellariumin käyttäjä <i>Sun Shuwei</i> (孙"
+"殳玮) .\n"
+"<a href=\"mailto:sunshuwei.hi@foxmail.com\">sunshuwei.hi@foxmail.com</a><br/"
+"></p>"
+
+msgid "Old Man"
+msgstr "Vanha mies"
+
+msgid "Dog"
+msgstr "Koira"
+
+msgid "Fish"
+msgstr "Kala"
+
+msgid "Wolf"
+msgstr "Susi"
+
+msgid "Net"
+msgstr "Verkko"
+
+msgid "Wall"
+msgstr "Muuri"
+
+msgid "Three Stars"
+msgstr "Kolme tähteä"
+
+msgid "Root"
+msgstr "Juuri"
+
+msgid "Dipper"
+msgstr "Kauha"
+
+msgid "Room"
+msgstr "Huone"
+
+msgid "Ghosts"
+msgstr "Aaveet"
+
+msgid "Winnowing Basket"
+msgstr "Seulontapussi"
+
+msgid "Horn"
+msgstr "Torvi"
+
+msgid "Well"
+msgstr "Kaivo"
+
+msgid "Neck"
+msgstr "Kaula"
+
+msgid "Legs"
+msgstr "Jalat"
+
+msgid "Willow"
+msgstr "Paju"
+
+msgid "Bond"
+msgstr "Side"
+
+msgid "Hairy Head"
+msgstr "Karvainen pää"
+
+msgid "Ox"
+msgstr "Härkä"
+
+msgid "Girl"
+msgstr "Tyttö"
+
+msgid "Encampment"
+msgstr "Leiripaikka"
+
+msgid "Rooftop"
+msgstr "Katonharja"
+
+msgid "Tail"
+msgstr "Häntä"
+
+msgid "Stomach"
+msgstr "Vatsa"
+
+msgid "Heart"
+msgstr "Sydän"
+
+msgid "Star"
+msgstr "Tähti"
+
+msgid "Emptiness"
+msgstr "Tyhjyys"
+
+msgid "Wings"
+msgstr "Siivet"
+
+msgid "Extended Net"
+msgstr "Levitetty verkko"
+
+msgid "Chariot"
+msgstr "Ajuri"
+
+msgid "Turtle Beak"
+msgstr "Kilpikonnan nokka"
+
+msgid "Eight Kinds of Crops"
+msgstr "Kahdeksan erilaista viljaa"
+
+msgid "Net for Catching Birds"
+msgstr "Verkko lintujen pyydystämiseen"
+
+msgid "Rotten Gourd"
+msgstr "Mätä kurpitsa"
+
+msgid "Decayed Mortar"
+msgstr "Hajonnut laasti"
+
+msgid "Northern Dipper"
+msgstr "Iso Karhu"
+
+msgid "North River"
+msgstr "Pohjoinen joki"
+
+#. TRANSLATORS: Pinyin transliteration
+#. Reference:
+#. 1.Yi Shitong. (1981). Chinese and Western Contrast Star Chart and Catalogue
+#. 1950.0. Beijing. Science Press.
+#. 2.English-Chinese Glossary of Chinese Star Regions, Asterisms and Star
+#. Names|http://www.lcsd.gov.hk/CE/Museum/Space/zh_CN/web/spm/starshine/resources/constemyth/glossary.html
+msgid "Northern Pole"
+msgstr "Pohjoisnapa"
+
+msgid "North Gate of the Military Camp"
+msgstr "Sotilasleirin pohjoisportti"
+
+msgid "River Turtle"
+msgstr "Jokikilpikonna"
+
+msgid "Textile Ruler"
+msgstr "Tekstiili viivain"
+
+msgid "Banner of Three Stars"
+msgstr "Kolmen tähden nauha"
+
+msgid "Toilet"
+msgstr "Käymälä"
+
+msgid "Whip"
+msgstr "Ruoska"
+
+msgid "Royal Guards"
+msgstr "Kuninkaalliset vartijat"
+
+msgid "Big Yard for Chariots"
+msgstr "Iso piha vaunuille"
+
+msgid "Chariots and Cavalry"
+msgstr "Sotavaunut ja ratsuväki"
+
+msgid "Commodity Market"
+msgstr "Hyödykemarkkinat"
+
+msgid "Hay"
+msgstr "Heinää"
+
+msgid "Pestle (In Winnowing Basket Mansion)"
+msgstr "Survin (Laukun tuuletuksen tähtikuviossa)"
+
+msgid "Pestle (In Rooftop Mansion)"
+msgstr "Survin (Katon tähtikuviossa)"
+
+msgid "Changsha (Vassal of Chariot)"
+msgstr "Changsha (Chariotin vasalli)"
+
+msgid "Guest House"
+msgstr "Vierastalo"
+
+msgid "Retinue (In Room Mansion)"
+msgstr "Seurakunta (huoneessa oleva tähtikuvio)"
+
+msgid "Retinue (In Supreme Palace Enclosure)"
+msgstr "Seura (Supreme Palace Enclosure)"
+
+msgid "Great Horn"
+msgstr "Suuri torvi"
+
+msgid "Chief Judge"
+msgstr "Päätuomari"
+
+msgid "Mausoleum"
+msgstr "Mausoleumi"
+
+msgid "Celestial Temple"
+msgstr "Taivaallinen temppeli"
+
+msgid "Mattress of the Emperor"
+msgstr "Keisarin patja"
+
+msgid "Emperor's Seat"
+msgstr "Keisarin istuin"
+
+msgid "Eastern Door"
+msgstr "Itäinen ovi"
+
+msgid "Dipper for Liquids"
+msgstr "Kauha nesteitä varten"
+
+msgid "Trials"
+msgstr "Kokeilut"
+
+msgid "Send Armed Forces To Suppress (Vassal of Three Stars)"
+msgstr "Lähetä asevoimat tukahduttamaan (Kolmen tähden vasalli)"
+
+msgid "Punishment"
+msgstr "Rangaistus"
+
+msgid "Tomb (Vassal of Rooftop)"
+msgstr "Hauta (katon vasalli)"
+
+msgid "Axe"
+msgstr "Kirves"
+
+msgid "Sickle"
+msgstr "Sirppi"
+
+msgid "Basket for Mulberry Leaves"
+msgstr "Mulperipuun lehtikori"
+
+msgid "Auxiliary Road"
+msgstr "Aputie"
+
+msgid "Fu Yue"
+msgstr "Fu Yue"
+
+msgid "Roofing"
+msgstr "Kattotyöt"
+
+msgid "Canopy Support (Vassal of Canopy of the Emperor)"
+msgstr "Katoksen tuki (Keisarin katoksen vasalli)"
+
+msgid "Flying Corridor"
+msgstr "Lentoväylä"
+
+msgid "Celestial Lance"
+msgstr "Taivaallinen Lance"
+
+msgid "Curved Array"
+msgstr "Kaareva nuoli"
+
+msgid "Lock (Vassal of Room)"
+msgstr "Lukko (huoneen vasalli)"
+
+msgid "Territory of Dog"
+msgstr "Koiran alue"
+
+msgid "Coiled Thong"
+msgstr "Kierretty hihna"
+
+msgid "Beacon Fire"
+msgstr "Majakan tuli"
+
+msgid "Tortoise"
+msgstr "Kilpikonna"
+
+msgid "Military Gate"
+msgstr "Sotilaallinen portti"
+
+msgid "Drum at the River"
+msgstr "Rumpu joella"
+
+msgid "Railings"
+msgstr "Kaiteet"
+
+msgid "Astrologer"
+msgstr "Astrologi"
+
+msgid "Bow and Arrow"
+msgstr "Jousi ja nuoli"
+
+msgid "Dipper for Solids"
+msgstr "Kauha kiinteille aineille"
+
+msgid "Emperor's Bodyguard"
+msgstr "Keisarin henkivartija"
+
+msgid "Good Gourd"
+msgstr "Hyvä kurpitsa"
+
+msgid "Canopy of the Emperor"
+msgstr "Keisarin katos"
+
+msgid "Eunuch Official"
+msgstr "Eunukki virkamies"
+
+msgid "Heap of Corpses"
+msgstr "Kasa ruumiita"
+
+msgid "Stored water"
+msgstr "Varastoitu vesi"
+
+msgid "Pile of Firewood"
+msgstr "Kasa polttopuita"
+
+msgid "Group of Soldiers"
+msgstr "Ryhmä sotilaita"
+
+msgid "Establishment"
+msgstr "Perustus"
+
+msgid "Clepsydra Terrace"
+msgstr "Clepsydra-terassi"
+
+msgid "Door Bolt"
+msgstr "Oven pultti"
+
+msgid "Recommending Virtuous Men"
+msgstr "Suosittelemme hyveellisiä miehiä"
+
+msgid "Accumulated Water"
+msgstr "Kertynyt vesi"
+
+msgid "Nine Water Wells"
+msgstr "Yhdeksän kaivoa"
+
+msgid "Nine Senior Officers"
+msgstr "Yhdeksän vanhempaa upseeria"
+
+msgid "Imperial Military Flag"
+msgstr "Keisarillinen sotilaslippu"
+
+msgid "Interpreters of Nine Dialects"
+msgstr "Yhdeksän murteen tulkit"
+
+msgid "Banner of Wine Shop"
+msgstr "Viinikaupan kyltti"
+
+msgid "Mortar"
+msgstr "Huhmare"
+
+msgid "Rolled Tongue"
+msgstr "Rullattu kieli"
+
+msgid "Military Well"
+msgstr "Sotilaallinen kaivo"
+
+msgid "Southern Military Gate"
+msgstr "Eteläinen sotilasportti"
+
+msgid "Market for Soldiers"
+msgstr "Sotilaiden markkinat"
+
+msgid "Chaff"
+msgstr "Akanat"
+
+msgid "Boats and Lake"
+msgstr "Veneet ja järvi"
+
+msgid "Crying"
+msgstr "Itkeminen"
+
+msgid "Arsenal"
+msgstr "Varikko"
+
+msgid "Captain of the Bodyguards"
+msgstr "Henkivartijoiden kapteeni"
+
+msgid "Officers of the Imperial Guard"
+msgstr "Keisarillisen kaartin upseerit"
+
+msgid "Thunder and Lightning"
+msgstr "Ukkosta ja salamointia"
+
+msgid "Line of Ramparts"
+msgstr "Vallien linja"
+
+msgid "Resting Palace (Vassal of Encampment)"
+msgstr "Lepopalatsi (leirin vasalli)"
+
+msgid "Jade Ornament on Ladies' Wear"
+msgstr "Jade-koriste naisten vaatteissa"
+
+msgid "Pearls on Ladies' Wear"
+msgstr "Helmiä naisten vaatteissa"
+
+msgid "Whetstone"
+msgstr "Hiomakivi"
+
+msgid "Jewel Market"
+msgstr "Jalokivimarkkinat"
+
+msgid "Astronomical Observatory"
+msgstr "Tähtitieteellinen observatorio"
+
+msgid "Six Jia"
+msgstr "Six Jia"
+
+msgid "Network of Dykes"
+msgstr "Dykes-verkosto"
+
+msgid "The Hall of Glory"
+msgstr "Kirkkauden sali"
+
+msgid "South River"
+msgstr "Eteläinen joki"
+
+msgid "Dongou"
+msgstr "Dongou"
+
+msgid "Southern Gate"
+msgstr "Eteläinen portti"
+
+msgid "Inner Kitchen"
+msgstr "Sisempi keittiö"
+
+msgid "Inner Steps"
+msgstr "Sisäiset askeleet"
+
+msgid "High Judge"
+msgstr "Korkea tuomari"
+
+msgid "Inner Screen"
+msgstr "Sisäinen näyttö"
+
+msgid "Imperial Passageway"
+msgstr "Keisarillinen käytävä"
+
+msgid "Peasant"
+msgstr "Talonpoika"
+
+msgid "Woman's Bed"
+msgstr "Vaimon vuode"
+
+msgid "Female Protocol"
+msgstr "Naisprotokolla"
+
+msgid "Thunderbolt"
+msgstr "Ukonnuoli"
+
+msgid "Judging"
+msgstr "Tuomitseminen"
+
+msgid "Flat Road"
+msgstr "Tasainen tie"
+
+msgid "Screen"
+msgstr "Kaihdin"
+
+msgid "Seven Excellencies"
+msgstr "Seitsemän ylhäistä"
+
+msgid "House for Musical Instruments"
+msgstr "Soittimien talo"
+
+msgid "Imperial Guards"
+msgstr "Keisarilliset vartijat"
+
+msgid "Chariots and Cavalry General"
+msgstr "Sotavaunut ja ratsuväen kenraali"
+
+msgid "Weeping"
+msgstr "Itkeminen"
+
+msgid "Celestial Cereals"
+msgstr "Taivaalliset viljat"
+
+msgid "Green Hill"
+msgstr "Vihreä mäki"
+
+msgid "Palace Gate"
+msgstr "Palatsin portti"
+
+msgid "Humans"
+msgstr "Ihmiset"
+
+msgid "Solar Star"
+msgstr "Aurinkotähti"
+
+msgid "Three Excellencies (In Supreme Palace Enclosure)"
+msgstr "Kolme erinomaisuutta (In Supreme Palace Enclosure)"
+
+msgid "Three Excellencies (In Purple Forbidden Enclosure)"
+msgstr "Kolme suurlähettilästä (purppuraisessa kielletyssä kotelossa)"
+
+msgid "Three Top Instructors"
+msgstr "Kolme huippuohjaajaa"
+
+msgid "Royal Secretary"
+msgstr "Kuninkaallinen sihteeri"
+
+msgid "Junior Officers"
+msgstr "Nuoremmat upseerit"
+
+msgid "Changing Room (Vassal of Tail)"
+msgstr "Pukuhuone (Hännän vasalli)"
+
+msgid "Excrement"
+msgstr "Ulosteet"
+
+msgid "Municipal Office"
+msgstr "Kunnanvirasto"
+
+msgid "Eunuch"
+msgstr "Eunukki"
+
+msgid "Official for Irrigation"
+msgstr "Virallinen kastelulle"
+
+msgid "Water Level"
+msgstr "Vedenpinnan korkeus"
+
+msgid "Deified Judge of Right and Wrong"
+msgstr "Jumalan oikean ja väärän tuomari"
+
+msgid "Deity in Charge of Monsters"
+msgstr "Jumaluus, joka vastaa hirviöistä"
+
+msgid "Deified Judge of Rank"
+msgstr "Jumalallinen arvotuomari"
+
+msgid "Deified Judge of Life"
+msgstr "Jumalallinen elämän tuomari"
+
+msgid "Deified Judge of Disaster and Good Fortune"
+msgstr "Katastrofin ja onnen jumaloitu tuomari"
+
+msgid "Four Channels"
+msgstr "Neljä kanavaa"
+
+msgid "Four Advisors"
+msgstr "Neljä neuvonantajaa"
+
+msgid "Grandson"
+msgstr "Pojanpoika"
+
+msgid "Guard of the Sun"
+msgstr "Auringon vahti"
+
+msgid "First Great One"
+msgstr "Ensimmäinen suuri"
+
+msgid "Crown Prince"
+msgstr "Kruunuprinssi"
+
+msgid "Royals"
+msgstr "Kuninkaalliset"
+
+msgid "Flying Serpent"
+msgstr "Lentävä käärme"
+
+msgid "Celestial Concave"
+msgstr "Taivaallinen kovera"
+
+msgid "Celestial Flail"
+msgstr "Taivaallinen räjähdys"
+
+msgid "Market Officer"
+msgstr "Talousupseeri"
+
+msgid "Square Celestial Granary"
+msgstr "Neliömäinen taivaallinen viljamakasiini"
+
+msgid "Celestial Slander"
+msgstr "Taivaallinen panettelu"
+
+msgid "Celestial Kitchen"
+msgstr "Taivaallinen keittiö"
+
+msgid "Celestial Boat"
+msgstr "Taivaallinen vene"
+
+msgid "Celestial Bed"
+msgstr "Taivaallinen vuode"
+
+msgid "Great General of Heaven"
+msgstr "Taivaan suuri kenraali"
+
+msgid "Celestial Drumstick"
+msgstr "Taivaallinen rumpupuikko"
+
+msgid "Celestial Spokes"
+msgstr "Taivaalliset pinnat"
+
+msgid "Materials for Making Tents"
+msgstr "Materiaalit telttojen tekemiseen"
+
+msgid "Celestial High Terrace"
+msgstr "Taivaallinen korkea terassi"
+
+msgid "Celestial Hook"
+msgstr "Taivaallinen koukku"
+
+msgid "Celestial Dog"
+msgstr "Taivaallinen koira"
+
+msgid "Celestial Pass"
+msgstr "Taivaallinen passi"
+
+msgid "Great Emperor of Heaven"
+msgstr "Suuri taivaan keisari"
+
+msgid "Celestial Pier"
+msgstr "Taivaallinen laituri"
+
+msgid "Celestial Pigsty"
+msgstr "Taivaallinen sika"
+
+msgid "Celestial Cock"
+msgstr "Taivaallinen kukko"
+
+msgid "Judge for Estimating the Age of Animals"
+msgstr "Tuomari eläinten iän arvioinnista"
+
+msgid "Celestial Discipline"
+msgstr "Taivaallinen kuri"
+
+msgid "Celestial River"
+msgstr "Taivaallinen joki"
+
+msgid "Celestial Street"
+msgstr "Taivaallinen katu"
+
+msgid "Celestial Tally"
+msgstr "Taivaallinen Tally"
+
+msgid "Celestial Ford"
+msgstr "Taivaallinen Ford"
+
+msgid "Celestial Stable"
+msgstr "Taivaallinen pöytä"
+
+msgid "Celestial Prison"
+msgstr "Taivaallinen vankila"
+
+msgid "Celestial Ramparts"
+msgstr "Taivaalliset vallit"
+
+msgid "Judge for Nobility"
+msgstr "Aateliston tuomari"
+
+msgid "Celestial Foodstuff"
+msgstr "Taivaallinen ruoka"
+
+msgid "Celestial Gate"
+msgstr "Taivaallinen portti"
+
+msgid "Celestial Money"
+msgstr "Taivaallinen raha"
+
+msgid "Celestial Spear"
+msgstr "Taivaallinen keihäs"
+
+msgid "Circular Celestial Granary"
+msgstr "Pyöreä taivaallinen viljamakasiini"
+
+msgid "Celestial Milk"
+msgstr "Taivaallinen maito"
+
+msgid "Celestial Earth God's Temple"
+msgstr "Taivaallisen maan Jumalan temppeli"
+
+msgid "Celestial Farmland (In Horn Mansion)"
+msgstr "Taivaallinen viljelysmaa (Sarven tähtikuviossa)"
+
+msgid "Celestial Farmland (In Ox Mansion)"
+msgstr "Taivaallinen maatalousmaa (Härän tähtikuviossa)"
+
+msgid "Celestial Premier"
+msgstr "Taivaallinen johtaja"
+
+msgid "Celestial Great One"
+msgstr "Taivaallinen Suuri"
+
+msgid "Celestial Yin Force"
+msgstr "Taivaallinen Yin-voima"
+
+msgid "Ricks of Grain"
+msgstr "Säilötty vilja"
+
+msgid "Celestial Spring"
+msgstr "Taivaallinen kevät"
+
+msgid "Celestial Orchard"
+msgstr "Taivaallinen hedelmätarha"
+
+msgid "Celestial Meadows"
+msgstr "Taivaalliset niityt"
+
+msgid "Celestial Keyhole"
+msgstr "Taivaallinen avaimenreikä"
+
+msgid "Celestial Pillar"
+msgstr "Taivaallinen pilari"
+
+msgid "Celestial Wine Cup"
+msgstr "Taivaallinen viiniastia"
+
+msgid "Butcher's Shops"
+msgstr "Lihakaupat"
+
+msgid "Official for Earthworks and Buildings"
+msgstr "Virallinen maanrakennustöihin ja rakennuksiin"
+
+msgid "Official for Materials Supply"
+msgstr "Välineupseeri"
+
+msgid "Outer Kitchen"
+msgstr "Ulompi keittiö"
+
+msgid "Outer Fence"
+msgstr "Ulompi aitaus"
+
+msgid "Wang Liang"
+msgstr "Wang Liang"
+
+msgid "Master of Constructions (In Legs Mansion)"
+msgstr "Tähtikuvioiden mestari (Jalkojen tähtikuviossa)"
+
+msgid "Administrative Center"
+msgstr "Hallintokeskus"
+
+msgid "Five Chariots"
+msgstr "Viisi ajuria"
+
+msgid "Interior Seats of the Five Emperors"
+msgstr "Viiden keisarin sisäistuimet"
+
+msgid "Seats of the Five Emperors"
+msgstr "Viiden keisarin paikat"
+
+msgid "Five Feudal Kings"
+msgstr "Viisi feodaalikuningasta"
+
+msgid "Five Lords"
+msgstr "Viisi herraa"
+
+msgid "Western Door"
+msgstr "Läntinen ovi"
+
+msgid "Xi Zhong"
+msgstr "Xi Zhong"
+
+msgid "Pool of Harmony"
+msgstr "Harmonian allas"
+
+msgid "Prime Minister"
+msgstr "Pääministeri"
+
+msgid "Officer of Honour"
+msgstr "Kunniaupseeri"
+
+msgid "Temple"
+msgstr "Temppeli"
+
+msgid "Xuanyuan"
+msgstr "Xuanyuan"
+
+msgid "Sombre Lance"
+msgstr "Tumma keihäs"
+
+msgid "Battle Axe (Vassal of Well)"
+msgstr "Taistelukirves (hyvyyden vasalli)"
+
+msgid "Gate of Yang"
+msgstr "Yangin portti"
+
+msgid "Wild Cockerel"
+msgstr "Villi kukko"
+
+msgid "Usher to the Court"
+msgstr "Usher oikeuteen"
+
+msgid "Hidden Virtue"
+msgstr "Piilotettu hyve"
+
+msgid "Official in Charge of Pasturing"
+msgstr "Paimentamisesta vastaava virkamies"
+
+msgid "Right Flag"
+msgstr "Oikea lippu"
+
+msgid "Right Conductor"
+msgstr "Oikea kapellimestari"
+
+msgid "Palace Guard"
+msgstr "Palatsin vartija"
+
+msgid "Jade Well"
+msgstr "Jadekaivo"
+
+msgid "Maids-in-waiting"
+msgstr "Palvelijat"
+
+msgid "Lunar Star"
+msgstr "Kuun tähti"
+
+msgid "Whisper (Vassal of Net)"
+msgstr "Kuiskaus (Verkon vasalli)"
+
+msgid "Cloud and Rain"
+msgstr "Pilvi ja sade"
+
+msgid "Zaofu"
+msgstr "Zaofu"
+
+msgid "Long Wall"
+msgstr "Pitkä seinä"
+
+msgid "Grandfather"
+msgstr "Isoisä"
+
+msgid "Twinkling Indicator"
+msgstr "Tuikkiva ilmaisin"
+
+msgid "Assistant (Vassal of Northern Dipper)"
+msgstr "Assistentti (pohjoisen vasalli)"
+
+msgid "Executions"
+msgstr "Teloitukset"
+
+msgid "Battle Chariots"
+msgstr "Taisteluvaunut"
+
+msgid "Right linchpin (Vassal of Chariot)"
+msgstr "Oikea kiinnitysnasta (Vaunujen vasalli)"
+
+msgid "Weaving Girl"
+msgstr "Vilkuttava tyttö"
+
+msgid "Left linchpin (Vassal of Chariot)"
+msgstr "Vasen kiinnitysnasta (Vaunujen vasalli)"
+
+msgid "Tripod of the Zhou"
+msgstr "Zhoun kolmijalka"
+
+msgid "Feudal Kings"
+msgstr "Feodaalikuninkaat"
+
+msgid "Pillars (In Net Mansion)"
+msgstr "Pilarit (Net Mansionissa)"
+
+msgid "Pillars (In Horn Mansion)"
+msgstr "Pilarit (Sarven tähtikuviossa)"
+
+msgid "Official of Royal Archives"
+msgstr "Kuninkaallisen arkiston virkamies"
+
+msgid "Son"
+msgstr "Poika"
+
+msgid "Patriarchal Clan"
+msgstr "Patriarkaalinen klaani"
+
+msgid "Official of Religious Ceremonies"
+msgstr "Uskonnollisten seremonioiden virkamies"
+
+msgid "Official for the Royal Clan"
+msgstr "Kuninkaallisen klaanin virallinen"
+
+msgid "Official in Charge of the Forest"
+msgstr "Metsästä vastaava virkamies"
+
+msgid "Left Flag"
+msgstr "Vasen lippu"
+
+msgid "Left Conductor"
+msgstr "Vasen kapellimestari"
+
+msgid "Seat Flags"
+msgstr "Istuimen liput"
+
+msgid "Hezhong"
+msgstr "Hezhong"
+
+msgid "Hejian"
+msgstr "Hejian"
+
+msgid "Jin"
+msgstr "Jin"
+
+msgid "Zheng"
+msgstr "Zheng"
+
+msgid "Zhou"
+msgstr "Zhou"
+
+msgid "Qin"
+msgstr "Qin"
+
+msgid "Shu"
+msgstr "Shu"
+
+msgid "Ba"
+msgstr "Ba"
+
+msgid "Liang"
+msgstr "Liang"
+
+msgid "Chu"
+msgstr "Chu"
+
+msgid "Han"
+msgstr "Han"
+
+msgid "Wei"
+msgstr "Wei"
+
+msgid "Zhao"
+msgstr "Zhao"
+
+msgid "Jiuhe"
+msgstr "Jiuhe"
+
+msgid "Zhongshan"
+msgstr "Zhongshan"
+
+msgid "Qi"
+msgstr "Qi"
+
+msgid "Wuyue"
+msgstr "Wuyue"
+
+msgid "Xu"
+msgstr "Xu"
+
+msgid "Donghai"
+msgstr "Donghai"
+
+msgid "Yan"
+msgstr "Yan"
+
+msgid "Nanhai"
+msgstr "Nanhai"
+
+msgid "Song"
+msgstr "Song"
+
+#. TRANSLATORS: Pinyin transliteration
+#. ## Corresponding star is in Boss General Catalogue but not in HIP
+#. catalogue.
+#. GC 6424	Five Chariots  Added XVIII
+#. GC 22632	Heart Added VII
+#. GC 10303	South River Added XI
+#. GC 17495	Recommending Virtuous Man Added VI
+#. GC 19251	Great Horn Added II
+#. GC 4536	Hairy Head Added X
+#. GC 14799 Sea and Mountain II (or NGC 3372)
+#. ## Nova
+#. N 1848 Song Added I
+#. N 1843 Sea and Mountain III
+#. Notes:
+#. 1.In the Chinese catalogue, some of the stars are "principle" (正星). These
+#. stars were first discovered and well-known.On the contrary, some of the
+#. stars are "added" (增星). They were recorded and named in later catalogues.
+#. 2.Perhaps due to the limitations of ancient observational capabilities some
+#. recorded stars could not find corresponding star,and ignore them here.
+#. Reference:
+#. 1.Yi Shitong. (1981). Chinese and Western Contrast Star Chart and Catalogue
+#. 1950.0. Beijing. Science Press.
+#. 2.Pan Nai. (2009). The History of Stellar Observation in China. Shanghai.
+#. Academia Press. ISBN 9787807306948.
+#. 3.Yi Shitong. (1980). Chinese and Western Contrast Star Chart. Encyclopedia
+#. of China - Astronomy. Beijing. Encyclopedia of China Publishing House.
+#. 4.English-Chinese Glossary of Chinese Star Regions, Asterisms and Star
+#. Names|http://www.lcsd.gov.hk/CE/Museum/Space/zh_CN/web/spm/starshine/resources/constemyth/glossary.html
+#. TRANSLATORS: Native name of the Sun in Chinese culture
+msgid "Taiyang"
+msgstr "Taiyang"
+
+msgid "Purple Forbidden East Wall"
+msgstr "Violetti kielletty itämuuri"
+
+msgid "Purple Forbidden West Wall"
+msgstr "Violetti kielletty länsimuuri"
+
+msgid "Supreme Palace East Wall"
+msgstr "Korkeimman palatsin itäseinä"
+
+msgid "Supreme Palace West Wall"
+msgstr "Korkeimman palatsin länsimuuri"
+
+msgid "Three Steps (Upper Step)"
+msgstr "Kolme askelta (ylempi askel)"
+
+msgid "Three Steps (Middle Step)"
+msgstr "Kolme askelta (keskiaskel)"
+
+msgid "Three Steps (Lower Step)"
+msgstr "Kolme askelta (alempi askel)"
+
+msgid "Heavenly Market East Wall"
+msgstr "Taivaalliset markkinat itäinen seinä"
+
+msgid "Heavenly Market West Wall"
+msgstr "Taivaalliset markkinat läntinen seinä"
+
+msgid "Twelve States (Zhao State)"
+msgstr "12 tilaa (Zhao-tila)"
+
+msgid "Twelve States (Yue State)"
+msgstr "12 tilaa (Yue-tila)"
+
+msgid "Twelve States (Zhou State)"
+msgstr "12 tilaa (Zhou-tila)"
+
+msgid "Twelve States (Qi State)"
+msgstr "12 tilaa (Qi-tila)"
+
+msgid "Twelve States (Zheng State)"
+msgstr "12 tilaa (Zheng-tila)"
+
+msgid "Twelve States (Chu State)"
+msgstr "12 tilaa (Chu-tila)"
+
+msgid "Twelve States (Qin State)"
+msgstr "12 tilaa (Qin-tila)"
+
+msgid "Twelve States (Yan State)"
+msgstr "12 tilaa (Yan-tila)"
+
+msgid "Twelve States (Wei State)"
+msgstr "12 tilaa (Wei-tila)"
+
+msgid "Twelve States (Dai State)"
+msgstr "12 tilaa (Dai-tila)"
+
+msgid "Twelve States (Jin State)"
+msgstr "12 tilaa (Jina-tila)"
+
+msgid "Twelve States (Han State)"
+msgstr "12 tilaa (Han-tila)"
+
+msgid "Cumulative Corpse Gas"
+msgstr "Kumulatiivinen ruumiskaasu"
+
+msgid "Master of Constructions (In Chariot Mansion)"
+msgstr "Rakennusmestari (Chariotin tähtikuviossa)"
+
+msgid "Taizi/Crown Prince"
+msgstr "Taizi/Kruunuprinssi"
+
+msgid "Di/Emperor"
+msgstr "Di/Keisari"
+
+msgid "Shuzi/Bastard"
+msgstr "Shuzi/Paskiainen"
+
+msgid "Hougong/Harem"
+msgstr "Hougong/Haaremi"
+
+msgid "Tianshu/The Celestial Pivot"
+msgstr "Tianshu/Taivaallinen napa"
+
+msgid "Niuxing/Ancient Star"
+msgstr "Niuxing/Muinainen tähti"
+
+msgid "Yuanshi/The Origin of All Things"
+msgstr "Yuanshi/Kaikkien asioiden alkuperä"
+
+msgid "Tianhuangdadi/Great Emperor of Heaven"
+msgstr "Tianhuangdadi/Suuri taivaan keisari"
+
+msgid "Nüshi/Female Protocol"
+msgstr "Nüshi/Naisprotokolla"
+
+msgid "Zhushi/Official of Royal Archives"
+msgstr "Zhushi/Kuninkaallisen arkiston virkamies"
+
+msgid "Youshu/Right Pivot"
+msgstr "Youshu/Oikea napa"
+
+msgid "Shaowei/The Second Commandant"
+msgstr "Shaowei/Toinen komentaja"
+
+msgid "Shangfu/The Great Advisor"
+msgstr "Shangfu/Suuri Neuvonantaja"
+
+msgid "Shaofu/The Second Advisor"
+msgstr "Shaofu/Toinen neuvonantaja"
+
+msgid "Shangwei/The Great Imperial Guard"
+msgstr "Shangwei/Suuri keisarillinen kaarti"
+
+msgid "Shaowei/The Second Imperial Guard"
+msgstr "Shaowei/Toinen keisarillinen kaarti"
+
+msgid "Shangcheng/The Great Imperial Minister"
+msgstr "Shangcheng/Suuri keisarillinen ministeri"
+
+msgid "Zuoshu/Left Pivot"
+msgstr "Zuoshu/Vasen napa"
+
+msgid "Shangzai/The Great Prime Minister"
+msgstr "Shangzai/Suuri pääministeri"
+
+msgid "Shaozai/The Second Prime Minister"
+msgstr "Shaozai/Toinen pääministeri"
+
+msgid "Shangbi/The Great Protector"
+msgstr "Shangbi/Suuri Suojelija"
+
+msgid "Shaobi/The Second Protector"
+msgstr "Shaobi/Toinen suojelija"
+
+msgid "Shaocheng/The Second Imperial Minister"
+msgstr "Shaocheng/Toinen keisarillinen ministeri"
+
+msgid "Tianyi/Celestial Great One"
+msgstr "Tianyi/Taivaallinen Suuri Yksi"
+
+msgid "Taiyi/First Great One"
+msgstr "Taiyi/Ensimmäinen Suuri Yksi"
+
+msgid "Tianxuan/The Celestial Rotating Jade"
+msgstr "Tianxuan/Taivaallinen pyörivä jade"
+
+msgid "Tianji/The Celestial Shining Pearl"
+msgstr "Tianji/Taivaallinen loistava helmi"
+
+msgid "Tianquan/The Celestial Balance"
+msgstr "Tianquan/Taivaallinen tasapaino"
+
+msgid "Yuheng/The Jade Sighting-tube"
+msgstr "Yuheng/Jade havaintoputkessa"
+
+msgid "Kaiyang/The Opener of Heat"
+msgstr "Kaiyang/Lämmön avaaja"
+
+msgid "Yaoguang/The Twinkling Brilliance"
+msgstr "Yaoguang/Tuikkiva loisto"
+
+msgid "Tanlang/Greedy Wolf"
+msgstr "Tanlang/Ahne susi"
+
+msgid "Jumen/Giant Gate"
+msgstr "Jumen/Jättiläisportti"
+
+msgid "Lucun/Good Fortune Star"
+msgstr "Lucun/Onnentähti"
+
+msgid "Wenqu/Literary Star"
+msgstr "Wenqu/Kirjallisuuden tähti"
+
+msgid "Lianzhen/Clean and Chaste"
+msgstr "Lianzhen/Puhdas ja puhdas"
+
+msgid "Wuqu/Military Star"
+msgstr "Wuqu/Sotilaallinen tähti"
+
+msgid "Pojun/Break the Enemy"
+msgstr "Pojun/Riko vihollinen"
+
+msgid "Zheng/Justice"
+msgstr "Zheng/Oikeudenmukaisuus"
+
+msgid "Fa/Law"
+msgstr "Fa/Laki"
+
+msgid "Ling/Command"
+msgstr "Ling/Komento"
+
+msgid "Fa/Crusade"
+msgstr "Fa/Ristiretki"
+
+msgid "Sha/Killing"
+msgstr "Sha/Tappaminen"
+
+msgid "Wei/Danger"
+msgstr "Wei/Vaara"
+
+msgid "Bu/Army"
+msgstr "Bu/Armeija"
+
+msgid "Fu/Assistant"
+msgstr "Fu/Assistentti"
+
+msgid "Xuange/Sombre Lance"
+msgstr "Xuange/Synkkä peitsi"
+
+msgid "Xiang/Prime Minister"
+msgstr "Xiang/Pääministeri"
+
+msgid "Taiyangshou/Guard of the Sun"
+msgstr "Taiyangshou/Auringon vartija"
+
+msgid "Taizun/Royals"
+msgstr "Taizun/Kuninkaalliset"
+
+msgid "Shangjiang/Great General"
+msgstr "Shangjiang/Suuri kenraali"
+
+msgid "Cijiang/Second General"
+msgstr "Cijiang/Toinen kenraali"
+
+msgid "Shangshu/Royal Secretary"
+msgstr "Shangshu/Kuninkaallinen sihteeri"
+
+msgid "Guixiang/Distinguished Primer"
+msgstr "Guixiang/Arvostettu pohja"
+
+msgid "Taichang/Minister of Justice"
+msgstr "Taichang/Oikeusministeri"
+
+msgid "Silu/Deified Judge of Rank"
+msgstr "Silu/Jumalallinen arvotuomari"
+
+msgid "Sizhong/Deified Judge of Disaster"
+msgstr "Sizhong/Jumalallistettu katastrofin tuomari"
+
+msgid "Sili/Senior Judge"
+msgstr "Sili/Vanhempi tuomari"
+
+msgid "Siming/Deified Judge of Life"
+msgstr "Siming/Jumalallinen elämän tuomari"
+
+msgid "Siguai/Deity in Charge of Monsters"
+msgstr "Siguai/Hirviöistä vastaava jumala"
+
+msgid "Taishi/Court Historian"
+msgstr "Taishi/Tuomioistuin historioitsija"
+
+msgid "Sikou/Supreme Judge"
+msgstr "Sikou/Korkein Tuomari"
+
+msgid "Dali/Minister of Justice"
+msgstr "Dali/Oikeusministeri"
+
+msgid "Huangdizuo/Seat of Yellow Emperor"
+msgstr "Huangdizuo/Keltaisen keisarin istuin"
+
+msgid "Cangdi/Azure Emperor"
+msgstr "Cangdi/Taivaansininen keisari"
+
+msgid "Chidi/Red Emperor"
+msgstr "Chidi/Punainen keisari"
+
+msgid "Baidi/White Emperor"
+msgstr "Baidi/Valkoinen keisari"
+
+msgid "Heidi/Black Emperor"
+msgstr "Heidi/Musta keisari"
+
+msgid "Congguan/Retinue"
+msgstr "Congguan/Seurue"
+
+msgid "Xingchen/Officer of Honour"
+msgstr "Xingchen/Kunniaupseeri"
+
+msgid "Youzhifa/Right Law Administrator"
+msgstr "Youzhifa/Oikea lakimies"
+
+msgid "Xishangjiang/The Great Western General"
+msgstr "Xishangjiang/Suuri lännen kenraali"
+
+msgid "Xicijiang/The Second Western General"
+msgstr "Xicijiang/Toinen läntinen kenraali"
+
+msgid "Xicixiang/The Second Western Premier"
+msgstr "Xicixiang/Toinen läntisen pääministeri"
+
+msgid "Xishangxiang/The Great Western Premier"
+msgstr "Xishangxiang/Lännen suuri pääministeri"
+
+msgid "Zuozhifa/Left Law Administrator"
+msgstr "Zuozhifa/Vasen lakimies"
+
+msgid "Dongshangxiang/The Great Eastern Premier"
+msgstr "Dongshangxiang/Suuri itäinen pääministeri"
+
+msgid "Dongcixiang/The Second Eastern Premier"
+msgstr "Dongcixiang/Toinen itäinen pääministeri"
+
+msgid "Dongcijiang/The Second Eastern General"
+msgstr "Dongcijiang/Toinen itäinen kenraali"
+
+msgid "Dongshangjiang/The Great Eastern General"
+msgstr "Dongshangjiang/Suuri Itäkenraali"
+
+msgid "Tianzi/Son of Heaven"
+msgstr "Tianzi/Taivaan poika"
+
+msgid "Nüzhu/Empress"
+msgstr "Nüzhu/Keisarinna"
+
+msgid "Zhuhousangong/ Feudal Kings and Three Excellencies"
+msgstr "Zhuhousangong/ Feodaalikuninkaat ja kolme suurlähettiläsä"
+
+msgid "Qingdafu/High Ministers and Nobles"
+msgstr "Qingdafu/Korkeat ministerit ja aateliset"
+
+msgid "Shi/Gentry"
+msgstr "Shi/Gentry"
+
+msgid "Shuren/Common People"
+msgstr "Shuren/Tavalliset ihmiset"
+
+msgid "Huben/Emperor's Bodyguard"
+msgstr "Huben/Keisarin henkivartija"
+
+msgid "Yezhe/Usher to the Court"
+msgstr "Yezhe/Usher oikeuteen"
+
+msgid "Dizuo/Emperor's Seat"
+msgstr "Dizuo/Keisarin istuin"
+
+msgid "Hou/Astrologer"
+msgstr "Hou/Astrologi"
+
+msgid "Jinxian/Recommending Virtuous Men"
+msgstr "Jinxian/Suosittelemme hyveellisiä miehiä"
+
+msgid "Dajiao/Great Horn"
+msgstr "Dajiao/Suuri sarvi"
+
+msgid "Shi/Wedded Wife"
+msgstr "Shi/Aviovaimo"
+
+msgid "Qie/Minor Concubine"
+msgstr "Qie/Pieni jalkavaimo"
+
+msgid "Zhaoyao/Twinkling Indicator"
+msgstr "Zhaoyao/Tuikkuva ilmaisin"
+
+msgid "Tianru/Celestial Milk"
+msgstr "Tianru/Taivaallinen maito"
+
+msgid "Qizhenjiangjun/Chariots and Cavalry General"
+msgstr "Qizhenjiangjun/Sotavaunut ja ratsuväen kenraali"
+
+msgid "Cijiang/The Second General"
+msgstr "Cijiang/Toinen kenraali"
+
+msgid "Shangjiang/The Great General"
+msgstr "Shangjiang/Suuri kenraali"
+
+msgid "Cixiang/The Second General"
+msgstr "Cixiang/Toinen kenraali"
+
+msgid "Shangxiang/The Great Premier"
+msgstr "Shangxiang/Suuri pääministeri"
+
+msgid "Jianbi/Door Bolt"
+msgstr "Jianbi/Oven pultti"
+
+msgid "Ri/Solar Star"
+msgstr "Ri/Aurinkotähti"
+
+msgid "Tianwang/Celestial King"
+msgstr "Tianwang/Taivaallinen kuningas"
+
+msgid "Mingtang/Cosmological Temple"
+msgstr "Mingtang/Kosmologinen temppeli"
+
+msgid "Dahuo/Great Fire"
+msgstr "Dahuo/Mahtava tuli"
+
+msgid "Hou/Empress Consort"
+msgstr "Hou/Keisarinnapuoliso"
+
+msgid "Fei/Imperial Consort"
+msgstr "Fei/Keisarillinen puoliso"
+
+msgid "Pin/Imperial Concubine"
+msgstr "Pin/Keisarillinen jalkavaimo"
+
+msgid "Shengong/Changing Room"
+msgstr "Shengong/Sovituskoppi"
+
+msgid "Fuyue/Fu Yue"
+msgstr "Fuyue/Fu Yue"
+
+msgid "Kang/Chaff"
+msgstr "Kang/Akanat"
+
+msgid "Tiantong/Celestial Collaborators"
+msgstr "Tiantong/Taivaalliset yhteistyökumppanit"
+
+msgid "Fu/Blessing"
+msgstr "Fu/Siunaus"
+
+msgid "Tianxiang/Celestial Premier"
+msgstr "Tianxiang/Taivaallinen pääministeri"
+
+msgid "Yin/Stamp"
+msgstr "Yin/Leima"
+
+msgid "Qisha/Seven Assassins"
+msgstr "Qisha/Seitsemän salamurhaajaa"
+
+msgid "Jiang/General"
+msgstr "Jiang/Kenraali"
+
+msgid "Tianji/Celestial Secret"
+msgstr "Tianji/Taivaallinen salaisuus"
+
+msgid "Shan/Kindness"
+msgstr "Shan/Ystävällisyys"
+
+msgid "Tianliang/Celestial Beam"
+msgstr "Tianliang/Taivaan säde"
+
+msgid "Yin/Shade"
+msgstr "Yin/Varjostin"
+
+msgid "Tianfu/Celestial Official"
+msgstr "Tianfu/Taivaallinen virkamies"
+
+msgid "Nongzhangren/Peasant"
+msgstr "Nongzhangren/Talonpoika"
+
+msgid "Dajiangjun/Great General"
+msgstr "Dajiangjun/Suuri kenraali"
+
+msgid "Zuojiangjun/Left General"
+msgstr "Zuojiangjun/Vasen kenraali"
+
+msgid "Youjiangjun/Right General"
+msgstr "Youjiangjun/Oikea kenraali"
+
+msgid "Qianniuxing/Cowboy"
+msgstr "Qianniuxing/Cowboy"
+
+msgid "Zhinüxing/Weaving Girl"
+msgstr "Zhinüxing/Kutova tyttö"
+
+msgid "Yue"
+msgstr "Yue"
+
+msgid "Tiangang/Materials for Making Tents"
+msgstr "Tiangang/Materiaalit telttojen tekemiseen"
+
+msgid "Beiluoshimen/North Gate of the Military Camp"
+msgstr "Beiluoshimen/Sotilasleirin pohjoisportti"
+
+msgid "Wangiang/Wang Liang"
+msgstr "Wangiang/Wang Liang"
+
+msgid "Tiansi/Celestial Horse"
+msgstr "Tiansi/Taivaallinen hevonen"
+
+msgid "Ce/Whip"
+msgstr "Ce/Ruoska"
+
+msgid "Fulu/Auxiliary Road"
+msgstr "Fulu/Aputie"
+
+msgid "Junnanmen/Southern Military Gate"
+msgstr "Junnanmen/Eteläinen sotilasportti"
+
+msgid "Tusikong/Master of Constructions"
+msgstr "Tusikong/Rakennusmestari"
+
+msgid "Jishi/Heap of Corpses"
+msgstr "Jishi/Kasa ruumiita"
+
+msgid "Jishui/Stored Water"
+msgstr "Jishui/Varastoitu vesi"
+
+msgid "Tiane/Celestial Concave"
+msgstr "Tiane/Taivaallinen kovera"
+
+msgid "Yue/Lunar Star"
+msgstr "Yue/Kuun tähti"
+
+msgid "Tianchan/Celestial Slander"
+msgstr "Tianchan/Taivaallinen panettelu"
+
+msgid "Tiangao/Celestial High Terrace"
+msgstr "Tiangao/Taivaallinen korkea-terassi"
+
+msgid "Bianjiang/Side-general"
+msgstr "Bianjiang/Sivu-yleinen"
+
+msgid "Fuer/Whisper"
+msgstr "Fuer/Kuiskaus"
+
+msgid "Tianguan/Celestial Pass"
+msgstr "Tianguan/Taivaallinen passi"
+
+msgid "Hengshi/Scales"
+msgstr "Hengshi/Vaa'at"
+
+msgid "Zuojian/Left Shoulder"
+msgstr "Zuojian/Vasen Olkapää"
+
+msgid "Youjian/Right Shoulder"
+msgstr "Youjian/Oikea olkapää"
+
+msgid "Zuozu/Left Foot"
+msgstr "Zuozu/Vasen jalka"
+
+msgid "Youzu/Right Foot"
+msgstr "Youzu/Oikea jalka"
+
+msgid "Shi/Excrement"
+msgstr "Shi/Ulosteet"
+
+msgid "Yue/Battle Axe"
+msgstr "Yue/Taistelukirves"
+
+msgid "Dishi/Emperor Teacher"
+msgstr "Dishi/Keisari opettaja"
+
+msgid "Diyou/Emperor friend"
+msgstr "Diyou/Keisari ystävä"
+
+msgid "Sangong/Three excellencies"
+msgstr "Sangong/Kolme erinomaisuutta"
+
+msgid "Boshi/Doctor"
+msgstr "Boshi/Lääkäri"
+
+msgid "Jishui/Accumulated Water"
+msgstr "Jishui/Kertynyt vesi"
+
+msgid "Jixin/Pile of Firewood"
+msgstr "Jixin/Kasa polttopuita"
+
+msgid "Yeji/Wild Cockerel"
+msgstr "Yeji/Villi kukko"
+
+msgid "Lang/Wolf"
+msgstr "Lang/Susi"
+
+msgid "Tianlang/Celestial Wolf"
+msgstr "Taivaallinen susi"
+
+msgid "Laoren/Old Man"
+msgstr "Laoren/Vanha mies"
+
+msgid "Nanjilaoren/The Southernmost Old Man"
+msgstr "Nanjilaoren/Eteläisin vanha mies"
+
+msgid "Shi/Arrow"
+msgstr "Shi/Nuoli"
+
+msgid "Tianji/Judge for Estimating the Age of Animals"
+msgstr "Tianji/Tuomari eläinten iän arvioinnista"
+
+msgid "Cifei/Minor Imperial Consort"
+msgstr "Cifei/Pieni keisarillinen puoliso"
+
+msgid "Furen/Highest-ranking Imperial Consort"
+msgstr "Furen/Korkein keisarillinen puoliso"
+
+msgid "Damin/Patriarchal Clan of Empress Dowager"
+msgstr "Damin/Keisarinna Dowagerin patriarkaalinen klaani"
+
+msgid "Shaomin/Patriarchal Clan of Empress Consort"
+msgstr "Shaomin/Keisarinnapuolison patriarkaalinen klaani"
+
+msgid "Yunü/Maids-in-waiting"
+msgstr "Yunü/Palvelijat"
+
+msgid "Youxia/Right linchpin"
+msgstr "Youxia/Oikea kiinnitysnasta"
+
+msgid "Zuoxia/Left linchpin"
+msgstr "Zuoxia/Vasen kiinnitysnasta"
+
+msgid "Changsha/Changsha"
+msgstr "Changsha/Changsha"
+
+msgid "Determinative Star"
+msgstr "Päätähti"
+
+#. TRANSLATORS: Native name of the Moon in Chinese culture
+msgid "Taiyin"
+msgstr "Taiyin"
+
+#. TRANSLATORS: Native name of Mercury in Chinese culture
+msgid "Chen Star"
+msgstr "Chen-tähti"
+
+#. TRANSLATORS: Native name of Venus in Chinese culture
+msgid "Taibai"
+msgstr "Taibai"
+
+#. TRANSLATORS: Native name of Mars in Chinese culture
+msgid "Yinghuo"
+msgstr "Yinghuo"
+
+#. TRANSLATORS: Native name of Jupiter in Chinese culture
+msgid "Sui Star"
+msgstr "Sui-tähti"
+
+#. TRANSLATORS: Native name of Saturn in Chinese culture
+msgid "Zhen Star"
+msgstr "Zhen-tähti"
+
+msgid "Jishiqi / Cumulative Corpse Gas"
+msgstr "Jishiqi / Kumulatiivinen ruumiskaasu"
+
+msgid "Yu / Fish"
+msgstr "Yu / Kala"
+
+msgid "Maotou / Ancient Flag with Yak's Tail"
+msgstr "Maotou / Muinainen lippu jakin hännän kanssa"

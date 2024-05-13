@@ -1,0 +1,1849 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-01-01 16:59+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2024\n"
+"Language-Team: Russian (https://app.transifex.com/stellarium/teams/80998/"
+"ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+# Sky culture name
+msgid "Chinese Medieval"
+msgstr "Китайская средневековая"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"<p>This sky culture is based on the observation data of Huangyou four years "
+"(1052 AD), and presents the medieval Chinese sky map as faithfully as "
+"possible. This sky culture includes 283 Xingguans (星官, Chinese "
+"Constellations) and 1464 stars (including clusters M7, M44) of the "
+"<i>Xinyixiangfayao Star Map</i>. And the determinative star is marked for "
+"each Xingguan that can determine the determinative star. The boundaries of "
+"Twenty-eight Lunar Mansions are based on 1052 AD.</p>"
+msgstr ""
+"<p>Эта культура неба основана на данных наблюдений Хуанью за четыре года "
+"(1052\n"
+"г. н.э.) и максимально точно представляет средневековую китайскую карту\n"
+"неба. Эта культура неба включает 283 сингуаня [Xingguan] (星官, китайские\n"
+"созвездия) и 1464 звезды (включая скопления M7, M44) <i>звёздной карты\n"
+"Xinyixiangfayao</i>. И определяющая звезда отмечена для каждого сингуаня,\n"
+"который может определить определяющую звезду. Границы Двадцати восьми "
+"лунных\n"
+"стоянок определены на 1052 год нашей эры.</p>"
+
+# Sky culture description section in markdown format
+msgid ""
+"### Medieval Xingguans\n"
+"\n"
+"<p>From the Three Kingdoms Period to the Ming Dynasty, covering the whole of "
+"the Middle Ages, China's star map is similar.</p>\n"
+"<p>The Xingguans originated in ancient times. Wuxian (巫咸) of Shang "
+"Dynasty(16th century BC-1046 BC), Gan De (甘德) and Shi Shen (石申) of The "
+"Warring States Period (475–221 BC), created their own Xingguan system "
+"respectively. During the Three Kingdoms period (220–280 AD), Chen Zhuo (陈"
+"卓) summarized the Xingguans system of Gan De, Shi Shen and Wuxian, "
+"including 283 Xingguans and 1464 stars. Since then, Xingguan system has been "
+"basically defined, and after a thousand years, there has not been much "
+"change. Since the 17th century, Western astronomy has had an impact on "
+"Chinese astronomy, and the shape and number of Xingguans have changed "
+"significantly. Only about half of the constellations maintained the medieval "
+"style.</p>\n"
+"<p>Determinative star is an important concept. In the Middle Ages, Chinese "
+"astronomers did not name all stars, and each Xingguans was chosen as a major "
+"star called determinative star. In ancient China, astronomical measurements "
+"measured its coordinate position, and other stars in the Xingguan were "
+"rarely mentioned. However, some important constellations will be selected "
+"more stars for observation and recording. In ancient China, astronomers used "
+"mansion distance degrees (determinative star distance) and polar distance "
+"degrees to record the position of stars. <b>In ancient China, the "
+"determinative stars of Twenty-eight Lunar Mansions was the benchmark for "
+"determining the longitude of the equatorial coordinate system</b>.</p>\n"
+"<p>The <i>Song of the Sky Pacers</i> (步天歌) is an early Chinese star "
+"catalogue in the form of poem in heptasyllabic verse, enumerating the names "
+"of stars.</p>\n"
+"<p>Below is <i>Xinyixiangfayao Star Map</i> from Su Song(苏颂, 1020-1101 AD)."
+"</p>\n"
+"<p><img src=\"xyxfy.png\"/><br/><em>Xinyixiangfayao Star Map(1088 AD)</em></"
+"p>\n"
+"\n"
+"### Restore Sky Map\n"
+"\n"
+"<p>The sky map of the Song dynasty is typical of the Chinese medieval sky "
+"map. In 1052 AD, the Song Dynasty official conducted accurate stellar "
+"measurements, leaving a lot of data.</p>\n"
+"<p>Pan Nai(潘鼐) collated these astronomical observations data and based on "
+"the <i>Xinyixiangfayao Star Map</i>, he restored most of the Song Dynasty's "
+"Xingguan in his masterpiece <i>The History of Stellar Observation in China</"
+"i>, which is the most important reference book. Qi Rui (齐锐) and Wan Haoyi "
+"(万昊宜) also restored the Xingguans of the Song Dynasty in the book "
+"<i>Roving China Heavens</i>, which is also an important reference book.</p>\n"
+"<p>Due to the limitation of observation conditions in Song Dynasty, combined "
+"with instruments, circulated errors and other reasons, different scholars "
+"restored the sky map is somewhat different.</p>\n"
+"<p>Based on these books, Stellarium can almost truly present the Chinese "
+"medieval sky map of Huangyou four years (1052 AD).</p>\n"
+"\n"
+"### Planets\n"
+"\n"
+"<p>Taiyang (太阳), Sun. The name comes from yin and yang, meaning a lot of "
+"yang,\n"
+"<p>Taiyin (太阴), Moon. The name comes from yin and yang, meaning a lot of "
+"Yin,\n"
+"<p>Chen Star (辰星), Mercury. Chen is an angle unit, which refers to about "
+"30 degrees. Mercury is always within 30 degrees of the sun.</p>\n"
+"<p>Taibai (太白), Venus. Taibai means big and white.</p>\n"
+"<p>Yinghuo (荧惑), Mars. The colors of Mars are like fire, and movement is "
+"confusing.</p>\n"
+"<p>Sui Star (岁星), Jupiter. It means the old star. Jupiter travels around "
+"the celestial sphere for a week every 12 years. The ancients took Jupiter's "
+"position as the standard of the chronology.</p>\n"
+"<p>Zhen Star (填星), Saturn. Zhen, means passing Lunar Mansions. Saturn "
+"travels around the celestial sphere about every 28 years. Saturn will pass "
+"through a Lunar Mansion every year. </p>"
+msgstr ""
+"### Средневековые Xingguans\n"
+"\n"
+"<p>От периода Троецарствия до династии Мин, охватывающей все Средневековье,\n"
+"звездные карты Китая схожи.</p>\n"
+"<p>Сингуани (Xingguans) возникли в древние времена. Усянь (巫咸) из династии "
+"Шан\n"
+"(16 век до н.э. - 1046 г. до н.э.), Гань Де (甘德) и Ши Шэнь (石申) из "
+"периода\n"
+"Воюющих царств (475–221 до н.э.) создали свои собственные системы сингуаней\n"
+"соответственно. В период Троецарствия (220–280 гг. Н.э.) Чэнь Чжо (陈卓)\n"
+"обобщил систему сингуаней Ган Де, Ши Шэня и Усяня, включая 283 сингуаня и\n"
+"1464 звезды. С тех пор система сингуаней в основном определилась, и за\n"
+"тысячу лет особых изменений не произошло. С 17 века западная астрономия\n"
+"оказала влияние на китайскую астрономию, и форма и количество сингуаней\n"
+"значительно изменились. Лишь около половины созвездий сохранили\n"
+"средневековый стиль.</p>\n"
+"<p>Определяющая звезда является важным понятием. В средние века китайские\n"
+"астрономы не давали имена всем звездам, и каждая сингуань выбиралась в\n"
+"качестве главной звезды, называемой определяющей звездой. В древнем Китае\n"
+"астрономические измерения измеряли ее координатное положение, и редко\n"
+"упоминались другие звезды в сингуани. Однако для некоторых важных созвездий\n"
+"будет выбрано больше звезд для наблюдения и записи. В древнем Китае\n"
+"астрономы использовали градусы особнякового расстояния (расстояние до\n"
+"определяющей звезды) и градусы полярного расстояния для записи положения\n"
+"звезд. <b>В древнем Китае определяющие звезды Двадцати восьми лунных\n"
+"особняков служили ориентиром для определения долготы экваториальной системы\n"
+"координат</b>.</p>\n"
+"<p><i>Песня о небесных иноходцах</i> (步天歌) представляет собой ранний "
+"китайский\n"
+"звездный каталог в форме стихотворения, состоящего из семисложных стихов, в\n"
+"котором перечислены названия звезд.</p>\n"
+"<p>Ниже приведена <i>звездная карта Синьисянфайяо</i> из Су Сун (苏颂, 1020–"
+"1101\n"
+"гг. н.э.).</p>\n"
+"<p><img src=\"xyxfy.png\"/><br/><em>Xinyixiangfayao Star Map(1088 AD)</em></"
+"p>\n"
+"\n"
+"### Реконструкция карты звездного неба\n"
+"\n"
+"<p>Карта неба династии Сун типична для китайской средневековой карты неба. "
+"В\n"
+"1052 году нашей эры чиновник династии Сун провел точные звездные измерения,\n"
+"оставив после себя много данных.</p>\n"
+"<p>Пан Най (潘鼐) сопоставил эти данные астрономических наблюдений и на "
+"основе\n"
+"<i>звездной карты Синьисянфайао</i> восстановил большую часть Сингуань\n"
+"династии Сун в своем шедевре «<i>История звездных наблюдений в Китае</i>»,\n"
+"который является самым важным справочником. Ци Жуй (齐锐) и Ван Хаойи (万昊"
+"宜)\n"
+"также восстановили сингуаней династии Сун в книге <i>Roving China\n"
+"Heavens</i>, которая также является важным справочником.</p>\n"
+"<p>Из-за ограниченности условий наблюдения в династии Сун, в сочетании с\n"
+"инструментами, распространенными ошибками и другими причинами, разные "
+"ученые\n"
+"восстанавливали карту неба несколько по-разному.</p>\n"
+"<p>Основываясь на этих книгах, Stellarium может почти достоверно "
+"представить\n"
+"китайскую средневековую карту неба Хуанью за четыре года (1052 г. н.э.).</"
+"p>\n"
+"\n"
+"### Планеты\n"
+"\n"
+"<p>Тайян (太阳), Солнце. Название происходит от инь и янь, что означает "
+"много\n"
+"янь,\n"
+"<p>Тайинь (太阴), Луна. Название происходит от инь и янь, что означает много "
+"инь,\n"
+"<p>Звезда Чэнь (辰星), Меркурий. Чэнь — это угловая единица, равная примерно "
+"30\n"
+"градусам. Меркурий всегда находится в пределах 30 градусов от Солнца.</p>\n"
+"<p>Тайбай (太白), Венера. Тайбай означает большой и белый.</p>\n"
+"<p>Инхо (荧惑), Марс. Цвета Марса подобны огню, а движение сбивает с толку.</"
+"p>\n"
+"<p>Звезда Суй (岁星), Юпитер. Это означает старую звезду. Юпитер "
+"путешествует по\n"
+"небесной сфере в течение недели каждые 12 лет. Древние считали положение\n"
+"Юпитера эталоном хронологии.</p>\n"
+"<p>Звезда Чжэнь (填星), Сатурн. Чжэнь означает прохождение Лунных стоянок. "
+"Сатурн\n"
+"совершает оборот вокруг небесной сферы примерно каждые 28 лет. Сатурн будет\n"
+"проходить через лунную стоянку каждый год. </p>"
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: Pan Nai. The History of Stellar Observation in China\n"
+" - [#2]: Qi Rui and Wan Haoyi. Roving China Heavens\n"
+" - [#3]: Su Song. *Xinyixiangfayao Star Map*\n"
+" - [#4]: *Records of the Grand Historian*\n"
+" - [#5]: *Book of Sui*\n"
+" - [#6]: *History of Song*\n"
+"\n"
+"### External links\n"
+"\n"
+"<ul>\n"
+"<li><a href=\"https://en.wikipedia.org/wiki/Su_Song\">wikipedia - Su Song</"
+"a></li>\n"
+"<li><a href=\"http://chinesenotes.com/songshi.html\">History of Song</a></"
+"li>\n"
+"<li><a href=\"http://chinesenotes.com/shiji.html\">Records of the Grand "
+"Historian</a></li>\n"
+"<li><a href=\"https://www.lcsd.gov.hk/CE/Museum/Space/archive/Research/"
+"Literature/c_research_literature_9.htm\">(Chinese) Song of the Sky Pacers</"
+"a></li>\n"
+"<li><a href=\"https://en.wikipedia.org/wiki/Song_of_the_Sky_Pacers"
+"\">wikipedia - Song of the Sky Pacers</a></li>\n"
+"<li><a href=\"http://wwt.china-vo.org/why/chineseheaven.htm\">(Chinese) "
+"Chinese Heaven in WWT Community Beijing</a></li>\n"
+"</ul>"
+msgstr ""
+" - [#1]: Pan Nai. The History of Stellar Observation in China\n"
+" - [#2]: Qi Rui and Wan Haoyi. Roving China Heavens\n"
+" - [#3]: Su Song. *Xinyixiangfayao Star Map*\n"
+" - [#4]: *Records of the Grand Historian*\n"
+" - [#5]: *Book of Sui*\n"
+" - [#6]: *History of Song*\n"
+"\n"
+"### Внешние ссылки\n"
+"\n"
+"<ul>\n"
+"<li><a href=\"https://en.wikipedia.org/wiki/Su_Song\">wikipedia - Su Song</"
+"a></li>\n"
+"<li><a href=\"http://chinesenotes.com/songshi.html\">History of Song</a></"
+"li>\n"
+"<li><a href=\"http://chinesenotes.com/shiji.html\">Records of the Grand\n"
+"Historian</a></li>\n"
+"<li><a\n"
+"href=\"https://www.lcsd.gov.hk/CE/Museum/Space/archive/Research/Literature/"
+"c_research_literature_9.htm\">(Chinese)\n"
+"Song of the Sky Pacers</a></li>\n"
+"<li><a href=\"https://en.wikipedia.org/wiki/Song_of_the_Sky_Pacers"
+"\">wikipedia -\n"
+"Song of the Sky Pacers</a></li>\n"
+"<li><a href=\"http://wwt.china-vo.org/why/chineseheaven.htm\">(Chinese) "
+"Chinese\n"
+"Heaven in WWT Community Beijing</a></li>\n"
+"</ul>"
+
+# Sky culture authors section in markdown format
+msgid ""
+"<p><p>This sky culture was contributed by Stellarium user <i>Sun Shuwei</i> "
+"(孙殳玮) .\n"
+"<a href=\"mailto:sunshuwei.hi@foxmail.com\">sunshuwei.hi@foxmail.com</a><br/"
+"></p>"
+msgstr ""
+"<p><p>Эта культура неба была подготовлена пользователем Stellarium'а  "
+"<i>Sun\n"
+"Shuwei</i> (孙殳玮) .  <a\n"
+"href=\"mailto:sunshuwei.hi@foxmail.com\">sunshuwei.hi@foxmail.com</a><br/></"
+"p>"
+
+msgid "Old Man"
+msgstr "Старик"
+
+msgid "Dog"
+msgstr "Пёс"
+
+msgid "Fish"
+msgstr "Рыба"
+
+msgid "Wolf"
+msgstr "Волк"
+
+msgid "Net"
+msgstr "Сетка"
+
+msgid "Wall"
+msgstr "Стена"
+
+msgid "Three Stars"
+msgstr "Три звезды"
+
+msgid "Root"
+msgstr "Корень"
+
+msgid "Dipper"
+msgstr "Ковш"
+
+msgid "Room"
+msgstr "Комната"
+
+msgid "Ghosts"
+msgstr "Призраки"
+
+msgid "Winnowing Basket"
+msgstr "Веяльная корзина"
+
+msgid "Horn"
+msgstr "Рог"
+
+msgid "Well"
+msgstr "Родник"
+
+msgid "Neck"
+msgstr "Шея"
+
+msgid "Legs"
+msgstr "Ноги"
+
+msgid "Willow"
+msgstr "Ива"
+
+msgid "Bond"
+msgstr "Оковы"
+
+msgid "Hairy Head"
+msgstr "Волосатая голова"
+
+msgid "Ox"
+msgstr "Вол"
+
+msgid "Girl"
+msgstr "Девушка"
+
+msgid "Encampment"
+msgstr "Лагерь"
+
+msgid "Rooftop"
+msgstr "Плоская крыша"
+
+msgid "Tail"
+msgstr "Хвост"
+
+msgid "Stomach"
+msgstr "Желудок"
+
+msgid "Heart"
+msgstr "Сердце"
+
+msgid "Star"
+msgstr "Звезда"
+
+msgid "Emptiness"
+msgstr "Пустота"
+
+msgid "Wings"
+msgstr "Крылья"
+
+msgid "Extended Net"
+msgstr "Растянутая сеть"
+
+msgid "Chariot"
+msgstr "Колесница"
+
+msgid "Turtle Beak"
+msgstr "Клюв черепахи"
+
+msgid "Eight Kinds of Crops"
+msgstr "Восемь видов культур"
+
+msgid "Net for Catching Birds"
+msgstr "Сеть для ловли птиц"
+
+msgid "Rotten Gourd"
+msgstr "Гнилая тыква"
+
+msgid "Decayed Mortar"
+msgstr "Разрушенная ступка"
+
+msgid "Northern Dipper"
+msgstr "Северный ковш"
+
+msgid "North River"
+msgstr "Северная река"
+
+#. TRANSLATORS: Pinyin transliteration
+#. Reference:
+#. 1.Yi Shitong. (1981). Chinese and Western Contrast Star Chart and Catalogue
+#. 1950.0. Beijing. Science Press.
+#. 2.English-Chinese Glossary of Chinese Star Regions, Asterisms and Star
+#. Names|http://www.lcsd.gov.hk/CE/Museum/Space/zh_CN/web/spm/starshine/resources/constemyth/glossary.html
+msgid "Northern Pole"
+msgstr "Северный полюс"
+
+msgid "North Gate of the Military Camp"
+msgstr "Северные врата военного лагеря"
+
+msgid "River Turtle"
+msgstr "Речная черепаха"
+
+msgid "Textile Ruler"
+msgstr "Правитель текстиля"
+
+msgid "Banner of Three Stars"
+msgstr "Знамя трёх звёзд"
+
+msgid "Toilet"
+msgstr "Туалет"
+
+msgid "Whip"
+msgstr "Кнут"
+
+msgid "Royal Guards"
+msgstr "Королевская гвардия"
+
+msgid "Big Yard for Chariots"
+msgstr "Большой двор для колесниц"
+
+msgid "Chariots and Cavalry"
+msgstr "Колесницы и кавалерия"
+
+msgid "Commodity Market"
+msgstr "Товарный рынок"
+
+msgid "Hay"
+msgstr "Сено"
+
+msgid "Pestle (In Winnowing Basket Mansion)"
+msgstr "Пестик (в доме веяльной корзины)"
+
+msgid "Pestle (In Rooftop Mansion)"
+msgstr "Пестик (в доме крыши)"
+
+msgid "Changsha (Vassal of Chariot)"
+msgstr "Чанша (Вассал колесницы)"
+
+msgid "Guest House"
+msgstr "Гостевой дом"
+
+msgid "Retinue (In Room Mansion)"
+msgstr "Свита (в доме комнаты)"
+
+msgid "Retinue (In Supreme Palace Enclosure)"
+msgstr "Свита (в величайшем дворце)"
+
+msgid "Great Horn"
+msgstr "Большой рог"
+
+msgid "Chief Judge"
+msgstr "Главный судья"
+
+msgid "Mausoleum"
+msgstr "Мавзолей"
+
+msgid "Celestial Temple"
+msgstr "Небесный храм"
+
+msgid "Mattress of the Emperor"
+msgstr "Матрас императора"
+
+msgid "Emperor's Seat"
+msgstr "Место императора"
+
+msgid "Eastern Door"
+msgstr "Восточная дверь"
+
+msgid "Dipper for Liquids"
+msgstr "Ковш для жидкостей"
+
+msgid "Trials"
+msgstr "Проведение испытаний"
+
+msgid "Send Armed Forces To Suppress (Vassal of Three Stars)"
+msgstr "Отправить вооруженные силы для подавления (вассал трёх звёзд)"
+
+msgid "Punishment"
+msgstr "Наказание"
+
+msgid "Tomb (Vassal of Rooftop)"
+msgstr "Гробница (Вассал крыши)"
+
+msgid "Axe"
+msgstr "Топор"
+
+msgid "Sickle"
+msgstr "Серп"
+
+msgid "Basket for Mulberry Leaves"
+msgstr "Корзина для листьев тутового дерева"
+
+msgid "Auxiliary Road"
+msgstr "Объездная дорога"
+
+msgid "Fu Yue"
+msgstr "Фу Юэ"
+
+msgid "Roofing"
+msgstr "Кровельные работы"
+
+msgid "Canopy Support (Vassal of Canopy of the Emperor)"
+msgstr "Поддержка навеса (Вассал навеса императора)"
+
+msgid "Flying Corridor"
+msgstr "Летающий коридор"
+
+msgid "Celestial Lance"
+msgstr "Небесная пика"
+
+msgid "Curved Array"
+msgstr "Кривой строй"
+
+msgid "Lock (Vassal of Room)"
+msgstr "Замок (Вассал комнаты)"
+
+msgid "Territory of Dog"
+msgstr "Территория пса"
+
+msgid "Coiled Thong"
+msgstr "Скрученный ремень"
+
+msgid "Beacon Fire"
+msgstr "Сигнальный огонь"
+
+msgid "Tortoise"
+msgstr "Черепаха"
+
+msgid "Military Gate"
+msgstr "Военные врата"
+
+msgid "Drum at the River"
+msgstr "Барабан у реки"
+
+msgid "Railings"
+msgstr "Ограда"
+
+msgid "Astrologer"
+msgstr "Астролог"
+
+msgid "Bow and Arrow"
+msgstr "Лук и стрела"
+
+msgid "Dipper for Solids"
+msgstr "Ковш для твёрдых тел"
+
+msgid "Emperor's Bodyguard"
+msgstr "Телохранитель императора"
+
+msgid "Good Gourd"
+msgstr "Хорошая тыква"
+
+msgid "Canopy of the Emperor"
+msgstr "Навес императора"
+
+msgid "Eunuch Official"
+msgstr "Официальный евнух"
+
+msgid "Heap of Corpses"
+msgstr "Куча трупов"
+
+msgid "Stored water"
+msgstr "Запасённая вода"
+
+msgid "Pile of Firewood"
+msgstr "Куча дров"
+
+msgid "Group of Soldiers"
+msgstr "Группа солдат"
+
+msgid "Establishment"
+msgstr "Учреждение"
+
+msgid "Clepsydra Terrace"
+msgstr "Терраса-клепсидра"
+
+msgid "Door Bolt"
+msgstr "Дверной болт"
+
+msgid "Recommending Virtuous Men"
+msgstr "Рекомендация добросовестных мужчин"
+
+msgid "Accumulated Water"
+msgstr "Накопленная вода"
+
+msgid "Nine Water Wells"
+msgstr "Девять родников"
+
+msgid "Nine Senior Officers"
+msgstr "Девять старших офицеров"
+
+msgid "Imperial Military Flag"
+msgstr "Имперский военный флаг"
+
+msgid "Interpreters of Nine Dialects"
+msgstr "Переводчики девяти диалектов"
+
+msgid "Banner of Wine Shop"
+msgstr "Знамя винного магазина"
+
+msgid "Mortar"
+msgstr "Ступка"
+
+msgid "Rolled Tongue"
+msgstr "Скрученный язык"
+
+msgid "Military Well"
+msgstr "Военный родник"
+
+msgid "Southern Military Gate"
+msgstr "Южные военные врата"
+
+msgid "Market for Soldiers"
+msgstr "Рынок для солдат"
+
+msgid "Chaff"
+msgstr "Чешуя"
+
+msgid "Boats and Lake"
+msgstr "Лодки и озеро"
+
+msgid "Crying"
+msgstr "Плач"
+
+msgid "Arsenal"
+msgstr "Арсенал"
+
+msgid "Captain of the Bodyguards"
+msgstr "Капитан телохранителей"
+
+msgid "Officers of the Imperial Guard"
+msgstr "Офицеры Императорской гвардии"
+
+msgid "Thunder and Lightning"
+msgstr "Гром и молния "
+
+msgid "Line of Ramparts"
+msgstr "Линия крепостных валов"
+
+msgid "Resting Palace (Vassal of Encampment)"
+msgstr "Дворец отдыха (Вассал лагеря)"
+
+msgid "Jade Ornament on Ladies' Wear"
+msgstr "Украшение из нефрита на женской одежде"
+
+msgid "Pearls on Ladies' Wear"
+msgstr "Жемчуг на женской одежде"
+
+msgid "Whetstone"
+msgstr "Брусок"
+
+msgid "Jewel Market"
+msgstr "Ювелирный рынок"
+
+msgid "Astronomical Observatory"
+msgstr "Астрономическая обсерватория"
+
+msgid "Six Jia"
+msgstr "Шесть Цзя"
+
+msgid "Network of Dykes"
+msgstr "Сеть дайков"
+
+msgid "The Hall of Glory"
+msgstr "Зал славы"
+
+msgid "South River"
+msgstr "Южная река"
+
+msgid "Dongou"
+msgstr "Донгу"
+
+msgid "Southern Gate"
+msgstr "Южные врата"
+
+msgid "Inner Kitchen"
+msgstr "Внутренняя кухня"
+
+msgid "Inner Steps"
+msgstr "Внутренние шаги"
+
+msgid "High Judge"
+msgstr "Высокий судья"
+
+msgid "Inner Screen"
+msgstr "Внутренний экран"
+
+msgid "Imperial Passageway"
+msgstr "Императорский проход"
+
+msgid "Peasant"
+msgstr "Крестьянин"
+
+msgid "Woman's Bed"
+msgstr "Женская кровать"
+
+msgid "Female Protocol"
+msgstr "Женский протокол"
+
+msgid "Thunderbolt"
+msgstr "Удар молнии"
+
+msgid "Judging"
+msgstr "Судейство"
+
+msgid "Flat Road"
+msgstr "Ровная дорога"
+
+msgid "Screen"
+msgstr "Экран"
+
+msgid "Seven Excellencies"
+msgstr "Семь превосходительств"
+
+msgid "House for Musical Instruments"
+msgstr "Дом для музыкальных инструментов"
+
+msgid "Imperial Guards"
+msgstr "Имперская гвардия"
+
+msgid "Chariots and Cavalry General"
+msgstr "Колесницы и кавалерийский генерал"
+
+msgid "Weeping"
+msgstr "Рыдание"
+
+msgid "Celestial Cereals"
+msgstr "Небесные злаки"
+
+msgid "Green Hill"
+msgstr "Зелёный холм"
+
+msgid "Palace Gate"
+msgstr "Дворцовые ворота"
+
+msgid "Humans"
+msgstr "Люди"
+
+msgid "Solar Star"
+msgstr "Солнечная звезда"
+
+msgid "Three Excellencies (In Supreme Palace Enclosure)"
+msgstr "Три превосходительства (в величайшем дворце)"
+
+msgid "Three Excellencies (In Purple Forbidden Enclosure)"
+msgstr "Три превосходительства (за пурпурной запретной стеной)"
+
+msgid "Three Top Instructors"
+msgstr "Три главных инструктора"
+
+msgid "Royal Secretary"
+msgstr "Королевский секретарь"
+
+msgid "Junior Officers"
+msgstr "Младшие офицеры"
+
+msgid "Changing Room (Vassal of Tail)"
+msgstr "Раздевалка (Вассал хвоста)"
+
+msgid "Excrement"
+msgstr "Экскременты"
+
+msgid "Municipal Office"
+msgstr "Городское управление"
+
+msgid "Eunuch"
+msgstr "Евнух"
+
+msgid "Official for Irrigation"
+msgstr "Надзиратель за ирригациями"
+
+msgid "Water Level"
+msgstr "Уровень воды"
+
+msgid "Deified Judge of Right and Wrong"
+msgstr "Обожествленный судья верного и неверного"
+
+msgid "Deity in Charge of Monsters"
+msgstr "Божество монстров"
+
+msgid "Deified Judge of Rank"
+msgstr "Обожествленный судья ранга"
+
+msgid "Deified Judge of Life"
+msgstr "Обожествленный судья жизни"
+
+msgid "Deified Judge of Disaster and Good Fortune"
+msgstr "Обожествленный судья катастрофы и удачи"
+
+msgid "Four Channels"
+msgstr "Четыре канала"
+
+msgid "Four Advisors"
+msgstr "Четыре советника"
+
+msgid "Grandson"
+msgstr "Внук"
+
+msgid "Guard of the Sun"
+msgstr "Охрана Солнца"
+
+msgid "First Great One"
+msgstr "Первый великий"
+
+msgid "Crown Prince"
+msgstr "Наследник престола"
+
+msgid "Royals"
+msgstr "Члены королевской семьи"
+
+msgid "Flying Serpent"
+msgstr "Летающий змей"
+
+msgid "Celestial Concave"
+msgstr "Небесный свод"
+
+msgid "Celestial Flail"
+msgstr "Небесный цеп"
+
+msgid "Market Officer"
+msgstr "Рыночный надзиратель"
+
+msgid "Square Celestial Granary"
+msgstr "Квадратный небесный амбар"
+
+msgid "Celestial Slander"
+msgstr "Небесная клевета"
+
+msgid "Celestial Kitchen"
+msgstr "Небесная кухня"
+
+msgid "Celestial Boat"
+msgstr "Небесная лодка"
+
+msgid "Celestial Bed"
+msgstr "Небесная кровать"
+
+msgid "Great General of Heaven"
+msgstr "Великий небесный полководец"
+
+msgid "Celestial Drumstick"
+msgstr "Небесный барабан"
+
+msgid "Celestial Spokes"
+msgstr "Небесные спицы"
+
+msgid "Materials for Making Tents"
+msgstr "Материалы для изготовления палаток"
+
+msgid "Celestial High Terrace"
+msgstr "Небесная высокая терраса"
+
+msgid "Celestial Hook"
+msgstr "Небесный крюк"
+
+msgid "Celestial Dog"
+msgstr "Небесный пёс"
+
+msgid "Celestial Pass"
+msgstr "Небесный проход"
+
+msgid "Great Emperor of Heaven"
+msgstr "Великий император небес"
+
+msgid "Celestial Pier"
+msgstr "Небесный пирс"
+
+msgid "Celestial Pigsty"
+msgstr "Небесный свинарник"
+
+msgid "Celestial Cock"
+msgstr "Небесный петух"
+
+msgid "Judge for Estimating the Age of Animals"
+msgstr "Судья по оценке возраста животных"
+
+msgid "Celestial Discipline"
+msgstr "Небесная дисциплина"
+
+msgid "Celestial River"
+msgstr "Небесная река"
+
+msgid "Celestial Street"
+msgstr "Небесная улица"
+
+msgid "Celestial Tally"
+msgstr "Небесное число"
+
+msgid "Celestial Ford"
+msgstr "Небесный брод"
+
+msgid "Celestial Stable"
+msgstr "Небесная конюшня"
+
+msgid "Celestial Prison"
+msgstr "Небесная тюрьма"
+
+msgid "Celestial Ramparts"
+msgstr "Небесные крепостные валы"
+
+msgid "Judge for Nobility"
+msgstr "Судья для дворянства"
+
+msgid "Celestial Foodstuff"
+msgstr "Небесные продукты питания"
+
+msgid "Celestial Gate"
+msgstr "Небесные врата"
+
+msgid "Celestial Money"
+msgstr "Небесные деньги"
+
+msgid "Celestial Spear"
+msgstr "Небесное копье"
+
+msgid "Circular Celestial Granary"
+msgstr "Круглый небесный амбар"
+
+msgid "Celestial Milk"
+msgstr "Небесное молоко"
+
+msgid "Celestial Earth God's Temple"
+msgstr "Небесный храм Бога земли"
+
+msgid "Celestial Farmland (In Horn Mansion)"
+msgstr "Небесные сельхозугодия (в доме рога)"
+
+msgid "Celestial Farmland (In Ox Mansion)"
+msgstr "Небесные сельхозугодия (в доме быка)"
+
+msgid "Celestial Premier"
+msgstr "Небесный первый министр"
+
+msgid "Celestial Great One"
+msgstr "Небесный великий"
+
+msgid "Celestial Yin Force"
+msgstr "Небесная сила Инь"
+
+msgid "Ricks of Grain"
+msgstr "Кучки зерна"
+
+msgid "Celestial Spring"
+msgstr "Небесная весна"
+
+msgid "Celestial Orchard"
+msgstr "Небесный сад"
+
+msgid "Celestial Meadows"
+msgstr "Небесные луга"
+
+msgid "Celestial Keyhole"
+msgstr "Небесная замочная скважина"
+
+msgid "Celestial Pillar"
+msgstr "Небесный столб"
+
+msgid "Celestial Wine Cup"
+msgstr "Небесный кубок вина"
+
+msgid "Butcher's Shops"
+msgstr "Мясные магазины"
+
+msgid "Official for Earthworks and Buildings"
+msgstr "Официальный строитель"
+
+msgid "Official for Materials Supply"
+msgstr "Официальный поставщик"
+
+msgid "Outer Kitchen"
+msgstr "Внешняя кухня"
+
+msgid "Outer Fence"
+msgstr "Внешний забор"
+
+msgid "Wang Liang"
+msgstr "Ван Лян"
+
+msgid "Master of Constructions (In Legs Mansion)"
+msgstr "Мастер строительства (в доме ног)"
+
+msgid "Administrative Center"
+msgstr "Административный центр"
+
+msgid "Five Chariots"
+msgstr "Пять колесниц"
+
+msgid "Interior Seats of the Five Emperors"
+msgstr "Внутренние сиденья пяти императоров"
+
+msgid "Seats of the Five Emperors"
+msgstr "Сиденья пяти императоров"
+
+msgid "Five Feudal Kings"
+msgstr "Пять феодальных королей "
+
+msgid "Five Lords"
+msgstr "Пять лордов"
+
+msgid "Western Door"
+msgstr "Западная дверь"
+
+msgid "Xi Zhong"
+msgstr "Си Чжун"
+
+msgid "Pool of Harmony"
+msgstr "Бассейн гармонии"
+
+msgid "Prime Minister"
+msgstr "Первый министр"
+
+msgid "Officer of Honour"
+msgstr "Почетный офицер"
+
+msgid "Temple"
+msgstr "Храм"
+
+msgid "Xuanyuan"
+msgstr "Ксуанюан"
+
+msgid "Sombre Lance"
+msgstr "Мрачная пика"
+
+msgid "Battle Axe (Vassal of Well)"
+msgstr "Боевой топор (Вассал родника)"
+
+msgid "Gate of Yang"
+msgstr "Ворота Ян"
+
+msgid "Wild Cockerel"
+msgstr "Дикий петушок"
+
+msgid "Usher to the Court"
+msgstr "Судебный пристав"
+
+msgid "Hidden Virtue"
+msgstr "Скрытая добродетель"
+
+msgid "Official in Charge of Pasturing"
+msgstr "Официальный пастух"
+
+msgid "Right Flag"
+msgstr "Правый флаг"
+
+msgid "Right Conductor"
+msgstr "Правый проводник"
+
+msgid "Palace Guard"
+msgstr "Дворцовая охрана"
+
+msgid "Jade Well"
+msgstr "Нефритовый источник"
+
+msgid "Maids-in-waiting"
+msgstr "Горничные в ожидании"
+
+msgid "Lunar Star"
+msgstr "Лунная звезда"
+
+msgid "Whisper (Vassal of Net)"
+msgstr "Шепот (Вассал сети)"
+
+msgid "Cloud and Rain"
+msgstr "Облако и дождь"
+
+msgid "Zaofu"
+msgstr "Цзаофу"
+
+msgid "Long Wall"
+msgstr "Длинная стена"
+
+msgid "Grandfather"
+msgstr "Дед"
+
+msgid "Twinkling Indicator"
+msgstr "Мерцающий индикатор"
+
+msgid "Assistant (Vassal of Northern Dipper)"
+msgstr "Ассистент (Вассал северного ковша)"
+
+msgid "Executions"
+msgstr "Казни"
+
+msgid "Battle Chariots"
+msgstr "Битва колесниц"
+
+msgid "Right linchpin (Vassal of Chariot)"
+msgstr "Правая чека колеса (Вассал колесницы)"
+
+msgid "Weaving Girl"
+msgstr "Ткущая девушка"
+
+msgid "Left linchpin (Vassal of Chariot)"
+msgstr "Левая чека колеса (Вассал колесницы)"
+
+msgid "Tripod of the Zhou"
+msgstr "Тренога Чжоу"
+
+msgid "Feudal Kings"
+msgstr "Феодальные короли"
+
+msgid "Pillars (In Net Mansion)"
+msgstr "Столбы (в доме сети)"
+
+msgid "Pillars (In Horn Mansion)"
+msgstr "Столбы (в доме рога)"
+
+msgid "Official of Royal Archives"
+msgstr "Официальный Королевский архив"
+
+msgid "Son"
+msgstr "Сын"
+
+msgid "Patriarchal Clan"
+msgstr "Патриархальный клан"
+
+msgid "Official of Religious Ceremonies"
+msgstr "Официальные религиозные церемонии"
+
+msgid "Official for the Royal Clan"
+msgstr "Официальный Королевский клан"
+
+msgid "Official in Charge of the Forest"
+msgstr "Официальный лесник"
+
+msgid "Left Flag"
+msgstr "Левый флаг"
+
+msgid "Left Conductor"
+msgstr "Левый проводник"
+
+msgid "Seat Flags"
+msgstr "Флажки для сидений"
+
+msgid "Hezhong"
+msgstr "Хэчжун"
+
+msgid "Hejian"
+msgstr "Хэцзянь"
+
+msgid "Jin"
+msgstr "Цзинь"
+
+msgid "Zheng"
+msgstr "Чжэн"
+
+msgid "Zhou"
+msgstr "Чжоу"
+
+msgid "Qin"
+msgstr "Цинь"
+
+msgid "Shu"
+msgstr "Шу"
+
+msgid "Ba"
+msgstr "Ба"
+
+msgid "Liang"
+msgstr "Лян"
+
+msgid "Chu"
+msgstr "Чжу"
+
+msgid "Han"
+msgstr "Хань"
+
+msgid "Wei"
+msgstr "Вэй"
+
+msgid "Zhao"
+msgstr "Чжао"
+
+msgid "Jiuhe"
+msgstr "Девять рек"
+
+msgid "Zhongshan"
+msgstr "Чжуншань"
+
+msgid "Qi"
+msgstr "Ци"
+
+msgid "Wuyue"
+msgstr "Уюе"
+
+msgid "Xu"
+msgstr "Сюй"
+
+msgid "Donghai"
+msgstr "Дунхай"
+
+msgid "Yan"
+msgstr "Ян"
+
+msgid "Nanhai"
+msgstr "Наньхай"
+
+msgid "Song"
+msgstr "Сун"
+
+#. TRANSLATORS: Pinyin transliteration
+#. ## Corresponding star is in Boss General Catalogue but not in HIP
+#. catalogue.
+#. GC 6424	Five Chariots  Added XVIII
+#. GC 22632	Heart Added VII
+#. GC 10303	South River Added XI
+#. GC 17495	Recommending Virtuous Man Added VI
+#. GC 19251	Great Horn Added II
+#. GC 4536	Hairy Head Added X
+#. GC 14799 Sea and Mountain II (or NGC 3372)
+#. ## Nova
+#. N 1848 Song Added I
+#. N 1843 Sea and Mountain III
+#. Notes:
+#. 1.In the Chinese catalogue, some of the stars are "principle" (正星). These
+#. stars were first discovered and well-known.On the contrary, some of the
+#. stars are "added" (增星). They were recorded and named in later catalogues.
+#. 2.Perhaps due to the limitations of ancient observational capabilities some
+#. recorded stars could not find corresponding star,and ignore them here.
+#. Reference:
+#. 1.Yi Shitong. (1981). Chinese and Western Contrast Star Chart and Catalogue
+#. 1950.0. Beijing. Science Press.
+#. 2.Pan Nai. (2009). The History of Stellar Observation in China. Shanghai.
+#. Academia Press. ISBN 9787807306948.
+#. 3.Yi Shitong. (1980). Chinese and Western Contrast Star Chart. Encyclopedia
+#. of China - Astronomy. Beijing. Encyclopedia of China Publishing House.
+#. 4.English-Chinese Glossary of Chinese Star Regions, Asterisms and Star
+#. Names|http://www.lcsd.gov.hk/CE/Museum/Space/zh_CN/web/spm/starshine/resources/constemyth/glossary.html
+#. TRANSLATORS: Native name of the Sun in Chinese culture
+msgid "Taiyang"
+msgstr "Тай-Ян"
+
+msgid "Purple Forbidden East Wall"
+msgstr "Пурпурная запретная восточная стена"
+
+msgid "Purple Forbidden West Wall"
+msgstr "Пурпурная запретная западная стена"
+
+msgid "Supreme Palace East Wall"
+msgstr "Восточная стена величайшего дворца"
+
+msgid "Supreme Palace West Wall"
+msgstr "Западная стена величайшего дворца"
+
+msgid "Three Steps (Upper Step)"
+msgstr "Три ступени (Верхняя ступень)"
+
+msgid "Three Steps (Middle Step)"
+msgstr "Три ступени (Средняя ступень)"
+
+msgid "Three Steps (Lower Step)"
+msgstr "Три ступени (Нижняя ступень)"
+
+msgid "Heavenly Market East Wall"
+msgstr "Восточная стена небесного рынка"
+
+msgid "Heavenly Market West Wall"
+msgstr "Западная стена небесного рынка"
+
+msgid "Twelve States (Zhao State)"
+msgstr "Двенадцать государств (Государство Чжао)"
+
+msgid "Twelve States (Yue State)"
+msgstr "Двенадцать государств (Государство Юэ)"
+
+msgid "Twelve States (Zhou State)"
+msgstr "Двенадцать государств (Государство Чжоу)"
+
+msgid "Twelve States (Qi State)"
+msgstr "Двенадцать государств (Государство Ци)"
+
+msgid "Twelve States (Zheng State)"
+msgstr "Двенадцать государств (Государство Чжен)"
+
+msgid "Twelve States (Chu State)"
+msgstr "Двенадцать государств (Государство Чу)"
+
+msgid "Twelve States (Qin State)"
+msgstr "Двенадцать государств (Государство Цин)"
+
+msgid "Twelve States (Yan State)"
+msgstr "Двенадцать государств (Государство Ян)"
+
+msgid "Twelve States (Wei State)"
+msgstr "Двенадцать государств (Государство Вэй)"
+
+msgid "Twelve States (Dai State)"
+msgstr "Двенадцать государств (Государство Дай)"
+
+msgid "Twelve States (Jin State)"
+msgstr "Двенадцать государств (Государство Джин)"
+
+msgid "Twelve States (Han State)"
+msgstr "Двенадцать государств (Государство Хан)"
+
+msgid "Cumulative Corpse Gas"
+msgstr "Совокупный трупный газ"
+
+msgid "Master of Constructions (In Chariot Mansion)"
+msgstr "Мастер строительства (в доме колесницы)"
+
+msgid "Taizi/Crown Prince"
+msgstr "Тайцзы [Наследник престола]"
+
+msgid "Di/Emperor"
+msgstr "Ди [Император]"
+
+msgid "Shuzi/Bastard"
+msgstr "Шуцзы [Бастард]"
+
+msgid "Hougong/Harem"
+msgstr "Хоугун [Гарем]"
+
+msgid "Tianshu/The Celestial Pivot"
+msgstr "Тяньшу [Небесная ось]"
+
+msgid "Niuxing/Ancient Star"
+msgstr "Ниусин [Древняя звезда]"
+
+msgid "Yuanshi/The Origin of All Things"
+msgstr "Юаньши [Происхождение всего]"
+
+msgid "Tianhuangdadi/Great Emperor of Heaven"
+msgstr "Тяньхуандади [Великий император небес]"
+
+msgid "Nüshi/Female Protocol"
+msgstr "Нуши [Женский протокол]"
+
+msgid "Zhushi/Official of Royal Archives"
+msgstr "Чжуши [Официальный Королевский архив]"
+
+msgid "Youshu/Right Pivot"
+msgstr "Юшу [Правый стержень]"
+
+msgid "Shaowei/The Second Commandant"
+msgstr "Шаовэй [Второй комендант]"
+
+msgid "Shangfu/The Great Advisor"
+msgstr "Шанфу [Великий советник]"
+
+msgid "Shaofu/The Second Advisor"
+msgstr "Шаофу [Второй советник]"
+
+msgid "Shangwei/The Great Imperial Guard"
+msgstr "Шанвэй [Великая Императорская гвардия]"
+
+msgid "Shaowei/The Second Imperial Guard"
+msgstr "Шаовэй [Вторая Императорская гвардия]"
+
+msgid "Shangcheng/The Great Imperial Minister"
+msgstr "Шанченг [Великий Императорский министр]"
+
+msgid "Zuoshu/Left Pivot"
+msgstr "Зуошу [Левый стержень]"
+
+msgid "Shangzai/The Great Prime Minister"
+msgstr "Шанзай [Великий первый министр]"
+
+msgid "Shaozai/The Second Prime Minister"
+msgstr "Шаозай [Второй первый министр]"
+
+msgid "Shangbi/The Great Protector"
+msgstr "Шанби [Великий покровитель]"
+
+msgid "Shaobi/The Second Protector"
+msgstr "Шаоби [Второй покровитель]"
+
+msgid "Shaocheng/The Second Imperial Minister"
+msgstr "Шаочэн [Второй Императорский министр]"
+
+msgid "Tianyi/Celestial Great One"
+msgstr "Тяньи [Небесный великий]"
+
+msgid "Taiyi/First Great One"
+msgstr "Таййи [Первый великий]"
+
+msgid "Tianxuan/The Celestial Rotating Jade"
+msgstr "Тяньсюань [Небесный вращающийся нефрит]"
+
+msgid "Tianji/The Celestial Shining Pearl"
+msgstr "Тяньцзи [Небесная сияющая жемчужина]"
+
+msgid "Tianquan/The Celestial Balance"
+msgstr "Тяньцюань [Небесные весы]"
+
+msgid "Yuheng/The Jade Sighting-tube"
+msgstr "Юхенг [Нефритовый смотровая трубка]"
+
+msgid "Kaiyang/The Opener of Heat"
+msgstr "Кайян [Открыватель тепла]"
+
+msgid "Yaoguang/The Twinkling Brilliance"
+msgstr "Яогуан [Мерцающий блеск]"
+
+msgid "Tanlang/Greedy Wolf"
+msgstr "Танлан [Жадный волк]"
+
+msgid "Jumen/Giant Gate"
+msgstr "Чумэн [Гигантские ворота]"
+
+msgid "Lucun/Good Fortune Star"
+msgstr "Люкун [Звезда везения]"
+
+msgid "Wenqu/Literary Star"
+msgstr "Вэньцюй [Литературная звезда]"
+
+msgid "Lianzhen/Clean and Chaste"
+msgstr "Лианжэнь [Чистота и целомудрие]"
+
+msgid "Wuqu/Military Star"
+msgstr "Хуэй [Военная звезда]"
+
+msgid "Pojun/Break the Enemy"
+msgstr "Поюн [Прорыв врага]"
+
+msgid "Zheng/Justice"
+msgstr "Чжэн [Правосудие]"
+
+msgid "Fa/Law"
+msgstr "Фа [Закон]"
+
+msgid "Ling/Command"
+msgstr "Линг [Команда]"
+
+msgid "Fa/Crusade"
+msgstr "Фа [Крестовый поход]"
+
+msgid "Sha/Killing"
+msgstr "Ша [Убийство]"
+
+msgid "Wei/Danger"
+msgstr "Вэй [Опасность]"
+
+msgid "Bu/Army"
+msgstr "Бу [Армия]"
+
+msgid "Fu/Assistant"
+msgstr "Фу [Помощник]"
+
+msgid "Xuange/Sombre Lance"
+msgstr "Сюаньгэ [Мрачная пика]"
+
+msgid "Xiang/Prime Minister"
+msgstr "Сян [Первый министр]"
+
+msgid "Taiyangshou/Guard of the Sun"
+msgstr "Тайяншоу [Охрана Солнца]"
+
+msgid "Taizun/Royals"
+msgstr "Тайцзун [Члены королевской семьи]"
+
+msgid "Shangjiang/Great General"
+msgstr "Шанцзян [Великий полководец]"
+
+msgid "Cijiang/Second General"
+msgstr "Цицзян [Второй полководец]"
+
+msgid "Shangshu/Royal Secretary"
+msgstr "Шаншу [Королевский секретарь]"
+
+msgid "Guixiang/Distinguished Primer"
+msgstr "Гуисян [Отличительный грунт]"
+
+msgid "Taichang/Minister of Justice"
+msgstr "Тайчан [Министр юстиции]"
+
+msgid "Silu/Deified Judge of Rank"
+msgstr "Силу [Обожествленный судья ранга]"
+
+msgid "Sizhong/Deified Judge of Disaster"
+msgstr "Сичжун [Обожествленный судья ранга]"
+
+msgid "Sili/Senior Judge"
+msgstr "Сили [Старший судья]"
+
+msgid "Siming/Deified Judge of Life"
+msgstr "Симин [Обожествленный судья жизни]"
+
+msgid "Siguai/Deity in Charge of Monsters"
+msgstr "Сигуай [Божество монстров]"
+
+msgid "Taishi/Court Historian"
+msgstr "Тайши [Придворный историк]"
+
+msgid "Sikou/Supreme Judge"
+msgstr "Сику [Верховный судья]"
+
+msgid "Dali/Minister of Justice"
+msgstr "Дали [Министр юстиции]"
+
+msgid "Huangdizuo/Seat of Yellow Emperor"
+msgstr "Хуандизуо [Место желтого императора]"
+
+msgid "Cangdi/Azure Emperor"
+msgstr "Канди [Лазурный император]"
+
+msgid "Chidi/Red Emperor"
+msgstr "Чиди [Красный император]"
+
+msgid "Baidi/White Emperor"
+msgstr "Байди [Белый император]"
+
+msgid "Heidi/Black Emperor"
+msgstr "Хейди [Чёрный император]"
+
+msgid "Congguan/Retinue"
+msgstr "Конггуан [Свита]"
+
+msgid "Xingchen/Officer of Honour"
+msgstr "Синчен [Почетный офицер]"
+
+msgid "Youzhifa/Right Law Administrator"
+msgstr "Южифа [Правый юридический администратор]"
+
+msgid "Xishangjiang/The Great Western General"
+msgstr "Сишанцзян [Великий западный полководец]"
+
+msgid "Xicijiang/The Second Western General"
+msgstr "Сицицзян [Второй западный полководец]"
+
+msgid "Xicixiang/The Second Western Premier"
+msgstr "Сицисян [Второй западный первый министр]"
+
+msgid "Xishangxiang/The Great Western Premier"
+msgstr "Сишансян [Великий западный первый министр]"
+
+msgid "Zuozhifa/Left Law Administrator"
+msgstr "Зуожифа [Левый юридический администратор]"
+
+msgid "Dongshangxiang/The Great Eastern Premier"
+msgstr "Донгшансян [Великий восточный первый министр]"
+
+msgid "Dongcixiang/The Second Eastern Premier"
+msgstr "Донгцисян [Второй восточный первый министр]"
+
+msgid "Dongcijiang/The Second Eastern General"
+msgstr "Донгцицзян [Второй восточный полководец]"
+
+msgid "Dongshangjiang/The Great Eastern General"
+msgstr "Донгшанцзян [Великий восточный полководец]"
+
+msgid "Tianzi/Son of Heaven"
+msgstr "Тянь Цзы [Сын небес]"
+
+msgid "Nüzhu/Empress"
+msgstr "Нужу [Императрица]"
+
+msgid "Zhuhousangong/ Feudal Kings and Three Excellencies"
+msgstr "Чжухоусангонг [Феодальные короли и три превосходительства]"
+
+msgid "Qingdafu/High Ministers and Nobles"
+msgstr "Циндафу [Высокие министры и дворяне]"
+
+msgid "Shi/Gentry"
+msgstr "Ши [Дворянство]"
+
+msgid "Shuren/Common People"
+msgstr "Шурен [Обычные люди]"
+
+msgid "Huben/Emperor's Bodyguard"
+msgstr "Хубен [Телохранитель императора]"
+
+msgid "Yezhe/Usher to the Court"
+msgstr "Еже [Судебный пристав]"
+
+msgid "Dizuo/Emperor's Seat"
+msgstr "Цзо [Место императора]"
+
+msgid "Hou/Astrologer"
+msgstr "Хоу [Астролог]"
+
+msgid "Jinxian/Recommending Virtuous Men"
+msgstr "Джинсянь [Рекомендация добросовестных мужчин]"
+
+msgid "Dajiao/Great Horn"
+msgstr "Дацзяо [Большой рог]"
+
+msgid "Shi/Wedded Wife"
+msgstr "Ши [Замужняя жена]"
+
+msgid "Qie/Minor Concubine"
+msgstr "Цзе [Несовершеннолетняя наложница]"
+
+msgid "Zhaoyao/Twinkling Indicator"
+msgstr "Чжаояо [Мерцающий индикатор]"
+
+msgid "Tianru/Celestial Milk"
+msgstr "Тяньру [Небесное молоко]"
+
+msgid "Qizhenjiangjun/Chariots and Cavalry General"
+msgstr "Цичженцзянцзюнь [Колесницы и кавалерийский генерал]"
+
+msgid "Cijiang/The Second General"
+msgstr "Цицзян [Второй полководец]"
+
+msgid "Shangjiang/The Great General"
+msgstr "Шанцзян [Великий полководец]"
+
+msgid "Cixiang/The Second General"
+msgstr "Цисян [Второй полководец]"
+
+msgid "Shangxiang/The Great Premier"
+msgstr "Шансян [Великий первый министр]"
+
+msgid "Jianbi/Door Bolt"
+msgstr "Цзяньби [Дверной болт]"
+
+msgid "Ri/Solar Star"
+msgstr "Ри [Солнечная звезда]"
+
+msgid "Tianwang/Celestial King"
+msgstr "Тяньван [Небесный король]"
+
+msgid "Mingtang/Cosmological Temple"
+msgstr "Минтан [Космологический храм]"
+
+msgid "Dahuo/Great Fire"
+msgstr "Дахо [Большой пожар]"
+
+msgid "Hou/Empress Consort"
+msgstr "Хо [Императрица-супруга]"
+
+msgid "Fei/Imperial Consort"
+msgstr "Фей [Император-супруг]"
+
+msgid "Pin/Imperial Concubine"
+msgstr "Пин [Императорская наложница]"
+
+msgid "Shengong/Changing Room"
+msgstr "Шенгун [Раздевалка]"
+
+msgid "Fuyue/Fu Yue"
+msgstr "Фуюэ [Фу Юэ]"
+
+msgid "Kang/Chaff"
+msgstr "Кан [Чешуя]"
+
+msgid "Tiantong/Celestial Collaborators"
+msgstr "Тяньтун [Небесные сотрудники]"
+
+msgid "Fu/Blessing"
+msgstr "Фу [Благословение]"
+
+msgid "Tianxiang/Celestial Premier"
+msgstr "Тяньсян [Небесный первый министр]"
+
+msgid "Yin/Stamp"
+msgstr "Инь [Печать]"
+
+msgid "Qisha/Seven Assassins"
+msgstr "Цишань [Семь убийц]"
+
+msgid "Jiang/General"
+msgstr "Цзян [Генерал]"
+
+msgid "Tianji/Celestial Secret"
+msgstr "Тяньцзинь [Небесный секрет]"
+
+msgid "Shan/Kindness"
+msgstr "Шан [Доброта]"
+
+msgid "Tianliang/Celestial Beam"
+msgstr "Тяньлян [Небесное копье]"
+
+msgid "Yin/Shade"
+msgstr "Инь [Тень]"
+
+msgid "Tianfu/Celestial Official"
+msgstr "Тяньфу [Небесная дисциплина]"
+
+msgid "Nongzhangren/Peasant"
+msgstr "Нончжанжэнь [Крестьянин]"
+
+msgid "Dajiangjun/Great General"
+msgstr "Дацзянцзюнь [Великий полководец]"
+
+msgid "Zuojiangjun/Left General"
+msgstr "Цзоцзянцзюнь [Левый генерал]"
+
+msgid "Youjiangjun/Right General"
+msgstr "Юцзянцзюнь [Правый генерал]"
+
+msgid "Qianniuxing/Cowboy"
+msgstr "Цянь Ню Син [Пастух]"
+
+msgid "Zhinüxing/Weaving Girl"
+msgstr "Чжинюсин [Ткущая девушка]"
+
+msgid "Yue"
+msgstr "Юэ"
+
+msgid "Tiangang/Materials for Making Tents"
+msgstr "Тянанг [Материалы для изготовления палаток]"
+
+msgid "Beiluoshimen/North Gate of the Military Camp"
+msgstr "Бейлошимен [Северные врата военного лагеря]"
+
+msgid "Wangiang/Wang Liang"
+msgstr "Ванян [Ван Лян]"
+
+msgid "Tiansi/Celestial Horse"
+msgstr "Тяньcи [Небесные деньги]"
+
+msgid "Ce/Whip"
+msgstr "Це [Кнут]"
+
+msgid "Fulu/Auxiliary Road"
+msgstr "Фулу [Объездная дорога]"
+
+msgid "Junnanmen/Southern Military Gate"
+msgstr "Джуннэнмэнь [Южные военные врата]"
+
+msgid "Tusikong/Master of Constructions"
+msgstr "Тусиконг [Мастер строительства]"
+
+msgid "Jishi/Heap of Corpses"
+msgstr "Джиши [Куча трупов]"
+
+msgid "Jishui/Stored Water"
+msgstr "Цзишуй [Запасённая вода]"
+
+msgid "Tiane/Celestial Concave"
+msgstr "Тянье [Небесный свод]"
+
+msgid "Yue/Lunar Star"
+msgstr "Ю [Лунная звезда]"
+
+msgid "Tianchan/Celestial Slander"
+msgstr "Тяньчан [Небесная клевета]"
+
+msgid "Tiangao/Celestial High Terrace"
+msgstr "Тяньгао [Небесная высокая терраса]"
+
+msgid "Bianjiang/Side-general"
+msgstr "Бьянцзян [Сторона генерала]"
+
+msgid "Fuer/Whisper"
+msgstr "Фуэр [Шепот]"
+
+msgid "Tianguan/Celestial Pass"
+msgstr "Тяньгуань [Небесный проход]"
+
+msgid "Hengshi/Scales"
+msgstr "Хенши [Напольные весы]"
+
+msgid "Zuojian/Left Shoulder"
+msgstr "Цзоцзянь [Левое плечо]"
+
+msgid "Youjian/Right Shoulder"
+msgstr "Юдзянь [Правое плечо]"
+
+msgid "Zuozu/Left Foot"
+msgstr "Цзоци [Левая нога]"
+
+msgid "Youzu/Right Foot"
+msgstr "Юци [Правая нога]"
+
+msgid "Shi/Excrement"
+msgstr "Ши [Экскременты]"
+
+msgid "Yue/Battle Axe"
+msgstr "Юэ [Боевой топор]"
+
+msgid "Dishi/Emperor Teacher"
+msgstr "Диши [Учитель императора]"
+
+msgid "Diyou/Emperor friend"
+msgstr "Дию [Друг императора]"
+
+msgid "Sangong/Three excellencies"
+msgstr "Сангонг [Три превосходительства]"
+
+msgid "Boshi/Doctor"
+msgstr "Боши [Доктор]"
+
+msgid "Jishui/Accumulated Water"
+msgstr "Цзишуй [Накопленная вода]"
+
+msgid "Jixin/Pile of Firewood"
+msgstr "Цисинь [Куча дров]"
+
+msgid "Yeji/Wild Cockerel"
+msgstr "Йеци [Дикий петушок]"
+
+msgid "Lang/Wolf"
+msgstr "Ланг [Волк]"
+
+msgid "Tianlang/Celestial Wolf"
+msgstr "Тяньланг [Небесный волк]"
+
+msgid "Laoren/Old Man"
+msgstr "Лаорен [Старик]"
+
+msgid "Nanjilaoren/The Southernmost Old Man"
+msgstr "Нанцзилаожэнь [Самый южный старик]"
+
+msgid "Shi/Arrow"
+msgstr "Ши [Стрелка]"
+
+msgid "Tianji/Judge for Estimating the Age of Animals"
+msgstr "Тяньцзи [Судья по оценке возраста животных]"
+
+msgid "Cifei/Minor Imperial Consort"
+msgstr "Цифей [Несовершеннолетний император-супруг]"
+
+msgid "Furen/Highest-ranking Imperial Consort"
+msgstr "Фурен [Император-супруг высшего ранга]"
+
+msgid "Damin/Patriarchal Clan of Empress Dowager"
+msgstr "Дамин [Патриарший клан вдовствующей императрицы]"
+
+msgid "Shaomin/Patriarchal Clan of Empress Consort"
+msgstr "Шаомин [Патриарший клан супруга императрицы]"
+
+msgid "Yunü/Maids-in-waiting"
+msgstr "Юню [Горничные в ожидании]"
+
+msgid "Youxia/Right linchpin"
+msgstr "Юся [Правая чека]"
+
+msgid "Zuoxia/Left linchpin"
+msgstr "Зуося [Левая чека]"
+
+msgid "Changsha/Changsha"
+msgstr "Чанша"
+
+msgid "Determinative Star"
+msgstr "Определяющая звезда"
+
+#. TRANSLATORS: Native name of the Moon in Chinese culture
+msgid "Taiyin"
+msgstr "Тайин"
+
+#. TRANSLATORS: Native name of Mercury in Chinese culture
+msgid "Chen Star"
+msgstr "Звезда Чен"
+
+#. TRANSLATORS: Native name of Venus in Chinese culture
+msgid "Taibai"
+msgstr "Тайбай"
+
+#. TRANSLATORS: Native name of Mars in Chinese culture
+msgid "Yinghuo"
+msgstr "Инхо"
+
+#. TRANSLATORS: Native name of Jupiter in Chinese culture
+msgid "Sui Star"
+msgstr "Звезда Суй"
+
+#. TRANSLATORS: Native name of Saturn in Chinese culture
+msgid "Zhen Star"
+msgstr "Звезда Чжэн"
+
+msgid "Jishiqi / Cumulative Corpse Gas"
+msgstr "Цзишици [Совокупный трупный газ]"
+
+msgid "Yu / Fish"
+msgstr "Ю [Рыба]"
+
+msgid "Maotou / Ancient Flag with Yak's Tail"
+msgstr "Маоту [Древний флаг с хвостом яка]"
