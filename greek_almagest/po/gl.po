@@ -1,0 +1,3786 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Manuel Rosales <manuel.rosales.gr@gmail.com>, 2024\n"
+"Language-Team: Galician (https://app.transifex.com/stellarium/teams/80998/"
+"gl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: gl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Greek (Almagest)"
+msgstr "Grego (Almagest)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"<p>This ancient Greek sky culture is compiled in a book that is today known "
+"by its Arabic title \"Almagest\".\n"
+"This book was written in Roman time (under the reign of Roman emperor "
+"Hadrian) at Alexandria (Africa) in\n"
+"Greek language, with dates given in Egyptian month names and years counted "
+"after a Babylonian king,\n"
+"so it is clearly a multi-cultural compendium of knowledge. It is a "
+"compilation of\n"
+"astronomical knowledge of former astronomers including results from\n"
+"observations and mathematical astronomy. Pieced together by Claudius\n"
+"Ptolemy, using older, as well as his own, observations, it was written\n"
+"in Greek, published in the Second Century and remained the main\n"
+"astronomical work for the following 1500 years. It was originally written\n"
+"with the title <i>Mathematike Syntaxis</i>, in Ancient Greek.\n"
+"The name <i>Almagest</i>, meaning &ldquo;The Largest [Book]&rdquo;, was\n"
+"developed from Arabian translations. To create this sky culture we used\n"
+"the English translation by Toomer (1984), reworked it in some details\n"
+"(e.g. using more literal translations from Greek instead of Latin terms "
+"that\n"
+"are common today) and we made use of computer readable tables prepared\n"
+"by Ernie Wright.</p>\n"
+"<p>The Almagest consists of 13 sections, called books. In the seventh\n"
+"and eighth book, Ptolemy listed a total of 1022 stars in 48 constellations\n"
+"(among which are about 5 star-like objects like globular star clusters).\n"
+"It is a table of coordinates of the stars with a description of their\n"
+"position in the constellation (such as \"star at the elbow of X, longitude,\n"
+"latitude, magnitude\"). With regard to precession, Ptolemy used ecliptic\n"
+"coordinates. As one of the first of his time, Ptolemy included the\n"
+"magnitude, a quantitative scale of stellar brightness, probably adopted\n"
+"from Hipparchus (which is not certain because Hipparchus&rsquo; catalog\n"
+"is not preserved). The scale starts with the brightest star with the\n"
+"magnitude of 1, going down to magnitude of 6, for the faintest stars\n"
+"visible.</p>\n"
+"<p>For the computation of planet positions Ptolemy used a geocentric model\n"
+"(which is allowed because the observer always stands on Earth) and, thus,\n"
+"contributed to the scientific belief that the heliocentric model by\n"
+"Aristarch was not needed. However, for the star catalogue of the\n"
+"<i>Almagest</i> this does not matter at all because a star catalogue\n"
+"always represents a sort of inventory of the fixed dots in the sky and\n"
+"Ptolemy's proclaimed aim of the catalogue is to provide a list for making\n"
+"a celestial globe (see Alm., VIII, 3). Being aware of precession he wants\n"
+"to ease the business of future globemakers by using ecliptical coordinates:\n"
+"Precession as known to Ptolemy shifts all stars parallel to the ecliptic,\n"
+"therefore updates to the epoch of the respective globemaker could be\n"
+"applied by a simple subtraction of the value for ecliptic longitude.</p>"
+msgstr ""
+"<p>Esta cultura do ceo da Grecia antiga está recompilada nun libro que hoxe "
+"se\n"
+"coñece polo seu título árabe \"Almagest\". Este libro foi escrito na época\n"
+"romana (baixo o reinado do emperador romano Adriano) en Alexandría (África)\n"
+"en lingua grega, con datas indicadas en nomes de meses exipcios e anos\n"
+"contados despois dun rei babilónico, polo que é claramente un compendio\n"
+"multicultural de coñecemento. É unha compilación de coñecementos\n"
+"astronómicos de antigos astrónomos, incluíndo resultados de observacións e\n"
+"astronomía matemática. Reunido por Claudio Ptolomeo, utilizando "
+"observacións\n"
+"máis antigas e propias, escribiuse en grego, publicouse no século II e\n"
+"mantívose coma a principal obra astronómica durante os seguintes 1500\n"
+"anos. Foi escrito orixinalmente co título <i>Mathematike Syntaxis</i>, en\n"
+"grego antigo.  O nome <i>Almagest</i>, que significa &ldquo;O [Libro] máis\n"
+"grande&rdquor;, foi desenvolvido a partir de traducións ó árabe. Para crear\n"
+"esta cultura do ceo empregamos a tradución ó inglés de Toomer (1984),\n"
+"reelaborámola nalgúns detalles (por exemplo, utilizando traducións máis\n"
+"literais do grego en lugar de termos latinos que son comúns hoxe en día) e\n"
+"fixemos uso de táboas lexibles por ordenador preparadas por Ernie Wright.</"
+"p>\n"
+"<p>O Almagest consta de 13 seccións, chamadas libros. No sétimo e oitavo "
+"libros\n"
+"Ptolomeo enumerou un total de 1022 estrelas en 48 constelacións (entre as\n"
+"que se atopan preto de cinco obxectos estelares como cúmulos de estrelas\n"
+"globulares). É unha táboa de coordenadas das estrelas cunha descrición da\n"
+"súa posición na constelación (como \"estrela no cóbado de X, lonxitude,\n"
+"latitude, magnitude\"). En canto á precesión, Ptolomeo usou coordenadas\n"
+"eclípticas. Como un dos primeiros do seu tempo, Ptolomeo incluíu a\n"
+"magnitude, unha escala cuantitativa de brillo estelar, probablemente\n"
+"adoptada a partir de Hipparchus (o que non é seguro porque non se conserva "
+"o\n"
+"catálogo de Hipparchus). A escala comeza coa estrela máis brillante coa\n"
+"magnitude de 1, baixando ata a magnitude de 6, para as estrelas máis "
+"débiles\n"
+"que sexan visibles.</p>\n"
+"<p>Para o cálculo das posicións dos planetas Ptolomeo usou un modelo\n"
+"xeocéntrico (o que se permite porque o observador sempre está na Terra) e,\n"
+"polo tanto, contribuíu á crenza científica de que o modelo heliocéntrico de\n"
+"Aristarco non era necesario. Non obstante, para o catálogo de estrelas de\n"
+"<i>Almagest</i> isto non importa en absoluto porque un catálogo de estrelas\n"
+"sempre representa unha especie de inventario dos puntos fixos no ceo e o\n"
+"obxectivo proclamado do catálogo de Ptolomeo é proporcionar unha listaxe\n"
+"para facer un globo celeste ( véxase Alm., VIII, 3). Sendo consciente da\n"
+"precesión quere facilitar o negocio dos futuros globos mediante as\n"
+"coordenadas eclípticas: A precesión, como é coñecida por Ptolemeo, cambia\n"
+"todas as estrelas paralelas á eclíptica, polo tanto, as actualizacións á\n"
+"época do respectivo globo poderían aplicarse mediante unha simple\n"
+"substracción do valor para lonxitude eclíptica.</p>"
+
+# Sky culture description section in markdown format
+msgid ""
+"### How this sky culture was made\n"
+"\n"
+"### Star names\n"
+"\n"
+"Out of more than 1,000 stars, Ptolemy mentions a proper name for only 15.\n"
+"The rest are identified by fairly long descriptions such as \"The star on\n"
+"the end of the tail\" for the Polaris. In order to avoid displaying such "
+"long\n"
+"strings across the screen in Stellarium, we invented short labels for all\n"
+"Almagest stars based on the constellation and the order in which they appear "
+"in\n"
+"the catalogue.  For example, Polaris is given a designation \"UMi 1\" "
+"because\n"
+"it is the first star in the constellation of Small Bear (UMi).  See the "
+"table\n"
+"below for the correspondence between Ptolemy constellations and IAU "
+"abbreviations.\n"
+"In addition, where Ptolemy describes a star as lying outside of the figure,\n"
+"we use lowercase letters in the corresponding label. To see the long "
+"description\n"
+"for a given star, users should enable \"Use additional names of stars\" in "
+"the\n"
+"\"View [F4]/Sky\" settings and click on the star. The long description will "
+"then\n"
+"be displayed at the top of the screen.\n"
+"\n"
+"### Constellation lines\n"
+"\n"
+"<p>The process can be described as sketched here with the example of\n"
+"Corvus:</p>\n"
+"<p>In the constellation of Corvus (Raven), &alpha; Crv is the star in\n"
+"the &quot;head of the raven&quot;. It is connected with the &quot;star\n"
+"in the neck&quot;, &epsilon; Crv.  This one is connected with &quot;the\n"
+"star in the breast&quot; &zeta; Crv.  From there two lines go to the\n"
+"tips of the wings. &gamma; Crv is the star in the advanced wing and\n"
+"&delta; Crv the star in the rear wing. From the star in the breast\n"
+"another line goes to the &quot;foot of the raven&quot;, the star &beta;\n"
+"Crv.</p>\n"
+"<p><img width=\"800\" src=\"corvus_s.png\" /></p>\n"
+"<p>After identifying the stars based on their coordinates and names, we\n"
+"reconnected the stars according to the descriptions in the table\n"
+"presented in the <i>Almagest</i>.</p>\n"
+"<p>The names of stars and names of deep sky objects rely on the Almagest\n"
+"only, e.g. Ptolemy uses the name &quot;&lambda;&alpha;&mu;&pi;&alpha;&delta;"
+"&#943;&alpha;&sigmaf;\n"
+"(The Torch-like)&quot; for Aldebaran in his other work, the\n"
+"<i>Tetrabiblos</i>, but this is not implemented in this sky culture because\n"
+"it doesn't show up in the Almagest.</p>\n"
+"<p>The following table displays the original constellation name in Greek and "
+"its\n"
+"English translation (column 2 and 3) and denotes our uncertainties in\n"
+"the reconstruction (column 6).</p>\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>Abbreviation</b></td>\n"
+"\t<td><b>Original name</b></td>\n"
+"\t<td><b>Translation</b> (direct)</td>\n"
+"\t<td><b>IAU (Latin) name</b></td>\n"
+"\t<td><b>hints to constellation</b></td>\n"
+"\t<td><b>freedom of art</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>UMi</notr></td>\n"
+"\t<td><notr>&Mu;&iota;&kappa;&rho;&#942; &#702;&#714;&Alpha;&rho;&kappa;&tau;"
+"&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Small She-Bear</td>\n"
+"\t<td><notr>Ursa Minor</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>UMa</notr></td>\n"
+"\t<td><notr>&Mu;&epsilon;&gamma;&alpha;&lambda;&#942; &#702;&#714;&Alpha;"
+"&rho;&kappa;&tau;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Great She-Bear</td>\n"
+"\t<td><notr>Ursa Major</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Dra</notr></td>\n"
+"\t<td><notr>&Delta;&rho;&#940;&kappa;&omega;&nu;</notr></td>\n"
+"\t<td>Dragon</td>\n"
+"\t<td><notr>Draco</notr></td>\n"
+"\t<td>all triangles or squares are vertebra or parts of the body; line at "
+"the head is the tongue</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"\t<tr valign=\"top\">\n"
+"\t<td><notr>Cep</notr></td>\n"
+"\t<td><notr>&Kappa;&eta;&phi;&epsilon;&#973;&sigmaf;</notr></td>\n"
+"\t<td>Kepheus</td>\n"
+"\t<td><notr>Cepheus</notr></td>\n"
+"\t<td>king, upside down </td>\n"
+"\t<td>three head stars are tiara; &beta; seen as part of the belt, although "
+"Almagest says beneath belt</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Boo</notr></td>\n"
+"\t<td><notr>&Beta;&omicron;&#974;&tau;&eta;&sigmaf;</notr></td>\n"
+"\t<td>Ploughman</td>\n"
+"\t<td><notr>Bo&ouml;tes</notr></td>\n"
+"\t<td>has a shepherd's staff in his hand (&omega;)</td>\n"
+"\t<td>star HIP 72582 added as neck star</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>CrB</notr></td>\n"
+"\t<td><notr>&Sigma;&tau;&#941;&phi;&alpha;&nu;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Crown</td>\n"
+"\t<td><notr>Corona Borealis</notr></td>\n"
+"\t<td>like IAU constellation; no details for lines in the text</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Her</notr></td>\n"
+"\t<td><notr>&#703;&Epsilon;&nu;&gamma;&#972;&nu;&alpha;&sigma;&iota;&nu;</"
+"notr></td>\n"
+"\t<td>Kneeler</td>\n"
+"\t<td><notr>Hercules</notr></td>\n"
+"\t<td>one of the foot stars is top of staff of Bootes</td>\n"
+"\t<td>star HIP 82764 added as neck star</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Lyr</notr></td>\n"
+"\t<td><notr>&Lambda;&#973;&rho;&alpha;</notr></td>\n"
+"\t<td>Lyre</td>\n"
+"\t<td><notr>Lyra</notr></td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cyg</notr></td>\n"
+"\t<td><notr>&#702;&#714;&Omicron;&rho;&nu;&iota;&sigmaf;</notr></td>\n"
+"\t<td>Bird</td>\n"
+"\t<td><notr>Cygnus</notr></td>\n"
+"\t<td>swan with legs</td>\n"
+"\t<td>Tips of wings connected with tail</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cas</notr></td>\n"
+"\t<td><notr>&Kappa;&alpha;&sigma;&sigma;&iota;&#941;&pi;&epsilon;&iota;"
+"&alpha;</notr></td>\n"
+"\t<td>Kassiepeia</td>\n"
+"\t<td><notr>Cassiopeia</notr></td>\n"
+"\t<td>Queen sitting on a throne</td>\n"
+"\t<td>to avoid confusion we did not draw the throne</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Per</notr></td>\n"
+"\t<td><notr>&Pi;&epsilon;&rho;&sigma;&epsilon;&#973;&sigmaf;</notr></td>\n"
+"\t<td>Perseus</td>\n"
+"\t<td><notr>Perseus</notr></td>\n"
+"\t<td>Double star cluster NGC 869 and NGC 884 as Deep Sky Object - &gt;one "
+"of the stars in the cluster was used for drawing</td>\n"
+"\t<td>one of the stars in Gorgon-head is added to make the head look more "
+"spherical</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Aur</notr></td>\n"
+"\t<td><notr>&#703;&Eta;&nu;&#943;&omicron;&chi;&omicron;&sigmaf;</notr></"
+"td>\n"
+"\t<td>Charioteer</td>\n"
+"\t<td><notr>Auriga</notr></td>\n"
+"\t<td>wears long garment; garment limited through shoulders and hem</td>\n"
+"\t<td>o Aur added as neck star; 1 Aur added as hem star</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Oph</notr></td>\n"
+"\t<td><notr>&#702;&Omicron;&phi;&iota;&omicron;&#973;&chi;&omicron;&sigmaf;</"
+"notr></td>\n"
+"\t<td>Serpent Bearer</td>\n"
+"\t<td><notr>Ophiuchus</notr></td>\n"
+"\t<td>has serpent in his hand</td>\n"
+"\t<td>a star added as neck star</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Ser</notr></td>\n"
+"\t<td><notr>&#702;&#714;&Omicron;&phi;&iota;&sigmaf;</notr></td>\n"
+"\t<td>Snake</td>\n"
+"\t<td><notr>Serpens</notr></td>\n"
+"\t<td>two separate parts of the snake (head and tail); square is head</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Sge</notr></td>\n"
+"\t<td><notr>&#702;&Omicron;&iota;&sigma;&tau;&#972;&sigmaf;</notr></td>\n"
+"\t<td>Arrow</td>\n"
+"\t<td><notr>Sagitta</notr></td>\n"
+"\t<td>Like IAU constellation, &eta; Sge is missing </td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Aql</notr></td>\n"
+"\t<td><notr>&#702;&Alpha;&epsilon;&tau;&#972;&sigmaf;</notr></td>\n"
+"\t<td>Eagle</td>\n"
+"\t<td><notr>Aquila</notr></td>\n"
+"\t<td>&tau; Aql as head star, &beta; as neck, Altair is between shoulders, "
+"&gamma; and &mu; are shoulders</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Del</notr></td>\n"
+"\t<td><notr>&Delta;&epsilon;&lambda;&phi;&#943;&sigmaf;</notr></td>\n"
+"\t<td>Dolphin</td>\n"
+"\t<td><notr>Delphinus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>refined shape</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Equ</notr></td>\n"
+"\t<td><notr>&Pi;&rho;&omicron;&tau;&omicron;&mu;&#942;</notr></td>\n"
+"\t<td>Bust [of a horse]</td>\n"
+"\t<td><notr>Equuleus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Peg</notr></td>\n"
+"\t<td><notr>&#703;&#714;&Iota;&pi;&pi;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Horse</td>\n"
+"\t<td><notr>Pegasus</notr></td>\n"
+"\t<td>with mane and one wing</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>And</notr></td>\n"
+"\t<td><notr>&#702;&Alpha;&nu;&delta;&rho;&omicron;&mu;&#941;&delta;&alpha;</"
+"notr></td>\n"
+"\t<td>Andromeda</td>\n"
+"\t<td class='latin'><notr>Andromeda</notr></td>\n"
+"\t<td>dress and belt</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Tri</notr></td>\n"
+"\t<td><notr>&Tau;&rho;&#943;&gamma;&omega;&nu;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Triangle</td>\n"
+"\t<td><notr>Triangulum</notr></td>\n"
+"\t<td>four given stars &#61664; middle star of one side</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Ari</notr></td>\n"
+"\t<td><notr>&Kappa;&rho;&iota;&#972;&sigmaf;</notr></td>\n"
+"\t<td>Ram</td>\n"
+"\t<td><notr>Aries</notr></td>\n"
+"\t<td>turned head; only one horn</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Tau</notr></td>\n"
+"\t<td><notr>&Tau;&alpha;&upsilon;&#771;&rho;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Bull</td>\n"
+"\t<td><notr>Taurus</notr></td>\n"
+"\t<td>half body, only two legs visible; direction of view to observer</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Gem</notr></td>\n"
+"\t<td><notr>&Delta;&#943;&delta;&upsilon;&mu;&omicron;&iota;</notr></td>\n"
+"\t<td>Twins</td>\n"
+"\t<td><notr>Gemini</notr></td>\n"
+"\t<td>one star in common; touching each other with hands</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cnc</notr></td>\n"
+"\t<td><notr>&Kappa;&alpha;&rho;&kappa;&#943;&nu;&omicron;&sigmaf;</notr></"
+"td>\n"
+"\t<td>Crab</td>\n"
+"\t<td><notr>Cancer</notr></td>\n"
+"\t<td>square body</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Leo</notr></td>\n"
+"\t<td><notr>&Lambda;&#941;&omega;&nu;</notr></td>\n"
+"\t<td>Lion</td>\n"
+"\t<td><notr>Leo</notr></td>\n"
+"\t<td>opens jaw</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Vir</notr></td>\n"
+"\t<td><notr>&Pi;&alpha;&rho;&theta;&#941;&nu;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Maiden</td>\n"
+"\t<td><notr>Virgo</notr></td>\n"
+"\t<td>no separate head</td>\n"
+"\t<td>fainter stars added to draw the wings</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Lib</notr></td>\n"
+"\t<td><notr>&Chi;&eta;&lambda;&alpha;&#943;</notr></td>\n"
+"\t<td>Claws [of the Scorpion]</td>\n"
+"\t<td><notr>Libra</notr></td>\n"
+"\t<td>Ptolemy always uses the term &quot;claws&quot;, never &quot;the "
+"balance&quot;.</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Sco</notr></td>\n"
+"\t<td><notr>&Sigma;&kappa;&omicron;&rho;&pi;&#943;&omicron;&sigmaf;</notr></"
+"td>\n"
+"\t<td>Scorpion</td>\n"
+"\t<td><notr>Scorpius</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>arms added around the head: &nu; and &rho;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Sgr</notr></td>\n"
+"\t<td><notr>&Tau;&omicron;&xi;&#972;&tau;&eta;&sigmaf;</notr></td>\n"
+"\t<td>Archer</td>\n"
+"\t<td><notr>Sagittarius</notr></td>\n"
+"\t<td>a centaur with  bow ahead; &bdquo;cloak&ldquo; behind</td>\n"
+"\t<td>we included many faint stars in our stick figure in order to make the "
+"picture clear.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cap</notr></td>\n"
+"\t<td><notr>&Alpha;&#943;&gamma;&#972;&kappa;&epsilon;&rho;&omicron;&sigmaf;"
+"</notr></td>\n"
+"\t<td>The One with the Goat's Horn</td>\n"
+"\t<td><notr>Capricornus</notr></td>\n"
+"\t<td>fish tail; two legs visible</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Aqr</notr></td>\n"
+"\t<td><notr>&#703;&Upsilon;&delta;&rho;&omicron;&chi;&#972;&omicron;&sigmaf;"
+"</notr></td>\n"
+"\t<td>Water-Carrier</td>\n"
+"\t<td><notr>Aquarius</notr></td>\n"
+"\t<td>water out of jug</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Psc</notr></td>\n"
+"\t<td><notr>&#702;&Iota;&chi;&theta;&#973;&epsilon;&sigmaf;</notr></td>\n"
+"\t<td>[2] Fish</td>\n"
+"\t<td><notr>Pisces</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>northern fish: 68(h), 67(k), and 65(i) described as head in Almagest "
+"but we took them as fin because mouth should be at g and &tau; Psc. "
+"Additional change on tail fin: extended to &rho;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cet</notr></td>\n"
+"\t<td><notr>&Kappa;&eta;&#771;&tau;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Sea Monster</td>\n"
+"\t<td><notr>Cetus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>Body does not go through star &tau;, but through star &upsilon;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Ori</notr></td>\n"
+"\t<td><notr>&#702;&Omega;&rho;&#943;&omega;&nu;</notr></td>\n"
+"\t<td>Orion</td>\n"
+"\t<td class='latin'><notr>Orion</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>The &quot;head&quot; is labeled as &quot;nebulous&quot; which means "
+"Ptolemy interpreted &phi;<sub>1</sub>, &phi;<sub>2</sub>, and  &lambda;, "
+"together with fainter stars between them as a &quot;cluster&quot; (or "
+"association which is more extended than the modern &quot;&lambda; Ori Assoc."
+"&quot;). Head does not have direct connection to the shoulder stars anymore, "
+"but a connection to a star between the stars in the shoulders.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Eri</notr></td>\n"
+"\t<td><notr>&Pi;&omicron;&tau;&alpha;&mu;&omicron;&#972;&sigmaf;</notr></"
+"td>\n"
+"\t<td>River [nameless]</td>\n"
+"\t<td><notr>Eridanus</notr></td>\n"
+"\t<td>Like IAU constellation, but shorter</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Lep</notr></td>\n"
+"\t<td><notr>&Lambda;&alpha;&gamma;&omega;&#771;&sigmaf;</notr></td>\n"
+"\t<td>Hare</td>\n"
+"\t<td><notr>Lepus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>took the \"4 stars over the ear\" as ear</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>CMa</notr></td>\n"
+"\t<td><notr>&Kappa;&#973;&omega;&nu;</notr></td>\n"
+"\t<td>Dog</td>\n"
+"\t<td><notr>Canis Major</notr></td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>CMi</notr></td>\n"
+"\t<td><notr>&Pi;&rho;&omicron;&kappa;&#973;&omega;&nu;</notr></td>\n"
+"\t<td>The One before the Dog</td>\n"
+"\t<td><notr>Canis Minor</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>In Almagest, the name of the constellation is &quot;The One before the "
+"Dog&quot; or &quot;Harbinger of Sirius&quot; as Toomer puts it. However, "
+"&beta; CMi is called &quot;the neck&quot; (of whom is unknown). We drew a "
+"little dog with &gamma; and &epsilon; as head; &alpha;, &beta;, &eta; and "
+"HIP36889 as body; forelegs with HIP 35509 and HIP 35614; hindlegs with "
+"&delta;<sub>2</sub> and &delta;<sub>3</sub>; tail with HIP 37634</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Arg</notr></td>\n"
+"\t<td><notr>&#702;&Alpha;&rho;&gamma;&omega;</notr></td>\n"
+"\t<td>Ship &quot;Argo&quot;</td>\n"
+"\t<td><notr>Argo</notr></td>\n"
+"\t<td>smaller than the sum of the IAU-constellations Pup+Pyx+Car+Vel</td>\n"
+"\t<td>Many stars not integrated in the constellation, to create a boat-like "
+"shape; in many depictions (including the ancient Farnese globe), only a half "
+"of a ship is painted.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Hya</notr></td>\n"
+"\t<td><notr>&#703;&#714;&Upsilon;&delta;&rho;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Water Snake</td>\n"
+"\t<td><notr>Hydra</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Crt</notr></td>\n"
+"\t<td><notr>&Kappa;&rho;&alpha;&tau;&#768;&eta;&rho;</notr></td>\n"
+"\t<td>Krater (vessel)</td>\n"
+"\t<td><notr>Crater</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>a Krater is special Greek wine mixing vessel which looks like an "
+"amphora or vase: <a href=\"https://en.wikipedia.org/wiki/Krater\">https://en."
+"wikipedia.org/wiki/Krater</a> Ptolemy describes only one star in the foot "
+"(&alpha; Crt) and two handles (&eta;, &theta; Crt)</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Crv</notr></td>\n"
+"\t<td><notr>&Kappa;&oacute;&rho;&alpha;&xi;</notr></td>\n"
+"\t<td>Raven</td>\n"
+"\t<td><notr>Corvus</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cen</notr></td>\n"
+"\t<td><notr>&Kappa;&#941;&nu;&tau;&alpha;&upsilon;&rho;&omicron;&sigmaf;</"
+"notr></td>\n"
+"\t<td>Kentauros</td>\n"
+"\t<td><notr>Centaurus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>deviation from description: HIP 65373 instead of &omega; Cen (cluster) "
+"taken as star on the back. &lsquo;Thyrsus&lsquo; not drawn (to avoid "
+"confusion), backward arm added.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Lup</notr></td>\n"
+"\t<td><notr>&Theta;&eta;&rho;&#943;&omicron;&nu;</notr></td>\n"
+"\t<td>Beast</td>\n"
+"\t<td><notr>Lupus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>&beta; described as &lsquo;End of hind leg&lsquo; -> taken as star in "
+"the belly; &tau;<sub>1</sub> as hindleg &Chi; removed from head, because "
+"otherwise shapelessness arises; HIP 73493 taken as foreleg</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Ara</notr></td>\n"
+"\t<td><notr>&Theta;&upsilon;&mu;&iota;&alpha;&tau;&#942;&rho;&iota;&omicron;"
+"&nu;</notr></td>\n"
+"\t<td>Altar</td>\n"
+"\t<td><notr>Ara</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>CrA</notr></td>\n"
+"\t<td><notr>&Sigma;&tau;&#941;&phi;&alpha;&nu;&omicron;&sigmaf; &Nu;&#972;"
+"&tau;&iota;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Southern Crown</td>\n"
+"\t<td><notr>Corona Australis</notr></td>\n"
+"\t<td>like IAU constellation; only uncertainty with stars that only got a "
+"BSC number in the Almagest, because these are not clearly to identify in "
+"Stellarium</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>PsA</notr></td>\n"
+"\t<td><notr>&Nu;&#972;&tau;&iota;&omicron;&sigmaf; &#702;&Iota;&chi;&theta;"
+"&#973;&sigmaf;</notr></td>\n"
+"\t<td>Southern Fish</td>\n"
+"\t<td><notr>Piscis Austrinus</notr></td>\n"
+"\t<td>the fish is laying on his back</td>\n"
+"\t<td>we added a few stars to mark the tail as such (&beta; should be the "
+"tip of the tail but we used it as its root)</td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"### Fair Use\n"
+"\n"
+"<p>This sky culture originates from a student's year of research. We provide "
+"this for free but\n"
+"authors of contributions certainly deserve to be cited according to the "
+"common rules. Thank you!</p>\n"
+"\n"
+"### Thanks\n"
+"\n"
+"<p>The authors thank Patrick Gleason and Georg Zotti for English "
+"proofreading and interesting discussions.</p>"
+msgstr ""
+"### Como se fixo esta cultura do ceo\n"
+"\n"
+"### Nomes de estrelas\n"
+"\n"
+"De máis de 1.000 estrelas, Ptolomeo menciona o nome propio de tan só 15. O\n"
+"resto identifícanse mediante descricións bastante longas como \"A estrela "
+"no\n"
+"extremo da cola\" para a Polaris. Para evitar amosar descricións tan longas\n"
+"na pantalla en Stellarium, fixemos etiquetas curtas para todas as estrelas\n"
+"do Almagest baseadas na constelación e na orde na que aparecen no\n"
+"catálogo. Por exemplo, a Polaris recibe a denominación \"UMi 1\" porque é a\n"
+"primeira estrela da constelación de Osa Menor (UMi). Podes ver na táboa\n"
+"seguinte a correspondencia entre as constelacións de Ptolomeo e as\n"
+"abreviaturas da IAU. Ademais, onde Ptolomeo describe unha estrela como fóra\n"
+"da figura, usamos letras minúsculas na etiqueta correspondente. Para ver a\n"
+"descrición longa dunha estrela determinada, os usuarios deberían habilitar\n"
+"\"Usar nomes adicionais de estrelas\" na configuración \"Ver [F4] / Ceo\" e\n"
+"facer clic na estrela. A longa descrición amosarase na parte superior da\n"
+"pantalla.\n"
+"\n"
+"### Liñas das constelacións\n"
+"\n"
+"<p>O proceso resúmese aquí co exemplo de Corvus:</p>\n"
+"<p>Na costelación de Corvus, &alpha; Crv é a estrena na &quot;cabeza do\n"
+"corvo&quot;. Conéctase coa &quot;estrela no pescozo&quot;, &epsilon; Crv.\n"
+"Esta está conectada coa &quot;estrela no peito&quot; &zeta; Crv.  A partir\n"
+"de aquí dúas liñas se dirixen ás puntas das ás. &gamma; Crv é a estrela na\n"
+"parte dianteira e &delta; Crv a estrela na á traseira. Dende a estrela no\n"
+"peito outra liña vai ata o&quot;pé do corvo&quot;, a estrela &beta; Crv.</"
+"p>\n"
+"<p><img width=\"800\" src=\"corvus_s.png\" /></p>\n"
+"<p>Despois de identificar as estrelas en función das súas coordenadas e "
+"nomes,\n"
+"reconectamos as estrelas segundo as descricións na táboa presentada no\n"
+"<i>Almagest</i>.</p>\n"
+"<p>Os nomes de estrelas e de obxectos do ceo profundo só dependen do\n"
+"Almagest. Por exemplo, Ptolomeo usa o nome &quot;&lambda;&alpha;&mu;&pi;\n"
+"&alpha; &delta;&# 943;&alpha;&sigmaf; (A que é coma un facho) &quot; para\n"
+"Aldebarán no seu outro traballo, o Tetrabiblos, pero isto non está\n"
+"implementado nesta cultura do ceo porque non aparece no Almagest.</p>\n"
+"<p>A seguinte táboa mostra o nome da constelación orixinal en grego e a súa\n"
+"tradución en galego (columnas 2 e 3) e indica as nosas incertezas na\n"
+"reconstrución (columna 6).</p>\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>Abreviatura</b></td>\n"
+"\t<td><b>Nome orixinal</b></td>\n"
+"\t<td><b>Tradución</b> (directa)</td>\n"
+"\t<td><b>Nome latino IAU</b></td>\n"
+"\t<td><b>consellos para a constelación</b></td>\n"
+"\t<td><b>liberdade da arte</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>UMi</td>\n"
+"\t<td>&Mu;&iota;&kappa;&rho;&#942; &#702;&#714;&Alpha;&rho;&kappa;&tau;"
+"&omicron;&sigmaf;</td>\n"
+"\t<td>Pequena Osa</td>\n"
+"\t<td>Ursa Minor</td>\n"
+"\t<td>como a constelacion IAU</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>UMa</td>\n"
+"\t<td>&Mu;&epsilon;&gamma;&alpha;&lambda;&#942; &#702;&#714;&Alpha;&rho;"
+"&kappa;&tau;&omicron;&sigmaf;</td>\n"
+"\t<td>Gran Osa</td>\n"
+"\t<td>Ursa Major</td>\n"
+"\t<td>como a constelacion IAU</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Dra</td>\n"
+"\t<td>&Delta;&rho;&#940;&kappa;&omega;&nu;</td>\n"
+"\t<td>Dragón</td>\n"
+"\t<td>Draco</td>\n"
+"\t<td>todos os triángulos ou cadrados son vértebras ou partes do corpo; a "
+"liña da\n"
+"cabeza é a lingua</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"\t<tr valign=\"top\">\n"
+"\t<td>Cep</td>\n"
+"\t<td>&Kappa;&eta;&phi;&epsilon;&#973;&sigmaf;</td>\n"
+"\t<td>Cefeo</td>\n"
+"\t<td>Cepheus</td>\n"
+"\t<td>Rei, ó revés </td>\n"
+"\t<td>tres estrelas de cabeza son a tiara; vese como parte do cinto, aínda "
+"que\n"
+"Almagest di que está debaixo do cinto</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Boo</td>\n"
+"\t<td>&Beta;&omicron;&#974;&tau;&eta;&sigmaf;</td>\n"
+"\t<td>Arado</td>\n"
+"\t<td>Bo&ouml;tes</td>\n"
+"\t<td>ten na man roupa de pastor (&omega;)</td>\n"
+"\t<td>a estrela HIP 72582engadiuse como estrela do pescozo</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>CrB</td>\n"
+"\t<td>&Sigma;&tau;&#941;&phi;&alpha;&nu;&omicron;&sigmaf;</td>\n"
+"\t<td>Coroa</td>\n"
+"\t<td>Corona Borealis</td>\n"
+"\t<td>como a constelación da IAU; sen detalles para as liñas de texto</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Her</td>\n"
+"\t<td>&#703;&Epsilon;&nu;&gamma;&#972;&nu;&alpha;&sigma;&iota;&nu;</td>\n"
+"\t<td>Axeonllado</td>\n"
+"\t<td>Hercules</td>\n"
+"\t<td>unha das estrelas do pé é a parte superior do persoal de Bootes</td>\n"
+"\t<td>a estrela HIP 82764 engadiuse como estrela do pescozo</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Lyr</td>\n"
+"\t<td>&Lambda;&#973;&rho;&alpha;</td>\n"
+"\t<td>Lira</td>\n"
+"\t<td>Lyra</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cyg</td>\n"
+"\t<td>&#702;&#714;&Omicron;&rho;&nu;&iota;&sigmaf;</td>\n"
+"\t<td>Paxaro</td>\n"
+"\t<td>Cygnus</td>\n"
+"\t<td>cisne con patas</td>\n"
+"\t<td>Puntas das ás conectadas coa cola</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cas</td>\n"
+"\t<td>&Kappa;&alpha;&sigma;&sigma;&iota;&#941;&pi;&epsilon;&iota;&alpha;</"
+"td>\n"
+"\t<td>Casiopea</td>\n"
+"\t<td>Cassiopeia</td>\n"
+"\t<td>Raíña sentada no trono</td>\n"
+"\t<td>para evitar confusións non debuxamos o trono</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Per</td>\n"
+"\t<td>&Pi;&epsilon;&rho;&sigma;&epsilon;&#973;&sigmaf;</td>\n"
+"\t<td>Perseus</td>\n"
+"\t<td>Perseus</td>\n"
+"\t<td>Cúmulo de estrelas dobres NGC 869 e NGC 884 como obxecto do ceo "
+"profundo:\n"
+"unha das estrelas do cúmulo empregouse para o debuxo</td>\n"
+"\t<td>engádese unha estrela da Cabeza da Gorgona para que a cabeza pareza "
+"máis\n"
+"esférica</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Aur</td>\n"
+"\t<td>&#703;&Eta;&nu;&#943;&omicron;&chi;&omicron;&sigmaf;</td>\n"
+"\t<td>Auriga</td>\n"
+"\t<td>Auriga</td>\n"
+"\t<td>leva roupa longa; prenda limitada por ombreiros e basta</td>\n"
+"\t<td>o Aur engadido como estrela do pescozo; 1 Aur engadido como estrela da "
+"basta</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Oph</td>\n"
+"\t<td>&#702;&Omicron;&phi;&iota;&omicron;&#973;&chi;&omicron;&sigmaf;</td>\n"
+"\t<td>Portador da serpe</td>\n"
+"\t<td>Ophiuchus</td>\n"
+"\t<td>ten unha serpe na man</td>\n"
+"\t<td>engadeuse unha estrela para formar o pescozo</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Ser</td>\n"
+"\t<td>&#702;&#714;&Omicron;&phi;&iota;&sigmaf;</td>\n"
+"\t<td>Serpe</td>\n"
+"\t<td>Serpens</td>\n"
+"\t<td>dúas partes separadas da serpe (cabeza e cola); o cadrado é a cabeza</"
+"td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Sge</td>\n"
+"\t<td>&#702;&Omicron;&iota;&sigma;&tau;&#972;&sigmaf;</td>\n"
+"\t<td>Frecha</td>\n"
+"\t<td>Sagitta</td>\n"
+"\t<td>Como constelación IAU, &eta; falta Sge </td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Aql</td>\n"
+"\t<td>&#702;&Alpha;&epsilon;&tau;&#972;&sigmaf;</td>\n"
+"\t<td>Aguia</td>\n"
+"\t<td>Aquila</td>\n"
+"\t<td>&tau; Aql como estrela da cabeza, &beta; coma o pescozo neck, Altair "
+"está\n"
+"entre os ombreiros, &gamma; e &mu; son os ombreiros</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Del</td>\n"
+"\t<td>&Delta;&epsilon;&lambda;&phi;&#943;&sigmaf;</td>\n"
+"\t<td>Golfiño</td>\n"
+"\t<td>Delphinus</td>\n"
+"\t<td></td>\n"
+"\t<td>forma refinada</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Equ</td>\n"
+"\t<td>&Pi;&rho;&omicron;&tau;&omicron;&mu;&#942;</td>\n"
+"\t<td>Busto [dun cabalo]</td>\n"
+"\t<td>Equuleus</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Peg</td>\n"
+"\t<td>&#703;&#714;&Iota;&pi;&pi;&omicron;&sigmaf;</td>\n"
+"\t<td>Cabalo</td>\n"
+"\t<td>Pegasus</td>\n"
+"\t<td>con melena e unha á</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>And</td>\n"
+"\t<td>&#702;&Alpha;&nu;&delta;&rho;&omicron;&mu;&#941;&delta;&alpha;</td>\n"
+"\t<td>Andromeda</td>\n"
+"\t<td class='latin'>Andromeda</td>\n"
+"\t<td>vestido e cinturón</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Tri</td>\n"
+"\t<td>&Tau;&rho;&#943;&gamma;&omega;&nu;&omicron;&sigmaf;</td>\n"
+"\t<td>Triángulo</td>\n"
+"\t<td>Triangulum</td>\n"
+"\t<td>catro estrelas &#61664; a estrela central dun lado</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Ari</td>\n"
+"\t<td>&Kappa;&rho;&iota;&#972;&sigmaf;</td>\n"
+"\t<td>Carneiro</td>\n"
+"\t<td>Aries</td>\n"
+"\t<td>cabeza ladeada; só un corno</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Tau</td>\n"
+"\t<td>&Tau;&alpha;&upsilon;&#771;&rho;&omicron;&sigmaf;</td>\n"
+"\t<td>Touro</td>\n"
+"\t<td>Taurus</td>\n"
+"\t<td>medio corpo, só dúas patas visibles; dirección de visión cara ó "
+"observador</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Gem</td>\n"
+"\t<td>&Delta;&#943;&delta;&upsilon;&mu;&omicron;&iota;</td>\n"
+"\t<td>Xemelgos</td>\n"
+"\t<td>Gemini</td>\n"
+"\t<td>unha estrela en común; tocándose entre si coas mans</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cnc</td>\n"
+"\t<td>&Kappa;&alpha;&rho;&kappa;&#943;&nu;&omicron;&sigmaf;</td>\n"
+"\t<td>Cangrexo</td>\n"
+"\t<td>Cancer</td>\n"
+"\t<td>corpo cadrado</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Leo</td>\n"
+"\t<td>&Lambda;&#941;&omega;&nu;</td>\n"
+"\t<td>León</td>\n"
+"\t<td>Leo</td>\n"
+"\t<td>abre a mandíbula</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Vir</td>\n"
+"\t<td>&Pi;&alpha;&rho;&theta;&#941;&nu;&omicron;&sigmaf;</td>\n"
+"\t<td>Virxe</td>\n"
+"\t<td>Virgo</td>\n"
+"\t<td>sen cabeza separada</td>\n"
+"\t<td>engadíronse estrelas máis febles para debuxar as ás</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Lib</td>\n"
+"\t<td>&Chi;&eta;&lambda;&alpha;&#943;</td>\n"
+"\t<td>Poutas [de Escorpión]</td>\n"
+"\t<td>Libra</td>\n"
+"\t<td>Ptolomeo usa sempre o termo &quot;pouta&quot;, nunca &quot;"
+"balanza&quot;</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Sco</td>\n"
+"\t<td>&Sigma;&kappa;&omicron;&rho;&pi;&#943;&omicron;&sigmaf;</td>\n"
+"\t<td>Escorpión</td>\n"
+"\t<td>Scorpius</td>\n"
+"\t<td></td>\n"
+"\t<td>engadíronse brazos arredor da cabeza: &nu; e &rho;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Sgr</td>\n"
+"\t<td>&Tau;&omicron;&xi;&#972;&tau;&eta;&sigmaf;</td>\n"
+"\t<td>Arqueiro</td>\n"
+"\t<td>Sagittarius</td>\n"
+"\t<td>un centauro con arco e unha capa detrás</td>\n"
+"\t<td>incluímos moitas estrelas débiles na nosa figura para que a imaxe "
+"fose\n"
+"clara.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cap</td>\n"
+"\t<td>&Alpha;&#943;&gamma;&#972;&kappa;&epsilon;&rho;&omicron;&sigmaf;</td>\n"
+"\t<td>O que ten un corno de cabra</td>\n"
+"\t<td>Capricornus</td>\n"
+"\t<td>cola de peixe; dúas pernas visibles</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Aqr</td>\n"
+"\t<td>&#703;&Upsilon;&delta;&rho;&omicron;&chi;&#972;&omicron;&sigmaf;</td>\n"
+"\t<td>Augador</td>\n"
+"\t<td>Aquarius</td>\n"
+"\t<td>auga verténdose da xarra</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Psc</td>\n"
+"\t<td>&#702;&Iota;&chi;&theta;&#973;&epsilon;&sigmaf;</td>\n"
+"\t<td>[2] Peixe</td>\n"
+"\t<td>Pisces</td>\n"
+"\t<td></td>\n"
+"\t<td>peixe do norte: 68(h), 67(k), e 65(i) descríbese como cabeza en "
+"Almagest\n"
+"pero tómanse como aleta porque a boca debería estar en g e &tau; Psc. Outro\n"
+"cambio adicional é a aleta de cola, estendida a &rho;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cet</td>\n"
+"\t<td>&Kappa;&eta;&#771;&tau;&omicron;&sigmaf;</td>\n"
+"\t<td>Monstro do mar</td>\n"
+"\t<td>Cetus</td>\n"
+"\t<td></td>\n"
+"\t<td>O corpo non pasa pola estrela &tau;, senón pola estrela &upsilon;</"
+"td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Ori</td>\n"
+"\t<td>&#702;&Omega;&rho;&#943;&omega;&nu;</td>\n"
+"\t<td>Orion</td>\n"
+"\t<td class='latin'>Orion</td>\n"
+"\t<td></td>\n"
+"\t<td>A \"cabeza\" está etiquetada como \"nebulosa\", o que significa que "
+"Ptolomeo\n"
+"interpretou &phi;<sub>1</sub>, &phi;<sub>2</sub>, e &lambda; xunto con\n"
+"estrelas máis débiles entre elas como \"cúmulo\" (ou asociación máis "
+"estendida\n"
+"que a moderna & quot; & lambda; Ori Assoc. & quot;). A cabeza xa non ten\n"
+"conexión directa coas estrelas do ombreiro, senón conexión cunha estrela\n"
+"entre as estrelas dos ombreiros.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Eri</td>\n"
+"\t<td>&Pi;&omicron;&tau;&alpha;&mu;&omicron;&#972;&sigmaf;</td>\n"
+"\t<td>Río [sen nome]</td>\n"
+"\t<td>Eridanus</td>\n"
+"\t<td>Como a constelación da IAU, pero máis curta</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Lep</td>\n"
+"\t<td>&Lambda;&alpha;&gamma;&omega;&#771;&sigmaf;</td>\n"
+"\t<td>Lebre</td>\n"
+"\t<td>Lepus</td>\n"
+"\t<td></td>\n"
+"\t<td>colleu as \"4 estrelas sobre a orella\" como orella</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>CMa</td>\n"
+"\t<td>&Kappa;&#973;&omega;&nu;</td>\n"
+"\t<td>Can</td>\n"
+"\t<td>Canis Major</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>CMi</td>\n"
+"\t<td>&Pi;&rho;&omicron;&kappa;&#973;&omega;&nu;</td>\n"
+"\t<td>O que está antes do Can</td>\n"
+"\t<td>Canis Minor</td>\n"
+"\t<td></td>\n"
+"\t<td>No Almagest, o nome da constelación é &quot;O que está antes do "
+"Can&quot; ou\n"
+"&quot;O anunciador de Sirius&quot; como di Toomer. Porén, a &beta; CMi\n"
+"chámaselle &quot;o pescozo&quot; (descoñécese de quen). Debuxamos un "
+"pequeno\n"
+"can con &gamma; e &epsilon; como cabeza; &alpha;, &beta;, &eta; e HIP36889\n"
+"como corpo; as patas dianteiras con HIP 35509 e HIP 35614; as patas\n"
+"traseiras con &delta;<sub>2</sub> e &delta;<sub>3</sub>; o rabo con HIP\n"
+"37634</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Arg</td>\n"
+"\t<td>&#702;&Alpha;&rho;&gamma;&omega;</td>\n"
+"\t<td>Barco &quot;Argo&quot;</td>\n"
+"\t<td>Argo</td>\n"
+"\t<td>menor cá suma de constelacións IAU Pup+Pyx+Car+Vel</td>\n"
+"\t<td>Hai moitas estrelas non integradas na constelación, para crear unha "
+"forma\n"
+"parecida a un barco; en moitas representacións (incluído o antigo globo de\n"
+"Farnese), só se debuxa a metade dun barco.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Hya</td>\n"
+"\t<td>&#703;&#714;&Upsilon;&delta;&rho;&omicron;&sigmaf;</td>\n"
+"\t<td>Serpe de auga</td>\n"
+"\t<td>Hydra</td>\n"
+"\t<td>como a constelacion IAU</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Crt</td>\n"
+"\t<td>&Kappa;&rho;&alpha;&tau;&#768;&eta;&rho;</td>\n"
+"\t<td>Krater [vaixel]</td>\n"
+"\t<td>Crater</td>\n"
+"\t<td></td>\n"
+"\t<td>un Krater é un recipiente especial para a mestura de viño grego que "
+"semella\n"
+"unha ánfora ou un xarrón: <a\n"
+"href=\"https://en.wikipedia.org/wiki/Krater\">https://en.wikipedia.org/wiki/"
+"Krater</a>\n"
+"Ptolomeo describe só unha estrela no fondo (&alpha; Crt) e dúas manshandles\n"
+"(&eta;, &theta; Crt)</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Crv</td>\n"
+"\t<td>&Kappa;&oacute;&rho;&alpha;&xi;</td>\n"
+"\t<td>Corvo</td>\n"
+"\t<td>Corvus</td>\n"
+"\t<td>como a constelacion IAU</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cen</td>\n"
+"\t<td>&Kappa;&#941;&nu;&tau;&alpha;&upsilon;&rho;&omicron;&sigmaf;</td>\n"
+"\t<td>Centauro</td>\n"
+"\t<td>Centaurus</td>\n"
+"\t<td></td>\n"
+"\t<td>desviación da descrición: HIP 65373 no canto de &omega; Cen (cúmulo) "
+"tomado\n"
+"como estrela das costas. &lsquo;Thyrsus&lsquo; non debuxado (para evitar\n"
+"confusións), engadiuse un brazo cara atrás.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Lup</td>\n"
+"\t<td>&Theta;&eta;&rho;&#943;&omicron;&nu;</td>\n"
+"\t<td>Lobo</td>\n"
+"\t<td>Lupus</td>\n"
+"\t<td></td>\n"
+"\t<td>&beta; descrita como &lsquo;Extremo da pata traseira&lsquo; -> tomouse "
+"como\n"
+"estrela na barriga; &tau;<sub>1</sub> pata traseira &Chi; retirada da\n"
+"cabeza, porque se non rompe a forma; HIP 73493 tomouse como pata dianteira</"
+"td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Ara</td>\n"
+"\t<td>&Theta;&upsilon;&mu;&iota;&alpha;&tau;&#942;&rho;&iota;&omicron;&nu;</"
+"td>\n"
+"\t<td>Altar</td>\n"
+"\t<td>Ara</td>\n"
+"\t<td>como a constelacion IAU</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>CrA</td>\n"
+"\t<td>&Sigma;&tau;&#941;&phi;&alpha;&nu;&omicron;&sigmaf; &Nu;&#972;&tau;"
+"&iota;&omicron;&sigmaf;</td>\n"
+"\t<td>Coroa do Sur</td>\n"
+"\t<td>Corona Australis</td>\n"
+"\t<td>como a constelación IAU; a única incerteza prodúcese con estrelas que "
+"só\n"
+"teñen número BSC en Almagest, porque estas non se identifican claramente en\n"
+"Stellarium</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>PsA</td>\n"
+"\t<td>&Nu;&#972;&tau;&iota;&omicron;&sigmaf; &#702;&Iota;&chi;&theta;&#973;"
+"&sigmaf;</td>\n"
+"\t<td>Peixe do Sur</td>\n"
+"\t<td>Piscis Austrinus</td>\n"
+"\t<td>o peixe está deitado sobre o lombo</td>\n"
+"\t<td>engadimos algunhas estrelas para marcar a cola como tal (&beta; "
+"debería ser\n"
+"a punta da cola pero usámola como o seu nacemento)</td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"### Uso correcto\n"
+"\n"
+"<p>Esta cultura do ceo provén dun ano de investigación dun\n"
+"estudante. Proporcionámola de xeito gratuíto, pero os autores das\n"
+"contribucións certamente merecen ser citados segundo as regras\n"
+"comúns. Grazas!</p>\n"
+"\n"
+"### Grazas\n"
+"\n"
+"<p>Os autores agradecen a Patrick Gleason e Georg Zotti a discusión "
+"interesante\n"
+"e a lectura dende o inglés.</p>"
+
+# Sky culture authors section in markdown format
+msgid ""
+"<p>This sky culture was compiled and added to Stellarium by Alina Schmidt, "
+"Lea Jabschinski, Marie von Seggern and Susanne M. Hoffmann: service@uhura-"
+"uraniae.com</p>\n"
+"<p>Written in English: the authors</p>"
+msgstr ""
+"<p>Esta cultura do ceo foi compilada e engadida a Stellarium por Alina "
+"Schmidt,\n"
+"Lea Jabschinski, Marie von Seggern e Susanne M. Hoffmann:\n"
+"service@uhura-uraniae.com</p>\n"
+"<p>Escrito en Inglés: os autores</p>"
+
+msgid "Bird"
+msgstr "Paxaro"
+
+msgid "Perseus"
+msgstr "Perseus"
+
+msgid "The one next to it on the tail"
+msgstr "O que está despois na cola"
+
+msgid "The one next to that, before the place where the tail joins [the body]"
+msgstr "O seguinte, antes do lugar onde se une a cola [o corpo]"
+
+msgid "The southernmost of the stars in the advance side of the rectangle"
+msgstr "A estrela máis ó sur do lado avanzado do rectángulo"
+
+msgid "The northernmost of [those in] the same side"
+msgstr "A máis ó norte das [que están] do mesmo lado"
+
+msgid ""
+"The star lying on a straight line with the stars in the rear side [of the "
+"rectangle] and south of them"
+msgstr ""
+"A estrela deitada en liña recta coas estrelas na parte traseira [do "
+"rectángulo] e ó sur delas"
+
+msgid "The star on the end of the snout"
+msgstr "A estrela ó final do fociño"
+
+msgid "The more advanced of the stars in the two eyes"
+msgstr "A máis avanzada das estrelas nos dous ollos"
+
+msgid "The one to the rear"
+msgstr "A de atrás"
+
+msgid "The more advanced of the two stars in the forehead"
+msgstr "A máis avanzada das dúas estrelas na testa"
+
+msgid "The star on the tip of the advance ear"
+msgstr "A estrela na punta da orella avanzada"
+
+msgid "The more advanced of the two stars in the neck"
+msgstr "A máis avanzada das dúas estrelas no pescozo"
+
+msgid "The northernmost of the two stars in the chest"
+msgstr "A estrela máis ó norte das dúas estrelas do peito"
+
+msgid "The southernmost of them"
+msgstr "A máis meridional delas"
+
+msgid "The star on the left knee"
+msgstr "A estrela do xeonllo esquerdo"
+
+msgid "The star above the right knee"
+msgstr "A estrela por riba do xeonllo dereito"
+
+msgid "The star below the right knee"
+msgstr "A estrela por debaixo do xeonllo dereito"
+
+msgid "The one on the place where the tail joins [the body]"
+msgstr "O do lugar onde se une a cola [ó corpo]"
+
+msgid "The remaining one, on the left hind thigh"
+msgstr "A que falta, na coxa traseira esquerda"
+
+msgid "The more advanced of the [two stars] in the left hind paw"
+msgstr "A máis avanzada das [dúas estrelas] da pata traseira esquerda"
+
+msgid "The one to the rear of it"
+msgstr "A da parte traseira"
+
+msgid "The star on the left knee-bend"
+msgstr "A estrela no xeonllo esquerdo dobrado"
+
+msgid "The northernmost of the [two stars] in the right hind paw"
+msgstr "A máis ó norte das [dúas estrelas] da pata traseira dereita"
+
+msgid ""
+"The first of the three stars on the tail next to the place where it joins "
+"[the body]"
+msgstr ""
+"A primeira das tres estrelas da cola xunto ao lugar onde se xunta [co corpo]"
+
+msgid "The middle one"
+msgstr "A do medio"
+
+msgid "The third, on the end of the tail"
+msgstr "A terceira, no extremo da cola"
+
+msgid "The star under the tail, at some distance towards the south"
+msgstr "A estrela baixo o rabo, a certa distancia cara ó sur"
+
+msgid ""
+"The southernmost of the [two] stars between the front legs of Ursa [Major] "
+"and the head of Leo"
+msgstr ""
+"A máis ó sur das [dúas] estrelas entre as patas dianteiras de Osa [Maior] e "
+"a cabeza de León"
+
+msgid "The one north of it"
+msgstr "A do norte"
+
+msgid "The rearmost of the remaining three faint stars"
+msgstr "A máis traseira das tres estrelas débiles restantes"
+
+msgid "The one in advance of this"
+msgstr "A de diante desta"
+
+msgid "The one in advance again of the latter"
+msgstr "A de diante desta última"
+
+msgid "The star between the front legs [of Ursa Major] and Gemini"
+msgstr "A estrela entre as patas dianteiras [de Osa Maior] e Xemelgos"
+
+msgid "The star on the tongue"
+msgstr "A estrela da lingua"
+
+msgid "The star in the mouth"
+msgstr "A estrela da boca"
+
+msgid "The star above the eye"
+msgstr "A estrela sobre o ollo"
+
+msgid "The star above the head"
+msgstr "A estrela sobre a cabeza"
+
+msgid "The southernmost of these"
+msgstr "A máis ó sur destas"
+
+msgid "The more northerly star of the advance side"
+msgstr "A estrela norte do lado avanzado"
+
+msgid "The northern star of the rear side [of the quadrilateral]"
+msgstr "A estrela norte da parte traseira [do cadrado]"
+
+msgid "The southern star of the rear side"
+msgstr "A estrela sur da parte traseira"
+
+msgid "The southern star of [those forming] the triangle in the next bend"
+msgstr "A estrela sur de [as que forman] o triángulo na seguinte curva"
+
+msgid "The more advanced of the other two stars of the triangle"
+msgstr "A máis avanzada cás outras dúas estrelas do triángulo"
+
+msgid "The southernmost of the other two forming the triangle"
+msgstr "A estrela máis ó sur cás outras dúas que forman o triángulo"
+
+msgid "The northernmost of the other two"
+msgstr "A que está máis ó norte cás outras dúas"
+
+msgid "The rearmost of the two small stars to the west of the triangle"
+msgstr "A máis traseira das dúas estrelas pequenas ó oeste do triángulo"
+
+msgid "The one in advance"
+msgstr "A máis avanzada"
+
+msgid "The middle one of the three"
+msgstr "A do medio das tres"
+
+msgid "The northernmost of them"
+msgstr "A máis ó norte delas"
+
+msgid "The star to the west of these, in the bend by the tail"
+msgstr "A estrela ó oeste desta, na curva da cola"
+
+msgid "The rear star of these [two]"
+msgstr "A estrela traseira destas [dúas]"
+
+msgid "The star close by these, by the tail"
+msgstr "A estrela preto destas, pola cola"
+
+msgid "The remaining star, on the tip of the tail"
+msgstr "A estrela restante, na punta da cola"
+
+msgid "The star on the right leg"
+msgstr "A estrela da perna dereita"
+
+msgid "The one on the left leg"
+msgstr "A estrela da perna esquerda"
+
+msgid "The star under the belt on the right side"
+msgstr "A estrela baixo o cinto do lado dereito"
+
+msgid "The star over the right shoulder, which touches it"
+msgstr "A estrela sobre o ombreiro dereito, que o toca"
+
+msgid "The star over the right elbow, which touches it"
+msgstr "A estrela sobre o cóbado dereito, que o toca"
+
+msgid "The star in the chest"
+msgstr "A estrela do peito"
+
+msgid "The star on the left arm"
+msgstr "A estrela do brazo dereito"
+
+msgid "The northernmost of the three"
+msgstr "A máis ó norte das tres"
+
+msgid "The most advanced of the three in the left arm"
+msgstr "A máis avanzada das tres no brazo esquerdo"
+
+msgid "The middle and southernmost of the three"
+msgstr "A do medio e a máis ó sur das tres"
+
+msgid "The rearmost of the three"
+msgstr "A máis traseira das tres"
+
+msgid "The star on the left elbow"
+msgstr "A estrela do cóbado esquerdo"
+
+msgid "The star on the left shoulder"
+msgstr "A estrela do ombreiro esquerdo"
+
+msgid "The star on the head"
+msgstr "A estrela da cabeza"
+
+msgid "The star on the right shoulder"
+msgstr "A estrela do ombreiro dereito"
+
+msgid "The one to the north of these, on the staff"
+msgstr "A do norte destas, no conxunto"
+
+msgid "The northernmost of the two stars below the shoulder, in the club"
+msgstr "A máis ó norte das dúas estrelas por debaixo do ombreiro, no caxato"
+
+msgid "The star on the end of the right arm"
+msgstr "A estrena no extremo do brazo dereito"
+
+msgid "The more advanced of the two stars in the wrist"
+msgstr "A máis avanzada das dúas estrelas no pulso"
+
+msgid "The rearmost of them"
+msgstr "A máis traseira delas"
+
+msgid "The star on the end of the handle of the staff"
+msgstr "A estrela no extremo do mango do caxato"
+
+msgid "The rearmost of the two stars in the belt"
+msgstr "A máis traseira das tres estrelas do cinturón"
+
+msgid "The more advanced of them"
+msgstr "A máis avanzada delas"
+
+msgid "The star on the right heel"
+msgstr "A estrela do talón dereito"
+
+msgid "The bright star in the crown"
+msgstr "A estrela brillante da coroa"
+
+msgid "The one north again of this"
+msgstr "A do norte desta"
+
+msgid "The star on the right shoulder by the armpit"
+msgstr "A estrela do ombreiro dereito pola axila"
+
+msgid "The star on the right upper arm"
+msgstr "A estrela da parte superior do brazo dereito"
+
+msgid "The star on the right elbow"
+msgstr "A estrela do cóbado dereito"
+
+msgid "The star on the left upper arm"
+msgstr "A estrela na parte superior esquerda do brazo"
+
+msgid "The star in the right side"
+msgstr "A estrela do lado dereito"
+
+msgid "The star in the left side"
+msgstr "A estrela do lado esquerdo"
+
+msgid "The one north of the latter, on the left buttock"
+msgstr "A do norte desta última, na nádega esquerda"
+
+msgid "The one on the place where the thigh joins the same [buttock]"
+msgstr "A do lugar onde a coxa se xunta coa mesma [nádega]"
+
+msgid "The one to the rear of this"
+msgstr "A de atrás"
+
+msgid "The one yet further to the rear of this"
+msgstr "A que está máis atrás da parte traseira desta"
+
+msgid "The star on the place where the right thigh joins [the buttock]"
+msgstr "A estrela no lugar onde se xunta a coxa dereita [coa nádega]"
+
+msgid "The star north of it in the same thigh"
+msgstr "A estrela ó norte dela na mesma coxa"
+
+msgid "The star on the right knee"
+msgstr "A estrela do xeonllo dereito"
+
+msgid "The star in the right lower leg"
+msgstr "A estrela na perna inferior dereita"
+
+msgid "The star south of the one in the right upper arm"
+msgstr "A estrela ó sur da que está no brazo dereito"
+
+msgid ""
+"The one to the rear of these, in between the points where the horns [of the "
+"lyre] are attached"
+msgstr ""
+"A da parte traseira destas, entre os puntos onde están unidos os cornos [da "
+"lira]"
+
+msgid "The star on the beak"
+msgstr "A estrela do peteiro"
+
+msgid "The one to the rear of this, on the head"
+msgstr "A de detrás desta, na cabeza"
+
+msgid "The star in the middle of the neck"
+msgstr "A estrela do medio do pescozo"
+
+msgid "The star in the breast"
+msgstr "A estrela do peito"
+
+msgid "The bright star in the tail"
+msgstr "A estrela brillante da cola"
+
+msgid "The star in the bend of the right wing"
+msgstr "A estrela na curva da á dereita"
+
+msgid "The northernmost of them, on the tip of the wing-feathers"
+msgstr "A máis ó norte, na punta das plumas das ás"
+
+msgid "The star on the bend of the left wing"
+msgstr "A estrela na curva da á esquerda"
+
+msgid "The star north of this, in the middle of the same wing"
+msgstr "A estrela ó norte desta, no medio da mesma á "
+
+msgid "The star in the tip of the feathers of the left wing"
+msgstr "A estrela na punta das plumas da á esquerda"
+
+msgid "The star on the left leg"
+msgstr "A estrela da perna esquerda"
+
+msgid "The one north of that, on the belt"
+msgstr "A do norte desta, no cinturón"
+
+msgid "The star in the knees"
+msgstr "A estrela do xeonllo"
+
+msgid "The star on the lower leg"
+msgstr "A estrela na perna inferior"
+
+msgid "The star on the end of the leg"
+msgstr "A estrela no final da perna"
+
+msgid "The star below the left elbow"
+msgstr "A estrela debaixo do cóbado esquerdo"
+
+msgid "The star on the right forearm"
+msgstr "A estrela do antebrazo dereito"
+
+msgid "The star on the place between the shoulders"
+msgstr "A estrela entre os ombros"
+
+msgid "The bright star in the right side"
+msgstr "A estrela brillante do lado dereito"
+
+msgid "The one in advance of the bright star"
+msgstr "A que está por diante da estrela brillante"
+
+msgid "The remaining one, yet again in advance of this"
+msgstr "A restante, outra vez antes dela"
+
+msgid "The star in the right knee"
+msgstr "A estrela do xeonllo dereito"
+
+msgid "The one in advance of this, over the knee"
+msgstr "A que está diante desta, sobre o xeonllo"
+
+msgid "The rearmost of them, just over the bend in the knee"
+msgstr "A máis traseira delas, xusto sobre a sofraxe"
+
+msgid "The star on the right calf"
+msgstr "A estrela do papo da perna"
+
+msgid "The star on the right ankle"
+msgstr "A estrela no nocello dereito"
+
+msgid "The star in the left thigh"
+msgstr "A estrela na coxa esquerda"
+
+msgid "The star on the left lower leg"
+msgstr "A estrela da perna inferior esquerda"
+
+msgid "The star on the left heel"
+msgstr "A estrela do talón esquerdo"
+
+msgid "The one to the rear of this, on the left foot"
+msgstr "A da parte traseira deste, no pé esquerdo"
+
+msgid "The star to the east of the one on the left knee"
+msgstr "A estrela ó leste da do xeonllo esquerdo"
+
+msgid "The star to the north of the one in the right knee"
+msgstr "A estrela ó norte da do xeonllo dereito"
+
+msgid "The star in advance of those in the Gorgon-head"
+msgstr "A estrela por diante das da cabeza da Gorgona"
+
+msgid "The southernmost of the two on the head"
+msgstr "A que está máis ó sur das dúas da cabeza"
+
+msgid "The northernmost [of these], over the head"
+msgstr "A que está máis o norte [delas], sobre a cabeza"
+
+msgid "The star on the right wrist"
+msgstr "A estrela no pulso dereito"
+
+msgid "The more advanced of these"
+msgstr "A máis avanzada delas"
+
+msgid "The star on the left ankle"
+msgstr "A estrela no nocello esquerdo"
+
+msgid "The one to the north of the latter, in the lower hem [of the garment]"
+msgstr "A do norte desta última, no bordo inferior [da prenda]"
+
+msgid "The one north again of this, on the buttock"
+msgstr "A do norte desta, no cu"
+
+msgid "The star on the right lower leg"
+msgstr "A estrela da perna inferior dereita"
+
+msgid "The one to the rear again of that"
+msgstr "A que está detrás desta"
+
+msgid "The star to the rear of these, which touches the heel"
+msgstr "A estrela na parte traseira destas, que toca o talón"
+
+msgid "The star in the left knee"
+msgstr "A estrela no xeonllo esquerdo"
+
+msgid "The middle one of these"
+msgstr "A do medio destas"
+
+msgid "The southernmost of the three"
+msgstr "A que está máis ó sur das tres"
+
+msgid "The star touching the hollow of the left foot"
+msgstr "A estrela que toca a cavidade do pé esquerdo"
+
+msgid "Stars on the quadrilateral in the head:  the one on the end of the jaw"
+msgstr "Estrelas no cuadrilátero da cabeza: a do extremo da mandíbula"
+
+msgid "The one touching the nostrils"
+msgstr "A que toca no nariz"
+
+msgid "The one in the temple"
+msgstr "A do templo"
+
+msgid "The one where the neck joins [the head]"
+msgstr "Aquela onde se une o pescozo [coa cabeza]"
+
+msgid "The one in the middle of the quadrilateral, in the mouth"
+msgstr "A do medio do cadrado, na boca"
+
+msgid "The star outside the head, to the north of it"
+msgstr "A estrela fóra da cabeza, ó norte dela"
+
+msgid "The one after the first bend in the neck"
+msgstr "A posterior á primeira curva do pescozo"
+
+msgid ""
+"The star after the next bend, which is in advance of the left hand of "
+"Ophiuchus"
+msgstr ""
+"A estrela despois da seguinte curva, que está por diante da man esquerda de "
+"Serpentario"
+
+msgid "The one after the back of the right thigh of Ophiuchus"
+msgstr "A que está detrás da parte traseira da coxa dereita de Serpentario"
+
+msgid "The one after the right hand [of Ophiuchus], on the bend in the tail"
+msgstr "A que está despois da man dereita [de Serpentario], na curva do rabo"
+
+msgid "The one to the rear of this, likewise on the tail"
+msgstr "A da parte traseira desta, tamén na cola"
+
+msgid "The star on the tip of the tail"
+msgstr "A estrela no extremo do rabo"
+
+msgid "The lone star on the arrow-head"
+msgstr "A estrela solitaria na punta da frecha"
+
+msgid "The rearmost of the three stars in the shaft"
+msgstr "A máis traseira das tres estrelas do eixe"
+
+msgid "The most advanced of the three"
+msgstr "A máis avanzada das tres"
+
+msgid "The star on the end of the notch"
+msgstr "A estrela ó final da entalla"
+
+msgid "The star in the middle of the head"
+msgstr "A estrela no medio da cabeza"
+
+msgid "The one in advance of this, on the neck"
+msgstr "A de diante desta, no pescozo"
+
+msgid "The one close to this towards the north"
+msgstr "A próxima a esta cara ó norte"
+
+msgid "The more advanced of the two in the right shoulder"
+msgstr "A máis avanzada das dúas no ombreiro dereito"
+
+msgid "The one to the south of this"
+msgstr "A do sur desta"
+
+msgid "The one to the south again of the latter"
+msgstr "A que está ó sur desta última"
+
+msgid "The star most in advance of all"
+msgstr "A estrela máis avanzada de todas"
+
+msgid "The northernmost one on the advance side"
+msgstr "A máis ó norte no lado adiantado"
+
+msgid "The southernmost one on the rear side of the rhombus"
+msgstr "A máis ó sur na parte traseira do rombo"
+
+msgid "The northernmost one on the rear side"
+msgstr "A máis ó norte na parte traseira"
+
+msgid "The remaining, rearmost one"
+msgstr "A restante, a posterior"
+
+msgid "The more advanced of the two stars in the mouth"
+msgstr "A máis avanzada das dúas estrelas da boca"
+
+msgid ""
+"The star on the navel, which is [applied in] common to the head of Andromeda"
+msgstr "A estrela no embigo, que se aplica [comunmente] á cabeza de Andrómeda"
+
+msgid "The star on the rump and the wing-tip"
+msgstr "A estrela na cola e a punta das ás"
+
+msgid "The star on the right shoulder and the place where the leg joins [it]"
+msgstr "A estrela do ombreiro dereito e o lugar onde a perna se une [a el]"
+
+msgid ""
+"The star on the place between the shoulders and the shoulder-part of the wing"
+msgstr "A estrela entre os ombros e a parte do ombreiro da á"
+
+msgid "The northernmost of the two stars in the body under the wing"
+msgstr "A máis ó norte das dúas estrelas do corpo baixo a á"
+
+msgid "The northernmost of the two stars in the right knee"
+msgstr "A máis ó norte das dúas estrelas do xeonllo dereito"
+
+msgid "The more advanced of the two stars close together in the chest"
+msgstr "A máis avanzada das dúas estrelas xuntas no peito"
+
+msgid "The southernmost of the two stars on the mane"
+msgstr "A máis ó sur das dúas estrelas da melena"
+
+msgid "The northernmost of the two stars close together on the head"
+msgstr "A máis ó norte das dúas estrelas xuntiñas na cabeza"
+
+msgid "The star in the muzzle"
+msgstr "A estrela no fociño"
+
+msgid "The star in the right hock"
+msgstr "A estrela no xarrete dereito"
+
+msgid "The star in the left hock"
+msgstr "A estrela no xarrete esquerdo"
+
+msgid "The star in the place between the shoulders"
+msgstr "A estrela entre os ombreiros"
+
+msgid "The star in the right shoulder"
+msgstr "A estrela no ombreiro dereito"
+
+msgid "The star in the left shoulder"
+msgstr "A estrela no ombreiro esquerdo"
+
+msgid "The star in the right foot"
+msgstr "A estrela no pé dereito"
+
+msgid "The one south of the latter"
+msgstr "A do sur desta última"
+
+msgid "The star in advance of the three in the right hand, outside [of it]"
+msgstr "A estrela antes das tres da man dereita, fóra [dela]"
+
+msgid "The star in the apex of the triangle"
+msgstr "A estrela no vértice do triángulo"
+
+msgid "The star on the neck"
+msgstr "A estrela do pescozo"
+
+msgid "The star on the rump"
+msgstr "A estrela no lombo"
+
+msgid "The star in the back of the thigh"
+msgstr "A estrela na parte traseira da coxa"
+
+msgid "The star on the hind hoof"
+msgstr "A estrela no pezuño traseiro"
+
+msgid ""
+"The star over the head, which Hipparchus [calls] 'the one on the muzzle'"
+msgstr "A estrela sobre a cabeza, que Hiparco [chama] \"a do fociño\""
+
+msgid "The middle one of these three"
+msgstr "A do medio destas tres"
+
+msgid "The one close by this"
+msgstr "A próxima a esta"
+
+msgid "The one close again to the latter"
+msgstr "De novo a próxima a esta última"
+
+msgid "The star on the right hock"
+msgstr "A estrela do xarrete dereito"
+
+msgid "The remaining one, on the northern eye"
+msgstr "A que falta, no ollo norte"
+
+msgid ""
+"The star on the place where the southern horn and the ear join [the head]"
+msgstr "A estrela do lugar onde se unen o corno sur e a orella [na cabeza]"
+
+msgid "The northernmost of these"
+msgstr "A máis ó norte delas"
+
+msgid "The star on the tip of the southern horn"
+msgstr "A esrela no extremo do corno sur"
+
+msgid "The star on the place where the northern horn joins [the head]"
+msgstr "A estrela situada onde o corno norte se une [á cabeza]"
+
+msgid "The northernmost star on the advance side"
+msgstr "A estrela máis ó norte do lado avanzado"
+
+msgid "The southernmost star on the rear side"
+msgstr "A estrela máis ó sur do lado traseiro"
+
+msgid "The Pleiades:  the northern end of the advance side"
+msgstr "As Pleiades: o extremo norte do lado adiantado"
+
+msgid "The southern end of the advance side [of the Pleiades]"
+msgstr "O extremo sur do lado adiantado [das Pleiades]"
+
+msgid "The rearmost and narrowest end of the Pleiades"
+msgstr "O extremo máis traseiro e estreito das Pléiades"
+
+msgid "The small star outside the Pleiades, towards the north"
+msgstr "A pequena estrela fóra das Pléiades, cara ó norte"
+
+msgid "The one to the rear again of the latter"
+msgstr "O que está detrás de novo deste último"
+
+msgid "The southernmost of these two"
+msgstr "A máis ó sur das dúas"
+
+msgid "The star on the head of the advance twin"
+msgstr "A estrela na cabeza do xemelgo avanzado"
+
+msgid "The reddish star on the head of the rear twin"
+msgstr "A estrela avermellada na cabeza do xemelgo traseiro"
+
+msgid "The star in the left forearm of the advance twin"
+msgstr "A estrela do antebrazo esquerdo do xemelgo avanzado"
+
+msgid "The star in the same [left] upper arm"
+msgstr "A estrela no mesmo brazo [esquerdo]"
+
+msgid ""
+"The one to the rear of this, on the right shoulder of the same [advance] twin"
+msgstr ""
+"A da parte traseira desta, no ombreiro dereito do mesmo xemelgo [avanzado]"
+
+msgid "The star on the rear shoulder of the rear twin"
+msgstr "A estrela no ombreiro traseiro do xemelgo traseiro"
+
+msgid "The star on the right side of the advance twin"
+msgstr "A estrela no lado dereito do xemelgo avanzado"
+
+msgid "The star on the left side of the rear twin"
+msgstr "A estrela do lado esquerdo do xemelgo traseiro"
+
+msgid "The star on the left knee of the advance twin"
+msgstr "A estrela do xeonllo esquerdo do xemelgo avanzado"
+
+msgid "The star over the bend in the right knee of the same [rear] twin"
+msgstr "A estrela sobre a curva do xeonllo dereito do mesmo xemelgo [traseiro]"
+
+msgid "The one to the rear of this on the same foot"
+msgstr "A da parte traseira desta no mesmo pé"
+
+msgid "The star on the right foot of the advance twin"
+msgstr "A estrela do pé dereito do xemelgo avanzado"
+
+msgid "The star on the left foot of the rear twin"
+msgstr "A estrela do pé esquerdo do xemelgo traseiro"
+
+msgid "The star on the right foot of the rear twin"
+msgstr "A estrela do pé dereito do xemelgo traseiro"
+
+msgid "The bright star in advance of the advance knee"
+msgstr "A estrela brillante antes do xeonllo avanzado"
+
+msgid "The star in advance of the left knee of the rear twin"
+msgstr "A estrela por diante do xeonllo esquerdo do xemelgo traseiro"
+
+msgid ""
+"The northernmost of the three stars in a straight line to the rear of the "
+"right arm of the rear twin"
+msgstr ""
+"A máis norte das tres estrelas en liña recta na parte traseira do brazo "
+"dereito do xemelgo traseiro"
+
+msgid "The southernmost of them, near the forearm of the [right] arm"
+msgstr "A máis ó sur delas, preto do antebrazo do brazo [dereito]"
+
+msgid "The southernmost of the two stars in advance"
+msgstr "A máis ó sur das dúas estrelas avanzadas"
+
+msgid "The star on the southern claw"
+msgstr "A estrela da pouta sur"
+
+msgid "The star on the northern claw"
+msgstr "A estrela da pouta norte"
+
+msgid "The star on the northern back leg"
+msgstr "A estrela na perna traseira norte"
+
+msgid "The star on the southern back leg"
+msgstr "A estrela na perna traseira sur"
+
+msgid "The star over the joint in the southern claw"
+msgstr "A estrela sobre a articulación na pouta sur"
+
+msgid "The star to the rear of the tip of the southern claw"
+msgstr "A estrela na parte traseira da punta da pouta sur"
+
+msgid ""
+"The more advanced of the two stars over the nebula and to the rear of it"
+msgstr "A máis avanzada das dúas estrelas sobre a nebulosa e cara atrás"
+
+msgid "The rearmost of these [two]"
+msgstr "A máis traseira delas [dúas]"
+
+msgid "The star on the tip of the nostrils"
+msgstr "A estrela na punta das fosas nasais"
+
+msgid "The star in the gaping jaws"
+msgstr "A estrela nas fauces abertas"
+
+msgid "The northernmost of the two stars in the head"
+msgstr "A máis ó norte das dúas estrelas na cabeza"
+
+msgid "The one close to this, the middle one of the three"
+msgstr "A próxima a esta, a do medio das tres"
+
+msgid "The one south of this, about on the chest"
+msgstr "A do sur desta, sobre o peito"
+
+msgid "The star on the right front claw-clutch"
+msgstr "A estrela da pouta dianteira dereita"
+
+msgid "The star on the left front claw-clutch"
+msgstr "A estrela da pouta dianteira esquerda"
+
+msgid "The star on the left [front] knee"
+msgstr "A estrela do xeonllo esquerdo [dianteiro]"
+
+msgid "The star on the left armpit"
+msgstr "A estrela da axila esquerda"
+
+msgid "The most advanced of the three stars in the belly"
+msgstr "A máis avanzada das tres estrelas do ventre"
+
+msgid "The southernmost of these [two]"
+msgstr "A máis ó sur delas [dúas]"
+
+msgid "The more advanced of the two stars on the rump"
+msgstr "A máis avanzada das dúas estrelas do lombo"
+
+msgid "The star in the hind thighs"
+msgstr "A estrela nas coxas traseiras"
+
+msgid "The star in the hind leg-bends"
+msgstr "A estrela na perna traseira dobrada"
+
+msgid "The one south of this, about in the lower legs"
+msgstr "A do sur desta, sobre as pernas inferiores"
+
+msgid "The star on the hind claw-clutches"
+msgstr "A estrela das poutas traseiras"
+
+msgid "The star on the end of the tail"
+msgstr "A estrela do final da cola"
+
+msgid ""
+"The northernmost part of the nebulous mass between the edges of Leo and Ursa "
+"[Major], called Coma [Berenices]"
+msgstr ""
+"A parte máis ó norte da masa nebulosa entre os bordos de León e Osa [Maior], "
+"chamada Cabeleira [de Berenice]"
+
+msgid "The most advanced of the southern outrunners of Coma"
+msgstr "A máis avanzada das exteriores do sur de Coma"
+
+msgid "The rearmost of them, shaped like an ivy leaf"
+msgstr "A máis traseira delas, en forma de folla de hedra"
+
+msgid "The star on the tip of the southern, left wing"
+msgstr "A estrela na punta da á esquerda sur"
+
+msgid "The one to the rear again of this"
+msgstr "A que está detrás desta"
+
+msgid "The star in the right side under the girdle"
+msgstr "A estrela no lado dereito baixo o cinturón"
+
+msgid "The northernmost of these, called 'Vindemiatrix'"
+msgstr "A máis ó norte delas, chamada 'Vindemiatrix'"
+
+msgid "The star under the apron just about over the right buttock"
+msgstr "A estrela baixo o mandil case sobre a nádega dereita"
+
+msgid "The southern star on the advance side"
+msgstr "A estrela ó sur no lado avanzado"
+
+msgid "The star in the back of the right thigh"
+msgstr "A estrela na parte traseira da coxa dereita"
+
+msgid "The star on the left, southern foot"
+msgstr "A estrela da esquerda, no pé do sur"
+
+msgid "The star on the right, northern foot"
+msgstr "A estrela da dereita, no pé do norte"
+
+msgid ""
+"The most advanced of the three in a straight line under the left forearm"
+msgstr "A máis avanzada das tres en liña recta baixo o antebrazo esquerdo"
+
+msgid "The middle one of these, which is a double star"
+msgstr "A do medio destas, que é unha estrela dobre"
+
+msgid "The star in the middle of the southern claw"
+msgstr "A estrela no medio da pouta sur"
+
+msgid "The one in advance of this on the same claw"
+msgstr "A avanzada desta na mesma pouta"
+
+msgid "The star in the middle of the northern claw"
+msgstr "A estrela no medio da pouta do norte"
+
+msgid "The one to the rear of this on the same claw"
+msgstr "A que está detrás desta na mesma pouta"
+
+msgid "The star south again of this, on one of the legs"
+msgstr "A estrela ó sur desta, nunha das patas"
+
+msgid "The rearmost of these"
+msgstr "A máis traseira destas"
+
+msgid "The southern star of the double-star"
+msgstr "A estrela do sur da estrela dobre"
+
+msgid "The nebulous star to the rear of the sting"
+msgstr "A estrela nebulosa na parte traseira do aguillón"
+
+msgid "The star on the point of the arrow"
+msgstr "A estrela na punta da frecha"
+
+msgid "The star in the southern portion of the bow"
+msgstr "A estrela na porción sur do arco"
+
+msgid "The northernmost of these, on the tip of the bow"
+msgstr "A máis ó norte delas, na punta do arco"
+
+msgid "The star on the eye, which is nebulous and double"
+msgstr "A estrela no ollo, que é nebulosa e dobre"
+
+msgid "The faint star to the rear of these three"
+msgstr "A feble estrela da parte traseira destas tres"
+
+msgid "The other one, under the armpit"
+msgstr "A outra, baixo o sobaco"
+
+msgid "The star on the front left hock"
+msgstr "A estrela no xarrete esquerdo frontal"
+
+msgid "The one on the knee of the same leg"
+msgstr "A do xeonllo da mesma perna"
+
+msgid "The star on the front right hock"
+msgstr "A estrela n no xarrete dereito frontal"
+
+msgid "The star on the left thigh"
+msgstr "A estrela da coxa esquerda"
+
+msgid "The star on the right hind lower leg"
+msgstr "A estrela da parte inferior traseira dereita"
+
+msgid "The rear star on the northern side"
+msgstr "A estrela traseira do lado do norte"
+
+msgid "The advance star on the southern side"
+msgstr "A estrela avanzada do lado sur"
+
+msgid "The rear star on the southern side"
+msgstr "A estrela traseira no lado sur"
+
+msgid "The star on the tip of the advance horn"
+msgstr "A estrela na punta do corno avanzado"
+
+msgid "The more advanced of the other two"
+msgstr "A máis avanzada das outras dúas"
+
+msgid "The star under the right knee"
+msgstr "A estrela baixo o xeonllo dereito"
+
+msgid "The star on the left, doubled-up knee"
+msgstr "A estrela da esquerda, na curva do xeonllo"
+
+msgid "The northernmost of them, on the end of the tail-fin"
+msgstr "A máis ó norte, no extremo da aleta caudal"
+
+msgid "The star on the head of Aquarius"
+msgstr "A estrela na cabeza de Augadeiro"
+
+msgid "The fainter one, under it"
+msgstr "A máis feble, debaixo dela"
+
+msgid "The one under that, in the back, approximately under the armpit"
+msgstr ""
+"A que está debaixo dela na parte traseira, aproximadamente debaixo da axila"
+
+msgid "The rearmost of the three stars in the left arm, on the coat"
+msgstr "A máis traseira das tres estrelas do brazo esquerdo, no abrigo"
+
+msgid "The star in the right forearm"
+msgstr "A estrela no antebrazo dereito"
+
+msgid "The star on the right buttock"
+msgstr "A estrela na nádega dereita"
+
+msgid "The northernmost of them, under the knee-bend"
+msgstr "A máis ó norte, baixo a curva do xeonllo"
+
+msgid "The star in the back of the left thigh"
+msgstr "A estrela na parte traseira da coxa esquerda"
+
+msgid "The northernmost of these, under the knee"
+msgstr "A máis ó norte, baixo o xeonllo"
+
+msgid ""
+"The stars on the flow of water:  the most advanced [in the section] "
+"beginning at the hand"
+msgstr ""
+"As estrelas no fluxo de auga: as máis avanzadas [na sección] comezando pola "
+"man"
+
+msgid "The one next to the latter towards the south"
+msgstr "A que está xunto á última cara ó sur"
+
+msgid "The one in the bend to the south of this"
+msgstr "A que está na curva ó sur desta"
+
+msgid "The southernmost of the two"
+msgstr "A que está máis ó sur das dúas"
+
+msgid "The lone star at some distance from these [two] towards the south"
+msgstr "A estrela solitaria a certa distancia destas [dúas] cara ó sur"
+
+msgid "The star at the end of the water and on the mouth of Piscis Austrinus"
+msgstr "A estrela ó final da auga e na boca de Piscis Austrinus"
+
+msgid "The star in the mouth of the advance fish"
+msgstr "A estrela na boca do peixe avanzado"
+
+msgid "The star in the tail of the same [advance] fish"
+msgstr "A estrela na cola do mesmo peixe [avanzado]"
+
+msgid "The star in the rear spine, near the tail"
+msgstr "A estrela na columna vertebral traseira, preto da cola"
+
+msgid "The more advanced star on the southern side"
+msgstr "A estrela máis avanzada do lado sur"
+
+msgid "The rearmost one on the southern side"
+msgstr "A máis traseira do lado sur"
+
+msgid "The middle one, in the middle of the mouth"
+msgstr "A do medio, no medio da boca"
+
+msgid "The star on the eyebrow and the eye"
+msgstr "A estrela na cella e no ollo"
+
+msgid "The one to the north of this, about on the hair"
+msgstr "A do norte desta, sobre o pelo"
+
+msgid "The one in advance of these, about on the mane"
+msgstr "A que está por diante destas, sobre a melena"
+
+msgid "The southernmost one on the advance side"
+msgstr "A máis ó sur do lado adiantado"
+
+msgid "The southernmost one on the rear side"
+msgstr "A máis ó sur na parte traseira"
+
+msgid "The one on the end of the southern tail-fin"
+msgstr "O do extremo da aleta caudal sur"
+
+msgid "The bright, reddish star on the right shoulder"
+msgstr "A estrela brillante e avermellada no ombreiro dereito"
+
+msgid "The one under this to the rear"
+msgstr "A que está debaixo desta cara atrás"
+
+msgid "The rear one on the northern side"
+msgstr "A traseira no lado norte"
+
+msgid "The advance one on the northern side"
+msgstr "A adiantada polo lado norte"
+
+msgid "The one in advance again of this"
+msgstr "A que se adianta de novo"
+
+msgid "The last and southernmost of those in the pelt"
+msgstr "A última e a máis ó sur das que están na pel"
+
+msgid "The star near the handle of the dagger"
+msgstr "A estrela preto do mango do puñal"
+
+msgid ""
+"The bright star in the left foot, which is [applied in] common to the water "
+"[of Eridanus]"
+msgstr ""
+"A estrela brillante do pé esquerdo, que se aplica [comunmente] á auga [de "
+"Eridano]"
+
+msgid "The star to the north of it in the lower leg, over the ankle-joint"
+msgstr ""
+"A estrela ó norte dela na parte inferior da perna, sobre a articulación do "
+"nocello"
+
+msgid "The star under the left heel, outside"
+msgstr "A estrela baixo o talón esquerdo, na parte de fóra"
+
+msgid "The star under the right, rear knee"
+msgstr "A estrela debaixo do xeonllo traseiro"
+
+msgid "The one north of this, in the curve near the shin of Orion"
+msgstr "A que está ó norte desta, na curva preto da canela de Orión"
+
+msgid "The rearmost of the four stars in the next interval"
+msgstr "A máis traseira das catro estrelas no seguinte intervalo"
+
+msgid "The southernmost on the advance side"
+msgstr "A máis ó sur do lado avanzado"
+
+msgid "The more advanced one on the rear side"
+msgstr "A máis adiantada do lado traseiro"
+
+msgid "The northern star on the rear side"
+msgstr "A estrela do norte no lado traseiro"
+
+msgid "The southern star on the rear side"
+msgstr "A estrela do sur no lado traseiro"
+
+msgid "The star on the left front foot"
+msgstr "A estrela do pé dianteiro esquerdo"
+
+msgid "The star in the middle of the body"
+msgstr "A estrela no medio do corpo"
+
+msgid "The star under the belly"
+msgstr "A estrela baixo o abdome"
+
+msgid "The star on the ears"
+msgstr "A estrela nas orellas"
+
+msgid "The star on the chest"
+msgstr "A estrela no peito"
+
+msgid "The star in the place where the left thigh joins [the body]"
+msgstr "A estrela no lugar onde se xunta a coxa esquerda [co corpo]"
+
+msgid "The star on the joint of the right leg"
+msgstr "A estrela na articulación da perna dereita"
+
+msgid "The star on the end of the right leg"
+msgstr "A estrela no final da perna dereita"
+
+msgid "The star on the tail"
+msgstr "A estrela na cola"
+
+msgid "The one north of this"
+msgstr "A que está ó norte destas"
+
+msgid "The last star, to the south of the above"
+msgstr "A última estrela, ó sur da anterior"
+
+msgid "The star in advance of these"
+msgstr "A estrela diante desta"
+
+msgid "The bright star in the middle of the little shield"
+msgstr "A brillante estrela no medio do pequeno escudo"
+
+msgid "The bright star on the deck to the rear of these"
+msgstr "A estrela brillante na cuberta situada na parte traseira destas"
+
+msgid "The star on the cut-off of the deck"
+msgstr "A estrela no corte da cuberta"
+
+msgid "The star between the steering-oars in the keel"
+msgstr "A estrela entre os remos de dirección na quilla"
+
+msgid "The faint star to the rear of this"
+msgstr "A feble estrela detrás desta"
+
+msgid "The bright star to the rear of this, under the deck"
+msgstr "A brillante estrela na parte traseira desta, baixo a cuberta"
+
+msgid "The other, rearmost star"
+msgstr "A outra estrela máis traseira"
+
+msgid "The southernmost of them, on the gaping jaws"
+msgstr "A máis ó sur delas, nas mandíbulas abertas"
+
+msgid "The middle star of the following three in the bend of the neck"
+msgstr "A estrela media das tres seguintes na curva do pescozo"
+
+msgid "The middle and southernmost one"
+msgstr "A do medio e a máis ó norte"
+
+msgid "The star after Corvus, in the section by the tail"
+msgstr "A estrela despois de Corvus, na sección pola cola"
+
+msgid "The star to the south of the head"
+msgstr "A estrela ó sur da cabeza"
+
+msgid "The star in the base of bowl, which is [applied in] common to Hydra"
+msgstr "A estrela na base da cunca, que se aplica [comúnmente] a Hydra"
+
+msgid "The star on the southern rim of the mouth"
+msgstr "A estrela no bordo sur da boca"
+
+msgid "The star on the northern rim"
+msgstr "A estrela no bordo norte"
+
+msgid "The star on the southern handle"
+msgstr "A estrela do mango sur"
+
+msgid "The star on the northern handle"
+msgstr "A estrela do mango norte"
+
+msgid "The star in the beak, which is [applied in] common to Hydra"
+msgstr "A estrela do peteiro, que se [aplica] comunmente a Hydra"
+
+msgid "The star in the neck, by the head"
+msgstr "A estrela no pescozo, pola cabeza"
+
+msgid "The star in the advance, right wing"
+msgstr "A estrela adiantada, na á dereita"
+
+msgid "The star on the end of the leg, which is [applied in] common to Hydra"
+msgstr "A estrela no extremo da perna, que se aplica [comunmente] a Hydra"
+
+msgid "The star on the left, advance shoulder"
+msgstr "A estrela á esquerda, adiantada no ombreiro"
+
+msgid "The star on the left shoulder-blade"
+msgstr "A estrela da omoplata esquerda"
+
+msgid "That one of the other two which is at the tip of the thyrsus"
+msgstr "Aquela das outras dúas que está na punta do tirso"
+
+msgid "The last one, south of the latter"
+msgstr "A última, ó sur desta última"
+
+msgid "The star in the right hand"
+msgstr "A estrela da dereita"
+
+msgid "The bright star in the place where the human body joins [the horse's]"
+msgstr ""
+"A brillante estrela no lugar onde se xunta o corpo humano [ó do cabalo]"
+
+msgid "The star in advance of this, on the horse's back"
+msgstr "A estrela antes desta, no lombo do cabalo"
+
+msgid "The rearmost of the stars on the rump"
+msgstr "A máis traseira das estrelas da cola"
+
+msgid "The star in the chest, under the horse's armpit"
+msgstr "A estrela no peito, baixo a axila do cabalo"
+
+msgid "The star on the knee-bend of the right [hind] leg"
+msgstr "A estrela na curva do xeonllo da perna dereita [traseira]"
+
+msgid "The star in the hock of the same leg"
+msgstr "A estrela no xarrete da mesma perna"
+
+msgid "The star under the knee-bend of the left [hind] leg"
+msgstr "A estrela baixo a curva do xeonllo da perna esquerda [traseira]"
+
+msgid "The star on the frog of the hoof on the same leg"
+msgstr "A estrela na ra do pezuño na mesma pata"
+
+msgid "The star on the end of the right front leg"
+msgstr "A estrela do extremo da perna dianteira dereita"
+
+msgid "The star on the knee of the left [front] leg"
+msgstr "A estrela no xeonllo da perna esquerda [dianteira]"
+
+msgid "The star outside, under the right hind leg"
+msgstr "A estrela exterior, baixo a perna traseira dereita"
+
+msgid "The star at the end of the hind leg, by the [right] hand of Centaurus"
+msgstr "A estrela ó final da pata traseira, pola man [dereita] de Centaurus"
+
+msgid "The star on the bend in the same leg"
+msgstr "A estrela na curva da mesma perna"
+
+msgid "The star in the middle of the body of Lupus"
+msgstr "A estrela no medio do corpo de Lupus"
+
+msgid "The star in the belly, under the flank"
+msgstr "A estrela na barriga, debaixo do flanco"
+
+msgid "The star on the thigh"
+msgstr "A estrela na coxa"
+
+msgid "The star on the end of the rump"
+msgstr "A estrela no extremo do lombo"
+
+msgid "The southernmost of the 3 stars in the end of the tail"
+msgstr "A máis meridional das 3 estrelas no extremo da cola"
+
+msgid "The star in the middle of the little altar"
+msgstr "A estrela no medio do pequeno altar"
+
+msgid "The star on the end of the burning-apparatus"
+msgstr "A estrela no extremo do aparello de queima"
+
+msgid "The most advanced of the stars on the southern rim, outside [the crown]"
+msgstr "A máis avanzada das estrelas no bordo sur, fóra [da coroa]"
+
+msgid "The star to the rear of this on the crown"
+msgstr "A estrela na parte traseira desta na coroa"
+
+msgid "The one after this, before the knee of Sagittarius"
+msgstr "A de detrás desta, antes do xeonllo de Arqueiro"
+
+msgid "The star to the north of this"
+msgstr "A estrela ó norte desta"
+
+msgid "The one to the north again of this"
+msgstr "Outra vez ó norte desta"
+
+msgid "The star quite some distance in advance of this"
+msgstr "A estrela a certa distancia desta"
+
+msgid "The last one, which is south of the aforementioned star"
+msgstr "A última, que está ó sur da mencionada estrela"
+
+msgid "The star by the gills"
+msgstr "A estrela na gelra"
+
+msgid "The star on the southernmost spine on the back"
+msgstr "A estrela na columna vertebral máis meridional do lombo"
+
+msgid "The nebulous mass on the right hand"
+msgstr "A masa nebulosa na man dereita"
+
+msgid "The star on the place where the back joins [the horse's body]"
+msgstr "A estrela no lugar onde se xunta a parte traseira [co corpo do cabalo]"
+
+msgid "The middle of the nebulous mass in the chest, called Praesepe"
+msgstr "A que está no medio da masa nebulosa no peito, chamada Praesepe"
+
+msgid "Crab"
+msgstr "Cangrexo"
+
+msgid "Dog"
+msgstr "Can"
+
+msgid "Horse"
+msgstr "Cabalo"
+
+msgid "Arrow"
+msgstr "Frecha"
+
+msgid "Raven"
+msgstr "Corvo"
+
+msgid "Scorpion"
+msgstr "Escorpión"
+
+msgid "Twins"
+msgstr "Xemelgos"
+
+msgid "Triangle"
+msgstr "Triángulo"
+
+msgid "Lion"
+msgstr "León"
+
+msgid "Beast"
+msgstr "Lobo"
+
+msgid "Small Bear"
+msgstr "Pequeno Oso"
+
+msgid "Great Bear"
+msgstr "Gran Osa"
+
+msgid "Dragon"
+msgstr "Dragón"
+
+msgid "King Kepheus"
+msgstr "Rei Kepheus"
+
+msgid "Ploughman"
+msgstr "Arado"
+
+msgid "Crown"
+msgstr "Coroa"
+
+msgid "Kneeler"
+msgstr "Axeonllado"
+
+msgid "Lyre"
+msgstr "Lira"
+
+msgid "Queen Kassiepeia"
+msgstr "Raíña Kassiepeia"
+
+msgid "Charioteer"
+msgstr "Auriga"
+
+msgid "Serpent Bearer"
+msgstr "Portador da serpe"
+
+msgid "Snake"
+msgstr "Serpe"
+
+msgid "Eagle with Antinoos"
+msgstr "Aguia con Antinoos"
+
+msgid "Dolphin"
+msgstr "Golfiño"
+
+msgid "Bust [of a Horse]"
+msgstr "Busto [dun cabalo]"
+
+msgid "Princess Andromeda"
+msgstr "Princesa Andrómeda"
+
+msgid "Ram"
+msgstr "Carneiro"
+
+msgid "Bull"
+msgstr "Touro"
+
+msgid "Maiden"
+msgstr "Virxe"
+
+msgid "Claws [of Scorpion]"
+msgstr "Poutas [de Escorpión]"
+
+msgid "Archer"
+msgstr "Arqueiro"
+
+msgid "The One with the Goat's Horn"
+msgstr "O que ten un corno de cabra"
+
+msgid "Water-carrier"
+msgstr "O que leva a auga"
+
+msgid "Fishes"
+msgstr "Peixes"
+
+msgid "Sea Monster"
+msgstr "Monstro do mar"
+
+msgid "Hero Orion"
+msgstr "Heroe Orión"
+
+msgid "River"
+msgstr "Río"
+
+msgid "Hare"
+msgstr "Lebre"
+
+msgid "The One before the Dog"
+msgstr "O que está antes do Can"
+
+msgid "The Ship Argo"
+msgstr "O barco Argo"
+
+msgid "Water Snake"
+msgstr "Serpe de auga"
+
+msgid "Vessel"
+msgstr "Vaixel"
+
+msgid "Kentaur"
+msgstr "Kentaur"
+
+msgid "Altar"
+msgstr "Altar"
+
+msgid "Southern Crown"
+msgstr "Coroa do Sur"
+
+msgid "Southern Fish"
+msgstr "Peixe do Sur"
+
+msgid "The Lock [in Leo]"
+msgstr "A Pechadura [en León]"
+
+msgid "The southern star in the rear side"
+msgstr "A estrela do sur na parte de atrás"
+
+msgid "The northern one in the same side"
+msgstr "A estrela do norte no mesmo lado"
+
+msgid "The northernmost of the [two] in the front left paw"
+msgstr "A máis setentrional das [dúas] na pata dianteira esquerda"
+
+msgid "The stars in the quadrilateral:  the one on the back"
+msgstr "As estrelas no cuadrilátero: a de atrás"
+
+msgid "The one on the flank"
+msgstr "A do costado"
+
+msgid "The rather faint star in advance of it"
+msgstr "A estrela un pouco máis feble antes dela"
+
+msgid "The star on the jaw"
+msgstr "A estrela do queixo"
+
+msgid ""
+"The northernmost of the 3 stars in a straight line in the first bend of the "
+"neck"
+msgstr "A máis norte das 3 estrelas en liña recta na primeira curva do pescozo"
+
+msgid "The star to the rear and due east of the latter"
+msgstr "A estrela cara atrás e ó leste desta última"
+
+msgid ""
+"The southern star of the [two] forming the advance side of the quadrilateral "
+"in the next bend"
+msgstr ""
+"A estrela ó sur das [dúas] que forman o lado avanzado do cuadrilátero na "
+"seguinte curva"
+
+msgid ""
+"The most advanced of the three stars in the next triangle, which is in "
+"advance [of the last]"
+msgstr ""
+"A máis avanzada das tres estrelas do seguinte triángulo, que está por diante "
+"[da última]"
+
+msgid "The southernmost of the next 3 stars in a straight line"
+msgstr "A máis ó sur das seguintes 3 estrelas en liña recta"
+
+msgid "The northernmost of the next 2 to the west"
+msgstr "A máis ó norte das 2 seguintes ó oeste"
+
+msgid "The advance star of the 2 quite some distance from the latter"
+msgstr "A estrela avanzada das 2 que están a bastante distancia desta última"
+
+msgid "The one under that elbow, which also touches it"
+msgstr "A estrela baixo o cóbado, que o toca"
+
+msgid "The southernmost of the 3 stars on the tiara"
+msgstr "A máis ó sur das 3 estrelas da tiara"
+
+msgid "The one in advance of the tiara"
+msgstr "A de diante da tiara"
+
+msgid "The one to the rear of the tiara"
+msgstr "A da parte traseira da tiara"
+
+msgid "The one farther to the north again of this, on the tip of the staff"
+msgstr "A que está máis ó norte desta, na punta do conxunto"
+
+msgid "The star on the right thigh, in the apron"
+msgstr "A estrela da coxa dereita, no mandil"
+
+msgid "The northernmost of the 3 stars in the left lower leg"
+msgstr "A máis ó norte das 3 estrelas na parte inferior esquerda da perna"
+
+msgid "Ἀρκτοῦρος (Arkturos, Guard)"
+msgstr "Ἀρκτοῦρος (Arturo, Garda)"
+
+msgid "The star between the thighs, called 'Arcturus', reddish"
+msgstr "A estrela entre as coxas, chamada Arctur, avermellada"
+
+msgid "The one to the rear and to the north of this"
+msgstr "A que está detrás e ó norte desta"
+
+msgid "The one to the rear and north again of this"
+msgstr "A que está outras vez detrás e ó norte desta"
+
+msgid "The one to the rear of the bright star from the south"
+msgstr "A da parte traseira da estrela brillante do sur"
+
+msgid "The one to the rear again of the latter, close by"
+msgstr "A que está de novo detrás desta última, preto dela"
+
+msgid "The one to the rear again of these"
+msgstr "A que está outra vez detrás desta"
+
+msgid "The star to the rear of all [the others] in the crown"
+msgstr "A estrela na parte de atrás [de todas as] da coroa"
+
+msgid "The rearmost of the 3 stars in the left wrist"
+msgstr "A máis traseira das 3 estrelas do pulso esquerdo"
+
+msgid "The northernmost of the other 2"
+msgstr "A que está máis ó norte cás outras 2"
+
+msgid "The most advanced of the 3 in the left thigh"
+msgstr "A máis avanzada das 3 na coxa esquerda"
+
+msgid "The star on the left shin"
+msgstr "A estrela da canela esquerda"
+
+msgid "The most advanced of the 3 stars in the left foot"
+msgstr "A máis avanzada das 3 estrelas do pé esquerdo"
+
+msgid "The southernmost of the 2 stars under the right knee"
+msgstr "A estrela máis ó sur das 2 que están debaixo do xeonllo dereito"
+
+msgid ""
+"The star on the end of the right leg is the same as the one on the tip of "
+"the staff [of Bootes, 96 Boo 9]"
+msgstr ""
+"A estrela do extremo da perna dereita é a mesma cá da punta do caxato [de "
+"Boieiro, 96 Boo 9]"
+
+msgid "λύρα (Lyra)"
+msgstr "λύρα (Lyra)"
+
+msgid "The bright star on the shell, called Lyra"
+msgstr "A brillante estrela da cuncha, chamada Lira"
+
+msgid "The northernmost of the 2 stars lying near the latter, close together"
+msgstr "A máis ó norte das 2 estrelas situadas preto desta última, xuntas"
+
+msgid ""
+"The northernmost of the 2 stars close together in the region to the east of "
+"the shell"
+msgstr "A máis norte das 2 estrelas moi xuntas na rexión ó leste da cuncha"
+
+msgid "The northernmost of the two advance stars in the bridge"
+msgstr "A máis ó norte das dúas estrelas avanzadas na ponte"
+
+msgid "The northernmost of the two rear stars in the bridge"
+msgstr "A máis ó norte das dúas estrelas traseiras da ponte"
+
+msgid "The southernmost of the 3 in the right wing-feathers"
+msgstr "A máis ó sur das 3 das plumas da á dereita"
+
+msgid "The more advanced of the 2 stars in the right leg"
+msgstr "A máis avanzada das 2 estrelas da perna dereita"
+
+msgid "The nebulous star on the right knee"
+msgstr "A estrela nebulosa do xeonllo dereito"
+
+msgid "The southernmost of the 2 stars under the left wing"
+msgstr "A máis ó sur das 2 estrelas baixo a á esquerda"
+
+msgid "The star over the throne, just over the thighs"
+msgstr "A estrela sobre o trono, xusto sobre as coxas"
+
+msgid "The star on the right fore-arm"
+msgstr "A estrela do antebrazo dereito"
+
+msgid "The star above the foot of the throne"
+msgstr "A estrela sobre o pé do trono"
+
+msgid "The star on the middle of the back of the throne"
+msgstr "A estrela no medio da parte traseira do trono"
+
+msgid "The star on the top of the throne-back"
+msgstr "A estrela na parte superior do trono"
+
+msgid "The most advanced of the 3 stars next to the one in the side"
+msgstr "A máis avanzada das 3 estrelas xunto á do extremo"
+
+msgid "Stars in the Gorgon-head:  the bright one"
+msgstr "Estrelas na cabeza de Gorgona: a máis brillante"
+
+msgid "The more advanced of the 2 stars above the bend in the knee"
+msgstr "A máis avanzada das 2 estrelas por riba da sofraxe"
+
+msgid "αἴξ (Goat)"
+msgstr "αἴξ (Cabra)"
+
+msgid "The star on the left shoulder, called Capella"
+msgstr "A estrela do ombreiro esquerdo, chamada Capela"
+
+msgid "Ἔριφοι (Kids [of the Goat]) I"
+msgstr "Ἔριφοι (Fillos [da Cabra]) I"
+
+msgid ""
+"The rearmost of the two stars on the left wrist, which are called 'Haedi'"
+msgstr ""
+"A máis traseira das dúas estrelas do pulso esquerdo, que se chaman \"Haedi\""
+
+msgid "Ἔριφοι (Kids [of the Goat]) II"
+msgstr " Ἔριφοι (Fillos [da Cabra]) II"
+
+msgid ""
+"The star on the right ankle, which is [applied in] common to the horn [of "
+"Taurus, 400 Tau 21]"
+msgstr ""
+"A estrela do nocello dereito, que se [aplica] comunment ó corno [de Touro, "
+"400 Tau 21]"
+
+msgid "The small star over the left foot"
+msgstr "A estrela pequena sobre o pé esquerdo"
+
+msgid "The more advanced of the 2 stars on the right shoulder"
+msgstr "A máis avanzada das 2 estrelas no ombreiro dereito"
+
+msgid "The more advanced of the 2 stars on the left shoulder"
+msgstr "A máis avanzada das 2 estrelas no ombreiro esquerdo"
+
+msgid "The more advanced of the 2 stars in the left hand"
+msgstr "A máis avanzada das 2 estrelas na man esquerda"
+
+msgid "The more advanced of the 2 stars in the right hand"
+msgstr "A máis avanzada das 2 estrelas na man dereita"
+
+msgid "The most advanced of the 4 stars on the right foot"
+msgstr "A máis avanzada das 4 estrelas do pé dereito"
+
+msgid "The last and rearmost of the 4"
+msgstr "A última e máis traseira das 4"
+
+msgid ""
+"The northernmost of the 3 stars in a straight line in the left lower leg"
+msgstr ""
+"A máis ó norte das 3 estrelas en liña recta na parte inferior esquerda da "
+"perna"
+
+msgid "The northernmost of the 3 to the east of the right shoulder"
+msgstr "A máis ó norte das 3 ó leste do ombreiro dereito"
+
+msgid "The star to the rear of these 3, approximately over the middle one"
+msgstr ""
+"A estrela na parte traseira destas 3, aproximandamenteo sobre a do medio"
+
+msgid "The lone star north of [these] 4 [nos. 25-28]"
+msgstr "A estrela solitaria ó norte [destas] 4 [nos. 25-28]"
+
+msgid "The northernmost of the 3 following this"
+msgstr "O máis ó norte das 3 seguintes"
+
+msgid ""
+"The star to the rear of those in the hand [of Ophiuchus, 240-241 Oph 7-8]"
+msgstr ""
+"A estrela na parte traseira das que están na man [de Serpentario, 240-241 "
+"Oph 7-8]"
+
+msgid "The southernmost of the 2 to the rear of the latter"
+msgstr "A máis ó sur das 2 na parte traseira desta última"
+
+msgid "ἀετός (Eagle)"
+msgstr "ἀετός (Aguia)"
+
+msgid "The bright star on the place between the shoulders, called Aquila"
+msgstr "A estrela brillante entre os ombros, chamada Aguia"
+
+msgid "The more advanced of the 2 in the left shoulder"
+msgstr "A máis avanzada das 2 no ombreiro esquerdo"
+
+msgid "The star some distance under the tail of Aquila, touching the Milky Way"
+msgstr ""
+"A estrela a certa distancia baixo o rabo da aguia, tocando a Vía Láctea"
+
+msgid ""
+"The stars around Aquila, to which the name 'Antinous' is given:  The more "
+"advanced of the 2 stars south of the head of Aquila"
+msgstr ""
+"As estrelas arredor de Aguia, que reciben o nome de \"Antinous\": a máis "
+"avanzada das 2 estrelas ó sur da cabeza de Aguia"
+
+msgid "The star to the south and west of the right shoulder of Aquila"
+msgstr "A estrela ó sur e ó oeste do ombreiro dereito de Aguia"
+
+msgid "The most advanced of the 3 stars in the tail"
+msgstr "A máis avanzada das 3 estrelas no rabo"
+
+msgid ""
+"The stars in the rhomboid quadrilateral:  the southernmost one on the "
+"advance side"
+msgstr "As estrelas no cuadrilátero romboidal: a máis ó sur do lado dianteiro"
+
+msgid "The southernmost of the 3 stars between the tail and the rhombus"
+msgstr "A máis ó norte das 3 estrelas entre a cola e o rombo"
+
+msgid "The more advanced of the other 2 to the north"
+msgstr "A máis avanzada das outras 2 cara ó norte"
+
+msgid "The more advanced of the 2 stars in the head"
+msgstr "A máis avanzada das 2 dúas estrelas da cabeza"
+
+msgid "The more advanced of the 2 stars close together in the neck"
+msgstr "A máis avanzada das 2 estrelas xuntas no pescozo"
+
+msgid "The southernmost of the 3 stars on the right upper arm"
+msgstr "A máis ó sur das 3 estrelas da parte superior do brazo dereito"
+
+msgid "The southernmost of the 3 stars on the right hand"
+msgstr "A máis ó sur das 3 estrelas da man dereita"
+
+msgid "The southernmost of the 3 stars over the girdle"
+msgstr "A máis ó sur das 3 estrelas sobre o cinturón"
+
+msgid "The star over the left foot"
+msgstr "A estrela sobre o pé esquerdo"
+
+msgid "The northernmost of the 2 stars on the left knee-bend"
+msgstr "A máis ó norte das 2 estrelas na curva do xeonllo esquerdo"
+
+msgid "The northernmost of the two stars in the lower hem [of the garment]"
+msgstr "A máis ó norte das 2 estrelas no bordo inferior [da prenda]"
+
+msgid "The most advanced of the 3 on the base"
+msgstr "A máis avanzada das 3 da base"
+
+msgid "The more advanced of the 2 stars on the horn"
+msgstr "A máis avanzada das 2 estrelas no corno"
+
+msgid "The northernmost of the 2 stars on the muzzle"
+msgstr "A máis ó norte das 2 estrelas do fociño"
+
+msgid "The star on the place where the tail joins [the body]"
+msgstr "A estrela no lugar onde se une a cola [co corpo]"
+
+msgid "The star under the knee-bend"
+msgstr "A estrela baixo a sofraxe"
+
+msgid ""
+"The 4 stars over the rump:  the rearmost, which is brighter [than the others]"
+msgstr ""
+"As 4 estrelas sobre a rabadela: a máis traseira, que é máis brillante [cás "
+"outras]"
+
+msgid "The northernmost of the other 3, fainter stars"
+msgstr "A máis ó norte das outras 3 estrelas máis débiles"
+
+msgid "The northernmost of the 4 stars in the cut-off"
+msgstr "A máis ó norte das 4 estrelas do bordo"
+
+msgid "The southernmost of the 4"
+msgstr "A máis ó sur das 4"
+
+msgid "The one to the rear of these, on the right shoulder-blade"
+msgstr "O da parte traseira desta, na omoplata dereita"
+
+msgid "The stars in the face, called 'the Hyades':  the one on the nostrils"
+msgstr "As estrelas na cara, chamadas 'Hyades': a que está no nariz"
+
+msgid "The one between this and the northern eye"
+msgstr "A que está entre esta e o ollo norte"
+
+msgid "The one between it [no. 11] and the southern eye"
+msgstr "A que está entre esta [no. 11] e o ollo sur"
+
+msgid "The bright star of the Hyades, the reddish one on the southern eye"
+msgstr "Estrela brillante nas Hyades, a avermellada do ollo sur"
+
+msgid "The southernmost of the 2 stars on the southern horn"
+msgstr "A máis ó sur das 2 no corno sur"
+
+msgid ""
+"The star on the tip of the northern horn, which is the same as the one on "
+"the right foot of Auriga [230 Aur 11]"
+msgstr ""
+"A estrela da punta do corno norte, que é a mesma cá do pé dereito de Auriga  "
+"[230 Aur 11]"
+
+msgid "The northernmost of the 2 stars close together in the northern ear"
+msgstr "A máis ó norte das 2 estrelas próximas na orella norte"
+
+msgid "The more advanced of the 2 small stars in the neck"
+msgstr "A máis avanzada das 2 pequenas estrelas do pescozo"
+
+msgid ""
+"The quadrilateral in the neck:  the southernmost star on the advance side"
+msgstr "O cuadrilátero no pescozo: a estrela máis ó sur da parte de diante"
+
+msgid "The star under the right foot and the shoulder-blade"
+msgstr "A estrela baixo o pé dereito e a omoplata"
+
+msgid "The most advanced of the 3 stars over the southern horn"
+msgstr "A máis avanzada das 3 estrelas sobre o corno sur"
+
+msgid "The northernmost of the 2 stars under the tip of the southern horn"
+msgstr "A máis ó norte das 2 estrelas baixo a punta do corno sur"
+
+msgid ""
+"The 5 stars under and to the rear of the northern horn:  the most advanced"
+msgstr "As 5 estrelasde baixo e detrás do corno norte: a máis avanzada"
+
+msgid "The northernmost of the remaining, rearmost 2"
+msgstr "ó máis ao norte das 2 restantes, máis traseiras"
+
+msgid "The one to the rear of that, just over the place between the shoulders"
+msgstr "A que está detrás desta, xusto onda ombreiros"
+
+msgid "The star under the left knee of the rear twin"
+msgstr "A estrela baixo o xeonllo esquerdo do xemelgo traseiro"
+
+msgid "The star in the left groin of the rear twin"
+msgstr "A estrela na virilla do xemelgo traseiro"
+
+msgid "The star on the forward foot of the advance twin"
+msgstr "A estrela do pé adiantado do xemelgo avanzado"
+
+msgid "The star in advance of the forward foot of the advance twin"
+msgstr "A estrela diante do pé adiantado do xemelgo avanzado"
+
+msgid "The bright star to the rear of the above-mentioned 3"
+msgstr "A estrela brillante na parte traseira das 3 mencionadas"
+
+msgid ""
+"The quadrilateral containing the nebula [no. 1]:  the northernmost of the "
+"two stars in advance"
+msgstr ""
+"O cuadrilátero que contén a nebulosa [núm. 1]: a máis ó norte das dúas "
+"estrelas dianteiras"
+
+msgid "ὄνος (Ass) I"
+msgstr "ὄνος (Cu) I"
+
+msgid ""
+"The northernmost of the rear 2 stars on the quadrilateral, which are called "
+"'Aselli'"
+msgstr ""
+"A máis ó norte das 2 estrelas traseiras do cuadrilátero, que se chaman "
+"\"Aselli\""
+
+msgid "ὄνος (Ass) II"
+msgstr "ὄνος (Cu) II"
+
+msgid "The northernmost of the 3 stars in the neck"
+msgstr "A máis ó norte das 3 estrelas no pescozo"
+
+msgid "βασιλίσκος (Princelet)"
+msgstr "βασιλίσκος (Princelet)"
+
+msgid "The star on the heart, called 'Regulus'"
+msgstr "A estrela da cabeza, chamada 'Regulus'"
+
+msgid "The star a little in advance of the star on the heart [no. 8]"
+msgstr "A estrela un pouco antes da estrela no corazón [no. 8]"
+
+msgid "The northernmost of the other, rearmost 2"
+msgstr "A máis ó norte da outra, as 2 máis traseiras"
+
+msgid "The northernmost of the 2 stars in the buttocks"
+msgstr "A máis ó norte das 2 estrelas nas nádegas"
+
+msgid "The more advanced of the 2 over the back"
+msgstr "A máis avanzada das 2 por detrás"
+
+msgid "The northernmost of the 3 under the flank"
+msgstr "A máis ó norte das 3 baixo o costado"
+
+msgid "The southernmost of the 2 stars in the top of the skull"
+msgstr "A máis ó sur das 2 estrelas na parte superior do cranio"
+
+msgid "The northernmost of the 2 stars to the rear of these, in the face"
+msgstr "A máis norte das 2 estrelas na parte traseira destas, na cara"
+
+msgid "The most advanced of the 4 stars in the left wing"
+msgstr "A máis avanzada das 4 estrelas da á esquerda"
+
+msgid "The most advanced of the 3 stars in the right, northern wing"
+msgstr "A máis avanzada das 3 estrelas da á dereita e norte"
+
+msgid "The southernmost of the other 2"
+msgstr "A máis ó sur das outras 2"
+
+msgid "Προτρυγητήρ (Harbinger of Vintage)"
+msgstr "Προτρυγητήρ (Harbinger de Vintage)"
+
+msgid "στάχυς (Ear of Grain)"
+msgstr "στάχυς (Espiga de trigo)"
+
+msgid "The star on the left hand, called 'Spica'"
+msgstr "A estrela da man esquerda, chamada 'Spica'"
+
+msgid ""
+"The quadrilateral in the left thigh:  the northern star on the advance side"
+msgstr ""
+"O cuadrilátero na coxa esquerda: a estrela máis ó norte da parte de diante"
+
+msgid "The northernmost of the 2 stars on the rear side"
+msgstr "A máis ó norte das 2 estrelas na parte traseira"
+
+msgid "The middle star of the 3 in the garment-hem round the feet"
+msgstr "A estrela media das 3 na basta da roupa arredor dos pés"
+
+msgid "The rearmost of the 3"
+msgstr "A máis traseira das 3"
+
+msgid "The most advanced of the 3 stars almost on a straight line under Spica"
+msgstr "A máis avanzada das 3 estrelas case en liña recta baixo Spica"
+
+msgid "Stars on the tip of the southern claw:  the bright one"
+msgstr "Estrelas na punta da pouta sur: a brillante"
+
+msgid "The star to the north of this and fainter than it"
+msgstr "A estrela ó norte desta e máis feble ca ela"
+
+msgid "Stars on the tip of the northern claw:  the bright one"
+msgstr "Estrelas na punta da pouta sur: a brillante"
+
+msgid "The faint star in advance of this"
+msgstr "A feble estrela diante desta"
+
+msgid "The most advanced of the 3 stars north of the northern claw"
+msgstr "A máis avanzada das 3 estrelas ó norte da pouta norte"
+
+msgid "The southernmost of the rearmost 2 [of these]"
+msgstr "A que está máis ó sur das 2 máis atrás [destas]"
+
+msgid "The rearmost of the 3 stars between the claws"
+msgstr "A máis traseira das 3 estrelas entre as poutas"
+
+msgid "The northernmost of the other 2 in advance [of the latter]"
+msgstr "A máis ó norte das outras 2 por diante [destas últimas]"
+
+msgid "The most advanced of the 3 stars south of the southern claw"
+msgstr "A máis avanzada das 3 estrelas ó sur da pouta sur"
+
+msgid "The northernmost of the other, rear 2"
+msgstr "A máis ó norte da outra, as 2 máis traseiras"
+
+msgid "The northernmost of the 3 bright stars in the forehead"
+msgstr "A máis ó sur das 3 estrelas brillantes da fronte"
+
+msgid ""
+"The northernmost of the 2 stars adjacent to the northernmost of the 3 bright "
+"ones [no. 1]"
+msgstr ""
+"A máis ó norte das 2 estrelas adxacentes á máis septentrional das 3 "
+"brillantes [núm. 1]"
+
+msgid "The most advanced of the 3 bright stars in the body"
+msgstr "A máis avanzada das 3 estrelas brillantes do corpo"
+
+msgid "ἀντάρης (Antares)"
+msgstr "ἀντάρης (Antares)"
+
+msgid "The middle one of these, which is reddish and called 'Antares'"
+msgstr "A do medio destas, que é avermellada e chamada \"Antares\""
+
+msgid "The advance star of the 2 under these, approximately on the last leg"
+msgstr "A estrela avanzada das 2 baixo estas, aproximadamente na última perna"
+
+msgid "The star in the first [tail-] joint from the body"
+msgstr "A estrela da primeira articulación da cola dende o corpo"
+
+msgid "The one after this, in the 2nd joint"
+msgstr "A seguinte a esta, na segunda xunta"
+
+msgid "The northern star of the double-star in the 3rd joint"
+msgstr "A estrela norte da estrela dobre na terceira xunta"
+
+msgid "The one following, in the 4th joint"
+msgstr "A seguinte, na cuarta xunta"
+
+msgid "The one after that, in the 5th joint"
+msgstr "A seguinte a esta, na quinta xunta"
+
+msgid "The next one again, in the 6th joint"
+msgstr "A seguinte, na sexta xunta"
+
+msgid "The star in the 7th joint, the joint next to the sting"
+msgstr "A estrela da sétima xunta, a articulación próxima ó aguillón"
+
+msgid "The rearmost of the 2 stars in the sting"
+msgstr "A máis traseira das 2 estrelas do aguillón"
+
+msgid "The most advanced of the 2 stars to the north of the sting"
+msgstr "A máis avanzada das 2 estrelas ó norte do aguillón"
+
+msgid "The star in the [bow-] grip held by the left hand"
+msgstr "A estrela na empuñadura do arco sostida pola man esquerda"
+
+msgid "The southernmost of the [2] stars in the northern portion of the bow"
+msgstr "A máis ó sur das [2] estrelas na porción norte do arco"
+
+msgid "The one in advance of this, just over the arrow"
+msgstr "A que está antes desta, na frecha"
+
+msgid "The most advanced of the 3 stars in the head"
+msgstr "A máis avanzada das 3 estrelas na cabeza"
+
+msgid "The southernmost of the 3 stars in the northern cloak-attachment"
+msgstr "A máis ó sur das 3 estrelas da parte norte"
+
+msgid "The northernmost of the 2 stars on the southern cloak-attachment"
+msgstr "A máis ó norte das 2 estrelas da capa do sur"
+
+msgid ""
+"The three stars in the back:  the one just above the place between the "
+"shoulders"
+msgstr ""
+"As tres estrelas na parte traseira: aque está xusto por riba do lugar entre "
+"os ombros"
+
+msgid "The middle one, just above the shoulder-blade"
+msgstr "A do medio, na omoplata"
+
+msgid ""
+"The four stars [forming a quadrilateral] in the place where the tail joins "
+"[the body]:  the advance star on the northern side"
+msgstr ""
+"As catro estrelas [que forman un cuadrilátero] no lugar onde a cola se une "
+"[co corpo]: a estrela avanzada no lado norte"
+
+msgid "The northernmost of the 3 stars in the rear horn"
+msgstr "A máis ó norte das 3 estrelas do corno traseiro"
+
+msgid "The southernmost of the 3 stars in the muzzle"
+msgstr "A máis ó sur das 3 estrelas do fociño"
+
+msgid "The star in advance of the [above] 3, under the right eye"
+msgstr "A estrela de diante [e sobre] as 3, baixo o ollo dereito"
+
+msgid "The northernmost of the 2 stars in the neck"
+msgstr "A máis ó norte das 2 estrelas no pescozo"
+
+msgid "The more advanced of the 2 stars close together under the belly"
+msgstr "A máis avanzada das 2 estrelas xuntas debaixo da barriga"
+
+msgid "The rearmost of the 3 stars in the middle of the body"
+msgstr "A máis traseira das 3 estrelas no medio do corpo"
+
+msgid "The southernmost of the other, advance 2"
+msgstr "A máis ó sur diante das 2"
+
+msgid "The more advanced of the 2 stars in the back"
+msgstr "A máis avanzada das 2 estrelas na parte traseira"
+
+msgid "The more advanced of the 2 stars in the southern spine"
+msgstr "A máis avanzada das 2 estrelas na columna vertebral sur"
+
+msgid ""
+"The more advanced of the 2 stars in the section [of the body] next to the "
+"tail"
+msgstr "A máis avanzada das 2 estrelas na sección [do corpo] xunto á cola"
+
+msgid "The most advanced of the 4 stars on the northern portion of the tail"
+msgstr "A máis avanzada das 4 estrelas na porción norte da cola"
+
+msgid "The southernmost of the other 3"
+msgstr "A máis ó sur das outras 3"
+
+msgid "The brighter of the 2 stars in the right shoulder"
+msgstr "A máis brillante das 2 estrelas no ombreiro dereito"
+
+msgid "The northernmost of the 3 stars on the right hand"
+msgstr "A máis ó sur das 3 estrelas da man dereita"
+
+msgid "The more advanced of the other 2 to the south"
+msgstr "A máis avanzada das outras 2 cara ó sur"
+
+msgid ""
+"The more advanced of the 2 stars close together in the hollow of the right "
+"[hip]"
+msgstr "A máis avanzada das 2 estrelas xuntas no oco da [cadeira] dereita"
+
+msgid "The southernmost of the 2 stars in the left buttock"
+msgstr "A máis ó sur das 2 estrelas na nádega esquerda"
+
+msgid "The southernmost of the 2 stars in the right lower leg"
+msgstr "A máis ó sur das 2 estrelas da perna inferior dereita"
+
+msgid "The southernmost of the 2 stars in the left lower leg"
+msgstr "A máis ó sur das 2 estrelas na parte inferior esquerda da perna"
+
+msgid "The one next to this, after [the beginning of] the bend"
+msgstr "A que está onda esta, despois [do comezo da curva] da auga"
+
+msgid "The northernmost of the 2 stars to the south of this"
+msgstr "A que está máis ó norte das 2 estrelas ó sur desta"
+
+msgid "The more advanced of the 2 stars close together after the latter"
+msgstr "A máis avanzada das 2 estrelas xuntas despois desta última"
+
+msgid "The northernmost of the 3 stars in the next group"
+msgstr "A máis ó norte das 3 estrelas do seguinte grupo"
+
+msgid "The northernmost of the next 3 [arranged] likewise"
+msgstr "A máis ó norte das 3 seguintes [dispostas] do mesmo xeito"
+
+msgid "The most advanced of the 3 stars in the remaining group"
+msgstr "A máis avanzada das 3 estrelas do grupo restante"
+
+msgid "The most advanced of the 3 stars to the rear of the bend in the water"
+msgstr "A máis avanzada das 3 estrelas na parte traseira da curva na auga"
+
+msgid "The southernmost of the 2 stars in the top of its head"
+msgstr "A máis meridional das 2 estrelas na parte superior da súa cabeza"
+
+msgid "The more advanced of the 2 stars in the belly"
+msgstr "A máis avanzada das 2 estrelas no ventre"
+
+msgid "The stars forming its fishing-line:  the first after the tail"
+msgstr "As estrelas que forman a liña de pesca: a primeira despois da cola"
+
+msgid "The most advanced of the 3 following bright stars"
+msgstr "A máis avanzada das seguintes 3 estrelas brillantes"
+
+msgid "The northernmost of the 2 small stars under these, in the bend"
+msgstr "A máis ó norte das 2pequenas estrelas baixo estas, na curva"
+
+msgid "The most advanced of the 3 stars after the bend"
+msgstr "A máis avanzada das 3 estrelas despois da curva"
+
+msgid "The star on the knot joining the 2 fishing-lines"
+msgstr "A estrela no nó que une as 2 liñas de pesca"
+
+msgid ""
+"Stars in the northern fishing-line:  the first in the section beginning at "
+"the knot"
+msgstr ""
+"Estrelas na liña de pesca do norte: a primeira da sección que comeza no nó"
+
+msgid "The southernmost of the 3 stars following after that"
+msgstr "A máis ó sur das 3 estrelas seguintes"
+
+msgid "The northernmost of the 3, which is also on the end of the tail"
+msgstr "A máis ó norte das 3, que tamén se atopa no extremo da cola"
+
+msgid "The northernmost of the 2 stars in the mouth of the rear fish"
+msgstr "A máis ó norte 2 dúas estrelas na boca do peixe traseiro"
+
+msgid "The rearmost of the 3 small stars in the head"
+msgstr "A máis traseira das 3 pequenas estrelas da cabeza"
+
+msgid ""
+"The most advanced of the 3 stars on the spine in the back, following [i.e. "
+"to the rear of] the star on the elbow of Andromeda [345 And 11]"
+msgstr ""
+"A máis avanzada das tres estrelas na columna vertebral na parte traseira, "
+"seguindo [i.e. á parte traseira de] a estrela no cóbado de Andrómeda [345 "
+"And 11]"
+
+msgid "The northernmost of the 2 stars in the belly"
+msgstr "A máis ó norte das 2 estrelas do ventre"
+
+msgid ""
+"The quadrilateral under the advance fish:  the more advanced of the 2 "
+"northern stars"
+msgstr ""
+"O cuadrilátero baixo o peixe avanzado: a máis avanzada das 2 estrelas do "
+"norte"
+
+msgid "The three stars in the snout:  the rearmost, on the end of the jaw"
+msgstr "As tres estrelas no fociño: a máis traseira, no extremo da mandíbula"
+
+msgid "The most advanced of the 3, on the cheek"
+msgstr "A máis avanzada das 3, na meixela"
+
+msgid ""
+"The quadrilateral in the chest:  the northernmost star on the advance side"
+msgstr "O cuadrilátero no pescozo: a estrela máis ó norte da parte de diante"
+
+msgid "The midmost of the 3 stars in the body"
+msgstr "A máis central das 3 estrelas do corpo"
+
+msgid "The rearmost of the 2 stars by the section next to the tail"
+msgstr "A máis traseira das 2 estrelas pola sección á beira da cola"
+
+msgid ""
+"The quadrilateral in the section next to the tail:  the northernmost star on "
+"the rear side"
+msgstr ""
+"O cuadrilátero na sección á beira da cola: a estrela máis ó norte da parte "
+"traseira"
+
+msgid ""
+"The 2 stars at the ends of the tail-fins:  the one on the northern [tail-fin]"
+msgstr "As 2 estrelas nos extremos das aletas de cola: a da [aleta] norte"
+
+msgid "The nebulous star in the head of Orion"
+msgstr "A estrela nebulosa na cabeza de Orión"
+
+msgid ""
+"The quadrilateral in the right hand:  the rear, double star on the southern "
+"side"
+msgstr "O cuadrilátero na man dereita: a estrela dobre traseira no lado sur"
+
+msgid "The more advanced of the 2 stars in the staff"
+msgstr "A máis adiantada das 2 estrelas no conxunto"
+
+msgid ""
+"The rearmost of the 4 stars almost on a straight line just over the back"
+msgstr ""
+"A máis traseira das 4 estrelas case en liña recta sobre a parte traseira"
+
+msgid "The last and most advanced of the 4"
+msgstr "A última e a máis avanzada das 4"
+
+msgid "Stars in the pelt on the left arm:  the northernmost"
+msgstr "Estrelas na pel do brazo esquerdo: a máis ó norte"
+
+msgid "The 2nd from the northernmost"
+msgstr "A 2ª dende a que está máis ó norte"
+
+msgid "The 3rd from the northernmost"
+msgstr "A 3ª dende a que está máis ó norte"
+
+msgid "The 4th from the northernmost"
+msgstr "A 4ª dende a que está máis ó norte"
+
+msgid "The 5th from the northernmost"
+msgstr "A 5ª dende a que está máis ó norte"
+
+msgid "The 6th from the northernmost"
+msgstr "A 6ª dende a que está máis ó norte"
+
+msgid "The 7th from the northernmost"
+msgstr "A 7ª dende a que está máis ó norte"
+
+msgid "The 8th from the northernmost"
+msgstr "A 8ª dende a que está máis ó norte"
+
+msgid "The most advanced of the 3 stars on the belt"
+msgstr "A máis adiantada das 3 estrelas do cinturón"
+
+msgid ""
+"The northernmost of the 3 stars joined together at the tip of the dagger"
+msgstr "A máis ó norte das 3 estrelas unidas na punta do puñal"
+
+msgid "The rearmost of the 2 stars under the tip of the dagger"
+msgstr "A máis traseira das 2 estrelas baixo a punta do puñal"
+
+msgid ""
+"The star after the one in the foot of Orion [768 Ori 35], at the beginning "
+"of the river"
+msgstr "A estrela despois da do pé de Orión [768 Ori 35], ó comezo do río"
+
+msgid "The rearmost of the 2 stars next in order after this"
+msgstr "A máis traseira das 2 estrelas que seguen en orde despois desta"
+
+msgid "The rearmost of the next 2 in order again"
+msgstr "A máis traseira das 2 seguintes en orde outra vez"
+
+msgid "The rearmost of the 3 stars after this"
+msgstr "A máis traseira das 3 estrelas despois desta"
+
+msgid "The most advanced of the 4"
+msgstr "A máis adiantada das 4"
+
+msgid "The rearmost of the 4 stars in the next interval again"
+msgstr "A máis traseira das 4 estrelas no seguinte intervalo"
+
+msgid ""
+"The first star in the bend of the river, which [star] touches the chest of "
+"Cetus"
+msgstr "A primeira estrela da curva do río, que toca o peito de Balea"
+
+msgid "The most advanced of the next [group of] three"
+msgstr "A máis adiantada do seguinte [grupo de] tres"
+
+msgid ""
+"The next four stars, nearly forming a trapezium:  the northern one on the "
+"advance side"
+msgstr ""
+"As catro estrelas seguintes, case formando un trapecio: a norte do lado "
+"avanzado"
+
+msgid "The last of the 4, the rear one on that side"
+msgstr "A última das 4, a traseira neste lado"
+
+msgid ""
+"The northernmost of the 2 stars close together at some distance to the east"
+msgstr "A máis ó norte das 2 estrelas xuntas a certa distancia cara ó leste"
+
+msgid "The rearmost of the next 2 stars after the bend"
+msgstr "A máis traseira das 2 estrelas seguintes despois da curva"
+
+msgid "The rearmost of the 3 stars in the next interval"
+msgstr "A máis traseira das 3 estrelas no seguinte intervalo"
+
+msgid "The last star of the river, the bright one"
+msgstr "A última estrela do río, a brillante"
+
+msgid ""
+"The quadrilateral just over the ears:  the northern star on the advance side"
+msgstr ""
+"O cuadrilátero xusto sobre as orellas: a estrela norte do lado avanzado"
+
+msgid "The star in the cheek"
+msgstr "A estrela do peito"
+
+msgid "The northernmost of the 2 stars in the hind legs"
+msgstr "A máis ó norte das 2 estrelas nas patas traseiras"
+
+msgid "κύων (Dog)"
+msgstr "κύων (Can)"
+
+msgid ""
+"The star in the mouth, the brightest, which is called 'the Dog' and is "
+"reddish"
+msgstr ""
+"A estrela na boca, a máis brillante, que se chama \"o can\" e é avermellada"
+
+msgid "The northernmost of the 2 stars on the right knee"
+msgstr "A máis ó norte das 2 estrelas do xeonllo dereito"
+
+msgid "The star on the end of the front leg"
+msgstr "A estrela do extremo da perna dianteira"
+
+msgid "The more advanced of the 2 stars in the left knee"
+msgstr "A máis avanzada das 2 estrelas do xeonllo esquerdo"
+
+msgid "The rearmost of the 2 stars in the left shoulder"
+msgstr "A máis traseira das 2 estrelas no ombreiro esquerdo"
+
+msgid "The star below the belly, in the middle of the thighs"
+msgstr "A estrela debaixo da barriga, entre as coxas"
+
+msgid "The star to the north of the top of Canis"
+msgstr "A estrela ó norte da superior de Can"
+
+msgid ""
+"The southernmost of the 4 stars almost on a straight line under the hind legs"
+msgstr ""
+"A máis ó sur das 4 estrelas case en liña recta baixo as patas traseiras"
+
+msgid "The last and northernmost of the 4"
+msgstr "A última e a máis ó norte das 4"
+
+msgid ""
+"The most advanced of the 3 stars almost on a straight line to the west of "
+"the [above] four"
+msgstr ""
+"A máis avanzada das 3 estrelas case en liña recta ó oeste das catro "
+"[superiores]"
+
+msgid "The rearmost of the 2 bright stars under these"
+msgstr "A máis traseira das 2 estrelas brillantes baixo estas"
+
+msgid "The star in the neck"
+msgstr "A estrela do pescozo"
+
+msgid "Προκύων (Prokyon, The One [rising] before the Dog)"
+msgstr "Προκύων (Prokyon, O que [sae] antes do Can)"
+
+msgid "The bright star just over the hindquarters, called Procyon"
+msgstr ""
+"A estrela brillante xusto sobre os cuartos traseiros, chamada \"Procyon\""
+
+msgid "The more advanced of the 2 stars in the stern-ornament"
+msgstr "A máis avanzada das 2 estrelas no adorno de popa"
+
+msgid ""
+"The northernmost of the 2 stars close together over the little shield in the "
+"poop"
+msgstr "A máis ó norte das 2 estrelas xuntas sobre o pequeno escudo da popa"
+
+msgid "The most advanced of the 3 stars under the little shield"
+msgstr "A máis avanzada das 3 estrelas baixo o pequeno escudo"
+
+msgid "The star on the goose [-neck]"
+msgstr "A estrela no [pescozo] do ganso"
+
+msgid "The northernmost of the 2 stars in the stern-keel"
+msgstr "A máis ó norte das 2 estrelas da quilla de popa"
+
+msgid "Stars in the poop-deck:  the northernmost"
+msgstr "Estrelas na cabina da cuberta: a máis ó norte"
+
+msgid "The most advanced of the next 3"
+msgstr "A máis adiantada das 3 seguintes"
+
+msgid "The more advanced of the 2 faint stars under the bright one"
+msgstr "A máis adiantada das 2 estrelas febles baixo a brillante"
+
+msgid "The more advanced of the 2 stars over the above-mentioned bright one"
+msgstr "A máis avanzada das 2 estrelas sobre a brillante mencionada"
+
+msgid ""
+"The northernmost of the 3 stars on the little shields, about on the mast-"
+"holder"
+msgstr "A máis ó norte das 3 estrelas dos pequenos escudos, sobre o mastro"
+
+msgid "The northernmost of the 2 stars close together under these"
+msgstr "A máis ó norte das 2 estrelas xuntas debaixo destas"
+
+msgid "The southernmost of the 2 stars in the middle of the mast"
+msgstr "A máis ó sur das 2 estrelas no medio do mastro"
+
+msgid "The more advanced of the 2 stars by the tip of the mast"
+msgstr "A máis avanzada das 2 estrelas na punta do mastro"
+
+msgid "The star below the 3rd and rearmost little shield"
+msgstr "A estrela debaixo da 3º e o do escudo máis traseiro"
+
+msgid "The bright star to the south of this, on the lower [part of the] keel"
+msgstr "A estrela brillante ó sur desta, na [parte inferior] da quilla"
+
+msgid "The most advanced of the 3 stars to the rear of this"
+msgstr "A máis avanzada das 3 estrelas na parte traseira desta"
+
+msgid "The more advanced of the 2 stars to the rear of these, near the cut-off"
+msgstr ""
+"A máis avanzada das 2 estrelas na parte traseira destas, preto do corte"
+
+msgid "The more advanced of the 2 stars in the northern, advance steering-oar"
+msgstr "A máis avanzada das 2estrelas do norte, o temón máis avanzado"
+
+msgid "Κάνωβος (Kanobos)"
+msgstr "Κάνωβος (Kanobos)"
+
+msgid ""
+"The more advanced of the 2 stars in the other steering-oar, called Canopus"
+msgstr ""
+"A máis avanzada das 2 estrelas do outro remo de dirección, chamada Canopus"
+
+msgid ""
+"The 5 stars in the head:  the southernmost of the 2 advance ones, which is "
+"on the nostrils"
+msgstr ""
+"As 5 estrelas da cabeza: a máis ó sur das 2 avanzadas, que está nas fosas "
+"nasais"
+
+msgid "The northernmost of these [2], which is above the eye"
+msgstr "A que está máis ó norte destas [2], que está sobre o ollo"
+
+msgid ""
+"The northernmost of the 2 to the rear of these, which is about on the skull"
+msgstr "A máis ó norte das 2 na parte traseira destas, que está sobre o cranio"
+
+msgid "The rearmost of all, about on the cheek"
+msgstr "A máis traseira de todas, sobre a meixela"
+
+msgid ""
+"The more advanced of the 2 stars in the place where the neck joins [the head]"
+msgstr ""
+"A máis avanzada das 2 estrelas no lugar onde se une o pescozo [coa cabeza]"
+
+msgid "The faint, northernmost star of the 2 close together to the south"
+msgstr "A feble estrela máis ó norte das 2 xuntas ó sur"
+
+msgid "The bright one of these two close stars"
+msgstr "A brillante destas dúas estrelas próximas"
+
+msgid ""
+"The most advanced of the 3 stars to the rear, after the bend [in the neck]"
+msgstr ""
+"A máis avanzada das 3 estrelas cara atrás, despois da curva [no pescozo]"
+
+msgid "The most advanced of the next 3 stars almost on a straight line"
+msgstr "A máis avanzada das seguintes 3 estrelas case en liña recta"
+
+msgid ""
+"The northernmost of the 2 stars after [i.e. to the rear of] the base of "
+"Crater"
+msgstr ""
+"A máis ó norte das 2 estrelas despois de [i.e. á parte traseira de] a base "
+"da Copa"
+
+msgid "The most advanced of the 3 stars after these, as it were in a triangle"
+msgstr "A máis avanzada das 3 estrelas despois destas, coma nun triángulo"
+
+msgid "The star some distance to the rear of those in the neck [nos. 6-15]"
+msgstr ""
+"A estrela está a certa distancia da parte traseira das do pescozo [nos. 6-15]"
+
+msgid "The southernmost of the 2 stars in the middle of the bowl"
+msgstr "A mais ó sur das 2 estrelas no medio da cunca"
+
+msgid "The more advanced of the 2 stars in the rear wing"
+msgstr "A máis avanzada das 2 estrelas na á traseira"
+
+msgid "The southernmost of the 4 stars in the head"
+msgstr "A máis ó sur das 4 estrelas da cabeza"
+
+msgid "The more advanced of the other, middle 2"
+msgstr "A máis avanzada das outras, as 2 do medio"
+
+msgid "The rearmost of these, the last of the 4"
+msgstr "A máis traseira destas, a última das 4"
+
+msgid "The 4 stars in the thyrsus:  the northernmost of the advance 2"
+msgstr "As 4 estrelas do Thyrsus: a máis ó norte das 2 de diante"
+
+msgid "The most advanced of the 3 stars in the right side"
+msgstr "A máis avanzada das 3 estrelas do lado dereito"
+
+msgid "The rearmost of the 2 faint stars to the north of this"
+msgstr "A máis traseira das 2 tenues estrelas ó norte desta"
+
+msgid "The more advanced of the 2 stars close together on the right thigh"
+msgstr "A máis avanzada das 2 estrelas xuntas na coxa dereita"
+
+msgid "The more advanced of the 2 stars under the belly"
+msgstr "A máis adiantada das 2 estrelas baixo o abdome"
+
+msgid "The more advanced of the 2 stars just over the shoulder-blade"
+msgstr "A máis avanzada das 2 estrelas xusto sobre a omoplata"
+
+msgid ""
+"The northernmost of the 2 stars near the place where the thigh joins [the "
+"body]"
+msgstr ""
+"A máis ó norte das 2 estrelas preto do lugar onde se xunta a coxa [co corpo]"
+
+msgid "The southernmost of the 2 stars in the neck"
+msgstr "A máis ó sur das 2 estrelas do pescozo"
+
+msgid "The more advanced of the 2 stars in the snout"
+msgstr "A máis avanzada das 2 estrelas no fociño"
+
+msgid "The southernmost of the 2 stars in the front leg"
+msgstr "A máis ó sur das 2 estrelas da perna dianteira"
+
+msgid "The northernmost of the 2 stars in the base"
+msgstr "A máis ó norte das 2 estrelas da base"
+
+msgid "The northernmost of the 3 stars in the brazier"
+msgstr "A máis ó norte das 3 estrelas do braseiro"
+
+msgid "The southernmost of the other 2 which are close together"
+msgstr "A máis ó sur das outras 2 que están xuntas"
+
+msgid "The northernmost of these [2]"
+msgstr "A máis ó norte destas [2]"
+
+msgid ""
+"The one after this, which is north of the bright star in the knee [of "
+"Sagittarius, 593 Sgr 24]"
+msgstr ""
+"A de detrás desta, ó norte da estrela brillante no xeonllo [de Arqueiro, 593 "
+"Sgr 24]"
+
+msgid "The rearmost of the 2 stars after this, in advance, in the northern rim"
+msgstr ""
+"A máis traseira das 2 estrelas despois desta, adiantada, no bordo norte"
+
+msgid "The more advanced of these 2 faint stars"
+msgstr "A máis avanzada destas 2 tenues estrelas"
+
+msgid ""
+"The star in the mouth, which is the same as the beginning of the water [670 "
+"Aqr 42]"
+msgstr "A estrela na boca, que é o mesmo que o comezo da auga [670 Aqr 42]"
+
+msgid "The most advanced of the 3 stars on the southern rim of the head"
+msgstr "A máis avanzada das 3 estrelas no bordo sur da cabeza"
+
+msgid "The rearmost of the 2 stars in the belly"
+msgstr "A máis traseira das 2 estrelas do ventre"
+
+msgid "The rearmost of the 3 stars on the northern spine"
+msgstr "A máis traseira das 3 estrelas da columna vertebral norte"
+
+msgid ""
+"The most advanced of the 3 bright stars in advance of Piscis [Austrinus]"
+msgstr "A máis avanzada das 3 estrelas brillantes antes de Peixe [Austral]"
+
+msgid "The southernmost of the remaining 2 stars to the north"
+msgstr "A máis ó sur das 2 estrelas restantes ó norte"
+
+#. TRANSLATORS: Native name for Jupiter
+msgid "Zeus/Dios"
+msgstr "Zeus/Deus"
+
+#. TRANSLATORS: Native name for Venus
+msgid "Aphrodite"
+msgstr "Afrodita"
+
+#. TRANSLATORS: Native name for Mars
+msgid "Ares"
+msgstr "Ares"
+
+#. TRANSLATORS: Native name for Saturn
+msgid "Kronos"
+msgstr "Kronos"
+
+#. TRANSLATORS: Native name for Mercury
+msgid "Hermes"
+msgstr "Hermes"
+
+#. TRANSLATORS: Native name for the Sun
+msgid "Helios"
+msgstr "Helios"
+
+#. TRANSLATORS: Native name for the Moon
+msgid "Selene"
+msgstr "Selene"
+
+msgid "Uranus (1781)"
+msgstr "Urano (1781)"
+
+msgid "Neptun (1846)"
+msgstr "Neptuno (1846)"
+
+msgid "φάτνη (Manger)"
+msgstr "φάτνη (Presebe)"
+
+msgid "Πλειάδες (Pleiades)"
+msgstr "Πλειάδες (Pléiades)"
+
+msgid "Tau 30-33"
+msgstr "Tau 30-33"
+
+msgid "ʿΥάδες (Hyades)"
+msgstr "ʿΥάδες (Híades)"
+
+msgid "Tau 11-15"
+msgstr "Tau 11-15"
+
+msgid "πλόκαμος (Coma)"
+msgstr "πλόκαμος (Coma)"
+
+msgid "Leo 33"
+msgstr "Leo 33"
+
+msgid "sco 22"
+msgstr "sco 22"

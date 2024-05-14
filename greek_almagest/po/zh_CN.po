@@ -1,0 +1,3646 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Silas Wong <wsl98501@163.com>, 2023\n"
+"Language-Team: Chinese (China) (https://app.transifex.com/stellarium/"
+"teams/80998/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Greek (Almagest)"
+msgstr "希腊 (天文学大成)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"<p>This ancient Greek sky culture is compiled in a book that is today known "
+"by its Arabic title \"Almagest\".\n"
+"This book was written in Roman time (under the reign of Roman emperor "
+"Hadrian) at Alexandria (Africa) in\n"
+"Greek language, with dates given in Egyptian month names and years counted "
+"after a Babylonian king,\n"
+"so it is clearly a multi-cultural compendium of knowledge. It is a "
+"compilation of\n"
+"astronomical knowledge of former astronomers including results from\n"
+"observations and mathematical astronomy. Pieced together by Claudius\n"
+"Ptolemy, using older, as well as his own, observations, it was written\n"
+"in Greek, published in the Second Century and remained the main\n"
+"astronomical work for the following 1500 years. It was originally written\n"
+"with the title <i>Mathematike Syntaxis</i>, in Ancient Greek.\n"
+"The name <i>Almagest</i>, meaning &ldquo;The Largest [Book]&rdquo;, was\n"
+"developed from Arabian translations. To create this sky culture we used\n"
+"the English translation by Toomer (1984), reworked it in some details\n"
+"(e.g. using more literal translations from Greek instead of Latin terms "
+"that\n"
+"are common today) and we made use of computer readable tables prepared\n"
+"by Ernie Wright.</p>\n"
+"<p>The Almagest consists of 13 sections, called books. In the seventh\n"
+"and eighth book, Ptolemy listed a total of 1022 stars in 48 constellations\n"
+"(among which are about 5 star-like objects like globular star clusters).\n"
+"It is a table of coordinates of the stars with a description of their\n"
+"position in the constellation (such as \"star at the elbow of X, longitude,\n"
+"latitude, magnitude\"). With regard to precession, Ptolemy used ecliptic\n"
+"coordinates. As one of the first of his time, Ptolemy included the\n"
+"magnitude, a quantitative scale of stellar brightness, probably adopted\n"
+"from Hipparchus (which is not certain because Hipparchus&rsquo; catalog\n"
+"is not preserved). The scale starts with the brightest star with the\n"
+"magnitude of 1, going down to magnitude of 6, for the faintest stars\n"
+"visible.</p>\n"
+"<p>For the computation of planet positions Ptolemy used a geocentric model\n"
+"(which is allowed because the observer always stands on Earth) and, thus,\n"
+"contributed to the scientific belief that the heliocentric model by\n"
+"Aristarch was not needed. However, for the star catalogue of the\n"
+"<i>Almagest</i> this does not matter at all because a star catalogue\n"
+"always represents a sort of inventory of the fixed dots in the sky and\n"
+"Ptolemy's proclaimed aim of the catalogue is to provide a list for making\n"
+"a celestial globe (see Alm., VIII, 3). Being aware of precession he wants\n"
+"to ease the business of future globemakers by using ecliptical coordinates:\n"
+"Precession as known to Ptolemy shifts all stars parallel to the ecliptic,\n"
+"therefore updates to the epoch of the respective globemaker could be\n"
+"applied by a simple subtraction of the value for ecliptic longitude.</p>"
+msgstr ""
+"<p>This ancient Greek sky culture is compiled in a book that is today known "
+"by\n"
+"its Arabic title \"Almagest\".  This book was written in Roman time (under "
+"the\n"
+"reign of Roman emperor Hadrian) at Alexandria (Africa) in Greek language,\n"
+"with dates given in Egyptian month names and years counted after a\n"
+"Babylonian king, so it is clearly a multi-cultural compendium of\n"
+"knowledge. It is a compilation of astronomical knowledge of former\n"
+"astronomers including results from observations and mathematical\n"
+"astronomy. Pieced together by Claudius Ptolemy, using older, as well as his\n"
+"own, observations, it was written in Greek, published in the Second Century\n"
+"and remained the main astronomical work for the following 1500 years. It "
+"was\n"
+"originally written with the title <i>Mathematike Syntaxis</i>, in Ancient\n"
+"Greek.  The name <i>Almagest</i>, meaning &ldquo;The Largest [Book]&rdquo;,\n"
+"was developed from Arabian translations. To create this sky culture we used\n"
+"the English translation by Toomer (1984), reworked it in some details\n"
+"(e.g. using more literal translations from Greek instead of Latin terms "
+"that\n"
+"are common today) and we made use of computer readable tables prepared by\n"
+"Ernie Wright.</p>\n"
+"<p>《天文学大成》由十三个部分组成，称为册。在第七和第八册中，托勒密列出了48个"
+"星座总共1022颗恒星（其中约有5个类星物体，如球状星团）。\n"
+"它是一个星体的坐标表，描述它们在星座中的位置（例如\"X\n"
+"肘处的恒星，经度、纬度、星等\"）。关于进动，托勒密使用黄道坐标。托勒密第一次"
+"将星等（一种恒星亮度的定量尺度）包括在内，这可能是从希帕丘斯（Hipparchus）那"
+"里获得的（由于希帕丘斯的星表没有保存下来，所以还不能确定）。从最亮的恒星开"
+"始，星等为1，降到最微弱的可见恒星的6等。</p>\n"
+"<p>在计算行星位置时，托勒密使用了地心模型（这是允许的，因为观测者总是站在地球"
+"上），因此，它促成了科学信念，即不需要阿里斯塔克的日心模型。然而，对于《<i>天"
+"文学大成</i>》的星表来说，这一点都不重要，因为星表总是代表着天空中固定点的一"
+"种目录，托勒密宣称星表的目的是提供一个天体表（见Alm.,\n"
+"VIII,\n"
+"3）。他意识到岁差，他想通过使用黄道坐标来简化未来地球仪制造的业务：托勒密所知"
+"的岁差使所有恒星平行于黄道移动，因此，通过简单地减去黄道经度的值，就可以更新"
+"相应地球时代的纪元。</p>"
+
+# Sky culture description section in markdown format
+msgid ""
+"### How this sky culture was made\n"
+"\n"
+"### Star names\n"
+"\n"
+"Out of more than 1,000 stars, Ptolemy mentions a proper name for only 15.\n"
+"The rest are identified by fairly long descriptions such as \"The star on\n"
+"the end of the tail\" for the Polaris. In order to avoid displaying such "
+"long\n"
+"strings across the screen in Stellarium, we invented short labels for all\n"
+"Almagest stars based on the constellation and the order in which they appear "
+"in\n"
+"the catalogue.  For example, Polaris is given a designation \"UMi 1\" "
+"because\n"
+"it is the first star in the constellation of Small Bear (UMi).  See the "
+"table\n"
+"below for the correspondence between Ptolemy constellations and IAU "
+"abbreviations.\n"
+"In addition, where Ptolemy describes a star as lying outside of the figure,\n"
+"we use lowercase letters in the corresponding label. To see the long "
+"description\n"
+"for a given star, users should enable \"Use additional names of stars\" in "
+"the\n"
+"\"View [F4]/Sky\" settings and click on the star. The long description will "
+"then\n"
+"be displayed at the top of the screen.\n"
+"\n"
+"### Constellation lines\n"
+"\n"
+"<p>The process can be described as sketched here with the example of\n"
+"Corvus:</p>\n"
+"<p>In the constellation of Corvus (Raven), &alpha; Crv is the star in\n"
+"the &quot;head of the raven&quot;. It is connected with the &quot;star\n"
+"in the neck&quot;, &epsilon; Crv.  This one is connected with &quot;the\n"
+"star in the breast&quot; &zeta; Crv.  From there two lines go to the\n"
+"tips of the wings. &gamma; Crv is the star in the advanced wing and\n"
+"&delta; Crv the star in the rear wing. From the star in the breast\n"
+"another line goes to the &quot;foot of the raven&quot;, the star &beta;\n"
+"Crv.</p>\n"
+"<p><img width=\"800\" src=\"corvus_s.png\" /></p>\n"
+"<p>After identifying the stars based on their coordinates and names, we\n"
+"reconnected the stars according to the descriptions in the table\n"
+"presented in the <i>Almagest</i>.</p>\n"
+"<p>The names of stars and names of deep sky objects rely on the Almagest\n"
+"only, e.g. Ptolemy uses the name &quot;&lambda;&alpha;&mu;&pi;&alpha;&delta;"
+"&#943;&alpha;&sigmaf;\n"
+"(The Torch-like)&quot; for Aldebaran in his other work, the\n"
+"<i>Tetrabiblos</i>, but this is not implemented in this sky culture because\n"
+"it doesn't show up in the Almagest.</p>\n"
+"<p>The following table displays the original constellation name in Greek and "
+"its\n"
+"English translation (column 2 and 3) and denotes our uncertainties in\n"
+"the reconstruction (column 6).</p>\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>Abbreviation</b></td>\n"
+"\t<td><b>Original name</b></td>\n"
+"\t<td><b>Translation</b> (direct)</td>\n"
+"\t<td><b>IAU (Latin) name</b></td>\n"
+"\t<td><b>hints to constellation</b></td>\n"
+"\t<td><b>freedom of art</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>UMi</notr></td>\n"
+"\t<td><notr>&Mu;&iota;&kappa;&rho;&#942; &#702;&#714;&Alpha;&rho;&kappa;&tau;"
+"&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Small She-Bear</td>\n"
+"\t<td><notr>Ursa Minor</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>UMa</notr></td>\n"
+"\t<td><notr>&Mu;&epsilon;&gamma;&alpha;&lambda;&#942; &#702;&#714;&Alpha;"
+"&rho;&kappa;&tau;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Great She-Bear</td>\n"
+"\t<td><notr>Ursa Major</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Dra</notr></td>\n"
+"\t<td><notr>&Delta;&rho;&#940;&kappa;&omega;&nu;</notr></td>\n"
+"\t<td>Dragon</td>\n"
+"\t<td><notr>Draco</notr></td>\n"
+"\t<td>all triangles or squares are vertebra or parts of the body; line at "
+"the head is the tongue</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"\t<tr valign=\"top\">\n"
+"\t<td><notr>Cep</notr></td>\n"
+"\t<td><notr>&Kappa;&eta;&phi;&epsilon;&#973;&sigmaf;</notr></td>\n"
+"\t<td>Kepheus</td>\n"
+"\t<td><notr>Cepheus</notr></td>\n"
+"\t<td>king, upside down </td>\n"
+"\t<td>three head stars are tiara; &beta; seen as part of the belt, although "
+"Almagest says beneath belt</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Boo</notr></td>\n"
+"\t<td><notr>&Beta;&omicron;&#974;&tau;&eta;&sigmaf;</notr></td>\n"
+"\t<td>Ploughman</td>\n"
+"\t<td><notr>Bo&ouml;tes</notr></td>\n"
+"\t<td>has a shepherd's staff in his hand (&omega;)</td>\n"
+"\t<td>star HIP 72582 added as neck star</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>CrB</notr></td>\n"
+"\t<td><notr>&Sigma;&tau;&#941;&phi;&alpha;&nu;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Crown</td>\n"
+"\t<td><notr>Corona Borealis</notr></td>\n"
+"\t<td>like IAU constellation; no details for lines in the text</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Her</notr></td>\n"
+"\t<td><notr>&#703;&Epsilon;&nu;&gamma;&#972;&nu;&alpha;&sigma;&iota;&nu;</"
+"notr></td>\n"
+"\t<td>Kneeler</td>\n"
+"\t<td><notr>Hercules</notr></td>\n"
+"\t<td>one of the foot stars is top of staff of Bootes</td>\n"
+"\t<td>star HIP 82764 added as neck star</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Lyr</notr></td>\n"
+"\t<td><notr>&Lambda;&#973;&rho;&alpha;</notr></td>\n"
+"\t<td>Lyre</td>\n"
+"\t<td><notr>Lyra</notr></td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cyg</notr></td>\n"
+"\t<td><notr>&#702;&#714;&Omicron;&rho;&nu;&iota;&sigmaf;</notr></td>\n"
+"\t<td>Bird</td>\n"
+"\t<td><notr>Cygnus</notr></td>\n"
+"\t<td>swan with legs</td>\n"
+"\t<td>Tips of wings connected with tail</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cas</notr></td>\n"
+"\t<td><notr>&Kappa;&alpha;&sigma;&sigma;&iota;&#941;&pi;&epsilon;&iota;"
+"&alpha;</notr></td>\n"
+"\t<td>Kassiepeia</td>\n"
+"\t<td><notr>Cassiopeia</notr></td>\n"
+"\t<td>Queen sitting on a throne</td>\n"
+"\t<td>to avoid confusion we did not draw the throne</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Per</notr></td>\n"
+"\t<td><notr>&Pi;&epsilon;&rho;&sigma;&epsilon;&#973;&sigmaf;</notr></td>\n"
+"\t<td>Perseus</td>\n"
+"\t<td><notr>Perseus</notr></td>\n"
+"\t<td>Double star cluster NGC 869 and NGC 884 as Deep Sky Object - &gt;one "
+"of the stars in the cluster was used for drawing</td>\n"
+"\t<td>one of the stars in Gorgon-head is added to make the head look more "
+"spherical</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Aur</notr></td>\n"
+"\t<td><notr>&#703;&Eta;&nu;&#943;&omicron;&chi;&omicron;&sigmaf;</notr></"
+"td>\n"
+"\t<td>Charioteer</td>\n"
+"\t<td><notr>Auriga</notr></td>\n"
+"\t<td>wears long garment; garment limited through shoulders and hem</td>\n"
+"\t<td>o Aur added as neck star; 1 Aur added as hem star</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Oph</notr></td>\n"
+"\t<td><notr>&#702;&Omicron;&phi;&iota;&omicron;&#973;&chi;&omicron;&sigmaf;</"
+"notr></td>\n"
+"\t<td>Serpent Bearer</td>\n"
+"\t<td><notr>Ophiuchus</notr></td>\n"
+"\t<td>has serpent in his hand</td>\n"
+"\t<td>a star added as neck star</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Ser</notr></td>\n"
+"\t<td><notr>&#702;&#714;&Omicron;&phi;&iota;&sigmaf;</notr></td>\n"
+"\t<td>Snake</td>\n"
+"\t<td><notr>Serpens</notr></td>\n"
+"\t<td>two separate parts of the snake (head and tail); square is head</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Sge</notr></td>\n"
+"\t<td><notr>&#702;&Omicron;&iota;&sigma;&tau;&#972;&sigmaf;</notr></td>\n"
+"\t<td>Arrow</td>\n"
+"\t<td><notr>Sagitta</notr></td>\n"
+"\t<td>Like IAU constellation, &eta; Sge is missing </td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Aql</notr></td>\n"
+"\t<td><notr>&#702;&Alpha;&epsilon;&tau;&#972;&sigmaf;</notr></td>\n"
+"\t<td>Eagle</td>\n"
+"\t<td><notr>Aquila</notr></td>\n"
+"\t<td>&tau; Aql as head star, &beta; as neck, Altair is between shoulders, "
+"&gamma; and &mu; are shoulders</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Del</notr></td>\n"
+"\t<td><notr>&Delta;&epsilon;&lambda;&phi;&#943;&sigmaf;</notr></td>\n"
+"\t<td>Dolphin</td>\n"
+"\t<td><notr>Delphinus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>refined shape</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Equ</notr></td>\n"
+"\t<td><notr>&Pi;&rho;&omicron;&tau;&omicron;&mu;&#942;</notr></td>\n"
+"\t<td>Bust [of a horse]</td>\n"
+"\t<td><notr>Equuleus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Peg</notr></td>\n"
+"\t<td><notr>&#703;&#714;&Iota;&pi;&pi;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Horse</td>\n"
+"\t<td><notr>Pegasus</notr></td>\n"
+"\t<td>with mane and one wing</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>And</notr></td>\n"
+"\t<td><notr>&#702;&Alpha;&nu;&delta;&rho;&omicron;&mu;&#941;&delta;&alpha;</"
+"notr></td>\n"
+"\t<td>Andromeda</td>\n"
+"\t<td class='latin'><notr>Andromeda</notr></td>\n"
+"\t<td>dress and belt</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Tri</notr></td>\n"
+"\t<td><notr>&Tau;&rho;&#943;&gamma;&omega;&nu;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Triangle</td>\n"
+"\t<td><notr>Triangulum</notr></td>\n"
+"\t<td>four given stars &#61664; middle star of one side</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Ari</notr></td>\n"
+"\t<td><notr>&Kappa;&rho;&iota;&#972;&sigmaf;</notr></td>\n"
+"\t<td>Ram</td>\n"
+"\t<td><notr>Aries</notr></td>\n"
+"\t<td>turned head; only one horn</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Tau</notr></td>\n"
+"\t<td><notr>&Tau;&alpha;&upsilon;&#771;&rho;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Bull</td>\n"
+"\t<td><notr>Taurus</notr></td>\n"
+"\t<td>half body, only two legs visible; direction of view to observer</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Gem</notr></td>\n"
+"\t<td><notr>&Delta;&#943;&delta;&upsilon;&mu;&omicron;&iota;</notr></td>\n"
+"\t<td>Twins</td>\n"
+"\t<td><notr>Gemini</notr></td>\n"
+"\t<td>one star in common; touching each other with hands</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cnc</notr></td>\n"
+"\t<td><notr>&Kappa;&alpha;&rho;&kappa;&#943;&nu;&omicron;&sigmaf;</notr></"
+"td>\n"
+"\t<td>Crab</td>\n"
+"\t<td><notr>Cancer</notr></td>\n"
+"\t<td>square body</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Leo</notr></td>\n"
+"\t<td><notr>&Lambda;&#941;&omega;&nu;</notr></td>\n"
+"\t<td>Lion</td>\n"
+"\t<td><notr>Leo</notr></td>\n"
+"\t<td>opens jaw</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Vir</notr></td>\n"
+"\t<td><notr>&Pi;&alpha;&rho;&theta;&#941;&nu;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Maiden</td>\n"
+"\t<td><notr>Virgo</notr></td>\n"
+"\t<td>no separate head</td>\n"
+"\t<td>fainter stars added to draw the wings</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Lib</notr></td>\n"
+"\t<td><notr>&Chi;&eta;&lambda;&alpha;&#943;</notr></td>\n"
+"\t<td>Claws [of the Scorpion]</td>\n"
+"\t<td><notr>Libra</notr></td>\n"
+"\t<td>Ptolemy always uses the term &quot;claws&quot;, never &quot;the "
+"balance&quot;.</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Sco</notr></td>\n"
+"\t<td><notr>&Sigma;&kappa;&omicron;&rho;&pi;&#943;&omicron;&sigmaf;</notr></"
+"td>\n"
+"\t<td>Scorpion</td>\n"
+"\t<td><notr>Scorpius</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>arms added around the head: &nu; and &rho;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Sgr</notr></td>\n"
+"\t<td><notr>&Tau;&omicron;&xi;&#972;&tau;&eta;&sigmaf;</notr></td>\n"
+"\t<td>Archer</td>\n"
+"\t<td><notr>Sagittarius</notr></td>\n"
+"\t<td>a centaur with  bow ahead; &bdquo;cloak&ldquo; behind</td>\n"
+"\t<td>we included many faint stars in our stick figure in order to make the "
+"picture clear.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cap</notr></td>\n"
+"\t<td><notr>&Alpha;&#943;&gamma;&#972;&kappa;&epsilon;&rho;&omicron;&sigmaf;"
+"</notr></td>\n"
+"\t<td>The One with the Goat's Horn</td>\n"
+"\t<td><notr>Capricornus</notr></td>\n"
+"\t<td>fish tail; two legs visible</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Aqr</notr></td>\n"
+"\t<td><notr>&#703;&Upsilon;&delta;&rho;&omicron;&chi;&#972;&omicron;&sigmaf;"
+"</notr></td>\n"
+"\t<td>Water-Carrier</td>\n"
+"\t<td><notr>Aquarius</notr></td>\n"
+"\t<td>water out of jug</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Psc</notr></td>\n"
+"\t<td><notr>&#702;&Iota;&chi;&theta;&#973;&epsilon;&sigmaf;</notr></td>\n"
+"\t<td>[2] Fish</td>\n"
+"\t<td><notr>Pisces</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>northern fish: 68(h), 67(k), and 65(i) described as head in Almagest "
+"but we took them as fin because mouth should be at g and &tau; Psc. "
+"Additional change on tail fin: extended to &rho;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cet</notr></td>\n"
+"\t<td><notr>&Kappa;&eta;&#771;&tau;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Sea Monster</td>\n"
+"\t<td><notr>Cetus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>Body does not go through star &tau;, but through star &upsilon;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Ori</notr></td>\n"
+"\t<td><notr>&#702;&Omega;&rho;&#943;&omega;&nu;</notr></td>\n"
+"\t<td>Orion</td>\n"
+"\t<td class='latin'><notr>Orion</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>The &quot;head&quot; is labeled as &quot;nebulous&quot; which means "
+"Ptolemy interpreted &phi;<sub>1</sub>, &phi;<sub>2</sub>, and  &lambda;, "
+"together with fainter stars between them as a &quot;cluster&quot; (or "
+"association which is more extended than the modern &quot;&lambda; Ori Assoc."
+"&quot;). Head does not have direct connection to the shoulder stars anymore, "
+"but a connection to a star between the stars in the shoulders.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Eri</notr></td>\n"
+"\t<td><notr>&Pi;&omicron;&tau;&alpha;&mu;&omicron;&#972;&sigmaf;</notr></"
+"td>\n"
+"\t<td>River [nameless]</td>\n"
+"\t<td><notr>Eridanus</notr></td>\n"
+"\t<td>Like IAU constellation, but shorter</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Lep</notr></td>\n"
+"\t<td><notr>&Lambda;&alpha;&gamma;&omega;&#771;&sigmaf;</notr></td>\n"
+"\t<td>Hare</td>\n"
+"\t<td><notr>Lepus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>took the \"4 stars over the ear\" as ear</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>CMa</notr></td>\n"
+"\t<td><notr>&Kappa;&#973;&omega;&nu;</notr></td>\n"
+"\t<td>Dog</td>\n"
+"\t<td><notr>Canis Major</notr></td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>CMi</notr></td>\n"
+"\t<td><notr>&Pi;&rho;&omicron;&kappa;&#973;&omega;&nu;</notr></td>\n"
+"\t<td>The One before the Dog</td>\n"
+"\t<td><notr>Canis Minor</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>In Almagest, the name of the constellation is &quot;The One before the "
+"Dog&quot; or &quot;Harbinger of Sirius&quot; as Toomer puts it. However, "
+"&beta; CMi is called &quot;the neck&quot; (of whom is unknown). We drew a "
+"little dog with &gamma; and &epsilon; as head; &alpha;, &beta;, &eta; and "
+"HIP36889 as body; forelegs with HIP 35509 and HIP 35614; hindlegs with "
+"&delta;<sub>2</sub> and &delta;<sub>3</sub>; tail with HIP 37634</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Arg</notr></td>\n"
+"\t<td><notr>&#702;&Alpha;&rho;&gamma;&omega;</notr></td>\n"
+"\t<td>Ship &quot;Argo&quot;</td>\n"
+"\t<td><notr>Argo</notr></td>\n"
+"\t<td>smaller than the sum of the IAU-constellations Pup+Pyx+Car+Vel</td>\n"
+"\t<td>Many stars not integrated in the constellation, to create a boat-like "
+"shape; in many depictions (including the ancient Farnese globe), only a half "
+"of a ship is painted.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Hya</notr></td>\n"
+"\t<td><notr>&#703;&#714;&Upsilon;&delta;&rho;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Water Snake</td>\n"
+"\t<td><notr>Hydra</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Crt</notr></td>\n"
+"\t<td><notr>&Kappa;&rho;&alpha;&tau;&#768;&eta;&rho;</notr></td>\n"
+"\t<td>Krater (vessel)</td>\n"
+"\t<td><notr>Crater</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>a Krater is special Greek wine mixing vessel which looks like an "
+"amphora or vase: <a href=\"https://en.wikipedia.org/wiki/Krater\">https://en."
+"wikipedia.org/wiki/Krater</a> Ptolemy describes only one star in the foot "
+"(&alpha; Crt) and two handles (&eta;, &theta; Crt)</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Crv</notr></td>\n"
+"\t<td><notr>&Kappa;&oacute;&rho;&alpha;&xi;</notr></td>\n"
+"\t<td>Raven</td>\n"
+"\t<td><notr>Corvus</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cen</notr></td>\n"
+"\t<td><notr>&Kappa;&#941;&nu;&tau;&alpha;&upsilon;&rho;&omicron;&sigmaf;</"
+"notr></td>\n"
+"\t<td>Kentauros</td>\n"
+"\t<td><notr>Centaurus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>deviation from description: HIP 65373 instead of &omega; Cen (cluster) "
+"taken as star on the back. &lsquo;Thyrsus&lsquo; not drawn (to avoid "
+"confusion), backward arm added.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Lup</notr></td>\n"
+"\t<td><notr>&Theta;&eta;&rho;&#943;&omicron;&nu;</notr></td>\n"
+"\t<td>Beast</td>\n"
+"\t<td><notr>Lupus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>&beta; described as &lsquo;End of hind leg&lsquo; -> taken as star in "
+"the belly; &tau;<sub>1</sub> as hindleg &Chi; removed from head, because "
+"otherwise shapelessness arises; HIP 73493 taken as foreleg</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Ara</notr></td>\n"
+"\t<td><notr>&Theta;&upsilon;&mu;&iota;&alpha;&tau;&#942;&rho;&iota;&omicron;"
+"&nu;</notr></td>\n"
+"\t<td>Altar</td>\n"
+"\t<td><notr>Ara</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>CrA</notr></td>\n"
+"\t<td><notr>&Sigma;&tau;&#941;&phi;&alpha;&nu;&omicron;&sigmaf; &Nu;&#972;"
+"&tau;&iota;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Southern Crown</td>\n"
+"\t<td><notr>Corona Australis</notr></td>\n"
+"\t<td>like IAU constellation; only uncertainty with stars that only got a "
+"BSC number in the Almagest, because these are not clearly to identify in "
+"Stellarium</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>PsA</notr></td>\n"
+"\t<td><notr>&Nu;&#972;&tau;&iota;&omicron;&sigmaf; &#702;&Iota;&chi;&theta;"
+"&#973;&sigmaf;</notr></td>\n"
+"\t<td>Southern Fish</td>\n"
+"\t<td><notr>Piscis Austrinus</notr></td>\n"
+"\t<td>the fish is laying on his back</td>\n"
+"\t<td>we added a few stars to mark the tail as such (&beta; should be the "
+"tip of the tail but we used it as its root)</td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"### Fair Use\n"
+"\n"
+"<p>This sky culture originates from a student's year of research. We provide "
+"this for free but\n"
+"authors of contributions certainly deserve to be cited according to the "
+"common rules. Thank you!</p>\n"
+"\n"
+"### Thanks\n"
+"\n"
+"<p>The authors thank Patrick Gleason and Georg Zotti for English "
+"proofreading and interesting discussions.</p>"
+msgstr ""
+"### 此星空文化如何形成\n"
+"\n"
+"### Star names\n"
+"\n"
+"在1000多颗恒星中，托勒密只提到了15颗恒星的专有名称。其余的则通过相当长的描述"
+"来识别，比如北极星的“尾巴末端的星星”。为了避免在Stellarium的屏幕上显示如此长"
+"的字符串，我们根据星座和它们在目录中出现的顺序为所有最伟大的恒星发明了短标"
+"签。例如，北极星被命名为“UMi\n"
+"1”，因为它是小熊星座（UMi）中的第一颗恒星。托勒密星座和IAU缩写之间的对应关系"
+"见下表。因为它是小熊星座 (UMi) 中的第一颗恒星。托勒密星座与\n"
+"IAU 缩写的对应关系见下表。此外，在托勒密将恒星描述为位于图形之外，我们在相应"
+"的标签中使用小写字母。要查看给定星星的详细描述，用户应在“查看\n"
+"[F4]/天空”设置中启用“使用附加的恒星名”，然后单击该星。详细说明随后将显示在屏"
+"幕顶部。\n"
+"\n"
+"### 星座连线\n"
+"\n"
+"<p>这个过程可以用乌鸦座的例子来描述：</p>\n"
+"<p>在乌鸦座中&alpha; Crv“乌鸦头”的星。从那里连接到“头之星”&epsilon; Crv。从这"
+"里连接到“胸之星”&zeta;\n"
+"Crv。从那里有两条线通向翅膀的前端，&gamma; Crv是前翼，&delta;\n"
+"Crv是后翼之星。另一条线从胸前的星星延伸到“乌鸦”的脚下，那是&beta; Crv。</p>\n"
+"<p><img width=\"800\" src=\"corvus_s.png\" /></p>\n"
+"<p>根据恒星的坐标和名称确定了恒星之后，我们根据《<i>天文学大成</i>》表格中的"
+"描述重新连接了恒星。</p>\n"
+"<p>星星的名称和深空天体的名称仅依赖于《天文学大成》，例如，托勒密在他的另一部"
+"作品<i>Tetrabiblos</i>中使用了“&lambda;&alpha;&mu;&pi;&alpha;&delta;&#943;"
+"&alpha;&sigmaf;\n"
+"（火炬状）” 作为毕宿五的名字，但这并没有在这种天空文化中实现，因为它没有出现"
+"在 《天文学大成》 中。</p>\n"
+"<p>下表显示了希腊的原始星座名称及其英语翻译（第2列和第3列），并说明了我们在重"
+"建中的不确定性（第6列）。</p>\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>缩写</b></td>\n"
+"\t<td><b>原生名</b></td>\n"
+"\t<td><b>翻译</b>（直接）</td>\n"
+"\t<td><b>IAU (拉丁) 名</b></td>\n"
+"\t<td><b>暗示星座</b></td>\n"
+"\t<td><b>艺术来源</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>UMi</td>\n"
+"\t<td>&Mu;&iota;&kappa;&rho;&#942; &#702;&#714;&Alpha;&rho;&kappa;&tau;"
+"&omicron;&sigmaf;</td>\n"
+"\t<td>小母熊</td>\n"
+"\t<td>Ursa Minor</td>\n"
+"\t<td>类似IAU星座</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>UMa</td>\n"
+"\t<td>&Mu;&epsilon;&gamma;&alpha;&lambda;&#942; &#702;&#714;&Alpha;&rho;"
+"&kappa;&tau;&omicron;&sigmaf;</td>\n"
+"\t<td>大母熊</td>\n"
+"\t<td>Ursa Major</td>\n"
+"\t<td>类似IAU星座</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Dra</td>\n"
+"\t<td>&Delta;&rho;&#940;&kappa;&omega;&nu;</td>\n"
+"\t<td>天龙</td>\n"
+"\t<td>Draco</td>\n"
+"\t<td>所有的三角或方形都是脊椎或身体的一部分，在头部的线条就是舌头</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"\t<tr valign=\"top\">\n"
+"\t<td>Cep</td>\n"
+"\t<td>&Kappa;&eta;&phi;&epsilon;&#973;&sigmaf;</td>\n"
+"\t<td>国王刻普斯</td>\n"
+"\t<td>Cepheus</td>\n"
+"\t<td>国王，颠倒 </td>\n"
+"\t<td>三颗头星是饰品;&beta;被视为腰带的一部分，尽管《天文学大成》说在腰带下面"
+"</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Boo</td>\n"
+"\t<td>&Beta;&omicron;&#974;&tau;&eta;&sigmaf;</td>\n"
+"\t<td>扶犁者</td>\n"
+"\t<td>Bo&ouml;tes</td>\n"
+"\t<td>手里拿着牧羊杖(&omega;)</td>\n"
+"\t<td>‭HIP 72582添加为颈部之星</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>CrB</td>\n"
+"\t<td>&Sigma;&tau;&#941;&phi;&alpha;&nu;&omicron;&sigmaf;</td>\n"
+"\t<td>皇冠</td>\n"
+"\t<td>Corona Borealis</td>\n"
+"\t<td>类似IAU星座，文字中没有详细信息</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Her</td>\n"
+"\t<td>&#703;&Epsilon;&nu;&gamma;&#972;&nu;&alpha;&sigma;&iota;&nu;</td>\n"
+"\t<td>跪拜者</td>\n"
+"\t<td>Hercules</td>\n"
+"\t<td>其中一名足部的星是牧夫们的管理人员</td>\n"
+"\t<td>HIP 82764添加为颈部之星</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Lyr</td>\n"
+"\t<td>&Lambda;&#973;&rho;&alpha;</td>\n"
+"\t<td>竖琴</td>\n"
+"\t<td>Lyra</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cyg</td>\n"
+"\t<td>&#702;&#714;&Omicron;&rho;&nu;&iota;&sigmaf;</td>\n"
+"\t<td>鸟</td>\n"
+"\t<td>Cygnus</td>\n"
+"\t<td>天鹅与腿</td>\n"
+"\t<td>翼尖与尾巴相连</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cas</td>\n"
+"\t<td>&Kappa;&alpha;&sigma;&sigma;&iota;&#941;&pi;&epsilon;&iota;&alpha;</"
+"td>\n"
+"\t<td>王后卡西俄庇亚</td>\n"
+"\t<td>Cassiopeia</td>\n"
+"\t<td>王后坐在宝座上</td>\n"
+"\t<td>为了避免混淆我们没有画宝座</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Per</td>\n"
+"\t<td>&Pi;&epsilon;&rho;&sigma;&epsilon;&#973;&sigmaf;</td>\n"
+"\t<td>英仙座</td>\n"
+"\t<td>Perseus</td>\n"
+"\t<td>双星团NGC 869和NGC 884是深空天体，星团中的一颗恒星被用来绘图</td>\n"
+"\t<td>在头部添加了一颗星，使头部看起来更像球</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Aur</td>\n"
+"\t<td>&#703;&Eta;&nu;&#943;&omicron;&chi;&omicron;&sigmaf;</td>\n"
+"\t<td>车夫</td>\n"
+"\t<td>Auriga</td>\n"
+"\t<td>穿长衣服；通过肩膀和下摆限制服装</td>\n"
+"\t<td>o Aur添加为颈部之星， 1 Aur 添加为下摆之星</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Oph</td>\n"
+"\t<td>&#702;&Omicron;&phi;&iota;&omicron;&#973;&chi;&omicron;&sigmaf;</td>\n"
+"\t<td>蛇夫</td>\n"
+"\t<td>Ophiuchus</td>\n"
+"\t<td>手里有蛇</td>\n"
+"\t<td>一颗星添加为颈部之星</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Ser</td>\n"
+"\t<td>&#702;&#714;&Omicron;&phi;&iota;&sigmaf;</td>\n"
+"\t<td>蛇</td>\n"
+"\t<td>Serpens</td>\n"
+"\t<td>蛇的两部分(头和尾)，方形是头</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Sge</td>\n"
+"\t<td>&#702;&Omicron;&iota;&sigma;&tau;&#972;&sigmaf;</td>\n"
+"\t<td>天矢</td>\n"
+"\t<td>Sagitta</td>\n"
+"\t<td>类似IAU星座，&eta; Sge缺失 </td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Aql</td>\n"
+"\t<td>&#702;&Alpha;&epsilon;&tau;&#972;&sigmaf;</td>\n"
+"\t<td>鹰</td>\n"
+"\t<td>Aquila</td>\n"
+"\t<td>&tau; Aql 是头部之星，&beta; 是颈部，Altair是肩膀之间，&gamma; 和 &mu; "
+"是双肩</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Del</td>\n"
+"\t<td>&Delta;&epsilon;&lambda;&phi;&#943;&sigmaf;</td>\n"
+"\t<td>海豚</td>\n"
+"\t<td>Delphinus</td>\n"
+"\t<td></td>\n"
+"\t<td>精致的形状</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Equ</td>\n"
+"\t<td>&Pi;&rho;&omicron;&tau;&omicron;&mu;&#942;</td>\n"
+"\t<td>马胸</td>\n"
+"\t<td>Equuleus</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Peg</td>\n"
+"\t<td>&#703;&#714;&Iota;&pi;&pi;&omicron;&sigmaf;</td>\n"
+"\t<td>马</td>\n"
+"\t<td>Pegasus</td>\n"
+"\t<td>带有鬃毛和一只翅膀</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>And</td>\n"
+"\t<td>&#702;&Alpha;&nu;&delta;&rho;&omicron;&mu;&#941;&delta;&alpha;</td>\n"
+"\t<td>仙女座</td>\n"
+"\t<td class='latin'>Andromeda</td>\n"
+"\t<td>衣服和皮带</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Tri</td>\n"
+"\t<td>&Tau;&rho;&#943;&gamma;&omega;&nu;&omicron;&sigmaf;</td>\n"
+"\t<td>三角形</td>\n"
+"\t<td>Triangulum</td>\n"
+"\t<td>四颗给定的星 &#61664; 一侧的中间星</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Ari</td>\n"
+"\t<td>&Kappa;&rho;&iota;&#972;&sigmaf;</td>\n"
+"\t<td>公羊</td>\n"
+"\t<td>Aries</td>\n"
+"\t<td>转过头；只有一个角</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Tau</td>\n"
+"\t<td>&Tau;&alpha;&upsilon;&#771;&rho;&omicron;&sigmaf;</td>\n"
+"\t<td>公牛</td>\n"
+"\t<td>Taurus</td>\n"
+"\t<td>半身，只有两条腿可见；观察者的视角</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Gem</td>\n"
+"\t<td>&Delta;&#943;&delta;&upsilon;&mu;&omicron;&iota;</td>\n"
+"\t<td>双胞胎</td>\n"
+"\t<td>Gemini</td>\n"
+"\t<td>一颗共有的星；用手触摸对方</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cnc</td>\n"
+"\t<td>&Kappa;&alpha;&rho;&kappa;&#943;&nu;&omicron;&sigmaf;</td>\n"
+"\t<td>蟹</td>\n"
+"\t<td>Cancer</td>\n"
+"\t<td>方形身体</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Leo</td>\n"
+"\t<td>&Lambda;&#941;&omega;&nu;</td>\n"
+"\t<td>狮子座</td>\n"
+"\t<td>Leo</td>\n"
+"\t<td>张开下巴</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Vir</td>\n"
+"\t<td>&Pi;&alpha;&rho;&theta;&#941;&nu;&omicron;&sigmaf;</td>\n"
+"\t<td>处女</td>\n"
+"\t<td>Virgo</td>\n"
+"\t<td>没有单独的头</td>\n"
+"\t<td>暗星画出翅膀</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Lib</td>\n"
+"\t<td>&Chi;&eta;&lambda;&alpha;&#943;</td>\n"
+"\t<td>蝎钳</td>\n"
+"\t<td>Libra</td>\n"
+"\t<td>托勒密总是用 &quot;claws&quot;这个词，从不用&quot;the balance&quot;这个"
+"词。</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Sco</td>\n"
+"\t<td>&Sigma;&kappa;&omicron;&rho;&pi;&#943;&omicron;&sigmaf;</td>\n"
+"\t<td>蝎子</td>\n"
+"\t<td>Scorpius</td>\n"
+"\t<td></td>\n"
+"\t<td>手臂环绕头部: &nu; and &rho;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Sgr</td>\n"
+"\t<td>&Tau;&omicron;&xi;&#972;&tau;&eta;&sigmaf;</td>\n"
+"\t<td>射手</td>\n"
+"\t<td>Sagittarius</td>\n"
+"\t<td>一个半人马和弓箭；&bdquo;cloak&ldquo; behind</td>\n"
+"\t<td>为了使画面清晰，我们在线条图中加入了许多暗淡的星。</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cap</td>\n"
+"\t<td>&Alpha;&#943;&gamma;&#972;&kappa;&epsilon;&rho;&omicron;&sigmaf;</td>\n"
+"\t<td>长山羊角者</td>\n"
+"\t<td>Capricornus</td>\n"
+"\t<td>鱼尾巴，可见两条腿</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Aqr</td>\n"
+"\t<td>&#703;&Upsilon;&delta;&rho;&omicron;&chi;&#972;&omicron;&sigmaf;</td>\n"
+"\t<td>水瓶</td>\n"
+"\t<td>Aquarius</td>\n"
+"\t<td>水从水罐里出来</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Psc</td>\n"
+"\t<td>&#702;&Iota;&chi;&theta;&#973;&epsilon;&sigmaf;</td>\n"
+"\t<td>双鱼</td>\n"
+"\t<td>Pisces</td>\n"
+"\t<td></td>\n"
+"\t<td>北鱼：68(h), 67(k), 及65(i) 在《天文学大成》中被描述为头，但我们把它们"
+"当做鳍。因为嘴应在g和&tau;\n"
+"Psc。尾翼的额外扩展到&rho;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cet</td>\n"
+"\t<td>&Kappa;&eta;&#771;&tau;&omicron;&sigmaf;</td>\n"
+"\t<td>海怪</td>\n"
+"\t<td>Cetus</td>\n"
+"\t<td></td>\n"
+"\t<td>身体不经过星 &tau;,但经过&upsilon;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Ori</td>\n"
+"\t<td>&#702;&Omega;&rho;&#943;&omega;&nu;</td>\n"
+"\t<td>猎户座</td>\n"
+"\t<td class='latin'>Orion</td>\n"
+"\t<td></td>\n"
+"\t<td>“头”被标记为“星云”，这意味着托勒密&phi;<sub>1</sub>, &phi;<sub>2</sub>,"
+"和\n"
+"&lambda;以及它们之间的较暗恒星解释为一个&quot;星团&quot; （或比现代&quot;lam "
+"Ori\n"
+"Assoc.&quot;更广泛的关联）。头不再直接与肩上的星相连，而是与肩上星星之间的星"
+"相连。</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Eri</td>\n"
+"\t<td>&Pi;&omicron;&tau;&alpha;&mu;&omicron;&#972;&sigmaf;</td>\n"
+"\t<td>河流</td>\n"
+"\t<td>Eridanus</td>\n"
+"\t<td>像IAU星座，但更短</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Lep</td>\n"
+"\t<td>&Lambda;&alpha;&gamma;&omega;&#771;&sigmaf;</td>\n"
+"\t<td>兔子</td>\n"
+"\t<td>Lepus</td>\n"
+"\t<td></td>\n"
+"\t<td>将“ 4星放在耳朵上”作为耳朵</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>CMa</td>\n"
+"\t<td>&Kappa;&#973;&omega;&nu;</td>\n"
+"\t<td>狗</td>\n"
+"\t<td>Canis Major</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>CMi</td>\n"
+"\t<td>&Pi;&rho;&omicron;&kappa;&#973;&omega;&nu;</td>\n"
+"\t<td>在狗之前</td>\n"
+"\t<td>Canis Minor</td>\n"
+"\t<td></td>\n"
+"\t<td>在《天文学大成》中，正如Toomer所说，这个星座的名称是s &quot;The One "
+"before the Dog&quot; 或者\n"
+"&quot;Harbinger of Sirius&quot; 。 但是，&beta; CMi被称为“脖子”。\n"
+"我们画了一条以γ和ε为头的小狗。&alpha;, &beta;, &eta;和HIP 36889为主体； HIP "
+"35509和HIP 35614的前腿;\n"
+"后腿有&delta;<sub>2</sub> and &delta;<sub>3</sub>; 尾巴是HIP 37634</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Arg</td>\n"
+"\t<td>&#702;&Alpha;&rho;&gamma;&omega;</td>\n"
+"\t<td>大船阿尔戈号</td>\n"
+"\t<td>Argo</td>\n"
+"\t<td>小于IAU星座船尾座、船底座、船帆座、罗盘座之和</td>\n"
+"\t<td>许多不整合在星座中的恒星形成船形。 在许多描绘中（包括古代的Farnese地球"
+"仪），只画了半条船。</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Hya</td>\n"
+"\t<td>&#703;&#714;&Upsilon;&delta;&rho;&omicron;&sigmaf;</td>\n"
+"\t<td>水蛇</td>\n"
+"\t<td>Hydra</td>\n"
+"\t<td>类似IAU星座</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Crt</td>\n"
+"\t<td>&Kappa;&rho;&alpha;&tau;&#768;&eta;&rho;</td>\n"
+"\t<td>酒杯</td>\n"
+"\t<td>Crater</td>\n"
+"\t<td></td>\n"
+"\t<td>Krater是一种特殊的希腊葡萄酒混合容器，它看起来像一个双耳瓶或花瓶：<a\n"
+"href=\"https://en.wikipedia.org/wiki/Krater\">https://en.wikipedia.org/wiki/"
+"Krater托勒密只描述了脚下的一颗星\n"
+"(&alpha; Crt) 和两个手柄(&eta;, &theta; Crt)</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Crv</td>\n"
+"\t<td>&Kappa;&oacute;&rho;&alpha;&xi;</td>\n"
+"\t<td>乌鸦</td>\n"
+"\t<td>Corvus</td>\n"
+"\t<td>类似IAU星座</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cen</td>\n"
+"\t<td>&Kappa;&#941;&nu;&tau;&alpha;&upsilon;&rho;&omicron;&sigmaf;</td>\n"
+"\t<td>半人马</td>\n"
+"\t<td>Centaurus</td>\n"
+"\t<td></td>\n"
+"\t<td>偏离描述：臀部是HIP65373而不是 &omega; Cen (星团)后面的恒星。&lsquo;手"
+"仗&lsquo;\n"
+"没有画出（以避免混淆），增加了后臂。</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Lup</td>\n"
+"\t<td>&Theta;&eta;&rho;&#943;&omicron;&nu;</td>\n"
+"\t<td>野兽</td>\n"
+"\t<td>Lupus</td>\n"
+"\t<td></td>\n"
+"\t<td>&beta; 描述为“后腿末端”->腹部为星; &tau;<sub>1</sub>表示后腿，&Chi; 从"
+"头部移除，因为否则会出现不规则形状；臀部HIP\n"
+"73493被视为前腿</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Ara</td>\n"
+"\t<td>&Theta;&upsilon;&mu;&iota;&alpha;&tau;&#942;&rho;&iota;&omicron;&nu;</"
+"td>\n"
+"\t<td>圣坛</td>\n"
+"\t<td>Ara</td>\n"
+"\t<td>类似IAU星座</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>CrA</td>\n"
+"\t<td>&Sigma;&tau;&#941;&phi;&alpha;&nu;&omicron;&sigmaf; &Nu;&#972;&tau;"
+"&iota;&omicron;&sigmaf;</td>\n"
+"\t<td>南冕</td>\n"
+"\t<td>Corona Australis</td>\n"
+"\t<td>像IAU星座； 只有在《天文学大成》中仅获得BSC编号的恒星才具有不确定性，因"
+"为在Stellarium中无法明确识别这些恒星</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>PsA</td>\n"
+"\t<td>&Nu;&#972;&tau;&iota;&omicron;&sigmaf; &#702;&Iota;&chi;&theta;&#973;"
+"&sigmaf;</td>\n"
+"\t<td>南鱼</td>\n"
+"\t<td>Piscis Austrinus</td>\n"
+"\t<td>鱼躺在他的背上</td>\n"
+"\t<td>我们添加了一些星来标记尾巴(&beta; 应该是尾巴尖，但我们用它作为尾巴根)</"
+"td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"### 合理使用\n"
+"\n"
+"<p>This sky culture originates from a student's year of research. We "
+"provide\n"
+"this for free but authors of contributions certainly deserve to be cited\n"
+"according to the common rules. Thank you!</p>\n"
+"\n"
+"### 感谢\n"
+"\n"
+"<p>作者感谢Patrick Gleason和Georg Zotti进行了英语校对和有趣的讨论。</p>"
+
+# Sky culture authors section in markdown format
+msgid ""
+"<p>This sky culture was compiled and added to Stellarium by Alina Schmidt, "
+"Lea Jabschinski, Marie von Seggern and Susanne M. Hoffmann: service@uhura-"
+"uraniae.com</p>\n"
+"<p>Written in English: the authors</p>"
+msgstr ""
+"<p>Alina Schmidt，Lea Jabschinski，Marie von Seggern和Susanne\n"
+"M.Hoffmann将这种星空文化汇编并添加到Stellarium中：service@uhura-uraniae.com</"
+"p>\n"
+"<p>中文翻译：Sun Shuwei</p>"
+
+msgid "Bird"
+msgstr "鸟"
+
+msgid "Perseus"
+msgstr "英仙座"
+
+msgid "The one next to it on the tail"
+msgstr "尾巴旁边的那颗"
+
+msgid "The one next to that, before the place where the tail joins [the body]"
+msgstr "旁边的那颗，在尾巴连接[身体]的地方之前"
+
+msgid "The southernmost of the stars in the advance side of the rectangle"
+msgstr "长方形前方最南端的星星"
+
+msgid "The northernmost of [those in] the same side"
+msgstr "[那些在]同一边的最北端"
+
+msgid ""
+"The star lying on a straight line with the stars in the rear side [of the "
+"rectangle] and south of them"
+msgstr "这颗星躺在 [矩形] 的背面与它们的南边的星星的一直在线"
+
+msgid "The star on the end of the snout"
+msgstr "鼻子末端的恒星"
+
+msgid "The more advanced of the stars in the two eyes"
+msgstr "在两只眼睛内星星中较前面的"
+
+msgid "The one to the rear"
+msgstr "接到后面的那颗"
+
+msgid "The more advanced of the two stars in the forehead"
+msgstr "额头两颗星中较前面的"
+
+msgid "The star on the tip of the advance ear"
+msgstr "前耳尖上的恒星"
+
+msgid "The more advanced of the two stars in the neck"
+msgstr "脖子上两颗星中比较前面的"
+
+msgid "The northernmost of the two stars in the chest"
+msgstr "胸中两颗星中最北端"
+
+msgid "The southernmost of them"
+msgstr "他们˙当中的最南端"
+
+msgid "The star on the left knee"
+msgstr "左膝上的恒星"
+
+msgid "The star above the right knee"
+msgstr "在右膝上方的恒星"
+
+msgid "The star below the right knee"
+msgstr "在右膝下方的恒星"
+
+msgid "The one on the place where the tail joins [the body]"
+msgstr "在尾巴连接[身体]之处的恒星"
+
+msgid "The remaining one, on the left hind thigh"
+msgstr "剩下的一颗，在左后大腿上"
+
+msgid "The more advanced of the [two stars] in the left hind paw"
+msgstr "左后爪[两颗星]中较前面的"
+
+msgid "The one to the rear of it"
+msgstr "接到它后面的那颗"
+
+msgid "The star on the left knee-bend"
+msgstr "在左膝弯曲处的星星"
+
+msgid "The northernmost of the [two stars] in the right hind paw"
+msgstr "右后爪[两颗星]的最北端"
+
+msgid ""
+"The first of the three stars on the tail next to the place where it joins "
+"[the body]"
+msgstr "尾巴三颗星中的第一颗，靠近它连接 [身体] 的地方"
+
+msgid "The middle one"
+msgstr "中间的一颗"
+
+msgid "The third, on the end of the tail"
+msgstr "第三颗，在尾巴的末端"
+
+msgid "The star under the tail, at some distance towards the south"
+msgstr "尾巴下的恒星，靠南方些许距离处"
+
+msgid ""
+"The southernmost of the [two] stars between the front legs of Ursa [Major] "
+"and the head of Leo"
+msgstr "大熊[座]前腿与狮子座头部之间 [两颗] 恒星的最南端"
+
+msgid "The one north of it"
+msgstr "它的北边那颗"
+
+msgid "The rearmost of the remaining three faint stars"
+msgstr "剩下三颗微弱恒星的最后面"
+
+msgid "The one in advance of this"
+msgstr "在此之前的那颗"
+
+msgid "The one in advance again of the latter"
+msgstr "偏向后者前面的那颗"
+
+msgid "The star between the front legs [of Ursa Major] and Gemini"
+msgstr "[大熊座]和双子座前腿之间的星星"
+
+msgid "The star on the tongue"
+msgstr "舌尖上的恒星"
+
+msgid "The star in the mouth"
+msgstr "嘴内的恒星"
+
+msgid "The star above the eye"
+msgstr "眼睛上面的恒星"
+
+msgid "The star above the head"
+msgstr "头上的恒星"
+
+msgid "The southernmost of these"
+msgstr "这些的最南端"
+
+msgid "The more northerly star of the advance side"
+msgstr "前进侧更偏北的恒星"
+
+msgid "The northern star of the rear side [of the quadrilateral]"
+msgstr "[四边形]背侧的北方恒星"
+
+msgid "The southern star of the rear side"
+msgstr "背面的南方恒星"
+
+msgid "The southern star of [those forming] the triangle in the next bend"
+msgstr "在下一个弯曲中 [那些形成] 三角形的最南方星星"
+
+msgid "The more advanced of the other two stars of the triangle"
+msgstr "三角形的另外两颗中较前面的"
+
+msgid "The southernmost of the other two forming the triangle"
+msgstr "其他两颗的最南端形成三角形"
+
+msgid "The northernmost of the other two"
+msgstr "其他两颗的最北端"
+
+msgid "The rearmost of the two small stars to the west of the triangle"
+msgstr "接着三角形西边两颗小星的最后面"
+
+msgid "The one in advance"
+msgstr "前面的那颗"
+
+msgid "The middle one of the three"
+msgstr "三颗中间的那颗"
+
+msgid "The northernmost of them"
+msgstr "他们˙当中的最北端"
+
+msgid "The star to the west of these, in the bend by the tail"
+msgstr "靠近这些西边的星星，在尾巴的弯曲处"
+
+msgid "The rear star of these [two]"
+msgstr "这些[二颗]恒星的后面"
+
+msgid "The star close by these, by the tail"
+msgstr "靠近这些的恒星，在尾巴旁边"
+
+msgid "The remaining star, on the tip of the tail"
+msgstr "剩下的恒星，在尾巴尖端上"
+
+msgid "The star on the right leg"
+msgstr "右腿上的恒星"
+
+msgid "The one on the left leg"
+msgstr "左腿上的那颗"
+
+msgid "The star under the belt on the right side"
+msgstr "右侧腰带下的恒星"
+
+msgid "The star over the right shoulder, which touches it"
+msgstr "右肩上的恒星，有触碰到它"
+
+msgid "The star over the right elbow, which touches it"
+msgstr "右肘上的恒星，有触碰到它"
+
+msgid "The star in the chest"
+msgstr "胸中的恒星"
+
+msgid "The star on the left arm"
+msgstr "左臂上的恒星"
+
+msgid "The northernmost of the three"
+msgstr "这三颗的最北端"
+
+msgid "The most advanced of the three in the left arm"
+msgstr "左边三颗的最前面"
+
+msgid "The middle and southernmost of the three"
+msgstr "三颗星的中间和最南端"
+
+msgid "The rearmost of the three"
+msgstr "三颗的最后端"
+
+msgid "The star on the left elbow"
+msgstr "左肘上的恒星"
+
+msgid "The star on the left shoulder"
+msgstr "左肩上的恒星"
+
+msgid "The star on the head"
+msgstr "头上的恒星"
+
+msgid "The star on the right shoulder"
+msgstr "右肩上的恒星"
+
+msgid "The one to the north of these, on the staff"
+msgstr "杆子上，靠近这些北方的那颗"
+
+msgid "The northernmost of the two stars below the shoulder, in the club"
+msgstr "肩下两颗星中最北端，在棒子内"
+
+msgid "The star on the end of the right arm"
+msgstr "右臂末端上的恒星"
+
+msgid "The more advanced of the two stars in the wrist"
+msgstr "手腕内两颗星中比较前面的"
+
+msgid "The rearmost of them"
+msgstr "他们˙当中的最后端"
+
+msgid "The star on the end of the handle of the staff"
+msgstr "在杆子握把末端上的恒星"
+
+msgid "The rearmost of the two stars in the belt"
+msgstr "腰带中两颗星的最后面"
+
+msgid "The more advanced of them"
+msgstr "他们的最前面"
+
+msgid "The star on the right heel"
+msgstr "右脚跟上的恒星"
+
+msgid "The bright star in the crown"
+msgstr "皇冠上的那颗明亮恒星"
+
+msgid "The one north again of this"
+msgstr "偏向这个北方的那颗"
+
+msgid "The star on the right shoulder by the armpit"
+msgstr "右肩腋下的恒星"
+
+msgid "The star on the right upper arm"
+msgstr "右上臂的恒星"
+
+msgid "The star on the right elbow"
+msgstr "右肘上的恒星"
+
+msgid "The star on the left upper arm"
+msgstr "左上臂上的恒星"
+
+msgid "The star in the right side"
+msgstr "右侧内的恒星"
+
+msgid "The star in the left side"
+msgstr "左侧内的恒星"
+
+msgid "The one north of the latter, on the left buttock"
+msgstr "后者的北侧那颗，左边臀部上"
+
+msgid "The one on the place where the thigh joins the same [buttock]"
+msgstr "大腿连接 [臀部] 处的那颗"
+
+msgid "The one to the rear of this"
+msgstr "靠这颗后面的那颗"
+
+msgid "The one yet further to the rear of this"
+msgstr "靠这颗后面更远的那颗"
+
+msgid "The star on the place where the right thigh joins [the buttock]"
+msgstr "右大腿连接 [臀部] 处的恒星"
+
+msgid "The star north of it in the same thigh"
+msgstr "同一条大腿上它北边的恒星"
+
+msgid "The star on the right knee"
+msgstr "在右膝上的恒星"
+
+msgid "The star in the right lower leg"
+msgstr "右小腿内的恒星"
+
+msgid "The star south of the one in the right upper arm"
+msgstr "在右上臂内这颗的南边恒星"
+
+msgid ""
+"The one to the rear of these, in between the points where the horns [of the "
+"lyre] are attached"
+msgstr "接近后面的那个，在[天琴]的角连接点之间"
+
+msgid "The star on the beak"
+msgstr "鸟嘴上的星星"
+
+msgid "The one to the rear of this, on the head"
+msgstr "靠近这个后面的那颗，在头上"
+
+msgid "The star in the middle of the neck"
+msgstr "脖子中间的星星"
+
+msgid "The star in the breast"
+msgstr "乳房中的星星"
+
+msgid "The bright star in the tail"
+msgstr "尾巴上的那颗亮星"
+
+msgid "The star in the bend of the right wing"
+msgstr "右翼弯曲处的星星"
+
+msgid "The northernmost of them, on the tip of the wing-feathers"
+msgstr "它们当中的最北端，在翼羽的尖端"
+
+msgid "The star on the bend of the left wing"
+msgstr "左翼弯曲处的星星"
+
+msgid "The star north of this, in the middle of the same wing"
+msgstr "这颗以北的星星，在同一个翅膀的中间"
+
+msgid "The star in the tip of the feathers of the left wing"
+msgstr "左翼羽毛尖端的星星"
+
+msgid "The star on the left leg"
+msgstr "左腿上的恒星"
+
+msgid "The one north of that, on the belt"
+msgstr "那个北边的那颗，在腰带上"
+
+msgid "The star in the knees"
+msgstr "膝盖上的星星"
+
+msgid "The star on the lower leg"
+msgstr "小腿上的星星"
+
+msgid "The star on the end of the leg"
+msgstr "脚底上的星星"
+
+msgid "The star below the left elbow"
+msgstr "左肘下方的星星"
+
+msgid "The star on the right forearm"
+msgstr "右前臂上的星星"
+
+msgid "The star on the place between the shoulders"
+msgstr "肩膀之间的星星"
+
+msgid "The bright star in the right side"
+msgstr "右侧内的亮星"
+
+msgid "The one in advance of the bright star"
+msgstr "亮星前面的那颗"
+
+msgid "The remaining one, yet again in advance of this"
+msgstr "剩下的一颗，再偏向这之前"
+
+msgid "The star in the right knee"
+msgstr "右膝内的星星"
+
+msgid "The one in advance of this, over the knee"
+msgstr "在此之前的那颗，在膝盖上方"
+
+msgid "The rearmost of them, just over the bend in the knee"
+msgstr "他们当中的最后一个，刚好在膝盖弯曲处"
+
+msgid "The star on the right calf"
+msgstr "右小腿肚上的星星"
+
+msgid "The star on the right ankle"
+msgstr "右脚踝上的星星"
+
+msgid "The star in the left thigh"
+msgstr "左大腿内的星星"
+
+msgid "The star on the left lower leg"
+msgstr "左小腿上的星星"
+
+msgid "The star on the left heel"
+msgstr "左脚跟上的星星"
+
+msgid "The one to the rear of this, on the left foot"
+msgstr "在这个后面的那颗，在左脚上"
+
+msgid "The star to the east of the one on the left knee"
+msgstr "靠左膝上那颗东边的那颗星"
+
+msgid "The star to the north of the one in the right knee"
+msgstr "靠右膝内那颗北边的那颗星"
+
+msgid "The star in advance of those in the Gorgon-head"
+msgstr "在蛇发女妖头上星星的前面那颗星"
+
+msgid "The southernmost of the two on the head"
+msgstr "在头上二颗的最南端"
+
+msgid "The northernmost [of these], over the head"
+msgstr "[这些的] 最北端，在头顶上方"
+
+msgid "The star on the right wrist"
+msgstr "右手腕上的星星"
+
+msgid "The more advanced of these"
+msgstr "这些中较前面的"
+
+msgid "The star on the left ankle"
+msgstr "左脚踝上的星星"
+
+msgid "The one to the north of the latter, in the lower hem [of the garment]"
+msgstr "靠后者的北边那颗，在[衣服的]下摆中"
+
+msgid "The one north again of this, on the buttock"
+msgstr "这个往北的那颗，在屁股上"
+
+msgid "The star on the right lower leg"
+msgstr "右小腿上的恒星"
+
+msgid "The one to the rear again of that"
+msgstr "偏向靠在那个后面的那颗"
+
+msgid "The star to the rear of these, which touches the heel"
+msgstr "靠这些后面的星星，触及脚后跟"
+
+msgid "The star in the left knee"
+msgstr "左膝内的星星"
+
+msgid "The middle one of these"
+msgstr "这些中间的一颗"
+
+msgid "The southernmost of the three"
+msgstr "三颗的最南端"
+
+msgid "The star touching the hollow of the left foot"
+msgstr "触及左脚凹处的星星"
+
+msgid "Stars on the quadrilateral in the head:  the one on the end of the jaw"
+msgstr "在头部四边形上的星星：下巴末端ㄕㄤ的这颗"
+
+msgid "The one touching the nostrils"
+msgstr "碰到鼻孔的那颗"
+
+msgid "The one in the temple"
+msgstr "寺院里的那颗"
+
+msgid "The one where the neck joins [the head]"
+msgstr "脖子连接 [脑袋] 的那颗"
+
+msgid "The one in the middle of the quadrilateral, in the mouth"
+msgstr "在嘴里，四边形中间的那颗"
+
+msgid "The star outside the head, to the north of it"
+msgstr "头外的星星，靠它的北边"
+
+msgid "The one after the first bend in the neck"
+msgstr "脖子的第一次弯曲后的那颗"
+
+msgid ""
+"The star after the next bend, which is in advance of the left hand of "
+"Ophiuchus"
+msgstr "下个弯曲后的星星，在蛇夫座左手之前"
+
+msgid "The one after the back of the right thigh of Ophiuchus"
+msgstr "在蛇夫座右大腿后侧的后面那颗"
+
+msgid "The one after the right hand [of Ophiuchus], on the bend in the tail"
+msgstr "[蛇夫座的]右手之后的那颗，在尾巴的弯曲处"
+
+msgid "The one to the rear of this, likewise on the tail"
+msgstr "靠这个后面的那颗，同样在尾巴上"
+
+msgid "The star on the tip of the tail"
+msgstr "尾巴尖上的星星"
+
+msgid "The lone star on the arrow-head"
+msgstr "箭头上的孤星"
+
+msgid "The rearmost of the three stars in the shaft"
+msgstr "箭杆中三颗星的最后面"
+
+msgid "The most advanced of the three"
+msgstr "三颗中最前面的"
+
+msgid "The star on the end of the notch"
+msgstr "缺口末端上的星星"
+
+msgid "The star in the middle of the head"
+msgstr "头中间的星星"
+
+msgid "The one in advance of this, on the neck"
+msgstr "在这之前的那颗，在脖子上"
+
+msgid "The one close to this towards the north"
+msgstr "靠近这颗朝北的那颗"
+
+msgid "The more advanced of the two in the right shoulder"
+msgstr "右肩两颗中较前面的"
+
+msgid "The one to the south of this"
+msgstr "靠这颗南方的那颗"
+
+msgid "The one to the south again of the latter"
+msgstr "靠后者偏南的这颗"
+
+msgid "The star most in advance of all"
+msgstr "最前面的星星"
+
+msgid "The northernmost one on the advance side"
+msgstr "前进侧上最北端的那颗"
+
+msgid "The southernmost one on the rear side of the rhombus"
+msgstr "菱形背面最南端的那颗"
+
+msgid "The northernmost one on the rear side"
+msgstr "背面的最北方那颗"
+
+msgid "The remaining, rearmost one"
+msgstr "剩下的，最后一颗"
+
+msgid "The more advanced of the two stars in the mouth"
+msgstr "嘴巴两颗星中比较前面的"
+
+msgid ""
+"The star on the navel, which is [applied in] common to the head of Andromeda"
+msgstr "肚脐上的星星，也[被当作]是仙女座头部的共享点"
+
+msgid "The star on the rump and the wing-tip"
+msgstr "臀部和翼尖上的星星"
+
+msgid "The star on the right shoulder and the place where the leg joins [it]"
+msgstr "右肩上的星星和腿连接[它]的地方"
+
+msgid ""
+"The star on the place between the shoulders and the shoulder-part of the wing"
+msgstr "肩膀和雨翼肩部之间的星星"
+
+msgid "The northernmost of the two stars in the body under the wing"
+msgstr "羽翼下身体内两颗恒星的最北端"
+
+msgid "The northernmost of the two stars in the right knee"
+msgstr "右膝内两颗星的最北端"
+
+msgid "The more advanced of the two stars close together in the chest"
+msgstr "胸中靠拢的两颗星中较前面的"
+
+msgid "The southernmost of the two stars on the mane"
+msgstr "鬃毛上两颗星的最南端"
+
+msgid "The northernmost of the two stars close together on the head"
+msgstr "在头上靠拢的两颗星的最北端"
+
+msgid "The star in the muzzle"
+msgstr "鼻口里的星星"
+
+msgid "The star in the right hock"
+msgstr "右踝关节内的星星"
+
+msgid "The star in the left hock"
+msgstr "左踝关节内的星星"
+
+msgid "The star in the place between the shoulders"
+msgstr "肩膀间的星星"
+
+msgid "The star in the right shoulder"
+msgstr "右肩内的恒星"
+
+msgid "The star in the left shoulder"
+msgstr "左肩内的恒星"
+
+msgid "The star in the right foot"
+msgstr "右脚的星星"
+
+msgid "The one south of the latter"
+msgstr "后者的南边那颗"
+
+msgid "The star in advance of the three in the right hand, outside [of it]"
+msgstr "右手三颗前面的星星，[它的] 外侧"
+
+msgid "The star in the apex of the triangle"
+msgstr "三角形顶点的星星"
+
+msgid "The star on the neck"
+msgstr "脖子上的星星"
+
+msgid "The star on the rump"
+msgstr "臀部上的星星"
+
+msgid "The star in the back of the thigh"
+msgstr "大腿后侧内的星星"
+
+msgid "The star on the hind hoof"
+msgstr "后蹄上的星星"
+
+msgid ""
+"The star over the head, which Hipparchus [calls] 'the one on the muzzle'"
+msgstr "头上方的星星，喜帕恰斯[称其为]“鼻口上的星星”"
+
+msgid "The middle one of these three"
+msgstr "这三颗中间的那颗"
+
+msgid "The one close by this"
+msgstr "靠近这个的那颗"
+
+msgid "The one close again to the latter"
+msgstr "偏近后者的那颗"
+
+msgid "The star on the right hock"
+msgstr "右踝关节上的星星"
+
+msgid "The remaining one, on the northern eye"
+msgstr "剩下的一颗，在北方眼睛上"
+
+msgid ""
+"The star on the place where the southern horn and the ear join [the head]"
+msgstr "南角与耳朵连接 [头部] 位置的星星"
+
+msgid "The northernmost of these"
+msgstr "这些的最北端"
+
+msgid "The star on the tip of the southern horn"
+msgstr "南角顶端的那颗星"
+
+msgid "The star on the place where the northern horn joins [the head]"
+msgstr "北角连接 [头部] 位置的星星"
+
+msgid "The northernmost star on the advance side"
+msgstr "前侧最北端的星星"
+
+msgid "The southernmost star on the rear side"
+msgstr "后侧最南端的星星"
+
+msgid "The Pleiades:  the northern end of the advance side"
+msgstr "昴宿星团：前侧的北终点"
+
+msgid "The southern end of the advance side [of the Pleiades]"
+msgstr "[昴宿星团] 前侧的南终点"
+
+msgid "The rearmost and narrowest end of the Pleiades"
+msgstr "昴宿星团ㄉㄜ最后和最窄端"
+
+msgid "The small star outside the Pleiades, towards the north"
+msgstr "昴宿星团朝北方外侧的小星星"
+
+msgid "The one to the rear again of the latter"
+msgstr "靠旁边偏后的那颗"
+
+msgid "The southernmost of these two"
+msgstr "这两颗的最南端"
+
+msgid "The star on the head of the advance twin"
+msgstr "前双子头上的星星"
+
+msgid "The reddish star on the head of the rear twin"
+msgstr "后双子头上的微红星星"
+
+msgid "The star in the left forearm of the advance twin"
+msgstr "前双子左前臂内的星星"
+
+msgid "The star in the same [left] upper arm"
+msgstr "同一只 [左] 上臂内的恒星"
+
+msgid ""
+"The one to the rear of this, on the right shoulder of the same [advance] twin"
+msgstr "靠同一只 [前] 双子右肩上的后面那颗"
+
+msgid "The star on the rear shoulder of the rear twin"
+msgstr "后双子的后肩膀上的星星"
+
+msgid "The star on the right side of the advance twin"
+msgstr "前双子的右侧上的星星"
+
+msgid "The star on the left side of the rear twin"
+msgstr "后双子左侧上的星星"
+
+msgid "The star on the left knee of the advance twin"
+msgstr "前双子左膝上的星星"
+
+msgid "The star over the bend in the right knee of the same [rear] twin"
+msgstr "同一个 [后面] 双胞胎右膝弯曲处的星星"
+
+msgid "The one to the rear of this on the same foot"
+msgstr "靠同一条腿上这个的后面那颗"
+
+msgid "The star on the right foot of the advance twin"
+msgstr "前双子右腿上的星星"
+
+msgid "The star on the left foot of the rear twin"
+msgstr "后双子左腿上的星星"
+
+msgid "The star on the right foot of the rear twin"
+msgstr "后双子右腿上的星星"
+
+msgid "The bright star in advance of the advance knee"
+msgstr "在前膝盖之前的亮星"
+
+msgid "The star in advance of the left knee of the rear twin"
+msgstr "在后双子左膝之前的星星"
+
+msgid ""
+"The northernmost of the three stars in a straight line to the rear of the "
+"right arm of the rear twin"
+msgstr "靠后双子右臂后面三颗在一直在线的星星的最北端"
+
+msgid "The southernmost of them, near the forearm of the [right] arm"
+msgstr "靠近[右]前臂星星的最南端，"
+
+msgid "The southernmost of the two stars in advance"
+msgstr "在前面二颗星的最南端"
+
+msgid "The star on the southern claw"
+msgstr "南爪上的星星"
+
+msgid "The star on the northern claw"
+msgstr "北爪上的星星"
+
+msgid "The star on the northern back leg"
+msgstr "北后腿上的星星"
+
+msgid "The star on the southern back leg"
+msgstr "南后腿上的星星"
+
+msgid "The star over the joint in the southern claw"
+msgstr "南爪连接处上方的星星"
+
+msgid "The star to the rear of the tip of the southern claw"
+msgstr "靠南爪尖端后面的星星"
+
+msgid ""
+"The more advanced of the two stars over the nebula and to the rear of it"
+msgstr "在星云上方和它后面的两颗星中较前面的"
+
+msgid "The rearmost of these [two]"
+msgstr "这些[二颗]恒星的最后面"
+
+msgid "The star on the tip of the nostrils"
+msgstr "鼻尖上的星星"
+
+msgid "The star in the gaping jaws"
+msgstr "张大嘴里的星星"
+
+msgid "The northernmost of the two stars in the head"
+msgstr "头内两颗星的最北端"
+
+msgid "The one close to this, the middle one of the three"
+msgstr "靠近三颗中间颗的那颗"
+
+msgid "The one south of this, about on the chest"
+msgstr "大约在胸前这个南边的那颗"
+
+msgid "The star on the right front claw-clutch"
+msgstr "右前爪上的星星"
+
+msgid "The star on the left front claw-clutch"
+msgstr "左前爪上的星星"
+
+msgid "The star on the left [front] knee"
+msgstr "左[前]膝上的星星"
+
+msgid "The star on the left armpit"
+msgstr "左腋窝上的星星"
+
+msgid "The most advanced of the three stars in the belly"
+msgstr "肚子内三颗星的最前面"
+
+msgid "The southernmost of these [two]"
+msgstr "这些[二颗]星的最南端"
+
+msgid "The more advanced of the two stars on the rump"
+msgstr "尾部两颗星中较前面的"
+
+msgid "The star in the hind thighs"
+msgstr "后大腿内的星星"
+
+msgid "The star in the hind leg-bends"
+msgstr "后腿弯曲处的星星"
+
+msgid "The one south of this, about in the lower legs"
+msgstr "大约在小腿上这个南边的那颗"
+
+msgid "The star on the hind claw-clutches"
+msgstr "后前爪上的星星"
+
+msgid "The star on the end of the tail"
+msgstr "尾巴末端上的星星"
+
+msgid ""
+"The northernmost part of the nebulous mass between the edges of Leo and Ursa "
+"[Major], called Coma [Berenices]"
+msgstr "狮子和大熊[座] 边界之间的星云的最北端，称为后发[座]"
+
+msgid "The most advanced of the southern outrunners of Coma"
+msgstr "后发南方的最前面"
+
+msgid "The rearmost of them, shaped like an ivy leaf"
+msgstr "形状像常春藤叶片的最后一个"
+
+msgid "The star on the tip of the southern, left wing"
+msgstr "南方左翼尖端上的星星"
+
+msgid "The one to the rear again of this"
+msgstr "偏这个后面的那颗"
+
+msgid "The star in the right side under the girdle"
+msgstr "束带下方右侧的星星"
+
+msgid "The northernmost of these, called 'Vindemiatrix'"
+msgstr "称作 'Vindemiatrix' 星星的最北端"
+
+msgid "The star under the apron just about over the right buttock"
+msgstr "裙摆下方的星星刚好在右臀部上方"
+
+msgid "The southern star on the advance side"
+msgstr "在前侧上的南星"
+
+msgid "The star in the back of the right thigh"
+msgstr "右大腿后侧内的星星"
+
+msgid "The star on the left, southern foot"
+msgstr "南边左脚上的星星"
+
+msgid "The star on the right, northern foot"
+msgstr "北方右脚上的星星"
+
+msgid ""
+"The most advanced of the three in a straight line under the left forearm"
+msgstr "左前臂下方在一直线的三颗的最前面"
+
+msgid "The middle one of these, which is a double star"
+msgstr "这些的中间那颗，它是双星"
+
+msgid "The star in the middle of the southern claw"
+msgstr "南爪中间的星星"
+
+msgid "The one in advance of this on the same claw"
+msgstr "在同一只爪上这个的前面那颗"
+
+msgid "The star in the middle of the northern claw"
+msgstr "北爪中间的星星"
+
+msgid "The one to the rear of this on the same claw"
+msgstr "在同一只爪上这个的后面那颗"
+
+msgid "The star south again of this, on one of the legs"
+msgstr "某只腿上偏南方的星星"
+
+msgid "The rearmost of these"
+msgstr "这些的最后端"
+
+msgid "The southern star of the double-star"
+msgstr "双星的南星"
+
+msgid "The nebulous star to the rear of the sting"
+msgstr "靠刺后面的模糊星星"
+
+msgid "The star on the point of the arrow"
+msgstr "箭头处的星星"
+
+msgid "The star in the southern portion of the bow"
+msgstr "在弓的南半部内的星星"
+
+msgid "The northernmost of these, on the tip of the bow"
+msgstr "在弓的尖端上的最北端"
+
+msgid "The star on the eye, which is nebulous and double"
+msgstr "这颗星在眼睛，它是模糊的而且是双星"
+
+msgid "The faint star to the rear of these three"
+msgstr "靠这三颗后面的暗星"
+
+msgid "The other one, under the armpit"
+msgstr "在腋下的另一颗"
+
+msgid "The star on the front left hock"
+msgstr "左前踝关节上的星星"
+
+msgid "The one on the knee of the same leg"
+msgstr "同一条腿膝盖上的那颗"
+
+msgid "The star on the front right hock"
+msgstr "右前踝关节上的星星"
+
+msgid "The star on the left thigh"
+msgstr "左大腿上的星星"
+
+msgid "The star on the right hind lower leg"
+msgstr "右后小腿上的星星"
+
+msgid "The rear star on the northern side"
+msgstr "在北侧上后面的星星"
+
+msgid "The advance star on the southern side"
+msgstr "在南侧上前面的星星"
+
+msgid "The rear star on the southern side"
+msgstr "在南侧上后面的星星"
+
+msgid "The star on the tip of the advance horn"
+msgstr "前角尖端上的星星"
+
+msgid "The more advanced of the other two"
+msgstr "其他两颗中较前面的"
+
+msgid "The star under the right knee"
+msgstr "右膝下方的星星"
+
+msgid "The star on the left, doubled-up knee"
+msgstr "双膝左边上的星星"
+
+msgid "The northernmost of them, on the end of the tail-fin"
+msgstr "尾鳍末端中的最北端"
+
+msgid "The star on the head of Aquarius"
+msgstr "宝瓶座头上的星星"
+
+msgid "The fainter one, under it"
+msgstr "在它下面的暗星"
+
+msgid "The one under that, in the back, approximately under the armpit"
+msgstr "在背部，大约在腋下的那颗"
+
+msgid "The rearmost of the three stars in the left arm, on the coat"
+msgstr "外套上左臂三颗星的最后面"
+
+msgid "The star in the right forearm"
+msgstr "右前臂上的星星"
+
+msgid "The star on the right buttock"
+msgstr "右边屁股上的星星"
+
+msgid "The northernmost of them, under the knee-bend"
+msgstr "他们的最北处，在膝盖弯曲之下"
+
+msgid "The star in the back of the left thigh"
+msgstr "左大腿后侧内的星星"
+
+msgid "The northernmost of these, under the knee"
+msgstr "在膝盖下方这些星的最北端"
+
+msgid ""
+"The stars on the flow of water:  the most advanced [in the section] "
+"beginning at the hand"
+msgstr "流水上的星星：从手 [部] 开始的最前面"
+
+msgid "The one next to the latter towards the south"
+msgstr "靠近后者朝南的那颗"
+
+msgid "The one in the bend to the south of this"
+msgstr "在这个南方弯曲处的那颗"
+
+msgid "The southernmost of the two"
+msgstr "这两颗的最南端"
+
+msgid "The lone star at some distance from these [two] towards the south"
+msgstr "离这 [两颗] 向南有一段距离的孤星"
+
+msgid "The star at the end of the water and on the mouth of Piscis Austrinus"
+msgstr "流水的尽头和南鱼座嘴上的星星"
+
+msgid "The star in the mouth of the advance fish"
+msgstr "前鱼嘴内的星星"
+
+msgid "The star in the tail of the same [advance] fish"
+msgstr "同一只[前]鱼尾的星星"
+
+msgid "The star in the rear spine, near the tail"
+msgstr "后脊椎靠近尾巴的星星"
+
+msgid "The more advanced star on the southern side"
+msgstr "南侧上较前面的星星"
+
+msgid "The rearmost one on the southern side"
+msgstr "南侧上最后面的星星"
+
+msgid "The middle one, in the middle of the mouth"
+msgstr "在嘴中间的中间那颗"
+
+msgid "The star on the eyebrow and the eye"
+msgstr "在眉毛和眼睛上的星星"
+
+msgid "The one to the north of this, about on the hair"
+msgstr "大约在头发上，靠这北边的那颗"
+
+msgid "The one in advance of these, about on the mane"
+msgstr "大约在鬃毛上这些星星之前的那颗"
+
+msgid "The southernmost one on the advance side"
+msgstr "在前侧上最南端的那颗"
+
+msgid "The southernmost one on the rear side"
+msgstr "在后侧上最南端的那颗"
+
+msgid "The one on the end of the southern tail-fin"
+msgstr "南尾鳍末端的那颗"
+
+msgid "The bright, reddish star on the right shoulder"
+msgstr "右肩上那颗明亮的红色星星"
+
+msgid "The one under this to the rear"
+msgstr "靠后面下方的那颗"
+
+msgid "The rear one on the northern side"
+msgstr "在北侧上后面那颗"
+
+msgid "The advance one on the northern side"
+msgstr "在北侧上前面那颗"
+
+msgid "The one in advance again of this"
+msgstr "偏向这个前面的那颗"
+
+msgid "The last and southernmost of those in the pelt"
+msgstr "毛披肩这些的最南端和最后一颗"
+
+msgid "The star near the handle of the dagger"
+msgstr "匕首把柄附近的星星"
+
+msgid ""
+"The bright star in the left foot, which is [applied in] common to the water "
+"[of Eridanus]"
+msgstr "左脚的亮星，也[被当作]是[波江座]水面的共享点"
+
+msgid "The star to the north of it in the lower leg, over the ankle-joint"
+msgstr "在踝关节上方靠小腿以北的星星"
+
+msgid "The star under the left heel, outside"
+msgstr "左脚后跟外侧下方的星星，"
+
+msgid "The star under the right, rear knee"
+msgstr "右后膝盖下方的星星"
+
+msgid "The one north of this, in the curve near the shin of Orion"
+msgstr "在靠近猎户座胫骨曲线的这个北边那颗"
+
+msgid "The rearmost of the four stars in the next interval"
+msgstr "下个间隔的四颗星的最后"
+
+msgid "The southernmost on the advance side"
+msgstr "在前侧上的最南端"
+
+msgid "The more advanced one on the rear side"
+msgstr "背面的更北方那颗"
+
+msgid "The northern star on the rear side"
+msgstr "背面上的北方恒星"
+
+msgid "The southern star on the rear side"
+msgstr "背面上的南方星星"
+
+msgid "The star on the left front foot"
+msgstr "左前脚上的星星"
+
+msgid "The star in the middle of the body"
+msgstr "身体中间的星星"
+
+msgid "The star under the belly"
+msgstr "肚子下方的星星"
+
+msgid "The star on the ears"
+msgstr "耳朵上的星星"
+
+msgid "The star on the chest"
+msgstr "胸口上的恒星"
+
+msgid "The star in the place where the left thigh joins [the body]"
+msgstr "左大腿连接 [身体] 处的星星"
+
+msgid "The star on the joint of the right leg"
+msgstr "右腿关节处的星星"
+
+msgid "The star on the end of the right leg"
+msgstr "右腿末端上的恒星"
+
+msgid "The star on the tail"
+msgstr "尾巴上的星星"
+
+msgid "The one north of this"
+msgstr "这个的北边那颗"
+
+msgid "The last star, to the south of the above"
+msgstr "靠上方南边的最后一颗星星"
+
+msgid "The star in advance of these"
+msgstr "在这之前的那颗星"
+
+msgid "The bright star in the middle of the little shield"
+msgstr "小盾中间那颗亮星"
+
+msgid "The bright star on the deck to the rear of these"
+msgstr "靠这些后面甲板上的亮星"
+
+msgid "The star on the cut-off of the deck"
+msgstr "甲板截断处的星星"
+
+msgid "The star between the steering-oars in the keel"
+msgstr "龙骨中舵桨之间的星星"
+
+msgid "The faint star to the rear of this"
+msgstr "靠这后面的那颗暗星"
+
+msgid "The bright star to the rear of this, under the deck"
+msgstr "靠甲板下方的后面亮星"
+
+msgid "The other, rearmost star"
+msgstr "其他，最后的星星"
+
+msgid "The southernmost of them, on the gaping jaws"
+msgstr "在张开的下巴上的最南端"
+
+msgid "The middle star of the following three in the bend of the neck"
+msgstr "在接着脖子弯曲处三颗的中间星星"
+
+msgid "The middle and southernmost one"
+msgstr "中间和最南端的那颗"
+
+msgid "The star after Corvus, in the section by the tail"
+msgstr "乌鸦座尾巴部分之后的星星"
+
+msgid "The star to the south of the head"
+msgstr "靠头南边的星星"
+
+msgid "The star in the base of bowl, which is [applied in] common to Hydra"
+msgstr "碗底的星星，也[被当作]是长蛇座所属的共享点"
+
+msgid "The star on the southern rim of the mouth"
+msgstr "嘴巴南缘的星星"
+
+msgid "The star on the northern rim"
+msgstr "北缘上的星星"
+
+msgid "The star on the southern handle"
+msgstr "南把手上的星星"
+
+msgid "The star on the northern handle"
+msgstr "北把手上的星星"
+
+msgid "The star in the beak, which is [applied in] common to Hydra"
+msgstr "喙中的星星，也[被当作]是长蛇座所属的共享点"
+
+msgid "The star in the neck, by the head"
+msgstr "头旁脖子内的星星"
+
+msgid "The star in the advance, right wing"
+msgstr "前右翼内的星星"
+
+msgid "The star on the end of the leg, which is [applied in] common to Hydra"
+msgstr "腿部末端的星星，也[被当作]是长蛇座所属的共享点"
+
+msgid "The star on the left, advance shoulder"
+msgstr "左前肩膀上的星星"
+
+msgid "The star on the left shoulder-blade"
+msgstr "左肩胛骨上的星星"
+
+msgid "That one of the other two which is at the tip of the thyrsus"
+msgstr "酒神令牌 thyrsus 的尖端其他两颗中的那颗"
+
+msgid "The last one, south of the latter"
+msgstr "后者南边的最后那颗"
+
+msgid "The star in the right hand"
+msgstr "右手内的星星"
+
+msgid "The bright star in the place where the human body joins [the horse's]"
+msgstr "人体结合 [马体] 处的亮星"
+
+msgid "The star in advance of this, on the horse's back"
+msgstr "在马背上这个之前的星星"
+
+msgid "The rearmost of the stars on the rump"
+msgstr "臀部星星的最后一颗"
+
+msgid "The star in the chest, under the horse's armpit"
+msgstr "马腋下胸部内的星星"
+
+msgid "The star on the knee-bend of the right [hind] leg"
+msgstr "右[后]腿膝盖弯曲处的星星"
+
+msgid "The star in the hock of the same leg"
+msgstr "同一条腿踝关节内的星星"
+
+msgid "The star under the knee-bend of the left [hind] leg"
+msgstr "左[后]腿膝盖弯曲处的星星"
+
+msgid "The star on the frog of the hoof on the same leg"
+msgstr "同一条马腿蹄的蹄楔上的星星"
+
+msgid "The star on the end of the right front leg"
+msgstr "右前腿末端上的星星"
+
+msgid "The star on the knee of the left [front] leg"
+msgstr "右 [前] 腿膝盖上的星星"
+
+msgid "The star outside, under the right hind leg"
+msgstr "在右后腿下方外侧的星星"
+
+msgid "The star at the end of the hind leg, by the [right] hand of Centaurus"
+msgstr "靠半人马座[右]手的后腿末端的星星"
+
+msgid "The star on the bend in the same leg"
+msgstr "在同一条腿弯曲处的星星"
+
+msgid "The star in the middle of the body of Lupus"
+msgstr "豺狼座身体中间的星星"
+
+msgid "The star in the belly, under the flank"
+msgstr "腹下肚子中的星星"
+
+msgid "The star on the thigh"
+msgstr "大腿上的星星"
+
+msgid "The star on the end of the rump"
+msgstr "臀部末端上的星星"
+
+msgid "The southernmost of the 3 stars in the end of the tail"
+msgstr "尾巴末端 3 颗星的最南端"
+
+msgid "The star in the middle of the little altar"
+msgstr "小祭坛中间的星星"
+
+msgid "The star on the end of the burning-apparatus"
+msgstr "燃烧器末端的星星"
+
+msgid "The most advanced of the stars on the southern rim, outside [the crown]"
+msgstr "在[皇冠]外侧南缘这些星星的最前面"
+
+msgid "The star to the rear of this on the crown"
+msgstr "靠皇冠后面的星星"
+
+msgid "The one after this, before the knee of Sagittarius"
+msgstr "在人马座膝盖前后的那颗"
+
+msgid "The star to the north of this"
+msgstr "靠这北方的星星"
+
+msgid "The one to the north again of this"
+msgstr "偏这个北方的那颗"
+
+msgid "The star quite some distance in advance of this"
+msgstr "离这之前还有段距离的星星"
+
+msgid "The last one, which is south of the aforementioned star"
+msgstr "最后一颗就是在前面提到的星星的南边"
+
+msgid "The star by the gills"
+msgstr "腮边的星星"
+
+msgid "The star on the southernmost spine on the back"
+msgstr "背部最南端脊椎上的星星"
+
+msgid "The nebulous mass on the right hand"
+msgstr "右手上的模糊团块"
+
+msgid "The star on the place where the back joins [the horse's body]"
+msgstr "背部连接 [马的身体] 处的星星"
+
+msgid "The middle of the nebulous mass in the chest, called Praesepe"
+msgstr "胸中模糊团块的中间，称为蜂巢 Praesepe"
+
+msgid "Crab"
+msgstr "蟹"
+
+msgid "Dog"
+msgstr "狗"
+
+msgid "Horse"
+msgstr "马"
+
+msgid "Arrow"
+msgstr "天矢"
+
+msgid "Raven"
+msgstr "乌鸦"
+
+msgid "Scorpion"
+msgstr "蝎子"
+
+msgid "Twins"
+msgstr "双胞胎"
+
+msgid "Triangle"
+msgstr "三角形"
+
+msgid "Lion"
+msgstr "狮子座"
+
+msgid "Beast"
+msgstr "野兽"
+
+msgid "Small Bear"
+msgstr "小熊"
+
+msgid "Great Bear"
+msgstr "大熊"
+
+msgid "Dragon"
+msgstr "天龙"
+
+msgid "King Kepheus"
+msgstr "国王刻普斯"
+
+msgid "Ploughman"
+msgstr "扶犁者"
+
+msgid "Crown"
+msgstr "皇冠"
+
+msgid "Kneeler"
+msgstr "跪拜者"
+
+msgid "Lyre"
+msgstr "竖琴"
+
+msgid "Queen Kassiepeia"
+msgstr "王后卡西俄庇亚"
+
+msgid "Charioteer"
+msgstr "车夫"
+
+msgid "Serpent Bearer"
+msgstr "蛇夫"
+
+msgid "Snake"
+msgstr "蛇"
+
+msgid "Eagle with Antinoos"
+msgstr "天鹰和安提诺"
+
+msgid "Dolphin"
+msgstr "海豚"
+
+msgid "Bust [of a Horse]"
+msgstr "马胸"
+
+msgid "Princess Andromeda"
+msgstr "安卓梅达公主"
+
+msgid "Ram"
+msgstr "公羊"
+
+msgid "Bull"
+msgstr "公牛"
+
+msgid "Maiden"
+msgstr "处女"
+
+msgid "Claws [of Scorpion]"
+msgstr "蝎爪"
+
+msgid "Archer"
+msgstr "射手"
+
+msgid "The One with the Goat's Horn"
+msgstr "长山羊角者"
+
+msgid "Water-carrier"
+msgstr "水瓶"
+
+msgid "Fishes"
+msgstr "双鱼"
+
+msgid "Sea Monster"
+msgstr "海怪"
+
+msgid "Hero Orion"
+msgstr "英雄俄里翁"
+
+msgid "River"
+msgstr "波江"
+
+msgid "Hare"
+msgstr "兔子"
+
+msgid "The One before the Dog"
+msgstr "在狗之前"
+
+msgid "The Ship Argo"
+msgstr "大船阿尔戈号"
+
+msgid "Water Snake"
+msgstr "水蛇"
+
+msgid "Vessel"
+msgstr "魔钵"
+
+msgid "Kentaur"
+msgstr "半人马肯陶洛斯"
+
+msgid "Altar"
+msgstr "圣坛"
+
+msgid "Southern Crown"
+msgstr "南冕"
+
+msgid "Southern Fish"
+msgstr "南鱼"
+
+msgid "The Lock [in Leo]"
+msgstr "[狮子的]头发"
+
+msgid "The southern star in the rear side"
+msgstr "背面内的南方星星"
+
+msgid "The northern one in the same side"
+msgstr "同侧最北方的那颗"
+
+msgid "The northernmost of the [two] in the front left paw"
+msgstr "左前爪 [两颗] 的最北端"
+
+msgid "The stars in the quadrilateral:  the one on the back"
+msgstr "背面的那个四边形中的星星"
+
+msgid "The one on the flank"
+msgstr "侧面的那个"
+
+msgid "The rather faint star in advance of it"
+msgstr "在它之前的那颗比较暗淡的星星"
+
+msgid "The star on the jaw"
+msgstr "下巴上的星星"
+
+msgid ""
+"The northernmost of the 3 stars in a straight line in the first bend of the "
+"neck"
+msgstr "在脖子第一个弯曲处 3颗成一直线星星的最北端"
+
+msgid "The star to the rear and due east of the latter"
+msgstr "靠后者的后面和正东方的星星"
+
+msgid ""
+"The southern star of the [two] forming the advance side of the quadrilateral "
+"in the next bend"
+msgstr "在下一个弯曲处 [二颗] 形成四边形的前侧的最南方星星"
+
+msgid ""
+"The most advanced of the three stars in the next triangle, which is in "
+"advance [of the last]"
+msgstr "下一个三角形中三颗星的最前面，即[最后的]前面"
+
+msgid "The southernmost of the next 3 stars in a straight line"
+msgstr "接下来在一条直线上 3 颗星中最南端"
+
+msgid "The northernmost of the next 2 to the west"
+msgstr "接下来靠西侧 2 颗的最北端边"
+
+msgid "The advance star of the 2 quite some distance from the latter"
+msgstr "距离后者还有段距离的 2 颗的前面星星"
+
+msgid "The one under that elbow, which also touches it"
+msgstr "肘下方的那颗，有触碰到它"
+
+msgid "The southernmost of the 3 stars on the tiara"
+msgstr "头饰上 3 颗星的最南端"
+
+msgid "The one in advance of the tiara"
+msgstr "头饰之前的那颗"
+
+msgid "The one to the rear of the tiara"
+msgstr "靠头饰后面的那颗"
+
+msgid "The one farther to the north again of this, on the tip of the staff"
+msgstr "在杆子尖端上偏靠北方的那颗"
+
+msgid "The star on the right thigh, in the apron"
+msgstr "围裙里右大腿上的星星"
+
+msgid "The northernmost of the 3 stars in the left lower leg"
+msgstr "左小腿内 3 颗星的最北端"
+
+msgid "Ἀρκτοῦρος (Arkturos, Guard)"
+msgstr "Ἀρκτοῦρος (Arkturos, Guard 大角星)"
+
+msgid "The star between the thighs, called 'Arcturus', reddish"
+msgstr "大腿间微红的那颗星，称为‘Arcturus’"
+
+msgid "The one to the rear and to the north of this"
+msgstr "靠后面北边的那颗"
+
+msgid "The one to the rear and north again of this"
+msgstr "靠后面偏这北边的那颗"
+
+msgid "The one to the rear of the bright star from the south"
+msgstr "亮星南边靠后方的那颗"
+
+msgid "The one to the rear again of the latter, close by"
+msgstr "后者附近的偏后面那颗"
+
+msgid "The one to the rear again of these"
+msgstr "偏这些后面的那颗"
+
+msgid "The star to the rear of all [the others] in the crown"
+msgstr "皇冠内所有[其他星星]的后面星星"
+
+msgid "The rearmost of the 3 stars in the left wrist"
+msgstr "左手腕 3 颗星的最后面"
+
+msgid "The northernmost of the other 2"
+msgstr "其他 2 颗的最北端"
+
+msgid "The most advanced of the 3 in the left thigh"
+msgstr "左大腿内 3 颗的最前面"
+
+msgid "The star on the left shin"
+msgstr "左胫骨上的星星"
+
+msgid "The most advanced of the 3 stars in the left foot"
+msgstr "左脚内 3 颗星的最前面"
+
+msgid "The southernmost of the 2 stars under the right knee"
+msgstr "右膝下 2 颗星的最南端"
+
+msgid ""
+"The star on the end of the right leg is the same as the one on the tip of "
+"the staff [of Bootes, 96 Boo 9]"
+msgstr "右腿末端的星星与 [牧夫座，96 Boo 9] 杖尖上的星星相同"
+
+msgid "λύρα (Lyra)"
+msgstr "λύρα (Lyra 织女星)"
+
+msgid "The bright star on the shell, called Lyra"
+msgstr "壳上那颗亮星，称为 Lyra"
+
+msgid "The northernmost of the 2 stars lying near the latter, close together"
+msgstr "躺靠在离后者很近的 2 颗黏得很近的星星的最北端"
+
+msgid ""
+"The northernmost of the 2 stars close together in the region to the east of "
+"the shell"
+msgstr "在壳的东边区域靠在一起的 2 颗星星的最北端"
+
+msgid "The northernmost of the two advance stars in the bridge"
+msgstr "桥中前两颗星的最北端"
+
+msgid "The northernmost of the two rear stars in the bridge"
+msgstr "桥中后两颗星的最北端"
+
+msgid "The southernmost of the 3 in the right wing-feathers"
+msgstr "右翼羽中 3 颗的最南端"
+
+msgid "The more advanced of the 2 stars in the right leg"
+msgstr "右腿 2 颗星中较前面的"
+
+msgid "The nebulous star on the right knee"
+msgstr "右膝上的模糊星星"
+
+msgid "The southernmost of the 2 stars under the left wing"
+msgstr "左翼下 2 颗星的最南端"
+
+msgid "The star over the throne, just over the thighs"
+msgstr "就在大腿和宝座上方的星星"
+
+msgid "The star on the right fore-arm"
+msgstr "右前臂上的星星"
+
+msgid "The star above the foot of the throne"
+msgstr "宝座脚上方的星星"
+
+msgid "The star on the middle of the back of the throne"
+msgstr "宝座背面中间的星星"
+
+msgid "The star on the top of the throne-back"
+msgstr "宝座背顶上的星星"
+
+msgid "The most advanced of the 3 stars next to the one in the side"
+msgstr "邻近侧边那颗的 3 颗星的最前面"
+
+msgid "Stars in the Gorgon-head:  the bright one"
+msgstr "蛇发女妖头上的星星：明亮的那颗"
+
+msgid "The more advanced of the 2 stars above the bend in the knee"
+msgstr "膝盖弯曲上的 2 颗星中较前面的"
+
+msgid "αἴξ (Goat)"
+msgstr "αἴξ (Goat 五车二)"
+
+msgid "The star on the left shoulder, called Capella"
+msgstr "左肩上的这颗星，称为 Capella"
+
+msgid "Ἔριφοι (Kids [of the Goat]) I"
+msgstr "Ἔριφοι ([山羊的]小羊) I"
+
+msgid ""
+"The rearmost of the two stars on the left wrist, which are called 'Haedi'"
+msgstr "左手腕两颗星的最后面，称为“Haedi”"
+
+msgid "Ἔριφοι (Kids [of the Goat]) II"
+msgstr "Ἔριφοι ([山羊的]小羊) II"
+
+msgid ""
+"The star on the right ankle, which is [applied in] common to the horn [of "
+"Taurus, 400 Tau 21]"
+msgstr "右脚踝上的星星，也[被当作]是[金牛座]牛角的共享点，400 Tau 21"
+
+msgid "The small star over the left foot"
+msgstr "左脚上方的小星星"
+
+msgid "The more advanced of the 2 stars on the right shoulder"
+msgstr "右肩 2 颗星中较前面的"
+
+msgid "The more advanced of the 2 stars on the left shoulder"
+msgstr "左肩 2 颗星中较前面的"
+
+msgid "The more advanced of the 2 stars in the left hand"
+msgstr "左手 2 颗星中较前面的"
+
+msgid "The more advanced of the 2 stars in the right hand"
+msgstr "右手 2 颗星中较前面的"
+
+msgid "The most advanced of the 4 stars on the right foot"
+msgstr "右脚上 4 颗星中的最前面"
+
+msgid "The last and rearmost of the 4"
+msgstr "4 颗的最后一个"
+
+msgid ""
+"The northernmost of the 3 stars in a straight line in the left lower leg"
+msgstr "在左小腿内 3 颗在一条直线上的最北端"
+
+msgid "The northernmost of the 3 to the east of the right shoulder"
+msgstr "右肩上靠东方 3 颗星的最北端"
+
+msgid "The star to the rear of these 3, approximately over the middle one"
+msgstr "几乎在中间那个的上面的这 3 颗中靠后面那颗星"
+
+msgid "The lone star north of [these] 4 [nos. 25-28]"
+msgstr "[这] 4颗 [nos. 25-28] 北边的孤星"
+
+msgid "The northernmost of the 3 following this"
+msgstr "在这之后的 3 颗的最北端"
+
+msgid ""
+"The star to the rear of those in the hand [of Ophiuchus, 240-241 Oph 7-8]"
+msgstr "靠 [蛇夫座, 240-241 Oph 7-8] 手中这些星星后面的那颗"
+
+msgid "The southernmost of the 2 to the rear of the latter"
+msgstr "靠后者的后方的这 2 颗的最南端"
+
+msgid "ἀετός (Eagle)"
+msgstr "ἀετός (老鹰 河鼓二)"
+
+msgid "The bright star on the place between the shoulders, called Aquila"
+msgstr "两肩之间那颗明亮的星星，叫做 Aquila"
+
+msgid "The more advanced of the 2 in the left shoulder"
+msgstr "左肩 2颗中较前面的"
+
+msgid "The star some distance under the tail of Aquila, touching the Milky Way"
+msgstr "天鹰座尾巴碰到银河的下方有点距离的星星"
+
+msgid ""
+"The stars around Aquila, to which the name 'Antinous' is given:  The more "
+"advanced of the 2 stars south of the head of Aquila"
+msgstr "天鹰座周围的星星，命名为“Antinous”：天鹰座头部以南 2 颗星星中较前面的"
+
+msgid "The star to the south and west of the right shoulder of Aquila"
+msgstr "天鹰座右肩靠西南侧的星星"
+
+msgid "The most advanced of the 3 stars in the tail"
+msgstr "尾巴上 3 颗星的最前面"
+
+msgid ""
+"The stars in the rhomboid quadrilateral:  the southernmost one on the "
+"advance side"
+msgstr "菱形四边形中的星星：前侧最南端的那颗"
+
+msgid "The southernmost of the 3 stars between the tail and the rhombus"
+msgstr "尾部和菱形之间 3 颗星的最南端"
+
+msgid "The more advanced of the other 2 to the north"
+msgstr "其他 2 颗靠北方的比较前面的"
+
+msgid "The more advanced of the 2 stars in the head"
+msgstr "头部 2 颗星中比较前面的"
+
+msgid "The more advanced of the 2 stars close together in the neck"
+msgstr "脖子内靠拢的 2 颗星中较前面的"
+
+msgid "The southernmost of the 3 stars on the right upper arm"
+msgstr "右上臂 3 颗星的最南端"
+
+msgid "The southernmost of the 3 stars on the right hand"
+msgstr "右手上 3 颗星的最南端"
+
+msgid "The southernmost of the 3 stars over the girdle"
+msgstr "腰带上 3 颗星的最南端"
+
+msgid "The star over the left foot"
+msgstr "左脚上方的星星"
+
+msgid "The northernmost of the 2 stars on the left knee-bend"
+msgstr "左膝弯曲上的2颗星的最北端"
+
+msgid "The northernmost of the two stars in the lower hem [of the garment]"
+msgstr "[衣服] 下摆两颗星的最北端"
+
+msgid "The most advanced of the 3 on the base"
+msgstr "底部上面 3 颗的最前面"
+
+msgid "The more advanced of the 2 stars on the horn"
+msgstr "角上 2 颗星中较前面的"
+
+msgid "The northernmost of the 2 stars on the muzzle"
+msgstr "鼻口上 2 颗星的最北端"
+
+msgid "The star on the place where the tail joins [the body]"
+msgstr "在尾巴连接 [身体] 之处的星星"
+
+msgid "The star under the knee-bend"
+msgstr "膝盖弯曲处下方的星星"
+
+msgid ""
+"The 4 stars over the rump:  the rearmost, which is brighter [than the others]"
+msgstr "臀部上方的 4 颗星：最后面，比 [其他的] 更亮的"
+
+msgid "The northernmost of the other 3, fainter stars"
+msgstr "其他 3 颗较暗星星的最北端"
+
+msgid "The northernmost of the 4 stars in the cut-off"
+msgstr "处于切入位置 4 颗星的最北端"
+
+msgid "The southernmost of the 4"
+msgstr "4 颗中的最南端"
+
+msgid "The one to the rear of these, on the right shoulder-blade"
+msgstr "在右肩胛骨上这些的后方那颗"
+
+msgid "The stars in the face, called 'the Hyades':  the one on the nostrils"
+msgstr "脸上的星星，称为 “Hyades”：口鼻上的那颗"
+
+msgid "The one between this and the northern eye"
+msgstr "在这个与北方眼睛中间的那颗"
+
+msgid "The one between it [no. 11] and the southern eye"
+msgstr "在它 [no. 11] 与南方眼睛之间的那颗"
+
+msgid "The bright star of the Hyades, the reddish one on the southern eye"
+msgstr "Hyades 中的亮星,  靠南方眼睛上的红色那颗"
+
+msgid "The southernmost of the 2 stars on the southern horn"
+msgstr "南角上 2 颗星的最南端"
+
+msgid ""
+"The star on the tip of the northern horn, which is the same as the one on "
+"the right foot of Auriga [230 Aur 11]"
+msgstr "北角尖端的星星，与御夫座右脚的星星 [230 Aur 11] 是同一颗"
+
+msgid "The northernmost of the 2 stars close together in the northern ear"
+msgstr "在北方耳朵靠在一起的 2 颗星星的最北端"
+
+msgid "The more advanced of the 2 small stars in the neck"
+msgstr "脖子上 2 颗小星星中比较前面的"
+
+msgid ""
+"The quadrilateral in the neck:  the southernmost star on the advance side"
+msgstr "脖子内的菱形四边形：前侧最南端的星星"
+
+msgid "The star under the right foot and the shoulder-blade"
+msgstr "右脚和肩胛骨下方的星星"
+
+msgid "The most advanced of the 3 stars over the southern horn"
+msgstr "南角 3 颗星的最前面"
+
+msgid "The northernmost of the 2 stars under the tip of the southern horn"
+msgstr "南角尖端下方 2 颗星的最北端"
+
+msgid ""
+"The 5 stars under and to the rear of the northern horn:  the most advanced"
+msgstr "北角下方和后方的 5 颗星的最前面"
+
+msgid "The northernmost of the remaining, rearmost 2"
+msgstr "剩下最后 2 颗的最北端"
+
+msgid "The one to the rear of that, just over the place between the shoulders"
+msgstr "就在肩膀之间的上方后面那颗"
+
+msgid "The star under the left knee of the rear twin"
+msgstr "后双子左膝下方的星星"
+
+msgid "The star in the left groin of the rear twin"
+msgstr "后双子左大腿根的星星"
+
+msgid "The star on the forward foot of the advance twin"
+msgstr "前双子前腿上的星星"
+
+msgid "The star in advance of the forward foot of the advance twin"
+msgstr "前双子前腿之前的星星"
+
+msgid "The bright star to the rear of the above-mentioned 3"
+msgstr "靠上述 3 颗星后面的亮星"
+
+msgid ""
+"The quadrilateral containing the nebula [no. 1]:  the northernmost of the "
+"two stars in advance"
+msgstr "包含星云的四边形 [no. 1]：前两颗星的最北端"
+
+msgid "ὄνος (Ass) I"
+msgstr "ὄνος (驴 鬼宿三) I"
+
+msgid ""
+"The northernmost of the rear 2 stars on the quadrilateral, which are called "
+"'Aselli'"
+msgstr "四边形后 2 颗星中最北端，称为“Aselli”"
+
+msgid "ὄνος (Ass) II"
+msgstr "ὄνος (驴 鬼宿四) II"
+
+msgid "The northernmost of the 3 stars in the neck"
+msgstr "脖子内 3 颗星的最北端"
+
+msgid "βασιλίσκος (Princelet)"
+msgstr "βασιλίσκος (Princelet 轩辕十四)"
+
+msgid "The star on the heart, called 'Regulus'"
+msgstr "心脏上的星星，叫做 ‘Regulus’"
+
+msgid "The star a little in advance of the star on the heart [no. 8]"
+msgstr "比心脏上的星星 [no. 8] 稍微前面一点的星星"
+
+msgid "The northernmost of the other, rearmost 2"
+msgstr "最后端其他 2 颗的最北端"
+
+msgid "The northernmost of the 2 stars in the buttocks"
+msgstr "臀部内 2 颗星的最北端"
+
+msgid "The more advanced of the 2 over the back"
+msgstr "后面上方 2 颗中比较前面的"
+
+msgid "The northernmost of the 3 under the flank"
+msgstr "侧翼下方 3 颗的最北端"
+
+msgid "The southernmost of the 2 stars in the top of the skull"
+msgstr "头骨顶部 2 颗星的最南端"
+
+msgid "The northernmost of the 2 stars to the rear of these, in the face"
+msgstr "在脸部后方 2 颗星的最北端"
+
+msgid "The most advanced of the 4 stars in the left wing"
+msgstr "左翼内 4 颗星的最前面"
+
+msgid "The most advanced of the 3 stars in the right, northern wing"
+msgstr "右边北翼内 3 颗星的最前面"
+
+msgid "The southernmost of the other 2"
+msgstr "其他 2 颗的最南端"
+
+msgid "Προτρυγητήρ (Harbinger of Vintage)"
+msgstr "Προτρυγητήρ (Harbinger of Vintage 东次将星)"
+
+msgid "στάχυς (Ear of Grain)"
+msgstr "στάχυς (Ear of Grain 角宿一)"
+
+msgid "The star on the left hand, called 'Spica'"
+msgstr "左手上的这颗星，称为 Spica"
+
+msgid ""
+"The quadrilateral in the left thigh:  the northern star on the advance side"
+msgstr "左大腿内的菱形四边形：前侧最北端的星星"
+
+msgid "The northernmost of the 2 stars on the rear side"
+msgstr "后侧上 2 颗星的最北端"
+
+msgid "The middle star of the 3 in the garment-hem round the feet"
+msgstr "衣服下摆脚周围内 3 颗的中间星星"
+
+msgid "The rearmost of the 3"
+msgstr "3 颗的最后端"
+
+msgid "The most advanced of the 3 stars almost on a straight line under Spica"
+msgstr "角宿一下方几乎在一条直线上的 3 颗星的最前面"
+
+msgid "Stars on the tip of the southern claw:  the bright one"
+msgstr "南爪尖上的星星：明亮的那颗"
+
+msgid "The star to the north of this and fainter than it"
+msgstr "比它更暗的这个北边的星星"
+
+msgid "Stars on the tip of the northern claw:  the bright one"
+msgstr "北爪尖上的星星：明亮的那颗"
+
+msgid "The faint star in advance of this"
+msgstr "在这之前的那颗暗星"
+
+msgid "The most advanced of the 3 stars north of the northern claw"
+msgstr "北爪北方 3 颗星的最前面"
+
+msgid "The southernmost of the rearmost 2 [of these]"
+msgstr "[这些的]最后 2 颗的最南端"
+
+msgid "The rearmost of the 3 stars between the claws"
+msgstr "爪子中间 3 颗星的最后面"
+
+msgid "The northernmost of the other 2 in advance [of the latter]"
+msgstr "[后者的] 前面 2 颗的最北端"
+
+msgid "The most advanced of the 3 stars south of the southern claw"
+msgstr "南爪南方 3 颗星的最前面"
+
+msgid "The northernmost of the other, rear 2"
+msgstr "后边其他 2 颗的最北端"
+
+msgid "The northernmost of the 3 bright stars in the forehead"
+msgstr "额头 3 颗亮星的最北端"
+
+msgid ""
+"The northernmost of the 2 stars adjacent to the northernmost of the 3 bright "
+"ones [no. 1]"
+msgstr "与 3 颗亮星 [no. 1] 的最北端相邻的 2 颗星的最北端"
+
+msgid "The most advanced of the 3 bright stars in the body"
+msgstr "体内 3 颗亮星的最前面"
+
+msgid "ἀντάρης (Antares)"
+msgstr "ἀντάρης (Antares 心宿二)"
+
+msgid "The middle one of these, which is reddish and called 'Antares'"
+msgstr "中间的这颗，呈红色且被称为“Antares”"
+
+msgid "The advance star of the 2 under these, approximately on the last leg"
+msgstr "大约在后腿下方 2 颗的前面星星"
+
+msgid "The star in the first [tail-] joint from the body"
+msgstr "在第一条 [尾巴] 连接身体内的星星"
+
+msgid "The one after this, in the 2nd joint"
+msgstr "在第 2 节之后的那颗"
+
+msgid "The northern star of the double-star in the 3rd joint"
+msgstr "在第 3 节内双星的北星"
+
+msgid "The one following, in the 4th joint"
+msgstr "接着第 4 节的那颗"
+
+msgid "The one after that, in the 5th joint"
+msgstr "在第 5 节之后的那颗"
+
+msgid "The next one again, in the 6th joint"
+msgstr "在第 6 节的偏下一颗"
+
+msgid "The star in the 7th joint, the joint next to the sting"
+msgstr "接着刺的第 7 节内的星星"
+
+msgid "The rearmost of the 2 stars in the sting"
+msgstr "刺上 2 颗星的最后一颗"
+
+msgid "The most advanced of the 2 stars to the north of the sting"
+msgstr "靠刺北方 2 颗星的最前面"
+
+msgid "The star in the [bow-] grip held by the left hand"
+msgstr "左手握着 [弓] 把处的星星"
+
+msgid "The southernmost of the [2] stars in the northern portion of the bow"
+msgstr "在弓的北半部 [2颗] 星星的最南端"
+
+msgid "The one in advance of this, just over the arrow"
+msgstr "就在箭头上方的前方那颗"
+
+msgid "The most advanced of the 3 stars in the head"
+msgstr "头部 3 颗星中的最前面"
+
+msgid "The southernmost of the 3 stars in the northern cloak-attachment"
+msgstr "在北斗篷内 3 颗星的最南端"
+
+msgid "The northernmost of the 2 stars on the southern cloak-attachment"
+msgstr "在南斗篷内 2 颗星的最北端"
+
+msgid ""
+"The three stars in the back:  the one just above the place between the "
+"shoulders"
+msgstr "后背三颗星 : 就在肩膀之间的上方那颗"
+
+msgid "The middle one, just above the shoulder-blade"
+msgstr "就在肩胛骨上方的中间那颗"
+
+msgid ""
+"The four stars [forming a quadrilateral] in the place where the tail joins "
+"[the body]:  the advance star on the northern side"
+msgstr "尾部与 [身体] 连接处 [形成一个矩形] 的四颗星：北侧的前面星星"
+
+msgid "The northernmost of the 3 stars in the rear horn"
+msgstr "在后角内 3 颗星的最北端"
+
+msgid "The southernmost of the 3 stars in the muzzle"
+msgstr "鼻口内 3 颗星的最南端"
+
+msgid "The star in advance of the [above] 3, under the right eye"
+msgstr "右眼下方 3 颗星 [上方] 的前面星星"
+
+msgid "The northernmost of the 2 stars in the neck"
+msgstr "脖子内 2 颗星的最北端"
+
+msgid "The more advanced of the 2 stars close together under the belly"
+msgstr "肚子下方靠拢的 2 颗星中较前面的"
+
+msgid "The rearmost of the 3 stars in the middle of the body"
+msgstr "身体中间 3 颗星的最后面"
+
+msgid "The southernmost of the other, advance 2"
+msgstr "其他前面 2 颗的最南端"
+
+msgid "The more advanced of the 2 stars in the back"
+msgstr "背后 2 颗星中比较前面的"
+
+msgid "The more advanced of the 2 stars in the southern spine"
+msgstr "南方脊椎 2 颗星中较前面的"
+
+msgid ""
+"The more advanced of the 2 stars in the section [of the body] next to the "
+"tail"
+msgstr "在尾部旁边 [身体的] 部分的 2 颗星中较前面的"
+
+msgid "The most advanced of the 4 stars on the northern portion of the tail"
+msgstr "尾巴北部 4 颗星中最前面的"
+
+msgid "The southernmost of the other 3"
+msgstr "其他 3 颗的最南端"
+
+msgid "The brighter of the 2 stars in the right shoulder"
+msgstr "右肩 2 颗星中较亮的"
+
+msgid "The northernmost of the 3 stars on the right hand"
+msgstr "右手上 3 颗星的最北端"
+
+msgid "The more advanced of the other 2 to the south"
+msgstr "其他 2 颗靠南方的比较前面的"
+
+msgid ""
+"The more advanced of the 2 stars close together in the hollow of the right "
+"[hip]"
+msgstr "在右 [髋关节的] 凹陷处靠在一起 2 颗星中较前面的"
+
+msgid "The southernmost of the 2 stars in the left buttock"
+msgstr "左臀部 2 颗星的最南端"
+
+msgid "The southernmost of the 2 stars in the right lower leg"
+msgstr "右小腿内 2 颗星的最南端"
+
+msgid "The southernmost of the 2 stars in the left lower leg"
+msgstr "左小腿内 2 颗星的最南端"
+
+msgid "The one next to this, after [the beginning of] the bend"
+msgstr "在[开始]弯曲之后，这个的旁边那颗"
+
+msgid "The northernmost of the 2 stars to the south of this"
+msgstr "靠这南边 2 颗星的最北端"
+
+msgid "The more advanced of the 2 stars close together after the latter"
+msgstr "在后者后面靠在一起的 2 颗星中较前面的"
+
+msgid "The northernmost of the 3 stars in the next group"
+msgstr "在下一群中 3 颗星的最北端"
+
+msgid "The northernmost of the next 3 [arranged] likewise"
+msgstr "接下来 3 颗 [排列] 相似的最北端"
+
+msgid "The most advanced of the 3 stars in the remaining group"
+msgstr "剩余弯曲组中 3 颗星的最前面"
+
+msgid "The most advanced of the 3 stars to the rear of the bend in the water"
+msgstr "在水道弯曲处的后方 3 颗星的最前面"
+
+msgid "The southernmost of the 2 stars in the top of its head"
+msgstr "它头顶 2 颗星的最南端"
+
+msgid "The more advanced of the 2 stars in the belly"
+msgstr "肚子 2 颗星中比较前面的"
+
+msgid "The stars forming its fishing-line:  the first after the tail"
+msgstr "形成它的鱼线的星星：在尾巴后的第一颗"
+
+msgid "The most advanced of the 3 following bright stars"
+msgstr " 3 颗接着亮星的最前面"
+
+msgid "The northernmost of the 2 small stars under these, in the bend"
+msgstr "这些，在弯曲处，下面的 2 颗小星星的最北端"
+
+msgid "The most advanced of the 3 stars after the bend"
+msgstr "在弯曲后 3 颗星的最前面"
+
+msgid "The star on the knot joining the 2 fishing-lines"
+msgstr "2 条鱼线连结处上的星星"
+
+msgid ""
+"Stars in the northern fishing-line:  the first in the section beginning at "
+"the knot"
+msgstr "北方鱼线内的星星：从连结处开始部份的第一颗"
+
+msgid "The southernmost of the 3 stars following after that"
+msgstr "紧随其后的 3 颗星的最南端"
+
+msgid "The northernmost of the 3, which is also on the end of the tail"
+msgstr "这个也在尾巴末端中 3 颗的最北端"
+
+msgid "The northernmost of the 2 stars in the mouth of the rear fish"
+msgstr "后鱼嘴中 2 颗星的最北端"
+
+msgid "The rearmost of the 3 small stars in the head"
+msgstr "头上 3 颗小星星的最后面"
+
+msgid ""
+"The most advanced of the 3 stars on the spine in the back, following [i.e. "
+"to the rear of] the star on the elbow of Andromeda [345 And 11]"
+msgstr ""
+"背部脊椎上 3 颗星的最前面，紧随仙女座手肘 [345 And 11] 上 [也就是后面] 的星星"
+
+msgid "The northernmost of the 2 stars in the belly"
+msgstr "肚子 2 颗星的最北端"
+
+msgid ""
+"The quadrilateral under the advance fish:  the more advanced of the 2 "
+"northern stars"
+msgstr "前鱼下方的四边形：2 颗北方星星中较前面的"
+
+msgid "The three stars in the snout:  the rearmost, on the end of the jaw"
+msgstr "口鼻部的三颗星：在下巴的末端最后面"
+
+msgid "The most advanced of the 3, on the cheek"
+msgstr "在脸颊上 3 颗星的最前面"
+
+msgid ""
+"The quadrilateral in the chest:  the northernmost star on the advance side"
+msgstr "胸内的菱形四边形：前侧最南端的星星"
+
+msgid "The midmost of the 3 stars in the body"
+msgstr "在身体内 3 颗星的最中间"
+
+msgid "The rearmost of the 2 stars by the section next to the tail"
+msgstr "邻近尾巴部分旁边 2 颗星的最后面"
+
+msgid ""
+"The quadrilateral in the section next to the tail:  the northernmost star on "
+"the rear side"
+msgstr "邻近尾巴部分的菱形四边形：后侧最北端的星星"
+
+msgid ""
+"The 2 stars at the ends of the tail-fins:  the one on the northern [tail-fin]"
+msgstr "尾鳍末端的 2 颗星：北 [尾鳍上] 的那颗"
+
+msgid "The nebulous star in the head of Orion"
+msgstr "猎户座头内的模糊星星"
+
+msgid ""
+"The quadrilateral in the right hand:  the rear, double star on the southern "
+"side"
+msgstr "右手内的菱形四边形：南侧后面的双星"
+
+msgid "The more advanced of the 2 stars in the staff"
+msgstr "杆中 2 颗星中比较前面的"
+
+msgid ""
+"The rearmost of the 4 stars almost on a straight line just over the back"
+msgstr "刚好在后面 4 颗几乎在一条直线上的星星的最后面"
+
+msgid "The last and most advanced of the 4"
+msgstr "4 颗的最后和最前面的"
+
+msgid "Stars in the pelt on the left arm:  the northernmost"
+msgstr "左臂毛披肩中的星星：在最北端"
+
+msgid "The 2nd from the northernmost"
+msgstr "从最北端数来的第 2 颗"
+
+msgid "The 3rd from the northernmost"
+msgstr "从最北端数来的第 3 颗"
+
+msgid "The 4th from the northernmost"
+msgstr "从最北端数来的第 4 颗"
+
+msgid "The 5th from the northernmost"
+msgstr "从最北端数来的第 5 颗"
+
+msgid "The 6th from the northernmost"
+msgstr "从最北端数来的第 6 颗"
+
+msgid "The 7th from the northernmost"
+msgstr "从最北端数来的第 7 颗"
+
+msgid "The 8th from the northernmost"
+msgstr "从最北端数来的第 8 颗"
+
+msgid "The most advanced of the 3 stars on the belt"
+msgstr "腰带上 3 颗星的最前面"
+
+msgid ""
+"The northernmost of the 3 stars joined together at the tip of the dagger"
+msgstr "3 颗连接匕首尖端星星的最北端"
+
+msgid "The rearmost of the 2 stars under the tip of the dagger"
+msgstr "2 颗匕首尖端下方星星的最后一颗"
+
+msgid ""
+"The star after the one in the foot of Orion [768 Ori 35], at the beginning "
+"of the river"
+msgstr "猎户座脚下那颗的后面星星 [768 Ori 35]，在河流的起点"
+
+msgid "The rearmost of the 2 stars next in order after this"
+msgstr "依序在此之后的 2 颗星的最后面"
+
+msgid "The rearmost of the next 2 in order again"
+msgstr "再依顺序而下 2 颗的最后"
+
+msgid "The rearmost of the 3 stars after this"
+msgstr "在此之后 3 颗星的最后"
+
+msgid "The most advanced of the 4"
+msgstr "4 颗中最前面的"
+
+msgid "The rearmost of the 4 stars in the next interval again"
+msgstr "再下个间隔的 4 颗星的最后"
+
+msgid ""
+"The first star in the bend of the river, which [star] touches the chest of "
+"Cetus"
+msgstr "河流弯曲处的第一颗星，该颗 [星] 碰触到鲸鱼座的胸膛"
+
+msgid "The most advanced of the next [group of] three"
+msgstr "接着三颗 [成群] 的最前面"
+
+msgid ""
+"The next four stars, nearly forming a trapezium:  the northern one on the "
+"advance side"
+msgstr "接下来的几乎形成一个梯形的四颗星：在前侧北方的那颗"
+
+msgid "The last of the 4, the rear one on that side"
+msgstr "在那边后侧的 4 颗中的最后"
+
+msgid ""
+"The northernmost of the 2 stars close together at some distance to the east"
+msgstr "在东方有点距离的靠在一起 2 颗星星的最北端"
+
+msgid "The rearmost of the next 2 stars after the bend"
+msgstr "在弯曲下面接着的 2 颗星的最后面"
+
+msgid "The rearmost of the 3 stars in the next interval"
+msgstr "下个间隔的 3 颗星的最后"
+
+msgid "The last star of the river, the bright one"
+msgstr "河里的最后那颗亮星"
+
+msgid ""
+"The quadrilateral just over the ears:  the northern star on the advance side"
+msgstr "就在耳朵上方的菱形四边形：前侧最北端的星星"
+
+msgid "The star in the cheek"
+msgstr "脸颊上的星星"
+
+msgid "The northernmost of the 2 stars in the hind legs"
+msgstr "后腿内 2 颗星的最北端"
+
+msgid "κύων (Dog)"
+msgstr "κύων (大犬 天狼星)"
+
+msgid ""
+"The star in the mouth, the brightest, which is called 'the Dog' and is "
+"reddish"
+msgstr "亮度最高的口中之星，它被称为“狗星”颜色偏红"
+
+msgid "The northernmost of the 2 stars on the right knee"
+msgstr "右膝上 2 颗星的最北端"
+
+msgid "The star on the end of the front leg"
+msgstr "前腿末端上的星星"
+
+msgid "The more advanced of the 2 stars in the left knee"
+msgstr "左膝 2 颗星中较前面的"
+
+msgid "The rearmost of the 2 stars in the left shoulder"
+msgstr "左肩 2 颗星中最后面的"
+
+msgid "The star below the belly, in the middle of the thighs"
+msgstr "在肚子下方大腿中间的星星"
+
+msgid "The star to the north of the top of Canis"
+msgstr "大犬座顶部以北的星星"
+
+msgid ""
+"The southernmost of the 4 stars almost on a straight line under the hind legs"
+msgstr "在后腿下方 4 颗几乎在一条直线上的星星的最南端"
+
+msgid "The last and northernmost of the 4"
+msgstr "4 颗的最后和最北端那颗"
+
+msgid ""
+"The most advanced of the 3 stars almost on a straight line to the west of "
+"the [above] four"
+msgstr "四颗 [上方] 的西边几乎在一条直线上的 3 颗星的最前面"
+
+msgid "The rearmost of the 2 bright stars under these"
+msgstr "在此之后 2 颗亮星的最后"
+
+msgid "The star in the neck"
+msgstr "脖子内的星星"
+
+msgid "Προκύων (Prokyon, The One [rising] before the Dog)"
+msgstr "Προκύων (Prokyon 南河三, 在大犬之前[升起]者)"
+
+msgid "The bright star just over the hindquarters, called Procyon"
+msgstr "后躯上方的那颗亮星，称为 Procyon"
+
+msgid "The more advanced of the 2 stars in the stern-ornament"
+msgstr "船尾装饰内 2 颗星中较前面的"
+
+msgid ""
+"The northernmost of the 2 stars close together over the little shield in the "
+"poop"
+msgstr "靠在小艉艛上 2 颗邻近的星星的最北端"
+
+msgid "The most advanced of the 3 stars under the little shield"
+msgstr "小盾下 3 颗星的最前面"
+
+msgid "The star on the goose [-neck]"
+msgstr "鹅 [脖子] 上的星星"
+
+msgid "The northernmost of the 2 stars in the stern-keel"
+msgstr "艉龙骨中 2 颗星的最北端"
+
+msgid "Stars in the poop-deck:  the northernmost"
+msgstr "艉板上的星星：最北端"
+
+msgid "The most advanced of the next 3"
+msgstr "接着 3 颗的最前面"
+
+msgid "The more advanced of the 2 faint stars under the bright one"
+msgstr "亮星下方 2 颗暗星中较前面的"
+
+msgid "The more advanced of the 2 stars over the above-mentioned bright one"
+msgstr "在前述亮星上方 2 颗星星中比较前面的"
+
+msgid ""
+"The northernmost of the 3 stars on the little shields, about on the mast-"
+"holder"
+msgstr "大约在桅杆上的小盾上 3 颗星的最北端"
+
+msgid "The northernmost of the 2 stars close together under these"
+msgstr "在这些下方靠拢的 2 颗星的最北端"
+
+msgid "The southernmost of the 2 stars in the middle of the mast"
+msgstr "桅杆中间 2 颗星的最南端"
+
+msgid "The more advanced of the 2 stars by the tip of the mast"
+msgstr "桅杆尖端的 2 颗星中较前面的"
+
+msgid "The star below the 3rd and rearmost little shield"
+msgstr "后方小盾 3 颗星下的星星"
+
+msgid "The bright star to the south of this, on the lower [part of the] keel"
+msgstr "靠龙骨的下面[部分]南边那颗明亮的星星，"
+
+msgid "The most advanced of the 3 stars to the rear of this"
+msgstr "靠这后面的 3 颗星的最前面"
+
+msgid "The more advanced of the 2 stars to the rear of these, near the cut-off"
+msgstr "截断处附近的后面 2 颗星中较前面的"
+
+msgid "The more advanced of the 2 stars in the northern, advance steering-oar"
+msgstr "在舵桨北前方 2 颗星中较前面的"
+
+msgid "Κάνωβος (Kanobos)"
+msgstr "Κάνωβος (Kanobos 老人星)"
+
+msgid ""
+"The more advanced of the 2 stars in the other steering-oar, called Canopus"
+msgstr "另一只舵桨上的 2 颗星中较前面的，称为 Canopus"
+
+msgid ""
+"The 5 stars in the head:  the southernmost of the 2 advance ones, which is "
+"on the nostrils"
+msgstr "头部的 5 颗星：前 2 颗星中最南端，在鼻孔上"
+
+msgid "The northernmost of these [2], which is above the eye"
+msgstr "在眼睛上方这 [2] 颗的最北端"
+
+msgid ""
+"The northernmost of the 2 to the rear of these, which is about on the skull"
+msgstr "大约在头骨上，2 颗靠它后面的最北端"
+
+msgid "The rearmost of all, about on the cheek"
+msgstr "大约在脸颊上全部的最后一颗"
+
+msgid ""
+"The more advanced of the 2 stars in the place where the neck joins [the head]"
+msgstr "颈部连接 [头部] 处 2 颗星中较前面的"
+
+msgid "The faint, northernmost star of the 2 close together to the south"
+msgstr "2 颗靠拢在南边的星星中最北端的暗星"
+
+msgid "The bright one of these two close stars"
+msgstr "这 2 颗靠拢星星中的亮星"
+
+msgid ""
+"The most advanced of the 3 stars to the rear, after the bend [in the neck]"
+msgstr "在 [脖子] 弯曲处下面的后方 3 颗星的最前面"
+
+msgid "The most advanced of the next 3 stars almost on a straight line"
+msgstr "接下来的 3 颗几乎在一条直线上的星星中最前面的"
+
+msgid ""
+"The northernmost of the 2 stars after [i.e. to the rear of] the base of "
+"Crater"
+msgstr "在巨爵座底部 [也就是它后面] 之后 2 颗星星的最北端"
+
+msgid "The most advanced of the 3 stars after these, as it were in a triangle"
+msgstr "在一个三角形内这些之后 3 颗星的最前面"
+
+msgid "The star some distance to the rear of those in the neck [nos. 6-15]"
+msgstr "离脖子后面有些距离的星星 [nos. 6-15]"
+
+msgid "The southernmost of the 2 stars in the middle of the bowl"
+msgstr "碗中央 2 颗星的最南端"
+
+msgid "The more advanced of the 2 stars in the rear wing"
+msgstr "后翼内 2 颗星中较前面的"
+
+msgid "The southernmost of the 4 stars in the head"
+msgstr "头内 4 颗星星的最南端"
+
+msgid "The more advanced of the other, middle 2"
+msgstr "其他中间 2 颗中较前面的"
+
+msgid "The rearmost of these, the last of the 4"
+msgstr "剩下这 4 颗中的最后"
+
+msgid "The 4 stars in the thyrsus:  the northernmost of the advance 2"
+msgstr "酒神令牌内的 4 颗星 : 前 2 颗的最北端"
+
+msgid "The most advanced of the 3 stars in the right side"
+msgstr "右侧 3 颗星的最前面"
+
+msgid "The rearmost of the 2 faint stars to the north of this"
+msgstr "这颗以北 2 颗暗星的最后一颗"
+
+msgid "The more advanced of the 2 stars close together on the right thigh"
+msgstr "2 颗在右大腿靠拢的星星中较前面的"
+
+msgid "The more advanced of the 2 stars under the belly"
+msgstr "腹下 2 颗星中比较前面的"
+
+msgid "The more advanced of the 2 stars just over the shoulder-blade"
+msgstr "就在肩胛骨上方的 2 颗星中较前面的"
+
+msgid ""
+"The northernmost of the 2 stars near the place where the thigh joins [the "
+"body]"
+msgstr "靠近大腿连接 [身体] 处的 2 颗星的最北端"
+
+msgid "The southernmost of the 2 stars in the neck"
+msgstr "脖子内 2 颗星的最南端"
+
+msgid "The more advanced of the 2 stars in the snout"
+msgstr "口鼻部 2 颗星中较前面的"
+
+msgid "The southernmost of the 2 stars in the front leg"
+msgstr "前腿内 2 颗星的最南端"
+
+msgid "The northernmost of the 2 stars in the base"
+msgstr "底部 2 颗星星的最北端"
+
+msgid "The northernmost of the 3 stars in the brazier"
+msgstr "在火盆内 3 颗星的最北端"
+
+msgid "The southernmost of the other 2 which are close together"
+msgstr "其他 2 颗靠在一起的最南端"
+
+msgid "The northernmost of these [2]"
+msgstr "这 [2颗中] 的最北端"
+
+msgid ""
+"The one after this, which is north of the bright star in the knee [of "
+"Sagittarius, 593 Sgr 24]"
+msgstr "在 [人马座, 593 Sgr 24] 膝盖上那颗亮星的北边之后的那颗"
+
+msgid "The rearmost of the 2 stars after this, in advance, in the northern rim"
+msgstr "在北缘前的这之后 2 颗星的最后面"
+
+msgid "The more advanced of these 2 faint stars"
+msgstr "2 颗暗星中比较前面的"
+
+msgid ""
+"The star in the mouth, which is the same as the beginning of the water [670 "
+"Aqr 42]"
+msgstr "口中之星，和流水的开始处 [670 Aqr 42] 是同一颗"
+
+msgid "The most advanced of the 3 stars on the southern rim of the head"
+msgstr "头部南缘 3 颗星中最前面的"
+
+msgid "The rearmost of the 2 stars in the belly"
+msgstr "肚子内 2 颗星的最后面"
+
+msgid "The rearmost of the 3 stars on the northern spine"
+msgstr "北脊椎上 3 颗星的最后面"
+
+msgid ""
+"The most advanced of the 3 bright stars in advance of Piscis [Austrinus]"
+msgstr "[南] 鱼前面 3 颗亮星的最前面"
+
+msgid "The southernmost of the remaining 2 stars to the north"
+msgstr "剩下 2 颗靠北方的最南端"
+
+#. TRANSLATORS: Native name for Jupiter
+msgid "Zeus/Dios"
+msgstr "宙斯"
+
+#. TRANSLATORS: Native name for Venus
+msgid "Aphrodite"
+msgstr "阿佛洛狄忒"
+
+#. TRANSLATORS: Native name for Mars
+msgid "Ares"
+msgstr "艾瑞斯"
+
+#. TRANSLATORS: Native name for Saturn
+msgid "Kronos"
+msgstr "克洛诺斯"
+
+#. TRANSLATORS: Native name for Mercury
+msgid "Hermes"
+msgstr "荷米斯"
+
+#. TRANSLATORS: Native name for the Sun
+msgid "Helios"
+msgstr "赫利俄斯"
+
+#. TRANSLATORS: Native name for the Moon
+msgid "Selene"
+msgstr "塞勒涅"
+
+msgid "Uranus (1781)"
+msgstr "天王星 (1781)"
+
+msgid "Neptun (1846)"
+msgstr "海王星 (1846)"
+
+msgid "φάτνη (Manger)"
+msgstr "φάτνη (鬼星团)"
+
+msgid "Πλειάδες (Pleiades)"
+msgstr "Πλειάδες (昴星团)"
+
+msgid "Tau 30-33"
+msgstr "金牛座 30-33"
+
+msgid "ʿΥάδες (Hyades)"
+msgstr "ʿΥάδες (毕星团)"
+
+msgid "Tau 11-15"
+msgstr "金牛座 11-15"
+
+msgid "πλόκαμος (Coma)"
+msgstr "πλόκαμος (后发)"
+
+msgid "Leo 33"
+msgstr "狮子座 33"
+
+msgid "sco 22"
+msgstr "天蝎座 22"
