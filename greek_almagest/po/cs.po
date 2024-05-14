@@ -1,0 +1,3695 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Zdeněk Moravec <moravec@hapteplice.cz>, 2023\n"
+"Language-Team: Czech (https://app.transifex.com/stellarium/teams/80998/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n "
+"<= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+
+# Sky culture name
+msgid "Greek (Almagest)"
+msgstr "Řecká (Almagest)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"<p>This ancient Greek sky culture is compiled in a book that is today known "
+"by its Arabic title \"Almagest\".\n"
+"This book was written in Roman time (under the reign of Roman emperor "
+"Hadrian) at Alexandria (Africa) in\n"
+"Greek language, with dates given in Egyptian month names and years counted "
+"after a Babylonian king,\n"
+"so it is clearly a multi-cultural compendium of knowledge. It is a "
+"compilation of\n"
+"astronomical knowledge of former astronomers including results from\n"
+"observations and mathematical astronomy. Pieced together by Claudius\n"
+"Ptolemy, using older, as well as his own, observations, it was written\n"
+"in Greek, published in the Second Century and remained the main\n"
+"astronomical work for the following 1500 years. It was originally written\n"
+"with the title <i>Mathematike Syntaxis</i>, in Ancient Greek.\n"
+"The name <i>Almagest</i>, meaning &ldquo;The Largest [Book]&rdquo;, was\n"
+"developed from Arabian translations. To create this sky culture we used\n"
+"the English translation by Toomer (1984), reworked it in some details\n"
+"(e.g. using more literal translations from Greek instead of Latin terms "
+"that\n"
+"are common today) and we made use of computer readable tables prepared\n"
+"by Ernie Wright.</p>\n"
+"<p>The Almagest consists of 13 sections, called books. In the seventh\n"
+"and eighth book, Ptolemy listed a total of 1022 stars in 48 constellations\n"
+"(among which are about 5 star-like objects like globular star clusters).\n"
+"It is a table of coordinates of the stars with a description of their\n"
+"position in the constellation (such as \"star at the elbow of X, longitude,\n"
+"latitude, magnitude\"). With regard to precession, Ptolemy used ecliptic\n"
+"coordinates. As one of the first of his time, Ptolemy included the\n"
+"magnitude, a quantitative scale of stellar brightness, probably adopted\n"
+"from Hipparchus (which is not certain because Hipparchus&rsquo; catalog\n"
+"is not preserved). The scale starts with the brightest star with the\n"
+"magnitude of 1, going down to magnitude of 6, for the faintest stars\n"
+"visible.</p>\n"
+"<p>For the computation of planet positions Ptolemy used a geocentric model\n"
+"(which is allowed because the observer always stands on Earth) and, thus,\n"
+"contributed to the scientific belief that the heliocentric model by\n"
+"Aristarch was not needed. However, for the star catalogue of the\n"
+"<i>Almagest</i> this does not matter at all because a star catalogue\n"
+"always represents a sort of inventory of the fixed dots in the sky and\n"
+"Ptolemy's proclaimed aim of the catalogue is to provide a list for making\n"
+"a celestial globe (see Alm., VIII, 3). Being aware of precession he wants\n"
+"to ease the business of future globemakers by using ecliptical coordinates:\n"
+"Precession as known to Ptolemy shifts all stars parallel to the ecliptic,\n"
+"therefore updates to the epoch of the respective globemaker could be\n"
+"applied by a simple subtraction of the value for ecliptic longitude.</p>"
+msgstr ""
+"<p>Tato starověká řecká nebeská kultura je shrnuta v knize, která je dnes "
+"známá\n"
+"pod svým arabským názvem „Almagest“. Tato kniha byla napsána v římských\n"
+"dobách (za vlády římského císaře Hadriána) v Alexandrii (Afrika) v řeckém\n"
+"jazyce, s daty uvedenými v egyptských názvech měsíců a roky počítanými po\n"
+"babylonském králi, takže jde jednoznačně o multikulturní kompendium\n"
+"vědění. Jde o kompilaci astronomických znalostí bývalých astronomů včetně\n"
+"výsledků z pozorování a matematické astronomie. Sestaven byl Claudiem\n"
+"Ptolemaiem za použití starších i jeho vlastních pozorování, byl napsán v\n"
+"řečtině, publikován ve druhém století a zůstal hlavním astronomickým dílem\n"
+"pro následujících 1500 let. Původně byl napsán ve staré řečtině pod názvem\n"
+"<i>Mathematike Syntaxis</i>.  Název <i>Almagest</i>, což znamená\n"
+"&ldquo;Největší [kniha]&rdquo;, pochází z arabských překladů. K vytvoření\n"
+"této nebeské kultury jsme použili anglický překlad od Toomera (1984), v\n"
+"některých detailech jej přepracovali (např. pomocí doslovnějších překladů z\n"
+"řečtiny místo latinských termínů, které jsou dnes běžné) a použili jsme\n"
+"počítačem zpracované tabulky připravené Erniem Wrightem.</p>\n"
+"<p>Almagest se skládá ze 13 částí nazývaných knihy. V sedmé a osmé knize\n"
+"Ptolemaios vypsal seznam celkem 1022 hvězd ve 48 souhvězdích (mezi nimiž je\n"
+"asi 5 objektů podobných hvězdám, jako jsou kulové hvězdokupy). Je to "
+"tabulka\n"
+"souřadnic hvězd s popisem jejich polohy v souhvězdí (např. \"hvězda na "
+"lokti\n"
+"X, zeměpisná délka, šířka, velikost\"). S ohledem na precesi použil\n"
+"Ptolemaios ekliptikální souřadnice. Jako jeden z prvních ve své době uváděl\n"
+"Ptolemaios magnitudu, kvantitativní stupnici jasnosti hvězd, pravděpodobně\n"
+"převzatou od Hipparcha (což není jisté, protože Hipparchův katalog se\n"
+"nedochoval). Stupnice začíná nejjasnější hvězdou s magnitudou 1 a klesá\n"
+"postupně k magnitudě 6 pro nejslabší okem viditelné hvězdy.</p>\n"
+"<p>Pro výpočet poloh planet Ptolemaios použil geocentrický model (což je "
+"možné,\n"
+"neboť pozorovatel vždy stojí na Zemi) a přispěl tak k vědeckému "
+"přesvědčení,\n"
+"že heliocentrický model od Aristarcha není zapotřebí. Nicméně, pro hvězdný\n"
+"katalog <i>Almagest</i> to vůbec nevadí, protože katalog hvězd vždy\n"
+"představuje seznam pevně umístěných bodů na obloze a Ptolemaiovým\n"
+"proklamovaným cílem katalogu je poskytnout seznam pro výrobu nebeských "
+"glóbů\n"
+"(viz Alm., VIII, 3). Protože si je vědom precese, chce usnadnit práci\n"
+"budoucím tvůrcům glóbů pomocí ekliptickálních souřadnic: precese, tak jak "
+"ji\n"
+"zná Ptolemaios, posouvá všechny hvězdy rovnoběžně s ekliptikou, takže\n"
+"aktualizace epochy budoucího tvůrce glóbu by mohly být aplikovány\n"
+"jednoduchým odečtením určité hodnoty pro danou ekliptikální délku.</p>"
+
+# Sky culture description section in markdown format
+msgid ""
+"### How this sky culture was made\n"
+"\n"
+"### Star names\n"
+"\n"
+"Out of more than 1,000 stars, Ptolemy mentions a proper name for only 15.\n"
+"The rest are identified by fairly long descriptions such as \"The star on\n"
+"the end of the tail\" for the Polaris. In order to avoid displaying such "
+"long\n"
+"strings across the screen in Stellarium, we invented short labels for all\n"
+"Almagest stars based on the constellation and the order in which they appear "
+"in\n"
+"the catalogue.  For example, Polaris is given a designation \"UMi 1\" "
+"because\n"
+"it is the first star in the constellation of Small Bear (UMi).  See the "
+"table\n"
+"below for the correspondence between Ptolemy constellations and IAU "
+"abbreviations.\n"
+"In addition, where Ptolemy describes a star as lying outside of the figure,\n"
+"we use lowercase letters in the corresponding label. To see the long "
+"description\n"
+"for a given star, users should enable \"Use additional names of stars\" in "
+"the\n"
+"\"View [F4]/Sky\" settings and click on the star. The long description will "
+"then\n"
+"be displayed at the top of the screen.\n"
+"\n"
+"### Constellation lines\n"
+"\n"
+"<p>The process can be described as sketched here with the example of\n"
+"Corvus:</p>\n"
+"<p>In the constellation of Corvus (Raven), &alpha; Crv is the star in\n"
+"the &quot;head of the raven&quot;. It is connected with the &quot;star\n"
+"in the neck&quot;, &epsilon; Crv.  This one is connected with &quot;the\n"
+"star in the breast&quot; &zeta; Crv.  From there two lines go to the\n"
+"tips of the wings. &gamma; Crv is the star in the advanced wing and\n"
+"&delta; Crv the star in the rear wing. From the star in the breast\n"
+"another line goes to the &quot;foot of the raven&quot;, the star &beta;\n"
+"Crv.</p>\n"
+"<p><img width=\"800\" src=\"corvus_s.png\" /></p>\n"
+"<p>After identifying the stars based on their coordinates and names, we\n"
+"reconnected the stars according to the descriptions in the table\n"
+"presented in the <i>Almagest</i>.</p>\n"
+"<p>The names of stars and names of deep sky objects rely on the Almagest\n"
+"only, e.g. Ptolemy uses the name &quot;&lambda;&alpha;&mu;&pi;&alpha;&delta;"
+"&#943;&alpha;&sigmaf;\n"
+"(The Torch-like)&quot; for Aldebaran in his other work, the\n"
+"<i>Tetrabiblos</i>, but this is not implemented in this sky culture because\n"
+"it doesn't show up in the Almagest.</p>\n"
+"<p>The following table displays the original constellation name in Greek and "
+"its\n"
+"English translation (column 2 and 3) and denotes our uncertainties in\n"
+"the reconstruction (column 6).</p>\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>Abbreviation</b></td>\n"
+"\t<td><b>Original name</b></td>\n"
+"\t<td><b>Translation</b> (direct)</td>\n"
+"\t<td><b>IAU (Latin) name</b></td>\n"
+"\t<td><b>hints to constellation</b></td>\n"
+"\t<td><b>freedom of art</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>UMi</notr></td>\n"
+"\t<td><notr>&Mu;&iota;&kappa;&rho;&#942; &#702;&#714;&Alpha;&rho;&kappa;&tau;"
+"&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Small She-Bear</td>\n"
+"\t<td><notr>Ursa Minor</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>UMa</notr></td>\n"
+"\t<td><notr>&Mu;&epsilon;&gamma;&alpha;&lambda;&#942; &#702;&#714;&Alpha;"
+"&rho;&kappa;&tau;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Great She-Bear</td>\n"
+"\t<td><notr>Ursa Major</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Dra</notr></td>\n"
+"\t<td><notr>&Delta;&rho;&#940;&kappa;&omega;&nu;</notr></td>\n"
+"\t<td>Dragon</td>\n"
+"\t<td><notr>Draco</notr></td>\n"
+"\t<td>all triangles or squares are vertebra or parts of the body; line at "
+"the head is the tongue</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"\t<tr valign=\"top\">\n"
+"\t<td><notr>Cep</notr></td>\n"
+"\t<td><notr>&Kappa;&eta;&phi;&epsilon;&#973;&sigmaf;</notr></td>\n"
+"\t<td>Kepheus</td>\n"
+"\t<td><notr>Cepheus</notr></td>\n"
+"\t<td>king, upside down </td>\n"
+"\t<td>three head stars are tiara; &beta; seen as part of the belt, although "
+"Almagest says beneath belt</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Boo</notr></td>\n"
+"\t<td><notr>&Beta;&omicron;&#974;&tau;&eta;&sigmaf;</notr></td>\n"
+"\t<td>Ploughman</td>\n"
+"\t<td><notr>Bo&ouml;tes</notr></td>\n"
+"\t<td>has a shepherd's staff in his hand (&omega;)</td>\n"
+"\t<td>star HIP 72582 added as neck star</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>CrB</notr></td>\n"
+"\t<td><notr>&Sigma;&tau;&#941;&phi;&alpha;&nu;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Crown</td>\n"
+"\t<td><notr>Corona Borealis</notr></td>\n"
+"\t<td>like IAU constellation; no details for lines in the text</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Her</notr></td>\n"
+"\t<td><notr>&#703;&Epsilon;&nu;&gamma;&#972;&nu;&alpha;&sigma;&iota;&nu;</"
+"notr></td>\n"
+"\t<td>Kneeler</td>\n"
+"\t<td><notr>Hercules</notr></td>\n"
+"\t<td>one of the foot stars is top of staff of Bootes</td>\n"
+"\t<td>star HIP 82764 added as neck star</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Lyr</notr></td>\n"
+"\t<td><notr>&Lambda;&#973;&rho;&alpha;</notr></td>\n"
+"\t<td>Lyre</td>\n"
+"\t<td><notr>Lyra</notr></td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cyg</notr></td>\n"
+"\t<td><notr>&#702;&#714;&Omicron;&rho;&nu;&iota;&sigmaf;</notr></td>\n"
+"\t<td>Bird</td>\n"
+"\t<td><notr>Cygnus</notr></td>\n"
+"\t<td>swan with legs</td>\n"
+"\t<td>Tips of wings connected with tail</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cas</notr></td>\n"
+"\t<td><notr>&Kappa;&alpha;&sigma;&sigma;&iota;&#941;&pi;&epsilon;&iota;"
+"&alpha;</notr></td>\n"
+"\t<td>Kassiepeia</td>\n"
+"\t<td><notr>Cassiopeia</notr></td>\n"
+"\t<td>Queen sitting on a throne</td>\n"
+"\t<td>to avoid confusion we did not draw the throne</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Per</notr></td>\n"
+"\t<td><notr>&Pi;&epsilon;&rho;&sigma;&epsilon;&#973;&sigmaf;</notr></td>\n"
+"\t<td>Perseus</td>\n"
+"\t<td><notr>Perseus</notr></td>\n"
+"\t<td>Double star cluster NGC 869 and NGC 884 as Deep Sky Object - &gt;one "
+"of the stars in the cluster was used for drawing</td>\n"
+"\t<td>one of the stars in Gorgon-head is added to make the head look more "
+"spherical</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Aur</notr></td>\n"
+"\t<td><notr>&#703;&Eta;&nu;&#943;&omicron;&chi;&omicron;&sigmaf;</notr></"
+"td>\n"
+"\t<td>Charioteer</td>\n"
+"\t<td><notr>Auriga</notr></td>\n"
+"\t<td>wears long garment; garment limited through shoulders and hem</td>\n"
+"\t<td>o Aur added as neck star; 1 Aur added as hem star</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Oph</notr></td>\n"
+"\t<td><notr>&#702;&Omicron;&phi;&iota;&omicron;&#973;&chi;&omicron;&sigmaf;</"
+"notr></td>\n"
+"\t<td>Serpent Bearer</td>\n"
+"\t<td><notr>Ophiuchus</notr></td>\n"
+"\t<td>has serpent in his hand</td>\n"
+"\t<td>a star added as neck star</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Ser</notr></td>\n"
+"\t<td><notr>&#702;&#714;&Omicron;&phi;&iota;&sigmaf;</notr></td>\n"
+"\t<td>Snake</td>\n"
+"\t<td><notr>Serpens</notr></td>\n"
+"\t<td>two separate parts of the snake (head and tail); square is head</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Sge</notr></td>\n"
+"\t<td><notr>&#702;&Omicron;&iota;&sigma;&tau;&#972;&sigmaf;</notr></td>\n"
+"\t<td>Arrow</td>\n"
+"\t<td><notr>Sagitta</notr></td>\n"
+"\t<td>Like IAU constellation, &eta; Sge is missing </td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Aql</notr></td>\n"
+"\t<td><notr>&#702;&Alpha;&epsilon;&tau;&#972;&sigmaf;</notr></td>\n"
+"\t<td>Eagle</td>\n"
+"\t<td><notr>Aquila</notr></td>\n"
+"\t<td>&tau; Aql as head star, &beta; as neck, Altair is between shoulders, "
+"&gamma; and &mu; are shoulders</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Del</notr></td>\n"
+"\t<td><notr>&Delta;&epsilon;&lambda;&phi;&#943;&sigmaf;</notr></td>\n"
+"\t<td>Dolphin</td>\n"
+"\t<td><notr>Delphinus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>refined shape</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Equ</notr></td>\n"
+"\t<td><notr>&Pi;&rho;&omicron;&tau;&omicron;&mu;&#942;</notr></td>\n"
+"\t<td>Bust [of a horse]</td>\n"
+"\t<td><notr>Equuleus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Peg</notr></td>\n"
+"\t<td><notr>&#703;&#714;&Iota;&pi;&pi;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Horse</td>\n"
+"\t<td><notr>Pegasus</notr></td>\n"
+"\t<td>with mane and one wing</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>And</notr></td>\n"
+"\t<td><notr>&#702;&Alpha;&nu;&delta;&rho;&omicron;&mu;&#941;&delta;&alpha;</"
+"notr></td>\n"
+"\t<td>Andromeda</td>\n"
+"\t<td class='latin'><notr>Andromeda</notr></td>\n"
+"\t<td>dress and belt</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Tri</notr></td>\n"
+"\t<td><notr>&Tau;&rho;&#943;&gamma;&omega;&nu;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Triangle</td>\n"
+"\t<td><notr>Triangulum</notr></td>\n"
+"\t<td>four given stars &#61664; middle star of one side</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Ari</notr></td>\n"
+"\t<td><notr>&Kappa;&rho;&iota;&#972;&sigmaf;</notr></td>\n"
+"\t<td>Ram</td>\n"
+"\t<td><notr>Aries</notr></td>\n"
+"\t<td>turned head; only one horn</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Tau</notr></td>\n"
+"\t<td><notr>&Tau;&alpha;&upsilon;&#771;&rho;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Bull</td>\n"
+"\t<td><notr>Taurus</notr></td>\n"
+"\t<td>half body, only two legs visible; direction of view to observer</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Gem</notr></td>\n"
+"\t<td><notr>&Delta;&#943;&delta;&upsilon;&mu;&omicron;&iota;</notr></td>\n"
+"\t<td>Twins</td>\n"
+"\t<td><notr>Gemini</notr></td>\n"
+"\t<td>one star in common; touching each other with hands</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cnc</notr></td>\n"
+"\t<td><notr>&Kappa;&alpha;&rho;&kappa;&#943;&nu;&omicron;&sigmaf;</notr></"
+"td>\n"
+"\t<td>Crab</td>\n"
+"\t<td><notr>Cancer</notr></td>\n"
+"\t<td>square body</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Leo</notr></td>\n"
+"\t<td><notr>&Lambda;&#941;&omega;&nu;</notr></td>\n"
+"\t<td>Lion</td>\n"
+"\t<td><notr>Leo</notr></td>\n"
+"\t<td>opens jaw</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Vir</notr></td>\n"
+"\t<td><notr>&Pi;&alpha;&rho;&theta;&#941;&nu;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Maiden</td>\n"
+"\t<td><notr>Virgo</notr></td>\n"
+"\t<td>no separate head</td>\n"
+"\t<td>fainter stars added to draw the wings</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Lib</notr></td>\n"
+"\t<td><notr>&Chi;&eta;&lambda;&alpha;&#943;</notr></td>\n"
+"\t<td>Claws [of the Scorpion]</td>\n"
+"\t<td><notr>Libra</notr></td>\n"
+"\t<td>Ptolemy always uses the term &quot;claws&quot;, never &quot;the "
+"balance&quot;.</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Sco</notr></td>\n"
+"\t<td><notr>&Sigma;&kappa;&omicron;&rho;&pi;&#943;&omicron;&sigmaf;</notr></"
+"td>\n"
+"\t<td>Scorpion</td>\n"
+"\t<td><notr>Scorpius</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>arms added around the head: &nu; and &rho;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Sgr</notr></td>\n"
+"\t<td><notr>&Tau;&omicron;&xi;&#972;&tau;&eta;&sigmaf;</notr></td>\n"
+"\t<td>Archer</td>\n"
+"\t<td><notr>Sagittarius</notr></td>\n"
+"\t<td>a centaur with  bow ahead; &bdquo;cloak&ldquo; behind</td>\n"
+"\t<td>we included many faint stars in our stick figure in order to make the "
+"picture clear.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cap</notr></td>\n"
+"\t<td><notr>&Alpha;&#943;&gamma;&#972;&kappa;&epsilon;&rho;&omicron;&sigmaf;"
+"</notr></td>\n"
+"\t<td>The One with the Goat's Horn</td>\n"
+"\t<td><notr>Capricornus</notr></td>\n"
+"\t<td>fish tail; two legs visible</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Aqr</notr></td>\n"
+"\t<td><notr>&#703;&Upsilon;&delta;&rho;&omicron;&chi;&#972;&omicron;&sigmaf;"
+"</notr></td>\n"
+"\t<td>Water-Carrier</td>\n"
+"\t<td><notr>Aquarius</notr></td>\n"
+"\t<td>water out of jug</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Psc</notr></td>\n"
+"\t<td><notr>&#702;&Iota;&chi;&theta;&#973;&epsilon;&sigmaf;</notr></td>\n"
+"\t<td>[2] Fish</td>\n"
+"\t<td><notr>Pisces</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>northern fish: 68(h), 67(k), and 65(i) described as head in Almagest "
+"but we took them as fin because mouth should be at g and &tau; Psc. "
+"Additional change on tail fin: extended to &rho;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cet</notr></td>\n"
+"\t<td><notr>&Kappa;&eta;&#771;&tau;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Sea Monster</td>\n"
+"\t<td><notr>Cetus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>Body does not go through star &tau;, but through star &upsilon;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Ori</notr></td>\n"
+"\t<td><notr>&#702;&Omega;&rho;&#943;&omega;&nu;</notr></td>\n"
+"\t<td>Orion</td>\n"
+"\t<td class='latin'><notr>Orion</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>The &quot;head&quot; is labeled as &quot;nebulous&quot; which means "
+"Ptolemy interpreted &phi;<sub>1</sub>, &phi;<sub>2</sub>, and  &lambda;, "
+"together with fainter stars between them as a &quot;cluster&quot; (or "
+"association which is more extended than the modern &quot;&lambda; Ori Assoc."
+"&quot;). Head does not have direct connection to the shoulder stars anymore, "
+"but a connection to a star between the stars in the shoulders.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Eri</notr></td>\n"
+"\t<td><notr>&Pi;&omicron;&tau;&alpha;&mu;&omicron;&#972;&sigmaf;</notr></"
+"td>\n"
+"\t<td>River [nameless]</td>\n"
+"\t<td><notr>Eridanus</notr></td>\n"
+"\t<td>Like IAU constellation, but shorter</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Lep</notr></td>\n"
+"\t<td><notr>&Lambda;&alpha;&gamma;&omega;&#771;&sigmaf;</notr></td>\n"
+"\t<td>Hare</td>\n"
+"\t<td><notr>Lepus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>took the \"4 stars over the ear\" as ear</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>CMa</notr></td>\n"
+"\t<td><notr>&Kappa;&#973;&omega;&nu;</notr></td>\n"
+"\t<td>Dog</td>\n"
+"\t<td><notr>Canis Major</notr></td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>CMi</notr></td>\n"
+"\t<td><notr>&Pi;&rho;&omicron;&kappa;&#973;&omega;&nu;</notr></td>\n"
+"\t<td>The One before the Dog</td>\n"
+"\t<td><notr>Canis Minor</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>In Almagest, the name of the constellation is &quot;The One before the "
+"Dog&quot; or &quot;Harbinger of Sirius&quot; as Toomer puts it. However, "
+"&beta; CMi is called &quot;the neck&quot; (of whom is unknown). We drew a "
+"little dog with &gamma; and &epsilon; as head; &alpha;, &beta;, &eta; and "
+"HIP36889 as body; forelegs with HIP 35509 and HIP 35614; hindlegs with "
+"&delta;<sub>2</sub> and &delta;<sub>3</sub>; tail with HIP 37634</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Arg</notr></td>\n"
+"\t<td><notr>&#702;&Alpha;&rho;&gamma;&omega;</notr></td>\n"
+"\t<td>Ship &quot;Argo&quot;</td>\n"
+"\t<td><notr>Argo</notr></td>\n"
+"\t<td>smaller than the sum of the IAU-constellations Pup+Pyx+Car+Vel</td>\n"
+"\t<td>Many stars not integrated in the constellation, to create a boat-like "
+"shape; in many depictions (including the ancient Farnese globe), only a half "
+"of a ship is painted.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Hya</notr></td>\n"
+"\t<td><notr>&#703;&#714;&Upsilon;&delta;&rho;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Water Snake</td>\n"
+"\t<td><notr>Hydra</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Crt</notr></td>\n"
+"\t<td><notr>&Kappa;&rho;&alpha;&tau;&#768;&eta;&rho;</notr></td>\n"
+"\t<td>Krater (vessel)</td>\n"
+"\t<td><notr>Crater</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>a Krater is special Greek wine mixing vessel which looks like an "
+"amphora or vase: <a href=\"https://en.wikipedia.org/wiki/Krater\">https://en."
+"wikipedia.org/wiki/Krater</a> Ptolemy describes only one star in the foot "
+"(&alpha; Crt) and two handles (&eta;, &theta; Crt)</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Crv</notr></td>\n"
+"\t<td><notr>&Kappa;&oacute;&rho;&alpha;&xi;</notr></td>\n"
+"\t<td>Raven</td>\n"
+"\t<td><notr>Corvus</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cen</notr></td>\n"
+"\t<td><notr>&Kappa;&#941;&nu;&tau;&alpha;&upsilon;&rho;&omicron;&sigmaf;</"
+"notr></td>\n"
+"\t<td>Kentauros</td>\n"
+"\t<td><notr>Centaurus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>deviation from description: HIP 65373 instead of &omega; Cen (cluster) "
+"taken as star on the back. &lsquo;Thyrsus&lsquo; not drawn (to avoid "
+"confusion), backward arm added.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Lup</notr></td>\n"
+"\t<td><notr>&Theta;&eta;&rho;&#943;&omicron;&nu;</notr></td>\n"
+"\t<td>Beast</td>\n"
+"\t<td><notr>Lupus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>&beta; described as &lsquo;End of hind leg&lsquo; -> taken as star in "
+"the belly; &tau;<sub>1</sub> as hindleg &Chi; removed from head, because "
+"otherwise shapelessness arises; HIP 73493 taken as foreleg</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Ara</notr></td>\n"
+"\t<td><notr>&Theta;&upsilon;&mu;&iota;&alpha;&tau;&#942;&rho;&iota;&omicron;"
+"&nu;</notr></td>\n"
+"\t<td>Altar</td>\n"
+"\t<td><notr>Ara</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>CrA</notr></td>\n"
+"\t<td><notr>&Sigma;&tau;&#941;&phi;&alpha;&nu;&omicron;&sigmaf; &Nu;&#972;"
+"&tau;&iota;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Southern Crown</td>\n"
+"\t<td><notr>Corona Australis</notr></td>\n"
+"\t<td>like IAU constellation; only uncertainty with stars that only got a "
+"BSC number in the Almagest, because these are not clearly to identify in "
+"Stellarium</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>PsA</notr></td>\n"
+"\t<td><notr>&Nu;&#972;&tau;&iota;&omicron;&sigmaf; &#702;&Iota;&chi;&theta;"
+"&#973;&sigmaf;</notr></td>\n"
+"\t<td>Southern Fish</td>\n"
+"\t<td><notr>Piscis Austrinus</notr></td>\n"
+"\t<td>the fish is laying on his back</td>\n"
+"\t<td>we added a few stars to mark the tail as such (&beta; should be the "
+"tip of the tail but we used it as its root)</td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"### Fair Use\n"
+"\n"
+"<p>This sky culture originates from a student's year of research. We provide "
+"this for free but\n"
+"authors of contributions certainly deserve to be cited according to the "
+"common rules. Thank you!</p>\n"
+"\n"
+"### Thanks\n"
+"\n"
+"<p>The authors thank Patrick Gleason and Georg Zotti for English "
+"proofreading and interesting discussions.</p>"
+msgstr ""
+"### Jak vznikla tato nebeská kultura\n"
+"\n"
+"### Jména hvězd\n"
+"\n"
+"Z více než 1 000 hvězd uvádí Ptolemaios vlastní jméno pouze pro 15. Zbytek\n"
+"je identifikován poměrně dlouhými popisy, jako například \"Hvězda na konci\n"
+"ocasu\" pro Polárku. Abychom se ve Stellariu vyhnuli zobrazování tak "
+"dlouhých\n"
+"řetězců na obrazovce, vymysleli jsme pro všechny hvězdy Almagestu krátké\n"
+"popisky skládající se ze souhvězdí a pořadí, ve kterém se objevují v\n"
+"katalogu. Například Polárka má označení „UMi 1“, protože je první hvězdou v\n"
+"souhvězdí Malého medvěda (UMi). V tabulce níže naleznete pro Ptolemaiova\n"
+"souhvězdími odpovídající zkratku IAU. Navíc tam, kde Ptolemaios popisuje\n"
+"hvězdu jako ležící mimo obrazec, používáme v odpovídajícím popisku malá\n"
+"písmena. Pokud chcete zobrazit dlouhý popis dané hvězdy, zaškrtněte volbu\n"
+"\"Zobrazit další jména hvězd\" v nastavení \"Zobrazení [F4]/Obloha\" a "
+"klikněte\n"
+"na hvězdu. Dlouhý popis se pak zobrazí v horní části obrazovky.\n"
+"\n"
+"### Spojnice souhvězdí\n"
+"\n"
+"<p>Proces lze popsat tak, jak je zde načrtnut na příkladu souhvězdí Corvus:</"
+"p>\n"
+"<p>V souhvězdí Corvus (Havran) &alpha; Crv je hvězda v &quot;hlavě\n"
+"havrana&quot;. Je spojena s &quot;hvězdou v krku&quot;, &epsilon; Crv. Ta "
+"je\n"
+"spojena s &quot;hvězdou v prsou&quot; &zeta; Crv. Odtud jdou dvě spojnice "
+"ke\n"
+"koncům křídel. &gamma; Crv je hvězda předního křídla a &delta; Crv hvězda "
+"na\n"
+"zadním křídle. Od hvězdy v prsou jde další spojnice k &quot;noze\n"
+"havrana&quot;, hvězdě &beta; Crv.</p>\n"
+"<p><img width=\"800\" src=\"corvus_s.png\" /></p>\n"
+"<p>Po identifikaci hvězd na základě jejich souřadnic a názvů jsme hvězdy "
+"znovu\n"
+"spojili podle popisů v tabulce uvedené v <i>Almagestu</i>.</p>\n"
+"<p>Jména hvězd a názvy objektů hlubokého vesmíru se opírají pouze o "
+"Almagest,\n"
+"např. Ptolemaios používá jméno\n"
+"&quot;&lambda;&alpha;&mu;&pi;&alpha;&delta;&#943;&alpha;&sigmaf;\n"
+"(Svícen)&quot; pro Aldebaran v jiné jeho práci <i>Tetrabiblos</i>, ale to\n"
+"není v této nebeské kultuře použito, neboť se toto pojmenování nenachází v\n"
+"Almagestu.</p>\n"
+"<p>Následující tabulka zobrazuje původní název souhvězdí v řečtině a jeho "
+"český\n"
+"překlad (sloupce 2 a 3) a naznačuje naše nejistoty při rekonstrukci\n"
+"souhvězdí (sloupec 6).</p>\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>Zkratka</b></td>\n"
+"\t<td><b>Původní název</b></td>\n"
+"\t<td><b>Překlad</b> (přímý)</td>\n"
+"\t<td><b>IAU (latinský) název</b></td>\n"
+"\t<td>poznámky k souhvězdí</td>\n"
+"\t<td>volnost v interpretaci</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>UMi</td>\n"
+"\t<td>&Mu;&iota;&kappa;&rho;&#942; &#702;&#714;&Alpha;&rho;&kappa;&tau;"
+"&omicron;&sigmaf;</td>\n"
+"\t<td>Malá medvědice</td>\n"
+"\t<td>Ursa Minor</td>\n"
+"\t<td>jako souhvězdí IAU</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>UMa</td>\n"
+"\t<td>&Mu;&epsilon;&gamma;&alpha;&lambda;&#942; &#702;&#714;&Alpha;&rho;"
+"&kappa;&tau;&omicron;&sigmaf;</td>\n"
+"\t<td>Velká medvědice</td>\n"
+"\t<td>Ursa Major</td>\n"
+"\t<td>jako souhvězdí IAU</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Dra</td>\n"
+"\t<td>&Delta;&rho;&#940;&kappa;&omega;&nu;</td>\n"
+"\t<td>Drak</td>\n"
+"\t<td>Draco</td>\n"
+"\t<td>všechny trojúhelníky nebo čtverce jsou obratle nebo části těla; "
+"spojnice u\n"
+"hlavy je jazyk</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"\t<tr valign=\"top\">\n"
+"\t<td>Cep</td>\n"
+"\t<td>&Kappa;&eta;&phi;&epsilon;&#973;&sigmaf;</td>\n"
+"\t<td>Kéfeus</td>\n"
+"\t<td>Cepheus</td>\n"
+"\t<td>král, hlavou dolů </td>\n"
+"\t<td>tři hvězdy na hlavě jsou tiára; &beta; viděná jako součást pásu, "
+"ačkoli\n"
+"Almagest říká pod pásem</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Boo</td>\n"
+"\t<td>&Beta;&omicron;&#974;&tau;&eta;&sigmaf;</td>\n"
+"\t<td>Pastýř</td>\n"
+"\t<td>Bo&ouml;tes</td>\n"
+"\t<td>má v ruce pastýřskou hůl (&omega;)</td>\n"
+"\t<td>hvězda HIP 72582 přidána jako hvězda na krku</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>CrB</td>\n"
+"\t<td>&Sigma;&tau;&#941;&phi;&alpha;&nu;&omicron;&sigmaf;</td>\n"
+"\t<td>Koruna</td>\n"
+"\t<td>Corona Borealis</td>\n"
+"\t<td>jako souhvězdí IAU; v textu nejsou žádné podrobnosti o spojnicích.</"
+"td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Her</td>\n"
+"\t<td>&#703;&Epsilon;&nu;&gamma;&#972;&nu;&alpha;&sigma;&iota;&nu;</td>\n"
+"\t<td>Klečící</td>\n"
+"\t<td>Hercules</td>\n"
+"\t<td>jedna z hvězd na chodildle je vrchol hole Pastýře</td>\n"
+"\t<td>hvězda HIP 82764 přidána jako hvězda na krku</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Lyr</td>\n"
+"\t<td>&Lambda;&#973;&rho;&alpha;</td>\n"
+"\t<td>Lyra</td>\n"
+"\t<td>Lyra</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cyg</td>\n"
+"\t<td>&#702;&#714;&Omicron;&rho;&nu;&iota;&sigmaf;</td>\n"
+"\t<td>Pták</td>\n"
+"\t<td>Cygnus</td>\n"
+"\t<td>labuť s nohama</td>\n"
+"\t<td>Konce křídel spojené s ocasem</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cas</td>\n"
+"\t<td>&Kappa;&alpha;&sigma;&sigma;&iota;&#941;&pi;&epsilon;&iota;&alpha;</"
+"td>\n"
+"\t<td>Kassiopeia</td>\n"
+"\t<td>Cassiopeia</td>\n"
+"\t<td>Královna sedící na trůnu</td>\n"
+"\t<td>abychom zabránili nejistotám, nenakreslili jsme trůn</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Per</td>\n"
+"\t<td>&Pi;&epsilon;&rho;&sigma;&epsilon;&#973;&sigmaf;</td>\n"
+"\t<td>Perseus</td>\n"
+"\t<td>Perseus</td>\n"
+"\t<td>Dvojitá hvězdokupa NGC 869 a NGC 884 jako objekt vzdáleného vesmíru - "
+"&gt;\n"
+"pro nakreslení byla použita jedna z hvězd hvězdokupy</td>\n"
+"\t<td>jedna z hvězd v hlavě Gorgony byla přidána navíc, aby hlava vypadala\n"
+"kulověji</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Aur</td>\n"
+"\t<td>&#703;&Eta;&nu;&#943;&omicron;&chi;&omicron;&sigmaf;</td>\n"
+"\t<td>Vozka</td>\n"
+"\t<td>Auriga</td>\n"
+"\t<td>nosí dlouhý oděv; oděv omezený rameny a lemem</td>\n"
+"\t<td>o Aur přidána jako hvězda na krku; 1 Aur přidána jako hvězda na lemu</"
+"td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Oph</td>\n"
+"\t<td>&#702;&Omicron;&phi;&iota;&omicron;&#973;&chi;&omicron;&sigmaf;</td>\n"
+"\t<td>Hadonoš</td>\n"
+"\t<td>Ophiuchus</td>\n"
+"\t<td>má hada v rukou</td>\n"
+"\t<td>přidána hvězda jako hvězda na krku</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Ser</td>\n"
+"\t<td>&#702;&#714;&Omicron;&phi;&iota;&sigmaf;</td>\n"
+"\t<td>Had</td>\n"
+"\t<td>Serpens</td>\n"
+"\t<td>dvě samostatné části hada (hlava a ocas); čtverec je hlava</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Sge</td>\n"
+"\t<td>&#702;&Omicron;&iota;&sigma;&tau;&#972;&sigmaf;</td>\n"
+"\t<td>Šíp</td>\n"
+"\t<td>Sagitta</td>\n"
+"\t<td>Jako souhvězdí IAU, &eta; Sge chybí </td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Aql</td>\n"
+"\t<td>&#702;&Alpha;&epsilon;&tau;&#972;&sigmaf;</td>\n"
+"\t<td>Orel</td>\n"
+"\t<td>Aquila</td>\n"
+"\t<td>&tau; Aql jako hvězda hlavy, &beta; jako krk, Altair je mezi rameny, "
+"&gamma;\n"
+"a &mu; jsou ramena</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Del</td>\n"
+"\t<td>&Delta;&epsilon;&lambda;&phi;&#943;&sigmaf;</td>\n"
+"\t<td>Delfín</td>\n"
+"\t<td>Delphinus</td>\n"
+"\t<td></td>\n"
+"\t<td>vylepšený tvar</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Equ</td>\n"
+"\t<td>&Pi;&rho;&omicron;&tau;&omicron;&mu;&#942;</td>\n"
+"\t<td>Busta [koně]</td>\n"
+"\t<td>Equuleus</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Peg</td>\n"
+"\t<td>&#703;&#714;&Iota;&pi;&pi;&omicron;&sigmaf;</td>\n"
+"\t<td>Kůň</td>\n"
+"\t<td>Pegasus</td>\n"
+"\t<td>s hřívou a jedním křídlem</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>And</td>\n"
+"\t<td>&#702;&Alpha;&nu;&delta;&rho;&omicron;&mu;&#941;&delta;&alpha;</td>\n"
+"\t<td>Andromeda</td>\n"
+"\t<td class='latin'>Andromeda</td>\n"
+"\t<td>šaty a pásek</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Tri</td>\n"
+"\t<td>&Tau;&rho;&#943;&gamma;&omega;&nu;&omicron;&sigmaf;</td>\n"
+"\t<td>Trojúhelník</td>\n"
+"\t<td>Triangulum</td>\n"
+"\t<td>čtyři uvedené hvězdy &#61664; střední hvězda jedné strany</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Ari</td>\n"
+"\t<td>&Kappa;&rho;&iota;&#972;&sigmaf;</td>\n"
+"\t<td>Skopec</td>\n"
+"\t<td>Aries</td>\n"
+"\t<td>otočená hlava; jen jeden roh</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Tau</td>\n"
+"\t<td>&Tau;&alpha;&upsilon;&#771;&rho;&omicron;&sigmaf;</td>\n"
+"\t<td>Býk</td>\n"
+"\t<td>Taurus</td>\n"
+"\t<td>polovina těla, viditelné pouze dvě nohy; směr pohledu k pozorovateli</"
+"td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Gem</td>\n"
+"\t<td>&Delta;&#943;&delta;&upsilon;&mu;&omicron;&iota;</td>\n"
+"\t<td>Dvojčata</td>\n"
+"\t<td>Gemini</td>\n"
+"\t<td>jedna hvězda společná; vzájemně se dotýkají rukama</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cnc</td>\n"
+"\t<td>&Kappa;&alpha;&rho;&kappa;&#943;&nu;&omicron;&sigmaf;</td>\n"
+"\t<td>Krab</td>\n"
+"\t<td>Cancer</td>\n"
+"\t<td>čtvercové tělo</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Leo</td>\n"
+"\t<td>&Lambda;&#941;&omega;&nu;</td>\n"
+"\t<td>Lev</td>\n"
+"\t<td>Leo</td>\n"
+"\t<td>otevírá čelist</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Vir</td>\n"
+"\t<td>&Pi;&alpha;&rho;&theta;&#941;&nu;&omicron;&sigmaf;</td>\n"
+"\t<td>Panna</td>\n"
+"\t<td>Virgo</td>\n"
+"\t<td>nemá samostatnou hlavu</td>\n"
+"\t<td>přidány slabší hvězdy, aby se nakreslila křídla</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Lib</td>\n"
+"\t<td>&Chi;&eta;&lambda;&alpha;&#943;</td>\n"
+"\t<td>Klepeta [štíra]</td>\n"
+"\t<td>Libra</td>\n"
+"\t<td>Ptolemaios vždy používá název &quot;klepeta&quot;, nikdy &quot;"
+"váhy&quot;.</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Sco</td>\n"
+"\t<td>&Sigma;&kappa;&omicron;&rho;&pi;&#943;&omicron;&sigmaf;</td>\n"
+"\t<td>Štír</td>\n"
+"\t<td>Scorpius</td>\n"
+"\t<td></td>\n"
+"\t<td>paže přidány kolem hlavy: &nu; a &rho;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Sgr</td>\n"
+"\t<td>&Tau;&omicron;&xi;&#972;&tau;&eta;&sigmaf;</td>\n"
+"\t<td>Střelec</td>\n"
+"\t<td>Sagittarius</td>\n"
+"\t<td>kentaur s lukem vpředu; &bdquo;plášť&ldquo; vzadu</td>\n"
+"\t<td>do naší kresby jsme zahrnuli mnoho slabých hvězd, aby byl obrázek "
+"zřejmý.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cap</td>\n"
+"\t<td>&Alpha;&#943;&gamma;&#972;&kappa;&epsilon;&rho;&omicron;&sigmaf;</td>\n"
+"\t<td>Ten s kozím rohem</td>\n"
+"\t<td>Capricornus</td>\n"
+"\t<td>rybí ocas; viditelné dvě nohy</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Aqr</td>\n"
+"\t<td>&#703;&Upsilon;&delta;&rho;&omicron;&chi;&#972;&omicron;&sigmaf;</td>\n"
+"\t<td>Nosič vody</td>\n"
+"\t<td>Aquarius</td>\n"
+"\t<td>voda teče ze džbánu</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Psc</td>\n"
+"\t<td>&#702;&Iota;&chi;&theta;&#973;&epsilon;&sigmaf;</td>\n"
+"\t<td>[2] Ryba</td>\n"
+"\t<td>Pisces</td>\n"
+"\t<td></td>\n"
+"\t<td>severní ryba: 68(h), 67(k), a 65(i) popsané v Almagestu jako hlava, "
+"ale my\n"
+"jsme je vzali jako ploutev, protože ústa by měla být v g a &tau; Psc. Další\n"
+"změna na ocasní ploutvi: prodloužena na &rho;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cet</td>\n"
+"\t<td>&Kappa;&eta;&#771;&tau;&omicron;&sigmaf;</td>\n"
+"\t<td>Mořská obluda</td>\n"
+"\t<td>Cetus</td>\n"
+"\t<td></td>\n"
+"\t<td>Tělo neprochází hvězdou &tau;, ale hvězdou &upsilon;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Ori</td>\n"
+"\t<td>&#702;&Omega;&rho;&#943;&omega;&nu;</td>\n"
+"\t<td>Orion</td>\n"
+"\t<td class='latin'>Orion</td>\n"
+"\t<td></td>\n"
+"\t<td>&quot;Hlava&quot; je označena jako &quot;mlhavá&quot; což znamená, že\n"
+"Ptolemaios vyhodnotil &phi;<sub>1</sub>, &phi;<sub>2</sub>, a &lambda;,\n"
+"společně se slabšími hvězdami mezi nimi jako &quot;shluk&quot; (nebo\n"
+"asociaci, která je rozlehlejší než moderní &quot;&lambda; Ori\n"
+"asociace&quot;). Hlava již nemá přímé propojení s hvězdami na ramenou, ale\n"
+"je propojena s hvězdou, která se nachází mezi hvězdami na ramenou.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Eri</td>\n"
+"\t<td>&Pi;&omicron;&tau;&alpha;&mu;&omicron;&#972;&sigmaf;</td>\n"
+"\t<td>Řeka [bezejmenná]</td>\n"
+"\t<td>Eridanus</td>\n"
+"\t<td>Jako souhvězdí IAU, ale kratší</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Lep</td>\n"
+"\t<td>&Lambda;&alpha;&gamma;&omega;&#771;&sigmaf;</td>\n"
+"\t<td>Zajíc</td>\n"
+"\t<td>Lepus</td>\n"
+"\t<td></td>\n"
+"\t<td>vzali jsme \"4 hvězdy přes ucho\" jako ucho</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>CMa</td>\n"
+"\t<td>&Kappa;&#973;&omega;&nu;</td>\n"
+"\t<td>Pes</td>\n"
+"\t<td>Canis Major</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>CMi</td>\n"
+"\t<td>&Pi;&rho;&omicron;&kappa;&#973;&omega;&nu;</td>\n"
+"\t<td>Ten před psem</td>\n"
+"\t<td>Canis Minor</td>\n"
+"\t<td></td>\n"
+"\t<td>V Almagestu je název souhvězdí &quot;Ten před psem&quot; nebo\n"
+"&quot;Zvěstovatel Siria&quot; jak tvrdí Toomer. Nicméně &beta; CMi se "
+"nazývá\n"
+"&quot;krk&quot; (koho není známo). Nakreslili jsme malého psa, který má\n"
+"&gamma; a &epsilon; jako hlavu; &alpha;, &beta;, &eta; a HIP36889 jako "
+"tělo;\n"
+"přední nohy jsou HIP 35509 a HIP 35614; zadní nohy &delta;<sub>2</sub> a\n"
+"&delta;<sub>3</sub>; ocas je HIP 37634</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Arg</td>\n"
+"\t<td>&#702;&Alpha;&rho;&gamma;&omega;</td>\n"
+"\t<td>Loď &quot;Argo&quot;</td>\n"
+"\t<td>Argo</td>\n"
+"\t<td>menší než IAU souhvězdí Pup+Pyx+Car+Vel dohromady</td>\n"
+"\t<td>Mnoho hvězd není integrováno do souhvězdí, aby byl vytvořen tvar "
+"podobný\n"
+"lodi; na mnoha vyobrazeních (včetně starověkého Farnesova globu) je\n"
+"namalována pouze polovina lodi.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Hya</td>\n"
+"\t<td>&#703;&#714;&Upsilon;&delta;&rho;&omicron;&sigmaf;</td>\n"
+"\t<td>Vodní had</td>\n"
+"\t<td>Hydra</td>\n"
+"\t<td>jako souhvězdí IAU</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Crt</td>\n"
+"\t<td>&Kappa;&rho;&alpha;&tau;&#768;&eta;&rho;</td>\n"
+"\t<td>Krátér (nádoba)</td>\n"
+"\t<td>Crater</td>\n"
+"\t<td></td>\n"
+"\t<td>Krater je speciální řecká nádoba na míchání vína, která vypadá jako "
+"amfora\n"
+"nebo váza: <a\n"
+"href=\"https://en.wikipedia.org/wiki/Krater\">https://cs.wikipedia.org/wiki/"
+"Kr%C3%A1t%C3%A9r</a>\n"
+"Ptolemaios popisuje pouze jednu hvězdu v podstavci (&alpha; Crt) a dvě\n"
+"držadla (&eta;, &theta; Crt)</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Crv</td>\n"
+"\t<td>&Kappa;&oacute;&rho;&alpha;&xi;</td>\n"
+"\t<td>Havran</td>\n"
+"\t<td>Corvus</td>\n"
+"\t<td>jako souhvězdí IAU</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cen</td>\n"
+"\t<td>&Kappa;&#941;&nu;&tau;&alpha;&upsilon;&rho;&omicron;&sigmaf;</td>\n"
+"\t<td>Kentaur</td>\n"
+"\t<td>Centaurus</td>\n"
+"\t<td></td>\n"
+"\t<td>odchylka od popisu: HIP 65373 místo &omega; Cen (hvězdokupa) braná "
+"jako\n"
+"hvězda na hřbetu. Nebyl nakreslen &lsquo;Thyrsus&lsquo; (hůl; aby nedošlo k\n"
+"záměně), přidáno zadní rameno.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Lup</td>\n"
+"\t<td>&Theta;&eta;&rho;&#943;&omicron;&nu;</td>\n"
+"\t<td>Zvíře</td>\n"
+"\t<td>Lupus</td>\n"
+"\t<td></td>\n"
+"\t<td>&beta; popsaná jako &lsquo;Konec zadní nohy&lsquo; -> brána jako "
+"hvězda na\n"
+"břiše; &tau;<sub>1</sub> jako zadní noha &Chi; odstraněna z hlavy, protože\n"
+"jinak vzniká beztvarost; HIP 73493 brána jako přední noha</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Ara</td>\n"
+"\t<td>&Theta;&upsilon;&mu;&iota;&alpha;&tau;&#942;&rho;&iota;&omicron;&nu;</"
+"td>\n"
+"\t<td>Oltář</td>\n"
+"\t<td>Ara</td>\n"
+"\t<td>jako souhvězdí IAU</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>CrA</td>\n"
+"\t<td>&Sigma;&tau;&#941;&phi;&alpha;&nu;&omicron;&sigmaf; &Nu;&#972;&tau;"
+"&iota;&omicron;&sigmaf;</td>\n"
+"\t<td>Jižní koruna</td>\n"
+"\t<td>Corona Australis</td>\n"
+"\t<td>jako souhvězdí IAU; pouze nejistota u hvězd, které dostaly pouze BSC "
+"(Yale\n"
+"Bright Star Catalogue) číslo v Almagestu, protože ty nejsou ve Stellariu\n"
+"jasně identifikovatelné</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>PsA</td>\n"
+"\t<td>&Nu;&#972;&tau;&iota;&omicron;&sigmaf; &#702;&Iota;&chi;&theta;&#973;"
+"&sigmaf;</td>\n"
+"\t<td>Jižní ryba</td>\n"
+"\t<td>Piscis Austrinus</td>\n"
+"\t<td>ryba leží na hřbetu</td>\n"
+"\t<td>přidali jsme několik hvězd, abychom vyznačili vlastní ocas (&beta; by "
+"měla\n"
+"být špičkou ocasu, ale použili jsme ji jako jeho počátek)</td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"### Povolené využití\n"
+"\n"
+"<p>Tato nebeská kultura pochází z ročního studentského výzkumu. Poskytujeme "
+"ji\n"
+"zdarma, ale autoři si určitě zaslouží být citováni podle obvyklých\n"
+"pravidel. Děkujeme!</p>\n"
+"\n"
+"### Poděkování\n"
+"\n"
+"<p>Autoři děkují Patricku Gleasonovi a Georgu Zottimu za anglické korektury "
+"a\n"
+"zajímavé diskuse.</p>"
+
+# Sky culture authors section in markdown format
+msgid ""
+"<p>This sky culture was compiled and added to Stellarium by Alina Schmidt, "
+"Lea Jabschinski, Marie von Seggern and Susanne M. Hoffmann: service@uhura-"
+"uraniae.com</p>\n"
+"<p>Written in English: the authors</p>"
+msgstr ""
+"<p>Tuto nebeskou kulturu sestavily a přidaly do Stellaria Alina Schmidt, "
+"Lea\n"
+"Jabschinski, Marie von Seggern a Susanne M. Hoffmann:\n"
+"service@uhura-uraniae.com</p>\n"
+"<p>Napsáno v angličtině: autoři</p>"
+
+msgid "Bird"
+msgstr "Pták"
+
+msgid "Perseus"
+msgstr "Perseus"
+
+msgid "The one next to it on the tail"
+msgstr "Ta vedle té na ocasu"
+
+msgid "The one next to that, before the place where the tail joins [the body]"
+msgstr ""
+
+msgid "The southernmost of the stars in the advance side of the rectangle"
+msgstr ""
+
+msgid "The northernmost of [those in] the same side"
+msgstr ""
+
+msgid ""
+"The star lying on a straight line with the stars in the rear side [of the "
+"rectangle] and south of them"
+msgstr ""
+
+msgid "The star on the end of the snout"
+msgstr ""
+
+msgid "The more advanced of the stars in the two eyes"
+msgstr ""
+
+msgid "The one to the rear"
+msgstr ""
+
+msgid "The more advanced of the two stars in the forehead"
+msgstr ""
+
+msgid "The star on the tip of the advance ear"
+msgstr ""
+
+msgid "The more advanced of the two stars in the neck"
+msgstr ""
+
+msgid "The northernmost of the two stars in the chest"
+msgstr ""
+
+msgid "The southernmost of them"
+msgstr ""
+
+msgid "The star on the left knee"
+msgstr ""
+
+msgid "The star above the right knee"
+msgstr ""
+
+msgid "The star below the right knee"
+msgstr ""
+
+msgid "The one on the place where the tail joins [the body]"
+msgstr ""
+
+msgid "The remaining one, on the left hind thigh"
+msgstr ""
+
+msgid "The more advanced of the [two stars] in the left hind paw"
+msgstr ""
+
+msgid "The one to the rear of it"
+msgstr ""
+
+msgid "The star on the left knee-bend"
+msgstr ""
+
+msgid "The northernmost of the [two stars] in the right hind paw"
+msgstr ""
+
+msgid ""
+"The first of the three stars on the tail next to the place where it joins "
+"[the body]"
+msgstr ""
+
+msgid "The middle one"
+msgstr ""
+
+msgid "The third, on the end of the tail"
+msgstr ""
+
+msgid "The star under the tail, at some distance towards the south"
+msgstr ""
+
+msgid ""
+"The southernmost of the [two] stars between the front legs of Ursa [Major] "
+"and the head of Leo"
+msgstr ""
+
+msgid "The one north of it"
+msgstr ""
+
+msgid "The rearmost of the remaining three faint stars"
+msgstr ""
+
+msgid "The one in advance of this"
+msgstr ""
+
+msgid "The one in advance again of the latter"
+msgstr ""
+
+msgid "The star between the front legs [of Ursa Major] and Gemini"
+msgstr ""
+
+msgid "The star on the tongue"
+msgstr ""
+
+msgid "The star in the mouth"
+msgstr ""
+
+msgid "The star above the eye"
+msgstr ""
+
+msgid "The star above the head"
+msgstr ""
+
+msgid "The southernmost of these"
+msgstr ""
+
+msgid "The more northerly star of the advance side"
+msgstr ""
+
+msgid "The northern star of the rear side [of the quadrilateral]"
+msgstr ""
+
+msgid "The southern star of the rear side"
+msgstr ""
+
+msgid "The southern star of [those forming] the triangle in the next bend"
+msgstr ""
+
+msgid "The more advanced of the other two stars of the triangle"
+msgstr ""
+
+msgid "The southernmost of the other two forming the triangle"
+msgstr ""
+
+msgid "The northernmost of the other two"
+msgstr ""
+
+msgid "The rearmost of the two small stars to the west of the triangle"
+msgstr ""
+
+msgid "The one in advance"
+msgstr ""
+
+msgid "The middle one of the three"
+msgstr ""
+
+msgid "The northernmost of them"
+msgstr ""
+
+msgid "The star to the west of these, in the bend by the tail"
+msgstr ""
+
+msgid "The rear star of these [two]"
+msgstr ""
+
+msgid "The star close by these, by the tail"
+msgstr ""
+
+msgid "The remaining star, on the tip of the tail"
+msgstr ""
+
+msgid "The star on the right leg"
+msgstr ""
+
+msgid "The one on the left leg"
+msgstr ""
+
+msgid "The star under the belt on the right side"
+msgstr ""
+
+msgid "The star over the right shoulder, which touches it"
+msgstr ""
+
+msgid "The star over the right elbow, which touches it"
+msgstr ""
+
+msgid "The star in the chest"
+msgstr ""
+
+msgid "The star on the left arm"
+msgstr ""
+
+msgid "The northernmost of the three"
+msgstr ""
+
+msgid "The most advanced of the three in the left arm"
+msgstr ""
+
+msgid "The middle and southernmost of the three"
+msgstr ""
+
+msgid "The rearmost of the three"
+msgstr ""
+
+msgid "The star on the left elbow"
+msgstr ""
+
+msgid "The star on the left shoulder"
+msgstr ""
+
+msgid "The star on the head"
+msgstr ""
+
+msgid "The star on the right shoulder"
+msgstr ""
+
+msgid "The one to the north of these, on the staff"
+msgstr ""
+
+msgid "The northernmost of the two stars below the shoulder, in the club"
+msgstr ""
+
+msgid "The star on the end of the right arm"
+msgstr ""
+
+msgid "The more advanced of the two stars in the wrist"
+msgstr ""
+
+msgid "The rearmost of them"
+msgstr ""
+
+msgid "The star on the end of the handle of the staff"
+msgstr ""
+
+msgid "The rearmost of the two stars in the belt"
+msgstr ""
+
+msgid "The more advanced of them"
+msgstr ""
+
+msgid "The star on the right heel"
+msgstr ""
+
+msgid "The bright star in the crown"
+msgstr ""
+
+msgid "The one north again of this"
+msgstr ""
+
+msgid "The star on the right shoulder by the armpit"
+msgstr ""
+
+msgid "The star on the right upper arm"
+msgstr ""
+
+msgid "The star on the right elbow"
+msgstr ""
+
+msgid "The star on the left upper arm"
+msgstr ""
+
+msgid "The star in the right side"
+msgstr ""
+
+msgid "The star in the left side"
+msgstr ""
+
+msgid "The one north of the latter, on the left buttock"
+msgstr ""
+
+msgid "The one on the place where the thigh joins the same [buttock]"
+msgstr ""
+
+msgid "The one to the rear of this"
+msgstr ""
+
+msgid "The one yet further to the rear of this"
+msgstr ""
+
+msgid "The star on the place where the right thigh joins [the buttock]"
+msgstr ""
+
+msgid "The star north of it in the same thigh"
+msgstr ""
+
+msgid "The star on the right knee"
+msgstr ""
+
+msgid "The star in the right lower leg"
+msgstr ""
+
+msgid "The star south of the one in the right upper arm"
+msgstr ""
+
+msgid ""
+"The one to the rear of these, in between the points where the horns [of the "
+"lyre] are attached"
+msgstr ""
+
+msgid "The star on the beak"
+msgstr ""
+
+msgid "The one to the rear of this, on the head"
+msgstr ""
+
+msgid "The star in the middle of the neck"
+msgstr ""
+
+msgid "The star in the breast"
+msgstr ""
+
+msgid "The bright star in the tail"
+msgstr ""
+
+msgid "The star in the bend of the right wing"
+msgstr ""
+
+msgid "The northernmost of them, on the tip of the wing-feathers"
+msgstr ""
+
+msgid "The star on the bend of the left wing"
+msgstr ""
+
+msgid "The star north of this, in the middle of the same wing"
+msgstr ""
+
+msgid "The star in the tip of the feathers of the left wing"
+msgstr ""
+
+msgid "The star on the left leg"
+msgstr ""
+
+msgid "The one north of that, on the belt"
+msgstr ""
+
+msgid "The star in the knees"
+msgstr ""
+
+msgid "The star on the lower leg"
+msgstr ""
+
+msgid "The star on the end of the leg"
+msgstr ""
+
+msgid "The star below the left elbow"
+msgstr ""
+
+msgid "The star on the right forearm"
+msgstr ""
+
+msgid "The star on the place between the shoulders"
+msgstr ""
+
+msgid "The bright star in the right side"
+msgstr ""
+
+msgid "The one in advance of the bright star"
+msgstr ""
+
+msgid "The remaining one, yet again in advance of this"
+msgstr ""
+
+msgid "The star in the right knee"
+msgstr ""
+
+msgid "The one in advance of this, over the knee"
+msgstr ""
+
+msgid "The rearmost of them, just over the bend in the knee"
+msgstr ""
+
+msgid "The star on the right calf"
+msgstr ""
+
+msgid "The star on the right ankle"
+msgstr ""
+
+msgid "The star in the left thigh"
+msgstr ""
+
+msgid "The star on the left lower leg"
+msgstr ""
+
+msgid "The star on the left heel"
+msgstr ""
+
+msgid "The one to the rear of this, on the left foot"
+msgstr ""
+
+msgid "The star to the east of the one on the left knee"
+msgstr ""
+
+msgid "The star to the north of the one in the right knee"
+msgstr ""
+
+msgid "The star in advance of those in the Gorgon-head"
+msgstr ""
+
+msgid "The southernmost of the two on the head"
+msgstr ""
+
+msgid "The northernmost [of these], over the head"
+msgstr ""
+
+msgid "The star on the right wrist"
+msgstr ""
+
+msgid "The more advanced of these"
+msgstr ""
+
+msgid "The star on the left ankle"
+msgstr ""
+
+msgid "The one to the north of the latter, in the lower hem [of the garment]"
+msgstr ""
+
+msgid "The one north again of this, on the buttock"
+msgstr ""
+
+msgid "The star on the right lower leg"
+msgstr ""
+
+msgid "The one to the rear again of that"
+msgstr ""
+
+msgid "The star to the rear of these, which touches the heel"
+msgstr ""
+
+msgid "The star in the left knee"
+msgstr ""
+
+msgid "The middle one of these"
+msgstr ""
+
+msgid "The southernmost of the three"
+msgstr ""
+
+msgid "The star touching the hollow of the left foot"
+msgstr ""
+
+msgid "Stars on the quadrilateral in the head:  the one on the end of the jaw"
+msgstr ""
+
+msgid "The one touching the nostrils"
+msgstr ""
+
+msgid "The one in the temple"
+msgstr ""
+
+msgid "The one where the neck joins [the head]"
+msgstr ""
+
+msgid "The one in the middle of the quadrilateral, in the mouth"
+msgstr ""
+
+msgid "The star outside the head, to the north of it"
+msgstr ""
+
+msgid "The one after the first bend in the neck"
+msgstr ""
+
+msgid ""
+"The star after the next bend, which is in advance of the left hand of "
+"Ophiuchus"
+msgstr ""
+
+msgid "The one after the back of the right thigh of Ophiuchus"
+msgstr ""
+
+msgid "The one after the right hand [of Ophiuchus], on the bend in the tail"
+msgstr ""
+
+msgid "The one to the rear of this, likewise on the tail"
+msgstr ""
+
+msgid "The star on the tip of the tail"
+msgstr ""
+
+msgid "The lone star on the arrow-head"
+msgstr ""
+
+msgid "The rearmost of the three stars in the shaft"
+msgstr ""
+
+msgid "The most advanced of the three"
+msgstr ""
+
+msgid "The star on the end of the notch"
+msgstr ""
+
+msgid "The star in the middle of the head"
+msgstr ""
+
+msgid "The one in advance of this, on the neck"
+msgstr ""
+
+msgid "The one close to this towards the north"
+msgstr ""
+
+msgid "The more advanced of the two in the right shoulder"
+msgstr ""
+
+msgid "The one to the south of this"
+msgstr ""
+
+msgid "The one to the south again of the latter"
+msgstr ""
+
+msgid "The star most in advance of all"
+msgstr ""
+
+msgid "The northernmost one on the advance side"
+msgstr ""
+
+msgid "The southernmost one on the rear side of the rhombus"
+msgstr ""
+
+msgid "The northernmost one on the rear side"
+msgstr ""
+
+msgid "The remaining, rearmost one"
+msgstr ""
+
+msgid "The more advanced of the two stars in the mouth"
+msgstr ""
+
+msgid ""
+"The star on the navel, which is [applied in] common to the head of Andromeda"
+msgstr ""
+
+msgid "The star on the rump and the wing-tip"
+msgstr ""
+
+msgid "The star on the right shoulder and the place where the leg joins [it]"
+msgstr ""
+
+msgid ""
+"The star on the place between the shoulders and the shoulder-part of the wing"
+msgstr ""
+
+msgid "The northernmost of the two stars in the body under the wing"
+msgstr ""
+
+msgid "The northernmost of the two stars in the right knee"
+msgstr ""
+
+msgid "The more advanced of the two stars close together in the chest"
+msgstr ""
+
+msgid "The southernmost of the two stars on the mane"
+msgstr ""
+
+msgid "The northernmost of the two stars close together on the head"
+msgstr ""
+
+msgid "The star in the muzzle"
+msgstr ""
+
+msgid "The star in the right hock"
+msgstr ""
+
+msgid "The star in the left hock"
+msgstr ""
+
+msgid "The star in the place between the shoulders"
+msgstr ""
+
+msgid "The star in the right shoulder"
+msgstr ""
+
+msgid "The star in the left shoulder"
+msgstr ""
+
+msgid "The star in the right foot"
+msgstr ""
+
+msgid "The one south of the latter"
+msgstr ""
+
+msgid "The star in advance of the three in the right hand, outside [of it]"
+msgstr ""
+
+msgid "The star in the apex of the triangle"
+msgstr ""
+
+msgid "The star on the neck"
+msgstr ""
+
+msgid "The star on the rump"
+msgstr ""
+
+msgid "The star in the back of the thigh"
+msgstr ""
+
+msgid "The star on the hind hoof"
+msgstr ""
+
+msgid ""
+"The star over the head, which Hipparchus [calls] 'the one on the muzzle'"
+msgstr ""
+
+msgid "The middle one of these three"
+msgstr ""
+
+msgid "The one close by this"
+msgstr ""
+
+msgid "The one close again to the latter"
+msgstr ""
+
+msgid "The star on the right hock"
+msgstr ""
+
+msgid "The remaining one, on the northern eye"
+msgstr ""
+
+msgid ""
+"The star on the place where the southern horn and the ear join [the head]"
+msgstr ""
+
+msgid "The northernmost of these"
+msgstr ""
+
+msgid "The star on the tip of the southern horn"
+msgstr ""
+
+msgid "The star on the place where the northern horn joins [the head]"
+msgstr ""
+
+msgid "The northernmost star on the advance side"
+msgstr ""
+
+msgid "The southernmost star on the rear side"
+msgstr ""
+
+msgid "The Pleiades:  the northern end of the advance side"
+msgstr ""
+
+msgid "The southern end of the advance side [of the Pleiades]"
+msgstr ""
+
+msgid "The rearmost and narrowest end of the Pleiades"
+msgstr ""
+
+msgid "The small star outside the Pleiades, towards the north"
+msgstr ""
+
+msgid "The one to the rear again of the latter"
+msgstr ""
+
+msgid "The southernmost of these two"
+msgstr ""
+
+msgid "The star on the head of the advance twin"
+msgstr ""
+
+msgid "The reddish star on the head of the rear twin"
+msgstr ""
+
+msgid "The star in the left forearm of the advance twin"
+msgstr ""
+
+msgid "The star in the same [left] upper arm"
+msgstr ""
+
+msgid ""
+"The one to the rear of this, on the right shoulder of the same [advance] twin"
+msgstr ""
+
+msgid "The star on the rear shoulder of the rear twin"
+msgstr ""
+
+msgid "The star on the right side of the advance twin"
+msgstr ""
+
+msgid "The star on the left side of the rear twin"
+msgstr ""
+
+msgid "The star on the left knee of the advance twin"
+msgstr ""
+
+msgid "The star over the bend in the right knee of the same [rear] twin"
+msgstr ""
+
+msgid "The one to the rear of this on the same foot"
+msgstr ""
+
+msgid "The star on the right foot of the advance twin"
+msgstr ""
+
+msgid "The star on the left foot of the rear twin"
+msgstr ""
+
+msgid "The star on the right foot of the rear twin"
+msgstr ""
+
+msgid "The bright star in advance of the advance knee"
+msgstr ""
+
+msgid "The star in advance of the left knee of the rear twin"
+msgstr ""
+
+msgid ""
+"The northernmost of the three stars in a straight line to the rear of the "
+"right arm of the rear twin"
+msgstr ""
+
+msgid "The southernmost of them, near the forearm of the [right] arm"
+msgstr ""
+
+msgid "The southernmost of the two stars in advance"
+msgstr ""
+
+msgid "The star on the southern claw"
+msgstr ""
+
+msgid "The star on the northern claw"
+msgstr ""
+
+msgid "The star on the northern back leg"
+msgstr ""
+
+msgid "The star on the southern back leg"
+msgstr ""
+
+msgid "The star over the joint in the southern claw"
+msgstr ""
+
+msgid "The star to the rear of the tip of the southern claw"
+msgstr ""
+
+msgid ""
+"The more advanced of the two stars over the nebula and to the rear of it"
+msgstr ""
+
+msgid "The rearmost of these [two]"
+msgstr ""
+
+msgid "The star on the tip of the nostrils"
+msgstr ""
+
+msgid "The star in the gaping jaws"
+msgstr ""
+
+msgid "The northernmost of the two stars in the head"
+msgstr ""
+
+msgid "The one close to this, the middle one of the three"
+msgstr ""
+
+msgid "The one south of this, about on the chest"
+msgstr ""
+
+msgid "The star on the right front claw-clutch"
+msgstr ""
+
+msgid "The star on the left front claw-clutch"
+msgstr ""
+
+msgid "The star on the left [front] knee"
+msgstr ""
+
+msgid "The star on the left armpit"
+msgstr ""
+
+msgid "The most advanced of the three stars in the belly"
+msgstr ""
+
+msgid "The southernmost of these [two]"
+msgstr ""
+
+msgid "The more advanced of the two stars on the rump"
+msgstr ""
+
+msgid "The star in the hind thighs"
+msgstr ""
+
+msgid "The star in the hind leg-bends"
+msgstr ""
+
+msgid "The one south of this, about in the lower legs"
+msgstr ""
+
+msgid "The star on the hind claw-clutches"
+msgstr ""
+
+msgid "The star on the end of the tail"
+msgstr ""
+
+msgid ""
+"The northernmost part of the nebulous mass between the edges of Leo and Ursa "
+"[Major], called Coma [Berenices]"
+msgstr ""
+
+msgid "The most advanced of the southern outrunners of Coma"
+msgstr ""
+
+msgid "The rearmost of them, shaped like an ivy leaf"
+msgstr ""
+
+msgid "The star on the tip of the southern, left wing"
+msgstr ""
+
+msgid "The one to the rear again of this"
+msgstr ""
+
+msgid "The star in the right side under the girdle"
+msgstr ""
+
+msgid "The northernmost of these, called 'Vindemiatrix'"
+msgstr ""
+
+msgid "The star under the apron just about over the right buttock"
+msgstr ""
+
+msgid "The southern star on the advance side"
+msgstr ""
+
+msgid "The star in the back of the right thigh"
+msgstr ""
+
+msgid "The star on the left, southern foot"
+msgstr ""
+
+msgid "The star on the right, northern foot"
+msgstr ""
+
+msgid ""
+"The most advanced of the three in a straight line under the left forearm"
+msgstr ""
+
+msgid "The middle one of these, which is a double star"
+msgstr ""
+
+msgid "The star in the middle of the southern claw"
+msgstr ""
+
+msgid "The one in advance of this on the same claw"
+msgstr ""
+
+msgid "The star in the middle of the northern claw"
+msgstr ""
+
+msgid "The one to the rear of this on the same claw"
+msgstr ""
+
+msgid "The star south again of this, on one of the legs"
+msgstr ""
+
+msgid "The rearmost of these"
+msgstr ""
+
+msgid "The southern star of the double-star"
+msgstr ""
+
+msgid "The nebulous star to the rear of the sting"
+msgstr ""
+
+msgid "The star on the point of the arrow"
+msgstr ""
+
+msgid "The star in the southern portion of the bow"
+msgstr ""
+
+msgid "The northernmost of these, on the tip of the bow"
+msgstr ""
+
+msgid "The star on the eye, which is nebulous and double"
+msgstr ""
+
+msgid "The faint star to the rear of these three"
+msgstr ""
+
+msgid "The other one, under the armpit"
+msgstr ""
+
+msgid "The star on the front left hock"
+msgstr ""
+
+msgid "The one on the knee of the same leg"
+msgstr ""
+
+msgid "The star on the front right hock"
+msgstr ""
+
+msgid "The star on the left thigh"
+msgstr ""
+
+msgid "The star on the right hind lower leg"
+msgstr ""
+
+msgid "The rear star on the northern side"
+msgstr ""
+
+msgid "The advance star on the southern side"
+msgstr ""
+
+msgid "The rear star on the southern side"
+msgstr ""
+
+msgid "The star on the tip of the advance horn"
+msgstr ""
+
+msgid "The more advanced of the other two"
+msgstr ""
+
+msgid "The star under the right knee"
+msgstr ""
+
+msgid "The star on the left, doubled-up knee"
+msgstr ""
+
+msgid "The northernmost of them, on the end of the tail-fin"
+msgstr ""
+
+msgid "The star on the head of Aquarius"
+msgstr ""
+
+msgid "The fainter one, under it"
+msgstr ""
+
+msgid "The one under that, in the back, approximately under the armpit"
+msgstr ""
+
+msgid "The rearmost of the three stars in the left arm, on the coat"
+msgstr ""
+
+msgid "The star in the right forearm"
+msgstr ""
+
+msgid "The star on the right buttock"
+msgstr ""
+
+msgid "The northernmost of them, under the knee-bend"
+msgstr ""
+
+msgid "The star in the back of the left thigh"
+msgstr ""
+
+msgid "The northernmost of these, under the knee"
+msgstr ""
+
+msgid ""
+"The stars on the flow of water:  the most advanced [in the section] "
+"beginning at the hand"
+msgstr ""
+
+msgid "The one next to the latter towards the south"
+msgstr ""
+
+msgid "The one in the bend to the south of this"
+msgstr ""
+
+msgid "The southernmost of the two"
+msgstr ""
+
+msgid "The lone star at some distance from these [two] towards the south"
+msgstr ""
+
+msgid "The star at the end of the water and on the mouth of Piscis Austrinus"
+msgstr ""
+
+msgid "The star in the mouth of the advance fish"
+msgstr ""
+
+msgid "The star in the tail of the same [advance] fish"
+msgstr ""
+
+msgid "The star in the rear spine, near the tail"
+msgstr ""
+
+msgid "The more advanced star on the southern side"
+msgstr ""
+
+msgid "The rearmost one on the southern side"
+msgstr ""
+
+msgid "The middle one, in the middle of the mouth"
+msgstr ""
+
+msgid "The star on the eyebrow and the eye"
+msgstr ""
+
+msgid "The one to the north of this, about on the hair"
+msgstr ""
+
+msgid "The one in advance of these, about on the mane"
+msgstr ""
+
+msgid "The southernmost one on the advance side"
+msgstr ""
+
+msgid "The southernmost one on the rear side"
+msgstr ""
+
+msgid "The one on the end of the southern tail-fin"
+msgstr ""
+
+msgid "The bright, reddish star on the right shoulder"
+msgstr ""
+
+msgid "The one under this to the rear"
+msgstr ""
+
+msgid "The rear one on the northern side"
+msgstr ""
+
+msgid "The advance one on the northern side"
+msgstr ""
+
+msgid "The one in advance again of this"
+msgstr ""
+
+msgid "The last and southernmost of those in the pelt"
+msgstr ""
+
+msgid "The star near the handle of the dagger"
+msgstr ""
+
+msgid ""
+"The bright star in the left foot, which is [applied in] common to the water "
+"[of Eridanus]"
+msgstr ""
+
+msgid "The star to the north of it in the lower leg, over the ankle-joint"
+msgstr ""
+
+msgid "The star under the left heel, outside"
+msgstr ""
+
+msgid "The star under the right, rear knee"
+msgstr ""
+
+msgid "The one north of this, in the curve near the shin of Orion"
+msgstr ""
+
+msgid "The rearmost of the four stars in the next interval"
+msgstr ""
+
+msgid "The southernmost on the advance side"
+msgstr ""
+
+msgid "The more advanced one on the rear side"
+msgstr ""
+
+msgid "The northern star on the rear side"
+msgstr ""
+
+msgid "The southern star on the rear side"
+msgstr ""
+
+msgid "The star on the left front foot"
+msgstr ""
+
+msgid "The star in the middle of the body"
+msgstr ""
+
+msgid "The star under the belly"
+msgstr ""
+
+msgid "The star on the ears"
+msgstr ""
+
+msgid "The star on the chest"
+msgstr ""
+
+msgid "The star in the place where the left thigh joins [the body]"
+msgstr ""
+
+msgid "The star on the joint of the right leg"
+msgstr ""
+
+msgid "The star on the end of the right leg"
+msgstr ""
+
+msgid "The star on the tail"
+msgstr ""
+
+msgid "The one north of this"
+msgstr ""
+
+msgid "The last star, to the south of the above"
+msgstr ""
+
+msgid "The star in advance of these"
+msgstr ""
+
+msgid "The bright star in the middle of the little shield"
+msgstr ""
+
+msgid "The bright star on the deck to the rear of these"
+msgstr ""
+
+msgid "The star on the cut-off of the deck"
+msgstr ""
+
+msgid "The star between the steering-oars in the keel"
+msgstr ""
+
+msgid "The faint star to the rear of this"
+msgstr ""
+
+msgid "The bright star to the rear of this, under the deck"
+msgstr ""
+
+msgid "The other, rearmost star"
+msgstr ""
+
+msgid "The southernmost of them, on the gaping jaws"
+msgstr ""
+
+msgid "The middle star of the following three in the bend of the neck"
+msgstr ""
+
+msgid "The middle and southernmost one"
+msgstr ""
+
+msgid "The star after Corvus, in the section by the tail"
+msgstr ""
+
+msgid "The star to the south of the head"
+msgstr ""
+
+msgid "The star in the base of bowl, which is [applied in] common to Hydra"
+msgstr ""
+
+msgid "The star on the southern rim of the mouth"
+msgstr ""
+
+msgid "The star on the northern rim"
+msgstr ""
+
+msgid "The star on the southern handle"
+msgstr ""
+
+msgid "The star on the northern handle"
+msgstr ""
+
+msgid "The star in the beak, which is [applied in] common to Hydra"
+msgstr ""
+
+msgid "The star in the neck, by the head"
+msgstr ""
+
+msgid "The star in the advance, right wing"
+msgstr ""
+
+msgid "The star on the end of the leg, which is [applied in] common to Hydra"
+msgstr ""
+
+msgid "The star on the left, advance shoulder"
+msgstr ""
+
+msgid "The star on the left shoulder-blade"
+msgstr ""
+
+msgid "That one of the other two which is at the tip of the thyrsus"
+msgstr ""
+
+msgid "The last one, south of the latter"
+msgstr ""
+
+msgid "The star in the right hand"
+msgstr ""
+
+msgid "The bright star in the place where the human body joins [the horse's]"
+msgstr ""
+
+msgid "The star in advance of this, on the horse's back"
+msgstr ""
+
+msgid "The rearmost of the stars on the rump"
+msgstr ""
+
+msgid "The star in the chest, under the horse's armpit"
+msgstr ""
+
+msgid "The star on the knee-bend of the right [hind] leg"
+msgstr ""
+
+msgid "The star in the hock of the same leg"
+msgstr ""
+
+msgid "The star under the knee-bend of the left [hind] leg"
+msgstr ""
+
+msgid "The star on the frog of the hoof on the same leg"
+msgstr ""
+
+msgid "The star on the end of the right front leg"
+msgstr ""
+
+msgid "The star on the knee of the left [front] leg"
+msgstr ""
+
+msgid "The star outside, under the right hind leg"
+msgstr ""
+
+msgid "The star at the end of the hind leg, by the [right] hand of Centaurus"
+msgstr ""
+
+msgid "The star on the bend in the same leg"
+msgstr ""
+
+msgid "The star in the middle of the body of Lupus"
+msgstr ""
+
+msgid "The star in the belly, under the flank"
+msgstr ""
+
+msgid "The star on the thigh"
+msgstr ""
+
+msgid "The star on the end of the rump"
+msgstr ""
+
+msgid "The southernmost of the 3 stars in the end of the tail"
+msgstr ""
+
+msgid "The star in the middle of the little altar"
+msgstr ""
+
+msgid "The star on the end of the burning-apparatus"
+msgstr ""
+
+msgid "The most advanced of the stars on the southern rim, outside [the crown]"
+msgstr ""
+
+msgid "The star to the rear of this on the crown"
+msgstr ""
+
+msgid "The one after this, before the knee of Sagittarius"
+msgstr ""
+
+msgid "The star to the north of this"
+msgstr ""
+
+msgid "The one to the north again of this"
+msgstr ""
+
+msgid "The star quite some distance in advance of this"
+msgstr ""
+
+msgid "The last one, which is south of the aforementioned star"
+msgstr ""
+
+msgid "The star by the gills"
+msgstr ""
+
+msgid "The star on the southernmost spine on the back"
+msgstr ""
+
+msgid "The nebulous mass on the right hand"
+msgstr ""
+
+msgid "The star on the place where the back joins [the horse's body]"
+msgstr ""
+
+msgid "The middle of the nebulous mass in the chest, called Praesepe"
+msgstr ""
+
+msgid "Crab"
+msgstr "Krab"
+
+msgid "Dog"
+msgstr "Pes"
+
+msgid "Horse"
+msgstr "Kůň"
+
+msgid "Arrow"
+msgstr "Šíp"
+
+msgid "Raven"
+msgstr "Havran"
+
+msgid "Scorpion"
+msgstr "Štír"
+
+msgid "Twins"
+msgstr "Blíženci"
+
+msgid "Triangle"
+msgstr "Trojúhelník"
+
+msgid "Lion"
+msgstr "Lev"
+
+msgid "Beast"
+msgstr "Zvíře"
+
+msgid "Small Bear"
+msgstr "Malý medvěd"
+
+msgid "Great Bear"
+msgstr "Velká medvědice"
+
+msgid "Dragon"
+msgstr "Drak"
+
+msgid "King Kepheus"
+msgstr "Král Kéfeus"
+
+msgid "Ploughman"
+msgstr "Pastýř"
+
+msgid "Crown"
+msgstr "Koruna"
+
+msgid "Kneeler"
+msgstr "Klečící"
+
+msgid "Lyre"
+msgstr "Lyra"
+
+msgid "Queen Kassiepeia"
+msgstr "Královna Kassiopeia"
+
+msgid "Charioteer"
+msgstr "Vozataj"
+
+msgid "Serpent Bearer"
+msgstr "Hadonoš"
+
+msgid "Snake"
+msgstr "Had"
+
+msgid "Eagle with Antinoos"
+msgstr ""
+
+msgid "Dolphin"
+msgstr "Delfín"
+
+msgid "Bust [of a Horse]"
+msgstr "Busta [koně]"
+
+msgid "Princess Andromeda"
+msgstr "Princezna Andromeda"
+
+msgid "Ram"
+msgstr "Skopec"
+
+msgid "Bull"
+msgstr "Býk"
+
+msgid "Maiden"
+msgstr "Panna"
+
+msgid "Claws [of Scorpion]"
+msgstr "Klepeta [štíra]"
+
+msgid "Archer"
+msgstr "Střelec"
+
+msgid "The One with the Goat's Horn"
+msgstr "Ten s kozím rohem"
+
+msgid "Water-carrier"
+msgstr ""
+
+msgid "Fishes"
+msgstr "Ryby"
+
+msgid "Sea Monster"
+msgstr "Mořská obluda"
+
+msgid "Hero Orion"
+msgstr ""
+
+msgid "River"
+msgstr "Řeka"
+
+msgid "Hare"
+msgstr "Zajíc"
+
+msgid "The One before the Dog"
+msgstr "Ten před psem"
+
+msgid "The Ship Argo"
+msgstr ""
+
+msgid "Water Snake"
+msgstr "Vodní had"
+
+msgid "Vessel"
+msgstr ""
+
+msgid "Kentaur"
+msgstr ""
+
+msgid "Altar"
+msgstr "Oltář"
+
+msgid "Southern Crown"
+msgstr "Jižní koruna"
+
+msgid "Southern Fish"
+msgstr "Jižní ryba"
+
+msgid "The Lock [in Leo]"
+msgstr ""
+
+msgid "The southern star in the rear side"
+msgstr ""
+
+msgid "The northern one in the same side"
+msgstr ""
+
+msgid "The northernmost of the [two] in the front left paw"
+msgstr ""
+
+msgid "The stars in the quadrilateral:  the one on the back"
+msgstr ""
+
+msgid "The one on the flank"
+msgstr ""
+
+msgid "The rather faint star in advance of it"
+msgstr ""
+
+msgid "The star on the jaw"
+msgstr ""
+
+msgid ""
+"The northernmost of the 3 stars in a straight line in the first bend of the "
+"neck"
+msgstr ""
+
+msgid "The star to the rear and due east of the latter"
+msgstr ""
+
+msgid ""
+"The southern star of the [two] forming the advance side of the quadrilateral "
+"in the next bend"
+msgstr ""
+
+msgid ""
+"The most advanced of the three stars in the next triangle, which is in "
+"advance [of the last]"
+msgstr ""
+
+msgid "The southernmost of the next 3 stars in a straight line"
+msgstr ""
+
+msgid "The northernmost of the next 2 to the west"
+msgstr ""
+
+msgid "The advance star of the 2 quite some distance from the latter"
+msgstr ""
+
+msgid "The one under that elbow, which also touches it"
+msgstr ""
+
+msgid "The southernmost of the 3 stars on the tiara"
+msgstr ""
+
+msgid "The one in advance of the tiara"
+msgstr ""
+
+msgid "The one to the rear of the tiara"
+msgstr ""
+
+msgid "The one farther to the north again of this, on the tip of the staff"
+msgstr ""
+
+msgid "The star on the right thigh, in the apron"
+msgstr ""
+
+msgid "The northernmost of the 3 stars in the left lower leg"
+msgstr ""
+
+msgid "Ἀρκτοῦρος (Arkturos, Guard)"
+msgstr ""
+
+msgid "The star between the thighs, called 'Arcturus', reddish"
+msgstr ""
+
+msgid "The one to the rear and to the north of this"
+msgstr ""
+
+msgid "The one to the rear and north again of this"
+msgstr ""
+
+msgid "The one to the rear of the bright star from the south"
+msgstr ""
+
+msgid "The one to the rear again of the latter, close by"
+msgstr ""
+
+msgid "The one to the rear again of these"
+msgstr ""
+
+msgid "The star to the rear of all [the others] in the crown"
+msgstr ""
+
+msgid "The rearmost of the 3 stars in the left wrist"
+msgstr ""
+
+msgid "The northernmost of the other 2"
+msgstr ""
+
+msgid "The most advanced of the 3 in the left thigh"
+msgstr ""
+
+msgid "The star on the left shin"
+msgstr ""
+
+msgid "The most advanced of the 3 stars in the left foot"
+msgstr ""
+
+msgid "The southernmost of the 2 stars under the right knee"
+msgstr ""
+
+msgid ""
+"The star on the end of the right leg is the same as the one on the tip of "
+"the staff [of Bootes, 96 Boo 9]"
+msgstr ""
+
+msgid "λύρα (Lyra)"
+msgstr ""
+
+msgid "The bright star on the shell, called Lyra"
+msgstr ""
+
+msgid "The northernmost of the 2 stars lying near the latter, close together"
+msgstr ""
+
+msgid ""
+"The northernmost of the 2 stars close together in the region to the east of "
+"the shell"
+msgstr ""
+
+msgid "The northernmost of the two advance stars in the bridge"
+msgstr ""
+
+msgid "The northernmost of the two rear stars in the bridge"
+msgstr ""
+
+msgid "The southernmost of the 3 in the right wing-feathers"
+msgstr ""
+
+msgid "The more advanced of the 2 stars in the right leg"
+msgstr ""
+
+msgid "The nebulous star on the right knee"
+msgstr ""
+
+msgid "The southernmost of the 2 stars under the left wing"
+msgstr ""
+
+msgid "The star over the throne, just over the thighs"
+msgstr ""
+
+msgid "The star on the right fore-arm"
+msgstr ""
+
+msgid "The star above the foot of the throne"
+msgstr ""
+
+msgid "The star on the middle of the back of the throne"
+msgstr ""
+
+msgid "The star on the top of the throne-back"
+msgstr ""
+
+msgid "The most advanced of the 3 stars next to the one in the side"
+msgstr ""
+
+msgid "Stars in the Gorgon-head:  the bright one"
+msgstr ""
+
+msgid "The more advanced of the 2 stars above the bend in the knee"
+msgstr ""
+
+msgid "αἴξ (Goat)"
+msgstr ""
+
+msgid "The star on the left shoulder, called Capella"
+msgstr ""
+
+msgid "Ἔριφοι (Kids [of the Goat]) I"
+msgstr ""
+
+msgid ""
+"The rearmost of the two stars on the left wrist, which are called 'Haedi'"
+msgstr ""
+
+msgid "Ἔριφοι (Kids [of the Goat]) II"
+msgstr ""
+
+msgid ""
+"The star on the right ankle, which is [applied in] common to the horn [of "
+"Taurus, 400 Tau 21]"
+msgstr ""
+
+msgid "The small star over the left foot"
+msgstr ""
+
+msgid "The more advanced of the 2 stars on the right shoulder"
+msgstr ""
+
+msgid "The more advanced of the 2 stars on the left shoulder"
+msgstr ""
+
+msgid "The more advanced of the 2 stars in the left hand"
+msgstr ""
+
+msgid "The more advanced of the 2 stars in the right hand"
+msgstr ""
+
+msgid "The most advanced of the 4 stars on the right foot"
+msgstr ""
+
+msgid "The last and rearmost of the 4"
+msgstr ""
+
+msgid ""
+"The northernmost of the 3 stars in a straight line in the left lower leg"
+msgstr ""
+
+msgid "The northernmost of the 3 to the east of the right shoulder"
+msgstr ""
+
+msgid "The star to the rear of these 3, approximately over the middle one"
+msgstr ""
+
+msgid "The lone star north of [these] 4 [nos. 25-28]"
+msgstr ""
+
+msgid "The northernmost of the 3 following this"
+msgstr ""
+
+msgid ""
+"The star to the rear of those in the hand [of Ophiuchus, 240-241 Oph 7-8]"
+msgstr ""
+
+msgid "The southernmost of the 2 to the rear of the latter"
+msgstr ""
+
+msgid "ἀετός (Eagle)"
+msgstr ""
+
+msgid "The bright star on the place between the shoulders, called Aquila"
+msgstr ""
+
+msgid "The more advanced of the 2 in the left shoulder"
+msgstr ""
+
+msgid "The star some distance under the tail of Aquila, touching the Milky Way"
+msgstr ""
+
+msgid ""
+"The stars around Aquila, to which the name 'Antinous' is given:  The more "
+"advanced of the 2 stars south of the head of Aquila"
+msgstr ""
+
+msgid "The star to the south and west of the right shoulder of Aquila"
+msgstr ""
+
+msgid "The most advanced of the 3 stars in the tail"
+msgstr ""
+
+msgid ""
+"The stars in the rhomboid quadrilateral:  the southernmost one on the "
+"advance side"
+msgstr ""
+
+msgid "The southernmost of the 3 stars between the tail and the rhombus"
+msgstr ""
+
+msgid "The more advanced of the other 2 to the north"
+msgstr ""
+
+msgid "The more advanced of the 2 stars in the head"
+msgstr ""
+
+msgid "The more advanced of the 2 stars close together in the neck"
+msgstr ""
+
+msgid "The southernmost of the 3 stars on the right upper arm"
+msgstr ""
+
+msgid "The southernmost of the 3 stars on the right hand"
+msgstr ""
+
+msgid "The southernmost of the 3 stars over the girdle"
+msgstr ""
+
+msgid "The star over the left foot"
+msgstr ""
+
+msgid "The northernmost of the 2 stars on the left knee-bend"
+msgstr ""
+
+msgid "The northernmost of the two stars in the lower hem [of the garment]"
+msgstr ""
+
+msgid "The most advanced of the 3 on the base"
+msgstr ""
+
+msgid "The more advanced of the 2 stars on the horn"
+msgstr ""
+
+msgid "The northernmost of the 2 stars on the muzzle"
+msgstr ""
+
+msgid "The star on the place where the tail joins [the body]"
+msgstr ""
+
+msgid "The star under the knee-bend"
+msgstr ""
+
+msgid ""
+"The 4 stars over the rump:  the rearmost, which is brighter [than the others]"
+msgstr ""
+
+msgid "The northernmost of the other 3, fainter stars"
+msgstr ""
+
+msgid "The northernmost of the 4 stars in the cut-off"
+msgstr ""
+
+msgid "The southernmost of the 4"
+msgstr ""
+
+msgid "The one to the rear of these, on the right shoulder-blade"
+msgstr ""
+
+msgid "The stars in the face, called 'the Hyades':  the one on the nostrils"
+msgstr ""
+
+msgid "The one between this and the northern eye"
+msgstr ""
+
+msgid "The one between it [no. 11] and the southern eye"
+msgstr ""
+
+msgid "The bright star of the Hyades, the reddish one on the southern eye"
+msgstr ""
+
+msgid "The southernmost of the 2 stars on the southern horn"
+msgstr ""
+
+msgid ""
+"The star on the tip of the northern horn, which is the same as the one on "
+"the right foot of Auriga [230 Aur 11]"
+msgstr ""
+
+msgid "The northernmost of the 2 stars close together in the northern ear"
+msgstr ""
+
+msgid "The more advanced of the 2 small stars in the neck"
+msgstr ""
+
+msgid ""
+"The quadrilateral in the neck:  the southernmost star on the advance side"
+msgstr ""
+
+msgid "The star under the right foot and the shoulder-blade"
+msgstr ""
+
+msgid "The most advanced of the 3 stars over the southern horn"
+msgstr ""
+
+msgid "The northernmost of the 2 stars under the tip of the southern horn"
+msgstr ""
+
+msgid ""
+"The 5 stars under and to the rear of the northern horn:  the most advanced"
+msgstr ""
+
+msgid "The northernmost of the remaining, rearmost 2"
+msgstr ""
+
+msgid "The one to the rear of that, just over the place between the shoulders"
+msgstr ""
+
+msgid "The star under the left knee of the rear twin"
+msgstr ""
+
+msgid "The star in the left groin of the rear twin"
+msgstr ""
+
+msgid "The star on the forward foot of the advance twin"
+msgstr ""
+
+msgid "The star in advance of the forward foot of the advance twin"
+msgstr ""
+
+msgid "The bright star to the rear of the above-mentioned 3"
+msgstr ""
+
+msgid ""
+"The quadrilateral containing the nebula [no. 1]:  the northernmost of the "
+"two stars in advance"
+msgstr ""
+
+msgid "ὄνος (Ass) I"
+msgstr ""
+
+msgid ""
+"The northernmost of the rear 2 stars on the quadrilateral, which are called "
+"'Aselli'"
+msgstr ""
+
+msgid "ὄνος (Ass) II"
+msgstr ""
+
+msgid "The northernmost of the 3 stars in the neck"
+msgstr ""
+
+msgid "βασιλίσκος (Princelet)"
+msgstr ""
+
+msgid "The star on the heart, called 'Regulus'"
+msgstr ""
+
+msgid "The star a little in advance of the star on the heart [no. 8]"
+msgstr ""
+
+msgid "The northernmost of the other, rearmost 2"
+msgstr ""
+
+msgid "The northernmost of the 2 stars in the buttocks"
+msgstr ""
+
+msgid "The more advanced of the 2 over the back"
+msgstr ""
+
+msgid "The northernmost of the 3 under the flank"
+msgstr ""
+
+msgid "The southernmost of the 2 stars in the top of the skull"
+msgstr ""
+
+msgid "The northernmost of the 2 stars to the rear of these, in the face"
+msgstr ""
+
+msgid "The most advanced of the 4 stars in the left wing"
+msgstr ""
+
+msgid "The most advanced of the 3 stars in the right, northern wing"
+msgstr ""
+
+msgid "The southernmost of the other 2"
+msgstr ""
+
+msgid "Προτρυγητήρ (Harbinger of Vintage)"
+msgstr ""
+
+msgid "στάχυς (Ear of Grain)"
+msgstr ""
+
+msgid "The star on the left hand, called 'Spica'"
+msgstr ""
+
+msgid ""
+"The quadrilateral in the left thigh:  the northern star on the advance side"
+msgstr ""
+
+msgid "The northernmost of the 2 stars on the rear side"
+msgstr ""
+
+msgid "The middle star of the 3 in the garment-hem round the feet"
+msgstr ""
+
+msgid "The rearmost of the 3"
+msgstr ""
+
+msgid "The most advanced of the 3 stars almost on a straight line under Spica"
+msgstr ""
+
+msgid "Stars on the tip of the southern claw:  the bright one"
+msgstr ""
+
+msgid "The star to the north of this and fainter than it"
+msgstr ""
+
+msgid "Stars on the tip of the northern claw:  the bright one"
+msgstr ""
+
+msgid "The faint star in advance of this"
+msgstr ""
+
+msgid "The most advanced of the 3 stars north of the northern claw"
+msgstr ""
+
+msgid "The southernmost of the rearmost 2 [of these]"
+msgstr ""
+
+msgid "The rearmost of the 3 stars between the claws"
+msgstr ""
+
+msgid "The northernmost of the other 2 in advance [of the latter]"
+msgstr ""
+
+msgid "The most advanced of the 3 stars south of the southern claw"
+msgstr ""
+
+msgid "The northernmost of the other, rear 2"
+msgstr ""
+
+msgid "The northernmost of the 3 bright stars in the forehead"
+msgstr ""
+
+msgid ""
+"The northernmost of the 2 stars adjacent to the northernmost of the 3 bright "
+"ones [no. 1]"
+msgstr ""
+
+msgid "The most advanced of the 3 bright stars in the body"
+msgstr ""
+
+msgid "ἀντάρης (Antares)"
+msgstr ""
+
+msgid "The middle one of these, which is reddish and called 'Antares'"
+msgstr ""
+
+msgid "The advance star of the 2 under these, approximately on the last leg"
+msgstr ""
+
+msgid "The star in the first [tail-] joint from the body"
+msgstr ""
+
+msgid "The one after this, in the 2nd joint"
+msgstr ""
+
+msgid "The northern star of the double-star in the 3rd joint"
+msgstr ""
+
+msgid "The one following, in the 4th joint"
+msgstr ""
+
+msgid "The one after that, in the 5th joint"
+msgstr ""
+
+msgid "The next one again, in the 6th joint"
+msgstr ""
+
+msgid "The star in the 7th joint, the joint next to the sting"
+msgstr ""
+
+msgid "The rearmost of the 2 stars in the sting"
+msgstr ""
+
+msgid "The most advanced of the 2 stars to the north of the sting"
+msgstr ""
+
+msgid "The star in the [bow-] grip held by the left hand"
+msgstr ""
+
+msgid "The southernmost of the [2] stars in the northern portion of the bow"
+msgstr ""
+
+msgid "The one in advance of this, just over the arrow"
+msgstr ""
+
+msgid "The most advanced of the 3 stars in the head"
+msgstr ""
+
+msgid "The southernmost of the 3 stars in the northern cloak-attachment"
+msgstr ""
+
+msgid "The northernmost of the 2 stars on the southern cloak-attachment"
+msgstr ""
+
+msgid ""
+"The three stars in the back:  the one just above the place between the "
+"shoulders"
+msgstr ""
+
+msgid "The middle one, just above the shoulder-blade"
+msgstr ""
+
+msgid ""
+"The four stars [forming a quadrilateral] in the place where the tail joins "
+"[the body]:  the advance star on the northern side"
+msgstr ""
+
+msgid "The northernmost of the 3 stars in the rear horn"
+msgstr ""
+
+msgid "The southernmost of the 3 stars in the muzzle"
+msgstr ""
+
+msgid "The star in advance of the [above] 3, under the right eye"
+msgstr ""
+
+msgid "The northernmost of the 2 stars in the neck"
+msgstr ""
+
+msgid "The more advanced of the 2 stars close together under the belly"
+msgstr ""
+
+msgid "The rearmost of the 3 stars in the middle of the body"
+msgstr ""
+
+msgid "The southernmost of the other, advance 2"
+msgstr ""
+
+msgid "The more advanced of the 2 stars in the back"
+msgstr ""
+
+msgid "The more advanced of the 2 stars in the southern spine"
+msgstr ""
+
+msgid ""
+"The more advanced of the 2 stars in the section [of the body] next to the "
+"tail"
+msgstr ""
+
+msgid "The most advanced of the 4 stars on the northern portion of the tail"
+msgstr ""
+
+msgid "The southernmost of the other 3"
+msgstr ""
+
+msgid "The brighter of the 2 stars in the right shoulder"
+msgstr ""
+
+msgid "The northernmost of the 3 stars on the right hand"
+msgstr ""
+
+msgid "The more advanced of the other 2 to the south"
+msgstr ""
+
+msgid ""
+"The more advanced of the 2 stars close together in the hollow of the right "
+"[hip]"
+msgstr ""
+
+msgid "The southernmost of the 2 stars in the left buttock"
+msgstr ""
+
+msgid "The southernmost of the 2 stars in the right lower leg"
+msgstr ""
+
+msgid "The southernmost of the 2 stars in the left lower leg"
+msgstr ""
+
+msgid "The one next to this, after [the beginning of] the bend"
+msgstr ""
+
+msgid "The northernmost of the 2 stars to the south of this"
+msgstr ""
+
+msgid "The more advanced of the 2 stars close together after the latter"
+msgstr ""
+
+msgid "The northernmost of the 3 stars in the next group"
+msgstr ""
+
+msgid "The northernmost of the next 3 [arranged] likewise"
+msgstr ""
+
+msgid "The most advanced of the 3 stars in the remaining group"
+msgstr ""
+
+msgid "The most advanced of the 3 stars to the rear of the bend in the water"
+msgstr ""
+
+msgid "The southernmost of the 2 stars in the top of its head"
+msgstr ""
+
+msgid "The more advanced of the 2 stars in the belly"
+msgstr ""
+
+msgid "The stars forming its fishing-line:  the first after the tail"
+msgstr ""
+
+msgid "The most advanced of the 3 following bright stars"
+msgstr ""
+
+msgid "The northernmost of the 2 small stars under these, in the bend"
+msgstr ""
+
+msgid "The most advanced of the 3 stars after the bend"
+msgstr ""
+
+msgid "The star on the knot joining the 2 fishing-lines"
+msgstr ""
+
+msgid ""
+"Stars in the northern fishing-line:  the first in the section beginning at "
+"the knot"
+msgstr ""
+
+msgid "The southernmost of the 3 stars following after that"
+msgstr ""
+
+msgid "The northernmost of the 3, which is also on the end of the tail"
+msgstr ""
+
+msgid "The northernmost of the 2 stars in the mouth of the rear fish"
+msgstr ""
+
+msgid "The rearmost of the 3 small stars in the head"
+msgstr ""
+
+msgid ""
+"The most advanced of the 3 stars on the spine in the back, following [i.e. "
+"to the rear of] the star on the elbow of Andromeda [345 And 11]"
+msgstr ""
+
+msgid "The northernmost of the 2 stars in the belly"
+msgstr ""
+
+msgid ""
+"The quadrilateral under the advance fish:  the more advanced of the 2 "
+"northern stars"
+msgstr ""
+
+msgid "The three stars in the snout:  the rearmost, on the end of the jaw"
+msgstr ""
+
+msgid "The most advanced of the 3, on the cheek"
+msgstr ""
+
+msgid ""
+"The quadrilateral in the chest:  the northernmost star on the advance side"
+msgstr ""
+
+msgid "The midmost of the 3 stars in the body"
+msgstr ""
+
+msgid "The rearmost of the 2 stars by the section next to the tail"
+msgstr ""
+
+msgid ""
+"The quadrilateral in the section next to the tail:  the northernmost star on "
+"the rear side"
+msgstr ""
+
+msgid ""
+"The 2 stars at the ends of the tail-fins:  the one on the northern [tail-fin]"
+msgstr ""
+
+msgid "The nebulous star in the head of Orion"
+msgstr ""
+
+msgid ""
+"The quadrilateral in the right hand:  the rear, double star on the southern "
+"side"
+msgstr ""
+
+msgid "The more advanced of the 2 stars in the staff"
+msgstr ""
+
+msgid ""
+"The rearmost of the 4 stars almost on a straight line just over the back"
+msgstr ""
+
+msgid "The last and most advanced of the 4"
+msgstr ""
+
+msgid "Stars in the pelt on the left arm:  the northernmost"
+msgstr ""
+
+msgid "The 2nd from the northernmost"
+msgstr ""
+
+msgid "The 3rd from the northernmost"
+msgstr ""
+
+msgid "The 4th from the northernmost"
+msgstr ""
+
+msgid "The 5th from the northernmost"
+msgstr ""
+
+msgid "The 6th from the northernmost"
+msgstr ""
+
+msgid "The 7th from the northernmost"
+msgstr ""
+
+msgid "The 8th from the northernmost"
+msgstr ""
+
+msgid "The most advanced of the 3 stars on the belt"
+msgstr ""
+
+msgid ""
+"The northernmost of the 3 stars joined together at the tip of the dagger"
+msgstr ""
+
+msgid "The rearmost of the 2 stars under the tip of the dagger"
+msgstr ""
+
+msgid ""
+"The star after the one in the foot of Orion [768 Ori 35], at the beginning "
+"of the river"
+msgstr ""
+
+msgid "The rearmost of the 2 stars next in order after this"
+msgstr ""
+
+msgid "The rearmost of the next 2 in order again"
+msgstr ""
+
+msgid "The rearmost of the 3 stars after this"
+msgstr ""
+
+msgid "The most advanced of the 4"
+msgstr ""
+
+msgid "The rearmost of the 4 stars in the next interval again"
+msgstr ""
+
+msgid ""
+"The first star in the bend of the river, which [star] touches the chest of "
+"Cetus"
+msgstr ""
+
+msgid "The most advanced of the next [group of] three"
+msgstr ""
+
+msgid ""
+"The next four stars, nearly forming a trapezium:  the northern one on the "
+"advance side"
+msgstr ""
+
+msgid "The last of the 4, the rear one on that side"
+msgstr ""
+
+msgid ""
+"The northernmost of the 2 stars close together at some distance to the east"
+msgstr ""
+
+msgid "The rearmost of the next 2 stars after the bend"
+msgstr ""
+
+msgid "The rearmost of the 3 stars in the next interval"
+msgstr ""
+
+msgid "The last star of the river, the bright one"
+msgstr ""
+
+msgid ""
+"The quadrilateral just over the ears:  the northern star on the advance side"
+msgstr ""
+
+msgid "The star in the cheek"
+msgstr ""
+
+msgid "The northernmost of the 2 stars in the hind legs"
+msgstr ""
+
+msgid "κύων (Dog)"
+msgstr ""
+
+msgid ""
+"The star in the mouth, the brightest, which is called 'the Dog' and is "
+"reddish"
+msgstr ""
+
+msgid "The northernmost of the 2 stars on the right knee"
+msgstr ""
+
+msgid "The star on the end of the front leg"
+msgstr ""
+
+msgid "The more advanced of the 2 stars in the left knee"
+msgstr ""
+
+msgid "The rearmost of the 2 stars in the left shoulder"
+msgstr ""
+
+msgid "The star below the belly, in the middle of the thighs"
+msgstr ""
+
+msgid "The star to the north of the top of Canis"
+msgstr ""
+
+msgid ""
+"The southernmost of the 4 stars almost on a straight line under the hind legs"
+msgstr ""
+
+msgid "The last and northernmost of the 4"
+msgstr ""
+
+msgid ""
+"The most advanced of the 3 stars almost on a straight line to the west of "
+"the [above] four"
+msgstr ""
+
+msgid "The rearmost of the 2 bright stars under these"
+msgstr ""
+
+msgid "The star in the neck"
+msgstr ""
+
+msgid "Προκύων (Prokyon, The One [rising] before the Dog)"
+msgstr ""
+
+msgid "The bright star just over the hindquarters, called Procyon"
+msgstr ""
+
+msgid "The more advanced of the 2 stars in the stern-ornament"
+msgstr ""
+
+msgid ""
+"The northernmost of the 2 stars close together over the little shield in the "
+"poop"
+msgstr ""
+
+msgid "The most advanced of the 3 stars under the little shield"
+msgstr ""
+
+msgid "The star on the goose [-neck]"
+msgstr ""
+
+msgid "The northernmost of the 2 stars in the stern-keel"
+msgstr ""
+
+msgid "Stars in the poop-deck:  the northernmost"
+msgstr ""
+
+msgid "The most advanced of the next 3"
+msgstr ""
+
+msgid "The more advanced of the 2 faint stars under the bright one"
+msgstr ""
+
+msgid "The more advanced of the 2 stars over the above-mentioned bright one"
+msgstr ""
+
+msgid ""
+"The northernmost of the 3 stars on the little shields, about on the mast-"
+"holder"
+msgstr ""
+
+msgid "The northernmost of the 2 stars close together under these"
+msgstr ""
+
+msgid "The southernmost of the 2 stars in the middle of the mast"
+msgstr ""
+
+msgid "The more advanced of the 2 stars by the tip of the mast"
+msgstr ""
+
+msgid "The star below the 3rd and rearmost little shield"
+msgstr ""
+
+msgid "The bright star to the south of this, on the lower [part of the] keel"
+msgstr ""
+
+msgid "The most advanced of the 3 stars to the rear of this"
+msgstr ""
+
+msgid "The more advanced of the 2 stars to the rear of these, near the cut-off"
+msgstr ""
+
+msgid "The more advanced of the 2 stars in the northern, advance steering-oar"
+msgstr ""
+
+msgid "Κάνωβος (Kanobos)"
+msgstr ""
+
+msgid ""
+"The more advanced of the 2 stars in the other steering-oar, called Canopus"
+msgstr ""
+
+msgid ""
+"The 5 stars in the head:  the southernmost of the 2 advance ones, which is "
+"on the nostrils"
+msgstr ""
+
+msgid "The northernmost of these [2], which is above the eye"
+msgstr ""
+
+msgid ""
+"The northernmost of the 2 to the rear of these, which is about on the skull"
+msgstr ""
+
+msgid "The rearmost of all, about on the cheek"
+msgstr ""
+
+msgid ""
+"The more advanced of the 2 stars in the place where the neck joins [the head]"
+msgstr ""
+
+msgid "The faint, northernmost star of the 2 close together to the south"
+msgstr ""
+
+msgid "The bright one of these two close stars"
+msgstr ""
+
+msgid ""
+"The most advanced of the 3 stars to the rear, after the bend [in the neck]"
+msgstr ""
+
+msgid "The most advanced of the next 3 stars almost on a straight line"
+msgstr ""
+
+msgid ""
+"The northernmost of the 2 stars after [i.e. to the rear of] the base of "
+"Crater"
+msgstr ""
+
+msgid "The most advanced of the 3 stars after these, as it were in a triangle"
+msgstr ""
+
+msgid "The star some distance to the rear of those in the neck [nos. 6-15]"
+msgstr ""
+
+msgid "The southernmost of the 2 stars in the middle of the bowl"
+msgstr ""
+
+msgid "The more advanced of the 2 stars in the rear wing"
+msgstr ""
+
+msgid "The southernmost of the 4 stars in the head"
+msgstr ""
+
+msgid "The more advanced of the other, middle 2"
+msgstr ""
+
+msgid "The rearmost of these, the last of the 4"
+msgstr ""
+
+msgid "The 4 stars in the thyrsus:  the northernmost of the advance 2"
+msgstr ""
+
+msgid "The most advanced of the 3 stars in the right side"
+msgstr ""
+
+msgid "The rearmost of the 2 faint stars to the north of this"
+msgstr ""
+
+msgid "The more advanced of the 2 stars close together on the right thigh"
+msgstr ""
+
+msgid "The more advanced of the 2 stars under the belly"
+msgstr ""
+
+msgid "The more advanced of the 2 stars just over the shoulder-blade"
+msgstr ""
+
+msgid ""
+"The northernmost of the 2 stars near the place where the thigh joins [the "
+"body]"
+msgstr ""
+
+msgid "The southernmost of the 2 stars in the neck"
+msgstr ""
+
+msgid "The more advanced of the 2 stars in the snout"
+msgstr ""
+
+msgid "The southernmost of the 2 stars in the front leg"
+msgstr ""
+
+msgid "The northernmost of the 2 stars in the base"
+msgstr ""
+
+msgid "The northernmost of the 3 stars in the brazier"
+msgstr ""
+
+msgid "The southernmost of the other 2 which are close together"
+msgstr ""
+
+msgid "The northernmost of these [2]"
+msgstr ""
+
+msgid ""
+"The one after this, which is north of the bright star in the knee [of "
+"Sagittarius, 593 Sgr 24]"
+msgstr ""
+
+msgid "The rearmost of the 2 stars after this, in advance, in the northern rim"
+msgstr ""
+
+msgid "The more advanced of these 2 faint stars"
+msgstr ""
+
+msgid ""
+"The star in the mouth, which is the same as the beginning of the water [670 "
+"Aqr 42]"
+msgstr ""
+
+msgid "The most advanced of the 3 stars on the southern rim of the head"
+msgstr ""
+
+msgid "The rearmost of the 2 stars in the belly"
+msgstr ""
+
+msgid "The rearmost of the 3 stars on the northern spine"
+msgstr ""
+
+msgid ""
+"The most advanced of the 3 bright stars in advance of Piscis [Austrinus]"
+msgstr ""
+
+msgid "The southernmost of the remaining 2 stars to the north"
+msgstr ""
+
+#. TRANSLATORS: Native name for Jupiter
+msgid "Zeus/Dios"
+msgstr ""
+
+#. TRANSLATORS: Native name for Venus
+msgid "Aphrodite"
+msgstr ""
+
+#. TRANSLATORS: Native name for Mars
+msgid "Ares"
+msgstr ""
+
+#. TRANSLATORS: Native name for Saturn
+msgid "Kronos"
+msgstr ""
+
+#. TRANSLATORS: Native name for Mercury
+msgid "Hermes"
+msgstr ""
+
+#. TRANSLATORS: Native name for the Sun
+msgid "Helios"
+msgstr ""
+
+#. TRANSLATORS: Native name for the Moon
+msgid "Selene"
+msgstr ""
+
+msgid "Uranus (1781)"
+msgstr ""
+
+msgid "Neptun (1846)"
+msgstr ""
+
+msgid "φάτνη (Manger)"
+msgstr ""
+
+msgid "Πλειάδες (Pleiades)"
+msgstr ""
+
+msgid "Tau 30-33"
+msgstr ""
+
+msgid "ʿΥάδες (Hyades)"
+msgstr ""
+
+msgid "Tau 11-15"
+msgstr ""
+
+msgid "πλόκαμος (Coma)"
+msgstr ""
+
+msgid "Leo 33"
+msgstr ""
+
+msgid "sco 22"
+msgstr ""
