@@ -1,0 +1,995 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Hleb Valoshka <375gnu@gmail.com>, 2024\n"
+"Language-Team: Belarusian (https://app.transifex.com/stellarium/teams/80998/"
+"be/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+# Sky culture name
+msgid "Modern (Sky & Telescope)"
+msgstr "Сучасная( Неба і Тэлескоп)"
+
+msgid "Ursa Minor"
+msgstr "Малая мядзьведзіца"
+
+msgid "Ursa Major"
+msgstr "Вялікая мядзьведзіца"
+
+msgid "Draco"
+msgstr "Дракон"
+
+msgid "Cepheus"
+msgstr "Цэфэй"
+
+msgid "Bootes"
+msgstr "Валапас"
+
+msgid "Corona Borealis"
+msgstr "Паўночная карона"
+
+msgid "Hercules"
+msgstr "Геркулес"
+
+msgid "Lyra"
+msgstr "Ліра"
+
+msgid "Cygnus"
+msgstr "Лебедзь"
+
+msgid "Cassiopeia"
+msgstr "Касіяпэя"
+
+msgid "Perseus"
+msgstr "Пэрсэй"
+
+msgid "Auriga"
+msgstr "Возьнік"
+
+msgid "Ophiuchus"
+msgstr "Зьмеяносец"
+
+msgid "Serpens"
+msgstr "Зьмяя"
+
+msgid "Sagitta"
+msgstr "Страла"
+
+msgid "Aquila"
+msgstr "Арол"
+
+msgid "Delphinus"
+msgstr "Дэльфін"
+
+msgid "Equuleus"
+msgstr "Малы конь"
+
+msgid "Pegasus"
+msgstr "Пэгас"
+
+msgid "Andromeda"
+msgstr "Андрамэда"
+
+msgid "Triangulum"
+msgstr "Трохкутнік"
+
+msgid "Aries"
+msgstr "Авен"
+
+msgid "Taurus"
+msgstr "Цялец"
+
+msgid "Gemini"
+msgstr "Блізьняты"
+
+msgid "Cancer"
+msgstr "Рак"
+
+msgid "Leo"
+msgstr "Леў"
+
+msgid "Virgo"
+msgstr "Дзева"
+
+msgid "Libra"
+msgstr "Шалі"
+
+msgid "Scorpius"
+msgstr "Скарпіён"
+
+msgid "Sagittarius"
+msgstr "Стралец"
+
+msgid "Capricornus"
+msgstr "Казарог"
+
+msgid "Aquarius"
+msgstr "Вадаліў"
+
+msgid "Pisces"
+msgstr "Рыбы"
+
+msgid "Cetus"
+msgstr "Кіт"
+
+msgid "Orion"
+msgstr "Арыён"
+
+msgid "Eridanus"
+msgstr "Эрыдан"
+
+msgid "Lepus"
+msgstr "Заяц"
+
+msgid "Canis Major"
+msgstr "Вялікі пёс"
+
+msgid "Canis Minor"
+msgstr "Малы пёс"
+
+msgid "Hydra"
+msgstr "Гідра"
+
+msgid "Crater"
+msgstr "Кратэр"
+
+msgid "Corvus"
+msgstr "Крумкач"
+
+msgid "Centaurus"
+msgstr "Цэнтаўр"
+
+msgid "Lupus"
+msgstr "Воўк"
+
+msgid "Ara"
+msgstr "Ахвярнік"
+
+msgid "Corona Australis"
+msgstr "Паўднёвая карона"
+
+msgid "Piscis Austrinus"
+msgstr "Паўднёвая рыба"
+
+msgid "Procyon"
+msgstr "Працыён"
+
+msgid "Sirius"
+msgstr "Сырыюс"
+
+msgid "Arcturus"
+msgstr "Арктур"
+
+msgid "Vega"
+msgstr "Вэга"
+
+msgid "Capella"
+msgstr "Капэла"
+
+msgid "Aldebaran"
+msgstr "Альдэбаран"
+
+msgid "Regulus"
+msgstr "Рэгул"
+
+msgid "Denebola"
+msgstr "Дэнэбала"
+
+msgid "Spica"
+msgstr "Сьпіка"
+
+msgid "Fomalhaut"
+msgstr "Фамальгаўт"
+
+msgid "Betelgeuse"
+msgstr "Бэтэльґейзэ"
+
+msgid "Rigel"
+msgstr "Рыгель"
+
+msgid "Canopus"
+msgstr "Канопус"
+
+msgid "Bellatrix"
+msgstr "Бэлятрыкс"
+
+msgid "Alnitak"
+msgstr "Альнітак"
+
+msgid "Alnilam"
+msgstr "Альнілям"
+
+msgid "Mintaka"
+msgstr "Мінтака"
+
+msgid "Achernar"
+msgstr "Ахернар"
+
+msgid "Acrux"
+msgstr "Акрукс"
+
+msgid "Hadar"
+msgstr "Гадар"
+
+msgid "Antares"
+msgstr "Антарэс"
+
+msgid "Sculptor"
+msgstr "Скульптар"
+
+msgid "Pyxis"
+msgstr "Компас"
+
+msgid "Caelum"
+msgstr "Разец"
+
+msgid "Chamaeleon"
+msgstr "Хамэлеон"
+
+msgid "Carina"
+msgstr "Кіль"
+
+msgid "Coma Berenices"
+msgstr "Валасы Веранікі"
+
+msgid "Canes Venatici"
+msgstr "Ганчакі"
+
+msgid "Columba"
+msgstr "Голуб"
+
+msgid "Circinus"
+msgstr "Цыркуль"
+
+msgid "Crux"
+msgstr "Крыж"
+
+msgid "Dorado"
+msgstr "Залатая рыба"
+
+msgid "Norma"
+msgstr "Норма"
+
+msgid "Fornax"
+msgstr "Печ"
+
+msgid "Camelopardalis"
+msgstr "Жыраф"
+
+msgid "Grus"
+msgstr "Журавель"
+
+msgid "Horologium"
+msgstr "Гадзіньнік"
+
+msgid "Hydrus"
+msgstr "Паўднёвая гідра"
+
+msgid "Indus"
+msgstr "Індзеец"
+
+msgid "Lacerta"
+msgstr "Яшчарка"
+
+msgid "Monoceros"
+msgstr "Аднарог"
+
+msgid "Lynx"
+msgstr "Рысь"
+
+msgid "Antlia"
+msgstr "Помпа"
+
+msgid "Microscopium"
+msgstr "Мікраскоп"
+
+msgid "Musca"
+msgstr "Муха"
+
+msgid "Octans"
+msgstr "Актант"
+
+msgid "Apus"
+msgstr "Райская птушка"
+
+msgid "Pavo"
+msgstr "Пава"
+
+msgid "Pictor"
+msgstr "Мастак"
+
+msgid "Leo Minor"
+msgstr "Малы леў"
+
+msgid "Vulpecula"
+msgstr "Лісічка"
+
+msgid "Phoenix"
+msgstr "Фэнікс"
+
+msgid "Volans"
+msgstr "Лятучая рыба"
+
+msgid "Puppis"
+msgstr "Карма"
+
+msgid "Reticulum"
+msgstr "Сетка"
+
+msgid "Scutum"
+msgstr "Шчыт"
+
+msgid "Sextans"
+msgstr "Сэкстанс"
+
+msgid "Mensa"
+msgstr "Сталовая гара"
+
+msgid "Telescopium"
+msgstr "Тэлескоп"
+
+msgid "Tucana"
+msgstr "Тукан"
+
+msgid "Triangulum Australe"
+msgstr "Паўднёвы трохкутнік"
+
+msgid "Vela"
+msgstr "Ветразі"
+
+msgid "Alpheratz"
+msgstr "Альфэрац"
+
+msgid "Mirach"
+msgstr "Мірах"
+
+msgid "Almach"
+msgstr "Альмак"
+
+msgid "Adhil"
+msgstr "Азіль"
+
+msgid "Sadalmelik"
+msgstr "Садальмэлік"
+
+msgid "Sadalsuud"
+msgstr "Садальсуд"
+
+msgid "Sadachbia"
+msgstr "Садахбія"
+
+msgid "Skat"
+msgstr "Скат"
+
+msgid "Scheat"
+msgstr "Шэат"
+
+msgid "Albali"
+msgstr "Альбалі"
+
+msgid "Ancha"
+msgstr "Анха"
+
+msgid "Situla"
+msgstr "Сітула"
+
+msgid "Altair"
+msgstr "Альтаір"
+
+msgid "Alshain"
+msgstr "Альшаін"
+
+msgid "Tarazed"
+msgstr "Таразэд"
+
+msgid "Hamal"
+msgstr "Гамаль"
+
+msgid "Sheratan"
+msgstr "Шэратан"
+
+msgid "Mesartim"
+msgstr ""
+
+msgid "Botein"
+msgstr "Батэін"
+
+msgid "Menkalinan"
+msgstr "Мэнкалінан"
+
+msgid "Nekkar"
+msgstr "Нэкар"
+
+msgid "Seginus"
+msgstr "Сэґінус"
+
+msgid "Izar"
+msgstr "Ізар"
+
+msgid "Muphrid"
+msgstr "Муфрыд"
+
+msgid "Alkalurops"
+msgstr "Алькалюропс"
+
+msgid "Merga"
+msgstr "Мэрґа"
+
+msgid "Acubens"
+msgstr "Акубэнс"
+
+msgid "Asellus Borealis"
+msgstr "Асэлюс Барэаліс"
+
+msgid "Asellus Australis"
+msgstr "Асэлюс Аўстраліс"
+
+msgid "Tegmine"
+msgstr "Тэґмэн"
+
+msgid "Cor Caroli"
+msgstr "Кор Каролі"
+
+msgid "Chara"
+msgstr "Хара"
+
+msgid "Mirzam"
+msgstr "Мірзам"
+
+msgid "Muliphein"
+msgstr "Муліфэйн"
+
+msgid "Wezen"
+msgstr "Вэзэн"
+
+msgid "Adhara"
+msgstr "Азара"
+
+msgid "Furud"
+msgstr "Фуруд"
+
+msgid "Aludra"
+msgstr "Алюдра"
+
+msgid "Gomeisa"
+msgstr "Ґамэіса"
+
+msgid "Algedi"
+msgstr "Альджэдзі"
+
+msgid "Dabih"
+msgstr "Дабіг"
+
+msgid "Nashira"
+msgstr "Нашыра"
+
+msgid "Deneb Algedi"
+msgstr "Дэнэб Альджэдзі"
+
+msgid "Miaplacidus"
+msgstr "Міяпляцыдус"
+
+msgid "Avior"
+msgstr "Авіёр"
+
+msgid "Aspidiske"
+msgstr "Асьпідыска"
+
+msgid "Tureis"
+msgstr "Турэйс"
+
+msgid "Schedar"
+msgstr ""
+
+msgid "Caph"
+msgstr "Каф"
+
+msgid "Ruchbah"
+msgstr "Рухба"
+
+msgid "Rigil Kentaurus"
+msgstr "Рыґіль Кентаўрус"
+
+msgid "Proxima Centauri"
+msgstr "Проксіма Цэнтаўра"
+
+msgid "Muhlifain"
+msgstr "Муліфаін"
+
+msgid "Menkent"
+msgstr "Мэнкент"
+
+msgid "Alnair"
+msgstr "Альнаір"
+
+msgid "Alderamin"
+msgstr "Альдэрамін"
+
+msgid "Alfirk"
+msgstr "Альфірк"
+
+msgid "Errai"
+msgstr "Эраі"
+
+msgid "Kurhah"
+msgstr "Кургаг"
+
+msgid "Menkar"
+msgstr "Мэнкар"
+
+msgid "Deneb Kaitos"
+msgstr "Дэнэб Каітас"
+
+msgid "Baten Kaitos"
+msgstr "Батэн Каітас"
+
+msgid "Mira"
+msgstr "Міра"
+
+msgid "Phact"
+msgstr "Факт"
+
+msgid "Wazn"
+msgstr "Вазн"
+
+msgid "Alphecca"
+msgstr "Альфэка"
+
+msgid "Nusakan"
+msgstr "Нусакан"
+
+msgid "Alchiba"
+msgstr "Альхіба"
+
+msgid "Gienah"
+msgstr "Джэнаг"
+
+msgid "Algorab"
+msgstr "Алґораб"
+
+msgid "Alkes"
+msgstr "Алькес"
+
+msgid "Mimosa"
+msgstr "Мімоза"
+
+msgid "Gacrux"
+msgstr "Ґакрукс"
+
+msgid "Deneb"
+msgstr "Дэнэб"
+
+msgid "Albireo"
+msgstr "Альбірэо"
+
+msgid "Sadr"
+msgstr "Садр"
+
+msgid "Azelfafage"
+msgstr "Азэльфафаґе"
+
+msgid "Sualocin"
+msgstr "Суаляцын"
+
+msgid "Rotanev"
+msgstr "Рутанеў"
+
+msgid "Thuban"
+msgstr "Субан"
+
+msgid "Rastaban"
+msgstr "Растабан"
+
+msgid "Eltanin"
+msgstr "Эльтанін"
+
+msgid "Altais"
+msgstr "Альтаіс"
+
+msgid "Edasich"
+msgstr "Эдасіх"
+
+msgid "Giausar"
+msgstr "Джаўсар"
+
+msgid "Alrakis"
+msgstr "Альракіс"
+
+msgid "Grumium"
+msgstr "Ґруміюм"
+
+msgid "Kitalpha"
+msgstr "Кітальфа"
+
+msgid "Cursa"
+msgstr "Курса"
+
+msgid "Zaurak"
+msgstr "Заўрак"
+
+msgid "Zibal"
+msgstr "Зібаль"
+
+msgid "Azha"
+msgstr "Азга"
+
+msgid "Acamar"
+msgstr "Акамар"
+
+msgid "Beid"
+msgstr "Бэід"
+
+msgid "Keid"
+msgstr "Кэід"
+
+msgid "Theemin"
+msgstr "Тээмін"
+
+msgid "Castor"
+msgstr "Кастор"
+
+msgid "Pollux"
+msgstr "Палукс"
+
+msgid "Alhena"
+msgstr "Альгена"
+
+msgid "Wasat"
+msgstr "Уасат"
+
+msgid "Mebsuta"
+msgstr "Мэбсута"
+
+msgid "Mekbuda"
+msgstr "Мэкбуда"
+
+msgid "Propus"
+msgstr "Пропус"
+
+msgid "Tejat"
+msgstr "Тэят"
+
+msgid "Al Na'ir"
+msgstr "Аль Наір"
+
+msgid "Rasalgethi"
+msgstr "Расальґесі"
+
+msgid "Kornephoros"
+msgstr "Карнэфарос"
+
+msgid "Marsic"
+msgstr "Марсык"
+
+msgid "Marfik"
+msgstr "Марфік"
+
+msgid "Maasym"
+msgstr "Маасым"
+
+msgid "Cujam"
+msgstr "Каям"
+
+msgid "Alphard"
+msgstr "Альфард"
+
+msgid "Algieba"
+msgstr "Альґеба"
+
+msgid "Zosma"
+msgstr "Зосма"
+
+msgid "Adhafera"
+msgstr "Азафэра"
+
+msgid "Chertan"
+msgstr "Хорт"
+
+msgid "Alterf"
+msgstr "Альтэрф"
+
+msgid "Rasalas"
+msgstr "Расалас"
+
+msgid "Subra"
+msgstr "Субра"
+
+msgid "Arneb"
+msgstr "Арнэб"
+
+msgid "Nihal"
+msgstr "Нігаль"
+
+msgid "Hind's Crimson Star"
+msgstr "Пурпуровая зорка Гайнда"
+
+msgid "Zubenelgenubi"
+msgstr "Зубэн-аль-джэнубі"
+
+msgid "Zubeneschamali"
+msgstr "Зубэн-аш-шамалі"
+
+msgid "Sheliak"
+msgstr "Шэліяк"
+
+msgid "Sulafat"
+msgstr "Суляфат"
+
+msgid "Rasalhague"
+msgstr "Рас Альгаґ"
+
+msgid "Cebalrai"
+msgstr "Кебальраі"
+
+msgid "Yed Prior"
+msgstr "Ед Прыёр"
+
+msgid "Yed Posterior"
+msgstr "Ед Пастэрыёр"
+
+msgid "Sabik"
+msgstr "Сабік"
+
+msgid "Barnard's Star"
+msgstr "Зорка Барнарда"
+
+msgid "Saiph"
+msgstr "Саіф"
+
+msgid "Meissa"
+msgstr "Мэіса"
+
+msgid "Peacock"
+msgstr "Пікак"
+
+msgid "Markab"
+msgstr "Маркаб"
+
+msgid "Algenib"
+msgstr "Альджэніб"
+
+msgid "Enif"
+msgstr "Эніф"
+
+msgid "Homam"
+msgstr "Гомам"
+
+msgid "Matar"
+msgstr "Матар"
+
+msgid "Biham"
+msgstr "Бігам"
+
+msgid "Sadalbari"
+msgstr "Садальбары"
+
+msgid "Mirfak"
+msgstr "Мірфак"
+
+msgid "Algol"
+msgstr "Альголь"
+
+msgid "Menkib"
+msgstr "Мэнкіб"
+
+msgid "Atik"
+msgstr "Ацік"
+
+msgid "Ankaa"
+msgstr "Анкаа"
+
+msgid "Alrescha"
+msgstr "Альрэша"
+
+msgid "Naos"
+msgstr "Наас"
+
+msgid "Sham"
+msgstr "Шам"
+
+msgid "Rukbat"
+msgstr "Рукбат"
+
+msgid "Arkab"
+msgstr "Аркаб"
+
+msgid "Alnasl"
+msgstr "Альнасл"
+
+msgid "Kaus Media"
+msgstr "Каўс Мэдыя"
+
+msgid "Kaus Australis"
+msgstr "Каўс Аўстраліс"
+
+msgid "Ascella"
+msgstr "Асцэла"
+
+msgid "Kaus Borealis"
+msgstr "Каўс Барэаліс"
+
+msgid "Nunki"
+msgstr "Нункі"
+
+msgid "Graffias"
+msgstr "Ґрафіяс"
+
+msgid "Dschubba"
+msgstr "Джуба"
+
+msgid "Girtab"
+msgstr "Ґіртаб"
+
+msgid "Shaula"
+msgstr "Шаўла"
+
+msgid "Al Niyat"
+msgstr "Аль Ніят"
+
+msgid "Lesath"
+msgstr "Лесас"
+
+msgid "Unukalhai"
+msgstr "Унукальгаі"
+
+msgid "Alya"
+msgstr "Алья"
+
+msgid "Elnath"
+msgstr "Эльнат"
+
+msgid "Ain"
+msgstr "Аін"
+
+msgid "Alcyone"
+msgstr "Алькіёна"
+
+msgid "Celaeno"
+msgstr "Келена"
+
+msgid "Electra"
+msgstr "Электра"
+
+msgid "Taygeta"
+msgstr "Тайгета"
+
+msgid "Maia"
+msgstr "Мая"
+
+msgid "Merope"
+msgstr "Мэропа"
+
+msgid "Atlas"
+msgstr "Атляс"
+
+msgid "Pleione"
+msgstr "Плеёна"
+
+msgid "Mothallah"
+msgstr "Масалаг"
+
+msgid "Atria"
+msgstr "Атрыя"
+
+msgid "Dubhe"
+msgstr "Дубге"
+
+msgid "Merak"
+msgstr "Мэрак"
+
+msgid "Phecda"
+msgstr "Фэкда"
+
+msgid "Megrez"
+msgstr "Мэґрэз"
+
+msgid "Alioth"
+msgstr "Аліёт"
+
+msgid "Mizar"
+msgstr "Міцар"
+
+msgid "Alcor"
+msgstr "Алькор"
+
+msgid "Alkaid"
+msgstr "Алькайд"
+
+msgid "Talitha"
+msgstr "Таліса"
+
+msgid "Tania Borealis"
+msgstr "Танія Барэаліс"
+
+msgid "Tania Australis"
+msgstr "Танія Аўстраліс"
+
+msgid "Alula Borealis"
+msgstr "Алюля Аўстраліс"
+
+msgid "Alula Australis"
+msgstr "Алюля Аўстраліс"
+
+msgid "Muscida"
+msgstr "Мусцыда"
+
+msgid "Groombridge 1830"
+msgstr "Ґрумбрыдж 1830"
+
+msgid "Lalande 21185"
+msgstr "Лаландэ 21185"
+
+msgid "Polaris"
+msgstr "Палярная"
+
+msgid "Kochab"
+msgstr "Кахаб"
+
+msgid "Pherkad"
+msgstr "Фэркад"
+
+msgid "Yildun"
+msgstr "Ільдун"
+
+msgid "Regor"
+msgstr "Рэґар"
+
+msgid "Suhail"
+msgstr "Сугаіл"
+
+msgid "Markeb"
+msgstr "Маркеб"
+
+msgid "Zavijava"
+msgstr "Завіява"
+
+msgid "Porrima"
+msgstr "Парыма"
+
+msgid "Vindemiatrix"
+msgstr "Віндэміятрыкс"
+
+msgid "Zaniah"
+msgstr "Занія"
+
+msgid "Syrma"
+msgstr "Сырма"
+
+msgid "Sterope"
+msgstr "Стэропа"
+
+msgid "Vela X-1"
+msgstr ""
+
+msgid "Rmk 14"
+msgstr ""
+
+msgid "V1002"
+msgstr "V1002"
+
+msgid "H N 28"
+msgstr ""
+
+msgid "T = Blaze Star"
+msgstr ""
+
+msgid "Lacaille 8760"
+msgstr ""
+
+msgid "Herschel's Garnet Star"
+msgstr "Ґранатавая зорка Гершэля"
+
+msgid "Krueger 60"
+msgstr "Круґер 60"
+
+msgid "Bradley 3077"
+msgstr "Брэдлі 3077"
