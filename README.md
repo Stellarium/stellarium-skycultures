@@ -129,7 +129,17 @@ preview in the GUI.
 ## Description
 
 Detailed description using the markdown format, including markdown extra
-extensions, as well a special syntax for defining reference like this [#1].
+extensions, as well a special syntax for defining reference like this [#1], and
+a special syntax for formatting caption under images like described below.
+
+The `img_and_caption` in the example below is a CSS class name that should be
+applied to the `<p>` tag surrounding the image+caption pair after conversion to
+HTML.
+
+![](https://example.com/some-image.webp)
+This is an example image, and this caption is denoted as such using the braced
+structure below this text.
+{: .img_and_caption }
 
 ## Constellations
 
