@@ -65,3 +65,5 @@
 <p>Elders from local communities on Tanna, who contributed with their ancestral knowledge to this project: Jimmy Napip from Ikumhala, Lomai Tain from Ielkes, Sylvano Kapalu from Ipai, Iawilu Naumusapen from Lowkweria, Kasékasé from Imapul, Nausien from Lamlu, Pierrot Nako Yaru from Lowanatom, Joe Natuman from Lowkweria.</p>
 
 ## License
+
+CC BY-SA 4.0
