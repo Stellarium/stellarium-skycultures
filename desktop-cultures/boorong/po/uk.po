@@ -1,0 +1,403 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>, 2025\n"
+"Language-Team: Ukrainian (https://app.transifex.com/stellarium/teams/80998/"
+"uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != "
+"11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % "
+"100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || "
+"(n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#. Sky culture name
+msgid "Boorong"
+msgstr "Австралійська"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"One hundred and forty years ago, a Boorong family at Lake Tyrrell (North-"
+"Western Victoria, Australia) told William Stanbridge something of their "
+"stories relating to the night sky. Some forty stars, constellations and "
+"other celestial phenomena were named and located. He wrote them down and "
+"related this information to the Philosophical Institute in Melbourne in "
+"1857. In his paper he wrote down the Aboriginal term and gave its European "
+"equivalent. What John Morieson has done is look closely at these celestial "
+"phenomena, attempt to satisfactorily identity them and to imitate the way "
+"the Boorong people may have seen them. John's interpretation was used to "
+"create the constellation figures in Stellarium.\n"
+"\n"
+"The Boorong were very much acquainted with the night sky, and William "
+"Stanbridge wrote in 1857 that they &quot;Pride themselves upon knowing more "
+"of Astronomy than any other tribe&quot;."
+msgstr ""
+"Сто сорок років тому сім’я Буронг з озера Тіррелл (Північно-західна "
+"Вікторія, Австралія) розповіла Вільяму Стенбріджу дещо про традиційні "
+"історії, пов’язані із нічним небом. Ними було повідомлено про назви та "
+"розташування близько сорока зірок, сузір’їв та інших небесних явищ. Вільям "
+"записав усе це і спрямував дані до Інституту філософії у Мельбурні 1857 "
+"року. У своїй праці він записав терміни аборигенів і надав їхні європейські "
+"відповідники. Джон Морісон ретельно ознайомився із записами щодо цих "
+"небесних явищ, спробував знайти задовільні відповідники для них і зімітував "
+"спосіб у який люди Буронг могли їх бачити. Інтерпретації Джона було "
+"використано для створення фігур сузір’їв у Stellarium.\n"
+"\n"
+"Сім’я Буронг доволі добре знала нічне небо, отже Вільям Стенбрідж записав у "
+"1857 році, що вони «горді з того, що знають астрономію краще за будь-яке "
+"інше плем’я»."
+
+#. Sky culture description section in markdown format
+msgid ""
+"### Constellations and other celestial objects\n"
+"\n"
+"|Name|Explanation|Celestial Clue|\n"
+"|----|-----------|--------------|\n"
+"|<notr>Berm-berm-gle</notr>|Red-kneed dotterel|Alpha and Beta Centauri|\n"
+"|<notr>Boorong</notr>|Night; small mallee; starry firmament|Starry firmament "
+"at night|\n"
+"|<notr>Bunya</notr>|Ring-tail possum|Top star in Southern Cross|\n"
+"|<notr>Chargee Gnowee</notr>|Elder sister, sister of the sun|Venus|\n"
+"|<notr>Bittur</notr>|Larvae of the woodant|&mdash;|\n"
+"|<notr>Collenbitchick</notr>|Species of ant|Double star in head of "
+"Capricornus|\n"
+"|<notr>Collowgulloric War</notr>|Female crow, wife of War|Eta Carinae|\n"
+"|<notr>Colowgulloric Warepil</notr>|Female eagle, wife of Warepil|Rigel In "
+"Orion|\n"
+"|<notr>Djuit</notr>|Red-rumped parrot|Antares|\n"
+"|<notr>Gellarlec</notr>|Pink cockatoo|Aldebaran|\n"
+"|<notr>Ginabongbearp</notr>|Sulphur-crested white cockatoo; pulling up "
+"daylight|Jupiter|\n"
+"|<notr>Gnowee</notr>|Day; Sun|Sun|\n"
+"|<notr>Karik Karik</notr>|Spear thrower; Australian Kestrel|Two stars at end "
+"of Scorpius|\n"
+"|<notr>Kourt-chin</notr>|Male and female brolga|Clouds of Magellan|\n"
+"|<notr>Kulkanbulla</notr>|Two teenage boys|Belt and Scabbard of Orion|\n"
+"|<notr>Lamankurrk</notr>|Girls, young women|Pleiades|\n"
+"|<notr>Marpeankurrk</notr>|Meat ant; treecreeper|Arcturus|\n"
+"|<notr>Millee</notr>|Murray River|Part of the Milky Way|\n"
+"|<notr>Mindi</notr>|The maned snake|Part of the Milky Way|\n"
+"|<notr>Mityan</notr>|Quoll|Moon|\n"
+"|<notr>Neilloan</notr>|Mallee fowl|Lyra|\n"
+"|<notr>Nurrumbunguttias</notr>|Old man, black faced mallee kangaroo|White "
+"aura of the Milky Way|\n"
+"|<notr>Otchocut</notr>|Great fish|Delphinus|\n"
+"|<notr>Porkelong toute</notr>|Loss of tooth|Shooting star|\n"
+"|<notr>Pupperimbul</notr>|Diamond firetail finch or shy hylacola|Carried the "
+"emu egg to become the Sun|\n"
+"|<notr>Purra</notr>|Red kangaroo|Capella|\n"
+"|<notr>Tchingal</notr>|The tall one; emu|Dark space near Cross|\n"
+"|<notr>Totyarguil</notr>|Purple crowned lorikeet|Altair|\n"
+"|<notr>Tourchingboiongerra</notr>|Needlewood hakea and willie wagtails|Coma "
+"Berenices|\n"
+"|<notr>Tourte</notr>|Star|Any star|\n"
+"|<notr>Tyrille</notr>|Space; night sky|Space; night sky|\n"
+"|<notr>Unurgunite</notr>|Jacky lizard|Sigma Canis Majoris|\n"
+"|<notr>Wanjel</notr>|Long-necked tortoise|Pollux|\n"
+"|<notr>War</notr>|Crow|Canopus|\n"
+"|<notr>Warepil</notr>|Wedge tailed eagle|Sirius|\n"
+"|<notr>Warring</notr>|Galaxy|Milky Way|\n"
+"|<notr>Weetkurrk</notr>|Singing bushlark|Star in Bootes west of Arcturus|\n"
+"|<notr>Won</notr>|Boomerang|Corona Australis|\n"
+"|<notr>Yerredetkurrk</notr>|Owlet nightjar|Achernar|\n"
+"|<notr>Yurree</notr>|Fan-tailed cockatoo|Castor|"
+msgstr ""
+"### Сузір’я та інші небесні об’єкти\n"
+"\n"
+"|Назва|Пояснення|Небесний ключ|\n"
+"|-----|---------|-------------|\n"
+"|Berm-berm-gle|Червоноколінний хрустан|Альфа і бета Центавра|\n"
+"|Boorong|Ніч; малий евкаліпт; зоряне небесне склепіння|Зоряне небесне "
+"склепіння вночі|\n"
+"|Bunya|Опосум із хвостом-кільцем|Верхня зірка у Південному Хресті|\n"
+"|Chargee Gnowee|Старша сестра, сестра Сонця|Венера|\n"
+"|Bittur|Лялечка деревної мурахи|&mdash;|\n"
+"|Collenbitchick|Мурахи|Подвійна зірка перед Козорогом|\n"
+"|Collowgulloric War|Ворона, жінка Війни|Ета Кіля|\n"
+"|Colowgulloric Warepil|Орлиця, жінка Варепіла|Рігель у Оріоні|\n"
+"|Djuit|Червонохвостий папуга|Антарес|\n"
+"|Gellarlec|Рожевий какаду|Альдебарана|\n"
+"|Ginabongbearp|Білий какаду із жовтим гребінцем; виштовхує денне світло|"
+"Юпітер|\n"
+"|Gnowee|День; Сонце|Сонце|\n"
+"|Karik Karik|Метальник спису; австралійська постільга|Дві зірки у кінці "
+"Скорпіона|\n"
+"|Kourt-chin|Самиця і самець австралійського журавля|Магелланові Хмари|\n"
+"|Kulkanbulla|Двоє юнаків|Пояс і піхви меча Оріона|\n"
+"|Lamankurrk|Дівчата, молоді жінки|Плеяди|\n"
+"|Marpeankurrk|М’ясна мураха; підкоришник|Арктур|\n"
+"|Millee|Річка Мюррей|Частина Чумацького Шляху|\n"
+"|Mindi|Гриваста змія|Частина Чумацького Шляху|\n"
+"|Mityan|Кволл|Місяць|\n"
+"|Neilloan|Очиста курка|Ліра|\n"
+"|Nurrumbunguttias|Старий чоловік, евкаліптове кенгуру із чорною мордою|Біле "
+"світло Чумацького Шляху|\n"
+"|Otchocut|Велика риба|Дельфін|\n"
+"|Porkelong toute|Втрата зуба|Метеорит|\n"
+"|Pupperimbul|Діамантовий вогнянохвостий зяблик або полохлива хайлакола|"
+"Стереже яйце ему, яке стане Сонцем|\n"
+"|Purra|Червоний кенгуру|Капелла|\n"
+"|Tchingal|Високий; ему|Темне місце, поруч із Хрестом|\n"
+"|Totyarguil|Пурпурно-коронний папужка лорі|Альтаїр|\n"
+"|Tourchingboiongerra|Голчаста гакея та чорно-біла віялохвостка|Волосся "
+"Вероніки|\n"
+"|Tourte|Зірка|Будь-яка зірка|\n"
+"|Tyrille|Простір; нічне небо|Простір; нічне небо|\n"
+"|Unurgunite|Ящірка-моряк|Сигма Великого Пса|\n"
+"|Wanjel|Довгошия черепаха|Поллукс|\n"
+"|War|Ворон|Канопус|\n"
+"|Warepil|Клинохвостий орел|Сіріус|\n"
+"|Warring|Галактика|Чумацький Шлях|\n"
+"|Weetkurrk|Жайворонок, що співає|Зірка у Волопасі, на захід від Арктура|\n"
+"|Won|Бумеранг|Південна Корона|\n"
+"|Yerredetkurrk|Молода дрімлюга|Ахернар|\n"
+"|Yurree|Какаду із хвостом-віялом|Кастор|"
+
+#. Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by *[John Morieson](http://www.johnmorieson."
+"com)* and *[Alex Cherney](http://www.terrastro.com)*."
+msgstr ""
+"Картину зоряного неба створено *[John Morieson](http://www.johnmorieson."
+"com)* та *[Alex Cherney](http://www.terrastro.com)*."
+
+#. Boorong constellation, native: Wanjel
+msgid "Long-necked tortoise"
+msgstr "Довгошия черепаха"
+
+#. Boorong constellation, native: Yurree
+msgid "Fan-tailed cockatoo"
+msgstr "Какаду із хвостом-віялом"
+
+#. Boorong constellation, native: Kulkunbulla
+msgid "Two teenage boys"
+msgstr "Двоє юнаків"
+
+#. Boorong constellation, native: Lamankurrk
+msgid "Girls"
+msgstr "Дівчата"
+
+#. Boorong constellation, native: Purra
+msgid "Red kangaroo"
+msgstr "Червоний кенгуру"
+
+#. Boorong constellation, native: Bunya
+msgid "Ring-tail possum"
+msgstr "Опосум із хвостом-кільцем"
+
+#. Boorong constellation, native: Djuit
+msgid "Red-rumped parrot"
+msgstr "Червонохвостий папуга"
+
+#. Boorong constellation, native: War
+msgid "Crow"
+msgstr "Ворон"
+
+#. Boorong constellation, native: Collowgulloric War
+msgid "Female crow, wife of War"
+msgstr "Ворона, жінка Війни"
+
+#. Boorong constellation, native: Yerredetkurrk
+msgid "Owlet nightjar"
+msgstr "Молода дрімлюга"
+
+#. Boorong constellation, native: Tourtchinboiongerra
+msgid "Needlewood hakea and willie wagtails"
+msgstr "Голчаста гакея та чорно-біла віялохвостка"
+
+#. Boorong constellation, native: Berm-Berm-Gle
+msgid "Red-kneed dotterel"
+msgstr "Червоноколінний хрустан"
+
+#. Boorong constellation, native: Karik Karik
+msgid "Australian kestrel"
+msgstr "Австралійська постільга"
+
+#. Boorong constellation, native: Neilloan
+msgid "Mallee fowl"
+msgstr "Очиста курка"
+
+#. Boorong constellation, native: Unurgunite
+msgid "Jacky lizard"
+msgstr "Ящірка-моряк"
+
+#. Boorong constellation, native: Kourt-chin
+msgid "Male and female brolga"
+msgstr "Самиця і самець австралійського журавля"
+
+#. Boorong constellation, native: Otchocut
+msgid "Great fish"
+msgstr "Велика риба"
+
+#. Boorong constellation, native: Warepil
+msgid "Wedge tailed eagle"
+msgstr "Клинохвостий орел"
+
+#. Boorong constellation, native: Collowgulloric Warepil
+msgid "Female eagle, wife of Warepil"
+msgstr "Орлиця, жінка Варепіла"
+
+#. Boorong constellation, native: Tchingal
+msgid "Emu"
+msgstr "Ему"
+
+#. Boorong constellation, native: Totyarguil
+msgid "Purple crowned lorikeet"
+msgstr "Пурпурно-коронний папужка лорі"
+
+#. Boorong constellation, native: Marpeankurrk
+msgid "Meat ant"
+msgstr "М’ясний мураха"
+
+#. Boorong constellation, native: Warring
+msgid "Galaxy"
+msgstr "Галактика"
+
+#. Boorong constellation, native: Weetkurrk
+msgid "Singing bushlark"
+msgstr "Жайворонок, що співає"
+
+#. Boorong constellation, native: Gellarlec
+msgid "Pink cockatoo"
+msgstr "Рожевий какаду"
+
+#. Boorong constellation, native: Collenbitchick
+msgid "Species of ant"
+msgstr "Мурахи"
+
+#. Boorong constellation, native: Won
+msgid "Boomerang"
+msgstr "Бумеранг"
+
+#. Boorong constellation, native: Mindi
+msgid "The maned snake"
+msgstr "Гриваста змія"
+
+#. Name for HIP 69673
+msgid "Marpeankurrk"
+msgstr "Марпін-куррк"
+
+#. Name for HIP 80763
+msgid "Djuit"
+msgstr "Джуїт"
+
+#. Name for HIP 91262
+msgid "Neilloan"
+msgstr "Нейллоан"
+
+#. Name for HIP 97649
+msgid "Totyarguil"
+msgstr "Тотяргуїл"
+
+#. Name for HIP 85927
+msgid "Karik Karik"
+msgstr "Карік-Карік"
+
+#. Name for HIP 68702
+msgid "Berm-berm-gle"
+msgstr "Берм-берм-ґле"
+
+#. Name for HIP 61084
+msgid "Bunya"
+msgstr "Буня"
+
+#. Name for HIP 64394
+msgid "Tourchingboiongerra"
+msgstr "Торчинґбойонґерра"
+
+#. Name for HIP 24372
+msgid "Kourt-chin"
+msgstr "Коурт-чин"
+
+#. Name for HIP 89931
+msgid "Warring"
+msgstr "Кільце війни"
+
+#. Name for HIP 26311
+msgid "Kulkanbulla"
+msgstr "Кулканбулла"
+
+#. Name for HIP 17702
+msgid "Lamankurrk"
+msgstr "Ламан-куррк"
+
+#. Name for HIP 21421
+msgid "Gellarlec"
+msgstr "Ґелларлек"
+
+#. Name for HIP 32349
+msgid "Warepil"
+msgstr "Варепіл"
+
+#. Name for HIP 24436
+msgid "Colowgulloric Warepil"
+msgstr "Коловґуллорський Варепіл"
+
+#. Name for HIP 94114
+msgid "Won"
+msgstr "Вон"
+
+#. Name for HIP 67480
+msgid "Weetkurrk"
+msgstr "Віт-куррк"
+
+#. Name for HIP 30438
+msgid "War"
+msgstr "Війна"
+
+#. Name for HIP 52526
+msgid "Collowgulloric War"
+msgstr "Колловґуллорська війна"
+
+#. Name for HIP 7588
+msgid "Yerredetkurrk"
+msgstr "Єрредет-куррк"
+
+#. Name for HIP 101958
+msgid "Otchocut"
+msgstr "Отчокат"
+
+#. Name for HIP 100027
+msgid "Collenbitchick"
+msgstr "Колленбітчик"
+
+#. Name for HIP 36850
+msgid "Yurree"
+msgstr "Юррі"
+
+#. Name for HIP 37826
+msgid "Wanjel"
+msgstr "Ванджел"
+
+#. Name for HIP 24608
+msgid "Purra"
+msgstr "Пурра"
+
+#. Name for HIP 33856
+msgid "Unurgunite"
+msgstr "Унургуніт"
+
+#. Name for NAME Sun, native: Gnowee
+#. Native name of the Sun in Boorong culture
+msgid "Day"
+msgstr "Дей"
+
+#. Name for NAME Moon, native: Mityan
+#. Native name of the Moon in Boorong culture
+msgid "Mityan"
+msgstr "Мітьян"
+
+#. Name for NAME Venus, native: Chargee Gnowee
+#. Native name of Venus in Boorong culture
+msgid "Elder sister"
+msgstr "Старша сестра"
+
+#. Name for NAME Jupiter, native: Ginabongbearp
+#. Native name of Jupiter in Boorong culture
+msgid "Sulphur-crested white cockatoo"
+msgstr "Білий какаду із жовтим гребінцем"
