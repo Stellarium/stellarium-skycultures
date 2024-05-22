@@ -1,0 +1,1156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
+"Language-Team: Lithuanian (https://app.transifex.com/stellarium/teams/80998/"
+"lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < "
+"11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? "
+"1 : n % 1 != 0 ? 2: 3);\n"
+
+#. Sky culture name
+msgid "Arabic (Lunar Mansions)"
+msgstr "Arabų (mėnulio stotelės)"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"The Arabic lunar stations describes the 28 sky areas chosen in ancient "
+"Arabia to define the daily location of the moon during its monthly trip "
+"around the sky."
+msgstr ""
+"Arabų mėnulio stotys aprašo 28 dangaus sritis, pasirinktas senovės "
+"Arabijoje, kad būtų apibrėžiama mėnulio kasdieninė padėtis jo mėnesinio "
+"kelio aplink dangų metu."
+
+#. Sky culture description section in markdown format
+msgid ""
+"#### Historical Overview\n"
+"\n"
+"Originally, *Manāzil al-Qamar*, the Arabic for the lunar mansions, or "
+"stations of the moon, were a system of 28 stars, group of stars, or spots in "
+"the sky near which the moon can be found in each of the 28 nights of its "
+"monthly revolution. Early mentions of the complete list of the lunar "
+"stations are reported by ʿAbd al-Malik ibn Ḥabīb (d. 852) on the authority "
+"of Mālik ibn Anas (d. 795) [#1]. However, this system had been adopted "
+"already in the pre-Islamic period, prior to the 7th century of the common "
+"era.\n"
+"\n"
+" Using heliacal observations, the asterisms of the lunar mansions served to "
+"divide the sidereal and solar year of 365 days into 28 periods of 13 days "
+"each except for one period that is given 14 days. These 28 periods are "
+"called *Anwāʾ*, plural of *nawʾ*. Each *Nawʾ* is determined by a "
+"characteristical star: when this star rises in the morning during dawn (in "
+"the east, so, shortly before the Sun), this is the beginning of the next "
+"*nawʾ*. The name of the *nawʾ* (period of time, half month), gives the lunar "
+"mansion its name. One complete cycle of setting and rising for each of the "
+"28 lunar mansions, one after the other, makes a solar year. This system was "
+"used to determine the seasons and predict weather, especially rain [#2]. The "
+"Arabs said: each *nawʾ* (period of 13/14 days) is characterized by a "
+"distinctive weather pattern of rain, wind, and temperature [#3].\n"
+"\n"
+"A detailed description of the stars of each lunar mansion, the times of "
+"their heliacal rising and a compilation of astronomical and meteorological "
+"knowledge of the ancient Arabs can be found in the *Book of meteorology* "
+"(Arabic: Kitāb al-anwāʾ), authored by Ibn Qutaybah (b. 828 - d. 884 or 889). "
+"Copies of this book manuscripts survived, and it was printed in India in "
+"1956 [#4].\n"
+"\n"
+" The usage of the lunar mansions continued to schedule the times of "
+"agricultural, travel and medicine practices. Due to the importance of "
+"observing the times of their heliacal risings, short treatises have been "
+"written, and poems have been composed describing the asterisms of the 28 "
+"mansions. A poem dedicated to description of the stars of the lunar mansions "
+"was published by Gustave-Adolphe de Calassanti-Motylinski in 1899 in his "
+"book *Les mansions lunaires chez les Arabes*, attributed to Muḥammad al-"
+"Maqri (1578-1638) [#5][#6]. A sample treatise is the one written by Shaikh "
+"Ṣāliḥ al-Shethrī (d. ~1891), titled *A time-table for farmers* [#7].\n"
+"\n"
+"#### Current Usage of Lunar Stations\n"
+"\n"
+" Agricultural almanacs based on the heliacal rising of lunar stations are "
+"still in active use today. The official calendar of Saudi Arabia includes "
+"these times [#8]. The following is an example of the use of a calendar based "
+"on the lunar stations for the 13 days period starting with the rise of the "
+"3rd lunar station *al-Thurayya* (Pleiades) on June 7th [#9]:\n"
+"\n"
+"> Weather gets hotter and wind gets stronger. Wild grasses dry. Water in "
+"wells gets shallower. Rain is rare during this time. Spring insects start to "
+"disappear. Palm tree dates starts to get its colors. It is recommended to "
+"irrigate trees with the right amounts and stop irrigation of vines when "
+"grapes start to get its color.\n"
+"\n"
+"#### Identification of the Lunar Stations\n"
+"\n"
+"Ibn Qutaybah (b. 828 - d. 884 or 889) in his book *Kitāb al-anwāʾ* gives "
+"detailed description of the stars of each lunar station while an accurate "
+"identification can be extracted from the *Book of Stars* by al-Sufi (d. "
+"986). In his book, al-Sufi maps the stars known to ancient Arabs to those of "
+"the Ptolemaic Constellations. An example of al-Sufi definitions of the stars "
+"of the lunar mansions, here is the definition of *al-Ġafr* [#10][#11]:\n"
+"\n"
+"> And the 22nd [star of Virgo] and the 23rd which is on the tail [hem of the "
+"garment] with the 25th on the left foot [of Virgo] are named [by the Arabs] "
+"*al-Ghafr* which is the 15th lunar mansion.\n"
+"\n"
+" Because the stars of the Ptolemaic constellations have known coordinates, "
+"it is relatively easy to identify the Arab star names.\n"
+"\n"
+"#### The 28 lunar stations\n"
+"\n"
+" 1. (Arabic: الشرطان) *Al-Sharaṭān* (The two signs) or (Arabic: الأشراط) *"
+"\"al-Ashrāṭ\"* (The signs) composed of the 3 stars: α Ari (Hamal), β Ari "
+"(Sheratan) and γ Ari (Mesarthim)\n"
+" 1. (Arabic: البطين) *Al-Buṭayn* (The small belly [of the little ram]) "
+"composed of the 3 stars: ε Ari, δ Ari (Botein), and ρ<sup>3</sup> Ari\n"
+" 1. (Arabic: الثريا) *Al-Thurayyā* (Pleiades) composed of the star cluster "
+"of the Pleiades\n"
+" 1. (Arabic: الدبران) *Al-Dabarān* (The Follower [of the Pleiades]) composed "
+"of the single star α Tau (Aldebaran)\n"
+" 1. (Arabic: الهقعة) *Al-Haqʿah* (The mark on the horse side) composed of "
+"the three stars on the head of Orion: λ Ori (Meissa), φ<sup>1</sup> Ori and "
+"φ<sup>2</sup> Ori\n"
+" 1. (Arabic: الهنعة*Al-Hanʿah* (The bend in the neck of a camel) composed of "
+"the 2 stars: γ Gem (Alhena) and ξ Gem\n"
+" 1. (Arabic: الذراع) *Al-Dhirāʾ* (Retracted arm [of the lion]) composed of "
+"the 2 stars: α CMi (Procyon) and β CMi (Gomeisa)\n"
+" 1. (Arabic: النثرة) *Al-Nathrah* (The tip of the nose of the lion) composed "
+"of the Praesepe cluster and the 2 stars: γ Cnc (Asellus Borealis) and δ Cnc "
+"(Asellus Australis)\n"
+" 1. (Arabic: الطرف) *Al-Ṭarf* (The eyes of the lion) composed of the 2 "
+"stars: ε Leo and ο Leo (Subra)\n"
+" 1. (Arabic: الجبهة) *Al-Ǧabhah* (The forehead of the lion) composed of 4 "
+"stars: ζ Leo (Adhafera), γ<sup>1</sup> Leo - γ<sup>2</sup> Leo (Algieba), η "
+"Leo and α Leo (Regulus)\n"
+" 1. (Arabic: الزبرة) *Al-Zubrah* (The mane of the lion) composed of the 2 "
+"stars: δ Leo (Zosma) and θ Leo (Chertan)\n"
+" 1. (Arabic: الصرفة) *Al-Ṣarfah* (The change to colder weather) composed of "
+"one star: β Leo (Denebola)\n"
+" 1. (Arabic: العوا) *Al-ʿAwwā* (The bend) composed of 5 stars: β Vir "
+"(Zavijava), η Vir (Zaniah), γ Vir (Porrima), δ Vir and ε Vir (Vindemiatrix)\n"
+" 1. (Arabic: السماك) *Al-Simāk* (The unarmed high one) composed of the star "
+"α Vir (Spica)\n"
+" 1. (Arabic: الغفر) *Al-Ġafr* (The cover) composed of 3 stars: ι Vir "
+"(Syrma), κ Vir and λ Vir\n"
+" 1. (Arabic: الزبانى) *Al-Zubānā* (The claws of the scorpion) composed of "
+"the 2 stars: α<sup>2</sup> Lib (Zubenelgenubi) and β Lib (Zubeneschamali)\n"
+" 1. (Arabic: الإكليل) *Al-Iklīl* (The ornamented headband, The diadem) "
+"composed of the 3 stars: β<sup>1</sup> Sco (Acrab), δ Sco (Dschubba) and π "
+"Sco.\n"
+" 1. (Arabic: القلب) *Al-Qalb* (The heart of the scorpion) composed of the "
+"star α Sco (Antares)\n"
+" 1. (Arabic: الشولة) *Al-Shawlah* (The sting of the scorpion) composed of "
+"the 2 stars: λ Sco (Shaula) and υ Sco (Lesath)\n"
+" 1. (Arabic: النعائم) *Al-Naʿaʾim* (The Ostriches) 8 stars: γ2 Sgr, δ Sgr, ε "
+"Sgr, η Sgr, σ Sgr, φ Sgr, τ Sgr, and ζ Sgr\n"
+" 1. (Arabic: البلدة*Al-Baldah* (The empty area) is the area where there are "
+"no stars (between *al-Naayem* and *Saad al-Thabih*)\n"
+" 1. (Arabic: سعد الذابح) *Saʿd al-Dhābiḥ* (The lucky star of the "
+"Slaughterer) composed of the 3 stars: α<sup>2</sup> Cap (Algedi), β Cap "
+"(Dabih), and ν Cap\n"
+" 1. (Arabic: سعد بلع) *Saʿd Bulaʿ* (The lucky star of the swallower) "
+"composed of the 3 stars: ν Aqr, μ Aqr and ε Aqr (Albali)\n"
+" 1. (Arabic: سعد السعود) *Saʿd al-Suʿūd* (The luckiest of the lucky stars) "
+"composed of the 3 stars: β Aqr (Sadalsuud), ξ Aqr and λ Cap\n"
+" 1. (Arabic: سعد الأخبية) *Saʿd al-Aḫbiyah* (The lucky stars of the tent "
+"dwellers) composed of the 4 stars: γ Aqr (Sadachbia), π Aqr, ζ<sup>1</sup> - "
+"ζ<sup>2</sup> Aqr and η Aqr\n"
+" 1. (Arabic: المقدم) *Al-Muqaddam* (The front bucket mouth) composed of the "
+"2 stars: α And (Alpheratz) and γ Peg (Algenib)\n"
+" 1. (Arabic: المؤخر) *Al-Muʾaḫar* (The rear bucket mouth) composed of the 2 "
+"stars: β Peg (Scheat) and α Peg (Markab)\n"
+" 1. (Arabic: الرشاء أو الحوت) *Al-Rishāʾ* or *al-Ḥūt* (The rope of the well "
+"bucket or The Fish) composed of the star β And (Mirach) and two arcs of "
+"stars making a figure of a fish\n"
+"\n"
+"##### The Super lion and al-Ǧawzāʾ figures of the ancient Arab star lore\n"
+"\n"
+" One may notice from the names of the 7th to the 15th lunar stations that "
+"they are part of a lion figure. This Arab lion figure covers around 100 "
+"degrees, a little bit more than half of the sky dome. From the names of "
+"these stars a lion figure can be constructed.\n"
+"\n"
+" Two of the lunar stations, *al-Haqʿah* and *al-Hanʿah*, are part of al-"
+"Ǧawzāʾ stars. al-Ǧawzāʾ is the figure covering Orion plus some stars around "
+"it. The ancient Arabs imagined these stars as a figure of a woman with a bow "
+"and arrow aimed at the lion (an image, probably influenced from Roman Egypt: "
+"see depiction on Denderah zodiac which shows Babylonian as well as Greek "
+"traces of constellations). Mr. Roland Laffitte discussed these two figures "
+"and offered a depiction of each in his article: [Our Arab Heritage in the "
+"CelestialVault](http://www.muslimheritage.com/article/our-arab-heritage-"
+"celestial-vault). A more detailed discussion of ancient Arab star lore is "
+"found in his book: &quot;Le Ciel des Arabes&quot; [#12]."
+msgstr ""
+"#### Istorinė apžvalga\n"
+"\n"
+"Pirmiausia, *Manāzil al-Qamar*, arabų kalba reiškianti mėnulio dvarus arba "
+"mėnulio stotis, buvo 28 žvaigždžių, žvaigždžių grupė arba dėmės dangaus, "
+"kuriose mėnulis gali būti rastas kiekvieną iš 28 savo mėnesinių apsisukimų "
+"naktį. Ankstyvieji paminėjimai apie visą mėnulio stotelių sąrašą yra "
+"pranešti ʿAbd al-Malik ibn Ḥabīb (m. 852) , remiantis Mālik ibn Anas (m. "
+"795) [#1]. Tačiau šis sistema jau buvo priimta priešislaminiu laikotarpiu, "
+"prieš bendrojo amžiaus 7-ąjį amžių.\n"
+"\n"
+" Naudodami heliakalinius stebėjimus, mėnulio stotelių asterizmai padėjo "
+"padalinti 365 dienų siderinius ir saulės metus į 28 laikotarpius, kurių "
+"kiekvienas truko po 13 dienų, išskyrus vieną laikotarpį, kuris truko 14 "
+"dienų. Šiuos 28 laikotarpius vadiname *Anwāʾ*, daugiskaita *nawʾ*. "
+"Kiekvienas *Nawʾ* nustatomas pagal charakteringą žvaigždę: kai ši žvaigždė "
+"rytais pakyla auštant (rytuose, trumpai prieš saulę), tai yra kitos *nawʾ* "
+"pradžia. *Nawʾ* (laiko tarpas, pusė mėnesio) pavadinimas suteikia mėnulio "
+"žvaigždynui jo pavadinimą. Vienas pilnas ciklas, kai kiekvienas iš 28 "
+"mėnulio žvaigždynų išnyksta ir pakyla vienas po kito, sudaro saulės metus. "
+"Šią sistemą naudojo nustatyti sezonai ir prognozuoti orą, ypač lietų [#2]. "
+"Arabai sakė: kiekvienam *nawʾ* (13/14 dienų laikotarpis) būdingas "
+"išskirtinis oro modelis - lietus, vėjas ir temperatūra [#3].\n"
+"\n"
+" Kiekvienos mėnulio stotelės žvaigždžių, jų heliakalinių pakilimo laikų "
+"išsamus aprašymas ir senovės arabų astronomijos ir meteorologijos žinių "
+"rinkinys gali būti rastas knygoje *\"Meteorologijos knyga\"* (arabų kalba: "
+"Kitāb al-anwāʾ), parašyta Ibn Qutaybah (g. 828 - m. 884 arba 889). Šios "
+"knygos rankraščiai išliko, o ji buvo spausdinta Indijoje 1956 m.[#4].\n"
+"\n"
+" Mėnulio dvarų naudojimas tęsėsi, planuojant žemės ūkio, kelionių ir "
+"medicinos praktikų laikus. Dėl svarbos stebėti jų heliakalinius pakilimus, "
+"buvo parašyti trumpi traktatai ir sudarytos eilės, aprašančios 28 dvarų "
+"žvaigždes. Eilėraštis, skirtas aprašyti mėnulio dvarų žvaigždes, buvo "
+"paskelbtas Gustave-Adolphe de Calassanti-Motylinski knygoje*Les mansions "
+"lunaires chez les Arabes* 1899 m., priskiriamas Muḥammadui al-Maqri "
+"(1578-1638)[#5][#6]. Pavyzdinis traktatas yra parašytas Šeicho Ṣāliḥui al-"
+"Shethrī (m. ~1891), pavadinimu *Laiko lentelė ūkininkams*[#7].\n"
+"\n"
+"#### Dabartinis Mėnulio stočių naudojimas\n"
+"\n"
+"<p> Žemės ūkio almanachai, pagrįsti Mėnulio stočių spiraliniu kilimu, vis "
+"dar aktyviai naudojami ir šiandien. Oficialus Saudo Arabijos kalendorius "
+"apima šiuos laikus [#8]. Toliau pateikiamas kalendoriaus, pagrįsto Mėnulio "
+"stotimis, naudojimo 13 dienų laikotarpiui, pradedant nuo 3-osios Mėnulio "
+"stoties *al-Thurayya* (Plejadės) pakilimo birželio 7 d., pavyzdys. <sup>< a "
+"href=\"#footnote-9\">[9]</a></sup>:\n"
+"\n"
+"> Oras šyla, o vėjas stiprėja. Laukinės žolės išdžiūsta. Vanduo šuliniuose "
+"tampa seklesnis. Šiuo metu lietus yra retas. Pavasariniai vabzdžiai pradeda "
+"nykti. Palmių datulės pradeda įgyti savo spalvas. Rekomenduojama laistyti "
+"medžius tinkamais kiekiais ir nutraukti vynmedžių laistymą, kai vynuogės "
+"pradeda įgauti spalvą.\n"
+"\n"
+" </p>\n"
+"\n"
+"#### Mėnulio stočių identifikavimas\n"
+"\n"
+"Ibn Qutaybah (g. 828 - m. 884 arba 889) savo knygoje *Kitāb al-anwāʾ* "
+"pateikia išsamų kiekvienos mėnulio stoties žvaigždžių aprašymą, tuo tarpu "
+"tikslus identifikavimas gali būti gautas iš al-Sufi (m. 986) *Žvaigždžių "
+"knygos*. Al-Sufi savo knygoje žemėlapyje pavaizduoja žvaigždes, žinomas "
+"senovės arabams, ir priskiria jas Ptolemėjaus žvaigždynams. Al-Sufi "
+"apibrėžimų pavyzdys mėnulio stoties žvaigždėms yra *al-Ġafr* apibrėžimas "
+"[#10][#11]:\n"
+"\n"
+"> Ir 22-oji [Mergelės žvaigždyno] ir 23-oji, esanti apačioje [drabužio] su "
+"25-ąja kairės kojos pėdoje [Mergelės], vadinami [arabų kalba] *al-Ghafr*, "
+"tai yra 15-oji mėnulio stotelė.\n"
+"\n"
+" Kadangi Ptolemėjaus žvaigždynų žvaigždžių koordinatės yra žinomos, arabų "
+"žvaigždžių pavadinimus palyginti lengva nustatyti.\n"
+"\n"
+"#### 28 mėnulio stotys\n"
+"\n"
+" 1. (arab. الشرطان) *Al-Sharaṭān* (Du ženklai) arba (arab. الأشراط) *„al-"
+"Ashrāṭ“* (Ženklai), kuriuos sudaro 3 žvaigždės: α Ari (Hamalis), β Ari "
+"(Šeratanas) ir γ Ari (Mesartimas).\n"
+" 1. (arab. البطين) *Al-Buṭayn* (Mažasis [avinėlio] pilvas), kurį sudaro 3 "
+"žvaigždės: ε Ari, δ Ari ( Boteinas) ir ρ<sup>3</sup> Ari.\n"
+" 1. (arab. الثريا) *Al-Thurayyā* (Plejadės), sudarytas iš Plejadžių "
+"žvaigždžių spiečiaus\n"
+" 1. (Arabiškai: الدبران) *Al-Dabarān* (Sekėjas[Plejadžių]) sudaro vienintelė "
+"žvaigždė α Tau (Aldebaranas)\n"
+" 1. (arab. الهقعة) *Al-Haqʿah* (Ženklas ant žirgo šono), sudarytas iš trijų "
+"žvaigždžių ant Oriono galvos: λ Ori (Meissa), φ<sup>1 </sup>Ori ir φ<sup>2</"
+"sup> Ori.\n"
+" 1. (arabiškai: الهنعة*Al-Hanʿah* (kupranugario kaklo išlinkimas), sudarytas "
+"iš 2 žvaigždžių: γ Gem (Alhena) ir ξ Gem\n"
+" 1. (arab. الذراع) *Al-Dhirāʾ* (Atitraukta [liūto] ranka), sudaryta iš 2 "
+"žvaigždžių: α CMi (Prokionas) ir β CMi (Gomeisa).\n"
+" 1. (arab. النثرة) *Al-Nathrah* (Liūto nosies galiukas), kurį sudaro "
+"Prakarto/Avilio spiečius ir 2 žvaigždės: γ Cnc (Asellus Borealis) ir δ Cnc "
+"(Asellus Australis).\n"
+" 1. (Arabiškai: الطرف) *Al-Ṭarf* (Liūto akys) sudarytas iš 2 žvaigždžių: ε "
+"Leo ir ο Leo (Subra)\n"
+" 1. (arab. الجبهة) *Al-Ǧabhah* (Liūto kakta), sudaryta iš 4 žvaigždžių: ζ "
+"Leo (Adhafera), γ<sup>1</sup> Leo - γ<sup>2</sup> Leo (Algieba), η Leo ir α "
+"Leo (Regulas).\n"
+" 1. (arab. الزبرة) *Al-Zubrah* (Liūto karčiai), sudaryta iš dviejų "
+"žvaigždžių: δ Leo (Zosma) ir θ Leo ( Čertanas).\n"
+" 1. (arabiškai: الصرفة) *Al-Ṣarfah* (Perėjimas prie šaltesnio oro), "
+"sudarytas iš vienos žvaigždės: β Leo (Denebola)\n"
+" 1. (arab. العوا) Al-ʿAwwā (posūkis), kurį sudaro 5 žvaigždės: β Vir "
+"(Zavijava), η Vir (Zanija), γ Vir (Porrima), δ Vir ir ε Vir (\"Vindemiatriksė"
+"\").\n"
+" 1. (Arabiškai: السماك) *Al-Simāk* (Ginkluotasis aukštas) sudarytas iš "
+"žvaigždės α Vir (Spika)\n"
+" 1. (arab. الغفر) *Al-Ġafr* (Dangtis), sudarytas iš 3 žvaigždžių: ι Vir "
+"(Syrma), κ Vir ir λ Vir\n"
+" 1. (Arabiškai الزبانى) *Al-Zubānā* (Skorpiono žnyplės) sudarytas iš 2 "
+"žvaigždžių: α<sup>2</sup> Lib (Zubenelgenubis) ir β Lib (Zubeneschamalis)\n"
+" 1. (Arabiškai: الإكليل) *Al-Iklīl* (Ornamentuotas galvos apdangalas, "
+"Diadema), sudarytas iš 3 žvaigždžių: β<sup>1</sup> Sco (Akrabas), δ Sco "
+"(Dskuba) ir π Sco.\n"
+" 1. (arab. القلب) *Al-Qalb* (Skorpiono širdis), sudaryta iš žvaigždės α Sco "
+"(Antaris)\n"
+" 1. (Arabiškai: الشولة) *Al-Shawlah* (Skorpiono geluonis) sudaro 2 "
+"žvaigždės: λ Sco (Šaula) ir υ Sco (Lesutas)\n"
+" 1. (arab. النعائم) *Al-Naʿaʾim* (Stručiai) 8 žvaigždės: γ2 Sgr, δ Sgr, ε "
+"Sgr, η Sgr, σ Sgr, φ Sgr, τ Sgr ir ζ Sgr\n"
+" 1. (arabų kalba: البلدة*Al-Baldah* (Tuščia teritorija) - tai sritis, "
+"kurioje nėra žvaigždžių (tarp *al-Naayem* ir *Saad al-Thabih*)\n"
+" 1. (arab. سعد الذابح) *Saʿd al-Dhābiḥ* (Laimingoji Skerdiko žvaigždė), "
+"sudaryta iš 3 žvaigždžių: α<sup>2</sup> Cap (Algedis), β Cap (Dabihas) ir ν "
+"Cap.\n"
+" 1. (arab. سعد بلع) *Saʿd Bulaʿ* (Laimingoji rijiko žvaigždė), sudaryta iš "
+"trijų žvaigždžių: ν Aqr, μ Aqr ir ε Aqr (Albalis).\n"
+" 1. (arabų k.: سعد السعود) *Saʿd al-Suʿūd* (Laimingiausia iš laimingų "
+"žvaigždžių), sudaryta iš trijų žvaigždžių: β Aqr (Sadalsudas), ξ Aqr ir λ "
+"Cap.\n"
+" 1. (arab. سعد الأخبية) *Saʿd al-Aḫbiyah* (Laimingos palapinių gyventojų "
+"žvaigždės), kurias sudaro 4 žvaigždės: γ Aqr (Sadachbija), π Aqr, ζ<sup>1</"
+"sup> - ζ<sup>2</sup> Aqr ir η Aqr.\n"
+" 1. (Arabų: المقدم) *Al-Muqaddam* (Priekinė kibiro ertmė) sudaryta iš 2 "
+"žvaigždžių: α And (Alferacas) ir γ Peg (Algenibas)\n"
+" 1. (Arabų: المؤخر) *Al-Muʾaḫar* (Galinė kibiro anga) sudarytas iš 2 "
+"žvaigždžių: β Peg (Šeatas) ir α Peg (Markabas)\n"
+" 1. (Arabiškai: الرشاء أو الحوت) *Al-Rishāʾ* arba *al-Ḥūt* (Geriamojo "
+"šulinio virvė arba žuvis) sudaro žvaigždės β And (Mirakas) ir du žvaigždžių "
+"lankai, sudarantys žuvies figūrą.\n"
+"\n"
+"##### Super liūtas ir al-Ǧawzāʾ iš senovės arabų žvaigždžių sakmių\n"
+"\n"
+" Iš 7-15 Mėnulio stočių pavadinimų galima pastebėti, kad jos yra liūto "
+"figūros dalis. Ši arabiškojo liūto figūra užima apie 100 laipsnių, t. y. "
+"kiek daugiau nei pusę dangaus skliauto. Iš šių žvaigždžių pavadinimų galima "
+"sudaryti liūto figūrą.\n"
+"\n"
+" Dvi Mėnulio stotys, *al-Haqʿah* ir *al-Hanʿah*, yra al-Ǧawzāʾ žvaigždžių "
+"dalis. al-Ǧawzāʾ - tai figūra, apimanti Orioną ir kai kurias aplink jį "
+"esančias žvaigždes. Senovės arabai šias žvaigždes įsivaizdavo kaip moters su "
+"lanku ir strėle, nukreipta į liūtą, figūrą (šis įvaizdis tikriausiai buvo "
+"paveiktas Romos Egipto: žr. atvaizdą Denderos zodiake, kuriame matyti "
+"babilonietiškų ir graikiškų žvaigždynų pėdsakų). P. Roland Laffitte savo "
+"straipsnyje aptarė šias dvi figūras ir pasiūlė kiekvienos iš jų atvaizdą: "
+"[Mūsų arabų paveldas dangaus skrynioje](http://www.muslimheritage.com/"
+"article/our-arab-heritage-celestial-vault). Išsamiau senovės arabų "
+"žvaigždžių legendos aptartos jo knygoje: &quot;Le Ciel des Arabes&quot;[#12]."
+
+#. Sky culture constellations section in markdown format
+msgid ""
+"In addition to the lunar stations, the prominent indigenous Arab asterisms "
+"have been added."
+msgstr "Be Mėnulio stočių, buvo pridėti žymūs vietiniai arabų asterizmai."
+
+#. Sky culture references section in markdown format
+msgid ""
+" - [#1]: <notr>Kunitzsch P. The Arabs and the Stars, Variorum reprints "
+"Northampton 1989, Al-Manazil, Item XX pp 1-7.</notr>\n"
+" - [#2]: <notr>Helaine Selin, Encyclopaedia of the History of Science, "
+"Technology, and Medicine in Non-Western Cultures, Lunar Mansions in Islamic "
+"History, Kunitzsch P. p 520</notr>\n"
+" - [#3]: <notr>Ibn Qutaybah (b. 828 d. 884 or 889), Kitab al-Anwā’, pp 6,7 "
+"(Arabic print of the original book in 1956 in India Hydarabad/Deccan)</"
+"notr>\n"
+" - [#4]: <notr>Helaine Selin, Encyclopaedia of the History of Science, "
+"Technology, and Medicine in Non-Western Cultures, Ibn Qutayba, Kunitzsch P. "
+"p 429</notr>\n"
+" - [#5]: <notr>Ta̕rīf manāzil alkamar, Les mansions lunaires des Arabes; "
+"Muhammad al-Mukrī.; A de Calassanti-Motylinski published in Alger, "
+"Imprimerie orientale, 1899.</notr>\n"
+" - [#6]: <notr>[<notr>Muhammad al-Muqrī poem</notr>](http://www.uranos.fr/"
+"DOCU_03_T03.htm)</notr>\n"
+" - [#7]: <notr>Salih al-Shethri, Timetable for farmers *<notr>Jadwal fi ilm "
+"al-harth ala hisaab al-shuthoor</notr>* (جدول في علم الحرث على حساب الشثور) "
+"ISBN 9960-49-971-5</notr>\n"
+" - [#8]: <notr>[<notr>Official Calendar of the Kingdom of Saudi Arabia</"
+"notr>](http://www.ummulqura.org.sa/)</notr>\n"
+" - [#9]: <notr>Moon stations and Agriculture seasons. A bulletin by the "
+"Agriculture Administration of the Chamber of Commerce in Riyadh, Saudi "
+"Arabia. 2002</notr>\n"
+" - [#10]: <notr>Book of the Stars by al-Sufi (died 986): Critical edition "
+"with commentary by Khalid AlAjaji, digital edition, 2021 AD, كتاب الكواكب "
+"لأبي الحسين عبد الرحمن بن عمر الرازي المعروف بالصوفي (291-376)، تحقيق خالد "
+"بن عبد الله .</notr>\n"
+" - [#11]: <notr>Schjellerup, Description des etoiles fixes, 1874, p. 163. "
+"(Translation into French)</notr>\n"
+" - [#12]: <notr>Laffitte, Roland, Le Ciel des Arabes, Geuthner, Paris 2012</"
+"notr>\n"
+" - [#13]: Ibn Qutaybah, Al-Dinawarī, Abū Muḥammad ʿAbd Allah b. Muslim (died "
+"~ 889), Kitab al-Anwāʾ (Book of meteorolgy), (Arabic print of the original "
+"book, Daʾirat al-Maʿarif al-Osmania, Hydarabad, India, 1956), أبو محمد عبد "
+"الله بن مسلم ابن قتيبة الدينوري (توفي 276 هـ)، كتاب الأنواء في مواسم العرب، "
+"دائرة المعارف العثمانية، حيدر أباد، الهند، 1375 هـ\n"
+" - [#14]: Al-Marzūqī, Abū ʿAli Aḥmad b. Muḥammad b. al-Ḥassan (died 1030), "
+"Al-Azminah wa al-amkinah (Times and Places), (Arabic print of the original "
+"book in 2002, World of Books, Beirut, Lebanon)., الإمام أبو علي أحمد بن محمد "
+"بن الحسن المرزوقي (توفي سنة 421 هـ)، الأزمنة والأمكنة، تحقيق د. محمد نايف "
+"الدليمي، عالم الكتب، بيروت، لبنان، 1422 هـ.\n"
+" - [#15]: Al-Ṯaqafī, ʿAbd Allah b. Ḥussayn b. ʿĀṣim (died ~ 1012), Al-Anwāʾ "
+"wa al-azminah (Meteorology and times), (Arabic print of the original book in "
+"1996, Dar al-jeel, Beirut, Lebanon), عبد الله بن حسين بن عاصم الثقفي (توفي "
+"403 هـ)، الأنواء والأزمنة، تحقيق: د. نوري حمودي القيسي، د. محمد نايف "
+"الدليمي، دار الجيل، بيروت، لبنان، 1416 هـ.\n"
+" - [#16]:  [Book of the stars by al-Ṣūfī (died 986): Critical edition with "
+"commentary by Khalid al-Ajaji, digital edition, 2021, كتاب الكواكب لأبي "
+"الحسين عبد الرحمن بن عمر الرازي المعروف بالصوفي (291-376)، تحقيق خالد بن عبد "
+"الله العجاجي](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)"
+msgstr ""
+" - [#1]: Kunitzsch P. The Arabs and the Stars, Variorum reprints Northampton "
+"1989, Al-Manazil, Item XX pp 1-7.\n"
+" - [#2]: Helaine Selin, Encyclopaedia of the History of Science, Technology, "
+"and Medicine in Non-Western Cultures, Lunar Mansions in Islamic History, "
+"Kunitzsch P. p 520\n"
+" - [#3]: Ibn Qutaybah (b. 828 d. 884 or 889), Kitab al-Anwā’, pp 6,7 (Arabic "
+"print of the original book in 1956 in India Hydarabad/Deccan)\n"
+" - [#4]: Helaine Selin, Encyclopaedia of the History of Science, Technology, "
+"and Medicine in Non-Western Cultures, Ibn Qutayba, Kunitzsch P. p 429\n"
+" - [#5]: Ta̕rīf manāzil alkamar, Les mansions lunaires des Arabes; Muhammad "
+"al-Mukrī.; A de Calassanti-Motylinski published in Alger, Imprimerie "
+"orientale, 1899.\n"
+" - [#6]: <notr>[Muhammad al-Muqrī poem](http://www.uranos.fr/DOCU_03_T03."
+"htm)</notr>\n"
+" - [#7]: <notr>Salih al-Shethri, Timetable for farmers *Jadwal fi ilm al-"
+"harth ala hisaab al-shuthoor* (جدول في علم الحرث على حساب الشثور) ISBN "
+"9960-49-971-5</notr>\n"
+" - [#8]: <notr>[Official Calendar of the Kingdom of Saudi Arabia](http://www."
+"ummulqura.org.sa/)</notr>\n"
+" - [#9]: Moon stations and Agriculture seasons. A bulletin by the "
+"Agriculture Administration of the Chamber of Commerce in Riyadh, Saudi "
+"Arabia. 2002\n"
+" - [#10]: Book of the Stars by al-Sufi (died 986): Critical edition with "
+"commentary by Khalid AlAjaji, digital edition, 2021 AD, كتاب الكواكب لأبي "
+"الحسين عبد الرحمن بن عمر الرازي المعروف بالصوفي (291-376)، تحقيق خالد بن عبد "
+"الله .\n"
+" - [#11]: Schjellerup, Description des etoiles fixes, 1874, p. 163. "
+"(Translation into French)\n"
+" - [#12]: Laffitte, Roland, Le Ciel des Arabes, Geuthner, Paris 2012\n"
+" - [#13]: Ibn Qutaybah, Al-Dinawarī, Abū Muḥammad ʿAbd Allah b. Muslim (died "
+"~ 889), Kitab al-Anwāʾ (Book of meteorolgy), (Arabic print of the original "
+"book, Daʾirat al-Maʿarif al-Osmania, Hydarabad, India, 1956), أبو محمد عبد "
+"الله بن مسلم ابن قتيبة الدينوري (توفي 276 هـ)، كتاب الأنواء في مواسم العرب، "
+"دائرة المعارف العثمانية، حيدر أباد، الهند، 1375 هـ\n"
+" - [#14]: Al-Marzūqī, Abū ʿAli Aḥmad b. Muḥammad b. al-Ḥassan (died 1030), "
+"Al-Azminah wa al-amkinah (Times and Places), (Arabic print of the original "
+"book in 2002, World of Books, Beirut, Lebanon)., الإمام أبو علي أحمد بن محمد "
+"بن الحسن المرزوقي (توفي سنة 421 هـ)، الأزمنة والأمكنة، تحقيق د. محمد نايف "
+"الدليمي، عالم الكتب، بيروت، لبنان، 1422 هـ.\n"
+" - [#15]: Al-Ṯaqafī, ʿAbd Allah b. Ḥussayn b. ʿĀṣim (died ~ 1012), Al-Anwāʾ "
+"wa al-azminah (Meteorology and times), (Arabic print of the original book in "
+"1996, Dar al-jeel, Beirut, Lebanon), عبد الله بن حسين بن عاصم الثقفي (توفي "
+"403 هـ)، الأنواء والأزمنة، تحقيق: د. نوري حمودي القيسي، د. محمد نايف "
+"الدليمي، دار الجيل، بيروت، لبنان، 1416 هـ.\n"
+" - [#16]:  [Book of the stars by al-Ṣūfī (died 986): Critical edition with "
+"commentary by Khalid al-Ajaji, digital edition, 2021, كتاب الكواكب لأبي "
+"الحسين عبد الرحمن بن عمر الرازي المعروف بالصوفي (291-376)، تحقيق خالد بن عبد "
+"الله العجاجي](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)"
+
+#. Sky culture authors section in markdown format
+msgid ""
+" Khalid al-Ajaji with additional documentation of this file by Susanne M "
+"Hoffmann."
+msgstr ""
+" Khalidas al- Adžadžis ir Siuzanos M. Hofman parengti papildomi šios bylos "
+"dokumentai."
+
+#. Arabic (Lunar Mansions) constellation, native: الطرف
+msgid "The Eyes"
+msgstr "Akys"
+
+#. Arabic (Lunar Mansions) constellation, native: الثريا
+#. Name for M 45
+#. Al-Thurayya is a proper name for the Pleiades
+msgid "Al-Thurayya"
+msgstr "Al-Turaja"
+
+#. Name for HIP 65477
+#. This is a proper name
+msgid "Al-Suha"
+msgstr "Al-Suha"
+
+#. Name for HIP 25336
+#. This is a proper name
+msgid "Al-Najidh"
+msgstr "Al-Nadždi"
+
+#. Name for HIP 7588
+#. This is a proper name
+msgid "Al-Wazn"
+msgstr "Al-Vaznas"
+
+#. Name for HIP 2081
+#. This is a proper name
+msgid "Hadari"
+msgstr "Hadaris"
+
+#. Arabic (Lunar Mansions) constellation, native: البطين
+msgid "The Little Abdomen"
+msgstr "Mažas pilvas"
+
+#. Name for HIP 18532
+msgid "The Arm"
+msgstr "Ranka"
+
+#. Arabic (Lunar Mansions) constellation, native: النثرة
+msgid "The Nostrils"
+msgstr "Šnervės"
+
+#. Arabic (Lunar Mansions) constellation, native: الجبهة
+msgid "The Forehead"
+msgstr "Kakta"
+
+#. Arabic (Lunar Mansions) constellation, native: الزبرة
+msgid "The Mane"
+msgstr "Karčiai"
+
+#. Arabic (Lunar Mansions) constellation, native: العوا
+msgid "The Bend"
+msgstr "Vingis"
+
+#. Arabic (Lunar Mansions) constellation, native: الغفر
+msgid "The Cover"
+msgstr "Viršelis"
+
+#. Arabic (Lunar Mansions) constellation, native: الزبانى
+msgid "Claws Of The Scorpion"
+msgstr "Skorpiono žnyplės"
+
+#. Arabic (Lunar Mansions) constellation, native: الإكليل
+msgid "The Diadem"
+msgstr "Diadema"
+
+#. Arabic (Lunar Mansions) constellation, native: الشولة
+#. Name for HIP 85927
+msgid "Raised Tail Of The Scorpion"
+msgstr "Pakelta Skorpiono Uodega"
+
+#. Arabic (Lunar Mansions) constellation, native: العقرب
+msgid "The Scorpion"
+msgstr "Skorpionas"
+
+#. Arabic (Lunar Mansions) constellation, native: البلدة
+msgid "The Empty Place"
+msgstr "Tuščia vieta"
+
+#. Arabic (Lunar Mansions) constellation, native: النعائم
+msgid "The Ostriches"
+msgstr "Stručiai"
+
+#. Arabic (Lunar Mansions) constellation, native: سعد الذابح
+msgid "The Lucky Star Of The Slaughterer"
+msgstr "Skerdiko laimingoji žvaigždė"
+
+#. Arabic (Lunar Mansions) constellation, native: سعد بلع
+msgid "The Lucky Star Of The Swallower"
+msgstr "Rijiko laimingoji žvaigždė"
+
+#. Arabic (Lunar Mansions) constellation, native: سعد السعود
+msgid "The Luckiest Of The Lucky Stars"
+msgstr "Laimingiausia iš laimingiausių žvaigždžių"
+
+#. Arabic (Lunar Mansions) constellation, native: سعد الأخبية
+msgid "The Lucky Star Of The Tents"
+msgstr "Laimingoji palapinės žvaigždė"
+
+#. Arabic (Lunar Mansions) constellation, native: الهقعة
+#. Name for HIP 26366
+msgid "The Circular Mark"
+msgstr "Apskritas ženklas"
+
+#. Arabic (Lunar Mansions) constellation, native: الهنعة
+msgid "The Downward Bend"
+msgstr "Žemyn nukreiptas vingis"
+
+#. Arabic (Lunar Mansions) constellation, native: الجوزاء
+#. Al-Jawza is a proper name
+msgid "Al-Jawza"
+msgstr "Al-Džavza"
+
+#. Name for HIP 11767
+msgid "The Kid"
+msgstr "Vaikas"
+
+#. Name for HIP 36046
+msgid "The Claws 1"
+msgstr "Nagai 1"
+
+#. Name for HIP 36962
+msgid "The Claws 2"
+msgstr "Nagai 2"
+
+#. Name for HIP 37740
+msgid "The Claws 3"
+msgstr "Nagai 3"
+
+#. Name for HIP 35550
+msgid "The Claws 4"
+msgstr "Nagai 4"
+
+#. Name for HIP 34088
+msgid "The Claws 5"
+msgstr "Nagai 5"
+
+#. Name for HIP 35350
+msgid "The Claws 6"
+msgstr "Nagai 6"
+
+#. Arabic (Lunar Mansions) constellation, native: الصرفة
+#. Name for HIP 57632
+msgid "Star Of Weather Change"
+msgstr "Oro kaitos žvaigždė"
+
+#. Arabic (Lunar Mansions) constellation, native: القلب
+#. Name for HIP 80763
+msgid "The Heart"
+msgstr "Širdis"
+
+#. Name for HIP 24436
+#. Al-Jawza is a proper name
+msgid "Leg Of Al-Jawza"
+msgstr "Al-Džavzos koja"
+
+#. Name for HIP 30438
+#. This is a proper name
+msgid "Suhayl"
+msgstr "Suhailis"
+
+#. Arabic (Lunar Mansions) constellation, native: الفرقدان
+msgid "The Two Oryx Calves"
+msgstr "Du Orikso jaunikliai"
+
+#. Arabic (Lunar Mansions) constellation, native: فأس الرحى
+msgid "The Axe Of The Grindstone"
+msgstr "Galąstuvo ašis"
+
+#. Arabic (Lunar Mansions) constellation, native: بنات نعش
+#. Na'sh is a proper name
+msgid "Daughters Of Na'sh"
+msgstr "Naš dukterys"
+
+#. Arabic (Lunar Mansions) constellation, native: القفزة الأولى
+msgid "The First Leap"
+msgstr "Pirmasis šuolis"
+
+#. Arabic (Lunar Mansions) constellation, native: القفزة الثانية
+msgid "The Second Leap"
+msgstr "Antrasis šuolis"
+
+#. Arabic (Lunar Mansions) constellation, native: القفزة الثالثة
+msgid "The Third Leap"
+msgstr "Trečiasis šuolis"
+
+#. Arabic (Lunar Mansions) constellation, native: الذئبان
+msgid "The Two Wolves"
+msgstr "Du vilkai"
+
+#. Arabic (Lunar Mansions) constellation, native: العوائذ
+msgid "The Mother Camels"
+msgstr "Motinos kupranugarės"
+
+#. Arabic (Lunar Mansions) constellation, native: قصعة المساكين
+msgid "The Bowl Of The Poor"
+msgstr "Vargšų dubuo"
+
+#. Name for HIP 91262
+msgid "The Landing Eagle"
+msgstr "Besileidžiantis erelis"
+
+#. Name for HIP 97649
+msgid "The Flying Eagle"
+msgstr "Skraidantis erelis"
+
+#. Arabic (Lunar Mansions) constellation, native: الناقة
+msgid "The She-Camel"
+msgstr "Kupranugarė"
+
+#. Name for HIP 18246
+msgid "The Shoulder Blade"
+msgstr " Peties mentė"
+
+#. Name for HIP 18614
+msgid "The Shoulder"
+msgstr "Petys"
+
+#. Name for HIP 15863
+msgid "The Elbow"
+msgstr "Alkūnė"
+
+#. Name for HIP 14328
+msgid "The Forearm"
+msgstr "Dilbis"
+
+#. Name for HIP 11020
+msgid "The Wrist"
+msgstr "Riešas"
+
+#. Name for HIP 9640
+msgid "The Caracal"
+msgstr "Karakalas"
+
+#. Arabic (Lunar Mansions) constellation, native: الفرغ المقدم
+msgid "The Front Bucket Mouth"
+msgstr "Priekinė kibiro anga"
+
+#. Arabic (Lunar Mansions) constellation, native: الفرغ المؤخر
+msgid "The Rear Bucket Mouth"
+msgstr "Galinė kibiro anga"
+
+#. Arabic (Lunar Mansions) constellation, native: الرشاء
+msgid "The Fish"
+msgstr "Žuvis"
+
+#. Arabic (Lunar Mansions) constellation, native: الشرطان
+msgid "The Two Signs"
+msgstr "Du ženklai"
+
+#. Arabic (Lunar Mansions) constellation, native: الدبران
+#. Name for HIP 21421
+#. This is a proper name
+msgid "Al-Dabaran"
+msgstr "Al-Dabaranas"
+
+#. Arabic (Lunar Mansions) constellation, native: الذراع المقبوضة
+msgid "The Retracted Arm"
+msgstr "Įtraukta ranka"
+
+#. Arabic (Lunar Mansions) constellation, native: الذراع المبسوطة
+msgid "The Extended Arm"
+msgstr "Ištiesta ranka"
+
+#. Arabic (Lunar Mansions) constellation, native: النعام الوارد
+msgid "The Ostriches Drinking At The River"
+msgstr "Stručiai prie upės geria vandenį"
+
+#. Arabic (Lunar Mansions) constellation, native: النعام الصادر
+msgid "The Ostriches Leaving The River"
+msgstr "Stručiai palieka upę"
+
+#. Arabic (Lunar Mansions) constellation, native: الأدحي - القلادة
+msgid "The Ostrich Nest - The Necklace"
+msgstr "Stručio lizdas - Vėrinys"
+
+#. Arabic (Lunar Mansions) constellation, native: سعد ناشرة
+msgid "The Lucky Star Of Nashira"
+msgstr "Laimingoji Naširos žvaigždė"
+
+#. Arabic (Lunar Mansions) constellation, native: سعد الملك
+msgid "The Lucky Star Of The King"
+msgstr "Karaliaus laimingoji žvaigždė"
+
+#. Arabic (Lunar Mansions) constellation, native: سعد البهام
+msgid "The Lucky Star Of The Young Sheep"
+msgstr "Jauno avinėlio laimingoji žvaigždė"
+
+#. Arabic (Lunar Mansions) constellation, native: سعد الهمام
+msgid "The Lucky Star Of The One With Great Endeavour"
+msgstr "Laimingoji žvaigždė to, kuris labai stengiasi"
+
+#. Arabic (Lunar Mansions) constellation, native: سعد البارع
+msgid "The Lucky Star Of The Excellent One"
+msgstr "Puikiojo Laimingoji žvaigždė"
+
+#. Arabic (Lunar Mansions) constellation, native: سعد مطر
+#. Matar is a proper name meaning rain.
+msgid "The Lucky Star Of Matar"
+msgstr "Laimingoji Mataro žvaigždė"
+
+#. Arabic (Lunar Mansions) constellation, native: النظم
+msgid "The String"
+msgstr "Styga"
+
+#. Arabic (Lunar Mansions) constellation, native: الصردان
+msgid "The Two Shrikes"
+msgstr "Du skėriai"
+
+#. Arabic (Lunar Mansions) constellation, native: اليمامتان
+msgid "The Two Doves"
+msgstr "Du balandžiai"
+
+#. Arabic (Lunar Mansions) constellation, native: الظليمان
+msgid "The Two Male Ostriches"
+msgstr "Du patinai stručiai"
+
+#. Name for NGC 869
+msgid "The Wrist 1"
+msgstr "Riešas 1"
+
+#. Name for NGC 884
+msgid "The Wrist 2"
+msgstr "Riešas 2"
+
+#. Name for M 44
+msgid "The Lion's Nostrils"
+msgstr "Liūto šnervės"
+
+#. Name for NAME Jupiter, native: المشتري
+#. Al-Mushtari is the native proper name for Jupiter, derived from shining like light shining. See Ref. # 2.
+msgid "The Shining One"
+msgstr "Švytintis"
+
+#. Name for NAME Venus, native: الزهرة
+#. Az- Zuharah is the native proper name for Venus, derived from brightness and beauty. See Ref. # 2.
+msgid "The Beautiful Bright One"
+msgstr " Gražioji šviesioji"
+
+#. Name for NAME Mars, native: المريخ
+#. Al-Merrikh is the native proper name for Mars, derived from Marakh (ARABIC: مرخ), a plant which is used to start fire. See Ref. # 2.
+msgid "The Fire Starter"
+msgstr "Degtuvas"
+
+#. Name for NAME Mercury, native: عطارد
+#. Utarid is the native proper name for Mercury, derived from unstableness (mercurial).  See Ref. # 2.
+msgid "The Unstable"
+msgstr "Nestabilus"
+
+#. Name for NAME Sun, native: الشمس
+#. Ush-shams is the native proper name for the Sun.
+msgid "Ush-Shams"
+msgstr "Uš-Šams"
+
+#. Name for NAME Moon, native: القمر
+#. Al-Qamar is the native proper name for the Moon, derived from strong whiteness.  See Ref. # 2. and Taj al-Arous lexicon.
+msgid "The Strongly White"
+msgstr "Stipriai balta"
+
+#. Name for HIP 72607
+msgid "The Two Calves 1"
+msgstr "Du veršeliai 1"
+
+#. Name for HIP 75097
+msgid "The Two Calves 2"
+msgstr "Du veršeliai 2"
+
+#. Name for HIP 62956
+msgid "The Dark Camel"
+msgstr "Tamsus kupranugaris"
+
+#. Name for HIP 65378
+msgid "The Little Goat"
+msgstr "Mažytis ožiukas"
+
+#. Name for HIP 67301
+msgid "The Leader"
+msgstr "Lyderis"
+
+#. Name for HIP 63125
+msgid "Liver Of The Lion"
+msgstr "Liūto kepenys"
+
+#. Name for HIP 86782
+msgid "The Baby Camel"
+msgstr "Jauniklis kupranugaris"
+
+#. Name for HIP 83895
+msgid "The Two Wolves 1"
+msgstr "Du vilkai 1"
+
+#. Name for HIP 80331
+msgid "The Two Wolves 2"
+msgstr "Du vilkai 2"
+
+#. Name for HIP 75458
+msgid "The Male Hyena"
+msgstr "Hienos patinas"
+
+#. Name for HIP 116727
+msgid "The [Northern] Shepherd"
+msgstr "[Šiaurinis] piemuo"
+
+#. Name for HIP 114222
+msgid "The [Northern] Shepherd Dog"
+msgstr "[Šiaurinio] piemens šuo"
+
+#. Name for HIP 105199
+msgid "The White One"
+msgstr "Baltasis"
+
+#. Name for HIP 108917
+msgid "The Horse Forehead Star"
+msgstr "Arklio kaktos žvaigždė"
+
+#. Name for HIP 69673
+msgid "The High One With The Spear"
+msgstr "Aukštasis su ietimi"
+
+#. Name for HIP 67927
+msgid "The Spear 1"
+msgstr "Ietis 1"
+
+#. Name for HIP 72105
+msgid "The Spear 2"
+msgstr "Ietis 2"
+
+#. Name for HIP 76267
+msgid "The Bright Star Of Al-Fakkah"
+msgstr "Šviesi žvaigždė Al-Fakkah"
+
+#. Name for HIP 102098
+msgid "The Rear Knight"
+msgstr "Galinis riteris"
+
+#. Name for HIP 94779
+msgid "The Knights 1"
+msgstr "Riteriai 1"
+
+#. Name for HIP 97165
+msgid "The Knights 2"
+msgstr "Riteriai 2"
+
+#. Name for HIP 100453
+msgid "The Knights 3"
+msgstr "Riteriai 3"
+
+#. Name for HIP 102488
+msgid "The Knights 4"
+msgstr "Riteriai 4"
+
+#. Name for HIP 104732
+msgid "The Knights 5"
+msgstr "Riteriai 5"
+
+#. Name for HIP 16335
+msgid "Bend Of The Hand"
+msgstr "Alkūnė"
+
+#. Name for HIP 17358
+msgid "Tip Of The Elbow"
+msgstr "Alkūnės galiukas"
+
+#. Name for HIP 24608
+#. This is a proper name
+msgid "Al-Ayyuq"
+msgstr "Al-Ajukas"
+
+#. Name for HIP 23015
+#. Al-Ayyuq is a proper name
+msgid "Foot Of Al-Ayyuq"
+msgstr "Al- Ajuko pėda"
+
+#. Name for HIP 28360
+msgid "The Posts 1"
+msgstr "Postai 1"
+
+#. Name for HIP 28380
+msgid "The Posts 2"
+msgstr "Postai 2"
+
+#. Name for HIP 25428
+msgid "The Posts 3"
+msgstr "Postai 3"
+
+#. Name for HIP 86032
+msgid "The [Southern] Shepherd"
+msgstr "[Pietinis] piemuo"
+
+#. Name for HIP 84345
+msgid "First Dog Of The [Southern] Shepherd"
+msgstr "Pirmasis [Pietų] piemens šuo"
+
+#. Name for HIP 86742
+msgid "Second Dog Of The [Southern] Shepherd"
+msgstr "Antrasis [Pietų] piemens šuo"
+
+#. Name for HIP 677
+msgid "The Rear Bucket Mouth 2"
+msgstr " Galinė kibiro anga 2"
+
+#. Name for HIP 1067
+msgid "The Rear Bucket Mouth 1"
+msgstr " Galinė kibiro anga 1"
+
+#. Name for HIP 113881
+msgid "The Front Bucket Mouth 2"
+msgstr "Priekinė kibiro anga 2"
+
+#. Name for HIP 113963
+msgid "The Front Bucket Mouth 1"
+msgstr "Priekinė kibiro anga 1"
+
+#. Name for HIP 5447
+msgid "Abdomen Of The Fish"
+msgstr "Žuvies pilvas"
+
+#. Name for HIP 8796
+msgid "The Two Forelegs 1"
+msgstr "Dvi priekinės kojos 1"
+
+#. Name for HIP 10064
+msgid "The Two Forelegs 2"
+msgstr "Dvi priekinės kojos 2"
+
+#. Name for HIP 29655
+msgid "Stars Of Abundant Rain 1"
+msgstr "Gausaus lietaus žvaigždės 1"
+
+#. Name for HIP 30343
+msgid "Stars Of Abundant Rain 2"
+msgstr "Gausaus lietaus žvaigždės 2"
+
+#. Name for HIP 30883
+msgid "Stars Of Abundant Rain 3"
+msgstr "Gausaus lietaus žvaigždės 3"
+
+#. Name for HIP 31681
+#. This is a proper name
+msgid "Az-Zir"
+msgstr "Az-Ziras"
+
+#. Name for HIP 32362
+#. This is a proper name
+msgid "Al-Maysan"
+msgstr "Al-Maisanas"
+
+#. Arabic (Lunar Mansions) constellation, native: السماك الأعزل
+#. Name for HIP 65474
+msgid "The Unarmed High One"
+msgstr "Neginkluotas didysis"
+
+#. Name for HIP 80112
+msgid "Veins Of The Heart 1"
+msgstr "Širdies venos 1"
+
+#. Name for HIP 81266
+msgid "Veins Of The Heart 2"
+msgstr "Širdies venos 2"
+
+#. Name for HIP 82396
+msgid "Tail Segments Of The Scorpion 1"
+msgstr "Skorpiono uodegos segmentai 1"
+
+#. Name for HIP 82514
+msgid "Tail Segments Of The Scorpion 2"
+msgstr "Skorpiono uodegos segmentai 2"
+
+#. Name for HIP 82729
+msgid "Tail Segments Of The Scorpion 3"
+msgstr "Skorpiono uodegos segmentai 3"
+
+#. Name for HIP 84143
+msgid "Tail Segments Of The Scorpion 4"
+msgstr "Skorpiono uodegos segmentai 4"
+
+#. Name for HIP 86228
+msgid "Tail Segments Of The Scorpion 5"
+msgstr "Skorpiono uodegos segmentai 5"
+
+#. Name for HIP 87073
+msgid "Tail Segments Of The Scorpion 6"
+msgstr "Skorpiono uodegos segmentai 6"
+
+#. Name for HIP 86670
+msgid "Tail Segments Of The Scorpion 7"
+msgstr "Skorpiono uodegos segmentai 7"
+
+#. Name for HIP 101772
+msgid "The Two Shrikes 1"
+msgstr "Dvi medšarkės 1"
+
+#. Name for HIP 100751
+msgid "The Two Shrikes 2"
+msgstr "Dvi medšarkės 2"
+
+#. Name for HIP 109268
+msgid "The Two Doves 1"
+msgstr "Du balandžiai 1"
+
+#. Name for HIP 112122
+msgid "The Two Doves 2"
+msgstr "Du balandžiai 2"
+
+#. Name for HIP 113368
+msgid "The Two Male Ostriches 1"
+msgstr "Du patinai stručiai 1"
+
+#. Name for HIP 3419
+msgid "The Two Male Ostriches 2"
+msgstr "Du patinai stručiai 2"
+
+#. Name for HIP 27989
+#. Al-Jawza is a proper name
+msgid "Shoulder Of Al-Jawza"
+msgstr "Al-Džavzos petys"
+
+#. Name for HIP 32349
+#. Al-Shi'ra is a proper name of Sirius
+msgid "The Southern Shi'ra"
+msgstr "Pietinė šiira"
+
+#. Name for HIP 30324
+#. Mirzam is an associate star of the crossing Shi'ra which is a proper Arabic name of Sirius
+msgid "Mirzam Of The Crossing Shi'ra"
+msgstr "Šiiros kryžkelės Mirzamas"
+
+#. Name for HIP 37279
+#. Al-Shi'ra is a proper name
+msgid "The Northern Shi'ra"
+msgstr "Šiaurinė šiira"
+
+#. Name for HIP 36188
+#. Mirzam is an associate star of the tearful Shi'ra, which is a proper Arabic name of Procyon. The two stars together are called the Arm.
+msgid "Mirzam of The Arm"
+msgstr "Rankos Mirzamas"
+
+#. Name for HIP 32768
+#. This is a proper name
+msgid "Suhayl Balqayn"
+msgstr "Suhailis Balkuain"
+
+#. Name for HIP 39429
+#. This is a proper name
+msgid "Suhayl Hadari"
+msgstr "Suhailis Hadari"
+
+#. Name for HIP 39953
+#. This is a proper name
+msgid "Suhayl Al-Wazn"
+msgstr "Suhailis Al-Vazn"
+
+#. Name for HIP 44816
+#. This is a proper name
+msgid "Suhayl Raqashi"
+msgstr "Suhailis Rakuaši"
+
+#. Name for HIP 7588
+msgid "Oath Star"
+msgstr "Priesaikos žvaigždė"
+
+#. Arabic (Lunar Mansions) constellation, native: رأس الناقة
+msgid "The Camel Head"
+msgstr "Kupranugario galva"
+
+#. Arabic (Lunar Mansions) constellation, native: عنق الناقة
+msgid "The Camel Neck"
+msgstr "Kupranugario kaklas"
+
+#. Arabic (Lunar Mansions) constellation, native: يدا الناقة
+msgid "The Camel Front Legs"
+msgstr "Kuranugario priekinės kojos"
+
+#. Arabic (Lunar Mansions) constellation, native: الكرب - النعام
+msgid "The Bucket Rope Knot - The Well Poles"
+msgstr "Kibiro virvės mazgas - Šulinio stulpai"
+
+#. Name for NAME Saturn, native: زحل
+#. Zuhal is the native proper name for Saturn, derived from remoteness.  See Ref. # 2.
+msgid "The Remote One"
+msgstr "Tolimoji"
+
+#. Name for HIP 746
+msgid "The Camel Hump"
+msgstr "Kupranugario kupra"
+
+#. Name for HIP 46390
+msgid "The sole one"
+msgstr "Vienišė"
