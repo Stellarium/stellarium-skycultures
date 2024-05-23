@@ -1,0 +1,651 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
+"Language-Team: Hindi (https://app.transifex.com/stellarium/teams/80998/hi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Sky culture name
+msgid "Indian Vedic"
+msgstr "भारतीय वैदिक"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"Vedic sky culture with some commonly known constellations related to "
+"Nakṣatra-s."
+msgstr "वैदिक आकाश दर्शन। कुछ सामान्यतः ज्ञात नक्षत्र सम्बन्धित तारामण्डलों के साथ।"
+
+#. Sky culture description section in markdown format
+msgid ""
+"### <notr>Rāśi (राशिः)</notr>\n"
+"\n"
+"The sidereal zodiac is an imaginary belt of 360 degrees (like the tropical "
+"zodiac), divided into 12 equal parts. Each twelfth part (of 30 degrees) is "
+"called a sign or rashi. Their names are shown in (brackets).\n"
+"\n"
+"In stellarium, we show Rāśi constellations attached to the corresponding "
+"asterisms, and not as divisions of the ecliptic offset away from their "
+"original locations to account for precession.\n"
+"\n"
+"In traditional astronomy there are two systems of measuring time - Lunar "
+"Calender & Solar calender. In both cases one year is divided into 12 months "
+"or \"māsā\". Name of the solar months originated from these constellation' "
+"names.\n"
+"\n"
+"### <notr>Nakṣatra (नक्षत्रम्)</notr>\n"
+"\n"
+"In Hindu tradition the ecliptic is divided into 27 parts of approximately "
+"13°20', which correspond with 27 asterisms known as the nakṣatra-s (full "
+"list, with western equivalents here: https://goo.gl/2PVi28 ). In the "
+"earliest extant layers of the tradition this number is 28. This division is "
+"critical for several purposes including timing rituals and determining the "
+"birth lunar mansions. Since these asterisms define an area in the sky, they "
+"are also technically constellations.\n"
+"\n"
+"sUrya-siddhAnta and vedAnga-jyotiSha specify start coordinates for the "
+"13°20' divisions using some stars (Please see penultimate paragraph in [this "
+"page](https://archive.org/stream/HistoryOfCalendarPanchangaCommittee/History-"
+"of-Calendar-Panchanga-Committee#page/n42/mode/1up))\n"
+"\n"
+"The earliest complete nakṣatra lists are found in the Taittirīya-śruti and "
+"the Atharvaveda where they are recited as part of the nakṣatreṣṭi ritual "
+"which places the deities of pantheon in these celestial compartments. Some "
+"scholars opine that the tradition shows that by the early medieval period, "
+"the nakṣatra identification had changed to a small degree from the Vedic "
+"period.\n"
+"\n"
+"There are multiple rich mythologies and symbolisms associated with the same "
+"constellations and stars (Example: [Raj Vedam on Rohini](https://www.youtube."
+"com/watch?v=Jq__DXtfeXw)) - it wouldn't do to rely on one to the exclusion "
+"of others during translation or truncated description. Hence we stick to "
+"etymological translations; and rather than including long mythological "
+"accounts here, just suggest that interested readers delve into them "
+"separately. (See references below.)\n"
+"\n"
+"Name of the lunar months originated from those 12 divisions' names in which "
+"full moon or \"Purnimā\" occurs. Unlike a solar day which defined by a "
+"sunrise to next sunrise, a lunar day or moon's position in a nakshatra "
+"doesn't depends on sun rising or moon rising. Thus a lunar day may start in "
+"any time of a solar day. Like other ancient human cultures, vedic people "
+"innovated a number of systems of which intercalary lunar months became most "
+"used, that is adding another month every 32.5 months on average or 4 months "
+"in every 11 years to correct the mismatch between lunar and solar year.\n"
+"\n"
+"A few of the yogatārā-s or prominent asterisms in the nakṣatra-s (going by "
+"their mainstream identification) lie slightly outside their constellation "
+"boundaries - in which case, any resultant problem (with regards to ritual "
+"timing or astrology) should be solved by other means (some people propose "
+"alternate identifications for such yogatārā-s).\n"
+"\n"
+"### Navagraha - Nine \"planets\"\n"
+"\n"
+"They observed that some celestial body moves independently relative to "
+"background stars and named them \"planets\" or \"graha\". As such The sun "
+"and moon are also treated as graha. They also named the lunar nodes as graha-"
+"s as these points are very important to calculate the eclipses. Name of "
+"vedic days originated from these planet's names.\n"
+"\n"
+"|Graha|Designation|Name of Solar days|\n"
+"|-----|-----------|------------------|\n"
+"|<notr>Sūrya </notr>(Sun)|Sun God|<notr>Ravivāsara </notr>(Sunday)|\n"
+"|<notr>Chandra/Soma </notr>(Moon)|Moon god|<notr>Somavāsara </"
+"notr>(Monday)|\n"
+"|<notr>Maṅgala </notr>(Mars)|God of war|<notr>Maṅgalavāsara </"
+"notr>(Tuesday)|\n"
+"|<notr>Budha </notr>(Mercury)|Son of Moon|<notr>Budhavāsara </"
+"notr>(Wednesday)|\n"
+"|<notr>Bṛihaspati/Guru </notr>(Jupiter)|Teacher of Gods|<notr>Guruvāsara </"
+"notr>(Thursday)|\n"
+"|<notr>Śukra </notr>(Venus)|Mentor of Demons|<notr>Śukravāsara </"
+"notr>(Friday)|\n"
+"|<notr>Śani </notr>(Saturn)|God of Misfortune|<notr>Śanivāsara </"
+"notr>(Saturday)|\n"
+"|<notr>Rahu</notr>|lunar node|-|\n"
+"|<notr>Ketú</notr>|lunar node|-|"
+msgstr ""
+"### Rāśi (राशिः)\n"
+"\n"
+"निरयण राशिचक्र एक काल्पनिक पट्टि है 360 अम्शों की ( सायन राशिचक्र जैसे ) जो 12 समान "
+"भागों में विभाजित है। द्वादश भागों में प्रत्येक ( 30 अम्श ) को एक चिह्न अथवा राशि कहा "
+"जाता है। उनके नाम ( कोष्ठकों ) में दिखाए गये हैं।\n"
+"\n"
+"स्टेल्लारियम में राशि तारामण्डल दिखाते हैं सम्बन्धित नक्षत्रों के साथ जुडे हुए। ना कि क्रान्तिवृत "
+"के भागों जैसे जो अपने मूलस्थानों से हटके हैं विषुव अयन के कारण।\n"
+"\n"
+"पारम्परिक ज्योतिषशास्त्र में दो प्रणाली हैं समय का मापन के लिए। चन्द्रमान कालदर्शिका तथा "
+"सूर्यमान कालदर्शिका। दोनों में एक वर्ष के 12 \" मास \" हैं। सौर मासों के नाम इन "
+"तारामण्डलों के नाम से उत्पन्न हुए।\n"
+"\n"
+"### Nakṣatra (नक्षत्रम्)\n"
+"\n"
+"In Hindu tradition the ecliptic is divided into 27 parts of approximately "
+"13°20', which correspond with 27 asterisms known as the nakṣatra-s (full "
+"list, with western equivalents here: https://goo.gl/2PVi28 ). In the "
+"earliest extant layers of the tradition this number is 28. This division is "
+"critical for several purposes including timing rituals and determining the "
+"birth lunar mansions. Since these asterisms define an area in the sky, they "
+"are also technically constellations.\n"
+"\n"
+"sUrya-siddhAnta and vedAnga-jyotiSha specify start coordinates for the "
+"13°20' divisions using some stars (Please see penultimate paragraph in [this "
+"page](https://archive.org/stream/HistoryOfCalendarPanchangaCommittee/History-"
+"of-Calendar-Panchanga-Committee#page/n42/mode/1up))\n"
+"\n"
+"The earliest complete nakṣatra lists are found in the Taittirīya-śruti and "
+"the Atharvaveda where they are recited as part of the nakṣatreṣṭi ritual "
+"which places the deities of pantheon in these celestial compartments. Some "
+"scholars opine that the tradition shows that by the early medieval period, "
+"the nakṣatra identification had changed to a small degree from the Vedic "
+"period.\n"
+"\n"
+"अनेक बहुमूल्य पुराणकथाएँ तथा प्रतीकात्मकताएँ हैं उन्ही तारामण्डलों तथा तारों के लिए "
+"( उदाहरण : [ रोहिणी पर राज वेदम ](https://www.youtube.com/watch?"
+"v=Jq__DXtfeXw) ) । नही हो सकता कि एक पर आश्रित हो अन्यों की उपेक्षा करके अनुवाद में "
+"अथवा संक्षेप विवरणों में। अतः हम शब्द व्युत्पत्त्यात्मक अनुवाद ही करते हैं। लम्बे पुराणकथा लेखाओं "
+"को समावेशित करने के स्थान पर केवल सुझाव देते हैं कि इच्छुक पाठक उन्हें अतिरिक्ततः पढें। "
+"( शोधपत्रसंकेतकों के लिए कृपया नीचे देखें )\n"
+"\n"
+"Name of the lunar months originated from those 12 divisions' names in which "
+"full moon or \"Purnimā\" occurs. Unlike a solar day which defined by a "
+"sunrise to next sunrise, a lunar day or moon's position in a nakshatra "
+"doesn't depends on sun rising or moon rising. Thus a lunar day may start in "
+"any time of a solar day. Like other ancient human cultures, vedic people "
+"innovated a number of systems of which intercalary lunar months became most "
+"used, that is adding another month every 32.5 months on average or 4 months "
+"in every 11 years to correct the mismatch between lunar and solar year.\n"
+"\n"
+"कुछ योताराएँ अथवा नक्षत्रों में प्रमुख तारें ( उनके मुख्यधारा परिचय प्रमाण अनुसार ) अपने "
+"तारामण्डल सीमाओं के थोडे बाहर हैं। इन प्रकरणों में इससे कोई समस्या उत्पन्न हुआ तो ( जैसे कि "
+"संस्कारों के समय अथवा ज्योतिष के विषय में ) किसी अन्य उपाय द्वारा सुलझाना चाहिए ( कुछ "
+"लोग एैसे योगतारों का वैकल्पिक परिचय प्रमाण प्रस्तावित करते हैं ) ।\n"
+"\n"
+"### नवग्रह। नौ \" ग्रह \"।\n"
+"\n"
+"They observed that some celestial body moves independently relative to "
+"background stars and named them \"planets\" or \"graha\". As such The sun "
+"and moon are also treated as graha. They also named the lunar nodes as graha-"
+"s as these points are very important to calculate the eclipses. Name of "
+"vedic days originated from these planet's names.\n"
+"\n"
+"|ग्रह|उपाधि|सौर दिनों के नाम|\n"
+"|----|-----|----------------|\n"
+"|Sūrya ( सूर्य )|सूर्य देवता|Ravivāsara ( रविवार )|\n"
+"|Chandra/Soma ( चन्द्रमा )|चन्द्र देवता|Somavāsara ( सोमवार )|\n"
+"|Maṅgala ( मंगल )|युद्ध देवता|Maṅgalavāsara ( मंगलवार )|\n"
+"|Budha ( बुध )|चन्द्र के पुत्र|Budhavāsara ( बुधवार )|\n"
+"|Bṛihaspati/Guru ( बृहस्पति )|देवताओं के गुरु|Guruvāsara ( गुरुवार )|\n"
+"|Śukra ( शुक्र )|दैत्यों के गुरु|Śukravāsara ( शुक्रवार )|\n"
+"|Śani ( शनि )|दुर्भाग्य के देवता|Śanivāsara ( शनिवार )|\n"
+"|Rahu|राहुकेतु|-|\n"
+"|Ketú|राहुकेतु|-|"
+
+#. Sky culture references section in markdown format
+msgid ""
+"### General\n"
+"\n"
+" - [#1]: [Nakshatra](https://sa.wikipedia.org/wiki/नक्षत्रम्) article at "
+"Sanskrit Wikipedia\n"
+" - [#2]: [Nakshatra](http://en.wikipedia.org/wiki/Nakshatra) article at "
+"English Wikipedia\n"
+" - [#3]: [History Of Calendar-Panchanga Committee Report](https://archive."
+"org/stream/HistoryOfCalendarPanchangaCommittee/History-of-Calendar-Panchanga-"
+"Committee#page/n77/mode/2up)\n"
+" - [#4]: [\"Possible period of the design of Nakshatras and Abhijit\"]"
+"(http://www.tifr.res.in/~archaeo/papers/Others/Possible%20period%20of%20the"
+"%20design%20of%20Nakshatras.pdf)\n"
+"\n"
+"### Mythology\n"
+"\n"
+"Much of the below is available online for free at archive.org.\n"
+"\n"
+" - [#5]: Secondary references such as: Purana Encyclopedia, Purana Index, "
+"Mahabharata Index, Vedic Indix\n"
+" - [#6]: Vedas, Agamas\n"
+" - [#7]: [Vedic Chronology And Vedanga Jyotisha by Bala Gangadhar Tilak]"
+"(https://archive.org/details/vedicchronologya033083mbp/page/n5)\n"
+" - [#8]: [Orion The Antiquity Of The Vedas by Bala Gangadhar Tilak](https://"
+"archive.org/details/in.gov.ignca.5110)\n"
+" - [#9]: [The Arctic Home in the Vedas by Bal Gangadhar Tilak](https://"
+"archive.org/details/arctichm/page/n21/mode/2up)\n"
+" - [#10]: [Hamlet's Mill: An Essay on Myth & the Frame of Time by Giorgio de "
+"Santillana, Hertha von Dechend](https://archive.org/details/HamletsMill)"
+msgstr ""
+"### साधारण\n"
+"\n"
+" - [#1]: [ नक्षत्र ](https://sa.wikipedia.org/wiki/नक्षत्रम्) पर लेख संस्कृत "
+"विकिपीडिया पर\n"
+" - [#2]: [ नक्षत्र ](http://en.wikipedia.org/wiki/Nakshatra) पर लेख आंग्ल "
+"विकिपीडीया पर\n"
+" - [#3]: [ कालदर्शिका का इतिहास। पंचांग समिति सूचना ](https://archive.org/stream/"
+"HistoryOfCalendarPanchangaCommittee/History-of-Calendar-Panchanga-"
+"Committee#page/n77/mode/2up)\n"
+" - [#4]: [ \" नक्षत्रों के बनावट तथा अभिजित की सम्भाव्य कालावधि \" ](http://www."
+"tifr.res.in/~archaeo/papers/Others/Possible%20period%20of%20the%20design%20of"
+"%20Nakshatras.pdf)\n"
+"\n"
+"### पुराणकथा\n"
+"\n"
+"नीचे का अधिकाम्श भाग संचारजाल पर उपलब्ध है मुक्ततः archive.org पर।\n"
+"\n"
+" - [#5]: उपसंकेतक जैसे कि : पुराण परिचक्रपाठ्य। पुराण निर्देशिका। महाभारत निर्देशिका। "
+"वैदिक निर्देशिका।\n"
+" - [#6]: वेद तथा आगम\n"
+" - [#7]: [ वैदिक कालक्रम तथा वेदांग ज्योतिष। बाल गंगाधर तिलक द्वारा ](https://"
+"archive.org/details/vedicchronologya033083mbp/page/n5)\n"
+" - [#8]: [ ओरैयन। वेदों की प्राचीनता। बाल गंगाधर तिलक द्वारा ](https://archive.org/"
+"details/in.gov.ignca.5110)\n"
+" - [#9]: [ आर्क्टिक मूलावास वेदों में। बाल गंगाधर तिलक द्वारा ](https://archive.org/"
+"details/arctichm/page/n21/mode/2up)\n"
+" - [#10]: [ हाम्लेट्स मिल्ल : एक निबन्ध पुराणकथाओं पर तथा समय का चौखट। जियोर्जियो डी "
+"साण्टिल्लाना तथा हेर्था वोन डेछेण्ड द्वारा ](https://archive.org/details/HamletsMill)"
+
+#. Sky culture authors section in markdown format
+msgid ""
+" - Tanmoy Saha\n"
+" - Contributors from the [sanskrit-coders community](https://github.com/"
+"sanskrit-coders) (esp [Vishvas Vasuki](https://github.com/vvasuki/))."
+msgstr ""
+" - तन्मोय साहा\n"
+" - योगदानकर्ता [ संस्कृत क्रमलेखक समूह ](https://github.com/sanskrit-coders) में से "
+"( विशेषतः [ विश्वास वासुकि ](https://github.com/vvasuki/) ।"
+
+#. Indian Vedic constellation, native: R̥kṣa
+msgid "Ursa Major"
+msgstr ""
+
+#. Indian Vedic constellation, native: Meṣa Rāśi
+msgid "Aries"
+msgstr ""
+
+#. Indian Vedic constellation, native: Vṛṣa Rāśi
+msgid "Taurus"
+msgstr ""
+
+#. Indian Vedic constellation, native: Mithuna Rāśi
+msgid "Gemini"
+msgstr ""
+
+#. Indian Vedic constellation, native: Karkaṭa Rāśi
+msgid "Cancer"
+msgstr ""
+
+#. Indian Vedic constellation, native: Simha Rāśi
+msgid "Leo"
+msgstr ""
+
+#. Indian Vedic constellation, native: Kanyā Rāśi
+msgid "Virgo"
+msgstr ""
+
+#. Indian Vedic constellation, native: Tulā Rāśi
+msgid "Libra"
+msgstr ""
+
+#. Indian Vedic constellation, native: Vṛścikā Rāśi
+msgid "Scorpius"
+msgstr ""
+
+#. Indian Vedic constellation, native: Kumbha Rāśi
+msgid "Aquarius"
+msgstr ""
+
+#. Indian Vedic constellation, native: Mīna Rāśi
+msgid "Pisces"
+msgstr ""
+
+#. Indian Vedic constellation, native: Invakā
+msgid "Arrow"
+msgstr "तीर"
+
+#. Indian Vedic constellation, native: Dhanur Rāśi
+msgid "Bow"
+msgstr "धनुष"
+
+#. Indian Vedic constellation, native: Mūla
+msgid "Root"
+msgstr "जड़"
+
+#. Indian Vedic constellation, native: Makara Rāśi
+msgid "Crocodile"
+msgstr "मगरमच्छ"
+
+#. Indian Vedic constellation, native: Sārathi
+msgid "Charioteer"
+msgstr ""
+
+#. Indian Vedic constellation, native: Shiṁśumāra
+msgid "Dolphin"
+msgstr ""
+
+#. Indian Vedic constellation, native: Aśvinī
+msgid "With Horses"
+msgstr ""
+
+#. Indian Vedic constellation, native: Bharanī
+msgid "Bearer"
+msgstr ""
+
+#. Indian Vedic constellation, native: Kṛttikā
+msgid "Cutter"
+msgstr ""
+
+#. Indian Vedic constellation, native: Rohiṇī
+msgid "Climber"
+msgstr ""
+
+#. Indian Vedic constellation, native: Mṛgaśiras
+msgid "Deer's head"
+msgstr ""
+
+#. Indian Vedic constellation, native: Ārdrā
+msgid "Moist"
+msgstr ""
+
+#. Indian Vedic constellation, native: Punarvasū
+msgid "Wealth-restorer"
+msgstr ""
+
+#. Indian Vedic constellation, native: Puṣya
+msgid "Nourisher"
+msgstr ""
+
+#. Indian Vedic constellation, native: Aśleṣa
+msgid "Embrace"
+msgstr ""
+
+#. Indian Vedic constellation, native: Maghā
+msgid "Bountiful"
+msgstr ""
+
+#. Indian Vedic constellation, native: Pūrva phālgunī
+msgid "Former Fruitful"
+msgstr ""
+
+#. Indian Vedic constellation, native: Uttara phālgunī
+msgid "Latter Fruitful"
+msgstr ""
+
+#. Indian Vedic constellation, native: Hasta
+msgid "Hand"
+msgstr ""
+
+#. Indian Vedic constellation, native: Chitrā
+msgid "Spectacular"
+msgstr ""
+
+#. Indian Vedic constellation, native: Svātī
+msgid "Self mover"
+msgstr ""
+
+#. Indian Vedic constellation, native: Anurādhā
+msgid "Following Rādhā"
+msgstr ""
+
+#. Indian Vedic constellation, native: Viśākhā
+msgid "Well branched"
+msgstr ""
+
+#. Indian Vedic constellation, native: Jyeṣṭhā
+msgid "Elder"
+msgstr ""
+
+#. Indian Vedic constellation, native: Pūrvāṣāḍhā
+msgid "Former invincible one"
+msgstr ""
+
+#. Indian Vedic constellation, native: Uttarāṣāḍhā
+msgid "Latter invincible one"
+msgstr ""
+
+#. Indian Vedic constellation, native: Abhijit
+msgid "Victorious"
+msgstr ""
+
+#. Indian Vedic constellation, native: Śravaṇa
+msgid "Ear"
+msgstr ""
+
+#. Indian Vedic constellation, native: Dhaniṣṭhā
+msgid "Wealthiest"
+msgstr ""
+
+#. Indian Vedic constellation, native: Śatabhiṣak
+msgid "Hundred cures"
+msgstr ""
+
+#. Indian Vedic constellation, native: Pūrva bhādrapada
+msgid "The first of the blessed feet"
+msgstr ""
+
+#. Indian Vedic constellation, native: Uttara bhādrapada
+msgid "The second of the blessed feet"
+msgstr ""
+
+#. Indian Vedic constellation, native: Revatī
+msgid "Leaper"
+msgstr ""
+
+#. Indian Vedic constellation, native: Mṛgavyādha
+msgid "Deer Hunter"
+msgstr ""
+
+#. Indian Vedic constellation, native: Trishanku
+msgid "King Trishanku"
+msgstr ""
+
+#. Indian Vedic constellation, native: Saptarṣi
+msgid "7 Sages"
+msgstr ""
+
+#. Indian Vedic constellation, native: Śaravaṇa
+msgid "Reed forest"
+msgstr ""
+
+#. Indian Vedic constellation, native: Yamunā
+msgid "River Yamunā"
+msgstr ""
+
+#. Name for HIP 11767
+#. A hero. Literally: Steadfast one.
+#. Fixed (Pole star)
+msgid "Dhruva"
+msgstr ""
+
+#. Name for HIP 21421
+#. Red (Aldebaran)
+msgid "Rohiṇī"
+msgstr ""
+
+#. Name for HIP 27989
+#. Moist (Betelgeuse)
+msgid "Ārdrā"
+msgstr ""
+
+#. Name for HIP 49669
+#. Bountiful one (Regulus)
+msgid "Maghā"
+msgstr ""
+
+#. Name for HIP 65474
+#. Spectacular (Spica)
+msgid "Chitrā"
+msgstr ""
+
+#. Name for HIP 69673
+#. Honest one (Arcturus)
+msgid "Svāti"
+msgstr ""
+
+#. Name for HIP 27366
+msgid "Kārtavīrya"
+msgstr ""
+
+#. Name for HIP 5737
+msgid "Revatī"
+msgstr ""
+
+#. Name for HIP 110395
+msgid "Śatabhiṣak"
+msgstr ""
+
+#. Name for HIP 97649
+#. To hear or Ear (Altair)
+msgid "Śravaṇa"
+msgstr ""
+
+#. Name for HIP 24608
+#. Heart of the Creator (Capella)
+msgid "Bramha-hṛdaya"
+msgstr ""
+
+#. Name for HIP 32349
+#. Hunter (Sirius)
+msgid "Lubdhaka"
+msgstr ""
+
+#. Name for HIP 24436
+#. Monarch (Rigel)
+msgid "Vānrājā"
+msgstr ""
+
+#. Name for HIP 54061
+#. One of the seven sages (Dubhe)
+msgid "Kratu"
+msgstr ""
+
+#. Name for HIP 53910
+#. One of the seven sages (Merak)
+msgid "Pulaha"
+msgstr ""
+
+#. Name for HIP 58001
+#. One of the seven sages (Phecda)
+msgid "Pulasta"
+msgstr ""
+
+#. Name for HIP 59774
+#. One of the seven sages (Megrez)
+msgid "Atri"
+msgstr ""
+
+#. Name for HIP 62956
+#. One of the seven sages (Alioth)
+msgid "Angirā"
+msgstr ""
+
+#. Name for HIP 65378
+#. One of the seven sages (Mizar)
+msgid "Vaśisṭha"
+msgstr ""
+
+#. Name for HIP 67301
+#. One of the seven sages (Alkaid)
+msgid "Mārīchi"
+msgstr ""
+
+#. Name for HIP 65477
+#. Wife of Vasisṭha, a great sage (Alcor)
+msgid "Arundhati"
+msgstr ""
+
+#. Name for HIP 91262
+#. Invincible (Vega)
+msgid "Abhijit"
+msgstr ""
+
+#. Name for HIP 80763
+#. Eldest (Antares)
+msgid "jyeṣṭhā"
+msgstr ""
+
+#. Name for HIP 30438
+#. A great sage who went south (Canopus)
+msgid "Agastya"
+msgstr ""
+
+#. Name for HIP 25428
+#. Fire (Elnath)
+msgid "Agni"
+msgstr ""
+
+#. Name for HIP 26727
+#. Dawn (Alnitak)
+msgid "Uṣā"
+msgstr ""
+
+#. Name for HIP 26311
+#. Unbounded (Alnilam)
+msgid "Aniruddha"
+msgstr ""
+
+#. Name for HIP 25930
+#. As beautiful as a picture (Mintaka)
+msgid "Chitralekhā"
+msgstr ""
+
+#. Name for HIP 31681
+#. Fire (Alhena)
+msgid "Anala"
+msgstr ""
+
+#. Name for HIP 37826
+#. Mother of demons (Pollux)
+msgid "Diti"
+msgstr ""
+
+#. Name for HIP 36850
+#. Mother of gods (Castor)
+msgid "Aditi"
+msgstr ""
+
+#. Name for HIP 746
+#. A great sage (Caph)
+msgid "Jamadagni"
+msgstr ""
+
+#. Name for HIP 25336
+#. Son of lord Shiva (Bellatrix)
+msgid "Kārtikeya"
+msgstr ""
+
+#. Name for NAME Sun, native: Sūrya
+#. Native name for the Sun
+msgid "Vigorous"
+msgstr ""
+
+#. Name for NAME Moon, native: Candra
+#. Native name for the Moon
+msgid "Delighter"
+msgstr ""
+
+#. Name for NAME Mercury, native: Budha
+#. Native name for Mercury
+msgid "Wise one"
+msgstr ""
+
+#. Name for NAME Venus, native: Śukra
+#. Native name for Venus
+msgid "Bright one"
+msgstr ""
+
+#. Name for NAME Mars, native: Maṇgala
+#. Native name for Mars
+msgid "Auspicious one"
+msgstr ""
+
+#. Name for NAME Jupiter, native: Guru
+#. Native name for Jupiter
+msgid "Mentor"
+msgstr ""
+
+#. Name for NAME Saturn, native: Śani
+#. Native name for Saturn
+msgid "Slow mover"
+msgstr ""
