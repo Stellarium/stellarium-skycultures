@@ -1,0 +1,1336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
+"Language-Team: Finnish (https://app.transifex.com/stellarium/teams/80998/"
+"fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Sky culture name
+msgid "Korean"
+msgstr "Korealainen"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"The Chinese, Korean, and Japanese constellations have the same origin and "
+"look very similar in shape. They are represented respectively in the Dun "
+"Huang starmap from the 8th century, the Cheon-Sang-Yeol-Cha-Bun-Ya-Ji-Do map "
+"and in the Kitora skymap painted in A.D.7C ~ 8C. Their positions and their "
+"names are similar in the Chinese alphabet. The name of the constellations "
+"first appear in the Records of the Grand Historian(史記) in Han dynasty "
+"describing Xia dynasty in about 2000 B.C."
+msgstr ""
+"Kiinan, Korean ja Japanin tähtikuvioilla on sama alkuperä ja ne näyttävät "
+"muodoltaan hyvin samanlaisilta. Ne on edustettuna Dun Huangin tähtikartassa "
+"800-luvulta, Cheon-Sang-Yeol-Cha-Bun-Ya-Ji-Do-kartassa ja Kitoran "
+"taivaskartassa, joka on maalattu vuosina jKr. 7C ~ 8C. Heidän asemansa ja "
+"nimensä ovat samanlaiset kiinalaisessa aakkosessa. Tähtikuvioiden nimet "
+"esiintyvät ensimmäisen kerran Han-dynastian suuren historiolaisen (史記) "
+"kirjassa, joka kuvaa Xia-dynastiaa noin vuonna 2000 eaa."
+
+#. Sky culture description section in markdown format
+msgid ""
+"### Origin\n"
+"\n"
+"The 272 constellations displayed in this Stellarium sky culture are based on "
+"the Cheon-Sang-Yeol-Cha-Bun-Ya-Zi-Do, the Korean Constellation map, which "
+"was carved on the stone on 1395 but has its origin from another sky map "
+"which existed about 2,000 years ago. This map represents 1467 stars in about "
+"190 constellations whose shapes are slightly different from the chinese "
+"ones. The interpretation of the map is not easy: the map is so old that only "
+"about 300 stars are found to match with the real stars. All the stars of the "
+"map were drawn on a circle, so the equator seems smaller than the southern "
+"limit. Because the density of constellation does not change with respect to "
+"the position, the position and the size of the constellations were somewhat "
+"altered in a way unknown by the author. It is assumed that there should be "
+"no bright stars which do not belong to any constellations. The work of the "
+"author is subject to interpretation, and could be changed at a later time. "
+"It will however roughly show what the Korean Constellation are like."
+msgstr ""
+"### Alkuperä\n"
+"\n"
+"Tässä Stellarium-taivaskulttuurissa näkyvät 272 tähtikuviota perustuvat "
+"Cheon-Sang-Yeol-Cha-Bun-Ya-Zi-Do-korealaisen tähtikuvion karttaan, joka "
+"kaiverrettiin kiveen vuonna 1395, mutta joka on peräisin toisesta "
+"taivaskartasta. joka oli olemassa noin 2000 vuotta sitten. Tämä kartta "
+"edustaa 1467 tähteä noin 190 tähdistössä, joiden muodot eroavat hieman "
+"kiinalaisista tähtikuvioista. Kartan tulkinta ei ole helppoa: kartta on niin "
+"vanha, että vain noin 300 tähteä löytyy, jotka vastaavat todellisia tähtiä. "
+"Kaikki kartan tähdet piirrettiin ympyrään, joten päiväntasaaja näyttää "
+"etelärajaa pienemmältä. Koska tähdistön tiheys ei muutu sijainnin suhteen, "
+"tähdistöjen sijaintia ja kokoa muutettiin jonkin verran tekijän "
+"tuntemattomalla tavalla. Oletetaan, että ei pitäisi olla kirkkaita tähtiä, "
+"jotka eivät kuulu mihinkään tähdistöihin. Tekijän teos on tulkinnanvarainen, "
+"ja sitä voidaan muuttaa myöhemmin. Se kuitenkin näyttää karkeasti, millainen "
+"Korean tähdistö on."
+
+#. Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/"
+"Cheonsang_Yeolcha_Bunyajido)"
+msgstr ""
+" - [#1]: [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/"
+"Cheonsang_Yeolcha_Bunyajido)"
+
+#. Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user *[Jeong, Tae-Min](http://"
+"user.chollian.net/~jtm71/)*"
+msgstr ""
+"Stellariumin käyttö vaikutti tähän taivaskulttuuriin *[Jeong, Tae-Min]"
+"(http://user.chollian.net/~jtm71/)*"
+
+#. Korean constellation, native: Goo
+msgid "Dog"
+msgstr "Koira"
+
+#. Korean constellation, native: Shii
+msgid "Arrow"
+msgstr "Nuoli"
+
+#. Korean constellation, native: Ho
+msgid "Bow"
+msgstr "Jousi"
+
+#. Korean constellation, native: Eo
+msgid "Fish"
+msgstr "Kala"
+
+#. Korean constellation, native: BukDuu
+msgid "Northern Dipper"
+msgstr "Iso Karhu"
+
+#. Korean constellation, native: Cheuk
+msgid "Toilet"
+msgstr "Käymälä"
+
+#. Korean constellation, native: Chaek
+msgid "Whip"
+msgstr "Ruoska"
+
+#. Korean constellation, native: DaeReung
+msgid "Mausoleum"
+msgstr "Mausoleumi"
+
+#. Korean constellation, native: Gu
+msgid "Mortar"
+msgstr "Huhmare"
+
+#. Korean constellation, native: GwonSeol
+msgid "Rolled Tongue"
+msgstr "Rullattu kieli"
+
+#. Korean constellation, native: Gaang
+msgid "Chaff"
+msgstr "Akanat"
+
+#. Korean constellation, native: RyeoSeok
+msgid "Whetstone"
+msgstr "Hiomakivi"
+
+#. Korean constellation, native: NaeJuu
+msgid "Inner Kitchen"
+msgstr "Sisempi keittiö"
+
+#. Korean constellation, native: SaamTae
+msgid "Three Steps"
+msgstr "Kolme porrasta"
+
+#. Korean constellation, native: HwanJaa
+msgid "Eunuch"
+msgstr "Eunukki"
+
+#. Korean constellation, native: TeaJaa
+msgid "Crown Prince"
+msgstr "Kruunuprinssi"
+
+#. Korean constellation, native: TouGongRi
+msgid "Official for Materials Supply"
+msgstr "Välineupseeri"
+
+#. Korean constellation, native: WaeJuu
+msgid "Outer Kitchen"
+msgstr "Ulompi keittiö"
+
+#. Korean constellation, native: OJeHuu
+msgid "Five Lords"
+msgstr "Viisi herraa"
+
+#. Korean constellation, native: UuGi
+msgid "Right Flag"
+msgstr "Oikea lippu"
+
+#. Korean constellation, native: Za
+msgid "Son"
+msgstr "Poika"
+
+#. Korean constellation, native: JwaGi
+msgid "Left Flag"
+msgstr "Vasen lippu"
+
+#. Korean constellation, native: GeoBuu
+msgid "Charioteer"
+msgstr "Sotavaunujen ajaja"
+
+#. Korean constellation, native: JuJeong
+msgid "Holy Kettle"
+msgstr "Pyhä kattila"
+
+#. Korean constellation, native: CheonJeon
+msgid "Farm of Capital City"
+msgstr "Pääkaupungin maatila"
+
+#. Korean constellation, native: JwaGak
+msgid "Dignity of King"
+msgstr "Kuninkaan arvokkuus"
+
+#. Korean constellation, native: JinHyeon
+msgid "Nomination"
+msgstr "Nimitys"
+
+#. Korean constellation, native: CheonMun
+msgid "Gate of Sky"
+msgstr "Taivaan portti"
+
+#. Korean constellation, native: Pyeong
+msgid "Equality"
+msgstr "Tasa-arvo"
+
+#. Korean constellation, native: SeopJae
+msgid "Helper"
+msgstr "Apuri"
+
+#. Korean constellation, native: DaeGaak
+msgid "Position of Holy King"
+msgstr "Pyhän kuninkaan asema"
+
+#. Korean constellation, native: Hang
+msgid "Neck of Dragon"
+msgstr "Lohikäärmeen kaula"
+
+#. Korean constellation, native: JeolWii
+msgid "Beheading"
+msgstr "Mestaus"
+
+#. Korean constellation, native: DuunWaan
+msgid "Judge"
+msgstr "Tuomari"
+
+#. Korean constellation, native: ChoYo
+msgid "Flutting Flag"
+msgstr "Lepattava lippu"
+
+#. Korean constellation, native: GyeongHaa
+msgid "Javelin of Sky"
+msgstr "Taivaan keihäs"
+
+#. Korean constellation, native: JaeSeok
+msgid "Seat for Longevity"
+msgstr "Pitkäikäisen istuin"
+
+#. Korean constellation, native: HangJii
+msgid "Oar for visitor"
+msgstr "Vierailijan airo"
+
+#. Korean constellation, native: CheonYuu
+msgid "Milk of Sky"
+msgstr "Taivaan maito"
+
+#. Korean constellation, native: Jeo
+msgid "House of Queen"
+msgstr "Kuningattaren talo"
+
+#. Korean constellation, native: JinGeo
+msgid "Ancient Chariot"
+msgstr "Ikivanha sotavaunu"
+
+#. Korean constellation, native: CheonPouk
+msgid "Carriage for King"
+msgstr "Kuninkaan vaunut"
+
+#. Korean constellation, native: GiJinJangGuun
+msgid "General of Cavalry"
+msgstr "Ratsuväen kenraali"
+
+#. Korean constellation, native: GiGwan
+msgid "Cavalry of Emperor"
+msgstr "Keisarin ratsuväki"
+
+#. Korean constellation, native: GeoGii
+msgid "General of Mobile Troops"
+msgstr "Liikkuvien joukkojen kenraali"
+
+#. Korean constellation, native: DongHaam
+msgid "East Road"
+msgstr "Itäinen tie"
+
+#. Korean constellation, native: GeonPae
+msgid "Gate Bolt"
+msgstr "Portin salpa"
+
+#. Korean constellation, native: GuGeom
+msgid "Door Lock and Key"
+msgstr "Oven lukko ja avain"
+
+#. Korean constellation, native: Beol
+msgid "Penalty"
+msgstr "Rangaistus"
+
+#. Korean constellation, native: Baang
+msgid "Royal Hall"
+msgstr "Kuninkaallinen sali"
+
+#. Korean constellation, native: JongGwan
+msgid "Chamberlain"
+msgstr "Kamariherra"
+
+#. Korean constellation, native: iil
+msgid "Sun"
+msgstr "Aurinko"
+
+#. Korean constellation, native: SeoHaam
+msgid "West Road"
+msgstr "Läntinen tie"
+
+#. Korean constellation, native: Shim
+msgid "Seat of Emperor"
+msgstr "Keisarin istuin"
+
+#. Korean constellation, native: JeokJol
+msgid "Five Troops"
+msgstr "Viisi sotajoukkoa"
+
+#. Korean constellation, native: CheonGang
+msgid "River of Sky"
+msgstr "Taivaan joki"
+
+#. Korean constellation, native: BuYeol
+msgid "Prayer for Progeny"
+msgstr "Rukous jälkeläisistä"
+
+#. Korean constellation, native: Ku
+msgid "Forcast"
+msgstr "Ennustus"
+
+#. Korean constellation, native: Mii
+msgid "Yard for Empresses"
+msgstr "Keisarin piha"
+
+#. Korean constellation, native: ShinGuung
+msgid "Holy Palace"
+msgstr "Pyhä palatsi"
+
+#. Korean constellation, native: Kii
+msgid "Winnow"
+msgstr "Seulonta"
+
+#. Korean constellation, native: WaeJeo
+msgid "Outer Pestle"
+msgstr "Ulompi survin"
+
+#. Korean constellation, native: CheonByeon
+msgid "Head of Town"
+msgstr "Kaupunginjohtaja"
+
+#. Korean constellation, native: Geon
+msgid "Build"
+msgstr "Rakennus"
+
+#. Korean constellation, native: CheonGae
+msgid "Fowl of Sky"
+msgstr "Taivaan kana"
+
+#. Korean constellation, native: NaamDoo
+msgid "Shrine of Sky"
+msgstr "Taivaan pyhäkkö"
+
+#. Korean constellation, native: GuuGuuk
+msgid "Northeastern Nations"
+msgstr "Luoteiset kansat"
+
+#. Korean constellation, native: NongJaang_iin
+msgid "Old Farmer"
+msgstr "Vanha maamies"
+
+#. Korean constellation, native: Byeol
+msgid "Snapping Turtle"
+msgstr "Näykkijäkilpikonna"
+
+#. Korean constellation, native: YeonDo
+msgid "Road for Emperor"
+msgstr "Keisarin tie"
+
+#. Korean constellation, native: JikNyeo
+msgid "The Weaver"
+msgstr "Kutoja"
+
+#. Korean constellation, native: JaamDae
+msgid "River adjoining Tower"
+msgstr "Joki tornin vieressä"
+
+#. Korean constellation, native: HaGo
+msgid "Drum of River"
+msgstr "Joen rumpu"
+
+#. Korean constellation, native: CheonBu
+msgid "Drumstick of Sky"
+msgstr "Taivaan rumpukapula"
+
+#. Korean constellation, native: GyeonUu
+msgid "Cow leading Man"
+msgstr "Lehmää taluttava mies"
+
+#. Korean constellation, native: NaaEon
+msgid "Bank Spread"
+msgstr "Penkereen levennys"
+
+#. Korean constellation, native: BuuGwang
+msgid "Basket for Silkworm"
+msgstr "Silkkitoukkakori"
+
+#. Korean constellation, native: HaeJuung
+msgid "Officer for Cart"
+msgstr "Kärrymestari"
+
+#. Korean constellation, native: CheonJin
+msgid "Ferry of Sky"
+msgstr "Taivaan lautta"
+
+#. Korean constellation, native: Gwa
+msgid "Fruit"
+msgstr "Hedelmä"
+
+#. Korean constellation, native: PaeGwa
+msgid "Seed"
+msgstr "Siemen"
+
+#. Korean constellation, native: iiJuu
+msgid "Storage for Lady"
+msgstr "Naisen varasto"
+
+#. Korean constellation, native: SuuNyeo
+msgid "Court Lady"
+msgstr "Hovinainen"
+
+#. Korean constellation, native: SaaBii
+msgid "Judge Fault"
+msgstr "Tuomarin virhe"
+
+#. Korean constellation, native: SaaWii
+msgid "Amend Fault"
+msgstr "Virheen korjaus"
+
+#. Korean constellation, native: SaaRok
+msgid "Grant Life"
+msgstr "Myönnetty elämä"
+
+#. Korean constellation, native: SaaMyeong
+msgid "Punish"
+msgstr "Tuomio"
+
+#. Korean constellation, native: Heo
+msgid "Empty House"
+msgstr "Tyhjä talo"
+
+#. Korean constellation, native: Gok
+msgid "Weep"
+msgstr "Itku"
+
+#. Korean constellation, native: Eup
+msgid "Sob"
+msgstr "Nyyhkytys"
+
+#. Korean constellation, native: CheonRuSeong
+msgid "Castle with Rampart"
+msgstr "Vallitettu linna"
+
+#. Korean constellation, native: Guu
+msgid "Hook for Dress"
+msgstr "Puvun hakanen"
+
+#. Korean constellation, native: ChoBo
+msgid "Groom"
+msgstr "Renki"
+
+#. Korean constellation, native: iinSeong
+msgid "Human"
+msgstr "Ihminen"
+
+#. Korean constellation, native: NaeJeo
+msgid "Inner Pestle"
+msgstr "Sisempi survin"
+
+#. Korean constellation, native: Wii
+msgid "Warehouse of Sky"
+msgstr "Taivaan varasto"
+
+#. Korean constellation, native: BunMyo
+msgid "Tomb"
+msgstr "Hauta"
+
+#. Korean constellation, native: GaeOok
+msgid "Cover of House"
+msgstr "Talon julkisivu"
+
+#. Korean constellation, native: PaeGuu
+msgid "Broken Mortar"
+msgstr "Särkynyt huhmare"
+
+#. Korean constellation, native: DeungSaa
+msgid "Climbing Serpent"
+msgstr "Kiipeävä käärme"
+
+#. Korean constellation, native: Shil
+msgid "Palace of Emperor"
+msgstr "Keisarin palatsi"
+
+#. Korean constellation, native: iiGuung
+msgid "Detached Palace"
+msgstr "Erillinen palatsi"
+
+#. Korean constellation, native: JeonNwoe
+msgid "Lightening"
+msgstr "Valaistuminen"
+
+#. Korean constellation, native: NuByeokJin
+msgid "Rampart"
+msgstr "Vallitus"
+
+#. Korean constellation, native: URimGuun
+msgid "Troops of Sky"
+msgstr "Taivaan sotajoukot"
+
+#. Korean constellation, native: BukRakSaMuun
+msgid "Village for Patrol"
+msgstr "Partion kylä"
+
+#. Korean constellation, native: CheonMang
+msgid "Net of Sky"
+msgstr "Taivaan verkko"
+
+#. Korean constellation, native: CheonGu
+msgid "Stable of Sky"
+msgstr "Taivaan talli"
+
+#. Korean constellation, native: DongByeok
+msgid "Eastern Wall"
+msgstr "Itäinen muuri"
+
+#. Korean constellation, native: TouGong
+msgid "Civil Engineer"
+msgstr "Insinööri"
+
+#. Korean constellation, native: ByeokRyeok
+msgid "Thunderbolts"
+msgstr "Ukonvasamat"
+
+#. Korean constellation, native: UunUu
+msgid "Clouds and Rain"
+msgstr "Pilvet ja sade"
+
+#. Korean constellation, native: GaakDo
+msgid "Highway"
+msgstr "Valtatie"
+
+#. Korean constellation, native: WaangRaang
+msgid "Officer for Chariot of"
+msgstr "Vaunu-upseeri"
+
+#. Korean constellation, native: BuRo
+msgid "Side Road"
+msgstr "Sivutie"
+
+#. Korean constellation, native: Gyu
+msgid "Armory"
+msgstr "Asevarasto"
+
+#. Korean constellation, native: GuunNaamMun
+msgid "Southern Gate of Emperator"
+msgstr "Ylipäällikön eteläinen portti"
+
+#. Korean constellation, native: WaeByeong
+msgid "Outer Folding Screen"
+msgstr "Ulompi taitettava kaihdin"
+
+#. Korean constellation, native: CheonHoun
+msgid "Toilet of Sky"
+msgstr "Taivaan käymälä"
+
+#. Korean constellation, native: SaaGong
+msgid "Architect"
+msgstr "Arkkitehti"
+
+#. Korean constellation, native: CheonJaangGuun
+msgid "Emperator"
+msgstr "Ylipäällikkö"
+
+#. Korean constellation, native: Ruu
+msgid "Watchtower"
+msgstr "Vartiotorni"
+
+#. Korean constellation, native: JwaGyeong
+msgid "Left Elm"
+msgstr "Vasen jalava"
+
+#. Korean constellation, native: UuGyeong
+msgid "Right Elm"
+msgstr "Oikea jalava"
+
+#. Korean constellation, native: CheonChang
+msgid "Storehouse of Sky"
+msgstr "Taivaan varasto"
+
+#. Korean constellation, native: CheonYu
+msgid "Stack of Cereals"
+msgstr "Viljasuova"
+
+#. Korean constellation, native: CheonSeon
+msgid "Ship of Sky"
+msgstr "Taivaan laiva"
+
+#. Korean constellation, native: JeokSuu
+msgid "Store of Water"
+msgstr "Vesivarasto"
+
+#. Korean constellation, native: JeokShi
+msgid "Heap of Corpse"
+msgstr "Ruumiskasa"
+
+#. Korean constellation, native: Wii
+msgid "Stomach of Tiger"
+msgstr "Tiikerin vatsa"
+
+#. Korean constellation, native: CheonReum
+msgid "Store of Millet for"
+msgstr "Hirssivarasto"
+
+#. Korean constellation, native: CheonGyun
+msgid "Storehouse for Cereals"
+msgstr "Viljavarasto"
+
+#. Korean constellation, native: CheonCham
+msgid "Shaman of Sky"
+msgstr "Taivaan shamaani"
+
+#. Korean constellation, native: Myo
+msgid "Ear and Eye of"
+msgstr "Korva ja silmä"
+
+#. Korean constellation, native: Wol
+msgid "Moon"
+msgstr "Kuu"
+
+#. Korean constellation, native: CheonAa
+msgid "Hill of Sky"
+msgstr "Taivaan kukkula"
+
+#. Korean constellation, native: CheonEum
+msgid "Conspiracy of Sky"
+msgstr "Taivaan salaliitto"
+
+#. Korean constellation, native: ChuuGo
+msgid "Fodder"
+msgstr "Rehu"
+
+#. Korean constellation, native: OoGeo
+msgid "Garage for Chariot"
+msgstr "Vaunutalli"
+
+#. Korean constellation, native: HaamJii
+msgid "Pond for Fish"
+msgstr "Kalalampi"
+
+#. Korean constellation, native: Ju
+msgid "Pillar"
+msgstr "Pilari"
+
+#. Korean constellation, native: CheonHwang
+msgid "Puddle of Sky"
+msgstr "Taivaan lätäkkö"
+
+#. Korean constellation, native: JaeWaang
+msgid "Kings"
+msgstr "Kuninkaat"
+
+#. Korean constellation, native: CheonGwan
+msgid "Gateway of Sky"
+msgstr "Taivaan käytävä"
+
+#. Korean constellation, native: SaamGii
+msgid "Flage of Saam"
+msgstr "Saamin lippu"
+
+#. Korean constellation, native: CheonGa
+msgid "Village of Sky"
+msgstr "Taivaan kylä"
+
+#. Korean constellation, native: CheonGo
+msgid "Belvedere of Sky"
+msgstr "Taivaan sypressi"
+
+#. Korean constellation, native: Piil
+msgid "General of Border"
+msgstr "Rajakenraali"
+
+#. Korean constellation, native: CheonJeol
+msgid "Celebration of Sky"
+msgstr "Taivaan juhla"
+
+#. Korean constellation, native: GuuYuu
+msgid "Flag of Emperor"
+msgstr "Keisarin lippu"
+
+#. Korean constellation, native: GuJuJuGu
+msgid "Nine Territory"
+msgstr "Yhdeksän territoriota"
+
+#. Korean constellation, native: CheonWon
+msgid "Garden of Sky"
+msgstr "Taivaan puutarha"
+
+#. Korean constellation, native: JwaGii
+msgid "Settled Flag"
+msgstr "Laskostunut lippu"
+
+#. Korean constellation, native: SaaGwae
+msgid "Forcast Calamity"
+msgstr "Ennustettu onnettomuus"
+
+#. Korean constellation, native: Saam
+msgid "Saam"
+msgstr "Saam"
+
+#. Korean constellation, native: Beol
+msgid "Expeditionary Force"
+msgstr "Siirtoarmeija"
+
+#. Korean constellation, native: GuunJeong
+msgid "Well for Millitary"
+msgstr "Armeijan kaivo"
+
+#. Korean constellation, native: OkJeong
+msgid "Well of Jade"
+msgstr "Jadekaivo"
+
+#. Korean constellation, native: Byeong
+msgid "Folding Screen"
+msgstr "Taitettava kaihdin"
+
+#. Korean constellation, native: JeokShin
+msgid "Piled Brushwood"
+msgstr "Risukasa"
+
+#. Korean constellation, native: BuukHa
+msgid "Northern River"
+msgstr "Pohjoinen joki"
+
+#. Korean constellation, native: CheonJuun
+msgid "Wine Glass of Sky"
+msgstr "Taivaan viinilasi"
+
+#. Korean constellation, native: DongJeong
+msgid "Eastern Well"
+msgstr "Itäinen kaivo"
+
+#. Korean constellation, native: SuuBuu
+msgid "Flood control"
+msgstr "Tulvavahti"
+
+#. Korean constellation, native: SuuWii
+msgid "Balance of Water"
+msgstr "Veden tasapaino"
+
+#. Korean constellation, native: SaaDok
+msgid "Four Spirit of River"
+msgstr "Joen neljä henkeä"
+
+#. Korean constellation, native: NamHa
+msgid "Southern River"
+msgstr "Eteläinen joki"
+
+#. Korean constellation, native: GwolGu
+msgid "Twin Gate"
+msgstr "Kaksoisportti"
+
+#. Korean constellation, native: RangSeong
+msgid "Star of Wolf"
+msgstr "Suden tähti"
+
+#. Korean constellation, native: YaGae
+msgid "Wild Fowls"
+msgstr "Riistalinnut"
+
+#. Korean constellation, native: GuunShii
+msgid "Market for Army"
+msgstr "Armeijan tori"
+
+#. Korean constellation, native: Soun
+msgid "Grandchildren"
+msgstr "Lapsenlapset"
+
+#. Korean constellation, native: Zaa
+msgid "Scout of Three Troups"
+msgstr "Kolmen joukon tiedustelija"
+
+#. Korean constellation, native: Zaang_iin
+msgid "Grown-up"
+msgstr "Aikuinen"
+
+#. Korean constellation, native: Noin
+msgid "Oldman"
+msgstr "Vanhus"
+
+#. Korean constellation, native: Gwan
+msgid "Beacon"
+msgstr "Merkkituli"
+
+#. Korean constellation, native: Kwii
+msgid "Eye of Sky"
+msgstr "Taivaan silmä"
+
+#. Korean constellation, native: JeokShii
+msgid "Pile of Dead"
+msgstr "Kuolleiden pino"
+
+#. Korean constellation, native: CheonGu
+msgid "Green Ridge"
+msgstr "Vihreä harjanne"
+
+#. Korean constellation, native: CheonGu
+msgid "Dog of Sky"
+msgstr "Taivaan koira"
+
+#. Korean constellation, native: CheonSa
+msgid "Spirit of GuRyoung"
+msgstr "GuRyoungin henki"
+
+#. Korean constellation, native: JuuGii
+msgid "Flag of Wine Officer"
+msgstr "Viininlaskijan lippu"
+
+#. Korean constellation, native: Ryu
+msgid "Officer of Kitchen"
+msgstr "Keittiömestari"
+
+#. Korean constellation, native: NaePyeong
+msgid "Equality and Fair"
+msgstr "Tasa-arvo ja oikeudenmukaisuus"
+
+#. Korean constellation, native: HeonWon
+msgid "Emperor HeonWon"
+msgstr "Keisari HeonWon"
+
+#. Korean constellation, native: Seong
+msgid "Capital of Sky"
+msgstr "Taivaan pääkaupunki"
+
+#. Korean constellation, native: Jiik
+msgid "Chief of Farming"
+msgstr "Maaviljelyksen johtaja"
+
+#. Korean constellation, native: Jaang
+msgid "Officer of Tomb"
+msgstr "Hautavirkailija"
+
+#. Korean constellation, native: CheonMyo
+msgid "Tomb of Sky"
+msgstr "Taivaan hauta"
+
+#. Korean constellation, native: iik
+msgid "Wing of Red Bird"
+msgstr "Punaisen linnun siipi"
+
+#. Korean constellation, native: DonGu
+msgid "Eastern Pottery"
+msgstr "Idän keramiikka"
+
+#. Korean constellation, native: Jin
+msgid "Chariot of Emperor"
+msgstr "Keisarin vaunut"
+
+#. Korean constellation, native: JangSaa
+msgid "Sand for Life"
+msgstr "Elämän hiekka"
+
+#. Korean constellation, native: GuunMuun
+msgid "Gateway for Troops"
+msgstr "Joukkojen portti"
+
+#. Korean constellation, native: NangJaang
+msgid "Guardian Knight"
+msgstr "Vahtiritari"
+
+#. Korean constellation, native: OZehu
+msgid "Five Feudal Lords"
+msgstr "Viisi feodaaliherraa"
+
+#. Korean constellation, native: SangJiin
+msgid "SangJiin"
+msgstr "SangJiin"
+
+#. Korean constellation, native: SoMii
+msgid "Low Fence"
+msgstr "Matala aita"
+
+#. Korean constellation, native: TaeMi
+msgid "Tall Fence"
+msgstr "Korkea aita"
+
+#. Korean constellation, native: GuGyeong
+msgid "Nine Lords"
+msgstr "Yhdeksän herraa"
+
+#. Korean constellation, native: HoBuun
+msgid "Dung of Tiger"
+msgstr "Tiikerin lanta"
+
+#. Korean constellation, native: OJe
+msgid "Five Emperor"
+msgstr "Viisi keisaria"
+
+#. Korean constellation, native: SaamGongNaeJwa
+msgid "Three Minister"
+msgstr "Kolme ministeriä"
+
+#. Korean constellation, native: AlZaa
+msgid "Officer for Audience"
+msgstr "Vastaanottovirkailija"
+
+#. Korean constellation, native: MyeongDang
+msgid "Grave Front"
+msgstr "Haudan edusta"
+
+#. Korean constellation, native: YeongDae
+msgid "Observatory"
+msgstr "Observatorio"
+
+#. Korean constellation, native: YeoEoGwan
+msgid "Female Officer"
+msgstr "Naisvirkailija"
+
+#. Korean constellation, native: JeonSaa
+msgid "Wide Lodging Area"
+msgstr "Laaja asuntoalue"
+
+#. Korean constellation, native: PalGok
+msgid "Eight Cereals"
+msgstr "Kahdeksan viljaa"
+
+#. Korean constellation, native: CheonBae
+msgid "Advance Guard"
+msgstr "Erikoisvartija"
+
+#. Korean constellation, native: SamGong
+msgid "Three Ministers"
+msgstr "Kolme ministeriä"
+
+#. Korean constellation, native: EumDeok
+msgid "Virtue"
+msgstr "Siveys"
+
+#. Korean constellation, native: Cheon_iil
+msgid "Emperor's God of War"
+msgstr "Keisarin sodan jumala"
+
+#. Korean constellation, native: Tae_iil
+msgid "Emperor's God of Weather"
+msgstr "Keisarin sään jumala"
+
+#. Korean constellation, native: HyeonGwa
+msgid "Flap of Flag"
+msgstr "Lipun lepatus"
+
+#. Korean constellation, native: Saang
+msgid "Minister"
+msgstr "Ministeri"
+
+#. Korean constellation, native: TaeYaangSuu
+msgid "General and Minister"
+msgstr "Kenraali ja ministeri"
+
+#. Korean constellation, native: CheonRyoe
+msgid "Jail of Sky"
+msgstr "Taivaan vankila"
+
+#. Korean constellation, native: MunChang
+msgid "Six Department"
+msgstr "Kuusi osastoa"
+
+#. Korean constellation, native: NaeGae
+msgid "Inner Stairway"
+msgstr "Sisemmät portaat"
+
+#. Korean constellation, native: CheonChang
+msgid "Spear of Sky"
+msgstr "Taivaan keihäs"
+
+#. Korean constellation, native: HwaGae
+msgid "Cover for Emperor"
+msgstr "Keisarin suoja"
+
+#. Korean constellation, native: OJeJwa
+msgid "Place for Five Emperor"
+msgstr "Viiden keisarin paikka"
+
+#. Korean constellation, native: YuukGaap
+msgid "60 Years"
+msgstr "60 vuotta"
+
+#. Korean constellation, native: CheonJu
+msgid "Kitchen of Sky"
+msgstr "Taivaan keittiö"
+
+#. Korean constellation, native: BukGeuk
+msgid "North Pole"
+msgstr "Pohjoisnapa"
+
+#. Korean constellation, native: GuJiin
+msgid "Wound Lodge"
+msgstr "Haavoittuneen maja"
+
+#. Korean constellation, native: Gaang
+msgid "Single-log Bridge"
+msgstr "Yhden tukin silta"
+
+#. Korean constellation, native: CheonHwangTaeJae
+msgid "Great Emperor"
+msgstr "Suuri keisari"
+
+#. Korean constellation, native: SaangSeo
+msgid "Officer for Opinion"
+msgstr "Neuvonantaja"
+
+#. Korean constellation, native: CheonJu
+msgid "Pillar of Sky"
+msgstr "Taivaan pilari"
+
+#. Korean constellation, native: JuHaSa
+msgid "Secretary"
+msgstr "Sihteeri"
+
+#. Korean constellation, native: YeoSa
+msgid "Maid"
+msgstr "Piika"
+
+#. Korean constellation, native: YeoSaang
+msgid "Desk of Woman"
+msgstr "Naisen pöytä"
+
+#. Korean constellation, native: DaeRii
+msgid "Judge Prison"
+msgstr "Tuomarivankila"
+
+#. Korean constellation, native: JaMi
+msgid "Purple Fence"
+msgstr "Purppura-aita"
+
+#. Korean constellation, native: CheonGii
+msgid "Order of Sky"
+msgstr "Taivaan järjestys"
+
+#. Korean constellation, native: ChilGong
+msgid "Seven Minister"
+msgstr "Seitsemän ministeriä"
+
+#. Korean constellation, native: GwanSak
+msgid "Thread Straw"
+msgstr "Pujotetut oljet"
+
+#. Korean constellation, native: CheonShi
+msgid "Market Fence"
+msgstr "Torin aita"
+
+#. Korean constellation, native: Huu
+msgid "Feudal Lord"
+msgstr "Feodaaliherra"
+
+#. Korean constellation, native: JaeJwa
+msgid "Seat for Emperor"
+msgstr "Keisarin istuin"
+
+#. Korean constellation, native: JongSeong
+msgid "Royal Family"
+msgstr "Kuninkaallinen perhe"
+
+#. Korean constellation, native: JongJeong
+msgid "Head of Family"
+msgstr "Perheenpää"
+
+#. Korean constellation, native: Jong_iin
+msgid "Record of Family"
+msgstr "Sukukirja"
+
+#. Korean constellation, native: JongDaeBuu
+msgid "Officer for Family"
+msgstr "Perhevirkailija"
+
+#. Korean constellation, native: ShiRuu
+msgid "Tower in Market"
+msgstr "Torin torni"
+
+#. Korean constellation, native: Gok
+msgid "Measure Cereal"
+msgstr "Viljamitta"
+
+#. Korean constellation, native: Duu
+msgid "Cereal Measure Regulation"
+msgstr "Viljanmittaussäännöt"
+
+#. Korean constellation, native: GeoSaa
+msgid "Officer for Chariots"
+msgstr "Vaunuvirkailija"
+
+#. Korean constellation, native: BaekTaak
+msgid "Measure Amount"
+msgstr "Mittamäärä"
+
+#. Korean constellation, native: DoSaa
+msgid "Butchery"
+msgstr "Teurastamo"
+
+#. Korean constellation, native: YeolSaa
+msgid "Officer for Jewel"
+msgstr "Jalokivivirkailija"
+
+#. Korean constellation, native: JwaHaal
+msgid "Royal"
+msgstr "Kuninkaallinen"
+
+#. Korean constellation, native: UuHaal
+msgid "Lord"
+msgstr "Herra"
+
+#. Korean constellation, native: JwaJipBeop
+msgid "Left Executor"
+msgstr "Vasen teloittaja"
+
+#. Korean constellation, native: UuJipBeop
+msgid "Right Executor"
+msgstr "Oikea teloittaja"
+
+#. Korean constellation, native: HeoRyang
+msgid "Crossbeam for Heo"
+msgstr "Heon poikkihirsi"
+
+#. Korean constellation, native: CheonJeon
+msgid "Threading Coins"
+msgstr "Pujotetut kolikot"
+
+#. Name for HIP 78820
+msgid "SangSang"
+msgstr "SangSang"
+
+#. Name for HIP 78104
+msgid "ChaSang"
+msgstr "ChaSang"
+
+#. Name for HIP 45075
+msgid "ChaJang"
+msgstr "ChaJang"
+
+#. Name for HIP 25336
+msgid "UJangGun"
+msgstr "UJangGun"
+
+#. Name for HIP 97649
+msgid "DaeJangGun"
+msgstr "DaeJangGun"
+
+#. Name for HIP 27989
+msgid "JwaJangGun"
+msgstr "JwaJangGun"
+
+#. Name for HIP 746
+msgid "WangRang"
+msgstr "WangRang"
+
+#. Name for HIP 2920
+msgid "CheonSa"
+msgstr "CheonSa"
+
+#. Name for HIP 21421
+msgid "CheonGou"
+msgstr "CheonGou"
+
+#. Name for HIP 28360
+msgid "SaGong"
+msgstr "SaGong"
+
+#. Name for HIP 28380
+msgid "CheonOk"
+msgstr "CheonOk"
+
+#. Name for HIP 25428
+msgid "CheonChang"
+msgstr "CheonChang"
+
+#. Name for HIP 23015
+msgid "Gyeong"
+msgstr "Gyeong"
+
+#. Name for HIP 27366
+msgid "HuJangGun"
+msgstr "HuJangGun"
+
+#. Name for HIP 24436
+msgid "PyeonJangGun"
+msgstr "PyeonJangGun"
+
+#. Name for HIP 25930
+msgid "SamJangGun"
+msgstr "SamJangGun"
+
+#. Name for HIP 37740
+msgid "TaeSa"
+msgstr "TaeSa"
+
+#. Name for HIP 36962
+msgid "BakSa"
+msgstr "BakSa"
+
+#. Name for HIP 36046
+msgid "SamGong"
+msgstr "SamGong"
+
+#. Name for HIP 34693
+msgid "JaeUu"
+msgstr "JaeUu"
+
+#. Name for HIP 33018
+msgid "JaeSa"
+msgstr "JaeSa"
+
+#. Name for HIP 49669
+msgid "YeoJu"
+msgstr "YeoJu"
+
+#. Name for HIP 49637
+msgid "YeoEo"
+msgstr "YeoEo"
+
+#. Name for HIP 47508
+msgid "TaeMin"
+msgstr "TaeMin"
+
+#. Name for HIP 51624
+msgid "SouMin"
+msgstr "SouMin"
+
+#. Name for HIP 49583
+msgid "Buin"
+msgstr "Buin"
+
+#. Name for HIP 50583
+msgid "WangBi"
+msgstr "WangBi"
+
+#. Name for HIP 50335
+msgid "HuGung"
+msgstr "HuGung"
+
+#. Name for HIP 57632
+msgid "HwangJae"
+msgstr "HwangJae"
+
+#. Name for HIP 53954
+msgid "CheoSa"
+msgstr "CheoSa"
+
+#. Name for HIP 53417
+msgid "EuiSa"
+msgstr "EuiSa"
+
+#. Name for HIP 51233
+msgid "DaeBu"
+msgstr "DaeBu"
+
+#. Name for HIP 44127
+msgid "SangTae"
+msgstr "SangTae"
+
+#. Name for HIP 50372
+msgid "JungTae"
+msgstr "JungTae"
+
+#. Name for HIP 55219
+msgid "HaTae"
+msgstr "HaTae"
+
+#. Name for HIP 75097
+msgid "TaeJa"
+msgstr "TaeJa"
+
+#. Name for HIP 72607
+msgid "JaeWang"
+msgstr "JaeWang"
+
+#. Name for HIP 70692
+msgid "SeoJa"
+msgstr "SeoJa"
+
+#. Name for HIP 62572
+msgid "CheonChu"
+msgstr "CheonChu"
+
+#. Name for HIP 41704
+msgid "SangJang"
+msgstr "SangJang"
+
+#. Name for HIP 46733
+msgid "TaeSang"
+msgstr "TaeSang"
+
+#. Name for HIP 46853
+msgid "SaJu.DaeRi"
+msgstr "SaJu.DaeRi"
+
+#. Name for HIP 54061
+msgid "Jeong"
+msgstr "Jeong"
+
+#. Name for HIP 53910
+msgid "Beop"
+msgstr "Beop"
+
+#. Name for HIP 58001
+msgid "Ryeong"
+msgstr "Ryeong"
+
+#. Name for HIP 59774
+msgid "Beol"
+msgstr "Beol"
+
+#. Name for HIP 62956
+msgid "Sal"
+msgstr "Sal"
+
+#. Name for HIP 65378
+msgid "Wi"
+msgstr "Wi"
+
+#. Name for HIP 67301
+msgid "Eung"
+msgstr "Eung"
+
+#. Name for HIP 80763
+msgid "MyeongDang"
+msgstr "MyeongDang"
+
+#. Name for HIP 82396
+msgid "Hu"
+msgstr "Hu"
+
+#. Name for HIP 86228
+msgid "Bin"
+msgstr "Bin"
+
+#. Name for HIP 5447
+msgid "DaeJang"
+msgstr "DaeJang"

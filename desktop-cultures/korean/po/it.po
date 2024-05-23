@@ -1,0 +1,1341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
+"Language-Team: Italian (https://app.transifex.com/stellarium/teams/80998/"
+"it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
+
+#. Sky culture name
+msgid "Korean"
+msgstr "Coreano"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"The Chinese, Korean, and Japanese constellations have the same origin and "
+"look very similar in shape. They are represented respectively in the Dun "
+"Huang starmap from the 8th century, the Cheon-Sang-Yeol-Cha-Bun-Ya-Ji-Do map "
+"and in the Kitora skymap painted in A.D.7C ~ 8C. Their positions and their "
+"names are similar in the Chinese alphabet. The name of the constellations "
+"first appear in the Records of the Grand Historian(史記) in Han dynasty "
+"describing Xia dynasty in about 2000 B.C."
+msgstr ""
+"Le costellazioni cinesi, coreane e giapponesi hanno le stesse origini e "
+"appaiono di forma simile. Esse sono state rappresentate rispettivamente "
+"nella mappa celeste Dun Huang a partire dal VIII secolo, nella mappa Cheon-"
+"Sang-Yeol-Cha-Bun-Ya-Ji-Do e nella mappa Kitora dipinta nell'anno 7 o 8 DC. "
+"Nell'alfabeto cinese le posizioni delle costellazioni e i loro nomi sono "
+"simili. Il nome delle costellazioni &egrave; apparso per la prima volta nei "
+"registri del Grande Storico della dinastia di Han che descriveva la dinastia "
+"di Xia, intorno all'anno 2000 AC."
+
+#. Sky culture description section in markdown format
+msgid ""
+"### Origin\n"
+"\n"
+"The 272 constellations displayed in this Stellarium sky culture are based on "
+"the Cheon-Sang-Yeol-Cha-Bun-Ya-Zi-Do, the Korean Constellation map, which "
+"was carved on the stone on 1395 but has its origin from another sky map "
+"which existed about 2,000 years ago. This map represents 1467 stars in about "
+"190 constellations whose shapes are slightly different from the chinese "
+"ones. The interpretation of the map is not easy: the map is so old that only "
+"about 300 stars are found to match with the real stars. All the stars of the "
+"map were drawn on a circle, so the equator seems smaller than the southern "
+"limit. Because the density of constellation does not change with respect to "
+"the position, the position and the size of the constellations were somewhat "
+"altered in a way unknown by the author. It is assumed that there should be "
+"no bright stars which do not belong to any constellations. The work of the "
+"author is subject to interpretation, and could be changed at a later time. "
+"It will however roughly show what the Korean Constellation are like."
+msgstr ""
+"### Origini\n"
+"\n"
+"Le 272 costellazioni visualizzate in questa cultura in Stellarium sono "
+"basate sullo Cheon-Sang-Yeol-Cha-Bun-Ya-Zi-Do, la mappa coreana delle "
+"costellazioni, che &egrave; stata scolpita nella roccia nel 1395 ma ha "
+"origine da un'altra mappa del cielo di circa 2000 anni fa. Questa mappa "
+"rappresenta 1467 stelle in circa 190 costellazioni le cui forme sono "
+"leggermente diverse da quelle cinesi. L'interpretazione di questa mappa non "
+"&egrave; facile: la mappa &egrave; cos&igrave; vecchia che solo 300 stelle "
+"trovano corrispondenza con stelle reali. Tutte le stelle della mappa sono "
+"state disegnate su un cerchio, quindi l'equatore sembra pi&ugrave; piccolo "
+"del limite meridionale. Poich&egrave; la densit&agrave; di costellazioni non "
+"cambia con la posizione, la posizione e le dimensioni delle costellazioni "
+"sono state in qualche modo sconosciuto alterate dall'autore. &Egrave; stato "
+"assunto che non ci dovrebbero essere stelle luminose non appartenenti a "
+"nessuna costellazione. Il lavoro dell'autore &egrave; di libera "
+"interpretazione, e potrebbe in futuro essere modificato. Esso comunque "
+"illustra a grandi linee le costellazioni coreane."
+
+#. Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/"
+"Cheonsang_Yeolcha_Bunyajido)"
+msgstr ""
+" - [#1]: [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/"
+"Cheonsang_Yeolcha_Bunyajido)"
+
+#. Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user *[Jeong, Tae-Min](http://"
+"user.chollian.net/~jtm71/)*"
+msgstr ""
+"Queste costellazioni sono state realizzate grazie al contributo "
+"dell'utilizzatore di Stellarium *[Jeong, Tae-Min](http://user.chollian.net/"
+"~jtm71/)*"
+
+#. Korean constellation, native: Goo
+msgid "Dog"
+msgstr "Cane"
+
+#. Korean constellation, native: Shii
+msgid "Arrow"
+msgstr "Freccia"
+
+#. Korean constellation, native: Ho
+msgid "Bow"
+msgstr "Arco"
+
+#. Korean constellation, native: Eo
+msgid "Fish"
+msgstr "Pesce"
+
+#. Korean constellation, native: BukDuu
+msgid "Northern Dipper"
+msgstr "Carro del Nord"
+
+#. Korean constellation, native: Cheuk
+msgid "Toilet"
+msgstr "Bagno"
+
+#. Korean constellation, native: Chaek
+msgid "Whip"
+msgstr "Frusta"
+
+#. Korean constellation, native: DaeReung
+msgid "Mausoleum"
+msgstr "Mausoleo"
+
+#. Korean constellation, native: Gu
+msgid "Mortar"
+msgstr "Mortaio"
+
+#. Korean constellation, native: GwonSeol
+msgid "Rolled Tongue"
+msgstr "Lingua Arrotolata"
+
+#. Korean constellation, native: Gaang
+msgid "Chaff"
+msgstr "Paglia"
+
+#. Korean constellation, native: RyeoSeok
+msgid "Whetstone"
+msgstr "Pietra Affilata"
+
+#. Korean constellation, native: NaeJuu
+msgid "Inner Kitchen"
+msgstr "Cucina interna"
+
+#. Korean constellation, native: SaamTae
+msgid "Three Steps"
+msgstr "Tre Passi"
+
+#. Korean constellation, native: HwanJaa
+msgid "Eunuch"
+msgstr "Eunuco"
+
+#. Korean constellation, native: TeaJaa
+msgid "Crown Prince"
+msgstr "Erede al trono"
+
+#. Korean constellation, native: TouGongRi
+msgid "Official for Materials Supply"
+msgstr "Ufficiale per i rifornimenti"
+
+#. Korean constellation, native: WaeJuu
+msgid "Outer Kitchen"
+msgstr "Cucina esterna"
+
+#. Korean constellation, native: OJeHuu
+msgid "Five Lords"
+msgstr "Cinque Signori"
+
+#. Korean constellation, native: UuGi
+msgid "Right Flag"
+msgstr "Bandiera Destra"
+
+#. Korean constellation, native: Za
+msgid "Son"
+msgstr "Figlio"
+
+#. Korean constellation, native: JwaGi
+msgid "Left Flag"
+msgstr "Bandiera Sinistra"
+
+#. Korean constellation, native: GeoBuu
+msgid "Charioteer"
+msgstr "L'auriga"
+
+#. Korean constellation, native: JuJeong
+msgid "Holy Kettle"
+msgstr "Sacro Bollitore"
+
+#. Korean constellation, native: CheonJeon
+msgid "Farm of Capital City"
+msgstr "Fattoria di Capital City"
+
+#. Korean constellation, native: JwaGak
+msgid "Dignity of King"
+msgstr "Dignità der Re"
+
+#. Korean constellation, native: JinHyeon
+msgid "Nomination"
+msgstr "Nomina"
+
+#. Korean constellation, native: CheonMun
+msgid "Gate of Sky"
+msgstr "Porta del Cielo"
+
+#. Korean constellation, native: Pyeong
+msgid "Equality"
+msgstr "Uguaglianza"
+
+#. Korean constellation, native: SeopJae
+msgid "Helper"
+msgstr "Aiutante"
+
+#. Korean constellation, native: DaeGaak
+msgid "Position of Holy King"
+msgstr "Posizione del Santo Re"
+
+#. Korean constellation, native: Hang
+msgid "Neck of Dragon"
+msgstr "Collo del Dragone"
+
+#. Korean constellation, native: JeolWii
+msgid "Beheading"
+msgstr "Decapitazione"
+
+#. Korean constellation, native: DuunWaan
+msgid "Judge"
+msgstr "Giudice"
+
+#. Korean constellation, native: ChoYo
+msgid "Flutting Flag"
+msgstr "Bandiera che sventola"
+
+#. Korean constellation, native: GyeongHaa
+msgid "Javelin of Sky"
+msgstr "Giavellotto del cielo"
+
+#. Korean constellation, native: JaeSeok
+msgid "Seat for Longevity"
+msgstr "Sedia della Longevità"
+
+#. Korean constellation, native: HangJii
+msgid "Oar for visitor"
+msgstr "Remo per l'ospite"
+
+#. Korean constellation, native: CheonYuu
+msgid "Milk of Sky"
+msgstr "Latte del Cielo"
+
+#. Korean constellation, native: Jeo
+msgid "House of Queen"
+msgstr "Casa della Regina"
+
+#. Korean constellation, native: JinGeo
+msgid "Ancient Chariot"
+msgstr "Carro Antico"
+
+#. Korean constellation, native: CheonPouk
+msgid "Carriage for King"
+msgstr "Trasporto per il Re"
+
+#. Korean constellation, native: GiJinJangGuun
+msgid "General of Cavalry"
+msgstr "Generale di Cavalleria"
+
+#. Korean constellation, native: GiGwan
+msgid "Cavalry of Emperor"
+msgstr "Cavalleria dell'Impero"
+
+#. Korean constellation, native: GeoGii
+msgid "General of Mobile Troops"
+msgstr "Generale delle Truppe mobili"
+
+#. Korean constellation, native: DongHaam
+msgid "East Road"
+msgstr "Strada dell'Est"
+
+#. Korean constellation, native: GeonPae
+msgid "Gate Bolt"
+msgstr "Cardine"
+
+#. Korean constellation, native: GuGeom
+msgid "Door Lock and Key"
+msgstr "Serratura e Chiave"
+
+#. Korean constellation, native: Beol
+msgid "Penalty"
+msgstr "Penalità"
+
+#. Korean constellation, native: Baang
+msgid "Royal Hall"
+msgstr "Sala Reale"
+
+#. Korean constellation, native: JongGwan
+msgid "Chamberlain"
+msgstr "Camerlengo"
+
+#. Korean constellation, native: iil
+msgid "Sun"
+msgstr "Sole"
+
+#. Korean constellation, native: SeoHaam
+msgid "West Road"
+msgstr "Strada dell'Ovest"
+
+#. Korean constellation, native: Shim
+msgid "Seat of Emperor"
+msgstr "Sedia dell'Imperatore"
+
+#. Korean constellation, native: JeokJol
+msgid "Five Troops"
+msgstr "Cinque Truppe"
+
+#. Korean constellation, native: CheonGang
+msgid "River of Sky"
+msgstr "Fiume del Cielo"
+
+#. Korean constellation, native: BuYeol
+msgid "Prayer for Progeny"
+msgstr "Preghiera per la Progenie"
+
+#. Korean constellation, native: Ku
+msgid "Forcast"
+msgstr "Predizione"
+
+#. Korean constellation, native: Mii
+msgid "Yard for Empresses"
+msgstr "Cammino per Imperatrici"
+
+#. Korean constellation, native: ShinGuung
+msgid "Holy Palace"
+msgstr "Palazzo Santo"
+
+#. Korean constellation, native: Kii
+msgid "Winnow"
+msgstr "Mondatore"
+
+#. Korean constellation, native: WaeJeo
+msgid "Outer Pestle"
+msgstr "Pestello Esterno"
+
+#. Korean constellation, native: CheonByeon
+msgid "Head of Town"
+msgstr "Testa di Città"
+
+#. Korean constellation, native: Geon
+msgid "Build"
+msgstr "Costruzione"
+
+#. Korean constellation, native: CheonGae
+msgid "Fowl of Sky"
+msgstr "Uccello del Cielo"
+
+#. Korean constellation, native: NaamDoo
+msgid "Shrine of Sky"
+msgstr "Tempio del Cielo"
+
+#. Korean constellation, native: GuuGuuk
+msgid "Northeastern Nations"
+msgstr "Nazioni di Nord-Est"
+
+#. Korean constellation, native: NongJaang_iin
+msgid "Old Farmer"
+msgstr "Vecchio Agricoltore"
+
+#. Korean constellation, native: Byeol
+msgid "Snapping Turtle"
+msgstr "Tartaruga Scattante"
+
+#. Korean constellation, native: YeonDo
+msgid "Road for Emperor"
+msgstr "Strada dell'Impero"
+
+#. Korean constellation, native: JikNyeo
+msgid "The Weaver"
+msgstr "Il Tessitore"
+
+#. Korean constellation, native: JaamDae
+msgid "River adjoining Tower"
+msgstr "Fiume vicino alla torre"
+
+#. Korean constellation, native: HaGo
+msgid "Drum of River"
+msgstr "Tamburo del Fiume"
+
+#. Korean constellation, native: CheonBu
+msgid "Drumstick of Sky"
+msgstr "Bacchetta del Cielo"
+
+#. Korean constellation, native: GyeonUu
+msgid "Cow leading Man"
+msgstr "Pastore di Mucche"
+
+#. Korean constellation, native: NaaEon
+msgid "Bank Spread"
+msgstr "Semina sull'Argine"
+
+#. Korean constellation, native: BuuGwang
+msgid "Basket for Silkworm"
+msgstr "Cesto per Baco da Seta"
+
+#. Korean constellation, native: HaeJuung
+msgid "Officer for Cart"
+msgstr "Funzionario della Carrozza"
+
+#. Korean constellation, native: CheonJin
+msgid "Ferry of Sky"
+msgstr "Traghetto del Cielo"
+
+#. Korean constellation, native: Gwa
+msgid "Fruit"
+msgstr "Frutta"
+
+#. Korean constellation, native: PaeGwa
+msgid "Seed"
+msgstr "Seme"
+
+#. Korean constellation, native: iiJuu
+msgid "Storage for Lady"
+msgstr "Magazzino per Donne"
+
+#. Korean constellation, native: SuuNyeo
+msgid "Court Lady"
+msgstr "Dimora per Donne"
+
+#. Korean constellation, native: SaaBii
+msgid "Judge Fault"
+msgstr "Errore del Giudice"
+
+#. Korean constellation, native: SaaWii
+msgid "Amend Fault"
+msgstr "Ammenda dell'Errore"
+
+#. Korean constellation, native: SaaRok
+msgid "Grant Life"
+msgstr "Sussidio a Vita"
+
+#. Korean constellation, native: SaaMyeong
+msgid "Punish"
+msgstr "Punizione"
+
+#. Korean constellation, native: Heo
+msgid "Empty House"
+msgstr "Casa Vuota"
+
+#. Korean constellation, native: Gok
+msgid "Weep"
+msgstr "Pianto"
+
+#. Korean constellation, native: Eup
+msgid "Sob"
+msgstr "Singhiozzo"
+
+#. Korean constellation, native: CheonRuSeong
+msgid "Castle with Rampart"
+msgstr "Castello con Terrapieno"
+
+#. Korean constellation, native: Guu
+msgid "Hook for Dress"
+msgstr "Appendiabiti"
+
+#. Korean constellation, native: ChoBo
+msgid "Groom"
+msgstr "Stalliere"
+
+#. Korean constellation, native: iinSeong
+msgid "Human"
+msgstr "Umano"
+
+#. Korean constellation, native: NaeJeo
+msgid "Inner Pestle"
+msgstr "Pestello Interno"
+
+#. Korean constellation, native: Wii
+msgid "Warehouse of Sky"
+msgstr "Magazzino del Cielo"
+
+#. Korean constellation, native: BunMyo
+msgid "Tomb"
+msgstr "Tomba"
+
+#. Korean constellation, native: GaeOok
+msgid "Cover of House"
+msgstr "Tetto della Casa"
+
+#. Korean constellation, native: PaeGuu
+msgid "Broken Mortar"
+msgstr "Mortaio Spezzato"
+
+#. Korean constellation, native: DeungSaa
+msgid "Climbing Serpent"
+msgstr "Serpente che Scala"
+
+#. Korean constellation, native: Shil
+msgid "Palace of Emperor"
+msgstr "Palazzo dell'imperatore"
+
+#. Korean constellation, native: iiGuung
+msgid "Detached Palace"
+msgstr "Palazzo Isolato"
+
+#. Korean constellation, native: JeonNwoe
+msgid "Lightening"
+msgstr "Fulmine"
+
+#. Korean constellation, native: NuByeokJin
+msgid "Rampart"
+msgstr "Terrapieno"
+
+#. Korean constellation, native: URimGuun
+msgid "Troops of Sky"
+msgstr "Truppe del Cielo"
+
+#. Korean constellation, native: BukRakSaMuun
+msgid "Village for Patrol"
+msgstr "Villaggio della Guardia"
+
+#. Korean constellation, native: CheonMang
+msgid "Net of Sky"
+msgstr "Rete del cielo"
+
+#. Korean constellation, native: CheonGu
+msgid "Stable of Sky"
+msgstr "Stalla del cielo"
+
+#. Korean constellation, native: DongByeok
+msgid "Eastern Wall"
+msgstr "Muro Orientale"
+
+#. Korean constellation, native: TouGong
+msgid "Civil Engineer"
+msgstr "Ingegnere Civile"
+
+#. Korean constellation, native: ByeokRyeok
+msgid "Thunderbolts"
+msgstr "Saette"
+
+#. Korean constellation, native: UunUu
+msgid "Clouds and Rain"
+msgstr "Nuvole e Pioggia"
+
+#. Korean constellation, native: GaakDo
+msgid "Highway"
+msgstr "Strada Maestra"
+
+#. Korean constellation, native: WaangRaang
+msgid "Officer for Chariot of"
+msgstr "Funzionario del Carro"
+
+#. Korean constellation, native: BuRo
+msgid "Side Road"
+msgstr "Strada Minore"
+
+#. Korean constellation, native: Gyu
+msgid "Armory"
+msgstr "Armeria"
+
+#. Korean constellation, native: GuunNaamMun
+msgid "Southern Gate of Emperator"
+msgstr "Cancello Meridionale dell'Imperatore"
+
+#. Korean constellation, native: WaeByeong
+msgid "Outer Folding Screen"
+msgstr "Paravento pieghevole esterno"
+
+#. Korean constellation, native: CheonHoun
+msgid "Toilet of Sky"
+msgstr "Latrina del cielo"
+
+#. Korean constellation, native: SaaGong
+msgid "Architect"
+msgstr "Architetto"
+
+#. Korean constellation, native: CheonJaangGuun
+msgid "Emperator"
+msgstr "Imperatore"
+
+#. Korean constellation, native: Ruu
+msgid "Watchtower"
+msgstr "Torre di Guardia"
+
+#. Korean constellation, native: JwaGyeong
+msgid "Left Elm"
+msgstr "Olmo di Sinistra"
+
+#. Korean constellation, native: UuGyeong
+msgid "Right Elm"
+msgstr "Olmo di Destra"
+
+#. Korean constellation, native: CheonChang
+msgid "Storehouse of Sky"
+msgstr "Negozio del Cielo"
+
+#. Korean constellation, native: CheonYu
+msgid "Stack of Cereals"
+msgstr "Pila di Cereali"
+
+#. Korean constellation, native: CheonSeon
+msgid "Ship of Sky"
+msgstr "Nave del Cielo"
+
+#. Korean constellation, native: JeokSuu
+msgid "Store of Water"
+msgstr "Deposito d'acqua"
+
+#. Korean constellation, native: JeokShi
+msgid "Heap of Corpse"
+msgstr "Cumolo di Cadaveri"
+
+#. Korean constellation, native: Wii
+msgid "Stomach of Tiger"
+msgstr "Ventre della Tigre"
+
+#. Korean constellation, native: CheonReum
+msgid "Store of Millet for"
+msgstr "Magazzino del Miglio"
+
+#. Korean constellation, native: CheonGyun
+msgid "Storehouse for Cereals"
+msgstr "Negozio dei Cereali"
+
+#. Korean constellation, native: CheonCham
+msgid "Shaman of Sky"
+msgstr "Sciamano del Cielo"
+
+#. Korean constellation, native: Myo
+msgid "Ear and Eye of"
+msgstr "Orecchio e Occhio"
+
+#. Korean constellation, native: Wol
+msgid "Moon"
+msgstr "Luna"
+
+#. Korean constellation, native: CheonAa
+msgid "Hill of Sky"
+msgstr "Collina del Cielo"
+
+#. Korean constellation, native: CheonEum
+msgid "Conspiracy of Sky"
+msgstr "Cospirazione del Cielo"
+
+#. Korean constellation, native: ChuuGo
+msgid "Fodder"
+msgstr "Foraggio"
+
+#. Korean constellation, native: OoGeo
+msgid "Garage for Chariot"
+msgstr "Rimessa per il Carro"
+
+#. Korean constellation, native: HaamJii
+msgid "Pond for Fish"
+msgstr "Stagno dei Pesci"
+
+#. Korean constellation, native: Ju
+msgid "Pillar"
+msgstr "Pilastro"
+
+#. Korean constellation, native: CheonHwang
+msgid "Puddle of Sky"
+msgstr "Pozzanghera del cielo"
+
+#. Korean constellation, native: JaeWaang
+msgid "Kings"
+msgstr "Re"
+
+#. Korean constellation, native: CheonGwan
+msgid "Gateway of Sky"
+msgstr "Cancello del Cielo"
+
+#. Korean constellation, native: SaamGii
+msgid "Flage of Saam"
+msgstr "Travestimento di Saam"
+
+#. Korean constellation, native: CheonGa
+msgid "Village of Sky"
+msgstr "Villaggio del Cielo"
+
+#. Korean constellation, native: CheonGo
+msgid "Belvedere of Sky"
+msgstr "Panorama del Cielo"
+
+#. Korean constellation, native: Piil
+msgid "General of Border"
+msgstr "Generale di Confine"
+
+#. Korean constellation, native: CheonJeol
+msgid "Celebration of Sky"
+msgstr "Celebrazione del Cielo"
+
+#. Korean constellation, native: GuuYuu
+msgid "Flag of Emperor"
+msgstr "Bandiera dell'Imperatore"
+
+#. Korean constellation, native: GuJuJuGu
+msgid "Nine Territory"
+msgstr "Territorio Nove"
+
+#. Korean constellation, native: CheonWon
+msgid "Garden of Sky"
+msgstr "Giardino del Cielo"
+
+#. Korean constellation, native: JwaGii
+msgid "Settled Flag"
+msgstr "Bandiera fissata"
+
+#. Korean constellation, native: SaaGwae
+msgid "Forcast Calamity"
+msgstr "Calamità prevista"
+
+#. Korean constellation, native: Saam
+msgid "Saam"
+msgstr "Saam"
+
+#. Korean constellation, native: Beol
+msgid "Expeditionary Force"
+msgstr "Forza di Spedizione"
+
+#. Korean constellation, native: GuunJeong
+msgid "Well for Millitary"
+msgstr "Pozzo per l'esercito"
+
+#. Korean constellation, native: OkJeong
+msgid "Well of Jade"
+msgstr "Pozzo di giada"
+
+#. Korean constellation, native: Byeong
+msgid "Folding Screen"
+msgstr "Schermo Pieghevole"
+
+#. Korean constellation, native: JeokShin
+msgid "Piled Brushwood"
+msgstr "Catasta di legna"
+
+#. Korean constellation, native: BuukHa
+msgid "Northern River"
+msgstr "Fiume del Nord"
+
+#. Korean constellation, native: CheonJuun
+msgid "Wine Glass of Sky"
+msgstr "Bicchiere di Vino del Cielo"
+
+#. Korean constellation, native: DongJeong
+msgid "Eastern Well"
+msgstr "Pozzo orientale"
+
+#. Korean constellation, native: SuuBuu
+msgid "Flood control"
+msgstr "Controllo dell'alluvione"
+
+#. Korean constellation, native: SuuWii
+msgid "Balance of Water"
+msgstr "Bilancia d'Acqua"
+
+#. Korean constellation, native: SaaDok
+msgid "Four Spirit of River"
+msgstr "Quattro spiriti del fiume"
+
+#. Korean constellation, native: NamHa
+msgid "Southern River"
+msgstr "Fiume del Sud"
+
+#. Korean constellation, native: GwolGu
+msgid "Twin Gate"
+msgstr "Porta a due"
+
+#. Korean constellation, native: RangSeong
+msgid "Star of Wolf"
+msgstr "Stella del Lupo"
+
+#. Korean constellation, native: YaGae
+msgid "Wild Fowls"
+msgstr "Polli Selvatici"
+
+#. Korean constellation, native: GuunShii
+msgid "Market for Army"
+msgstr "Mercato per l'esercito"
+
+#. Korean constellation, native: Soun
+msgid "Grandchildren"
+msgstr "Nipoti"
+
+#. Korean constellation, native: Zaa
+msgid "Scout of Three Troups"
+msgstr "Esploratore di Tre Truppe"
+
+#. Korean constellation, native: Zaang_iin
+msgid "Grown-up"
+msgstr "Adulto"
+
+#. Korean constellation, native: Noin
+msgid "Oldman"
+msgstr "Anziano"
+
+#. Korean constellation, native: Gwan
+msgid "Beacon"
+msgstr "Faro"
+
+#. Korean constellation, native: Kwii
+msgid "Eye of Sky"
+msgstr "Occhio del Cielo"
+
+#. Korean constellation, native: JeokShii
+msgid "Pile of Dead"
+msgstr "Catasta di morti"
+
+#. Korean constellation, native: CheonGu
+msgid "Green Ridge"
+msgstr "Crinale verde"
+
+#. Korean constellation, native: CheonGu
+msgid "Dog of Sky"
+msgstr "Cane del Cielo"
+
+#. Korean constellation, native: CheonSa
+msgid "Spirit of GuRyoung"
+msgstr "Spirito di GuRyoung"
+
+#. Korean constellation, native: JuuGii
+msgid "Flag of Wine Officer"
+msgstr "Bandiera del Cerimoniere del Vino"
+
+#. Korean constellation, native: Ryu
+msgid "Officer of Kitchen"
+msgstr "Funzionario della cucina"
+
+#. Korean constellation, native: NaePyeong
+msgid "Equality and Fair"
+msgstr "Eguaglianza e lealtà"
+
+#. Korean constellation, native: HeonWon
+msgid "Emperor HeonWon"
+msgstr "Imperatore HeonWon"
+
+#. Korean constellation, native: Seong
+msgid "Capital of Sky"
+msgstr "Capitale del cielo"
+
+#. Korean constellation, native: Jiik
+msgid "Chief of Farming"
+msgstr "Capo dell'Agricoltura"
+
+#. Korean constellation, native: Jaang
+msgid "Officer of Tomb"
+msgstr "Funzionario delle Tombe"
+
+#. Korean constellation, native: CheonMyo
+msgid "Tomb of Sky"
+msgstr "Tomba del cielo"
+
+#. Korean constellation, native: iik
+msgid "Wing of Red Bird"
+msgstr "Ala di Uccello Rosso"
+
+#. Korean constellation, native: DonGu
+msgid "Eastern Pottery"
+msgstr "Ceramiche orientali"
+
+#. Korean constellation, native: Jin
+msgid "Chariot of Emperor"
+msgstr "Carro dell'imperatore"
+
+#. Korean constellation, native: JangSaa
+msgid "Sand for Life"
+msgstr "Sabbia per la vita"
+
+#. Korean constellation, native: GuunMuun
+msgid "Gateway for Troops"
+msgstr "Ingresso per le truppe"
+
+#. Korean constellation, native: NangJaang
+msgid "Guardian Knight"
+msgstr "Cavaliere guardiano"
+
+#. Korean constellation, native: OZehu
+msgid "Five Feudal Lords"
+msgstr "Cinque signori feudali"
+
+#. Korean constellation, native: SangJiin
+msgid "SangJiin"
+msgstr "SangJiin"
+
+#. Korean constellation, native: SoMii
+msgid "Low Fence"
+msgstr "Recinto basso"
+
+#. Korean constellation, native: TaeMi
+msgid "Tall Fence"
+msgstr "Recinto alto"
+
+#. Korean constellation, native: GuGyeong
+msgid "Nine Lords"
+msgstr "Nove signori"
+
+#. Korean constellation, native: HoBuun
+msgid "Dung of Tiger"
+msgstr "Sterco della tigre"
+
+#. Korean constellation, native: OJe
+msgid "Five Emperor"
+msgstr "Cinque imperatori"
+
+#. Korean constellation, native: SaamGongNaeJwa
+msgid "Three Minister"
+msgstr "Tre ministri"
+
+#. Korean constellation, native: AlZaa
+msgid "Officer for Audience"
+msgstr "Funzionario per il Pubblico"
+
+#. Korean constellation, native: MyeongDang
+msgid "Grave Front"
+msgstr "Facciata della Tomba"
+
+#. Korean constellation, native: YeongDae
+msgid "Observatory"
+msgstr "Osservatorio"
+
+#. Korean constellation, native: YeoEoGwan
+msgid "Female Officer"
+msgstr "Funzionario Donna"
+
+#. Korean constellation, native: JeonSaa
+msgid "Wide Lodging Area"
+msgstr "Zona degli Alloggi Grandi"
+
+#. Korean constellation, native: PalGok
+msgid "Eight Cereals"
+msgstr "Otto cereali"
+
+#. Korean constellation, native: CheonBae
+msgid "Advance Guard"
+msgstr "Avanguardia"
+
+#. Korean constellation, native: SamGong
+msgid "Three Ministers"
+msgstr "Tre ministri"
+
+#. Korean constellation, native: EumDeok
+msgid "Virtue"
+msgstr "Virtù"
+
+#. Korean constellation, native: Cheon_iil
+msgid "Emperor's God of War"
+msgstr "Dio Imperiale della Guerra"
+
+#. Korean constellation, native: Tae_iil
+msgid "Emperor's God of Weather"
+msgstr "Dio Imperiale del Tempo"
+
+#. Korean constellation, native: HyeonGwa
+msgid "Flap of Flag"
+msgstr "Lembo della bandiera"
+
+#. Korean constellation, native: Saang
+msgid "Minister"
+msgstr "Ministro"
+
+#. Korean constellation, native: TaeYaangSuu
+msgid "General and Minister"
+msgstr "Generale e ministro"
+
+#. Korean constellation, native: CheonRyoe
+msgid "Jail of Sky"
+msgstr "Prigione del cielo"
+
+#. Korean constellation, native: MunChang
+msgid "Six Department"
+msgstr "Dipartimento Sei"
+
+#. Korean constellation, native: NaeGae
+msgid "Inner Stairway"
+msgstr "Scala interna"
+
+#. Korean constellation, native: CheonChang
+msgid "Spear of Sky"
+msgstr "Lancia del cielo"
+
+#. Korean constellation, native: HwaGae
+msgid "Cover for Emperor"
+msgstr "Coperta per l'imperatore"
+
+#. Korean constellation, native: OJeJwa
+msgid "Place for Five Emperor"
+msgstr "Luogo dei cinque imperatori"
+
+#. Korean constellation, native: YuukGaap
+msgid "60 Years"
+msgstr "60 anni"
+
+#. Korean constellation, native: CheonJu
+msgid "Kitchen of Sky"
+msgstr "Cucina del cielo"
+
+#. Korean constellation, native: BukGeuk
+msgid "North Pole"
+msgstr "Polo Nord"
+
+#. Korean constellation, native: GuJiin
+msgid "Wound Lodge"
+msgstr "Feritoia"
+
+#. Korean constellation, native: Gaang
+msgid "Single-log Bridge"
+msgstr "Ponte a tronco singolo"
+
+#. Korean constellation, native: CheonHwangTaeJae
+msgid "Great Emperor"
+msgstr "Grande imperatore"
+
+#. Korean constellation, native: SaangSeo
+msgid "Officer for Opinion"
+msgstr "Funzionario dell'Opinione"
+
+#. Korean constellation, native: CheonJu
+msgid "Pillar of Sky"
+msgstr "Pilastro del cielo"
+
+#. Korean constellation, native: JuHaSa
+msgid "Secretary"
+msgstr "Segretario"
+
+#. Korean constellation, native: YeoSa
+msgid "Maid"
+msgstr "Cameriera"
+
+#. Korean constellation, native: YeoSaang
+msgid "Desk of Woman"
+msgstr "Banco delle donne"
+
+#. Korean constellation, native: DaeRii
+msgid "Judge Prison"
+msgstr "Prigione del giudice"
+
+#. Korean constellation, native: JaMi
+msgid "Purple Fence"
+msgstr "Recinto viola"
+
+#. Korean constellation, native: CheonGii
+msgid "Order of Sky"
+msgstr "Ordine del cielo"
+
+#. Korean constellation, native: ChilGong
+msgid "Seven Minister"
+msgstr "Sette ministri"
+
+#. Korean constellation, native: GwanSak
+msgid "Thread Straw"
+msgstr "Filo di paglia"
+
+#. Korean constellation, native: CheonShi
+msgid "Market Fence"
+msgstr "Recinto del mercato"
+
+#. Korean constellation, native: Huu
+msgid "Feudal Lord"
+msgstr "Signore feudale"
+
+#. Korean constellation, native: JaeJwa
+msgid "Seat for Emperor"
+msgstr "Trono per l'imperatore"
+
+#. Korean constellation, native: JongSeong
+msgid "Royal Family"
+msgstr "Famiglia reale"
+
+#. Korean constellation, native: JongJeong
+msgid "Head of Family"
+msgstr "Capofamiglia"
+
+#. Korean constellation, native: Jong_iin
+msgid "Record of Family"
+msgstr "Registro di famiglia"
+
+#. Korean constellation, native: JongDaeBuu
+msgid "Officer for Family"
+msgstr "Ufficiale della famiglia"
+
+#. Korean constellation, native: ShiRuu
+msgid "Tower in Market"
+msgstr "Torre nel mercato"
+
+#. Korean constellation, native: Gok
+msgid "Measure Cereal"
+msgstr "Misura del cereale"
+
+#. Korean constellation, native: Duu
+msgid "Cereal Measure Regulation"
+msgstr "Regolazione della misura del cereale"
+
+#. Korean constellation, native: GeoSaa
+msgid "Officer for Chariots"
+msgstr "Ufficiale per i carri"
+
+#. Korean constellation, native: BaekTaak
+msgid "Measure Amount"
+msgstr "Ammontare di misura"
+
+#. Korean constellation, native: DoSaa
+msgid "Butchery"
+msgstr "Macelleria"
+
+#. Korean constellation, native: YeolSaa
+msgid "Officer for Jewel"
+msgstr "Ufficiale per i gioielli"
+
+#. Korean constellation, native: JwaHaal
+msgid "Royal"
+msgstr "Regale"
+
+#. Korean constellation, native: UuHaal
+msgid "Lord"
+msgstr "Signore"
+
+#. Korean constellation, native: JwaJipBeop
+msgid "Left Executor"
+msgstr "Esecutore di sinistra"
+
+#. Korean constellation, native: UuJipBeop
+msgid "Right Executor"
+msgstr "Esecutore di destra"
+
+#. Korean constellation, native: HeoRyang
+msgid "Crossbeam for Heo"
+msgstr "Trave per Heo"
+
+#. Korean constellation, native: CheonJeon
+msgid "Threading Coins"
+msgstr "Monete striate"
+
+#. Name for HIP 78820
+msgid "SangSang"
+msgstr "SangSang"
+
+#. Name for HIP 78104
+msgid "ChaSang"
+msgstr "ChaSang"
+
+#. Name for HIP 45075
+msgid "ChaJang"
+msgstr "ChaJang"
+
+#. Name for HIP 25336
+msgid "UJangGun"
+msgstr "UJangGun"
+
+#. Name for HIP 97649
+msgid "DaeJangGun"
+msgstr "DaeJangGun"
+
+#. Name for HIP 27989
+msgid "JwaJangGun"
+msgstr "JwaJangGun"
+
+#. Name for HIP 746
+msgid "WangRang"
+msgstr "WangRang"
+
+#. Name for HIP 2920
+msgid "CheonSa"
+msgstr "CheonSa"
+
+#. Name for HIP 21421
+msgid "CheonGou"
+msgstr "CheonGou"
+
+#. Name for HIP 28360
+msgid "SaGong"
+msgstr "SaGong"
+
+#. Name for HIP 28380
+msgid "CheonOk"
+msgstr "CheonOk"
+
+#. Name for HIP 25428
+msgid "CheonChang"
+msgstr "CheonChang"
+
+#. Name for HIP 23015
+msgid "Gyeong"
+msgstr "Gyeong"
+
+#. Name for HIP 27366
+msgid "HuJangGun"
+msgstr "HuJangGun"
+
+#. Name for HIP 24436
+msgid "PyeonJangGun"
+msgstr "PyeonJangGun"
+
+#. Name for HIP 25930
+msgid "SamJangGun"
+msgstr "SamJangGun"
+
+#. Name for HIP 37740
+msgid "TaeSa"
+msgstr "TaeSa"
+
+#. Name for HIP 36962
+msgid "BakSa"
+msgstr "BakSa"
+
+#. Name for HIP 36046
+msgid "SamGong"
+msgstr "SamGong"
+
+#. Name for HIP 34693
+msgid "JaeUu"
+msgstr "JaeUu"
+
+#. Name for HIP 33018
+msgid "JaeSa"
+msgstr "JaeSa"
+
+#. Name for HIP 49669
+msgid "YeoJu"
+msgstr "YeoJu"
+
+#. Name for HIP 49637
+msgid "YeoEo"
+msgstr "YeoEo"
+
+#. Name for HIP 47508
+msgid "TaeMin"
+msgstr "TaeMin"
+
+#. Name for HIP 51624
+msgid "SouMin"
+msgstr "SouMin"
+
+#. Name for HIP 49583
+msgid "Buin"
+msgstr "Buin"
+
+#. Name for HIP 50583
+msgid "WangBi"
+msgstr "WangBi"
+
+#. Name for HIP 50335
+msgid "HuGung"
+msgstr "HuGung"
+
+#. Name for HIP 57632
+msgid "HwangJae"
+msgstr "HwangJae"
+
+#. Name for HIP 53954
+msgid "CheoSa"
+msgstr "CheoSa"
+
+#. Name for HIP 53417
+msgid "EuiSa"
+msgstr "EuiSa"
+
+#. Name for HIP 51233
+msgid "DaeBu"
+msgstr "DaeBu"
+
+#. Name for HIP 44127
+msgid "SangTae"
+msgstr "SangTae"
+
+#. Name for HIP 50372
+msgid "JungTae"
+msgstr "JungTae"
+
+#. Name for HIP 55219
+msgid "HaTae"
+msgstr "HaTae"
+
+#. Name for HIP 75097
+msgid "TaeJa"
+msgstr "TaeJa"
+
+#. Name for HIP 72607
+msgid "JaeWang"
+msgstr "JaeWang"
+
+#. Name for HIP 70692
+msgid "SeoJa"
+msgstr "SeoJa"
+
+#. Name for HIP 62572
+msgid "CheonChu"
+msgstr "CheonChu"
+
+#. Name for HIP 41704
+msgid "SangJang"
+msgstr "SangJang"
+
+#. Name for HIP 46733
+msgid "TaeSang"
+msgstr "TaeSang"
+
+#. Name for HIP 46853
+msgid "SaJu.DaeRi"
+msgstr "SaJu.DaeRi"
+
+#. Name for HIP 54061
+msgid "Jeong"
+msgstr "Jeong"
+
+#. Name for HIP 53910
+msgid "Beop"
+msgstr "Beop"
+
+#. Name for HIP 58001
+msgid "Ryeong"
+msgstr "Ryeong"
+
+#. Name for HIP 59774
+msgid "Beol"
+msgstr "Beol"
+
+#. Name for HIP 62956
+msgid "Sal"
+msgstr "Sal"
+
+#. Name for HIP 65378
+msgid "Wi"
+msgstr "Wi"
+
+#. Name for HIP 67301
+msgid "Eung"
+msgstr "Eung"
+
+#. Name for HIP 80763
+msgid "MyeongDang"
+msgstr "MyeongDang"
+
+#. Name for HIP 82396
+msgid "Hu"
+msgstr "Hu"
+
+#. Name for HIP 86228
+msgid "Bin"
+msgstr "Bin"
+
+#. Name for HIP 5447
+msgid "DaeJang"
+msgstr "DaeJang"
