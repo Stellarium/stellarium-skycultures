@@ -1,0 +1,823 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
+"Language-Team: Slovak (https://app.transifex.com/stellarium/teams/80998/"
+"sk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n == 1 ? 0 : n % 1 == 0 && n "
+">= 2 && n <= 4 ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#. Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr "Moderná (H.A. Rey)"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"During the 19th century the use and further editions of richly illustrated "
+"atlases with sumptuously engraved mythological figures fell out of fashion. "
+"The stars of the constellations in atlases of that time started to be shown "
+"connected with line patterns (\"stick figures\"), which however appear "
+"sometimes only to have been used to indicate which stars belong to which "
+"constellation. Over several decades the figures had ceased to resemble the "
+"figures they were named after and appeared incomprehensible to beginning "
+"stargazers in the middle of the 20th century."
+msgstr ""
+"V 19. storočí vyšlo z módy používanie nových edícií bohato ilustrovaných "
+"atlasov s prepychovými rezbami mytologických postáv. Hviezdy súhvezdí v "
+"atlasoch tej doby sa začali zobrazovať spojené do čiarových vzorov "
+"(\"paličkové postavy\"), ktoré však vyzerali, že boli použité len na "
+"znázornenie, ktorá hviezda patrí do ktorého súhvezdia. Počas niekoľkých "
+"desaťročí sa prestali ponášať na postavy, podľa ktorých boli pomenované a "
+"pre začínajúcich pozorovateľov oblohy sa uprostred 20. storočia stali "
+"nezrozumiteľnými."
+
+#. Sky culture description section in markdown format
+msgid ""
+"<img src=\"illustrations/Rey_cover.png\" width=\"150\" align=\"right\"/> H. "
+"A. Rey (Hans Augusto Reyersbach) (1898-1977), an artist and author of "
+"children's books of German descent but emigrated to the USA, published his "
+"answer to this problem in 1952 with the book *The Stars - A New Way To See "
+"Them*[#1][#2].\n"
+"\n"
+"### The Constellations\n"
+"\n"
+"In this book, which has become very popular especially in the US, Rey "
+"connected the stars of every constellation \"in such a way that the "
+"resulting shape makes sense.\" What surprised him was \"that nobody has done "
+"it before. The basic idea is so simple.\"\n"
+"\n"
+"Rey's new stick figures make it indeed very simple to recognize the depicted "
+"constellation figures. Rey's work does not include figurative artwork, "
+"therefore this sky culture deliberately only comes with Rey's original stick "
+"figures. The constellation names were also always given in English by Rey. "
+"If you switch to \"Native\" name display mode, you may see exactly the "
+"spelling used in his book. Also the stars named here are limited to those "
+"included in the book.\n"
+"\n"
+"### Rey's Figures and the Classic Constellations\n"
+"\n"
+"Rey's constellations adhere to the tradition of the Western sky culture and "
+"describes the 88 officially acknowledged constellations, with addition of "
+"asterisms of the two Dippers and the \"Great Square\" (of Pegasus). However, "
+"at several points Rey's figures deviate from the canonical figures described "
+"since Ptolemy's Almagest (2nd century AD), where also positions of the stars "
+"in their constellations had been described in their names. For example,\n"
+"\n"
+" - Rey inverted the figure of the Great Bear (*Ursa Major*) to look like a "
+"polar bear scenting prey. This on one hand does not have the usual problem "
+"to explain its long tail. On the other hand, the bear is not shown to walk "
+"around the pole in this orientation.\n"
+" - The Bull (*Taurus*), only the front of which is shown with long upright "
+"horns in usual depictions, is shown with a complete body including its tail, "
+"with horns stretched wide like those of a buffalo. Its bright eye "
+"*Aldebaran* now lies in its neck.\n"
+" - The head of *Hercules* is usually next to the head of *Ophiuchus*, the "
+"serpent holder, and the four stars known as \"keystone\" form his body. Rey "
+"makes his head out of the keystone, and the star that usually marks the "
+"hero's head is now one of his feet.\n"
+" - The Whale (*Cetus*) has been turned around, its former mouth now forming "
+"a tail fin.\n"
+" - *Pegasus* exchanged feet and head.\n"
+" - *Bootes*, the herdsman, is shown sitting and smoking a pipe (no trace of "
+"political correctness in a children's book of the 1950s... :-)\n"
+"\n"
+"### External links\n"
+"\n"
+" - [H.A.Rey (Wikipedia)](http://en.wikipedia.org/wiki/H._A._Rey)"
+msgstr ""
+"<img src=\"illustrations/Rey_cover.png\" width=\"150\" align=\"right\"/> H. "
+"A. Rey (Hans Augusto Reyersbach) (1898-1977), umelec a spisovateľ detských "
+"kníh nemeckého pôvodu, ktorý emigroval do USA, vydal v r. 1952 knihu "
+"*Hviezdy - Nový spôsob, ako sa na ne pozerať*[#1][#2], ako svoju odpoveď na "
+"tento problém.\n"
+"\n"
+"### Súhvezdia\n"
+"\n"
+"V tejto knihe, ktorá sa stala hlavne v USA veľmi populárna, Rey spojil "
+"hviezdy každého súhvezdia \"takým spôsobom, aby výsledný obrazec dával "
+"zmysel.\" Prekvapilo ho, že \"to nikto predtým neurobil. Základná myšlienka "
+"je taká jednoduchá.\"\n"
+"\n"
+"Reyove nové paličkové postavy naozaj umožňovali ľahko si predstaviť "
+"zobrazené súhvezdia. Jeho práca neobsahovala figuratívne kresby, preto táto "
+"kultúra hviezdnej oblohy obsahuje len jeho originálne paličkové postavy. "
+"Mená súhvezdí boli ním preložené do angličtiny. Ak si nastavíte režim "
+"zobrazenia na \"Natívny\", uvidíte priamo pôvodné názvy z jeho knihy. "
+"Hviezdy, ktoré sú tu zobrazené, sú obmedzené len na tie, z jeho knihy.\n"
+"\n"
+"### Reyove obrazce a klasické súhvezdia\n"
+"\n"
+"Reyove súhvezdia sa pridržiavajú tradície západnej kultúry oblohy a popisujú "
+"88 oficiálne uznaných súhvezdí, s pridaním asterizmov dvoch Vozov a Veľkého "
+"(pegasovho) štvorca. Napriek tomu sa niektoré Reyove obrazce odlišujú od "
+"kánonických postáv popisovaných už od Ptolemajovho Almagestu (2. stor. n."
+"l.), kde boli okrem polôh hviezd v súhvezdiach zapísané aj ich mená. "
+"Napríklad:\n"
+"\n"
+" - Rey otočil obrazec Veľkej medvedice (*Ursa Major*), aby vyzeral, ako "
+"polárny medveď snoriaci za korisťou. Takto na jednej strane nemal zvyčajný "
+"problém vysvetliť jej dlhý chvost. Na druhej strane, medvedica v tejto "
+"orientácii nekráča okolo pólu.\n"
+" - Býk (*Taurus*). V zvyčajných zobrazeniach je naznačený len predok so "
+"vztýčenými rohmi, tu je celé telo vrátane chvosta a rohy sa rozširujú "
+"podobne, ako u bizónov. Jeho jasné oko *Aldebaran* teraz leží v jeho krku.\n"
+" - Hlava *Herkula* je zvyčajne blízko hlavy *Hadonosa* a štyri hviezdy, "
+"známe ako základný kameň, tvoria jeho telo. Rey jeho hlavu vytvoril zo "
+"základného kameňa a hviezdy, ktoré zvyčajne tvoria hlavu hrdinu, sú teraz "
+"jednou z jeho nôh.\n"
+" - Veľryba (*Cetus*) bola otočená, jej bývalá hlava tvorí teraz chvostovú "
+"plutvu.\n"
+" - *Pegas* má vymenené nohy a hlavu.\n"
+" - *Bootes*, pastier je zobrazený sediaci a fajčiaci fajku (ani stopa "
+"politickej korektnosti v detskej knihe z päťdesiatich rokov minulého "
+"storočia... :-)\n"
+"\n"
+"### Externé zdroje\n"
+"\n"
+" - [H.A.Rey (anglická Wikipédia)](http://en.wikipedia.org/wiki/H._A._Rey)"
+
+#. Sky culture authors section in markdown format
+msgid ""
+"This sky culture used to be for a long time an easy user-installable addon "
+"example contributed by Mike Richards. It has been reworked following the "
+"41st reprint and completed with this description by Georg Zotti."
+msgstr ""
+"Táto kultúra hviezdnej oblohy bývala dlho ľahko užívateľsky inštalovateľným "
+"príkladom doplnku od Mikea Richardsa. Georg Zotti ju prepracoval podľa 41. "
+"vydania a doplnil popisom."
+
+#. Name for HIP 17702
+msgid "Pleiades"
+msgstr "Plejády"
+
+#. Modern (H.A. Rey) constellation, native: LITTLE DIPPER
+msgid "Ursa Minor"
+msgstr "Malý medveď"
+
+#. Modern (H.A. Rey) constellation, native: GREAT BEAR
+msgid "Ursa Major"
+msgstr "Veľká medvedica"
+
+#. Modern (H.A. Rey) constellation, native: DRAGON
+msgid "Draco"
+msgstr "Drak"
+
+#. Modern (H.A. Rey) constellation, native: CEPHEUS
+msgid "Cepheus"
+msgstr "Cefeus"
+
+#. Modern (H.A. Rey) constellation, native: HERDSMAN
+msgid "Bootes"
+msgstr "Pastier"
+
+#. Modern (H.A. Rey) constellation, native: NORTHERN CROWN
+msgid "Corona Borealis"
+msgstr "Severná koruna"
+
+#. Modern (H.A. Rey) constellation, native: HERCULES
+msgid "Hercules"
+msgstr "Herkules"
+
+#. Modern (H.A. Rey) constellation, native: LYRE
+msgid "Lyra"
+msgstr "Lýra"
+
+#. Modern (H.A. Rey) constellation, native: SWAN
+msgid "Cygnus"
+msgstr "Labuť"
+
+#. Modern (H.A. Rey) constellation, native: CASSIOPEIA
+msgid "Cassiopeia"
+msgstr "Kasiopeja"
+
+#. Modern (H.A. Rey) constellation, native: PERSEUS
+msgid "Perseus"
+msgstr "Perzeus"
+
+#. Modern (H.A. Rey) constellation, native: CHARIOTEER
+msgid "Auriga"
+msgstr "Povozník"
+
+#. Modern (H.A. Rey) constellation, native: SERPENT BEARER
+msgid "Ophiuchus"
+msgstr "Hadonos"
+
+#. Modern (H.A. Rey) constellation, native: SERPENT
+msgid "Serpens"
+msgstr "Had"
+
+#. Modern (H.A. Rey) constellation, native: ARROW
+msgid "Sagitta"
+msgstr "Šíp"
+
+#. Modern (H.A. Rey) constellation, native: EAGLE
+msgid "Aquila"
+msgstr "Orol"
+
+#. Modern (H.A. Rey) constellation, native: DOLPHIN
+msgid "Delphinus"
+msgstr "Delfín"
+
+#. Modern (H.A. Rey) constellation, native: LITTLE HORSE
+msgid "Equuleus"
+msgstr "Koník"
+
+#. Modern (H.A. Rey) constellation, native: PEGASUS
+msgid "Pegasus"
+msgstr "Pegas"
+
+#. Modern (H.A. Rey) constellation, native: ANDROMEDA
+msgid "Andromeda"
+msgstr "Andromeda"
+
+#. Modern (H.A. Rey) constellation, native: TRIANGLE
+msgid "Triangulum"
+msgstr "Trojuholník"
+
+#. Modern (H.A. Rey) constellation, native: RAM
+msgid "Aries"
+msgstr "Baran"
+
+#. Modern (H.A. Rey) constellation, native: BULL
+msgid "Taurus"
+msgstr "Býk"
+
+#. Modern (H.A. Rey) constellation, native: TWINS
+msgid "Gemini"
+msgstr "Blíženci"
+
+#. Modern (H.A. Rey) constellation, native: CRAB
+msgid "Cancer"
+msgstr "Rak"
+
+#. Modern (H.A. Rey) constellation, native: LION
+msgid "Leo"
+msgstr "Lev"
+
+#. Modern (H.A. Rey) constellation, native: VIRGIN
+msgid "Virgo"
+msgstr "Panna"
+
+#. Modern (H.A. Rey) constellation, native: SCALES
+msgid "Libra"
+msgstr "Váhy"
+
+#. Modern (H.A. Rey) constellation, native: SCORPION
+msgid "Scorpius"
+msgstr "Škorpión"
+
+#. Modern (H.A. Rey) constellation, native: ARCHER
+msgid "Sagittarius"
+msgstr "Strelec"
+
+#. Modern (H.A. Rey) constellation, native: GOAT
+msgid "Capricornus"
+msgstr "Kozorožec"
+
+#. Modern (H.A. Rey) constellation, native: WATER CARRIER
+msgid "Aquarius"
+msgstr "Vodnár"
+
+#. Modern (H.A. Rey) constellation, native: FISHES
+msgid "Pisces"
+msgstr "Ryby"
+
+#. Modern (H.A. Rey) constellation, native: WHALE
+msgid "Cetus"
+msgstr "Veľryba"
+
+#. Modern (H.A. Rey) constellation, native: ORION
+msgid "Orion"
+msgstr "Orión"
+
+#. Modern (H.A. Rey) constellation, native: RIVER ERIDANUS
+msgid "Eridanus"
+msgstr "Eridanus"
+
+#. Modern (H.A. Rey) constellation, native: HARE
+msgid "Lepus"
+msgstr "Zajac"
+
+#. Modern (H.A. Rey) constellation, native: BIG DOG
+msgid "Canis Major"
+msgstr "Veľký pes"
+
+#. Modern (H.A. Rey) constellation, native: LITTLE DOG
+msgid "Canis Minor"
+msgstr "Malý pes"
+
+#. Modern (H.A. Rey) constellation, native: HYDRA
+msgid "Hydra"
+msgstr "Hydra"
+
+#. Modern (H.A. Rey) constellation, native: CUP
+msgid "Crater"
+msgstr "Pohár"
+
+#. Modern (H.A. Rey) constellation, native: CROW
+msgid "Corvus"
+msgstr "Havran"
+
+#. Modern (H.A. Rey) constellation, native: CENTAUR
+msgid "Centaurus"
+msgstr "Kentaur"
+
+#. Modern (H.A. Rey) constellation, native: WOLF
+msgid "Lupus"
+msgstr "Vlk"
+
+#. Modern (H.A. Rey) constellation, native: ALTAR
+msgid "Ara"
+msgstr "Oltár"
+
+#. Modern (H.A. Rey) constellation, native: SOUTHERN CROWN
+msgid "Corona Australis"
+msgstr "Južná koruna"
+
+#. Modern (H.A. Rey) constellation, native: SOUTHERN FISH
+msgid "Piscis Austrinus"
+msgstr "Južná ryba"
+
+#. Name for HIP 37279
+msgid "Procyon"
+msgstr "Prokyón"
+
+#. Name for HIP 32349
+msgid "Sirius"
+msgstr "Sírius"
+
+#. Name for HIP 69673
+msgid "Arcturus"
+msgstr "Arktúr"
+
+#. Name for HIP 91262
+msgid "Vega"
+msgstr "Vega"
+
+#. Name for HIP 24608
+msgid "Capella"
+msgstr "Capella"
+
+#. Name for HIP 21421
+msgid "Aldebaran"
+msgstr "Aldebaran"
+
+#. Name for HIP 49669
+msgid "Regulus"
+msgstr "Regulus"
+
+#. Name for HIP 57632
+msgid "Denebola"
+msgstr "Denebola"
+
+#. Name for HIP 65474
+msgid "Spica"
+msgstr "Spica"
+
+#. Name for HIP 113368
+msgid "Fomalhaut"
+msgstr "Fomalhaut"
+
+#. Name for HIP 27989
+msgid "Betelgeuse"
+msgstr "Betelgeuse"
+
+#. Name for HIP 24436
+msgid "Rigel"
+msgstr "Rigel"
+
+#. Name for HIP 30438
+msgid "Canopus"
+msgstr "Canopus"
+
+#. Name for HIP 7588
+msgid "Achernar"
+msgstr "Achernar"
+
+#. Name for HIP 60718
+msgid "Acrux"
+msgstr "Acrux"
+
+#. Name for HIP 80763
+msgid "Antares"
+msgstr "Antares"
+
+#. Modern (H.A. Rey) constellation, native: SCULPTOR
+msgid "Sculptor"
+msgstr "Sochár"
+
+#. Modern (H.A. Rey) constellation, native: SHIP'S COMPASS
+msgid "Pyxis"
+msgstr "Kompas"
+
+#. Modern (H.A. Rey) constellation, native: CHISEL
+msgid "Caelum"
+msgstr "Rydlo"
+
+#. Modern (H.A. Rey) constellation, native: CHAMELEON
+msgid "Chamaeleon"
+msgstr "Chameleón"
+
+#. Modern (H.A. Rey) constellation, native: SHIP'S KEEL
+msgid "Carina"
+msgstr "Kýl"
+
+#. Modern (H.A. Rey) constellation, native: BERENICE'S HAIR
+msgid "Coma Berenices"
+msgstr "Vlasy Bereniky"
+
+#. Modern (H.A. Rey) constellation, native: HUNTING DOGS
+msgid "Canes Venatici"
+msgstr "Poľovné psy"
+
+#. Modern (H.A. Rey) constellation, native: DOVE
+msgid "Columba"
+msgstr "Holubica"
+
+#. Modern (H.A. Rey) constellation, native: DIVIDERS
+msgid "Circinus"
+msgstr "Kružidlo"
+
+#. Modern (H.A. Rey) constellation, native: SOUTHERN CROSS
+msgid "Crux"
+msgstr "Južný kríž"
+
+#. Modern (H.A. Rey) constellation, native: SWORDFISH
+msgid "Dorado"
+msgstr "Mečiar"
+
+#. Modern (H.A. Rey) constellation, native: SQUARE
+msgid "Norma"
+msgstr "Pravítko"
+
+#. Modern (H.A. Rey) constellation, native: FURNACE
+msgid "Fornax"
+msgstr "Pec"
+
+#. Modern (H.A. Rey) constellation, native: GIRAFFE
+msgid "Camelopardalis"
+msgstr "Žirafa"
+
+#. Modern (H.A. Rey) constellation, native: CRANE
+msgid "Grus"
+msgstr "Žeriav"
+
+#. Modern (H.A. Rey) constellation, native: CLOCK
+msgid "Horologium"
+msgstr "Hodiny"
+
+#. Modern (H.A. Rey) constellation, native: HYDRUS
+msgid "Hydrus"
+msgstr "Vodný had"
+
+#. Modern (H.A. Rey) constellation, native: INDIAN
+msgid "Indus"
+msgstr "Indián"
+
+#. Modern (H.A. Rey) constellation, native: LIZARD
+msgid "Lacerta"
+msgstr "Jašterica"
+
+#. Modern (H.A. Rey) constellation, native: UNICORN
+msgid "Monoceros"
+msgstr "Jednorožec"
+
+#. Modern (H.A. Rey) constellation, native: LYNX
+msgid "Lynx"
+msgstr "Rys"
+
+#. Modern (H.A. Rey) constellation, native: PUMP
+msgid "Antlia"
+msgstr "Výveva"
+
+#. Modern (H.A. Rey) constellation, native: MICROSCOPE
+msgid "Microscopium"
+msgstr "Mikroskop"
+
+#. Modern (H.A. Rey) constellation, native: OCTANT
+msgid "Octans"
+msgstr "Oktant"
+
+#. Modern (H.A. Rey) constellation, native: BIRD OF PARADISE
+msgid "Apus"
+msgstr "Rajka"
+
+#. Modern (H.A. Rey) constellation, native: PEACOCK
+msgid "Pavo"
+msgstr "Páv"
+
+#. Modern (H.A. Rey) constellation, native: EASEL
+msgid "Pictor"
+msgstr "Maliar"
+
+#. Modern (H.A. Rey) constellation, native: LITTLE LION
+msgid "Leo Minor"
+msgstr "Malý lev"
+
+#. Modern (H.A. Rey) constellation, native: L. FOX
+msgid "Vulpecula"
+msgstr "Líška"
+
+#. Modern (H.A. Rey) constellation, native: PHOENIX
+msgid "Phoenix"
+msgstr "Fénix"
+
+#. Modern (H.A. Rey) constellation, native: FLYING FISH
+msgid "Volans"
+msgstr "Lietajúca ryba"
+
+#. Modern (H.A. Rey) constellation, native: SHIP'S STERN
+msgid "Puppis"
+msgstr "Korma"
+
+#. Modern (H.A. Rey) constellation, native: NET
+msgid "Reticulum"
+msgstr "Sieť"
+
+#. Modern (H.A. Rey) constellation, native: SHIELD
+msgid "Scutum"
+msgstr "Štít"
+
+#. Modern (H.A. Rey) constellation, native: SEXTANT
+msgid "Sextans"
+msgstr "Sextant"
+
+#. Modern (H.A. Rey) constellation, native: TABLE MOUNTAIN
+msgid "Mensa"
+msgstr "Stolový vrch"
+
+#. Modern (H.A. Rey) constellation, native: TELESCOPE
+msgid "Telescopium"
+msgstr "Ďalekohľad"
+
+#. Modern (H.A. Rey) constellation, native: TOUCAN
+msgid "Tucana"
+msgstr "Tukan"
+
+#. Modern (H.A. Rey) constellation, native: SOUTHERN TRIANGLE
+msgid "Triangulum Australe"
+msgstr "Južný trujuholník"
+
+#. Modern (H.A. Rey) constellation, native: SHIP's SAIL
+msgid "Vela"
+msgstr "Plachty"
+
+#. Modern (H.A. Rey) asterism
+msgid "Summer Triangle"
+msgstr "Letný trojuholník"
+
+#. Modern (H.A. Rey) asterism
+msgid "False Cross"
+msgstr "Nepravý kríž"
+
+#. Name for HIP 97649
+msgid "Altair"
+msgstr "Altair"
+
+#. Name for HIP 63125
+msgid "Cor Caroli"
+msgstr "Karolovo srdce"
+
+#. Name for HIP 10826
+msgid "Mira"
+msgstr "Mira"
+
+#. Name for HIP 76267
+msgid "Gemma"
+msgstr "Gemma"
+
+#. Name for HIP 102098
+msgid "Deneb"
+msgstr "Deneb"
+
+#. Name for HIP 95947
+msgid "Albireo"
+msgstr "Albireo"
+
+#. Name for HIP 68756
+msgid "Thuban"
+msgstr "Thuban"
+
+#. Name for HIP 36850
+msgid "Castor"
+msgstr "Castor"
+
+#. Name for HIP 37826
+msgid "Pollux"
+msgstr "Pollux"
+
+#. Name for HIP 46390
+msgid "Alphard"
+msgstr "Alphard"
+
+#. Name for HIP 14576
+msgid "Algol"
+msgstr "Algol"
+
+#. Name for HIP 65378
+msgid "Mizar"
+msgstr "Mizar"
+
+#. Name for HIP 65477
+msgid "Alcor"
+msgstr "Alcor"
+
+#. Name for HIP 72607
+msgid "Kochab"
+msgstr "Kochab"
+
+#. Modern (H.A. Rey) constellation, native: Guardians
+msgid "Guardians"
+msgstr "Strážcovia"
+
+#. Modern (H.A. Rey) constellation, native: feet
+msgid "feet"
+msgstr "nohy"
+
+#. Modern (H.A. Rey) constellation, native: head
+msgid "head"
+msgstr "hlava"
+
+#. Modern (H.A. Rey) constellation, native: tail
+msgid "tail"
+msgstr "chvost"
+
+#. Modern (H.A. Rey) constellation, native: Pointers
+msgid "Pointers"
+msgstr "Smerovky"
+
+#. Modern (H.A. Rey) constellation, native: paws
+msgid "paws"
+msgstr "labky"
+
+#. Modern (H.A. Rey) constellation, native: rump
+msgid "rump"
+msgstr "stehno"
+
+#. Modern (H.A. Rey) constellation, native: body
+msgid "body"
+msgstr "telo"
+
+#. Modern (H.A. Rey) constellation, native: pipe
+msgid "pipe"
+msgstr "píšťaľa"
+
+#. Modern (H.A. Rey) constellation, native: wing
+msgid "wing"
+msgstr "krídlo"
+
+#. Modern (H.A. Rey) constellation, native: outstretched neck
+msgid "outstretched neck"
+msgstr "natiahnutý krk"
+
+#. Modern (H.A. Rey) constellation, native: Keystone
+msgid "Keystone"
+msgstr "Kľúčový kameň"
+
+#. Modern (H.A. Rey) constellation, native: club
+msgid "club"
+msgstr "kyjak"
+
+#. Modern (H.A. Rey) constellation, native: the chain
+msgid "the chain"
+msgstr "reťaz"
+
+#. Modern (H.A. Rey) constellation, native: horn
+msgid "horn"
+msgstr "roh"
+
+#. Modern (H.A. Rey) constellation, native: belt
+msgid "belt"
+msgstr "pás"
+
+#. Modern (H.A. Rey) constellation, native: shield
+msgid "shield"
+msgstr "štít"
+
+#. Modern (H.A. Rey) constellation, native: HYDRA's head
+msgid "Hydra's head"
+msgstr "Hlava Hydry"
+
+#. Modern (H.A. Rey) constellation, native: HYDRA's tail
+msgid "Hydra's tail"
+msgstr "Chvost Hydry"
+
+#. Modern (H.A. Rey) constellation, native: bill
+msgid "bill"
+msgstr "listina"
+
+#. Modern (H.A. Rey) constellation, native: foot
+msgid "foot"
+msgstr "chodidlo"
+
+#. Modern (H.A. Rey) constellation, native: arm
+msgid "arm"
+msgstr "rameno"
+
+#. Modern (H.A. Rey) constellation, native: cat's eyes
+msgid "cat's eyes"
+msgstr "mačacie oči"
+
+#. Modern (H.A. Rey) constellation, native: claws
+msgid "claws"
+msgstr "klepetá"
+
+#. Modern (H.A. Rey) constellation, native: skirt
+msgid "skirt"
+msgstr "sukňa"
+
+#. Modern (H.A. Rey) constellation, native: the bow
+msgid "the bow"
+msgstr "luk"
+
+#. Modern (H.A. Rey) constellation, native: vessel
+msgid "vessel"
+msgstr "plavidlo"
+
+#. Modern (H.A. Rey) constellation, native: Knot
+#. Name for HIP 9487
+msgid "Knot"
+msgstr "Uzol"
+
+#. Modern (H.A. Rey) constellation, native: N. Fish
+msgid "Northern Fish"
+msgstr "Severná ryba"
+
+#. Modern (H.A. Rey) constellation, native: W. Fish
+msgid "Western Fish"
+msgstr "Západná ryba"
+
+#. Modern (H.A. Rey) constellation, native: figurehead
+msgid "figurehead"
+msgstr "bábka"
+
+#. Modern (H.A. Rey) constellation, native: transom
+msgid "transom"
+msgstr "priečka"
+
+#. Modern (H.A. Rey) constellation, native: front legs
+msgid "front legs"
+msgstr "predné nohy"
+
+#. Modern (H.A. Rey) constellation, native: hind legs
+msgid "hind legs"
+msgstr "zadné nohy"
+
+#. Modern (H.A. Rey) constellation, native: ears
+msgid "ears"
+msgstr "uši"
+
+#. Modern (H.A. Rey) constellation, native: FLY
+msgid "Fly"
+msgstr "Mucha"
+
+#. Modern (H.A. Rey) constellation, native: eyes
+msgid "eyes"
+msgstr "oči"
+
+#. Modern (H.A. Rey) asterism
+msgid "Big Dipper"
+msgstr "Veľká naberačka"
+
+#. Modern (H.A. Rey) asterism
+msgid "Virgin's Diamond"
+msgstr "Diamant panny"
+
+#. Modern (H.A. Rey) asterism
+msgid "Great Square"
+msgstr "Veľký štvorec"
+
+#. Modern (H.A. Rey) asterism
+msgid "Great Hexagon"
+msgstr "Veľký šesťuholník"
+
+#. Modern (H.A. Rey) asterism
+msgid "Serpent's tail"
+msgstr "Hadí chvost"
+
+#. Modern (H.A. Rey) asterism
+msgid "Serpent's head"
+msgstr "Hadia hlava"
+
+#. Name for HIP 11767
+msgid "Pole Star"
+msgstr "Polárka"
+
+#. Name for HIP 8102
+msgid "Tau Ceti"
+msgstr "Tau Ceti"
+
+#. Name for HIP 71683
+msgid "Alpha Centauri"
+msgstr "Alfa Centauri"
+
+#. Name for HIP 68702
+msgid "Beta Centauri"
+msgstr "Beta Centauri"
