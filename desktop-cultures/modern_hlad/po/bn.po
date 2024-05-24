@@ -1,0 +1,1392 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
+"Language-Team: Bengali (https://app.transifex.com/stellarium/teams/80998/"
+"bn/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Sky culture name
+msgid "Modern (O. Hlad)"
+msgstr "আধুনিক (O. Hlad)"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"Constellations according to classical Czech publication: *Hvězdná obloha "
+"2000.0*[#1]."
+msgstr "চেক প্রকাশনার অনুযায়ী নক্ষত্রমন্ডল : *Hvězdná obloha 2000.0*[#1]."
+
+#. Sky culture description section in markdown format
+msgid ""
+"Another (rather similar) Czech and Slovak references are: [#2], [#3].\n"
+"\n"
+"![](illustrations/hvezdna_obloha_2000.png) ![](illustrations/obloha_na_dlani."
+"png)\n"
+"\n"
+"Constellation lines are designed so they mostly connect stars with Greek-"
+"letter (α, β, γ, ...) designations, brightest, or at least similarly bright "
+"stars, and especially if they form a mnemotechnic figure (like 'W' in case "
+"of Cas, or 'hurdles-runner' instead of Vir). We usually do *not* use 5th "
+"magnitude stars, because they are difficult to spot in towns affected by "
+"light pollution. The resulting figures are also a bit simpler and easier-to-"
+"remember for children. We use these constellations at the Observatory and "
+"Planetarium Hradec Králové ([http://www.astrohk.cz](http://www.astrohk."
+"cz)).\n"
+"\n"
+"Notes: UMa is taken from Pittich and Kalmančok (1981); M81 and M82 galaxies "
+"are just behind Bear's head. Gem is a similar case. Cam seems upside-down "
+"with respect to a mythological figure, but HIP 29997, 33694 stars are indeed "
+"brighter.\n"
+"\n"
+"### Updates\n"
+"\n"
+"Version 1.0 for Stellarium 0.13.1\n"
+"\n"
+"Future updates should be available at [http://sirrah.troja.mff.cuni.cz/~mira/"
+"souhvezdi/](http://sirrah.troja.mff.cuni.cz/~mira/souhvezdi/)"
+msgstr ""
+"অপর (বরং অনুরূপ) চেক এবং স্লোভাক তথ্যসূত্র : [#2], [#3]\n"
+"\n"
+"![](illustrations/hvezdna_obloha_2000.png) ![](illustrations/obloha_na_dlani."
+"png)\n"
+"\n"
+"কল্পরেখাগুলি এমন ভাবে তৈরী করা হয়েছে যাতে বেশিরভাগ গ্রীক অক্ষর (α, β, γ, ...) "
+"নামাঙ্কিত উজ্জ্বল তারা, বা অন্তত একইরকম উজ্জ্বল তারাগুলিকে সংযুক্ত করে একটি নমুনাযুক্ত "
+"চিত্র তৈরি করে (যেমন ক্যাসিওপিয়ার ক্ষেত্রে 'W' বা কন্যারাশির পরিবর্তে 'দৌড়বাজ')। "
+"আমরা সাধারণত ৫ম উজ্জ্বলতার তারা ব্যবহার করি *না* , কারণ হালকা দূষণের দ্বারা "
+"প্রভাবিত শহরগুলিতেও সেগুলিকে স্পট করে দেখতে পাওয়া কঠিন । ফলে শিশুদের জন্য এগুলি মনে "
+"রাখা তুলনামূলক ভাবে সহজ । আমরা এটিকে Hradec Králové মানমন্দিরেও ([http://www."
+"astrohk.cz](http://www.astrohk.cz)) ব্যবহার করি ।\n"
+"\n"
+"বিঃ দ্রঃ : সপ্তর্ষিমন্ডল নেওয়া হয়েছে Pittich and Kalmančok থেকে (১৯৮১); M81 এবং "
+"M82 ছায়াপথগুলি শুধু ভালুকের মাথার পিছনে রয়েছে । মিথুনমন্ডল এর ক্ষেত্রেও অনুরূপ ব্যবস্থা "
+"নেওয়া হয়েছে । জিরাফমন্ডলের ছবিটি উপর নীচে উল্টো নেওয়া হয়েছে, তবে HIP 29997, "
+"33694 তারাগুলি যথেষ্ট উজ্জ্বল ।\n"
+"\n"
+"### সংস্করণ\n"
+"\n"
+"স্টেলারিয়াম 0.13.1 সংস্করণ 1.0\n"
+"\n"
+"ভবিষ্যত সংস্করণগুলি [http://sirrah.troja.mff.cuni.cz/~mira/souhvezdi/](http://"
+"sirrah.troja.mff.cuni.cz/~mira/souhvezdi/) এ উপলব্ধ থাকবে ।"
+
+#. Sky culture references section in markdown format
+msgid ""
+" - [#1]: Hlad, Hovorka, Polechová, Weiselová (1988): *Hvězdná obloha "
+"2000.0*. Praha: Geodetický a kartografický podnik.\n"
+" - [#2]: Hlad, Hovorka, Sojka, Weiselová (2000): *Atlas Coeli Novus 2000.0*. "
+"Praha: Hvězdárna a planetárium hl. m. Prahy, ETC publishing.\n"
+" - [#3]: Pittich, Kalmančok (1981): *Obloha na dlani*. Bratislava: Obzor."
+msgstr ""
+" - [#1]: Hlad, Hovorka, Polechová, Weiselová (1988): *Hvězdná obloha "
+"2000.0*. Praha: Geodetický a kartografický podnik.\n"
+" - [#2]: Hlad, Hovorka, Sojka, Weiselová (2000): *Atlas Coeli Novus 2000.0*. "
+"Praha: Hvězdárna a planetárium hl. m. Prahy, ETC publishing.\n"
+" - [#3]: Pittich, Kalmančok (1981): *Obloha na dlani*. Bratislava: Obzor."
+
+#. Modern (O. Hlad) constellation, native: Ursa Minor
+msgid "Ursa Minor"
+msgstr "ভল্লুক ছানা"
+
+#. Modern (O. Hlad) constellation, native: Ursa Major
+msgid "Ursa Major"
+msgstr "ভল্লুক"
+
+#. Modern (O. Hlad) constellation, native: Draco
+msgid "Draco"
+msgstr "ড্রাগন"
+
+#. Modern (O. Hlad) constellation, native: Cepheus
+msgid "Cepheus"
+msgstr "সম্রাট সেফিয়ুস"
+
+#. Modern (O. Hlad) constellation, native: Bootes
+msgid "Bootes"
+msgstr "রাখাল"
+
+#. Modern (O. Hlad) constellation, native: Corona Borealis
+msgid "Corona Borealis"
+msgstr "উত্তর রাজমুকুট"
+
+#. Modern (O. Hlad) constellation, native: Hercules
+msgid "Hercules"
+msgstr "বীর হারকিউলিস"
+
+#. Modern (O. Hlad) constellation, native: Lyra
+msgid "Lyra"
+msgstr "বীনা"
+
+#. Modern (O. Hlad) constellation, native: Cygnus
+msgid "Cygnus"
+msgstr "হাঁস"
+
+#. Modern (O. Hlad) constellation, native: Cassiopeia
+msgid "Cassiopeia"
+msgstr "সুন্দরী ক্যাসিওপিয়া"
+
+#. Modern (O. Hlad) constellation, native: Perseus
+msgid "Perseus"
+msgstr "যোদ্ধা পার্সিয়ুস"
+
+#. Modern (O. Hlad) constellation, native: Auriga
+msgid "Auriga"
+msgstr "সারথী"
+
+#. Modern (O. Hlad) constellation, native: Ophiuchus
+msgid "Ophiuchus"
+msgstr "সাপুড়ে"
+
+#. Modern (O. Hlad) constellation, native: Serpens
+msgid "Serpens"
+msgstr "সাপ"
+
+#. Modern (O. Hlad) constellation, native: Sagitta
+msgid "Sagitta"
+msgstr "তীর"
+
+#. Modern (O. Hlad) constellation, native: Aquila
+msgid "Aquila"
+msgstr "ঈগল"
+
+#. Modern (O. Hlad) constellation, native: Delphinus
+msgid "Delphinus"
+msgstr "শুশুক"
+
+#. Modern (O. Hlad) constellation, native: Equuleus
+msgid "Equuleus"
+msgstr "ছোটো ঘোড়া"
+
+#. Modern (O. Hlad) constellation, native: Pegasus
+msgid "Pegasus"
+msgstr "পক্ষীরাজ ঘোড়া"
+
+#. Modern (O. Hlad) constellation, native: Andromeda
+msgid "Andromeda"
+msgstr "সুন্দরী অ্যান্ড্রোমিডা"
+
+#. Modern (O. Hlad) constellation, native: Triangulum
+msgid "Triangulum"
+msgstr "ত্রিভূজ"
+
+#. Modern (O. Hlad) constellation, native: Aries
+msgid "Aries"
+msgstr "ভেড়া (মেষ)"
+
+#. Modern (O. Hlad) constellation, native: Taurus
+msgid "Taurus"
+msgstr "ষাঁড় (বৃষ)"
+
+#. Modern (O. Hlad) constellation, native: Gemini
+msgid "Gemini"
+msgstr "যময (মিথুন)"
+
+#. Modern (O. Hlad) constellation, native: Cancer
+msgid "Cancer"
+msgstr "কাঁকড়া (কর্কট)"
+
+#. Modern (O. Hlad) constellation, native: Leo
+msgid "Leo"
+msgstr "সিংহ"
+
+#. Modern (O. Hlad) constellation, native: Virgo
+msgid "Virgo"
+msgstr "কুমারী (কন্যা)"
+
+#. Modern (O. Hlad) constellation, native: Libra
+msgid "Libra"
+msgstr "দাঁড়িপাল্লা (তুলা)"
+
+#. Modern (O. Hlad) constellation, native: Scorpius
+msgid "Scorpius"
+msgstr "কাঁকড়া বিছে (বৃশ্চিক)"
+
+#. Modern (O. Hlad) constellation, native: Sagittarius
+msgid "Sagittarius"
+msgstr "তীরন্দাজ (ধনু)"
+
+#. Modern (O. Hlad) constellation, native: Capricornus
+msgid "Capricornus"
+msgstr "সামুদ্রিক ছাগল (মকর)"
+
+#. Modern (O. Hlad) constellation, native: Aquarius
+msgid "Aquarius"
+msgstr "জল বাহক (কুম্ভ)"
+
+#. Modern (O. Hlad) constellation, native: Pisces
+msgid "Pisces"
+msgstr "মাছ (মীন)"
+
+#. Modern (O. Hlad) constellation, native: Cetus
+msgid "Cetus"
+msgstr "তিমি"
+
+#. Modern (O. Hlad) constellation, native: Orion
+msgid "Orion"
+msgstr "কালপুরুষ"
+
+#. Modern (O. Hlad) constellation, native: Eridanus
+msgid "Eridanus"
+msgstr "এরিডান্যাস নদী"
+
+#. Modern (O. Hlad) constellation, native: Lepus
+msgid "Lepus"
+msgstr "খরগোশ"
+
+#. Modern (O. Hlad) constellation, native: Canis Major
+msgid "Canis Major"
+msgstr "কুকুর"
+
+#. Modern (O. Hlad) constellation, native: Canis Minor
+msgid "Canis Minor"
+msgstr "কুকুর ছানা"
+
+#. Modern (O. Hlad) constellation, native: Hydra
+msgid "Hydra"
+msgstr "হাইড্রা (সর্পদৈত্য)"
+
+#. Modern (O. Hlad) constellation, native: Crater
+msgid "Crater"
+msgstr "পেয়ালা"
+
+#. Modern (O. Hlad) constellation, native: Corvus
+msgid "Corvus"
+msgstr "কাক"
+
+#. Modern (O. Hlad) constellation, native: Centaurus
+msgid "Centaurus"
+msgstr "অশ্বমানব"
+
+#. Modern (O. Hlad) constellation, native: Lupus
+msgid "Lupus"
+msgstr "নেকড়ে"
+
+#. Modern (O. Hlad) constellation, native: Ara
+msgid "Ara"
+msgstr "যজ্ঞবেদী"
+
+#. Modern (O. Hlad) constellation, native: Corona Australis
+msgid "Corona Australis"
+msgstr "দক্ষিন রাজমুকুট"
+
+#. Modern (O. Hlad) constellation, native: Piscis Austrinus
+msgid "Piscis Austrinus"
+msgstr "দক্ষিন মীন"
+
+#. Name for HIP 37279
+msgid "Procyon"
+msgstr "প্রশ্বন"
+
+#. Name for HIP 32349
+msgid "Sirius"
+msgstr "সিরিয়াস (লুব্ধক)"
+
+#. Name for HIP 69673
+msgid "Arcturus"
+msgstr "আর্কটুরাস (স্বাতী)"
+
+#. Name for HIP 91262
+msgid "Vega"
+msgstr "ভেগা (অভিজিত্‍)"
+
+#. Name for HIP 24608
+msgid "Capella"
+msgstr "ক্যাপেলা (ব্রহ্মহৃদয়)"
+
+#. Name for HIP 21421
+msgid "Aldebaran"
+msgstr "আলদুবরান (রোহিনী)"
+
+#. Name for HIP 49669
+msgid "Regulus"
+msgstr "রেগুলাস (মঘা)"
+
+#. Name for HIP 57632
+msgid "Denebola"
+msgstr "ডেনেবোনা (উত্তর ফাল্গুনী)"
+
+#. Name for HIP 65474
+msgid "Spica"
+msgstr "স্পাইকা (চিত্রা)"
+
+#. Name for HIP 113368
+msgid "Fomalhaut"
+msgstr "ফম্যালহট"
+
+#. Name for HIP 27989
+msgid "Betelgeuse"
+msgstr "বিটলজিউস (আদ্রা)"
+
+#. Name for HIP 24436
+msgid "Rigel"
+msgstr "রাইজেল (বাণরাজা)"
+
+#. Name for HIP 30438
+msgid "Canopus"
+msgstr "ক্যানোপাস (অগস্ত্য)"
+
+#. Name for HIP 25336
+msgid "Bellatrix"
+msgstr "বেলাট্রিক্স (কার্তিকেয়)"
+
+#. Name for HIP 26727
+msgid "Alnitak"
+msgstr "আলনিতক (ঊষা)"
+
+#. Name for HIP 26311
+msgid "Alnilam"
+msgstr "আলনিলাম (অনিরুদ্ধ)"
+
+#. Name for HIP 25930
+msgid "Mintaka"
+msgstr "মিনটাকা (চিত্রলেখা)"
+
+#. Name for HIP 7588
+msgid "Achernar"
+msgstr "আখেরনার"
+
+#. Name for HIP 60718
+msgid "Acrux"
+msgstr "ইক্রাক্স (বিশ্বামিত্র)"
+
+#. Name for HIP 68702
+msgid "Hadar"
+msgstr "হাদার"
+
+#. Name for HIP 80763
+msgid "Antares"
+msgstr "আন্টেরিস (জ্যেষ্ঠা)"
+
+#. Modern (O. Hlad) constellation, native: Sculptor
+msgid "Sculptor"
+msgstr "ভাস্কর"
+
+#. Modern (O. Hlad) constellation, native: Pyxis
+msgid "Pyxis"
+msgstr "কম্পাস"
+
+#. Modern (O. Hlad) constellation, native: Caelum
+msgid "Caelum"
+msgstr "বাটালি"
+
+#. Modern (O. Hlad) constellation, native: Chamaeleon
+msgid "Chamaeleon"
+msgstr "গিরগিটি"
+
+#. Modern (O. Hlad) constellation, native: Carina
+msgid "Carina"
+msgstr "ক্যারিনা (জাহাজের তলি)"
+
+#. Modern (O. Hlad) constellation, native: Coma Berenices
+msgid "Coma Berenices"
+msgstr "বেরিনিসের কেশমন্ডল"
+
+#. Modern (O. Hlad) constellation, native: Canes Venatici
+msgid "Canes Venatici"
+msgstr "শিকারী কুকুর"
+
+#. Modern (O. Hlad) constellation, native: Columba
+msgid "Columba"
+msgstr "ঘুঘু পাখি"
+
+#. Modern (O. Hlad) constellation, native: Circinus
+msgid "Circinus"
+msgstr "কাঁটা কম্পাস"
+
+#. Modern (O. Hlad) constellation, native: Crux
+msgid "Crux"
+msgstr "ক্রুশ"
+
+#. Modern (O. Hlad) constellation, native: Dorado
+msgid "Dorado"
+msgstr "গোল্ডফিশ"
+
+#. Modern (O. Hlad) constellation, native: Norma
+msgid "Norma"
+msgstr "মাপদন্ড"
+
+#. Modern (O. Hlad) constellation, native: Fornax
+msgid "Fornax"
+msgstr "অগ্নিকুণ্ড"
+
+#. Modern (O. Hlad) constellation, native: Camelopardalis
+msgid "Camelopardalis"
+msgstr "জিরাফ"
+
+#. Modern (O. Hlad) constellation, native: Grus
+msgid "Grus"
+msgstr "সারস"
+
+#. Modern (O. Hlad) constellation, native: Horologium
+msgid "Horologium"
+msgstr "দোলক ঘড়ি"
+
+#. Modern (O. Hlad) constellation, native: Hydrus
+msgid "Hydrus"
+msgstr "জলসর্প"
+
+#. Modern (O. Hlad) constellation, native: Indus
+msgid "Indus"
+msgstr "আমেরিকার মূল অধিবাসী"
+
+#. Modern (O. Hlad) constellation, native: Lacerta
+msgid "Lacerta"
+msgstr "টিকটিকি"
+
+#. Modern (O. Hlad) constellation, native: Monoceros
+msgid "Monoceros"
+msgstr "ইউনিকর্ন (একশৃঙ্গী ঘোড়া)"
+
+#. Modern (O. Hlad) constellation, native: Lynx
+msgid "Lynx"
+msgstr "বন বিড়াল"
+
+#. Modern (O. Hlad) constellation, native: Antlia
+msgid "Antlia"
+msgstr "পাম্প"
+
+#. Modern (O. Hlad) constellation, native: Microscopium
+msgid "Microscopium"
+msgstr "অণুবীক্ষন যন্ত্র"
+
+#. Modern (O. Hlad) constellation, native: Musca
+msgid "Musca"
+msgstr "মাছি"
+
+#. Modern (O. Hlad) constellation, native: Octans
+msgid "Octans"
+msgstr "অকট্যান্ট"
+
+#. Modern (O. Hlad) constellation, native: Apus
+msgid "Apus"
+msgstr "স্বর্গপক্ষী"
+
+#. Modern (O. Hlad) constellation, native: Pavo
+msgid "Pavo"
+msgstr "ময়ুর"
+
+#. Modern (O. Hlad) constellation, native: Pictor
+msgid "Pictor"
+msgstr "চিত্রফলক"
+
+#. Modern (O. Hlad) constellation, native: Leo Minor
+msgid "Leo Minor"
+msgstr "সিংহ শিশু"
+
+#. Modern (O. Hlad) constellation, native: Vulpecula
+msgid "Vulpecula"
+msgstr "শিয়াল"
+
+#. Modern (O. Hlad) constellation, native: Phoenix
+msgid "Phoenix"
+msgstr "ফিনিক্স পাখি"
+
+#. Modern (O. Hlad) constellation, native: Volans
+msgid "Volans"
+msgstr "উড়ুক্কু মাছ"
+
+#. Modern (O. Hlad) constellation, native: Puppis
+msgid "Puppis"
+msgstr "পাপিস (জাহাজের পশ্চাতভাগ)"
+
+#. Modern (O. Hlad) constellation, native: Reticulum
+msgid "Reticulum"
+msgstr "নিশানা ক্রস"
+
+#. Modern (O. Hlad) constellation, native: Scutum
+msgid "Scutum"
+msgstr "ঢাল"
+
+#. Modern (O. Hlad) constellation, native: Sextans
+msgid "Sextans"
+msgstr "সেক্সট্যান্ট"
+
+#. Modern (O. Hlad) constellation, native: Mensa
+msgid "Mensa"
+msgstr "সমতল পর্বত"
+
+#. Modern (O. Hlad) constellation, native: Telescopium
+msgid "Telescopium"
+msgstr "দূরবীন"
+
+#. Modern (O. Hlad) constellation, native: Tucana
+msgid "Tucana"
+msgstr "টুকান পাখি"
+
+#. Modern (O. Hlad) constellation, native: Triangulum Australe
+msgid "Triangulum Australe"
+msgstr "দক্ষিনের ত্রিভূজ"
+
+#. Modern (O. Hlad) constellation, native: Vela
+msgid "Vela"
+msgstr "বজরার পাল"
+
+#. Name for HIP 677
+msgid "Alpheratz"
+msgstr "আলফার্জ"
+
+#. Name for HIP 5447
+msgid "Mirach"
+msgstr "মিরাচ"
+
+#. Name for HIP 9640
+msgid "Almach"
+msgstr "সুনীতি"
+
+#. Name for HIP 6411
+msgid "Adhil"
+msgstr "আধিল"
+
+#. Name for HIP 109074
+msgid "Sadalmelik"
+msgstr "সাদালমেলিক"
+
+#. Name for HIP 106278
+msgid "Sadalsuud"
+msgstr "সাদালসুদ"
+
+#. Name for HIP 110395
+msgid "Sadachbia"
+msgstr "সাডাচবি"
+
+#. Name for HIP 113136
+msgid "Skat"
+msgstr "স্কাট"
+
+#. Name for HIP 113881
+msgid "Scheat"
+msgstr "স্চিট"
+
+#. Name for HIP 102618
+msgid "Albali"
+msgstr "অ্যালবালি"
+
+#. Name for HIP 110003
+msgid "Ancha"
+msgstr "আনচা"
+
+#. Name for HIP 111710
+msgid "Situla"
+msgstr "শিটুলা"
+
+#. Name for HIP 97649
+msgid "Altair"
+msgstr "আলটেয়ার (শ্রবণা)"
+
+#. Name for HIP 98036
+msgid "Alshain"
+msgstr "আলশেইন"
+
+#. Name for HIP 97278
+msgid "Tarazed"
+msgstr "টারাজেড (কর্ণ )"
+
+#. Name for HIP 9884
+msgid "Hamal"
+msgstr "হামাল"
+
+#. Name for HIP 8903
+msgid "Sheratan"
+msgstr "শেরতান"
+
+#. Name for HIP 8832
+msgid "Mesartim"
+msgstr ""
+
+#. Name for HIP 14838
+msgid "Botein"
+msgstr "বোতেইন"
+
+#. Name for HIP 28360
+msgid "Menkalinan"
+msgstr "মেনকালিনান"
+
+#. Name for HIP 73555
+msgid "Nekkar"
+msgstr "নেক্কার"
+
+#. Name for HIP 71075
+msgid "Seginus"
+msgstr "সেগিনাস"
+
+#. Name for HIP 72105
+msgid "Izar"
+msgstr "ইজার"
+
+#. Name for HIP 67927
+msgid "Muphrid"
+msgstr "মুফরাদ"
+
+#. Name for HIP 75411
+msgid "Alkalurops"
+msgstr "আলকারূপস্"
+
+#. Name for HIP 72487
+msgid "Merga"
+msgstr "মার্গা"
+
+#. Name for HIP 44066
+msgid "Acubens"
+msgstr "আকিউবেন্স"
+
+#. Name for HIP 42806
+msgid "Asellus Borealis"
+msgstr "আসেলুস বোরিয়ালিস"
+
+#. Name for HIP 42911
+msgid "Asellus Australis"
+msgstr "আসেলুস অস্ট্রালিস"
+
+#. Name for HIP 40167
+msgid "Tegmine"
+msgstr "তিগমিন"
+
+#. Name for HIP 63125
+msgid "Cor Caroli"
+msgstr "কর ক্যারোলি"
+
+#. Name for HIP 61317
+msgid "Chara"
+msgstr "চারা"
+
+#. Name for HIP 30324
+msgid "Mirzam"
+msgstr "মির্জাম"
+
+#. Name for HIP 34045
+msgid "Muliphein"
+msgstr "মুলিফেইন"
+
+#. Name for HIP 34444
+msgid "Wezen"
+msgstr "ওয়েজেন"
+
+#. Name for HIP 33579
+msgid "Adhara"
+msgstr "আধারা"
+
+#. Name for HIP 30122
+msgid "Furud"
+msgstr "ফারদ"
+
+#. Name for HIP 35904
+msgid "Aludra"
+msgstr "অ্যালয়ুধরা"
+
+#. Name for HIP 36188
+msgid "Gomeisa"
+msgstr "গুমেইসা"
+
+#. Name for HIP 100064
+msgid "Algedi"
+msgstr "অ্যালগেদি"
+
+#. Name for HIP 100345
+msgid "Dabih"
+msgstr "ডেবি"
+
+#. Name for HIP 106985
+msgid "Nashira"
+msgstr "নাসিরা"
+
+#. Name for HIP 107556
+msgid "Deneb Algedi"
+msgstr "ডেনেব অ্যালগেদি"
+
+#. Name for HIP 45238
+msgid "Miaplacidus"
+msgstr "মিয়াপ্লাচিডুস"
+
+#. Name for HIP 41037
+msgid "Avior"
+msgstr "আভিয়োর"
+
+#. Name for HIP 45556
+msgid "Aspidiske"
+msgstr "আস্পিডিস্কে"
+
+#. Name for HIP 39757
+msgid "Tureis"
+msgstr "টোরেইস"
+
+#. Name for HIP 3179
+msgid "Schedar"
+msgstr ""
+
+#. Name for HIP 746
+msgid "Caph"
+msgstr "ক্যাফ (জমদগ্নি)"
+
+#. Name for HIP 6686
+msgid "Ruchbah"
+msgstr "রুখবাহ্"
+
+#. Name for HIP 71683
+msgid "Rigil Kentaurus"
+msgstr "রিজিল কেন্টুরাস"
+
+#. Name for HIP 70890
+msgid "Proxima Centauri"
+msgstr "প্রক্সিমা সেন্টুরি"
+
+#. Name for HIP 61932
+msgid "Muhlifain"
+msgstr "মুলিফেন"
+
+#. Name for HIP 68933
+msgid "Menkent"
+msgstr "মেনকেন্ত"
+
+#. Name for HIP 68002
+msgid "Alnair"
+msgstr "অ্যালনেয়ার"
+
+#. Name for HIP 105199
+msgid "Alderamin"
+msgstr "অ্যালডারমিন"
+
+#. Name for HIP 106032
+msgid "Alfirk"
+msgstr "অ্যালফিক"
+
+#. Name for HIP 116727
+msgid "Errai"
+msgstr "ইরি"
+
+#. Name for HIP 108917
+msgid "Kurhah"
+msgstr "কুরাহ"
+
+#. Name for HIP 14135
+msgid "Menkar"
+msgstr "মেনখার"
+
+#. Name for HIP 3419
+msgid "Deneb Kaitos"
+msgstr "ডেনেব কাইতোস"
+
+#. Name for HIP 8645
+msgid "Baten Kaitos"
+msgstr "বতন আখিতোস"
+
+#. Name for HIP 10826
+msgid "Mira"
+msgstr "মিরা"
+
+#. Name for HIP 26634
+msgid "Phact"
+msgstr "ফাকিত"
+
+#. Name for HIP 27628
+msgid "Wazn"
+msgstr "ওজন"
+
+#. Name for HIP 76267
+msgid "Alphecca"
+msgstr "কোহিনূর"
+
+#. Name for HIP 75695
+msgid "Nusakan"
+msgstr "নুসকাম"
+
+#. Name for HIP 59199
+msgid "Alchiba"
+msgstr "আলখিবা"
+
+#. Name for HIP 59803
+msgid "Gienah"
+msgstr "জিনাহ্"
+
+#. Name for HIP 60965
+msgid "Algorab"
+msgstr "অ্যালগুরাব"
+
+#. Name for HIP 53740
+msgid "Alkes"
+msgstr "অ্যালকেস"
+
+#. Name for HIP 62434
+msgid "Mimosa"
+msgstr "মিমোসা"
+
+#. Name for HIP 61084
+msgid "Gacrux"
+msgstr "গাক্রাক্স"
+
+#. Name for HIP 102098
+msgid "Deneb"
+msgstr "ডেনেব"
+
+#. Name for HIP 95947
+msgid "Albireo"
+msgstr "অ্যালবেরিও"
+
+#. Name for HIP 100453
+msgid "Sadr"
+msgstr "সাদর"
+
+#. Name for HIP 107136
+msgid "Azelfafage"
+msgstr "অ্যাজেলফাফেজ"
+
+#. Name for HIP 101958
+msgid "Sualocin"
+msgstr "সুয়ালোসিন"
+
+#. Name for HIP 101769
+msgid "Rotanev"
+msgstr "রোটানেভ"
+
+#. Name for HIP 68756
+msgid "Thuban"
+msgstr "থুবান"
+
+#. Name for HIP 85670
+msgid "Rastaban"
+msgstr "রাস্টাব্যান"
+
+#. Name for HIP 87833
+msgid "Eltanin"
+msgstr "সর্পমণি"
+
+#. Name for HIP 94376
+msgid "Altais"
+msgstr "অ্যালটেইস"
+
+#. Name for HIP 75458
+msgid "Edasich"
+msgstr "এডাসিচ"
+
+#. Name for HIP 56211
+msgid "Giausar"
+msgstr "জাউজার"
+
+#. Name for HIP 83608
+msgid "Alrakis"
+msgstr "আলরাকিস"
+
+#. Name for HIP 87585
+msgid "Grumium"
+msgstr "গ্রুমিয়াম"
+
+#. Name for HIP 104987
+msgid "Kitalpha"
+msgstr "কিটাফা"
+
+#. Name for HIP 23875
+msgid "Cursa"
+msgstr "কুরসী"
+
+#. Name for HIP 18543
+msgid "Zaurak"
+msgstr "জাউর‍্যাক"
+
+#. Name for HIP 15197
+msgid "Zibal"
+msgstr "জ্যিবাল"
+
+#. Name for HIP 13701
+msgid "Azha"
+msgstr "আজহা"
+
+#. Name for HIP 13847
+msgid "Acamar"
+msgstr "আখমার"
+
+#. Name for HIP 19587
+msgid "Beid"
+msgstr "বেইদ"
+
+#. Name for HIP 19849
+msgid "Keid"
+msgstr "কাইদ"
+
+#. Name for HIP 20535
+msgid "Theemin"
+msgstr "থীমিন"
+
+#. Name for HIP 36850
+msgid "Castor"
+msgstr "ক্যাস্টর (বিষ্ণুতারা)"
+
+#. Name for HIP 37826
+msgid "Pollux"
+msgstr "পোলাক্স (সোমতারা)"
+
+#. Name for HIP 31681
+msgid "Alhena"
+msgstr "আলহেনা (অনল)"
+
+#. Name for HIP 35550
+msgid "Wasat"
+msgstr "ওয়াসাত"
+
+#. Name for HIP 32246
+msgid "Mebsuta"
+msgstr "মেবসুতা"
+
+#. Name for HIP 34088
+msgid "Mekbuda"
+msgstr "মাকবুদা"
+
+#. Name for HIP 29655
+msgid "Propus"
+msgstr "প্রোপুস"
+
+#. Name for HIP 30343
+msgid "Tejat"
+msgstr "তেজাট"
+
+#. Name for HIP 109268
+msgid "Al Na'ir"
+msgstr "আল নাইর"
+
+#. Name for HIP 84345
+msgid "Rasalgethi"
+msgstr "রাস অ্যালিগ্যাথি"
+
+#. Name for HIP 80816
+msgid "Kornephoros"
+msgstr "করনেফোরোস"
+
+#. Name for HIP 79043
+msgid "Marsic"
+msgstr "মারসিক"
+
+#. Name for HIP 80883
+msgid "Marfik"
+msgstr "মারফিক"
+
+#. Name for HIP 85693
+msgid "Maasym"
+msgstr "মাশিম"
+
+#. Name for HIP 80463
+msgid "Cujam"
+msgstr "কুজাম"
+
+#. Name for HIP 46390
+msgid "Alphard"
+msgstr "আলফার্ড"
+
+#. Name for HIP 50583
+msgid "Algieba"
+msgstr "আলজিবাহ্"
+
+#. Name for HIP 54872
+msgid "Zosma"
+msgstr "জ্যোসমা"
+
+#. Name for HIP 50335
+msgid "Adhafera"
+msgstr "আদদাফিরা"
+
+#. Name for HIP 54879
+msgid "Chertan"
+msgstr "খারতান"
+
+#. Name for HIP 46750
+msgid "Alterf"
+msgstr "আলতার্ফ"
+
+#. Name for HIP 48455
+msgid "Rasalas"
+msgstr "রাস্যালাস"
+
+#. Name for HIP 47508
+msgid "Subra"
+msgstr "সুর্বা"
+
+#. Name for HIP 25985
+msgid "Arneb"
+msgstr "আরনেব"
+
+#. Name for HIP 25606
+msgid "Nihal"
+msgstr "নিহাল"
+
+#. Name for HIP 23203
+msgid "Hind's Crimson Star"
+msgstr "হিন্ডের রক্তিম তারা"
+
+#. Name for HIP 72622
+msgid "Zubenelgenubi"
+msgstr "জুবেনিলজেনুবি"
+
+#. Name for HIP 74785
+msgid "Zubeneschamali"
+msgstr "জুবেনেস্চামালি"
+
+#. Name for HIP 92420
+msgid "Sheliak"
+msgstr "শেলিয়াক"
+
+#. Name for HIP 93194
+msgid "Sulafat"
+msgstr "সুলাফাত"
+
+#. Name for HIP 86032
+msgid "Rasalhague"
+msgstr "রাস অ্যালগি"
+
+#. Name for HIP 86742
+msgid "Cebalrai"
+msgstr "সেবালারি"
+
+#. Name for HIP 79593
+msgid "Yed Prior"
+msgstr "এড প্রায়র"
+
+#. Name for HIP 79882
+msgid "Yed Posterior"
+msgstr "পশ্চাত ইয়াদ"
+
+#. Name for HIP 84012
+msgid "Sabik"
+msgstr "সাবিক"
+
+#. Name for HIP 87937
+msgid "Barnard's Star"
+msgstr "বারনাডের নক্ষত্র"
+
+#. Name for HIP 27366
+msgid "Saiph"
+msgstr "সাইফ (কার্তবীর্য)"
+
+#. Name for HIP 26207
+msgid "Meissa"
+msgstr "মেইসা"
+
+#. Name for HIP 100751
+msgid "Peacock"
+msgstr "ময়ূর"
+
+#. Name for HIP 113963
+msgid "Markab"
+msgstr "মারকাব"
+
+#. Name for HIP 1067
+msgid "Algenib"
+msgstr "আলজেনিব"
+
+#. Name for HIP 107315
+msgid "Enif"
+msgstr "এনিফ"
+
+#. Name for HIP 112029
+msgid "Homam"
+msgstr "হোমাম"
+
+#. Name for HIP 112158
+msgid "Matar"
+msgstr "মাতার"
+
+#. Name for HIP 109427
+msgid "Biham"
+msgstr "বিহাম"
+
+#. Name for HIP 112748
+msgid "Sadalbari"
+msgstr "সাদালব্যারি"
+
+#. Name for HIP 15863
+msgid "Mirfak"
+msgstr "মিরফাক"
+
+#. Name for HIP 14576
+msgid "Algol"
+msgstr "অ্যালগল"
+
+#. Name for HIP 18614
+msgid "Menkib"
+msgstr "মেনকিব"
+
+#. Name for HIP 17448
+msgid "Atik"
+msgstr "আটিক"
+
+#. Name for HIP 2081
+msgid "Ankaa"
+msgstr "আনকা"
+
+#. Name for HIP 9487
+msgid "Alrescha"
+msgstr "অ্যালরাশ্যা"
+
+#. Name for HIP 39429
+msgid "Naos"
+msgstr "নাওস"
+
+#. Name for HIP 96757
+msgid "Sham"
+msgstr "শাম"
+
+#. Name for HIP 95347
+msgid "Rukbat"
+msgstr "রূকবাট"
+
+#. Name for HIP 95241
+msgid "Arkab"
+msgstr "আরকাব"
+
+#. Name for HIP 88635
+msgid "Alnasl"
+msgstr "আলনাস্ল"
+
+#. Name for HIP 89931
+msgid "Kaus Media"
+msgstr "কাউস মিডিয়া"
+
+#. Name for HIP 90185
+msgid "Kaus Australis"
+msgstr "কাউস অস্ট্রালিস"
+
+#. Name for HIP 93506
+msgid "Ascella"
+msgstr "অ্যাস্কেলা"
+
+#. Name for HIP 90496
+msgid "Kaus Borealis"
+msgstr "কাউস বোরিয়ালিস"
+
+#. Name for HIP 92855
+msgid "Nunki"
+msgstr "নুনকি"
+
+#. Name for HIP 78820
+msgid "Graffias"
+msgstr "গ্রাফিস"
+
+#. Name for HIP 78401
+msgid "Dschubba"
+msgstr "স্চুবা (অনুরাধা)"
+
+#. Name for HIP 86228
+msgid "Girtab"
+msgstr "গিরটাব"
+
+#. Name for HIP 85927
+msgid "Shaula"
+msgstr "শ্যাউলা"
+
+#. Name for HIP 80112
+msgid "Al Niyat"
+msgstr "আল নিয়াত"
+
+#. Name for HIP 85696
+msgid "Lesath"
+msgstr "লেসাথ"
+
+#. Name for HIP 77070
+msgid "Unukalhai"
+msgstr "আনউকালহাই"
+
+#. Name for HIP 92946
+msgid "Alya"
+msgstr "আলিয়া"
+
+#. Name for HIP 25428
+msgid "Elnath"
+msgstr "এলনাথ (অগ্নি)"
+
+#. Name for HIP 20889
+msgid "Ain"
+msgstr "আয়িন"
+
+#. Name for HIP 17702
+msgid "Alcyone"
+msgstr "অ্যালসিয়্যানি"
+
+#. Name for HIP 17489
+msgid "Celaeno"
+msgstr "সেল্যানো"
+
+#. Name for HIP 17499
+msgid "Electra"
+msgstr "ইলেকট্রা"
+
+#. Name for HIP 17531
+msgid "Taygeta"
+msgstr "তেইজ্যাতে (অনুসূয়া)"
+
+#. Name for HIP 17573
+msgid "Maia"
+msgstr "মেইয়্যা"
+
+#. Name for HIP 17608
+msgid "Merope"
+msgstr "মেরোপি"
+
+#. Name for HIP 17847
+msgid "Atlas"
+msgstr "আটলাস"
+
+#. Name for HIP 17851
+msgid "Pleione"
+msgstr "প্লাইয়নি"
+
+#. Name for HIP 8796
+msgid "Mothallah"
+msgstr "মুথাল্লাহ্"
+
+#. Name for HIP 82273
+msgid "Atria"
+msgstr "আট্রিয়া"
+
+#. Name for HIP 54061
+msgid "Dubhe"
+msgstr "ধুবে (ক্রতু)"
+
+#. Name for HIP 53910
+msgid "Merak"
+msgstr "মিরাক (পুলহ)"
+
+#. Name for HIP 58001
+msgid "Phecda"
+msgstr "ফ্যাকডা"
+
+#. Name for HIP 59774
+msgid "Megrez"
+msgstr "মেগরেজ (অত্রি)"
+
+#. Name for HIP 62956
+msgid "Alioth"
+msgstr "অ্যালিয়থ (অঙ্গিরা)"
+
+#. Name for HIP 65378
+msgid "Mizar"
+msgstr "মিজার (বশিষ্ঠ)"
+
+#. Name for HIP 65477
+msgid "Alcor"
+msgstr "অ্যালকর (অরুন্ধতি)"
+
+#. Name for HIP 67301
+msgid "Alkaid"
+msgstr "আলকাইদ (মারিচী)"
+
+#. Name for HIP 44127
+msgid "Talitha"
+msgstr "থালিথা"
+
+#. Name for HIP 50372
+msgid "Tania Borealis"
+msgstr "টানিয়া বোরিয়ালিস"
+
+#. Name for HIP 50801
+msgid "Tania Australis"
+msgstr "টানিয়া অস্ট্রালিস"
+
+#. Name for HIP 55219
+msgid "Alula Borealis"
+msgstr "আলুলা বোরিয়ালিস"
+
+#. Name for HIP 55203
+msgid "Alula Australis"
+msgstr "আলুলা অস্ট্রালিস"
+
+#. Name for HIP 41704
+msgid "Muscida"
+msgstr "মুসিডা"
+
+#. Name for HIP 57939
+msgid "Groombridge 1830"
+msgstr "গ্রুমব্রিজ ১৮৩০"
+
+#. Name for HIP 54035
+msgid "Lalande 21185"
+msgstr ""
+
+#. Name for HIP 11767
+msgid "Polaris"
+msgstr "পোলারিস (ধ্রুবতারা)"
+
+#. Name for HIP 72607
+msgid "Kochab"
+msgstr "কোখাব"
+
+#. Name for HIP 75097
+msgid "Pherkad"
+msgstr "ফার্কাড"
+
+#. Name for HIP 85822
+msgid "Yildun"
+msgstr "ইলডান"
+
+#. Name for HIP 39953
+msgid "Regor"
+msgstr "রেগোর"
+
+#. Name for HIP 44816
+msgid "Suhail"
+msgstr "সুহাইল"
+
+#. Name for HIP 45941
+msgid "Markeb"
+msgstr "মার্কিব"
+
+#. Name for HIP 57757
+msgid "Zavijava"
+msgstr "জাভিজাভা"
+
+#. Name for HIP 61941
+msgid "Porrima"
+msgstr "পোরিমা"
+
+#. Name for HIP 63608
+msgid "Vindemiatrix"
+msgstr "ভিন্ডেমিয়েট্রিক্স"
+
+#. Name for HIP 60129
+msgid "Zaniah"
+msgstr "জ্যানাইয়্যা"
+
+#. Name for HIP 69701
+msgid "Syrma"
+msgstr "শায়র্মা"
+
+#. Name for HIP 17579
+msgid "Sterope"
+msgstr ""
+
+#. Name for HIP 44368
+msgid "Vela X-1"
+msgstr ""
+
+#. Name for HIP 59654
+msgid "Rmk 14"
+msgstr ""
+
+#. Name for HIP 69995
+msgid "V1002"
+msgstr ""
+
+#. Name for HIP 73184
+msgid "H N 28"
+msgstr ""
+
+#. Name for HIP 78322
+msgid "T = Blaze Star"
+msgstr ""
+
+#. Name for HIP 105090
+msgid "Lacaille 8760"
+msgstr ""
+
+#. Name for HIP 107259
+msgid "Herschel's Garnet Star"
+msgstr ""
+
+#. Name for HIP 110893
+msgid "Krueger 60"
+msgstr ""
+
+#. Name for HIP 114622
+msgid "Bradley 3077"
+msgstr ""
