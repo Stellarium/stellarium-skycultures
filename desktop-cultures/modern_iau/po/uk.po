@@ -1,0 +1,2923 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>, 2025\n"
+"Language-Team: Ukrainian (https://app.transifex.com/stellarium/teams/80998/"
+"uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != "
+"11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % "
+"100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || "
+"(n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#. Sky culture name
+msgid "Modern (IAU)"
+msgstr "Сучасна (МАС)"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"The modern sky culture is used internationally by modern astronomers, and is "
+"the official scheme of The International Astronomical Union. It has "
+"historical roots in Ancient Greek astronomy, with influences from Islamic "
+"astronomy."
+msgstr ""
+"Сучасна картина зоряного неба використовується на міжнародному рівні "
+"сучасними астрономами та є офіційною схемою зоряного неба Міжнародного "
+"астрономічного союзу. Історичні корені цієї картини сягають давньогрецької "
+"астрономії, можна також прослідкувати вплив ісламських астрономів."
+
+#. Sky culture description section in markdown format
+msgid ""
+"The modern sky culture divides the celestial sphere into 88 areas of various "
+"sizes called constellations, each with precise boundary, issued by the "
+"International Astronomical Union in 1922. These constellations have become "
+"the standard way to describe the sky, replacing similar sets in other sky "
+"cultures exhaustively in daily usage.\n"
+"\n"
+"The constellations in use today are based mainly on ancient Greek "
+"constellations depicted by Ptolemy in his book the Almagest during the 2nd "
+"century CE. In the subsequent centuries, this book has been translated from "
+"Greek into Arabic (6th to 9th century) and later to medieval Latin. In the "
+"Arabic more than in the Latin tradition, the Ptolemaic figures were enriched "
+"and transformed by native Arabic constellations and star names.\n"
+"\n"
+"In the 16-18th centuries, European astronomers suggested new constellations "
+"to fill the gaps between northern constellations (e.g. the constellation of "
+"\"the lynx\" for an area close to the Great Bear but with stars so faint "
+"that you would need the eyes of a lynx to see them) and also created new "
+"constellations in the southern part of the sky which had not been visible to "
+"Ptolemy. These new constellations were usually named after new technical "
+"inventions of the early modern period (e.g. a chemical furnace, a balloon, "
+"an air pump) or exotic animals (e.g. a chamaeleon, a tucan, a paradise "
+"bird). Among them several constellations were also named with political "
+"consideration to honor certain kings or patrons.\n"
+"\n"
+"In the beginning of the 20th century, the IAU (International Astronomical "
+"Union) aimed for a large clean-up: in 1922, it officially accepted the list "
+"of 88 constellation names. In 1928 it also defined precise constellation "
+"boundaries [#4] still in use today.\n"
+"\n"
+"### Constellations\n"
+"\n"
+"These constellations are based mainly on the Ptolemaic tradition which had "
+"been used in all three Abrahamitic religions and, thus, was common in the "
+"Near East, in Europe and its colonies on all continents. However, between "
+"the ancient Greek constellations there were gaps of areas with only faint "
+"stars belonging to no constellation.[#5] In the Modern Epoch, several "
+"astronomers suggested constellation figures for these gaps, among them "
+"several political constellations to the honor of certain kings or patrons. "
+"In the late 19th century, the astronomical research community aimed for a "
+"huge clean-up to avoid ambiguities in assigning stars to constellations.\n"
+"\n"
+"In 1922, the IAU officially approved the list of 88 constellation names and "
+"their official abbreviations with three letters. The only remaining "
+"political constellation is Scutum, the shield of a Polish king but without "
+"mentioning the political reference anymore. The Belgian priest E. Delporte "
+"got the task to define constellation boundaries according to coordinates. In "
+"1928, he finished the work, based on an atlas from Argentina [#6], and the "
+"IAU accepted his delimitations [#4].\n"
+"\n"
+"These \"constellations\" are naked areas in the sky without any stick "
+"figures or depictions [#1]. The borders simply follow the lines of right "
+"ascension and declination from the epoch 1875.0. Precession causes a slowly "
+"increasing deviation from the originally rectilinear grid. These "
+"constellations became the standard way to describe the sky, replacing "
+"similar sets in other sky cultures exhaustively in daily usage.\n"
+"\n"
+"#### Constellation Figures\n"
+"\n"
+"In star maps it is common to mark line \"patterns\" that represent the "
+"shapes that give the name to the constellations. However, the IAU defines a "
+"constellation by its boundary (indicated by sky coordinates) and not by its "
+"pattern and the same constellation may have several variants in its "
+"representation.\n"
+"\n"
+"This sky culture uses constellation figures were produced in collaboration "
+"with \"Sky and Telescope\" magazine (Roger Sinnott and Rick Fienberg) and "
+"published at IAU official website [#1]. Alan MacRobert's constellation "
+"patterns, were influenced by those of H. A. Rey but in many cases were "
+"adjusted to preserve earlier traditions.\n"
+"\n"
+"### Proper names of stars\n"
+"\n"
+"Ptolemy's star catalogue had the layout of a table listing the description "
+"of the star's position in the constellation's figure, the ecliptical "
+"coordinates, and the magnitude e.g.: \"The star at the tip of the tail of "
+"Ursa Minor\", \"Gem 0 1/6, +66\", \"Mag 3\".\n"
+"\n"
+"In most cases, the star names evolved by astronomer's systematical "
+"abbreviations of these descriptions, e.g., a first astronomer abbreviated in "
+"a text \"tip of the tail\", a next astronomer drew a map with less space and "
+"wrote only \"tail\" next to the star and this name remained. Over centuries, "
+"these descriptions were translated into Arabic and Latin, and in some cases "
+"the translators or scribes made mistakes because of misreading or "
+"misspelling of the Arabic words (e.g. the Arabic \"yad al gauza\", the hand "
+"of the giant woman, was mangled to the common term \"Betelgeuse\").\n"
+"\n"
+"However, there are also a few original Greek words like the red star "
+"\"Antares\", the counterpart of Ares (Mars), and even a few original "
+"Babylonian terms like \"Shargaz\", the Sting, in Scorpius. Our modern, most "
+"recent IAU star names [#7] are a renewed mixture, also with influences or "
+"even politically wanted additions of star names from the non-Ptolemaic sky "
+"cultures, e.g. the traditional Pingsing, a Chinese star name for a star in "
+"Hydra (its meaning is only \"star\", a reminescence to his lonely position), "
+"or newly adopted star names from Polynesian, Hawaiian, or Aboriginal "
+"cultures for names of stars with exoplanets.\n"
+"\n"
+"The IAU is the only scientifically accepted authority to assign new names to "
+"stars. Commercial exploits like \"star name registries\", who sell stars for "
+"commemorative purposes or as gifts, only sell printed pieces of paper. These "
+"names are not approved and never used by scientists.\n"
+"\n"
+"### Proper names of deep-sky objects\n"
+"\n"
+"Uranometria 2000.0 is an atlas of the 2000.0 era starry sky prepared by the "
+"Dutch artist Wil Tirion and published in 1987 by the American publishing "
+"house Willmann-Bell, specializing in astronomical literature.\n"
+"\n"
+"The Atlas of Tirion, respected by astronomers for its accuracy and beauty, "
+"is provided with detailed tables and various indexes. The second volume "
+"contains three transparent overlays designed for precise measurements. "
+"Uranometria 2000.0 contains more than 280,000 stars and more than 30,000 "
+"deep-sky objects - in particular, all the objects of the Messier and NGC "
+"catalogs.\n"
+"\n"
+"The second (corrected and most complete) three-volume edition of "
+"\"Uranometria 2000.0\", was published in 2001 under the name \"Uranometria "
+"2000.0 Deep Sky Atlas\" and contains 280035 stars of both hemispheres up to "
+"9.75<sup>m</sup> in size on a scale of 1.85 cm per declination degree on 220 "
+"spreads of A3 format. Particular attention in the atlas is paid to deep-sky "
+"objects, there are more than 30 thousand of them in the second edition - "
+"many times more than in any other paper atlas.\n"
+"\n"
+"The third volume of \"Uranometria 2000.0\" is a guide to deep-sky objects - "
+"Deep Sky Field Guide, consisting of tables with scientific data and proper "
+"names on objects depicted in the first two volumes [#3]."
+msgstr ""
+"У сучасній культурі небесну сферу поділено на 88 ділянок найрізноманітніших "
+"розмірів, які називаються сузір'ями, кожна область має точно визначені межі, "
+"які стандартизовано Міжнародним астрономічним союзом. Ці сузір’я є "
+"стандартним способом опису неба, який повністю замінив подібні набори інших "
+"картин зоряного неба.\n"
+"\n"
+"Сузір'я, які ми використовуємо сьогодні, засновано, в основному, на "
+"давньогрецьких сузір'ях, які описано Птолемеєм у його книзі «Альмагест», "
+"написаній у 2-му сторіччі нашої ери. Протягом наступних сторіч цю книгу було "
+"перекладено з грецької арабською (від 6-го до 9-го сторіч), а потім і "
+"середньовічною латинською мовами. Арабський переклад, порівняно із "
+"традиційним латинським, містить доповнення фігур Птолемея власними та "
+"перетвореними арабськими назвами сузір'їв та зірок.\n"
+"\n"
+"Протягом 16-18-го сторіч європейські астрономи запропонували нові сузір'я "
+"для заповнення прогалин між сузір'ями північної півкулі (наприклад, сузір'я "
+"«рисі» для області, близької до Великої Ведмедиці, але заповненої тьмяними "
+"зірками, розгледіти які можна лише маючи око рисі), а також створили нові "
+"сузір'я для південної частини неба, яка лишалася невидимою для Птолемея. Ці "
+"нові сузір'я, зазвичай, називали на честь нових технічних винаходів початку "
+"сучасної доби (наприклад хімічної печі, повітряної кулі або насосу) чи "
+"екзотичних тварин (наприклад хамелеона, тукана або райського птаха). Серед "
+"назв також були назви, які давалися з політичних причин, на вшанування "
+"певних королів або спонсорів.\n"
+"\n"
+"На початку 20-го сторіччя МАС (Міжнародний астрономічний союз) поставив "
+"ціллю велике чищення: у 1922 році ця організація затвердила список з 88 назв "
+"сузір'їв. У 1928 році вона також визначила точні межі сузір'їв [#4], якими "
+"ми користуємося і досі.\n"
+"\n"
+"### Сузір'я\n"
+"\n"
+"Дані щодо цих сузір'їв, в основному, засновано на птолемеївській традиції, "
+"яку використано у всіх трьох авраамічних релігіях, і отже, такій, як була "
+"поширена на Близькому Сході, в Європі та у європейських колоніях на усіх "
+"континентах. Втім, між давніми грецькими сузір'ями були прогалини, де можна "
+"було спостерігати лише тьмяні зірки, які не належали до жодного сузір'я "
+"[#5]. У сучасну добу декілька астрономів запропонували фігури сузір'їв для "
+"цих прогалин, серед них були декілька політичних сузір'їв, які було створено "
+"на честь певних королів або спонсорів. Протягом другої половини 19-го "
+"сторіччя спільнота астрономів-дослідників поставила метою велике чищення для "
+"усування неоднозначностей прив'язки зірок до сузір'їв.\n"
+"\n"
+"У 1922 році МАС офіційно затвердив список із 88 назв сузір'їв та їхні "
+"офіційні абревіатури з трьох літер. Єдиним політичним сузір'ям, яке лишилося "
+"на карті неба, є Щит, щит польських королів, але вже без політичної "
+"прив'язки. За завдання з визначення меж сузір'їв відповідно до координат "
+"взявся бельгійський священик Е. Дельпорте (E. Delporte). Роботу було "
+"завершено у 1928 році на основі атласу з Аргентини [#6]. МАС затвердив "
+"результати роботи з розмежування [#4].\n"
+"\n"
+"Ці «сузір'я» прості області на небі без будь-яких контурних фігур або "
+"зображень [#1]. Межі просто є лініями прямого сходження та схилення для "
+"епохи 1875.0. Прецесія спричиняє відхилення від початкової ортогональної "
+"сітки, що поступово зростає. Ці сузір'я стали стандартним способом опису "
+"неба, повністю замінивши подібні набори в інших картинах зоряного неба у "
+"щоденному використанні.\n"
+"\n"
+"#### Фігури сузір'їв\n"
+"\n"
+"На картах зоряного неба типовим є позначення ліній «візерунків», які "
+"представляють форми, за якими сузір'ям надано назви. Втім, МАС визначає "
+"сузір'я за його межами (що визначаються небесними координатами), а не за "
+"його візерунком. Тому те саме сузір'я може мати декілька варіантів "
+"представлення формами.\n"
+"\n"
+"У цій картині зоряного неба використано рисунки сузір'їв, які було створено "
+"у співпраці із журналом «Sky and Telescope» (Роджером Сіннотом та Ріком "
+"Фінберґом (Roger Sinnott та Rick Fienberg)) та оприлюднено на офіційному "
+"сайті МАС [#1]. Візерунки сузір'їв Алана Макроберта (Alan MacRobert) було "
+"створено на основі візерунків Г. А. Рея (H. A. Rey), але у багатьох випадках "
+"було скориговано для збереження попередніх традицій.\n"
+"\n"
+"### Власні назви зірок\n"
+"\n"
+"У каталозі зірок Птолемея наведено таблицю з описовими розташуваннями зірок "
+"у фігурі сузір'я, екліптичними координатами та зоряною величиною. Приклад: "
+"«Зірка на кінці хвоста Малої Ведмедиці », «Gem 0 1/6, +66», «Вел. 3».\n"
+"\n"
+"Здебільшого, назви зірок походять від систематичних скорочень астрономів у "
+"описах зірок. Наприклад, перший астроном скоротив текст до «кінчик хвоста», "
+"наступний астроном малював карту, де було менше місця, і написав поряд із "
+"зіркою лише «хвіст», і ця назва набула поширення. Протягом століть ці описи "
+"перекладали арабською і латиною, і іноді перекладачі або ті, хто переписував "
+"тексти, робили помилки через неправильне прочитання або транскрипцію "
+"арабських слів (наприклад, арабське «яд-ель-гауза», рука гігантської жінки, "
+"перетворилося у поширену назву «Бетельгейзе»).\n"
+"\n"
+"Втім, також збереглося декілька початкових слів грецькою мовою, наприклад "
+"для назви червоної зірки «Антарес», двійника Ареса (Марса), і навіть "
+"декілька початкових назв вавилонською, зокрема «Шаргаз», Жало, у Скорпіоні. "
+"Наші сучасні, найновіші назви зірок МАС [#7] є оновленою сумішшю із впливами "
+"або навіть політично вигідними доповненнями назв зірок з не пов'язаних із "
+"Птолемеєм картин зоряного неба, наприклад традиційна китайська назва "
+"Піньсінь для зірки у Гідрі (значенням цього слова є просто «зірка», що "
+"позначає відокремленість цієї зірки від решти сузір'я) або нові назви зірок "
+"з полінезійськодї, гавайської та австралійської картини зоряного неба для "
+"зірок з екзопланетами.\n"
+"\n"
+"МАС є єдиною установою, яка надає науково прийнятні нові назви зіркам. "
+"Комерційні установи, які ведуть «списки назв зірок» і продають зірки для "
+"комерційних потреб, продають ніким не визнані шматки паперу. Запроваджені "
+"ними назви не затверджено науковцями і не буде використано у науковій "
+"практиці.\n"
+"\n"
+"### Власні назви віддалених об'єктів\n"
+"\n"
+"Uranometria 2000.0 — атлас зоряного неба епохи 2000.0, який створено "
+"нідерландським художником Вілом Тіріоном (Wil Tirion) і опубліковано у 1987 "
+"році американським видавництвом Willmann-Bell, що спеціалізується на виданні "
+"астрономічної літератури.\n"
+"\n"
+"Атлас Тіріона, який астрономи цінують за точність і красу, містить докладні "
+"таблиці та різноманітні покажчики. У другому томі атласу міститься три "
+"прозорі накладки, які призначено для точних вимірювань. «Uranometria 2000.0» "
+"містить дані щодо понад 280000 зірок і понад 30000 віддалених об'єктів — "
+"зокрема усі об'єкти каталогів Месьє та NGC.\n"
+"\n"
+"Друге (виправлене і найповніше) тритомне видання «Uranometria 2000.0» було "
+"оприлюднене у 2001 під назвою «Uranometria 2000.0 Deep Sky Atlas». У ньому "
+"містяться дані щодо 280035 зірок в обох півкулях, аж до 9.75<sup>m</sup>, у "
+"розмірі 1,85 см на градус схилення на 220 розгортках формату A3. Окрему "
+"увагу в атласі приділено віддаленим об'єктам. У другому виданні наведено "
+"дані щодо понад 30 тисяч таких об'єктів — набагато більше, ніж у будь-якому "
+"іншому паперовому атласі.\n"
+"\n"
+"Третій том «Uranometria 2000.0» є путівником за віддаленими об'єктами — "
+"«Deep Sky Field Guide», що складається з таблиць із науковими даними та "
+"власними назвами об'єктів, які зображено у перших двох томах [#3]."
+
+#. Name for HIP 116076
+msgid "Veritate"
+msgstr "Верітате"
+
+#. Name for HIP 103527
+msgid "Musica"
+msgstr "Музика"
+
+#. Name for HIP 90344
+msgid "Fafnir"
+msgstr "Фафнір"
+
+#. Name for HIP 53721
+msgid "Chalawan"
+msgstr "Чалаван"
+
+#. Name for HIP 113357
+msgid "Helvetios"
+msgstr "Гельветіос"
+
+#. Name for HIP 43587
+msgid "Copernicus"
+msgstr "Копернікус"
+
+#. Name for HIP 16537
+msgid "Ran"
+msgstr "Ран"
+
+#. Name for HIP 58952
+msgid "Tonatiuh"
+msgstr "Тонатіу"
+
+#. Name for HIP 80838
+msgid "Ogma"
+msgstr "Оґма"
+
+#. Name for HIP 46471
+msgid "Intercrus"
+msgstr "Інтеркрус"
+
+#. Name for HIP 86796
+msgid "Cervantes"
+msgstr "Сервантес"
+
+#. Name for HIP 7513
+msgid "Titawin"
+msgstr "Тітавін"
+
+#. Name for HIP 97938
+msgid "Libertas"
+msgstr "Лібертас"
+
+#. Name for HIP 47087
+msgid "Illyrian"
+msgstr "Ілірійська"
+
+#. Name for HIP 21109
+msgid "Hoggar"
+msgstr "Хоггар"
+
+#. Name for HIP 72845
+msgid "Arcalís"
+msgstr "Аркаліс"
+
+#. Name for HIP 31895
+msgid "Nosaxa"
+msgstr "Носаха"
+
+#. Name for HIP 26380
+msgid "Bubup"
+msgstr "Бубуп"
+
+#. Name for HIP 82651
+msgid "Mahsati"
+msgstr "Махсаті"
+
+#. Name for HIP 80687
+msgid "Timir"
+msgstr "Тімір"
+
+#. Name for HIP 32916
+msgid "Nervia"
+msgstr "Нервія"
+
+#. Name for HIP 42446
+msgid "Gakyid"
+msgstr "Гак'їд"
+
+#. Name for HIP 38041
+msgid "Tapecue"
+msgstr "Тапеке"
+
+#. Name for HIP 107251
+msgid "Bosona"
+msgstr "Босона"
+
+#. Name for HIP 17096
+msgid "Tupi"
+msgstr "Тупі"
+
+#. Name for HIP 94645
+msgid "Gumala"
+msgstr "Гумала"
+
+#. Name for HIP 22491
+msgid "Mouhoun"
+msgstr "Мухун"
+
+#. Name for HIP 74961
+msgid "Nikawiy"
+msgstr "Нікауї"
+
+#. Name for HIP 88414
+msgid "Pincoya"
+msgstr "Пінкоя"
+
+#. Name for HIP 110813
+msgid "Lionrock"
+msgstr "Лайонрок"
+
+#. Name for HIP 91852
+msgid "Xihe"
+msgstr "Сіхе"
+
+#. Name for HIP 56508
+msgid "Formosa"
+msgstr "Формоза"
+
+#. Name for HIP 52521
+msgid "Macondo"
+msgstr "Макондо"
+
+#. Name for HIP 116084
+msgid "Poerava"
+msgstr "Поерава"
+
+#. Name for HIP 43674
+msgid "Stribor"
+msgstr "Стрибор"
+
+#. Name for HIP 2247
+msgid "Felixvarela"
+msgstr "Феліксварела"
+
+#. Name for HIP 90004
+msgid "Alasia"
+msgstr "Аласія"
+
+#. Name for HIP 5054
+msgid "Nenque"
+msgstr "Ненке"
+
+#. Name for HIP 33719
+msgid "Citalá"
+msgstr "Сітала"
+
+#. Name for HIP 12191
+msgid "Buna"
+msgstr "Буна"
+
+#. Name for HIP 6643
+msgid "Bélénos"
+msgstr "Беленос"
+
+#. Name for HIP 108375
+msgid "Itonda"
+msgstr "Ітонда"
+
+#. Name for HIP 24003
+msgid "Mago"
+msgstr "Маго"
+
+#. Name for HIP 95262
+msgid "Sika"
+msgstr "Сіка"
+
+#. Name for HIP 1547
+msgid "Citadelle"
+msgstr "Цитадель"
+
+#. Name for HIP 55174
+msgid "Hunahpú"
+msgstr "Хунахпу"
+
+#. Name for HIP 80076
+msgid "Hunor"
+msgstr "Гунор"
+
+#. Name for HIP 61177
+msgid "Funi"
+msgstr "Фуні"
+
+#. Name for HIP 48711
+msgid "Bibhā"
+msgstr "Бібха"
+
+#. Name for HIP 66047
+msgid "Dofida"
+msgstr "Дофіда"
+
+#. Name for HIP 92895
+msgid "Kaveh"
+msgstr "Каве"
+
+#. Name for HIP 96078
+msgid "Uruk"
+msgstr "Урук"
+
+#. Name for HIP 57370
+msgid "Flegetonte"
+msgstr "Флегетонте"
+
+#. Name for HIP 47202
+msgid "Kalausi"
+msgstr "Калаусі"
+
+#. Name for HIP 66192
+msgid "Liesma"
+msgstr "Лієсма"
+
+#. Name for HIP 99711
+msgid "Phoenicia"
+msgstr "Фінікія"
+
+#. Name for HIP 30860
+msgid "Lucilinburhuc"
+msgstr "Люсілінбурхуц"
+
+#. Name for HIP 83547
+msgid "Rapeto"
+msgstr "Рапето"
+
+#. Name for HIP 15578
+msgid "Intan"
+msgstr "Інтан"
+
+#. Name for HIP 118319
+msgid "Axólotl"
+msgstr "Аксолотль"
+
+#. Name for HIP 5529
+msgid "Emiw"
+msgstr "Емів"
+
+#. Name for HIP 13993
+msgid "Ayeyarwady"
+msgstr "Іраваді"
+
+#. Name for HIP 56572
+msgid "Sagarmatha"
+msgstr "Сагарматха"
+
+#. Name for HIP 76351
+msgid "Karaka"
+msgstr "Карака"
+
+#. Name for HIP 3479
+msgid "Cocibolca"
+msgstr "Косіболка"
+
+#. Name for HIP 29550
+msgid "Amadioha"
+msgstr "Амадіоха"
+
+#. Name for HIP 40687
+msgid "Násti"
+msgstr "Насті"
+
+#. Name for HIP 55664
+msgid "Shama"
+msgstr "Шама"
+
+#. Name for HIP 60644
+msgid "Tupã"
+msgstr "Тупа"
+
+#. Name for HIP 84787
+msgid "Inquill"
+msgstr "Інкіл"
+
+#. Name for HIP 57291
+msgid "Uklun"
+msgstr "Уклун"
+
+#. Name for HIP 104780
+msgid "Solaris"
+msgstr "Соляріс"
+
+#. Name for HIP 30905
+msgid "Lusitânia"
+msgstr "Лузітанія"
+
+#. Name for HIP 12961
+msgid "Koeia"
+msgstr "Коея"
+
+#. Name for HIP 95124
+msgid "Belel"
+msgstr "Белел"
+
+#. Name for HIP 73136
+msgid "Baekdu"
+msgstr "Пекту"
+
+#. Name for HIP 81022
+msgid "Rosalíadecastro"
+msgstr "Росаліядекастро"
+
+#. Name for HIP 106824
+msgid "Sāmaya"
+msgstr "Самая"
+
+#. Name for HIP 57820
+msgid "Aniara"
+msgstr "Аніара"
+
+#. Name for HIP 72339
+msgid "Mönch"
+msgstr "Мьонх"
+
+#. Name for HIP 114322
+msgid "Ebla"
+msgstr "Ебла"
+
+#. Name for HIP 54158
+msgid "Dingolay"
+msgstr "Дінголай"
+
+#. Name for HIP 99894
+msgid "Chechia"
+msgstr "Шешія"
+
+#. Name for HIP 79431
+msgid "Sharjah"
+msgstr "Шарджа"
+
+#. Name for HIP 13192
+msgid "Nushagak"
+msgstr "Нушагак"
+
+#. Name for HIP 37284
+msgid "Ceibo"
+msgstr "Сейбо"
+
+#. Name for HIP 48235
+msgid "Natasha"
+msgstr "Наташа"
+
+#. Name for NGC104
+msgid "47 Tucanae"
+msgstr "47 Тукана"
+
+#. Name for NGC224
+msgid "Andromeda Galaxy"
+msgstr "Туманність Андромеди"
+
+#. Name for NGC253
+msgid "Sculptor Galaxy"
+msgstr "Галактика у Скульпторі"
+
+#. Name for NGC292
+msgid "Small Magellanic Cloud"
+msgstr "Мала Магелланова Хмара"
+
+#. Name for NGC541
+msgid "Minkowski's Object"
+msgstr "Об’єкт Міньковського"
+
+#. Name for NGC598
+msgid "Pinwheel Galaxy"
+msgstr "Галактика «Цівочне Колесо»"
+
+#. Name for PNG010.8+18.0
+msgid "Butterfly Nebula"
+msgstr "Туманність «Метелик»"
+
+#. Name for NGC869
+msgid "Double Cluster"
+msgstr "Подвійне скупчення"
+
+#. Name for ESO356-4
+msgid "Fornax Dwarf"
+msgstr "Карлик у Печі"
+
+#. Name for NGC1275
+msgid "Perseus A"
+msgstr "Персей A"
+
+#. Name for NGC1316
+msgid "Fornax A"
+msgstr "Піч А"
+
+#. Name for NGC1435
+msgid "Merope Nebula"
+msgstr "Туманність Меропи"
+
+#. Name for NGC1435
+msgid "Tempel's Nebula"
+msgstr "Туманність Темпеля"
+
+#. Name for NGC1499
+msgid "California Nebula"
+msgstr "Туманність «Каліфорнія»"
+
+#. Name for NGC1502
+msgid "Kemble's Cascade"
+msgstr "Каскад Кембла"
+
+#. Name for NGC1554
+msgid "Struve's Lost Nebula"
+msgstr "Втрачена туманність Струве"
+
+#. Name for NGC1555
+msgid "Hind's Variable Nebula"
+msgstr "Змінна туманність Гінда"
+
+#. Name for NGC1952
+msgid "Crab Nebula"
+msgstr "Крабова туманність"
+
+#. Name for NGC1952
+msgid "Taurus A"
+msgstr "Телець A"
+
+#. Name for NGC1976
+msgid "Orion Nebula"
+msgstr "Туманність Оріона"
+
+#. Name for NGC2029
+msgid "Seagull Nebula"
+msgstr "Туманність «Чайка»"
+
+#. Name for NGC2070
+msgid "Tarantula Nebula"
+msgstr "Туманність «Тарантул»"
+
+#. Name for NGC2070
+msgid "30 Doradus Cluster"
+msgstr "Скупчення Золотої Риби 30"
+
+#. Name for NGC2237
+msgid "Rosette Nebula"
+msgstr "Туманність «Розетка»"
+
+#. Name for NGC2261
+msgid "Hubble's Variable Nebula"
+msgstr "Змінна туманність Хаббла"
+
+#. Name for NGC2264
+msgid "Christmas Tree Cluster"
+msgstr "Скупчення «Різдвяна ялинка»"
+
+#. Name for NGC2264
+msgid "Cone Nebula"
+msgstr "Туманність «Шишка»"
+
+#. Name for PK331-01.1
+msgid "Ant Nebula"
+msgstr "Туманність «Мураха»"
+
+#. Name for NGC2392
+msgid "Eskimo Nebula"
+msgstr "Туманність «Ескімос»"
+
+#. Name for NGC2419
+msgid "Intergalactic Wanderer"
+msgstr "Міжгалактичний мандрівник"
+
+#. Name for NGC2419
+msgid "Intergalactic Tramp"
+msgstr "Міжгалактичний бродяга"
+
+#. Name for NGC6405
+msgid "Butterfly Cluster"
+msgstr "Скупчення «Метелик»"
+
+#. Name for NGC2563
+msgid "Cancer Cluster"
+msgstr "Скупчення у Раку"
+
+#. Name for NGC2573
+msgid "Polarissima Australis"
+msgstr "Південна Полярна"
+
+#. Name for NGC2632
+msgid "Praesepe"
+msgstr "Ясла"
+
+#. Name for NGC3115
+msgid "Spindle Galaxy"
+msgstr "Галактика «Вісь»"
+
+#. Name for NGC3031
+msgid "Bode's Nebula"
+msgstr "Туманність Боде"
+
+#. Name for NGC3132
+msgid "Eight-Burst Nebula"
+msgstr "Туманність вісьмох спалахів"
+
+#. Name for NGC3172
+msgid "Polarissima Borealis"
+msgstr "Північна Полярна"
+
+#. Name for NGC3587
+msgid "Owl Nebula"
+msgstr "Туманність «Сова»"
+
+#. Name for NGC3623
+msgid "Leo Triplet"
+msgstr "Триплет у Леві"
+
+#. Name for NGC3623
+msgid "Trio in Leo"
+msgstr "Тріо у Леві"
+
+#. Name for NGC3745
+msgid "Copeland's Sextet"
+msgstr "Септет Коупленда"
+
+#. Name for NGC3928
+msgid "Miniature Spiral"
+msgstr "«Мініатюрна спіраль»"
+
+#. Name for NGC4038
+msgid "Antennae"
+msgstr "Галактики «Антенна»"
+
+#. Name for NGC4169
+msgid "The Box"
+msgstr "Скринька"
+
+#. Name for NGC4438
+msgid "The Eyes"
+msgstr "Очі"
+
+#. Name for NGC4486
+msgid "Virgo A"
+msgstr "Діва A"
+
+#. Name for NGC4567
+msgid "Siamese Twins"
+msgstr "«Сіамські близнюки»"
+
+#. Name for NGC4594
+msgid "Sombrero Galaxy"
+msgstr "Галактика «Сомбреро»"
+
+#. Name for NGC4755
+msgid "Jewel Box"
+msgstr "«Скринька з коштовностями»"
+
+#. Name for NGC4826
+msgid "Blackeye Galaxy"
+msgstr "Галактика «Чорне око»"
+
+#. Name for NGC5055
+msgid "Sunflower Galaxy"
+msgstr "Галактика «Соняшник»"
+
+#. Name for NGC5156
+msgid "Centaurus A"
+msgstr "Центавр А"
+
+#. Name for NGC5139
+msgid "Omega Centauri"
+msgstr "Омега Центавра"
+
+#. Name for NGC5194
+msgid "Whirlpool Galaxy"
+msgstr "Галактика «Вихор»"
+
+#. Name for NGC5216
+msgid "Keenan's System"
+msgstr "Система Кінена"
+
+#. Name for PGC48894
+msgid "Seashell Galaxy"
+msgstr "Галактика «Морська черепашка»"
+
+#. Name for NGC6027
+msgid "Seyfert's Sextet"
+msgstr "Секстет Сейферта"
+
+#. Name for NGC6205
+msgid "Great Hercules Cluster"
+msgstr "Велике скупчення у Геркулесі"
+
+#. Name for NGC6302
+msgid "Bug Nebula"
+msgstr "Туманність «Жук»"
+
+#. Name for NGC6309
+msgid "Box Nebula"
+msgstr "Туманність «Ящик»"
+
+#. Name for NGC6818
+msgid "Little Gem Nebula"
+msgstr "Туманність «Маленький коштовний камінь»"
+
+#. Name for NGC6514
+msgid "Trifid Nebula"
+msgstr "Туманність «Трифід»"
+
+#. Name for NGC6523
+msgid "Lagoon Nebula"
+msgstr "Туманність «Лагуна»"
+
+#. Name for NGC6523
+msgid "Hourglass Nebula"
+msgstr "Туманність «Пісковий Годинник»"
+
+#. Name for NGC6543
+msgid "Cat's Eye Nebula"
+msgstr "Туманність «Котяче око»"
+
+#. Name for IC4703
+msgid "Eagle Nebula"
+msgstr "Туманність «Орел»"
+
+#. Name for NGC6618
+msgid "Omega Nebula"
+msgstr "Туманність «Омега»"
+
+#. Name for NGC6618
+msgid "Swan Nebula"
+msgstr "Туманність «Лебідь»"
+
+#. Name for NGC6720
+msgid "Ring Nebula"
+msgstr "Туманність «Перстень»"
+
+#. Name for NGC6822
+msgid "Barnard's Galaxy"
+msgstr "Галактика Барнарда"
+
+#. Name for NGC6853
+msgid "Dumbbell Nebula"
+msgstr "Туманність «Гантель»"
+
+#. Name for NGC6888
+msgid "Crescent Nebula"
+msgstr "Туманність «Півмісяць»"
+
+#. Name for NGC6960
+msgid "Filamentary Nebula"
+msgstr "Ниткоподібна туманність"
+
+#. Name for NGC6960
+msgid "Cirrus Nebula"
+msgstr "Туманність «Чубчик»"
+
+#. Name for NGC6960
+msgid "Veil Nebula"
+msgstr "Туманність «Вуаль»"
+
+#. Name for NGC6960
+msgid "Network Nebula"
+msgstr "Туманність «Сітка»"
+
+#. Name for NGC6960
+msgid "Cygnus Loop"
+msgstr "Петля у Лебеді"
+
+#. Name for NGC7000
+msgid "North America Nebula"
+msgstr "Туманність «Північна Америка»"
+
+#. Name for NGC7009
+msgid "Saturn Nebula"
+msgstr "Туманність «Сатурн»"
+
+#. Name for NGC2685
+msgid "Helix Nebula"
+msgstr "Спіральна туманність"
+
+#. Name for NGC7317
+msgid "Stephan's Quintet"
+msgstr "«Квінтет Стефана»"
+
+#. Name for NGC7499
+msgid "Pegasus II"
+msgstr "Пегас II"
+
+#. Name for NGC7552
+msgid "Grus Quartet"
+msgstr "Квартет у Журавлі"
+
+#. Name for NGC7611
+msgid "Pegasus I Cluster"
+msgstr "Скупчення Пегас І"
+
+#. Name for NGC7635
+msgid "Bubble Nebula"
+msgstr "Туманність «Бульбашка»"
+
+#. Name for NGC7662
+msgid "Blue Snowball"
+msgstr "Блакитний Сніжок"
+
+#. Name for IC405
+msgid "Flaming Star Nebula"
+msgstr "Туманність «Палаюча Зірка»"
+
+#. Name for B33
+msgid "Horsehead Nebula"
+msgstr "Туманність «Кінська Голова»"
+
+#. Name for IC2118
+msgid "Witch Head Nebula"
+msgstr "Туманність «Голова Відьми»"
+
+#. Name for IC2220
+msgid "Toby Jug Nebula"
+msgstr "Туманність «Пивний Кухоль»"
+
+#. Name for IC2573
+msgid "Coddington's Nebula"
+msgstr "Туманність Коддінґтона"
+
+#. Name for IC2602
+msgid "Southern Pleiades"
+msgstr "Південні Плеяди"
+
+#. Name for IC2948
+msgid "Running Chicken Nebula"
+msgstr "Туманність «Курча, що біжить»"
+
+#. Name for IC4606
+msgid "Antares Nebula"
+msgstr "Туманність Антареса"
+
+#. Name for IC4756
+msgid "Graff Cluster"
+msgstr "Скупчення Ґраффа"
+
+#. Name for IC4756
+msgid "Graff 1"
+msgstr "Графф 1"
+
+#. Name for IC5067
+msgid "Pelican Nebula"
+msgstr "Туманність «Пелікан»"
+
+#. Name for IC5146
+msgid "Cocoon Nebula"
+msgstr "Туманність «Кокон»"
+
+#. Name for M45
+msgid "Pleiades"
+msgstr "Плеяди"
+
+#. Name for B22
+msgid "Taurus Dark Cloud"
+msgstr "Темна хмара Тільця"
+
+#. Name for LDN1773
+msgid "Pipe Nebula"
+msgstr "Туманність «Люлька»"
+
+#. Name for B72
+msgid "Snake Nebula"
+msgstr "Туманність «Змія»"
+
+#. Name for B142
+msgid "The Double Dark Nebula"
+msgstr "Подвійна темна туманність"
+
+#. Name for B144
+msgid "Fish on the Platter"
+msgstr "Риба на таці"
+
+#. Name for CR399
+msgid "Coathanger"
+msgstr "Вішалка"
+
+#. Name for CR399
+msgid "Brocchi's Cluster"
+msgstr "Скупчення Броккі"
+
+#. Name for SH2-155
+msgid "Cave Nebula"
+msgstr "Туманність «Печера»"
+
+#. Name for PNG205.1+14.2
+msgid "Medusa Nebula"
+msgstr "Туманність «Медуза»"
+
+#. Name for SH2-276
+msgid "Barnard's Loop"
+msgstr "Петля Барнарда"
+
+#. Name for PGC143
+msgid "Wolf-Lundmark-Melotte galaxy"
+msgstr "Галактика Вульфа-Лундмарка-Мелота"
+
+#. Name for ESO56-115
+msgid "Large Magellanic Cloud"
+msgstr "Велика Магелланова Хмара"
+
+#. Name for NGC3697
+msgid "Integral Sign Galaxy"
+msgstr "Галактика «Інтеграл»"
+
+#. Name for UGC5373
+msgid "Sextans B"
+msgstr "Секстант B"
+
+#. Name for PGC29653
+msgid "Sextans A"
+msgstr "Секстант A"
+
+#. Name for UGC6046
+msgid "Ant Galaxy"
+msgstr "Галактика «Мураха»"
+
+#. Name for PGC33423
+msgid "Mayall's Object"
+msgstr "Об’єкт Маяла"
+
+#. Name for PGC36723
+msgid "Wild's Triplet"
+msgstr "Трійка Вайлда"
+
+#. Name for PGC45901
+msgid "Hardcastle Nebula"
+msgstr "Туманність Гардкасла"
+
+#. Name for ESO270-17
+msgid "Fourcade-Figueroa Galaxy"
+msgstr "Галактика Фуркада-Фіґероа"
+
+#. Name for ESO97-13
+msgid "Circinus Galaxy"
+msgstr "Галактика у Циркулі"
+
+#. Name for ESO105-26
+msgid "McLeish's Object"
+msgstr "Об’єкт Макліша"
+
+#. Name for PGC71938
+msgid "Barbon's Galaxy"
+msgstr "Галактика Барбона"
+
+#. Name for NGC5364
+msgid "Leo III"
+msgstr "Лев III"
+
+#. Name for UGC5470
+msgid "Leo I"
+msgstr "Лев I"
+
+#. Name for PK080-06.1
+msgid "Egg Nebula"
+msgstr "Туманність «Яйце»"
+
+#. Name for UGC12613
+msgid "Pegasus Dwarf"
+msgstr "Карлик Пегаса"
+
+#. Name for PNG064.7+05.0
+msgid "Campbell's Hydrogen Star"
+msgstr "Воднева Зірка Кемпбела"
+
+#. Name for ACO151
+msgid "Haufen A"
+msgstr "Гауфен A"
+
+#. Name for ACO426
+msgid "Perseus Cluster"
+msgstr "Скупчення у Персеї"
+
+#. Name for ACO568
+msgid "Gemini Cluster"
+msgstr "Скупчення Близнюків"
+
+#. Name for ACO732
+msgid "Hydra II Cluster"
+msgstr "Скупчення Гідра II"
+
+#. Name for ACO1020
+msgid "Leo Cluster"
+msgstr "Скупчення у Леві"
+
+#. Name for ACO1060
+msgid "Hydra I Cluster"
+msgstr "Скупчення Гідра I"
+
+#. Name for ACO1132
+msgid "Ursa Major II Cluster"
+msgstr "Скупчення Велика Ведмедиця II"
+
+#. Name for ACO1185
+msgid "Leo A Cluster"
+msgstr "Скупчення Лев A"
+
+#. Name for ACO1377
+msgid "Ursa Major I Cluster"
+msgstr "Скупчення Велика Ведмедиця I"
+
+#. Name for ACO1656
+msgid "Coma Cluster"
+msgstr "Скупчення у Волоссі Вероніки"
+
+#. Name for ACO2065
+msgid "Corona Cluster"
+msgstr "Скупчення у Короні"
+
+#. Name for ACO2151
+msgid "Hercules Galaxy Cluster"
+msgstr "Скупчення галактик у Геркулесі"
+
+#. Name for ACO3526
+msgid "Centaurus Cluster"
+msgstr "Скупчення у Центаврі"
+
+#. Name for ACOS373
+msgid "Fornax Galaxy Cluster"
+msgstr "Скупчення галактик у Печі"
+
+#. Name for ESO202-23
+msgid "Carafe Galaxy"
+msgstr "Галактика «Жираф»"
+
+#. Name for ESO206-20A
+msgid "Carina Dwarf"
+msgstr "Карлик у Килі"
+
+#. Name for ESO245-7
+msgid "Phoenix Dwarf"
+msgstr "Галактика «Фенікс»"
+
+#. Name for ESO351-30
+msgid "Sculptor Dwarf"
+msgstr "Карлик у Скульпторі"
+
+#. Name for ST23
+msgid "Pazmino's Cluster"
+msgstr "Скупчення Пасміно"
+
+#. Modern (IAU) constellation, native: Ursa Minor
+msgid "Ursa Minor"
+msgstr "Мала Ведмедиця"
+
+#. Modern (IAU) constellation, native: Ursa Major
+msgid "Ursa Major"
+msgstr "Велика Ведмедиця"
+
+#. Modern (IAU) constellation, native: Draco
+msgid "Draco"
+msgstr "Дракон"
+
+#. Modern (IAU) constellation, native: Cepheus
+msgid "Cepheus"
+msgstr "Цефей"
+
+#. Modern (IAU) constellation, native: Bootes
+msgid "Bootes"
+msgstr "Волопас"
+
+#. Modern (IAU) constellation, native: Corona Borealis
+msgid "Corona Borealis"
+msgstr "Північна Корона"
+
+#. Modern (IAU) constellation, native: Hercules
+msgid "Hercules"
+msgstr "Геркулес"
+
+#. Modern (IAU) constellation, native: Lyra
+msgid "Lyra"
+msgstr "Ліра"
+
+#. Modern (IAU) constellation, native: Cygnus
+msgid "Cygnus"
+msgstr "Лебідь"
+
+#. Modern (IAU) constellation, native: Cassiopeia
+msgid "Cassiopeia"
+msgstr "Кассіопея"
+
+#. Modern (IAU) constellation, native: Perseus
+msgid "Perseus"
+msgstr "Персей"
+
+#. Modern (IAU) constellation, native: Auriga
+msgid "Auriga"
+msgstr "Візничий"
+
+#. Modern (IAU) constellation, native: Ophiuchus
+msgid "Ophiuchus"
+msgstr "Змієносець"
+
+#. Modern (IAU) constellation, native: Serpens
+msgid "Serpens"
+msgstr "Змія"
+
+#. Modern (IAU) constellation, native: Sagitta
+msgid "Sagitta"
+msgstr "Стріла"
+
+#. Modern (IAU) constellation, native: Aquila
+msgid "Aquila"
+msgstr "Орел"
+
+#. Modern (IAU) constellation, native: Delphinus
+msgid "Delphinus"
+msgstr "Дельфін"
+
+#. Modern (IAU) constellation, native: Equuleus
+msgid "Equuleus"
+msgstr "Малий Кінь"
+
+#. Modern (IAU) constellation, native: Pegasus
+msgid "Pegasus"
+msgstr "Пегас"
+
+#. Modern (IAU) constellation, native: Andromeda
+msgid "Andromeda"
+msgstr "Андромеда"
+
+#. Modern (IAU) constellation, native: Triangulum
+msgid "Triangulum"
+msgstr "Трикутник"
+
+#. Modern (IAU) constellation, native: Aries
+msgid "Aries"
+msgstr "Овен"
+
+#. Modern (IAU) constellation, native: Taurus
+msgid "Taurus"
+msgstr "Телець"
+
+#. Modern (IAU) constellation, native: Gemini
+msgid "Gemini"
+msgstr "Близнюки"
+
+#. Modern (IAU) constellation, native: Cancer
+msgid "Cancer"
+msgstr "Рак"
+
+#. Modern (IAU) constellation, native: Leo
+msgid "Leo"
+msgstr "Лев"
+
+#. Modern (IAU) constellation, native: Virgo
+msgid "Virgo"
+msgstr "Діва"
+
+#. Modern (IAU) constellation, native: Libra
+msgid "Libra"
+msgstr "Терези"
+
+#. Modern (IAU) constellation, native: Scorpius
+msgid "Scorpius"
+msgstr "Скорпіон"
+
+#. Modern (IAU) constellation, native: Sagittarius
+msgid "Sagittarius"
+msgstr "Стрілець"
+
+#. Modern (IAU) constellation, native: Capricornus
+msgid "Capricornus"
+msgstr "Козоріг"
+
+#. Modern (IAU) constellation, native: Aquarius
+msgid "Aquarius"
+msgstr "Водолій"
+
+#. Modern (IAU) constellation, native: Pisces
+msgid "Pisces"
+msgstr "Риби"
+
+#. Modern (IAU) constellation, native: Cetus
+msgid "Cetus"
+msgstr "Левіафан"
+
+#. Modern (IAU) constellation, native: Orion
+msgid "Orion"
+msgstr "Оріон"
+
+#. Modern (IAU) constellation, native: Eridanus
+msgid "Eridanus"
+msgstr "Ерідан"
+
+#. Modern (IAU) constellation, native: Lepus
+msgid "Lepus"
+msgstr "Заєць"
+
+#. Modern (IAU) constellation, native: Canis Major
+msgid "Canis Major"
+msgstr "Великий Пес"
+
+#. Modern (IAU) constellation, native: Canis Minor
+msgid "Canis Minor"
+msgstr "Малий Пес"
+
+#. Modern (IAU) constellation, native: Hydra
+msgid "Hydra"
+msgstr "Гідра"
+
+#. Modern (IAU) constellation, native: Crater
+msgid "Crater"
+msgstr "Чаша"
+
+#. Modern (IAU) constellation, native: Corvus
+msgid "Corvus"
+msgstr "Ворон"
+
+#. Modern (IAU) constellation, native: Centaurus
+msgid "Centaurus"
+msgstr "Кентавр"
+
+#. Modern (IAU) constellation, native: Lupus
+msgid "Lupus"
+msgstr "Вовк"
+
+#. Modern (IAU) constellation, native: Ara
+msgid "Ara"
+msgstr "Ara"
+
+#. Modern (IAU) constellation, native: Corona Australis
+msgid "Corona Australis"
+msgstr "Південна Корона"
+
+#. Modern (IAU) constellation, native: Piscis Austrinus
+msgid "Piscis Austrinus"
+msgstr "Південна Риба"
+
+#. Name for HIP 37279
+msgid "Procyon"
+msgstr "Проціон"
+
+#. Name for HIP 32349
+msgid "Sirius"
+msgstr "Сіріус"
+
+#. Name for HIP 69673
+msgid "Arcturus"
+msgstr "Арктур"
+
+#. Name for HIP 91262
+msgid "Vega"
+msgstr "Вега"
+
+#. Name for HIP 24608
+msgid "Capella"
+msgstr "Капелла"
+
+#. Name for HIP 21421
+msgid "Aldebaran"
+msgstr "Альдебарана"
+
+#. Name for HIP 49669
+msgid "Regulus"
+msgstr "Регул"
+
+#. Name for HIP 57632
+msgid "Denebola"
+msgstr "Денебола"
+
+#. Name for HIP 65474
+msgid "Spica"
+msgstr "Спіка"
+
+#. Name for HIP 113368
+msgid "Fomalhaut"
+msgstr "Фомальгаут"
+
+#. Name for HIP 27989
+msgid "Betelgeuse"
+msgstr "Бетельгейзе"
+
+#. Name for HIP 24436
+msgid "Rigel"
+msgstr "Рігель"
+
+#. Name for HIP 30438
+msgid "Canopus"
+msgstr "Канопус"
+
+#. Name for HIP 25336
+msgid "Bellatrix"
+msgstr "Беллатрікс"
+
+#. Name for HIP 26727
+msgid "Alnitak"
+msgstr "Альнітак"
+
+#. Name for HIP 26311
+msgid "Alnilam"
+msgstr "Альнілам"
+
+#. Name for HIP 25930
+msgid "Mintaka"
+msgstr "Мінтака"
+
+#. Name for HIP 7588
+msgid "Achernar"
+msgstr "Ахернар"
+
+#. Name for HIP 60718
+msgid "Acrux"
+msgstr "Акрукс"
+
+#. Name for HIP 68702
+msgid "Hadar"
+msgstr "Хадар"
+
+#. Name for HIP 80763
+msgid "Antares"
+msgstr "Антарес"
+
+#. Modern (IAU) constellation, native: Sculptor
+msgid "Sculptor"
+msgstr "Скульптор"
+
+#. Modern (IAU) constellation, native: Pyxis
+msgid "Pyxis"
+msgstr "Компас"
+
+#. Modern (IAU) constellation, native: Caelum
+msgid "Caelum"
+msgstr "Різець"
+
+#. Modern (IAU) constellation, native: Chamaeleon
+msgid "Chamaeleon"
+msgstr "Хамелеон"
+
+#. Modern (IAU) constellation, native: Carina
+msgid "Carina"
+msgstr "Кіль"
+
+#. Modern (IAU) constellation, native: Coma Berenices
+msgid "Coma Berenices"
+msgstr "Волосся Вероніки"
+
+#. Modern (IAU) constellation, native: Canes Venatici
+msgid "Canes Venatici"
+msgstr "Гончі Пси"
+
+#. Modern (IAU) constellation, native: Columba
+msgid "Columba"
+msgstr "Голуб"
+
+#. Modern (IAU) constellation, native: Circinus
+msgid "Circinus"
+msgstr "Циркуль"
+
+#. Modern (IAU) constellation, native: Crux
+msgid "Crux"
+msgstr "Хрест (Південний)"
+
+#. Modern (IAU) constellation, native: Dorado
+msgid "Dorado"
+msgstr "Золота Риба"
+
+#. Modern (IAU) constellation, native: Norma
+msgid "Norma"
+msgstr "Косинець"
+
+#. Modern (IAU) constellation, native: Fornax
+msgid "Fornax"
+msgstr "Піч"
+
+#. Modern (IAU) constellation, native: Camelopardalis
+msgid "Camelopardalis"
+msgstr "Жирафа"
+
+#. Modern (IAU) constellation, native: Grus
+msgid "Grus"
+msgstr "Журавель"
+
+#. Modern (IAU) constellation, native: Horologium
+msgid "Horologium"
+msgstr "Годинник"
+
+#. Modern (IAU) constellation, native: Hydrus
+msgid "Hydrus"
+msgstr "Південний Змій"
+
+#. Modern (IAU) constellation, native: Indus
+msgid "Indus"
+msgstr "Індієць"
+
+#. Modern (IAU) constellation, native: Lacerta
+msgid "Lacerta"
+msgstr "Ящірка"
+
+#. Modern (IAU) constellation, native: Monoceros
+msgid "Monoceros"
+msgstr "Одноріг"
+
+#. Modern (IAU) constellation, native: Lynx
+msgid "Lynx"
+msgstr "Рись"
+
+#. Modern (IAU) constellation, native: Antlia
+msgid "Antlia"
+msgstr "Насос"
+
+#. Modern (IAU) constellation, native: Microscopium
+msgid "Microscopium"
+msgstr "Мікроскоп"
+
+#. Modern (IAU) constellation, native: Musca
+msgid "Musca"
+msgstr "Муха"
+
+#. Modern (IAU) constellation, native: Octans
+msgid "Octans"
+msgstr "Октант"
+
+#. Modern (IAU) constellation, native: Apus
+msgid "Apus"
+msgstr "Райський Птах"
+
+#. Modern (IAU) constellation, native: Pavo
+msgid "Pavo"
+msgstr "Павич"
+
+#. Modern (IAU) constellation, native: Pictor
+msgid "Pictor"
+msgstr "Живописець"
+
+#. Modern (IAU) constellation, native: Leo Minor
+msgid "Leo Minor"
+msgstr "Малий Лев"
+
+#. Modern (IAU) constellation, native: Vulpecula
+msgid "Vulpecula"
+msgstr "Лисичка"
+
+#. Modern (IAU) constellation, native: Phoenix
+msgid "Phoenix"
+msgstr "Фенікс"
+
+#. Modern (IAU) constellation, native: Volans
+msgid "Volans"
+msgstr "Летюча Риба"
+
+#. Modern (IAU) constellation, native: Puppis
+msgid "Puppis"
+msgstr "Корма"
+
+#. Modern (IAU) constellation, native: Reticulum
+msgid "Reticulum"
+msgstr "Сітка"
+
+#. Modern (IAU) constellation, native: Scutum
+msgid "Scutum"
+msgstr "Щит"
+
+#. Modern (IAU) constellation, native: Sextans
+msgid "Sextans"
+msgstr "Секстант"
+
+#. Modern (IAU) constellation, native: Mensa
+msgid "Mensa"
+msgstr "Столова Гора"
+
+#. Modern (IAU) constellation, native: Telescopium
+msgid "Telescopium"
+msgstr "Телескоп"
+
+#. Modern (IAU) constellation, native: Tucana
+msgid "Tucana"
+msgstr "Тукан"
+
+#. Modern (IAU) constellation, native: Triangulum Australe
+msgid "Triangulum Australe"
+msgstr "Південний Трикутник"
+
+#. Modern (IAU) constellation, native: Vela
+msgid "Vela"
+msgstr "Вітрила"
+
+#. Name for HIP 677
+msgid "Alpheratz"
+msgstr "Альферац"
+
+#. Name for HIP 5447
+msgid "Mirach"
+msgstr "Мірах"
+
+#. Name for HIP 9640
+msgid "Almach"
+msgstr "Альмах"
+
+#. Name for HIP 6411
+msgid "Adhil"
+msgstr "Адхіл"
+
+#. Name for HIP 7607
+msgid "Nembus"
+msgstr "Нембус"
+
+#. Name for HIP 109074
+msgid "Sadalmelik"
+msgstr "Садалмелік"
+
+#. Name for HIP 106278
+msgid "Sadalsuud"
+msgstr "Садалсууд"
+
+#. Name for HIP 110395
+msgid "Sadachbia"
+msgstr "Садахбія"
+
+#. Name for HIP 113136
+msgid "Skat"
+msgstr "Скат"
+
+#. Name for HIP 113881
+msgid "Scheat"
+msgstr "Шеат"
+
+#. Name for HIP 102618
+msgid "Albali"
+msgstr "Альбалі"
+
+#. Name for HIP 110003
+msgid "Ancha"
+msgstr "Анка"
+
+#. Name for HIP 111710
+msgid "Situla"
+msgstr "Сітула"
+
+#. Name for HIP 106786
+msgid "Bunda"
+msgstr "Бунда"
+
+#. Name for HIP 97649
+msgid "Altair"
+msgstr "Альтаїр"
+
+#. Name for HIP 98036
+msgid "Alshain"
+msgstr "Альшаїн"
+
+#. Name for HIP 97278
+msgid "Tarazed"
+msgstr "Таразед"
+
+#. Name for HIP 93747
+msgid "Okab"
+msgstr "Окаб"
+
+#. Name for HIP 9884
+msgid "Hamal"
+msgstr "Гамаль"
+
+#. Name for HIP 8903
+msgid "Sheratan"
+msgstr "Шератан"
+
+#. Name for HIP 8832
+msgid "Mesarthim"
+msgstr "Месартхім"
+
+#. Name for HIP 14838
+msgid "Botein"
+msgstr "Ботейн"
+
+#. Name for HIP 13061
+msgid "Lilii Borea"
+msgstr "Північна Лілія"
+
+#. Name for HIP 13209
+msgid "Bharani"
+msgstr "Бхарані"
+
+#. Name for HIP 28360
+msgid "Menkalinan"
+msgstr "Менкалінан"
+
+#. Name for HIP 23015
+msgid "Hassaleh"
+msgstr "Хассалех"
+
+#. Name for HIP 23453
+msgid "Saclateni"
+msgstr "Саклатені"
+
+#. Name for HIP 23767
+msgid "Haedus"
+msgstr "Гедус"
+
+#. Name for HIP 23416
+msgid "Almaaz"
+msgstr "Альмаац"
+
+#. Name for HIP 28380
+msgid "Mahasim"
+msgstr "Махазім"
+
+#. Name for HIP 73555
+msgid "Nekkar"
+msgstr "Неккар"
+
+#. Name for HIP 71075
+msgid "Seginus"
+msgstr "Сегін"
+
+#. Name for HIP 72105
+msgid "Izar"
+msgstr "Ізар"
+
+#. Name for HIP 67927
+msgid "Muphrid"
+msgstr "Мюфрід"
+
+#. Name for HIP 75411
+msgid "Alkalurops"
+msgstr "Алькалуропс"
+
+#. Name for HIP 72487
+msgid "Merga"
+msgstr "Мерга"
+
+#. Name for HIP 69732
+msgid "Xuange"
+msgstr "Сюанге"
+
+#. Name for HIP 44066
+msgid "Acubens"
+msgstr "Акубенс"
+
+#. Name for HIP 42911
+msgid "Asellus Australis"
+msgstr "Аселлус Аустраліс"
+
+#. Name for HIP 40167
+msgid "Tegmine"
+msgstr "Тегмен"
+
+#. Name for HIP 40526
+msgid "Tarf"
+msgstr "Тарф"
+
+#. Name for HIP 42556
+msgid "Meleph"
+msgstr "Мелеф"
+
+#. Name for HIP 40881
+msgid "Piautos"
+msgstr "Піаутос"
+
+#. Name for HIP 44946
+msgid "Nahn"
+msgstr "Нан"
+
+#. Name for HIP 63125
+msgid "Cor Caroli"
+msgstr "Кор Каролі"
+
+#. Name for HIP 61317
+msgid "Chara"
+msgstr "Хара"
+
+#. Name for HIP 62223
+msgid "La Superba"
+msgstr "Ла Суперба"
+
+#. Name for HIP 30324
+msgid "Mirzam"
+msgstr "Мірцам"
+
+#. Name for HIP 34045
+msgid "Muliphein"
+msgstr "Муліфейн"
+
+#. Name for HIP 34444
+msgid "Wezen"
+msgstr "Везен"
+
+#. Name for HIP 33579
+msgid "Adhara"
+msgstr "Адхара"
+
+#. Name for HIP 30122
+msgid "Furud"
+msgstr "Фуруд"
+
+#. Name for HIP 35904
+msgid "Aludra"
+msgstr "Алудра"
+
+#. Name for HIP 33856
+msgid "Nganurganity"
+msgstr "Нганурганіті"
+
+#. Name for HIP 36188
+msgid "Gomeisa"
+msgstr "Гомейса"
+
+#. Name for HIP 100064
+msgid "Algedi"
+msgstr "Альгеді"
+
+#. Name for HIP 100345
+msgid "Dabih"
+msgstr "Дабіх"
+
+#. Name for HIP 106985
+msgid "Nashira"
+msgstr "Нашира"
+
+#. Name for HIP 107556
+msgid "Deneb Algedi"
+msgstr "Денеб Альгеді"
+
+#. Name for HIP 100310
+msgid "Alshat"
+msgstr "Альшат"
+
+#. Name for HIP 45238
+msgid "Miaplacidus"
+msgstr "Міаплацидус"
+
+#. Name for HIP 41037
+msgid "Avior"
+msgstr "Авіор"
+
+#. Name for HIP 45556
+msgid "Aspidiske"
+msgstr "Аспідіска"
+
+#. Name for HIP 39757
+msgid "Tureis"
+msgstr "Турейс"
+
+#. Name for HIP 3179
+msgid "Schedar"
+msgstr "Шедар"
+
+#. Name for HIP 746
+msgid "Caph"
+msgstr "Каф"
+
+#. Name for HIP 6686
+msgid "Ruchbah"
+msgstr "Рухба"
+
+#. Name for HIP 3821
+msgid "Achird"
+msgstr "Ахірд"
+
+#. Name for HIP 8886
+msgid "Segin"
+msgstr "Сегін"
+
+#. Name for HIP 2920
+msgid "Fulu"
+msgstr "Фулу"
+
+#. Name for HIP 4422
+msgid "Castula"
+msgstr "Кастула"
+
+#. Name for HIP 71683
+msgid "Rigil Kentaurus"
+msgstr "Рігіл Кентаурус"
+
+#. Name for HIP 71681
+msgid "Toliman"
+msgstr "Толіман"
+
+#. Name for HIP 68933
+msgid "Menkent"
+msgstr "Менкент"
+
+#. Name for HIP 109268
+msgid "Alnair"
+msgstr "Альнаїр"
+
+#. Name for HIP 105199
+msgid "Alderamin"
+msgstr "Альдерамін"
+
+#. Name for HIP 106032
+msgid "Alfirk"
+msgstr "Альфірк"
+
+#. Name for HIP 116727
+msgid "Errai"
+msgstr "Ерраї"
+
+#. Name for HIP 108917
+msgid "Kurhah"
+msgstr "Курхах"
+
+#. Name for HIP 14135
+msgid "Menkar"
+msgstr "Менкар"
+
+#. Name for HIP 3419
+msgid "Diphda"
+msgstr "Діфда"
+
+#. Name for HIP 8645
+msgid "Baten Kaitos"
+msgstr "Батен Кайтос"
+
+#. Name for HIP 10826
+msgid "Mira"
+msgstr "Міра"
+
+#. Name for HIP 12706
+msgid "Kaffaljidhma"
+msgstr "Каффальджідхма"
+
+#. Name for HIP 26634
+msgid "Phact"
+msgstr "Факт"
+
+#. Name for HIP 27628
+msgid "Wazn"
+msgstr "Вазн"
+
+#. Name for HIP 29034
+msgid "Elkurud"
+msgstr "Ель-Куруд"
+
+#. Name for HIP 64241
+msgid "Diadem"
+msgstr "Діадем"
+
+#. Name for HIP 94114
+msgid "Meridiana"
+msgstr "Меридіана"
+
+#. Name for HIP 76267
+msgid "Alphecca"
+msgstr "Альфекка"
+
+#. Name for HIP 75695
+msgid "Nusakan"
+msgstr "Нусакан"
+
+#. Name for HIP 79219
+msgid "Kamuy"
+msgstr "Камуй"
+
+#. Name for HIP 59199
+msgid "Alchiba"
+msgstr "Альчіба"
+
+#. Name for HIP 59803
+msgid "Gienah"
+msgstr "Гієна"
+
+#. Name for HIP 60965
+msgid "Algorab"
+msgstr "Альгораб"
+
+#. Name for HIP 61359
+msgid "Kraz"
+msgstr "Крац"
+
+#. Name for HIP 53740
+msgid "Alkes"
+msgstr "Алькес"
+
+#. Name for HIP 62434
+msgid "Mimosa"
+msgstr "Мімоза"
+
+#. Name for HIP 61084
+msgid "Gacrux"
+msgstr "Гакрукс"
+
+#. Name for HIP 60260
+msgid "Ginan"
+msgstr "Ґінан"
+
+#. Name for HIP 59747
+msgid "Imai"
+msgstr "Імай"
+
+#. Name for HIP 102098
+msgid "Deneb"
+msgstr "Денеб"
+
+#. Name for HIP 95947
+msgid "Albireo"
+msgstr "Альбірео"
+
+#. Name for HIP 100453
+msgid "Sadr"
+msgstr "Садр"
+
+#. Name for HIP 102488
+msgid "Aljanah"
+msgstr "Альджанах"
+
+#. Name for HIP 107136
+msgid "Azelfafage"
+msgstr "Азельфафаге"
+
+#. Name for HIP 97165
+msgid "Fawaris"
+msgstr "Фаваріс"
+
+#. Name for HIP 101958
+msgid "Sualocin"
+msgstr "Суалокін"
+
+#. Name for HIP 101769
+msgid "Rotanev"
+msgstr "Ротанев"
+
+#. Name for HIP 101421
+msgid "Aldulfin"
+msgstr "Аль-Дульфін"
+
+#. Name for HIP 68756
+msgid "Thuban"
+msgstr "Тубан"
+
+#. Name for HIP 85670
+msgid "Rastaban"
+msgstr "Растабан"
+
+#. Name for HIP 87833
+msgid "Eltanin"
+msgstr "Ельтанін"
+
+#. Name for HIP 94376
+msgid "Altais"
+msgstr "Альтаїс"
+
+#. Name for HIP 75458
+msgid "Edasich"
+msgstr "Едасіх"
+
+#. Name for HIP 56211
+msgid "Giausar"
+msgstr "Джансар"
+
+#. Name for HIP 83608
+msgid "Alrakis"
+msgstr "Альракіс"
+
+#. Name for HIP 87585
+msgid "Grumium"
+msgstr "Груміум"
+
+#. Name for HIP 96100
+msgid "Alsafi"
+msgstr "Альсафі"
+
+#. Name for HIP 86614
+msgid "Dziban"
+msgstr "Дзібан"
+
+#. Name for HIP 86782
+msgid "Alruba"
+msgstr "Аль-Руба"
+
+#. Name for HIP 83895
+msgid "Aldhibah"
+msgstr "Альдхібах"
+
+#. Name for HIP 80331
+msgid "Athebyne"
+msgstr "Атебіна"
+
+#. Name for HIP 63076
+msgid "Taiyi"
+msgstr "Тайї"
+
+#. Name for HIP 62423
+msgid "Tianyi"
+msgstr "Тіан'ї"
+
+#. Name for HIP 104987
+msgid "Kitalpha"
+msgstr "Кітальфа"
+
+#. Name for HIP 23875
+msgid "Cursa"
+msgstr "Курса"
+
+#. Name for HIP 18543
+msgid "Zaurak"
+msgstr "Заурак"
+
+#. Name for HIP 15197
+msgid "Zibal"
+msgstr "Зібал"
+
+#. Name for HIP 13701
+msgid "Azha"
+msgstr "Азха"
+
+#. Name for HIP 13847
+msgid "Acamar"
+msgstr "Акамар"
+
+#. Name for HIP 14879
+msgid "Dalim"
+msgstr "Далім"
+
+#. Name for HIP 19587
+msgid "Beid"
+msgstr "Бейд"
+
+#. Name for HIP 19849
+msgid "Keid"
+msgstr "Кеїд"
+
+#. Name for HIP 21393
+msgid "Theemin"
+msgstr "Тімін"
+
+#. Name for HIP 20535
+msgid "Beemim"
+msgstr "Бімім"
+
+#. Name for HIP 13288
+msgid "Angetenar"
+msgstr "Ангетенар"
+
+#. Name for HIP 17378
+msgid "Rana"
+msgstr "Рана"
+
+#. Name for HIP 21594
+msgid "Sceptrum"
+msgstr "Сцептрум"
+
+#. Name for HIP 36850
+msgid "Castor"
+msgstr "Кастор"
+
+#. Name for HIP 37826
+msgid "Pollux"
+msgstr "Поллукс"
+
+#. Name for HIP 31681
+msgid "Alhena"
+msgstr "Альгена"
+
+#. Name for HIP 35550
+msgid "Wasat"
+msgstr "Васат"
+
+#. Name for HIP 32246
+msgid "Mebsuta"
+msgstr "Мебсута"
+
+#. Name for HIP 34088
+msgid "Mekbuda"
+msgstr "Мекбуда"
+
+#. Name for HIP 29655
+msgid "Propus"
+msgstr "Пропус"
+
+#. Name for HIP 30343
+msgid "Tejat"
+msgstr "Тейят"
+
+#. Name for HIP 32362
+msgid "Alzirr"
+msgstr "Альзірр"
+
+#. Name for HIP 37265
+msgid "Jishui"
+msgstr "Джишуї"
+
+#. Name for HIP 108085
+msgid "Aldhanab"
+msgstr "Аль-Дханаб"
+
+#. Name for HIP 112122
+msgid "Tiaki"
+msgstr "Тіакі"
+
+#. Name for HIP 84345
+msgid "Rasalgethi"
+msgstr "Расальгеті"
+
+#. Name for HIP 80816
+msgid "Kornephoros"
+msgstr "Корнефорос"
+
+#. Name for HIP 79043
+msgid "Marsic"
+msgstr "Марсік"
+
+#. Name for HIP 80883
+msgid "Marfik"
+msgstr "Марфік"
+
+#. Name for HIP 85693
+msgid "Maasym"
+msgstr "Масім"
+
+#. Name for HIP 80463
+msgid "Cujam"
+msgstr "Куям"
+
+#. Name for HIP 84379
+msgid "Sarin"
+msgstr "Сарін"
+
+#. Name for HIP 46390
+msgid "Alphard"
+msgstr "Альфард"
+
+#. Name for HIP 43109
+msgid "Ashlesha"
+msgstr "Ашлеша"
+
+#. Name for HIP 47431
+msgid "Ukdah"
+msgstr "Укдах"
+
+#. Name for HIP 42402
+msgid "Minchir"
+msgstr "Мінчир"
+
+#. Name for HIP 48356
+msgid "Zhang"
+msgstr "Чжанг"
+
+#. Name for HIP 48615
+msgid "Felis"
+msgstr "Феліс"
+
+#. Name for HIP 50583
+msgid "Algieba"
+msgstr "Альгієба"
+
+#. Name for HIP 54872
+msgid "Zosma"
+msgstr "Зосма"
+
+#. Name for HIP 50335
+msgid "Adhafera"
+msgstr "Адгафера"
+
+#. Name for HIP 54879
+msgid "Chertan"
+msgstr "Шертан"
+
+#. Name for HIP 46750
+msgid "Alterf"
+msgstr "Альтерф"
+
+#. Name for HIP 48455
+msgid "Rasalas"
+msgstr "Расалас"
+
+#. Name for HIP 47508
+msgid "Subra"
+msgstr "Субра"
+
+#. Name for HIP 53229
+msgid "Praecipua"
+msgstr "Преціпуа"
+
+#. Name for HIP 25985
+msgid "Arneb"
+msgstr "Арнеб"
+
+#. Name for HIP 25606
+msgid "Nihal"
+msgstr "Нігаль"
+
+#. Name for HIP 72622
+msgid "Zubenelgenubi"
+msgstr "Зубен Ельгенубі"
+
+#. Name for HIP 74785
+msgid "Zubeneschamali"
+msgstr "Зубен Ельшемалі"
+
+#. Name for HIP 73714
+msgid "Brachium"
+msgstr "Брахіум"
+
+#. Name for HIP 76333
+msgid "Zubenelhakrabi"
+msgstr "Зубен-ель-хакрабі"
+
+#. Name for HIP 41075
+msgid "Alsciaukat"
+msgstr "Альсціаукат"
+
+#. Name for HIP 92420
+msgid "Sheliak"
+msgstr "Шеліак"
+
+#. Name for HIP 93194
+msgid "Sulafat"
+msgstr "Суляфат"
+
+#. Name for HIP 94481
+msgid "Aladfar"
+msgstr "Аладфар"
+
+#. Name for HIP 104382
+msgid "Polaris Australis"
+msgstr "Поларіс Аустраліс"
+
+#. Name for HIP 86032
+msgid "Rasalhague"
+msgstr "Расалгаага"
+
+#. Name for HIP 86742
+msgid "Cebalrai"
+msgstr "Кебальраї"
+
+#. Name for HIP 79593
+msgid "Yed Prior"
+msgstr "Єд Пріор"
+
+#. Name for HIP 79882
+msgid "Yed Posterior"
+msgstr "Єд Постеріор"
+
+#. Name for HIP 84012
+msgid "Sabik"
+msgstr "Сабік"
+
+#. Name for HIP 87937
+msgid "Barnard's Star"
+msgstr "Зірка Барнарда"
+
+#. Name for HIP 84405
+msgid "Guniibuu"
+msgstr "Гуніїбуу"
+
+#. Name for HIP 27366
+msgid "Saiph"
+msgstr "Саїф"
+
+#. Name for HIP 26207
+msgid "Meissa"
+msgstr "Меїса"
+
+#. Name for HIP 26241
+msgid "Hatysa"
+msgstr "Хатиса"
+
+#. Name for HIP 22449
+msgid "Tabit"
+msgstr "Табіт"
+
+#. Name for HIP 100751
+msgid "Peacock"
+msgstr "Пікок"
+
+#. Name for HIP 113963
+msgid "Markab"
+msgstr "Маркаб"
+
+#. Name for HIP 1067
+msgid "Algenib"
+msgstr "Альгеніб"
+
+#. Name for HIP 107315
+msgid "Enif"
+msgstr "Еніф"
+
+#. Name for HIP 112029
+msgid "Homam"
+msgstr "Хомам"
+
+#. Name for HIP 112158
+msgid "Matar"
+msgstr "Матар"
+
+#. Name for HIP 109427
+msgid "Biham"
+msgstr "Біхам"
+
+#. Name for HIP 112748
+msgid "Sadalbari"
+msgstr "Садалбарі"
+
+#. Name for HIP 115250
+msgid "Salm"
+msgstr "Сальм"
+
+#. Name for HIP 115623
+msgid "Alkarab"
+msgstr "Аль-Караб"
+
+#. Name for HIP 15863
+msgid "Mirfak"
+msgstr "Мірфак"
+
+#. Name for HIP 14576
+msgid "Algol"
+msgstr "Алгол"
+
+#. Name for HIP 18614
+msgid "Menkib"
+msgstr "Менкіб"
+
+#. Name for HIP 17448
+msgid "Atik"
+msgstr "Атік"
+
+#. Name for HIP 13268
+msgid "Miram"
+msgstr "Мірам"
+
+#. Name for HIP 14668
+msgid "Misam"
+msgstr "Місам"
+
+#. Name for HIP 2081
+msgid "Ankaa"
+msgstr "Анкаа"
+
+#. Name for HIP 5348
+msgid "Wurren"
+msgstr "Вуррен"
+
+#. Name for HIP 9487
+msgid "Alrescha"
+msgstr "Альреша"
+
+#. Name for HIP 8198
+msgid "Torcular"
+msgstr "Торкулар"
+
+#. Name for HIP 7097
+msgid "Alpherg"
+msgstr "Аль-Ферг"
+
+#. Name for HIP 113889
+msgid "Fumalsamakah"
+msgstr "Фум-аль-Самаках"
+
+#. Name for HIP 5737
+msgid "Revati"
+msgstr "Реваті"
+
+#. Name for HIP 39429
+msgid "Naos"
+msgstr "Наос"
+
+#. Name for HIP 38170
+msgid "Azmidi"
+msgstr "Азміді"
+
+#. Name for HIP 96757
+msgid "Sham"
+msgstr "Шам"
+
+#. Name for HIP 95347
+msgid "Rukbat"
+msgstr "Рукбат"
+
+#. Name for HIP 95241
+msgid "Arkab Prior"
+msgstr "Аркаб Старша"
+
+#. Name for HIP 95294
+msgid "Arkab Posterior"
+msgstr "Аркаб Молодша"
+
+#. Name for HIP 88635
+msgid "Alnasl"
+msgstr "Альнасл"
+
+#. Name for HIP 89931
+msgid "Kaus Media"
+msgstr "Каус Медіа"
+
+#. Name for HIP 90185
+msgid "Kaus Australis"
+msgstr "Каус Аустраліс"
+
+#. Name for HIP 93506
+msgid "Ascella"
+msgstr "Аскела"
+
+#. Name for HIP 90496
+msgid "Kaus Borealis"
+msgstr "Каус Бореаліс"
+
+#. Name for HIP 92855
+msgid "Nunki"
+msgstr "Нункі"
+
+#. Name for HIP 89341
+msgid "Polis"
+msgstr "Поліс"
+
+#. Name for HIP 94141
+msgid "Albaldah"
+msgstr "Альбалда"
+
+#. Name for HIP 98066
+msgid "Terebellum"
+msgstr "Теребелум"
+
+#. Name for HIP 92761
+msgid "Ainalrami"
+msgstr "Айнальрамі"
+
+#. Name for HIP 78820
+msgid "Acrab"
+msgstr "Акраб"
+
+#. Name for HIP 78401
+msgid "Dschubba"
+msgstr "Джубба"
+
+#. Name for HIP 86228
+msgid "Sargas"
+msgstr "Саргас"
+
+#. Name for HIP 85927
+msgid "Shaula"
+msgstr "Шаула"
+
+#. Name for HIP 80112
+msgid "Alniyat"
+msgstr "Альніят"
+
+#. Name for HIP 81266
+msgid "Paikauhale"
+msgstr "Пайкаухале"
+
+#. Name for HIP 85696
+msgid "Lesath"
+msgstr "Лесат"
+
+#. Name for HIP 79374
+msgid "Jabbah"
+msgstr "Джабба"
+
+#. Name for HIP 82514
+msgid "Xamidimura"
+msgstr "Ксамідімура"
+
+#. Name for HIP 82545
+msgid "Pipirima"
+msgstr "Піпіріма"
+
+#. Name for HIP 78265
+msgid "Fang"
+msgstr "Фанг"
+
+#. Name for HIP 78104
+msgid "Iklil"
+msgstr "Ікліл"
+
+#. Name for HIP 87261
+msgid "Fuyue"
+msgstr "Фуюе"
+
+#. Name for HIP 82396
+msgid "Larawag"
+msgstr "Лараваґ"
+
+#. Name for HIP 77070
+msgid "Unukalhai"
+msgstr "Унук-аль-Хей"
+
+#. Name for HIP 92946
+msgid "Alya"
+msgstr "Алія"
+
+#. Name for HIP 77450
+msgid "Gudja"
+msgstr "Гуджа"
+
+#. Name for HIP 25428
+msgid "Elnath"
+msgstr "Ельнатх"
+
+#. Name for HIP 20889
+msgid "Ain"
+msgstr "Ен"
+
+#. Name for HIP 17702
+msgid "Alcyone"
+msgstr "Алкіона"
+
+#. Name for HIP 17489
+msgid "Celaeno"
+msgstr "Келено"
+
+#. Name for HIP 17499
+msgid "Electra"
+msgstr "Електра"
+
+#. Name for HIP 17531
+msgid "Taygeta"
+msgstr "Тайгета"
+
+#. Name for HIP 17573
+msgid "Maia"
+msgstr "Майя"
+
+#. Name for HIP 17579
+msgid "Asterope"
+msgstr "Астеропа"
+
+#. Name for HIP 17608
+msgid "Merope"
+msgstr "Меропа"
+
+#. Name for HIP 17847
+msgid "Atlas"
+msgstr "Атлас"
+
+#. Name for HIP 17851
+msgid "Pleione"
+msgstr "Плейона"
+
+#. Name for HIP 20205
+msgid "Prima Hyadum"
+msgstr "Пріма Гіадум"
+
+#. Name for HIP 20455
+msgid "Secunda Hyadum"
+msgstr "Друга з Гіад"
+
+#. Name for HIP 20894
+msgid "Chamukuy"
+msgstr "Чамукуй"
+
+#. Name for HIP 26451
+msgid "Tianguan"
+msgstr "Цзяньгуань"
+
+#. Name for HIP 8796
+msgid "Mothallah"
+msgstr "Мотхаллах"
+
+#. Name for HIP 82273
+msgid "Atria"
+msgstr "Атрія"
+
+#. Name for HIP 54061
+msgid "Dubhe"
+msgstr "Дубге"
+
+#. Name for HIP 53910
+msgid "Merak"
+msgstr "Мерак"
+
+#. Name for HIP 58001
+msgid "Phecda"
+msgstr "Фекда"
+
+#. Name for HIP 59774
+msgid "Megrez"
+msgstr "Мегрец"
+
+#. Name for HIP 62956
+msgid "Alioth"
+msgstr "Аліот"
+
+#. Name for HIP 65378
+msgid "Mizar"
+msgstr "Міцар"
+
+#. Name for HIP 65477
+msgid "Alcor"
+msgstr "Алькор"
+
+#. Name for HIP 67301
+msgid "Alkaid"
+msgstr "Алькаїд"
+
+#. Name for HIP 44127
+msgid "Talitha"
+msgstr "Таліта"
+
+#. Name for HIP 50372
+msgid "Tania Borealis"
+msgstr "Танія Бореаліс"
+
+#. Name for HIP 50801
+msgid "Tania Australis"
+msgstr "Танія Аустраліс"
+
+#. Name for HIP 55219
+msgid "Alula Borealis"
+msgstr "Алула Бореаліс"
+
+#. Name for HIP 55203
+msgid "Alula Australis"
+msgstr "Алула Аустраліс"
+
+#. Name for HIP 41704
+msgid "Muscida"
+msgstr "Мускіда"
+
+#. Name for HIP 57399
+msgid "Taiyangshou"
+msgstr "Тайянгшоу"
+
+#. Name for HIP 44471
+msgid "Alkaphrah"
+msgstr "Алькафрах"
+
+#. Name for HIP 11767
+msgid "Polaris"
+msgstr "Полярна"
+
+#. Name for HIP 72607
+msgid "Kochab"
+msgstr "Кохаб"
+
+#. Name for HIP 75097
+msgid "Pherkad"
+msgstr "Феркад"
+
+#. Name for HIP 85822
+msgid "Yildun"
+msgstr "Їлдун"
+
+#. Name for HIP 44816
+msgid "Suhail"
+msgstr "Сухайль"
+
+#. Name for HIP 45941
+msgid "Markeb"
+msgstr "Маркеб"
+
+#. Name for HIP 42913
+msgid "Alsephina"
+msgstr "Аль-Сефіна"
+
+#. Name for HIP 57757
+msgid "Zavijava"
+msgstr "Завіджава"
+
+#. Name for HIP 63090
+msgid "Minelauva"
+msgstr "Мінелаува"
+
+#. Name for HIP 61941
+msgid "Porrima"
+msgstr "Порріма"
+
+#. Name for HIP 63608
+msgid "Vindemiatrix"
+msgstr "Віндеміатрікс"
+
+#. Name for HIP 60129
+msgid "Zaniah"
+msgstr "Занія"
+
+#. Name for HIP 69701
+msgid "Syrma"
+msgstr "Сирма"
+
+#. Name for HIP 66249
+msgid "Heze"
+msgstr "Гезе"
+
+#. Name for HIP 69974
+msgid "Khambalia"
+msgstr "Хамбалія"
+
+#. Name for HIP 69427
+msgid "Kang"
+msgstr "Канг"
+
+#. Name for HIP 70755
+msgid "Elgafar"
+msgstr "Ель-Гафар"
+
+#. Name for HIP 95771
+msgid "Anser"
+msgstr "Ансер"
+
+#. Name for UGC9749
+msgid "Ursa Minor Dwarf"
+msgstr "Карликова галактика у Малій Ведмедиці"
+
+#. Name for UGC10822
+msgid "Draco Dwarf"
+msgstr "Карликова галактика у Драконі"
+
+#. Name for M76
+msgid "Little Dumbbell"
+msgstr "Мала Гантель"
+
+#. Name for NGC6826
+msgid "Blinking Planetary"
+msgstr "Миготлива планетарна"
+
+#. Name for NGC2537
+msgid "Bear Paw Galaxy"
+msgstr "Галактика «Ведмежа лапа»"
+
+#. Name for NGC4676
+msgid "The Mice"
+msgstr "Миша"
+
+#. Name for NGC2632
+msgid "Beehive"
+msgstr "Вулик"
+
+#. Name for B142
+msgid "The Triple Cave Nebula"
+msgstr "Туманність «Потрійна печера»"
+
+#. Name for NGC2024
+msgid "The Flame"
+msgstr "Полум'я"
+
+#. Name for NGC3242
+msgid "Ghost of Jupiter"
+msgstr "Привид Юпітера"
+
+#. Name for B87
+msgid "Parrot's Head"
+msgstr "Голова папуги"
+
+#. Name for NGC3918
+msgid "Blue Planetary"
+msgstr "Блакитна планетарна"
+
+#. Name for NGC3372
+msgid "Eta Carinae Nebula"
+msgstr "Туманність Киля"
