@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>, 2025\n"
+"Language-Team: Ukrainian (https://app.transifex.com/stellarium/teams/80998/"
+"uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != "
+"11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % "
+"100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || "
+"(n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#. Sky culture name
+msgid "Tupi-Guarani"
+msgstr "Тупі-Гуарані"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"Tupi-Guarani is a name given to a family of languages spoken by the "
+"indigenous peoples of Brazil and other South American countries."
+msgstr ""
+"Тупі-гуарані — назва, яку було дано сімейству мов, якими розмовляють корінні "
+"мешканці Бразилії та інших південноамериканських країн."
+
+#. Sky culture constellations section in markdown format
+msgid ""
+"As with many cultures, constellations were identified and used to help keep "
+"track of the seasons and predict the seasonal variations which affect daily "
+"life. In the book [#3] it is stated that the Tupi people identified some "
+"thirty constellations, but the book only details seven.\n"
+"\n"
+"##### Ema\n"
+"\n"
+"The Tupi name for this constellation is *Iandutim* (*Guirá Nhandu* in "
+"Guarani), which literally translates to *White Ostrich*. The constellation "
+"depicts a large bird.\n"
+"\n"
+"In the first two weeks of June this constellation is fully visible in the "
+"Eastern sky in the evening, indicating the beginning of Winter in the South "
+"of Brazil, and the start of the dry season in the North.\n"
+"\n"
+"##### Homem Velho (the Old Man)\n"
+"\n"
+"This constellation depicts an old man holding a stick.\n"
+"\n"
+"In the second half of December, the constellation is fully visible in the "
+"evening Eastern sky. This marks the beginning of summer in the southern "
+"parts of Brazil and the start of the rainy season in the North."
+msgstr ""
+"Як і у багатьох інших культурах, сузір’я визначалися та використовувалися "
+"для стеження за зміною сезонів та передбачення сезонних змін погоди, які "
+"впливали на повсякденне життя людей. У книзі [#3] повідомляється, що тупі "
+"мають назви для близько тридцяти сузір’їв, але у книзі подано назви лише "
+"семи таких сузір’їв.\n"
+"\n"
+"##### Ема\n"
+"\n"
+"У тупі це сузір’я має назву *Яндутім* (*Ґуїра-Нанду* мовою гуарані), "
+"дослівно можна перекласти як *Білий страус*. Зображенням сузір’я є великий "
+"птах.\n"
+"\n"
+"У перші два тижні червня це сузір’я повністю можна бачити на сході неба "
+"ввечері. Сузір’я позначало початок зими на півдні Бразилії і початок "
+"посушливого сезону на півночі.\n"
+"\n"
+"##### Гомем Велью (Старий чоловік)\n"
+"\n"
+"Зображенням цього сузір’я є старий чолові, що тримає палицю.\n"
+"\n"
+"У другій половині грудня це сузір’я можна повністю бачити на сході "
+"вечірнього неба. Сузір’я позначає початок літа у південній частині Бразилії "
+"та початок сезону дощів на півночі."
+
+#. Sky culture references section in markdown format
+msgid ""
+" - [#1]: [The Tupi People](http://en.wikipedia.org/wiki/Tupi_people)\n"
+" - [#2]: [The Brazilian Indigenous Constellations](http://www."
+"telescopiosnaescola.pro.br/indigenas.pdf) by Germano Bruno Afonso "
+"(Portugese)\n"
+" - [#3]: [Claude d'Abbeville, Histoire de la Mission des Pères Capucins en "
+"l'Isle de Maragnan et terres circonvoisines. Paris, 1614.](http://gallica."
+"bnf.fr/ark:/12148/btv1b86057861)"
+msgstr ""
+" - [#1]: [Тупі](http://en.wikipedia.org/wiki/Tupi_people)\n"
+" - [#2]: [Сузір’я тубільців Бразилії](http://www.telescopiosnaescola.pro.br/"
+"indigenas.pdf) , автор — Хермано Бруно Афонсо (португальською)\n"
+" - [#3]: [Claude d'Abbeville, Histoire de la Mission des Pères Capucins en "
+"l'Isle de Maragnan et terres circonvoisines. Paris, 1614.](http://gallica."
+"bnf.fr/ark:/12148/btv1b86057861)"
+
+#. Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user *Paulo Marcelo Pontes*."
+msgstr ""
+"Записи цієї картини зоряного неба було створено користувачем Stellarium "
+"*Пауло Марсело Понтешем (Paulo Marcelo Pontes)*"
+
+#. Tupi-Guarani constellation, native: Homem Velho (Tuivae)
+msgid "Old Man"
+msgstr "Старий чоловік"
+
+#. Tupi-Guarani constellation, native: Ema (Guira-nhandu)
+msgid "White Ostrich"
+msgstr "Білий страус"
+
+#. Tupi-Guarani constellation, native: Anta do Norte (Tapi'i)
+msgid "Anta do Norte (Tapi'i)"
+msgstr "Північний тапір (Тапі’ї)"
+
+#. Tupi-Guarani constellation, native: Veado
+msgid "Veado"
+msgstr "Олень"
+
+#. Tupi-Guarani constellation, native: Joykexo
+msgid "Joykexo"
+msgstr "Жойкехо (Пояс Оріона)"
+
+#. Tupi-Guarani constellation, native: Vespeiro (Eixu)
+msgid "Vespeiro (Eixu)"
+msgstr "Осине гніздо"
+
+#. Tupi-Guarani constellation, native: Queixada da Anta (Tapi'i rainhyka)
+msgid "Queixada da Anta (Tapi'i rainhyka)"
+msgstr "Щелепа тапіра (Тапі’ї райнгіка)"
+
+#. Name for HIP 61199
+msgid "Quira-Rupia"
+msgstr "Куїра-Рупія"

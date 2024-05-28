@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
+"Language-Team: Arabic (https://app.transifex.com/stellarium/teams/80998/"
+"ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#. Sky culture name
+msgid "Tupi-Guarani"
+msgstr "توبي-جواراني"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"Tupi-Guarani is a name given to a family of languages spoken by the "
+"indigenous peoples of Brazil and other South American countries."
+msgstr ""
+"توبي - جواراني هو الاسم المعطى لعائلة من اللغات يتكلمها السكان الأصليون "
+"للبرازيل وبلدان أمريكا الجنوبية الأخرى."
+
+#. Sky culture constellations section in markdown format
+msgid ""
+"As with many cultures, constellations were identified and used to help keep "
+"track of the seasons and predict the seasonal variations which affect daily "
+"life. In the book [#3] it is stated that the Tupi people identified some "
+"thirty constellations, but the book only details seven.\n"
+"\n"
+"##### Ema\n"
+"\n"
+"The Tupi name for this constellation is *Iandutim* (*Guirá Nhandu* in "
+"Guarani), which literally translates to *White Ostrich*. The constellation "
+"depicts a large bird.\n"
+"\n"
+"In the first two weeks of June this constellation is fully visible in the "
+"Eastern sky in the evening, indicating the beginning of Winter in the South "
+"of Brazil, and the start of the dry season in the North.\n"
+"\n"
+"##### Homem Velho (the Old Man)\n"
+"\n"
+"This constellation depicts an old man holding a stick.\n"
+"\n"
+"In the second half of December, the constellation is fully visible in the "
+"evening Eastern sky. This marks the beginning of summer in the southern "
+"parts of Brazil and the start of the rainy season in the North."
+msgstr ""
+"كما هو الحال في الثقافات الأخرى فقد تم تحديد واستخدام الكوكبات للمساعدة في "
+"تتبع الفصول وتوقع التغيرات الفصلية التي تؤثر على الحياة اليومية للناس. في "
+"الكتاب :[#3] الذي نشر في باريس عام 1614، يذكر المؤلف أن أناس التوبي كان "
+"لديهم بضع وثلاثون كوكبة، لكن لم يفصل الكتاب إلا سبعاً منها.\n"
+"\n"
+"##### إيما (Ema)\n"
+"\n"
+"إسم التوبي لهذه الكوكبة هو إياندوتيم\n"
+"\n"
+"Iandutim, Guirá Nhandu in Guarani\n"
+"\n"
+", والذي يمكن ترجمته حرفياً **النعامة البيضاء**. تتخذ الكوكبة شكل طير ضخم.\n"
+"\n"
+"في أول أسبوعين من يونية، يمكن رؤية كامل هذه الكوكبة مساءاً في السماء الشرقية، "
+"مما يدل على بداية الشتاء في جنوب البرازيل، وبداية الفصل الجاف في الشمال.\n"
+"\n"
+"##### هوميم فيلهو - الرجل المسن (Homem Velho) (the Old Man)\n"
+"\n"
+"تتخذ هذه الكوكبة شكل رجل مسن يحمل عصاً.\n"
+"\n"
+"في النصف الثاني من ديسمبر, يمكن رؤية هذه الكوكبة كاملة في المساء شرقاً. هذا "
+"يدل على بداية الصيف في الجزء الجنوبي من البرازيل وبدء الفصل المطير في الشمال."
+
+#. Sky culture references section in markdown format
+msgid ""
+" - [#1]: [The Tupi People](http://en.wikipedia.org/wiki/Tupi_people)\n"
+" - [#2]: [The Brazilian Indigenous Constellations](http://www."
+"telescopiosnaescola.pro.br/indigenas.pdf) by Germano Bruno Afonso "
+"(Portugese)\n"
+" - [#3]: [Claude d'Abbeville, Histoire de la Mission des Pères Capucins en "
+"l'Isle de Maragnan et terres circonvoisines. Paris, 1614.](http://gallica."
+"bnf.fr/ark:/12148/btv1b86057861)"
+msgstr ""
+" - [#1]: [The Tupi People](http://en.wikipedia.org/wiki/Tupi_people)\n"
+" - [#2]: [The Brazilian Indigenous Constellations](http://www."
+"telescopiosnaescola.pro.br/indigenas.pdf) by Germano Bruno Afonso "
+"(Portugese)\n"
+" - [#3]: [Claude d'Abbeville, Histoire de la Mission des Pères Capucins en "
+"l'Isle de Maragnan et terres circonvoisines. Paris, 1614.](http://gallica."
+"bnf.fr/ark:/12148/btv1b86057861)"
+
+#. Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user *Paulo Marcelo Pontes*."
+msgstr ""
+"ساهم بهذا التراث الفلكي مستخدم ستيللاريوم\n"
+"\n"
+"*Paulo Marcelo Pontes*\n"
+"ترجمة:\n"
+"\n"
+"خالد بن عبدالله العجاجي - الرياض - السعودية"
+
+#. Tupi-Guarani constellation, native: Homem Velho (Tuivae)
+msgid "Old Man"
+msgstr "‎‎الرجل المسن‎‎"
+
+#. Tupi-Guarani constellation, native: Ema (Guira-nhandu)
+msgid "White Ostrich"
+msgstr "‎‎النعامة البيضاء‎‎"
+
+#. Tupi-Guarani constellation, native: Anta do Norte (Tapi'i)
+msgid "Anta do Norte (Tapi'i)"
+msgstr "‎‎حيوان التابير الشمالي‎‎"
+
+#. Tupi-Guarani constellation, native: Veado
+msgid "Veado"
+msgstr "‎‎الأيل‎‎"
+
+#. Tupi-Guarani constellation, native: Joykexo
+msgid "Joykexo"
+msgstr "‎‎المرأة الجميلة‎‎"
+
+#. Tupi-Guarani constellation, native: Vespeiro (Eixu)
+msgid "Vespeiro (Eixu)"
+msgstr "‎‎عش النحل‎‎"
+
+#. Tupi-Guarani constellation, native: Queixada da Anta (Tapi'i rainhyka)
+msgid "Queixada da Anta (Tapi'i rainhyka)"
+msgstr "‎‎فك حيوان التابير‎‎"
+
+#. Name for HIP 61199
+msgid "Quira-Rupia"
+msgstr "‎‎كويرا-روبيا ‎‎‎"
