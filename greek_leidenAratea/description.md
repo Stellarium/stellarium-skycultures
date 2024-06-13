@@ -2,25 +2,32 @@
 
 ## Introduction
 
-<p>This is a manuscript from the Carolingian period, two copies of which are known so far. One was found in Metz (France), the other in Leiden (Netherlands). It dates to the reign of the Carolingian king Louis the Pious (778-840), who may have been the patron himself (or his wife).</p>
-<p>The manuscript was probably created around 816 to 825 in Aachen or Metz (Lorraine) and was made with such expensive material that a royal patron is suspected. It comprises 99 parchment leaves, each of which measures 22.5 by 20.0 cm (i.e. approximately square with the width of DIN A4). In addition to graphic representations of planetary orbits and other didactic visualisations, this manuscript also contains 35 full-page miniatures depicting the ancient figures behind the constellations.</p>
-<p>The figures are drawn from a non-preserved Roman model, but not from a globe, so that there is no fit to the stars. The stars themselves are only symbolically distributed on the figures, i.e. the number of stars per figure is marked in the manuscript in the form of applied gold leaves. The gold leaves, however, are not located at the true places of the stars in view of the figure in the sky, but are only indicated summarily. Elly Decker's essay discusses her proposed identifications in detail.</p>
-<p><img width="800" src="descr_pics/Aratea fol. 3v und 4r.jpg"/></p>
-<p><i>A sample page from the medieval manuscript shows the three cushion images Draco, Ursa Maior and Ursa Minor with the text opposite.</i></p>
+This is a manuscript from the Carolingian period, two copies of which are known so far. One was found in Metz (France), the other in Leiden (Netherlands). It dates to the reign of the Carolingian king Louis the Pious (778-840), who may have been the patron himself (or his wife).
+
+The manuscript was probably created around 816 to 825 in Aachen or Metz (Lorraine) and was made with such expensive material that a royal patron is suspected. It comprises 99 parchment leaves, each of which measures 22.5 by 20.0 cm (i.e. approximately square with the width of DIN A4). In addition to graphic representations of planetary orbits and other didactic visualisations, this manuscript also contains 35 full-page miniatures depicting the ancient figures behind the constellations.
 
 ## Description
 
+The figures are drawn from a non-preserved Roman model, but not from a globe, so that there is no fit to the stars. The stars themselves are only symbolically distributed on the figures, i.e. the number of stars per figure is marked in the manuscript in the form of applied gold leaves. The gold leaves, however, are not located at the true places of the stars in view of the figure in the sky, but are only indicated summarily. Elly Decker's essay discusses her proposed identifications in detail.
+
+<p><img width="800" src="descr_pics/Aratea fol. 3v und 4r.jpg"/></p>
+<p><i>A sample page from the medieval manuscript shows the three cushion images Draco, Ursa Maior and Ursa Minor with the text opposite.</i></p>
+
 ### How this Sky Culture was made
 
-<p>The illustrations of the individual figures were taken directly from the manuscript (provided by Prof. D. Blume, Jena, for planetarium applications). Stellarium works with point coordinates for stars in the catalogue of the astrometry satellite HIPPARCOS, so that the historical drawings have to be locked at three points each. Some of the flat book illustrations had to be distorted slightly on the planetarium dome to fit the stars. Except for the illustration of Scorpius and Ophiuchus, an approximate adjustment was possible.</p>
-<p> In a planetarium dome, i.e. against a dark background, the dark blue and black parts of the manuscript are not recognisable. That is why these parts (e.g. the crab as a figure, the horns of the ibex, the goats of the carter...) were colour-inverted. The female bears, which are supposed to be dark, have only been shifted slightly into the red. How the image looks in the original (with its lapis lazuli blue background and the original dark colours) is shown in the table below.</p>
-<p>There are some constellations in the Leiden Aratea, in particular Cen + Lup, Vir, Lib are leaving a huge gap in the sky.
+The illustrations of the individual figures were taken directly from the manuscript (provided by Prof. D. Blume, Jena, for planetarium applications). Stellarium works with point coordinates for stars in the catalogue of the astrometry satellite HIPPARCOS, so that the historical drawings have to be locked at three points each. Some of the flat book illustrations had to be distorted slightly on the planetarium dome to fit the stars. Except for the illustration of Scorpius and Ophiuchus, an approximate adjustment was possible.
+
+ In a planetarium dome, i.e. against a dark background, the dark blue and black parts of the manuscript are not recognisable. That is why these parts (e.g. the crab as a figure, the horns of the ibex, the goats of the carter...) were colour-inverted. The female bears, which are supposed to be dark, have only been shifted slightly into the red. How the image looks in the original (with its lapis lazuli blue background and the original dark colours) is shown in the table below.
+
+There are some constellations in the Leiden Aratea, in particular Cen + Lup, Vir, Lib are leaving a huge gap in the sky.
 Both, Virgo and Centaur are probably not painted because the painter thought it were variants of the images of Sgr (Cen) and And (Vir).
 The artist of the Leiden Aratea never mapped the images onto the stars.
 In order to make these depictions understandable for us, I mapped them in Stellarium and added the names and stickfigures of the constellations and the names of individual stars from the Almagest.
 The Almagest is a book of mathematical astronomy of the 2nd century (i.e. the reign of the Roman Emperor Hadrian) while Aratos's poem describes a much earlier (~300 BCE) Greek sky culture.
-Both, the Almagest and the poem, are written in Greek originally but the Leiden Aratea presumably refers to a Latin translation of Aratus' poem and Roman artwork.</p>
-<p>The following table lists the original names of the constellations in columns 2 and 3. constellations, in column 4 the illustration in the manuscript.</p>
+Both, the Almagest and the poem, are written in Greek originally but the Leiden Aratea presumably refers to a Latin translation of Aratus' poem and Roman artwork.
+
+The following table lists the original names of the constellations in columns 2 and 3. constellations, in column 4 the illustration in the manuscript.
+
 <p>
 <table>
 	<tr valign="top">
@@ -295,12 +302,13 @@ Both, the Almagest and the poem, are written in Greek originally but the Leiden 
 
 ### Fair Use
 
-<p>We provide this sky culture free of charge, but the authors deserve to be cited according to the usual rules. Thank you!</p>
+We provide this sky culture free of charge, but the authors deserve to be cited according to the usual rules. Thank you!
 
 ## Authors
 
-<p>This sky culture was added to Stellarium by Susanne M. Hoffmann (service@uhura-uraniae.com) and originally created in collaboration with Prof. Dr. Dieter Blume (Art History, FSU Jena, Germany) for Planetarium Jena.</p>
-<p>Written in English: the authors</p>
+This sky culture was added to Stellarium by Susanne M. Hoffmann (service@uhura-uraniae.com) and originally created in collaboration with Prof. Dr. Dieter Blume (Art History, FSU Jena, Germany) for Planetarium Jena.
+
+Written in English: the authors
 
 ## License
 
