@@ -2,21 +2,29 @@
 
 ## Introduction
 
-<p>This ancient Greek celestial culture is based on the marble globe of the Atlas statue in the Villa Farnese (Naples). The statue dates to the 2nd century AD, i.e. Roman times. However, it is a copy of an older Greek model, which itself has not survived.</p>
-<p>The marble globe only depicts figures and no stars. The globe has a diameter of about 65 cm. The figures were not aligned according to exact point coordinates, but in a grid: the ecliptic, the celestial equator, the tropics and the polar circles provide orientation in terms of position in "latitude circles" on the celestial sphere, while the coluric circles provide a four-way division in "longitude circles". Ancient globe makers used this very coarse-meshed grid to adjust the figure drawings.</p>
-<p>The images of the globe therefore clearly show that the stonemason who created the globe had the popular doctrinal poem by Aratos of Soloi (~300 BCE) in mind. There is no reason for the claim - often inflated by popular science - that this marble globe was carved according to Hipparchus' star catalogue. This thesis has been repeatedly raised over the past ~200 years, but regularly dismissed: Both mathematical arguments and artistic representations speak against it.</p>
-<p><img width="800" src="Atlas_(Farnese_Globe).jpg"/></p>
-<p><i>Photograph of the reconstructed statue of the Atlas Farnese (Gabriel Seah, CC BY-SA-3.0, 9. Juli 2006, Museo Archeologico Nazionale, Naples).</i></p>
-<p>Only the torso of the man was preserved and with broken elbows: everything below the hip has been supplemented in a modern way. In this form, the sculpture is 2.10 m high. The sculpture of the globe with constellations, which is important for us, is original, but has a large hole at the north pole - presumably it was anchored there to other parts of the architecture. Therefore, the circumpolar constellations of the two she-bears and parts of the dragon are missing.</p>
+This ancient Greek celestial culture is based on the marble globe of the Atlas statue in the Villa Farnese (Naples). The statue dates to the 2nd century AD, i.e. Roman times. However, it is a copy of an older Greek model, which itself has not survived.
 
 ## Description
 
+The marble globe only depicts figures and no stars. The globe has a diameter of about 65 cm. The figures were not aligned according to exact point coordinates, but in a grid: the ecliptic, the celestial equator, the tropics and the polar circles provide orientation in terms of position in "latitude circles" on the celestial sphere, while the coluric circles provide a four-way division in "longitude circles". Ancient globe makers used this very coarse-meshed grid to adjust the figure drawings.
+
+The images of the globe therefore clearly show that the stonemason who created the globe had the popular doctrinal poem by Aratos of Soloi (~300 BCE) in mind. There is no reason for the claim - often inflated by popular science - that this marble globe was carved according to Hipparchus' star catalogue. This thesis has been repeatedly raised over the past ~200 years, but regularly dismissed: Both mathematical arguments and artistic representations speak against it.
+
+<p><img width="800" src="Atlas_(Farnese_Globe).jpg"/></p>
+<p><i>Photograph of the reconstructed statue of the Atlas Farnese (Gabriel Seah, CC BY-SA-3.0, 9. Juli 2006, Museo Archeologico Nazionale, Naples).</i></p>
+
+Only the torso of the man was preserved and with broken elbows: everything below the hip has been supplemented in a modern way. In this form, the sculpture is 2.10 m high. The sculpture of the globe with constellations, which is important for us, is original, but has a large hole at the north pole - presumably it was anchored there to other parts of the architecture. Therefore, the circumpolar constellations of the two she-bears and parts of the dragon are missing.
+
 ### How was this Sky Culture made?
 
-<p>The illustrations of the individual figures were copied from the marble globe as pencil sketches. Stellarium works with point coordinates of the modern HIPPARCOS catalogue (produced by an astrometry satellite), so that the historical drawings have to be locked at three points (stars) each. Since this sometimes leads to distortions in historical figures (the marble globe is not a perfect sphere, the figures were not fitted according to point coordinates), this was done here "by eye" - just as by the historical stonemason.</p>
-<p>The names of the constellations and individual stars were taken from the Almagest star catalogue, which also dates from the 2nd century (i.e. the reign of the Roman Emperor Hadrian) and - as was customary at the time - was written in Greek as scientific literature.</p>
-<p>The marble globe was a decorative element in a building, probably a particularly elaborate capital. It has no scientific accuracy. Therefore, some drawings in relief deviate from the exact star positions of the star catalogue: e.g. the Twins (Gemini) are moved slightly to the side to show the figure completely, although the lower part of this celestial region would be covered by the hand of the Atlas statue. There are similar distortions in the Scorpion.</p>
-<p>The following table lists the original Greek names of the constellations in columns 2 and 3, and in column 4 the image on the globe.</p>
+The illustrations of the individual figures were copied from the marble globe as pencil sketches. Stellarium works with point coordinates of the modern HIPPARCOS catalogue (produced by an astrometry satellite), so that the historical drawings have to be locked at three points (stars) each. Since this sometimes leads to distortions in historical figures (the marble globe is not a perfect sphere, the figures were not fitted according to point coordinates), this was done here "by eye" - just as by the historical stonemason.
+
+The names of the constellations and individual stars were taken from the Almagest star catalogue, which also dates from the 2nd century (i.e. the reign of the Roman Emperor Hadrian) and - as was customary at the time - was written in Greek as scientific literature.
+
+The marble globe was a decorative element in a building, probably a particularly elaborate capital. It has no scientific accuracy. Therefore, some drawings in relief deviate from the exact star positions of the star catalogue: e.g. the Twins (Gemini) are moved slightly to the side to show the figure completely, although the lower part of this celestial region would be covered by the hand of the Atlas statue. There are similar distortions in the Scorpion.
+
+The following table lists the original Greek names of the constellations in columns 2 and 3, and in column 4 the image on the globe.
+
 <p>
 <table>
 	<tr valign="top">
@@ -299,7 +307,7 @@
 
 ### Fair Use
 
-<p>We provide this sky culture free of charge, but the authors deserve to be cited according to the usual rules. Thank you!</p>
+We provide this sky culture free of charge, but the authors deserve to be cited according to the usual rules. Thank you!
 
 ## References
 
@@ -309,8 +317,9 @@
 
 ## Authors
 
-<p>This sky culture was contributed to Stellarium by Susanne M. Hoffmann (service@uhura-uraniae.com).</p>
-<p>Written in English: the author.</p>
+This sky culture was contributed to Stellarium by Susanne M. Hoffmann (service@uhura-uraniae.com).
+
+Written in English: the author.
 
 ## License
 
