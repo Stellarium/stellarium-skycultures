@@ -3,11 +3,13 @@
 ## Introduction
 
 <p>The sculptured Dendera zodiac (or Denderah zodiac) is a widely known Egyptian bas-relief from the ceiling of the pronaos (or portico) of a chapel dedicated to Osiris in the Hathor temple at Dendera. This chapel was begun in the late Ptolemaic period when Egypt was ruled by (Greek) successors of Alexander the Great (hellenistic Egypt: 305-30 BCE). Its <i>pronaos</i> (a hall in front of the holy chamber) was added by the Roman emperor Tiberius (14-37 CE). This led Jean-François Champollion (18th century) to date the relief to the Greco-Roman period (while most of his contemporaries believed it to be of a millennium earlier because of the Egyptian style of the figures - this is not believed anymore). Today, French archaeologists date it to exactly 54 BCE [1].  The relief is now on display at the Musée du Louvre, Paris (France).</p>
-<p>The temple in (today's) Egypt probably dates to the Roman (or Late Greek) time of Egypt and, thus, does not show the original Egyptian sky but a mixture of Greco-Roman, Egyptian and Babylonian figures, all drawn in an Egyptian style.</p>
-<p><img width="600" src="Dendera_zodiac_Louvre.jpg"/></p>
-<p><i>Photograph for the display in Musée du Louvre (Paris), Public Domain/ CC0. The plate is 255 x 253 cm in size.</i></p>
 
 ## Description
+
+The temple in (today's) Egypt probably dates to the Roman (or Late Greek) time of Egypt and, thus, does not show the original Egyptian sky but a mixture of Greco-Roman, Egyptian and Babylonian figures, all drawn in an Egyptian style.
+
+<p><img width="600" src="Dendera_zodiac_Louvre.jpg"/></p>
+<p><i>Photograph for the display in Musée du Louvre (Paris), Public Domain/ CC0. The plate is 255 x 253 cm in size.</i></p>
 
 ### List of constellation figure
 
@@ -198,8 +200,10 @@
 
 ### Planets
 
-<p>In this sky culture, some Egyptian names are attached to the planets. Honestly, each planet had many names, sometimes depending on the context (e.g. Venus as morning star and evening star). We cannot include all names in the Stellarium name but they are stored in other database. On the Dendera ceiling, the planets are represented at fixed positions and as deities.</p>
-<p>The planets are depicted as deities in their "standard position". As planets move, they can only be presented in the sky by defining fixed positions where the figurative representation is found in every celestial map, every star list and catalogue.</p>
+In this sky culture, some Egyptian names are attached to the planets. Honestly, each planet had many names, sometimes depending on the context (e.g. Venus as morning star and evening star). We cannot include all names in the Stellarium name but they are stored in other database. On the Dendera ceiling, the planets are represented at fixed positions and as deities.
+
+The planets are depicted as deities in their "standard position". As planets move, they can only be presented in the sky by defining fixed positions where the figurative representation is found in every celestial map, every star list and catalogue.
+
 <p>These standard positions:
  <table class="layout">
   <tr><td>Sun</td> <td>Aries</td></tr>
@@ -211,21 +215,26 @@
   <tr><td>Saturn</td> <td>Libra</td></tr>
  </table>
 These positions are equal to the "secret places" in Babylonian astrology and the "hypsomata" (exaltation points) in Greek astrology.</p>
-<p>Additionally, the equinoxes are marked with great disks: One in Libra and one Aries.</p>
+
+Additionally, the equinoxes are marked with great disks: One in Libra and one Aries.
 
 ## Constellations
 
 ### Zodiac
 
-<p>The zodiac came to Greece from Babylonian sources. It is unknown whether or not the Egyptians had similar figures: The origin of the zodiac is the path of the Moon and was, thus, important for the Egyptian calendar, too. However, the zodiac depicted in Dendera is definitely the Greek (partially misunderstood) interpretation of the Babylonian one.</p>
-<p>The Zodiac is the Babylonian one with the semi-exception of Pisces: Pisces are depicted as two fish which is never found in Babylon and only an analogon is known in Late Babylonian epoch in the city of Uruk. In Uruk, the constellation  was changed to the constellation of the Swallow-Fish connecting a swallow and a fish. In contrast, in Babylon it has always been "The Tails of the Giant Swallow" (Steele 2018).</p>
-<p> The other constellations of the zodiac are the Babylonian versions, partially egyptized. Virgo is depicted as the Babylonian Goddess Shala with the Ear of Grain, Capricornus as a Goat-Fish accompanying the Babylonian god of witchcraft (Aquarius), Sagittarius as the Babylonian god Pabilsang. Scorpion, Aries and Cancer leave rather no room for interpretation. Leo is depicted as a usual lion but carries the Egyptian queen Berenice (whose name was given to the constellation Coma Berenices) at his tail. Gemini are not depicted as Twins but as a couple, the Bull is not halved.</p>
+The zodiac came to Greece from Babylonian sources. It is unknown whether or not the Egyptians had similar figures: The origin of the zodiac is the path of the Moon and was, thus, important for the Egyptian calendar, too. However, the zodiac depicted in Dendera is definitely the Greek (partially misunderstood) interpretation of the Babylonian one.
+
+The Zodiac is the Babylonian one with the semi-exception of Pisces: Pisces are depicted as two fish which is never found in Babylon and only an analogon is known in Late Babylonian epoch in the city of Uruk. In Uruk, the constellation  was changed to the constellation of the Swallow-Fish connecting a swallow and a fish. In contrast, in Babylon it has always been "The Tails of the Giant Swallow" (Steele 2018).
+
+ The other constellations of the zodiac are the Babylonian versions, partially egyptized. Virgo is depicted as the Babylonian Goddess Shala with the Ear of Grain, Capricornus as a Goat-Fish accompanying the Babylonian god of witchcraft (Aquarius), Sagittarius as the Babylonian god Pabilsang. Scorpion, Aries and Cancer leave rather no room for interpretation. Leo is depicted as a usual lion but carries the Egyptian queen Berenice (whose name was given to the constellation Coma Berenices) at his tail. Gemini are not depicted as Twins but as a couple, the Bull is not halved.
 
 ### Outside the Zodiac
 
-<p>The rest of the sky  also shows a mixture of several cultures: The hippo goddess who guards the Ox Thigh is a clearly Egyptian constellation. Interestingly, there is a desert fox and a sheep next to the ox thigh which refers to same positions in the sky as the Babylonian constellations of the Fox and the Ewe.</p>
-<p>In contrast to these native Egyptian constellations, there are also native Sumerian ones that are depicted in an Egyptized way: This is marked in the "Translation" of the Stellarium labels.</p>
-<p>Interestingly, this depiction explains several Greek names of single stars: e.g. at the position of Capella, there is a whitish Goat in the Dendera ceiling, and at the position of the star Canopus whose name is already attested in Ptolemy's Almagest, there is a Horus-falcon on a canopy jar. It suggests that these were originally Egyptian images that have been transformed to star names in a later epoch in order to commemorate the outdated constellations.</p>
+The rest of the sky  also shows a mixture of several cultures: The hippo goddess who guards the Ox Thigh is a clearly Egyptian constellation. Interestingly, there is a desert fox and a sheep next to the ox thigh which refers to same positions in the sky as the Babylonian constellations of the Fox and the Ewe.
+
+In contrast to these native Egyptian constellations, there are also native Sumerian ones that are depicted in an Egyptized way: This is marked in the "Translation" of the Stellarium labels.
+
+Interestingly, this depiction explains several Greek names of single stars: e.g. at the position of Capella, there is a whitish Goat in the Dendera ceiling, and at the position of the star Canopus whose name is already attested in Ptolemy's Almagest, there is a Horus-falcon on a canopy jar. It suggests that these were originally Egyptian images that have been transformed to star names in a later epoch in order to commemorate the outdated constellations.
 
 ### Source(s)
 
@@ -233,7 +242,7 @@ These positions are equal to the "secret places" in Babylonian astrology and the
 
 ### Fair Use
 
-<p>This sky culture originates from research. We provide this for free but the authors of contributions certainly deserve to be cited according to the common rules. Thank you!</p>
+This sky culture originates from research. We provide this for free but the authors of contributions certainly deserve to be cited according to the common rules. Thank you!
 
 ## References
 
@@ -247,9 +256,10 @@ These positions are equal to the "secret places" in Babylonian astrology and the
 
 ## Authors
 
-<p>This Greco-Egyptian sky culture was painted and added to Stellarium by:</p>
+This Greco-Egyptian sky culture was painted and added to Stellarium by:
+
 <p><em>Susanne M. Hoffmann:   service@uhura-uraniae.com </em></p>
-<p>Written in English: <em>SMH<em></p>
+<p>Written in English: <em>SMH</em></p>
 
 ## License
 
