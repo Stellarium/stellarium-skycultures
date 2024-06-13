@@ -8,11 +8,12 @@ The earliest fragment known is from the 7th century BCE but the celestial data i
 suggests a much earlier origin of the observational base - most likely between -1350 and -1150.</p>
 <p><img width="800" src="800px-MulApin-BritishMuseum.jpg"/></p>
 <p><br/><i>photograph of one of the clay tablets that are as big as a sheet of paper (courtesy: the trustees of the British Museum)</i></p>
-<p>The compendium MUL.APIN consists of two large clay tablets with six and five lists of different content.
+
+The compendium MUL.APIN consists of two large clay tablets with six and five lists of different content.
 On the first tablet, there is the so called "star catalogue" (a list of names of stars and constellations),
 followed by three lists of heliacal risings and settings, a list of ziqpu (culminating) asterisms,
 and the list of constellations in the lunar path.
-The second tablet contains intercalary rules for the calendar, rules for the sundial and rules for omina.</p>
+The second tablet contains intercalary rules for the calendar, rules for the sundial and rules for omina.
 
 ## Description
 
@@ -28,11 +29,12 @@ Taking Eudoxus' writing as a <em>terminus ante quem</em>, we extrapolate a date 
 In other fragments of mathematical astronomy (between 800 and 700 BCE) the concept of the zodiac is not present.
 Some scholars argue for the 6th century BCE as date of invention - but to be honest, we don't know.
 The common sense is that the zodiac was probably invented around the middle of the 1st millennium BCE.</p>
-<p>In MUL.APIN, there is definitely no zodiac but a predecessor: the path of the Moon.
+
+In MUL.APIN, there is definitely no zodiac but a predecessor: the path of the Moon.
 There are lists of constellations or "gods who stand in the path of the Moon,
 through whose region the Moon during a month [passes repeatedly] and keeps touching them."
 (cited from the edition by Hunger and Steele, 2018, p. 143).
-This list of the MUL.APIN compendium is not considered in this sky culture; constellations in the path of the Moon are not highlighted.</p>
+This list of the MUL.APIN compendium is not considered in this sky culture; constellations in the path of the Moon are not highlighted.
 
 ### Planets
 
@@ -42,7 +44,8 @@ are names of asterisms or constellations (and not point-like objects such as sta
 However, in Mesopotamian culture it was common to mention them for a complete set of objects in the sky.
 They are usually denoted (or drawn) at the position of their exaltation point (one of the later Greek <em>hypsomata</em> -
 but Greek astrology provided two <em>hypsomata</em> per planet while Babylonian had only one).</p>
-<p>The names of the planets displayed in Stellarium are names of the objects in the sky and not of the gods associated with them.
+
+The names of the planets displayed in Stellarium are names of the objects in the sky and not of the gods associated with them.
 The list below shows that almost every asterism was associated with a deity.
 According to Babylonian belief, a deity has two representations: one in the sky and one on Earth as statue in the temple.
 That means a celestial object `is' not the deity but only one of its possible expressions. This is also the case for the planets.
@@ -50,14 +53,16 @@ For instance, even a millennium before MUL.APIN, the goddess of sexual love and 
 the Sumerian Inanna/ Akkadian Ishtar had been associated with the planet Venus.
 This goddess was later `translated' to the Greek Aphrodite and Roman Venus and even in the Greco-Roman culture the name of the planet
 was Phosphoros (Greek: the Luminous One) or Lucifer (Latin: the Bringer of Light) but associated with the goddess.
-Similar cases exist for most of the constellations and single stars listed in MUL.APIN.</p>
-<p>In the list reproduced below, the left column gives the name of the object in the sky and the right column (in most of the cases) gives the associated deity.</p>
+Similar cases exist for most of the constellations and single stars listed in MUL.APIN.
+
+In the list reproduced below, the left column gives the name of the object in the sky and the right column (in most of the cases) gives the associated deity.
 
 ### Star Catalogue
 
-<p>The following table copies the reconstruction of the text of MUL.APIN by Hermann Hunger+ (1989, 2018),
+The following table copies the reconstruction of the text of MUL.APIN by Hermann Hunger+ (1989, 2018),
 gives translations by Manfred Krebernik (published at the Rencontre Assyriologique International, Innsbruck, 2018) and
-identifies the Akkadian words with celestial regions and constellations (work by Susanne M. Hoffmann, 2015-2018, presented at Deutsche Orientalisten-Tagung, Jena, 2017).</p>
+identifies the Akkadian words with celestial regions and constellations (work by Susanne M. Hoffmann, 2015-2018, presented at Deutsche Orientalisten-Tagung, Jena, 2017).
+
 <table cellpadding="7" cellspacing="1" style="background: transparent">
 <tbody>
 <tr valign="top" style="background: #e6e6e6; font-weight: bold">
@@ -504,32 +509,30 @@ whose name is <sup>GOD</sup>Ninurta, either in the East or in the West, where ev
 
 ### Source(s)
 
-<p>The stick figures are interpretations by Susanne M. Hoffmann based on some years of her doctoral and post-doctoral research.
+The stick figures are interpretations by Susanne M. Hoffmann based on some years of her doctoral and post-doctoral research.
 In some cases they deviate from the common identifications copied by Pingree, Hunger and other scholars since 1950 or earlier.
 Hunger's new edition of MUL.APIN (2018) allowed new insights. Some of the figures have been derived in Hoffmann's dissertation thesis
 (in the chapters on the Babylonian roots of the Greek culture: Hipparchs Himmelsglobus, Springer, 2017) and some others were developed
 during her work as director of the planetarium Königsleiten together with other, mainly German, planetariums.
 A first scientific article on visualization of two versions of the Babylonian zodiac appeared in:
 Wolfschmidt, Gudrun [ed.]: Popularisierung der Astronomie, Nuncius Hamburgensis, Hamburg, 2017.
-Further publications are in preparation (e.g. together with M. Krebernik for the proceedings of the Rencontre Assyriologique Internationale 2018). See chapter "Further Reading" below.</p>
+Further publications are in preparation (e.g. together with M. Krebernik for the proceedings of the Rencontre Assyriologique Internationale 2018). See chapter "Further Reading" below.
 
-### Sources / Further Reading
+## References
 
-<ul>
-<li>British Museum <a href="https://www.britishmuseum.org/collection/image/152339001">Image Tablet No 152339001</a></li>
-<li lang="fr" dir="ltr">Hermann Hunger and John Steele, The Babylonian astronomical compendium MUL.APIN, Routledge, London/New York 2018.</li>
-<li>Susanne M. Hoffmann: <a href="https://www.springer.com/de/book/9783658186821">Hipparchs Himmelsglobus</a>, Springer, Wiesbaden, New York, 2017.</li>
-<li>Susanne M. Hoffmann: <em>History of Constellations as popularization of uranometry</em> in: Wolfschmidt, Gudrun [ed.]: <a href="https://tredition.de/autoren/gudrun-wolfschmidt-1029/popularisierung-der-astronomie-proceedings-der-tagung-des-arbeitskreises-astronomiegeschichte-in-der-astronomischen-gesellschaft-in-bochum-2016-hardcover-91756/">Popularisierung der Astronomie</a>, Nuncius Hamburgensis, Bd. 41, Hamburg, 2017.</li>
-<li>Susanne M. Hoffmann and M. Krebernik: <em>What do deities tell us about the celestial positioning system?</em> in: Proceedings of the Rencontre Assyriologique Internationale 2018 (In preparation).</li>
-</ul>
+ - [#1]: British Museum [Image Tablet No 152339001](https://www.britishmuseum.org/collection/image/152339001)
+ - [#2]: Hermann Hunger and John Steele, The Babylonian astronomical compendium MUL.APIN, Routledge, London/New York 2018.
+ - [#3]: Susanne M. Hoffmann: [Hipparchs Himmelsglobus](https://www.springer.com/de/book/9783658186821), Springer, Wiesbaden, New York, 2017.
+ - [#4]: Susanne M. Hoffmann: *History of Constellations as popularization of uranometry* in: Wolfschmidt, Gudrun [ed.]: [Popularisierung der Astronomie](https://tredition.de/autoren/gudrun-wolfschmidt-1029/popularisierung-der-astronomie-proceedings-der-tagung-des-arbeitskreises-astronomiegeschichte-in-der-astronomischen-gesellschaft-in-bochum-2016-hardcover-91756/), Nuncius Hamburgensis, Bd. 41, Hamburg, 2017.
+ - [#5]: Susanne M. Hoffmann and M. Krebernik: *What do deities tell us about the celestial positioning system?* in: Proceedings of the Rencontre Assyriologique Internationale 2018 (In preparation).
 
 ### Fair Use
 
-<p>This sky culture originates from many years of research by several scholars. We provide this for free but authors of contributions certainly deserve to be cited according to the common rules. Thank you!</p>
+This sky culture originates from many years of research by several scholars. We provide this for free but authors of contributions certainly deserve to be cited according to the common rules. Thank you!
 
 ### Thanks to
 
-<p>The positioning of the Babylonian terms in the sky and the drawing of the stick figures for Stellarium had been done by Susanne M. Hoffmann.
+The positioning of the Babylonian terms in the sky and the drawing of the stick figures for Stellarium had been done by Susanne M. Hoffmann.
 As an astronomer she thanks for the help of several philologists and the some very enthusiastic planetarium managers for some developments in their domes.
 
  - Prof. i.R. Dr. Hermann Hunger (Assyriology, Vienna)
@@ -538,11 +541,10 @@ As an astronomer she thanks for the help of several philologists and the some ve
  - Dr. Monika Staesche (Manager of Planetarium am Insulaner, Berlin)
  - Stefan Harnisch (Manager of Planetarium Jena)
 
-</p>
-
 ## Authors
 
-<p>The Babylonian star names and constellation lines were compiled and added to Stellarium:</p>
+The Babylonian star names and constellation lines were compiled and added to Stellarium:
+
 <p><em>Susanne M. Hoffmann:   service@uhura-uraniae.com </em></p>
 <p>Paintings by: <em>Jessica Gullberg </em> (consulted by Steven Gullberg and Susanne M Hoffmann)</p>
 <p>Text in English: <em>Susanne M. Hoffmann</em></p>
