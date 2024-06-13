@@ -18,7 +18,10 @@ the English translation by Toomer (1984), reworked it in some details
 (e.g. using more literal translations from Greek instead of Latin terms that
 are common today) and we made use of computer readable tables prepared
 by Ernie Wright.</p>
-<p>The Almagest consists of 13 sections, called books. In the seventh
+
+## Description
+
+The Almagest consists of 13 sections, called books. In the seventh
 and eighth book, Ptolemy listed a total of 1022 stars in 48 constellations
 (among which are about 5 star-like objects like globular star clusters).
 It is a table of coordinates of the stars with a description of their
@@ -29,7 +32,8 @@ magnitude, a quantitative scale of stellar brightness, probably adopted
 from Hipparchus (which is not certain because Hipparchus&rsquo; catalog
 is not preserved). The scale starts with the brightest star with the
 magnitude of 1, going down to magnitude of 6, for the faintest stars
-visible.</p>
+visible.
+
 <p>For the computation of planet positions Ptolemy used a geocentric model
 (which is allowed because the observer always stands on Earth) and, thus,
 contributed to the scientific belief that the heliocentric model by
@@ -42,8 +46,6 @@ to ease the business of future globemakers by using ecliptical coordinates:
 Precession as known to Ptolemy shifts all stars parallel to the ecliptic,
 therefore updates to the epoch of the respective globemaker could be
 applied by a simple subtraction of the value for ecliptic longitude.</p>
-
-## Description
 
 ### How this sky culture was made
 
@@ -65,16 +67,18 @@ be displayed at the top of the screen.
 
 ### Constellation lines
 
-<p>The process can be described as sketched here with the example of
-Corvus:</p>
-<p>In the constellation of Corvus (Raven), &alpha; Crv is the star in
+The process can be described as sketched here with the example of
+Corvus:
+
+In the constellation of Corvus (Raven), &alpha; Crv is the star in
 the &quot;head of the raven&quot;. It is connected with the &quot;star
 in the neck&quot;, &epsilon; Crv.  This one is connected with &quot;the
 star in the breast&quot; &zeta; Crv.  From there two lines go to the
 tips of the wings. &gamma; Crv is the star in the advanced wing and
 &delta; Crv the star in the rear wing. From the star in the breast
 another line goes to the &quot;foot of the raven&quot;, the star &beta;
-Crv.</p>
+Crv.
+
 <p><img width="800" src="corvus_s.png" /></p>
 <p>After identifying the stars based on their coordinates and names, we
 reconnected the stars according to the descriptions in the table
@@ -84,9 +88,11 @@ only, e.g. Ptolemy uses the name &quot;&lambda;&alpha;&mu;&pi;&alpha;&delta;&#94
 (The Torch-like)&quot; for Aldebaran in his other work, the
 <i>Tetrabiblos</i>, but this is not implemented in this sky culture because
 it doesn't show up in the Almagest.</p>
-<p>The following table displays the original constellation name in Greek and its
+
+The following table displays the original constellation name in Greek and its
 English translation (column 2 and 3) and denotes our uncertainties in
-the reconstruction (column 6).</p>
+the reconstruction (column 6).
+
 <table>
 <tr valign="top">
 	<td><b>Abbreviation</b></td>
@@ -484,12 +490,12 @@ the reconstruction (column 6).</p>
 
 ### Fair Use
 
-<p>This sky culture originates from a student's year of research. We provide this for free but
-authors of contributions certainly deserve to be cited according to the common rules. Thank you!</p>
+This sky culture originates from a student's year of research. We provide this for free but
+authors of contributions certainly deserve to be cited according to the common rules. Thank you!
 
 ### Thanks
 
-<p>The authors thank Patrick Gleason and Georg Zotti for English proofreading and interesting discussions.</p>
+The authors thank Patrick Gleason and Georg Zotti for English proofreading and interesting discussions.
 
 ## References
 
@@ -501,8 +507,9 @@ authors of contributions certainly deserve to be cited according to the common r
 
 ## Authors
 
-<p>This sky culture was compiled and added to Stellarium by Alina Schmidt, Lea Jabschinski, Marie von Seggern and Susanne M. Hoffmann: service@uhura-uraniae.com</p>
-<p>Written in English: the authors</p>
+This sky culture was compiled and added to Stellarium by Alina Schmidt, Lea Jabschinski, Marie von Seggern and Susanne M. Hoffmann: service@uhura-uraniae.com
+
+Written in English: the authors
 
 ## License
 
