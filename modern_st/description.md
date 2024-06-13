@@ -2,26 +2,26 @@
 
 ## Introduction
 
-<p>Modern sky culture is used internationally by modern astronomers, and is the official scheme of The International Astronomical Union.  It has historical roots in Ancient Greek astronomy, with influences from Islamic astronomy.  The constellation figures and star names come from Sky & Telescope's definitions, and should be familiar to users of Sky & Telescope's Pocket Sky Atlas, Sky Atlas 2000.0, and the figures in Sky & Telescope magazine.</p>
+Modern sky culture is used internationally by modern astronomers, and is the official scheme of The International Astronomical Union. It has historical roots in Ancient Greek astronomy, with influences from Islamic astronomy. The constellation figures and star names come from Sky & Telescope's definitions, and should be familiar to users of Sky & Telescope's Pocket Sky Atlas, Sky Atlas 2000.0, and the figures in Sky & Telescope magazine.
 
 ## Description
 
 ## Constellations
 
-<p>The modern culture divides the celestial sphere into 88 areas of various sizes called <i>constellations</i>, each with precise boundary, issued by the International Astronomical Union. These constellations have become the standard way to describe the sky, replacing similar sets in other sky cultures exhaustively in daily usage.</p>
-<p>Note: the Sky & Telescope sky culture does not provide constellation lines for Microscopium or Mensa.</p>
+The modern culture divides the celestial sphere into 88 areas of various sizes called *constellations*, each with precise boundary, issued by the International Astronomical Union. These constellations have become the standard way to describe the sky, replacing similar sets in other sky cultures exhaustively in daily usage.
+
+Note: the Sky & Telescope sky culture does not provide constellation lines for Microscopium or Mensa.
 
 ### Star names
 
-<p>The method used by Sky & Telescope to determine star names is detailed in the included <i>SnT_star_names.docx</i> file.
+The method used by Sky & Telescope to determine star names is detailed in the included *SnT_star_names.docx* file.
 
-### External links
+## References
 
-<ul><li> <a href="https://www.skyandtelescope.com" class='external text' title="Sky & Telescope" rel="nofollow">Sky & Telescope</a> homepage
-</li><li> <a href="http://en.wikipedia.org/wiki/Constellation" class='external text' title="http://en.wikipedia.org/wiki/Constellation" rel="nofollow">Constellation</a> article at Wikipedia
-</li><li> <a href="http://en.wikipedia.org/wiki/Star_catalogue" class='external text' title="http://en.wikipedia.org/wiki/Star catalogue" rel="nofollow">Star Catalogue</a> article at Wikipedia
-</li><li> <a href="http://www.iau.org/public/constellations/" class='external text' title="http://www.iau.org/public/constellations" rel="nofollow">Official IAU constellation information</a>
-</li></ul>
+ - [#1]: [Sky & Telescope](https://www.skyandtelescope.com) homepage
+ - [#2]: [Constellation](http://en.wikipedia.org/wiki/Constellation) article at Wikipedia
+ - [#3]: [Star Catalogue](http://en.wikipedia.org/wiki/Star_catalogue) article at Wikipedia
+ - [#4]: [Official IAU constellation information](http://www.iau.org/public/constellations/)
 
 ## Authors
 
