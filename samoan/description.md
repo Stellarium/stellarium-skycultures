@@ -71,24 +71,63 @@ Formerly known as the *Navigator Islands*, the Samoan archipelago has been the l
   <dt><notr>ʻAniva</notr></dt><dd>("Expanse") Milky Way.</dd>
 </dl>
 
-### Constellations and Asterisms
+## Constellations
 
-<dl>
-  <dt><notr>Sumu</notr></dt><dd>("Triggerfish") Crux/Southern Cross; associated with the legend of Filo and Mea (Alpha and Beta Centauri) fishing for the Sumu.</dd>
-  <dt><notr>Faipā</notr></dt><dd>("Fishhook Lure") the entire hook shaped constellation of Scorpius; associated with the legend of ʻAloʻalolelā and the magic fishhook (pā).</dd>
-  <dt><notr>Toloa</notr></dt><dd>("Wild Duck") asterism within Faipā, representing a flying duck (head of Scorpius); associated with the legend of Suga and Pae (M4 and M80) hunting the Toloa; the duckʻs head (Antares) is recorded as having been used to sail from Pukapuka to ʻUpolu when the star was "low in the sky to the westward".</dd>
-  <dt><notr>Tūlālupe</notr></dt><dd>("Pigeon Perch") asterism within Faipā (distal tail of Scorpius); associated with the chiefly sport of pigeon snaring.</dd>
-  <dt><notr>Matāliʻi</notr></dt><dd>("Face of Liʻi") Pleiades (grouping of seven stars representing eyes, ears, nostrils, and mouth of demigod Liʻi); associated with the legend of a Tanifā (Cetus) pursuing a canoe paddled by Liʻi; acronychal rising of Matāliʻi signaled the beginning of the new year (Vāipālolo season) and ushered in the festivities of the first fruits (Talomua) during the lunar months of Taumafamua and Toetaumafa. Note: for display clarity and ease of use Matāliʻi is assigned to the star Alcyone.</dd>
-  <dt><notr>Tanifā</notr></dt><dd>("Sea Monster") Cetus (tail of Cetus is the head of Tanifā), pursuing Liʻi (Pleiades).</dd>
-  <dt><notr>Iʻofi</notr></dt><dd>("Tongs") Taurus; associated with the legend of Tiʻitiʻiatalaga/Maui.</dd>
-  <dt><notr>Amoga</notr></dt><dd>("Carrying Pole") constellation stretching from Pi-3 Orionis to Gamma Monocerotis; associated with the legend of Tiʻitiʻiatalaga; zenith star for traveling between Sāmoa and Tonga.</dd>
-  <dt><notr>Tolugāmāuli</notr></dt><dd>("Triad of Moons") asterism within Amoga (three stars of Orionʻs Belt); associated with legend of Tiʻitiʻiatalaga; noted as the "star course" to sail from Manuʻa to Pukapuka.</dd>
-  <dt><notr>ʻAnava</notr></dt><dd>("Warclub") constellation found largely within Ursa Major.</dd>
-  <dt><notr>Tiʻotala</notr></dt><dd>("Kingfisher") Delphinus; associated with the legend of the tiʻotala (kingfisher) ambushing the grasshopper (sē).</dd>
-  <dt><notr>Sē</notr></dt><dd>("Grasshopper") constellation found within Pegasus; associated with the legend of the tiʻotala (kingfisher) ambushing the grasshopper (sē).</dd>
-  <dt><notr>Tuigālama</notr></dt><dd>("Candlenut Torch") Orionʻs arm/club; associated with the legend of Tiʻitiʻiatalaga.</dd>
-  <dt><notr>Toʻivā</notr></dt><dd>("Great Adze") Sickle of Leo; associated with the legend of Tapuʻitea (Venus) and her son Toʻivāitotonuoleʻatoatufuga ("Great Adze Within the Builderʻs Tool Basket").</dd>
-</dl>
+##### <notr>Sumu</notr>
+
+("Triggerfish") Crux/Southern Cross; associated with the legend of Filo and Mea (Alpha and Beta Centauri) fishing for the Sumu.
+
+##### <notr>Faipā</notr>
+
+("Fishhook Lure") the entire hook shaped constellation of Scorpius; associated with the legend of ʻAloʻalolelā and the magic fishhook (pā).
+
+##### <notr>Toloa</notr>
+
+("Wild Duck") asterism within Faipā, representing a flying duck (head of Scorpius); associated with the legend of Suga and Pae (M4 and M80) hunting the Toloa; the duckʻs head (Antares) is recorded as having been used to sail from Pukapuka to ʻUpolu when the star was "low in the sky to the westward".
+
+##### <notr>Tūlālupe</notr>
+
+("Pigeon Perch") asterism within Faipā (distal tail of Scorpius); associated with the chiefly sport of pigeon snaring.
+
+##### <notr>Matāliʻi</notr>
+
+("Face of Liʻi") Pleiades (grouping of seven stars representing eyes, ears, nostrils, and mouth of demigod Liʻi); associated with the legend of a Tanifā (Cetus) pursuing a canoe paddled by Liʻi; acronychal rising of Matāliʻi signaled the beginning of the new year (Vāipālolo season) and ushered in the festivities of the first fruits (Talomua) during the lunar months of Taumafamua and Toetaumafa. Note: for display clarity and ease of use Matāliʻi is assigned to the star Alcyone.
+
+##### <notr>Tanifā</notr>
+
+("Sea Monster") Cetus (tail of Cetus is the head of Tanifā), pursuing Liʻi (Pleiades).
+
+##### <notr>Iʻofi</notr>
+
+("Tongs") Taurus; associated with the legend of Tiʻitiʻiatalaga/Maui.
+
+##### <notr>Amoga</notr>
+
+("Carrying Pole") constellation stretching from Pi-3 Orionis to Gamma Monocerotis; associated with the legend of Tiʻitiʻiatalaga; zenith star for traveling between Sāmoa and Tonga.
+
+##### <notr>Tolugāmāuli</notr>
+
+("Triad of Moons") asterism within Amoga (three stars of Orionʻs Belt); associated with legend of Tiʻitiʻiatalaga; noted as the "star course" to sail from Manuʻa to Pukapuka.
+
+##### <notr>ʻAnava</notr>
+
+("Warclub") constellation found largely within Ursa Major.
+
+##### <notr>Tiʻotala</notr>
+
+("Kingfisher") Delphinus; associated with the legend of the tiʻotala (kingfisher) ambushing the grasshopper (sē).
+
+##### <notr>Sē</notr>
+
+("Grasshopper") constellation found within Pegasus; associated with the legend of the tiʻotala (kingfisher) ambushing the grasshopper (sē).
+
+##### <notr>Tuigālama</notr>
+
+("Candlenut Torch") Orionʻs arm/club; associated with the legend of Tiʻitiʻiatalaga.
+
+##### <notr>Toʻivā</notr>
+
+("Great Adze") Sickle of Leo; associated with the legend of Tapuʻitea (Venus) and her son Toʻivāitotonuoleʻatoatufuga ("Great Adze Within the Builderʻs Tool Basket").
 
 ## References
 
