@@ -2,12 +2,12 @@
 
 ## Introduction
 
-<p>The Seleucid Era in Babylonian history is the era of the successors of Alexander the Great who conquered Babylon in 331 BCE. In these days MUL.APIN (already thousand years old) was still copied and, thus, appears to have developed to be an old-fashioned but not outdated standard. Moreover, there is no alternative compendium like MUL.APIN from the Late Babylonian epoch.</p>
+The Seleucid Era in Babylonian history is the era of the successors of Alexander the Great who conquered Babylon in 331 BCE. In these days MUL.APIN (already thousand years old) was still copied and, thus, appears to have developed to be an old-fashioned but not outdated standard. Moreover, there is no alternative compendium like MUL.APIN from the Late Babylonian epoch.
+
 <p>This <em>Seleucid</em> or <em>Late Babylonian sky culture</em> is supposed to show the (estimated) state of Babylonian constellations contemporary to the Greek culture. There is no description of the full sky. Changes with regard to the MUL.APIN version have certainly applied in the zodiac since several centuries. This can be stated for sure because in this time, there is a blossoming zodiacal astrology. Since there had been no zodiac in MUL.APIN and the zodiac developed around the middle of the -1st millennium, in the 2nd half of the 1st millennium BCE, there had been different versions of the constellations around the ecliptic.
  </p>
-<p>
+
  However, we do not know much about the rest of the sky. Hence, for the constellations far away from the zodiac, again the constellations of MUL.APIN can be taken as state of the art. Please see MUL.APIN sky culture for more information and use the MUL.APIN constellations for an impression of the Old Babylonian (or Middle Babylonian) sky culture.
-</p>
 
 ## Description
 
@@ -431,34 +431,33 @@
 </table>
 </p>
 
-### Further Reading
+## References
 
-<ul>
-<li lang="fr" dir="ltr">Franz Boll (1903), Sphaera. Teubner, Leipzig.</li>
-<li lang="fr" dir="ltr">Craig Crossen (2015), Sky and Telescope, March 2015, p.36-40.</li>
-<li lang="fr" dir="ltr">Hermann Hunger and David Pingree (1999), Astral Science in Mesopotamia, Brill, Leiden.</li>
-<li lang="fr" dir="ltr">Hermann Hunger and John Steele (2018), The Babylonian astronomical compendium MUL.APIN, Routledge, London/ New York.</li>
-<li>Susanne M. Hoffmann (2017), <a href="https://www.springer.com/de/book/9783658186821">Hipparchs Himmelsglobus</a>, Springer, Wiesbaden, New York.</li>
-<li>Susanne M. Hoffmann (2017), <em>History of Constellations as popularization of uranometry</em> in: Wolfschmidt, Gudrun [ed.]: <a href="https://tredition.de/autoren/gudrun-wolfschmidt-1029/popularisierung-der-astronomie-proceedings-der-tagung-des-arbeitskreises-astronomiegeschichte-in-der-astronomischen-gesellschaft-in-bochum-2016-hardcover-91756/">Popularisierung der Astronomie</a>, Nuncius Hamburgensis, Bd. 41, Hamburg.</li>
-<li>Alexander Jones (2004), “A Study of Babylonian Observations of Planets Near Normal Stars”, Archive for History of Exact Sciences.</li>
-<li lang="fr" dir="ltr">Jordi Pàmias and Klaus Geus (2007), Eratosthenes: Sternsagen (Catasterismi), Utopica, Oberhaid.</li>
-<li>many publications on <i>ziqpu</i> star lists by Wayne Horowitz, John M. Steele, E. Weidner, J. Koch, and others are compiled or/and discussed in the above books, especially the one by Hunger and Pingree (1999) which is why we do not list them in detail here.</li>
-</ul>
+ - [#1]: Franz Boll (1903), Sphaera. Teubner, Leipzig.
+ - [#2]: Craig Crossen (2015), Sky and Telescope, March 2015, p.36-40.
+ - [#3]: Hermann Hunger and David Pingree (1999), Astral Science in Mesopotamia, Brill, Leiden.
+ - [#4]: Hermann Hunger and John Steele (2018), The Babylonian astronomical compendium MUL.APIN, Routledge, London/ New York.
+ - [#5]: Susanne M. Hoffmann (2017), [Hipparchs Himmelsglobus](https://www.springer.com/de/book/9783658186821), Springer, Wiesbaden, New York.
+ - [#6]: Susanne M. Hoffmann (2017), *History of Constellations as popularization of uranometry* in: Wolfschmidt, Gudrun [ed.]: [Popularisierung der Astronomie](https://tredition.de/autoren/gudrun-wolfschmidt-1029/popularisierung-der-astronomie-proceedings-der-tagung-des-arbeitskreises-astronomiegeschichte-in-der-astronomischen-gesellschaft-in-bochum-2016-hardcover-91756/), Nuncius Hamburgensis, Bd. 41, Hamburg.
+ - [#7]: Alexander Jones (2004), “A Study of Babylonian Observations of Planets Near Normal Stars”, Archive for History of Exact Sciences.
+ - [#8]: Jordi Pàmias and Klaus Geus (2007), Eratosthenes: Sternsagen (Catasterismi), Utopica, Oberhaid.
+ - [#9]: Many publications on *ziqpu* star lists by Wayne Horowitz, John M. Steele, E. Weidner, J. Koch, and others are compiled or/and discussed in the above books, especially the one by Hunger and Pingree (1999) which is why we do not list them in detail here.
 
 ### Thanks to
 
-<p>Thanks to some very enthusiastic planetarium managers for their request and development time in their domes.
+Thanks to some very enthusiastic planetarium managers for their request and development time in their domes.
 
  - Dr. Björn Voss (Manager of LWL Planetarium Münster and head of Society of German-speaking Planetariums)
  - Stefan Harnisch (Manager of Planetarium Jena)
 
-</p>
-
 ## Authors
 
-<p>Artwork by R. Perdok, LWL Planetarium Münster (Germany) and Susanne M Hoffmann (Planetarium Königsleiten, Austria).</p>
-<p>The Babylonian star names were compiled and added to Stellarium and</p>
-<p>the Babylonian constellation lines were prepared by:</p>
+Artwork by R. Perdok, LWL Planetarium Münster (Germany) and Susanne M Hoffmann (Planetarium Königsleiten, Austria).
+
+The Babylonian star names were compiled and added to Stellarium and
+
+the Babylonian constellation lines were prepared by:
+
 <p><em>Susanne M Hoffmann:   service@uhura-uraniae.com </em></p>
 
 ## License
