@@ -2,14 +2,21 @@
 
 ## Introduction
 
-<p align="justify">Maya culture was one of the most sophisticated civilizations in the pre-columbian american continent. They developed a writing system which let them store and use their knowledge in a variety of forms: e.g. on how to perform rituals or delivering particular messages to an audience (political and sacred facts from rulers to the people, sculpted in monuments and stelae). These records allow us explore, through the laborious work of many researchers, their cosmovision and how they thought the cosmos came to be. Their knowledge was recorded in books (academically known as “codex”), like the Dresden codex (which describes the dates that Venus would pass through each of its visibility phases and also a table of lunar and solar eclipses), the Paris codex (which is believed to describe some of their constellations), the Madrid codex (which relates astronomy and agriculture data) and lately, the Grolier codex (it was thought that it was an abbreviated version of the Dresden codex, but it is not accepted yet as original by some scholars).</p>
+Maya culture was one of the most sophisticated civilizations in the pre-columbian american continent. They developed a writing system which let them store and use their knowledge in a variety of forms: e.g. on how to perform rituals or delivering particular messages to an audience (political and sacred facts from rulers to the people, sculpted in monuments and stelae). These records allow us explore, through the laborious work of many researchers, their cosmovision and how they thought the cosmos came to be. Their knowledge was recorded in books (academically known as “codex”), like the Dresden codex (which describes the dates that Venus would pass through each of its visibility phases and also a table of lunar and solar eclipses), the Paris codex (which is believed to describe some of their constellations), the Madrid codex (which relates astronomy and agriculture data) and lately, the Grolier codex (it was thought that it was an abbreviated version of the Dresden codex, but it is not accepted yet as original by some scholars).
+
+## Description
+
 <p><img src="description1030.png"/><br /><em>Page 49 of the Dresden Codex showing a section of the Venus Table.</em></p>
-<p align="justify">All mayan codices are thought to have been taken to Europe by the first explorers of the New World, as evidence of their discoveries. The Paris Codex in particular was then long forgotten, until priest Leon Rosny found it in 1859 in a chimney corner of the National Library of Paris. It has suffered substantial damage, as can be seen in page 23 shown below. In spite of this, the Paris codex describes asterisms and constellations seen by the mayas, some of them probably related to a group of zodiacal constellations (Love, 1994)(Freidel et al., 1993)(Aveni, 2005), while others do not (Špoták, 2015).</p>
+
+All mayan codices are thought to have been taken to Europe by the first explorers of the New World, as evidence of their discoveries. The Paris Codex in particular was then long forgotten, until priest Leon Rosny found it in 1859 in a chimney corner of the National Library of Paris. It has suffered substantial damage, as can be seen in page 23 shown below. In spite of this, the Paris codex describes asterisms and constellations seen by the mayas, some of them probably related to a group of zodiacal constellations (Love, 1994)(Freidel et al., 1993)(Aveni, 2005), while others do not (Špoták, 2015).
+
 <p><img src="description1028.png" width="150" height="350"/><br />
 <em>Page 23 of the Paris Codex showing some Constellations.</em></p>
-<p>
-In this approach to representing the constellations in Stellarium, we assume that are related to the ecliptic, since in the Paris codex they seem to "swallow" the Sun, so they are placed as close as possible to this line while trying to adjust the star patterns to the images of the different animals thought to represent zodiacal constellations. Other constellations are placed according to what ethnographic sources state are their most probable location.  Constellation lines were drawn trying to adjust to the images taken from the above mentioned sources and they appear according to the interpretation of the contributors of this culture.</p>
-<p>Some of the identified constellations from the Paris Codex are:</p>
+
+In this approach to representing the constellations in Stellarium, we assume that are related to the ecliptic, since in the Paris codex they seem to "swallow" the Sun, so they are placed as close as possible to this line while trying to adjust the star patterns to the images of the different animals thought to represent zodiacal constellations. Other constellations are placed according to what ethnographic sources state are their most probable location.  Constellation lines were drawn trying to adjust to the images taken from the above mentioned sources and they appear according to the interpretation of the contributors of this culture.
+
+Some of the identified constellations from the Paris Codex are:
+
 <table class="layout">
 	<tr><td colspan="2"><b>Bird <i>[Ch’oom]</i></b></td></tr>
 	<tr><td><img src="Vulture_PC.png" width="59" height="63"/></td><td>Not clearly identified, but some researchers describe it as a vulture, since it is not decorated and relates better to some ethnographic descriptions (Špoták, 2015).</td></tr>
@@ -32,13 +39,17 @@ In this approach to representing the constellations in Stellarium, we assume tha
 	<tr><td colspan="2"><b>Turtle <i>[Aak]</i></b></td></tr>
 	<tr><td><img src="Turtle_BM.png" width="59" height="50"/></td><td>The turtle was present during the creation of the world, located on the Western culture Orion's Belt asterism. This position in the sky is not really deduced from the Paris codex, but from the analysis made on the Bonampak murals, where the picture of the turtle is decorated with three points, very similar in position and orientation to Orion’s Belt, so this turtle representation has been used to place it in the Stellarium sky, instead of the one depicted in the Paris Codex.</td></tr>
 </table>
-<p>Asterisms and constellations obtained through other archaeological and ethnographic sources (such as murals and manuscripts like the <i>Popol Vuh</i>) are described below:
+<p>Asterisms and constellations obtained through other archaeological and ethnographic sources (such as murals and manuscripts like the <i>Popol Vuh</i>) are described below:</p>
 <h4><em>Hole-backed Caiman: <i>[Way Paat Ahiin] </i></em></h4>
-<p align="justify">The Milky Way in a vertical position relative to the horizon. This half-crocodile half-deer creature was sacrificed in a mythical time before the present one, an event which caused a storm of blood marking the end of the primordial chaos. On its back, the four trees -that lifted and hold the sky were placed- along with another supernatural being stepping on top of the decapitated body, thus fertilizing, founding or establishing the current order of things.</p>
+
+The Milky Way in a vertical position relative to the horizon. This half-crocodile half-deer creature was sacrificed in a mythical time before the present one, an event which caused a storm of blood marking the end of the primordial chaos. On its back, the four trees -that lifted and hold the sky were placed- along with another supernatural being stepping on top of the decapitated body, thus fertilizing, founding or establishing the current order of things.
+
 <img src="sdc.png" width="200" height="90"/>
 <h4><em>Paddler Gods: </em></h4>
-<p align="justify">This picture shows the Maize God being carried by a couple of paddler gods in a canoe to the place of creation: the Three Hearthstones (defined by the stars Alnitak, Saiph and Rigel, in the Western culture constellation Orion, and in Stellarium shown encircling the Oxib' Xk'ub', or Primordial Fire asterism), where he would be self-sacrificed for the creation of the cosmos to take place.</p>
-<p align="center"><img src="Stellarium_13.png" width="400" height="110"/>
+
+This picture shows the Maize God being carried by a couple of paddler gods in a canoe to the place of creation: the Three Hearthstones (defined by the stars Alnitak, Saiph and Rigel, in the Western culture constellation Orion, and in Stellarium shown encircling the Oxib' Xk'ub', or Primordial Fire asterism), where he would be self-sacrificed for the creation of the cosmos to take place.
+
+<p align="center"><img src="Stellarium_13.png" width="400" height="110"/></p>
 <table class="layout">
 	<tr><td colspan="2"><b>Primordial Fire: <i>[Oxib'Xk'ub] </i></b></td></tr>
 	<tr><td><img src="Stellarium_11.png" width="70" height="60"/></td><td>This fire was lighted at the moment of creation, and mayas saw its smoke represented as the Orion's nebula (M42), between three bright stars representing the three hearthstones.</td></tr>
@@ -46,11 +57,10 @@ In this approach to representing the constellations in Stellarium, we assume tha
 	<tr><td><img src="11.png" width="80" height="60"/></td><td>These pig-like animals are represented together just like the stars Castor and Pollux. The picture included in Stellarium was taken from the Bonampak mural.</td></tr>
 </table>
 
-## Description
-
 ### Stars and Planets Names
 
-<p> Maya people, just as other ancient cultures, used stars to keep track of time. The stars included in this version of Stellarium are:</p>
+ Maya people, just as other ancient cultures, used stars to keep track of time. The stars included in this version of Stellarium are:
+
 <ul>
 <li> <b>Two brilliant ones: </b><i>[kib' chuplinik]</i>, <b>Castor and Pollux</b>, used at the beginning of the dry season to track the time at night.</li>
 <li> <b>Single Star: </b><i>[jun ch'umil]</i>, <b>Regulus</b>, used in February to track the time at night.</li>
