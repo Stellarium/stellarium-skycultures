@@ -2,15 +2,13 @@
 
 ## Introduction
 
-<p>The Netwar sky culture for Stellarium stems from a research which is ran among the people of Vanuatu by Dominik M. Ramík and is <a href="http://dominicweb.eu/en/vanuatu-sky/">published online</a>. Netwar language (its indigenous name, also sometimes called "Lenakel language" after a major village in the area) is one of languages of Tanna island in Vanuatu. Its constellations are strikingly similar with other languages of Vanuatu, although names and meanings vary to some extent.</p>
+The Netwar sky culture for Stellarium stems from a research which is ran among the people of Vanuatu by Dominik M. Ramík and is [published online](http://dominicweb.eu/en/vanuatu-sky/). Netwar language (its indigenous name, also sometimes called "Lenakel language" after a major village in the area) is one of languages of Tanna island in Vanuatu. Its constellations are strikingly similar with other languages of Vanuatu, although names and meanings vary to some extent.
 
 ## Description
 
 ### Solar system
 
-<ul>
-	<li>Sun: Met</li>
-	<li>Moon: Mawuk</li>
+ <ul> <li>Sun: Met</li> <li>Moon: Mawuk</li>
 
  - Waxing crescent: Mawuk wi - 'new Moon'
  - First quarter: Nail ratuatu - 'it stays straight', meaning that in the sky the Moon appears straight in the zenith in the evening
@@ -19,14 +17,12 @@
  - Waning crescent: Numanmel
  - Lunar eclipse: Mawuk ramemes - 'dead Moon'
 
-	<li>Venus:</li>
+ <li>Venus:</li>
 
  - Morning star: Fétukai
  - Evening star: Kéwita
 
-	<li>Jupiter: Karatéi</li>
-	<li>Mahau ramiwuk: 'jumping star', bad omen foretelling someone's death</li>
-</ul>
+ <li>Jupiter: Karatéi</li> <li>Mahau ramiwuk: 'jumping star', bad omen foretelling someone's death</li> </ul>
 
 ### Stars
 
@@ -35,7 +31,7 @@
 
 ### Constellations and deep-sky objects
 
-<p>Note: the English names preceding the local names are here only to help the reader locate the particular constellation in the frame of the Western sky. The actual translations of the local names follow them.</p>
+Note: the English names preceding the local names are here only to help the reader locate the particular constellation in the frame of the Western sky. The actual translations of the local names follow them.
 
  - LMC and SMC: Nowanuman - 'earth oven'
  - Milky Way: Nemrau - 'ash'; also Nuafuganan - less common term of unknown meaning
@@ -61,8 +57,9 @@
 
 ## Authors
 
-<p>This sky culture was contributed by <i>Dominik M. Ramík</i>. Web: <a href="http://dominicweb.eu">dominicweb.eu</a>, e-mail: <a href="mailto:dominik.ramik@seznam.cz">dominik.ramik@seznam.cz</a>.</p>
-<p>Elders from local communities on Tanna, who contributed with their ancestral knowledge to this project: Jimmy Napip from Ikumhala, Lomai Tain from Ielkes, Sylvano Kapalu from Ipai, Iawilu Naumusapen from Lowkweria, Kasékasé from Imapul, Nausien from Lamlu, Pierrot Nako Yaru from Lowanatom, Joe Natuman from Lowkweria.</p>
+This sky culture was contributed by *Dominik M. Ramík*. Web: [dominicweb.eu](http://dominicweb.eu), e-mail: [dominik.ramik@seznam.cz](mailto:dominik.ramik@seznam.cz).
+
+Elders from local communities on Tanna, who contributed with their ancestral knowledge to this project: Jimmy Napip from Ikumhala, Lomai Tain from Ielkes, Sylvano Kapalu from Ipai, Iawilu Naumusapen from Lowkweria, Kasékasé from Imapul, Nausien from Lamlu, Pierrot Nako Yaru from Lowanatom, Joe Natuman from Lowkweria.
 
 ## License
 
