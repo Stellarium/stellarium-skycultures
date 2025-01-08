@@ -125,6 +125,11 @@ key `"comment"` and value containing the comment text anywhere in JSON objects
 The description.md file has to follow a somewhat strict structure.
 All level 1 and 2 titles (the ones with # or ##) are reserved.
 
+Comments can be added in the HTML form (i.e. `<!-- comment text -->`). On
+loading the comments will be blindly stripped by a regex replace with pattern
+`<!--.*?-->`. So, aside from comments, there shoudn't be any `<!--`
+anywhere, including code blocks.
+
 ```markdown
 # Sky culture name
 
