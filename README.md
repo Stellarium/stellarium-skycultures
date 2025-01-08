@@ -36,9 +36,14 @@ desktop are the following:
 
 ## JSON file content
 
-The main index.json file must have the following format:
+The main index.json file must have the following format. Note that the comments
+starting with `#` are not supported in JSON and are used here just for
+explanation. To add comments in actual JSON file you can use the property with
+key `"comment"` and value containing the comment text anywhere in JSON objects
+(some examples are given below).
 ```yaml
 {
+  "comment": "An optional comment for the file",
   # Identifier of the constellation, must match the directory name and
   # is used to generate the ids for each constellations of this sky culture.
   "id": "western",
@@ -66,6 +71,7 @@ The main index.json file must have the following format:
   # The list of constellations
   "constellations": [
     {
+      "comment": "An optional comment for this constellation",
       # Unique ID, must start with prefix "CON id" where id is the id of
       # the sky culture
       "id": "CON western Aql",
@@ -105,8 +111,9 @@ The main index.json file must have the following format:
   # be the only ones displayed in the sky. In such a case it's good to add
   # names for all main objects like planets and bright stars. 
   "common_names": {
-    "HIP 91262": [{"english": "The Old Woman"}],
-    "HIP 21421": [{"english": "Spirit of a Polar Bear"}],
+    "comment": "An optional comment for all the common names",
+    "HIP 91262": [{"english": "The Old Woman", "comment": "An optional comment for this HIP entry"}],
+    "HIP 21421": [{"english": "Spirit of a Polar Bear", "comment": "An optional comment for this HIP entry"}],
     "NAME Orion Nebula": [{"english": "Nephews or Nieces", "native": "Qangimmaariik", "description": "A group of children"}]
   },
   # Only used for western sky culture
