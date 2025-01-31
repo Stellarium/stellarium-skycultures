@@ -1,0 +1,1382 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
+"Language-Team: Japanese (https://app.transifex.com/stellarium/teams/80998/"
+"ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Sky culture name
+msgid "Modern (Sky & Telescope)"
+msgstr "現代(スカイ・アンド・テレスコープ)"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"Modern sky culture is used internationally by modern astronomers, and is the "
+"official scheme of The International Astronomical Union. It has historical "
+"roots in Ancient Greek astronomy, with influences from Islamic astronomy. "
+"The constellation figures and star names come from Sky & Telescope's "
+"definitions, and should be familiar to users of Sky & Telescope's Pocket Sky "
+"Atlas, Sky Atlas 2000.0, and the figures in Sky & Telescope magazine."
+msgstr ""
+"Modern sky culture is used internationally by modern astronomers, and is the "
+"official scheme of The International Astronomical Union. It has historical "
+"roots in Ancient Greek astronomy, with influences from Islamic astronomy. "
+"The constellation figures and star names come from Sky & Telescope's "
+"definitions, and should be familiar to users of Sky & Telescope's Pocket Sky "
+"Atlas, Sky Atlas 2000.0, and the figures in Sky & Telescope magazine."
+
+#. Sky culture constellations section in markdown format
+msgid ""
+"The modern culture divides the celestial sphere into 88 areas of various "
+"sizes called *constellations*, each with precise boundary, issued by the "
+"International Astronomical Union. These constellations have become the "
+"standard way to describe the sky, replacing similar sets in other sky "
+"cultures exhaustively in daily usage.\n"
+"\n"
+"Note: the Sky & Telescope sky culture does not provide constellation lines "
+"for Microscopium or Mensa.\n"
+"\n"
+"### Star names\n"
+"\n"
+"The method used by Sky & Telescope to determine star names is detailed in "
+"the included *SnT_star_names.docx* file."
+msgstr ""
+"The modern culture divides the celestial sphere into 88 areas of various "
+"sizes called *constellations*, each with precise boundary, issued by the "
+"International Astronomical Union. These constellations have become the "
+"standard way to describe the sky, replacing similar sets in other sky "
+"cultures exhaustively in daily usage.\n"
+"\n"
+"注:Sky & Telescopeの星の文化ではけんびきょう座とテーブルさん座の星座線は有り"
+"ません。\n"
+"\n"
+"### 星名\n"
+"\n"
+"Sky＆Telescopeが星の名前を決定するために使用する方法は、付属の"
+"*SnT_star_names.docx*ファイルで詳しく説明されています。"
+
+#. Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Sky & Telescope](https://www.skyandtelescope.com) homepage\n"
+" - [#2]: [Constellation](http://en.wikipedia.org/wiki/Constellation) article "
+"at Wikipedia\n"
+" - [#3]: [Star Catalogue](http://en.wikipedia.org/wiki/Star_catalogue) "
+"article at Wikipedia\n"
+" - [#4]: [Official IAU constellation information](http://www.iau.org/public/"
+"constellations/)"
+msgstr ""
+" - [#1]: [Sky & Telescope](https://www.skyandtelescope.com)のホームページ\n"
+" - [#2]: ウィキペディアの項目:[Constellation(星座)](http://en.wikipedia.org/"
+"wiki/Constellation)\n"
+" - [#3]: ウィキペディアの項目:[Star Catalogue(星表)](http://en.wikipedia.org/"
+"wiki/Star_catalogue)\n"
+" - [#4]: [IAUの公式星座情報(Official IAU constellation information)](http://"
+"www.iau.org/public/constellations/)"
+
+#. Modern (Sky & Telescope) constellation, native: Ursa Minor
+msgid "Ursa Minor"
+msgstr "こぐま"
+
+#. Modern (Sky & Telescope) constellation, native: Ursa Major
+msgid "Ursa Major"
+msgstr "おおぐま"
+
+#. Modern (Sky & Telescope) constellation, native: Draco
+msgid "Draco"
+msgstr "りゅう"
+
+#. Modern (Sky & Telescope) constellation, native: Cepheus
+msgid "Cepheus"
+msgstr "ケフェウス"
+
+#. Modern (Sky & Telescope) constellation, native: Bootes
+msgid "Bootes"
+msgstr "うしかい"
+
+#. Modern (Sky & Telescope) constellation, native: Corona Borealis
+msgid "Corona Borealis"
+msgstr "かんむり"
+
+#. Modern (Sky & Telescope) constellation, native: Hercules
+msgid "Hercules"
+msgstr "ヘルクレス"
+
+#. Modern (Sky & Telescope) constellation, native: Lyra
+msgid "Lyra"
+msgstr "こと"
+
+#. Modern (Sky & Telescope) constellation, native: Cygnus
+msgid "Cygnus"
+msgstr "はくちょう"
+
+#. Modern (Sky & Telescope) constellation, native: Cassiopeia
+msgid "Cassiopeia"
+msgstr "カシオペア"
+
+#. Modern (Sky & Telescope) constellation, native: Perseus
+msgid "Perseus"
+msgstr "ペルセウス"
+
+#. Modern (Sky & Telescope) constellation, native: Auriga
+msgid "Auriga"
+msgstr "ぎょしゃ"
+
+#. Modern (Sky & Telescope) constellation, native: Ophiuchus
+msgid "Ophiuchus"
+msgstr "へびつかい"
+
+#. Modern (Sky & Telescope) constellation, native: Serpens
+msgid "Serpens"
+msgstr "へび"
+
+#. Modern (Sky & Telescope) constellation, native: Sagitta
+msgid "Sagitta"
+msgstr "や"
+
+#. Modern (Sky & Telescope) constellation, native: Aquila
+msgid "Aquila"
+msgstr "わし"
+
+#. Modern (Sky & Telescope) constellation, native: Delphinus
+msgid "Delphinus"
+msgstr "いるか"
+
+#. Modern (Sky & Telescope) constellation, native: Equuleus
+msgid "Equuleus"
+msgstr "こうま"
+
+#. Modern (Sky & Telescope) constellation, native: Pegasus
+msgid "Pegasus"
+msgstr "ペガスス"
+
+#. Modern (Sky & Telescope) constellation, native: Andromeda
+msgid "Andromeda"
+msgstr "アンドロメダ"
+
+#. Modern (Sky & Telescope) constellation, native: Triangulum
+msgid "Triangulum"
+msgstr "さんかく"
+
+#. Modern (Sky & Telescope) constellation, native: Aries
+msgid "Aries"
+msgstr "おひつじ"
+
+#. Modern (Sky & Telescope) constellation, native: Taurus
+msgid "Taurus"
+msgstr "おうし"
+
+#. Modern (Sky & Telescope) constellation, native: Gemini
+msgid "Gemini"
+msgstr "ふたご"
+
+#. Modern (Sky & Telescope) constellation, native: Cancer
+msgid "Cancer"
+msgstr "かに"
+
+#. Modern (Sky & Telescope) constellation, native: Leo
+msgid "Leo"
+msgstr "しし"
+
+#. Modern (Sky & Telescope) constellation, native: Virgo
+msgid "Virgo"
+msgstr "おとめ"
+
+#. Modern (Sky & Telescope) constellation, native: Libra
+msgid "Libra"
+msgstr "てんびん"
+
+#. Modern (Sky & Telescope) constellation, native: Scorpius
+msgid "Scorpius"
+msgstr "さそり"
+
+#. Modern (Sky & Telescope) constellation, native: Sagittarius
+msgid "Sagittarius"
+msgstr "いて"
+
+#. Modern (Sky & Telescope) constellation, native: Capricornus
+msgid "Capricornus"
+msgstr "やぎ"
+
+#. Modern (Sky & Telescope) constellation, native: Aquarius
+msgid "Aquarius"
+msgstr "みずがめ"
+
+#. Modern (Sky & Telescope) constellation, native: Pisces
+msgid "Pisces"
+msgstr "うお"
+
+#. Modern (Sky & Telescope) constellation, native: Cetus
+msgid "Cetus"
+msgstr "くじら"
+
+#. Modern (Sky & Telescope) constellation, native: Orion
+msgid "Orion"
+msgstr "オリオン"
+
+#. Modern (Sky & Telescope) constellation, native: Eridanus
+msgid "Eridanus"
+msgstr "エリダヌス"
+
+#. Modern (Sky & Telescope) constellation, native: Lepus
+msgid "Lepus"
+msgstr "うさぎ"
+
+#. Modern (Sky & Telescope) constellation, native: Canis Major
+msgid "Canis Major"
+msgstr "おおいぬ"
+
+#. Modern (Sky & Telescope) constellation, native: Canis Minor
+msgid "Canis Minor"
+msgstr "こいぬ"
+
+#. Modern (Sky & Telescope) constellation, native: Hydra
+msgid "Hydra"
+msgstr "うみへび"
+
+#. Modern (Sky & Telescope) constellation, native: Crater
+msgid "Crater"
+msgstr "コップ"
+
+#. Modern (Sky & Telescope) constellation, native: Corvus
+msgid "Corvus"
+msgstr "からす"
+
+#. Modern (Sky & Telescope) constellation, native: Centaurus
+msgid "Centaurus"
+msgstr "ケンタウルス"
+
+#. Modern (Sky & Telescope) constellation, native: Lupus
+msgid "Lupus"
+msgstr "おおかみ"
+
+#. Modern (Sky & Telescope) constellation, native: Ara
+msgid "Ara"
+msgstr "さいだん"
+
+#. Modern (Sky & Telescope) constellation, native: Corona Australis
+msgid "Corona Australis"
+msgstr "みなみのかんむり"
+
+#. Modern (Sky & Telescope) constellation, native: Piscis Austrinus
+msgid "Piscis Austrinus"
+msgstr "みなみのうお"
+
+#. Name for HIP 37279
+msgid "Procyon"
+msgstr "プロキオン"
+
+#. Name for HIP 32349
+msgid "Sirius"
+msgstr "シリウス"
+
+#. Name for HIP 69673
+msgid "Arcturus"
+msgstr "アークトゥルス"
+
+#. Name for HIP 91262
+msgid "Vega"
+msgstr "ベガ"
+
+#. Name for HIP 24608
+msgid "Capella"
+msgstr "カペラ"
+
+#. Name for HIP 21421
+msgid "Aldebaran"
+msgstr "アルデバラン"
+
+#. Name for HIP 49669
+msgid "Regulus"
+msgstr "レグルス"
+
+#. Name for HIP 57632
+msgid "Denebola"
+msgstr "デネボラ"
+
+#. Name for HIP 65474
+msgid "Spica"
+msgstr "スピカ"
+
+#. Name for HIP 113368
+msgid "Fomalhaut"
+msgstr "フォーマルハウト"
+
+#. Name for HIP 27989
+msgid "Betelgeuse"
+msgstr "ベテルギウス"
+
+#. Name for HIP 24436
+msgid "Rigel"
+msgstr "リゲル"
+
+#. Name for HIP 30438
+msgid "Canopus"
+msgstr "カノープス"
+
+#. Name for HIP 25336
+msgid "Bellatrix"
+msgstr "ベラトリックス"
+
+#. Name for HIP 26727
+msgid "Alnitak"
+msgstr "アルニタク"
+
+#. Name for HIP 26311
+msgid "Alnilam"
+msgstr "アルニラム"
+
+#. Name for HIP 25930
+msgid "Mintaka"
+msgstr "ミンタカ"
+
+#. Name for HIP 7588
+msgid "Achernar"
+msgstr "アケルナル"
+
+#. Name for HIP 60718
+msgid "Acrux"
+msgstr "アクルクス"
+
+#. Name for HIP 68702
+msgid "Hadar"
+msgstr "ハダル"
+
+#. Name for HIP 80763
+msgid "Antares"
+msgstr "アンタレス"
+
+#. Modern (Sky & Telescope) constellation, native: Sculptor
+msgid "Sculptor"
+msgstr "ちょうこくしつ"
+
+#. Modern (Sky & Telescope) constellation, native: Pyxis
+msgid "Pyxis"
+msgstr "らしんばん"
+
+#. Modern (Sky & Telescope) constellation, native: Caelum
+msgid "Caelum"
+msgstr "ちょうこくぐ"
+
+#. Modern (Sky & Telescope) constellation, native: Chamaeleon
+msgid "Chamaeleon"
+msgstr "カメレオン"
+
+#. Modern (Sky & Telescope) constellation, native: Carina
+msgid "Carina"
+msgstr "りゅうこつ"
+
+#. Modern (Sky & Telescope) constellation, native: Coma Berenices
+msgid "Coma Berenices"
+msgstr "かみのけ"
+
+#. Modern (Sky & Telescope) constellation, native: Canes Venatici
+msgid "Canes Venatici"
+msgstr "りょうけん"
+
+#. Modern (Sky & Telescope) constellation, native: Columba
+msgid "Columba"
+msgstr "はと"
+
+#. Modern (Sky & Telescope) constellation, native: Circinus
+msgid "Circinus"
+msgstr "コンパス"
+
+#. Modern (Sky & Telescope) constellation, native: Crux
+msgid "Crux"
+msgstr "みなみじゅうじ"
+
+#. Modern (Sky & Telescope) constellation, native: Dorado
+msgid "Dorado"
+msgstr "かじき"
+
+#. Modern (Sky & Telescope) constellation, native: Norma
+msgid "Norma"
+msgstr "じょうぎ"
+
+#. Modern (Sky & Telescope) constellation, native: Fornax
+msgid "Fornax"
+msgstr "ろ"
+
+#. Modern (Sky & Telescope) constellation, native: Camelopardalis
+msgid "Camelopardalis"
+msgstr "きりん"
+
+#. Modern (Sky & Telescope) constellation, native: Grus
+msgid "Grus"
+msgstr "つる"
+
+#. Modern (Sky & Telescope) constellation, native: Horologium
+msgid "Horologium"
+msgstr "とけい"
+
+#. Modern (Sky & Telescope) constellation, native: Hydrus
+msgid "Hydrus"
+msgstr "みずへび"
+
+#. Modern (Sky & Telescope) constellation, native: Indus
+msgid "Indus"
+msgstr "インディアン"
+
+#. Modern (Sky & Telescope) constellation, native: Lacerta
+msgid "Lacerta"
+msgstr "とかげ"
+
+#. Modern (Sky & Telescope) constellation, native: Monoceros
+msgid "Monoceros"
+msgstr "いっかくじゅう"
+
+#. Modern (Sky & Telescope) constellation, native: Lynx
+msgid "Lynx"
+msgstr "やまねこ"
+
+#. Modern (Sky & Telescope) constellation, native: Antlia
+msgid "Antlia"
+msgstr "ポンプ"
+
+#. Modern (Sky & Telescope) constellation, native: Microscopium
+msgid "Microscopium"
+msgstr "けんびきょう"
+
+#. Modern (Sky & Telescope) constellation, native: Musca
+msgid "Musca"
+msgstr "はえ"
+
+#. Modern (Sky & Telescope) constellation, native: Octans
+msgid "Octans"
+msgstr "はちぶんぎ"
+
+#. Modern (Sky & Telescope) constellation, native: Apus
+msgid "Apus"
+msgstr "ふうちょう"
+
+#. Modern (Sky & Telescope) constellation, native: Pavo
+msgid "Pavo"
+msgstr "くじゃく"
+
+#. Modern (Sky & Telescope) constellation, native: Pictor
+msgid "Pictor"
+msgstr "がか"
+
+#. Modern (Sky & Telescope) constellation, native: Leo Minor
+msgid "Leo Minor"
+msgstr "こじし"
+
+#. Modern (Sky & Telescope) constellation, native: Vulpecula
+msgid "Vulpecula"
+msgstr "こぎつね"
+
+#. Modern (Sky & Telescope) constellation, native: Phoenix
+msgid "Phoenix"
+msgstr "ほうおう"
+
+#. Modern (Sky & Telescope) constellation, native: Volans
+msgid "Volans"
+msgstr "とびうお"
+
+#. Modern (Sky & Telescope) constellation, native: Puppis
+msgid "Puppis"
+msgstr "とも"
+
+#. Modern (Sky & Telescope) constellation, native: Reticulum
+msgid "Reticulum"
+msgstr "レチクル"
+
+#. Modern (Sky & Telescope) constellation, native: Scutum
+msgid "Scutum"
+msgstr "たて"
+
+#. Modern (Sky & Telescope) constellation, native: Sextans
+msgid "Sextans"
+msgstr "ろくぶんぎ"
+
+#. Modern (Sky & Telescope) constellation, native: Mensa
+msgid "Mensa"
+msgstr "テーブルさん"
+
+#. Modern (Sky & Telescope) constellation, native: Telescopium
+msgid "Telescopium"
+msgstr "ぼうえんきょう"
+
+#. Modern (Sky & Telescope) constellation, native: Tucana
+msgid "Tucana"
+msgstr "きょしちょう"
+
+#. Modern (Sky & Telescope) constellation, native: Triangulum Australe
+msgid "Triangulum Australe"
+msgstr "みなみのさんかく"
+
+#. Modern (Sky & Telescope) constellation, native: Vela
+msgid "Vela"
+msgstr "ほ"
+
+#. Name for HIP 677
+msgid "Alpheratz"
+msgstr "アルフェラッツ"
+
+#. Name for HIP 5447
+msgid "Mirach"
+msgstr "ミラク"
+
+#. Name for HIP 9640
+msgid "Almach"
+msgstr "アルマク"
+
+#. Name for HIP 6411
+msgid "Adhil"
+msgstr "アディル"
+
+#. Name for HIP 109074
+msgid "Sadalmelik"
+msgstr "サダルメリク"
+
+#. Name for HIP 106278
+msgid "Sadalsuud"
+msgstr "サダルスウド"
+
+#. Name for HIP 110395
+msgid "Sadachbia"
+msgstr "サドアクビア"
+
+#. Name for HIP 113136
+msgid "Skat"
+msgstr "スカット"
+
+#. Name for HIP 113881
+msgid "Scheat"
+msgstr "シェアト"
+
+#. Name for HIP 102618
+msgid "Albali"
+msgstr "アルバリ"
+
+#. Name for HIP 110003
+msgid "Ancha"
+msgstr "アンカ"
+
+#. Name for HIP 111710
+msgid "Situla"
+msgstr "シトゥラ"
+
+#. Name for HIP 97649
+msgid "Altair"
+msgstr "アルタイル"
+
+#. Name for HIP 98036
+msgid "Alshain"
+msgstr "アルシャイン"
+
+#. Name for HIP 97278
+msgid "Tarazed"
+msgstr "タラゼド"
+
+#. Name for HIP 9884
+msgid "Hamal"
+msgstr "ハマル"
+
+#. Name for HIP 8903
+msgid "Sheratan"
+msgstr "シェラタン"
+
+#. Name for HIP 8832
+msgid "Mesartim"
+msgstr "メサルティム"
+
+#. Name for HIP 14838
+msgid "Botein"
+msgstr "ボテイン"
+
+#. Name for HIP 28360
+msgid "Menkalinan"
+msgstr "メンカリナン"
+
+#. Name for HIP 73555
+msgid "Nekkar"
+msgstr "ネッカル"
+
+#. Name for HIP 71075
+msgid "Seginus"
+msgstr "セギヌス"
+
+#. Name for HIP 72105
+msgid "Izar"
+msgstr "イザル"
+
+#. Name for HIP 67927
+msgid "Muphrid"
+msgstr "ムフリド"
+
+#. Name for HIP 75411
+msgid "Alkalurops"
+msgstr "アルカルロプス"
+
+#. Name for HIP 72487
+msgid "Merga"
+msgstr "メルガ"
+
+#. Name for HIP 44066
+msgid "Acubens"
+msgstr "アクベンス"
+
+#. Name for HIP 42806
+msgid "Asellus Borealis"
+msgstr "アセルス・ボレアリス"
+
+#. Name for HIP 42911
+msgid "Asellus Australis"
+msgstr "アセルス・アウストラリス"
+
+#. Name for HIP 40167
+msgid "Tegmine"
+msgstr "テグミン"
+
+#. Name for HIP 63125
+msgid "Cor Caroli"
+msgstr "コルカロリ"
+
+#. Name for HIP 61317
+msgid "Chara"
+msgstr "カラ"
+
+#. Name for HIP 30324
+msgid "Mirzam"
+msgstr "ミルザム"
+
+#. Name for HIP 34045
+msgid "Muliphein"
+msgstr "ムリフェイン"
+
+#. Name for HIP 34444
+msgid "Wezen"
+msgstr "ウェゼン"
+
+#. Name for HIP 33579
+msgid "Adhara"
+msgstr "アダラ"
+
+#. Name for HIP 30122
+msgid "Furud"
+msgstr "フルド"
+
+#. Name for HIP 35904
+msgid "Aludra"
+msgstr "アルドラ"
+
+#. Name for HIP 36188
+msgid "Gomeisa"
+msgstr "ゴメイサ"
+
+#. Name for HIP 100064
+msgid "Algedi"
+msgstr "アルゲディ"
+
+#. Name for HIP 100345
+msgid "Dabih"
+msgstr "ダビー"
+
+#. Name for HIP 106985
+msgid "Nashira"
+msgstr "ナシラ"
+
+#. Name for HIP 107556
+msgid "Deneb Algedi"
+msgstr "デネブ・アルゲディ"
+
+#. Name for HIP 45238
+msgid "Miaplacidus"
+msgstr "ミアプラキドス"
+
+#. Name for HIP 41037
+msgid "Avior"
+msgstr "アウィオル"
+
+#. Name for HIP 45556
+msgid "Aspidiske"
+msgstr "アスピディスケ"
+
+#. Name for HIP 39757
+msgid "Tureis"
+msgstr "トゥレイス"
+
+#. Name for HIP 3179
+msgid "Schedar"
+msgstr "スケダル"
+
+#. Name for HIP 746
+msgid "Caph"
+msgstr "カフ"
+
+#. Name for HIP 6686
+msgid "Ruchbah"
+msgstr "ルクバー"
+
+#. Name for HIP 71683
+msgid "Rigil Kentaurus"
+msgstr "リギル・ケンタウルス"
+
+#. Name for HIP 70890
+msgid "Proxima Centauri"
+msgstr "プロキシマ・ケンタウリ"
+
+#. Name for HIP 61932
+msgid "Muhlifain"
+msgstr "ムフリファイン"
+
+#. Name for HIP 68933
+msgid "Menkent"
+msgstr "メンケント"
+
+#. Name for HIP 68002
+msgid "Alnair"
+msgstr "アルナイル"
+
+#. Name for HIP 105199
+msgid "Alderamin"
+msgstr "アルデラミン"
+
+#. Name for HIP 106032
+msgid "Alfirk"
+msgstr "アルフィルク"
+
+#. Name for HIP 116727
+msgid "Errai"
+msgstr "エライ"
+
+#. Name for HIP 108917
+msgid "Kurhah"
+msgstr "クラー"
+
+#. Name for HIP 14135
+msgid "Menkar"
+msgstr "メンカル"
+
+#. Name for HIP 3419
+msgid "Deneb Kaitos"
+msgstr "デネブ・カイトス"
+
+#. Name for HIP 8645
+msgid "Baten Kaitos"
+msgstr "バテン・カイトス"
+
+#. Name for HIP 10826
+msgid "Mira"
+msgstr "ミラ"
+
+#. Name for HIP 26634
+msgid "Phact"
+msgstr "ファクト"
+
+#. Name for HIP 27628
+msgid "Wazn"
+msgstr "ワズン"
+
+#. Name for HIP 76267
+msgid "Alphecca"
+msgstr "アルフェッカ"
+
+#. Name for HIP 75695
+msgid "Nusakan"
+msgstr "ヌサカン"
+
+#. Name for HIP 59199
+msgid "Alchiba"
+msgstr "アルキバ"
+
+#. Name for HIP 59803
+msgid "Gienah"
+msgstr "ギエナ"
+
+#. Name for HIP 60965
+msgid "Algorab"
+msgstr "アルゴラブ"
+
+#. Name for HIP 53740
+msgid "Alkes"
+msgstr "アルケス"
+
+#. Name for HIP 62434
+msgid "Mimosa"
+msgstr "ミモザ"
+
+#. Name for HIP 61084
+msgid "Gacrux"
+msgstr "ガクルクス"
+
+#. Name for HIP 102098
+msgid "Deneb"
+msgstr "デネブ"
+
+#. Name for HIP 95947
+msgid "Albireo"
+msgstr "アルビレオ"
+
+#. Name for HIP 100453
+msgid "Sadr"
+msgstr "サドル"
+
+#. Name for HIP 107136
+msgid "Azelfafage"
+msgstr "アゼルファファゲ"
+
+#. Name for HIP 101958
+msgid "Sualocin"
+msgstr "スワロキン"
+
+#. Name for HIP 101769
+msgid "Rotanev"
+msgstr "ロタネウ"
+
+#. Name for HIP 68756
+msgid "Thuban"
+msgstr "ツバン"
+
+#. Name for HIP 85670
+msgid "Rastaban"
+msgstr "ラスタバン"
+
+#. Name for HIP 87833
+msgid "Eltanin"
+msgstr "エルタニン"
+
+#. Name for HIP 94376
+msgid "Altais"
+msgstr "アルタイス"
+
+#. Name for HIP 75458
+msgid "Edasich"
+msgstr "エダシク"
+
+#. Name for HIP 56211
+msgid "Giausar"
+msgstr "ギャウサル"
+
+#. Name for HIP 83608
+msgid "Alrakis"
+msgstr "アルラキス"
+
+#. Name for HIP 87585
+msgid "Grumium"
+msgstr "グルミウム"
+
+#. Name for HIP 104987
+msgid "Kitalpha"
+msgstr "キタルファ"
+
+#. Name for HIP 23875
+msgid "Cursa"
+msgstr "クルサ"
+
+#. Name for HIP 18543
+msgid "Zaurak"
+msgstr "ザウラク"
+
+#. Name for HIP 15197
+msgid "Zibal"
+msgstr "ジバル"
+
+#. Name for HIP 13701
+msgid "Azha"
+msgstr "アザー"
+
+#. Name for HIP 13847
+msgid "Acamar"
+msgstr "アカマル"
+
+#. Name for HIP 19587
+msgid "Beid"
+msgstr "ベイド"
+
+#. Name for HIP 19849
+msgid "Keid"
+msgstr "ケイド"
+
+#. Name for HIP 20535
+msgid "Theemin"
+msgstr "テーミン"
+
+#. Name for HIP 36850
+msgid "Castor"
+msgstr "カストル"
+
+#. Name for HIP 37826
+msgid "Pollux"
+msgstr "ポルックス"
+
+#. Name for HIP 31681
+msgid "Alhena"
+msgstr "アルヘナ"
+
+#. Name for HIP 35550
+msgid "Wasat"
+msgstr "ワサト"
+
+#. Name for HIP 32246
+msgid "Mebsuta"
+msgstr "メブスタ"
+
+#. Name for HIP 34088
+msgid "Mekbuda"
+msgstr "メクブダ"
+
+#. Name for HIP 29655
+msgid "Propus"
+msgstr "プロプス"
+
+#. Name for HIP 30343
+msgid "Tejat"
+msgstr "タヤト"
+
+#. Name for HIP 109268
+msgid "Al Na'ir"
+msgstr "アル・ナ'イル"
+
+#. Name for HIP 84345
+msgid "Rasalgethi"
+msgstr "ラスアルゲティ"
+
+#. Name for HIP 80816
+msgid "Kornephoros"
+msgstr "コルネポロス"
+
+#. Name for HIP 79043
+msgid "Marsic"
+msgstr "マルシク"
+
+#. Name for HIP 80883
+msgid "Marfik"
+msgstr "マルフィク"
+
+#. Name for HIP 85693
+msgid "Maasym"
+msgstr "マシム"
+
+#. Name for HIP 80463
+msgid "Cujam"
+msgstr "クヤム"
+
+#. Name for HIP 46390
+msgid "Alphard"
+msgstr "アルファルド"
+
+#. Name for HIP 50583
+msgid "Algieba"
+msgstr "アルギエバ"
+
+#. Name for HIP 54872
+msgid "Zosma"
+msgstr "ゾスマ"
+
+#. Name for HIP 50335
+msgid "Adhafera"
+msgstr "アダフェラ"
+
+#. Name for HIP 54879
+msgid "Chertan"
+msgstr "シェルタン"
+
+#. Name for HIP 46750
+msgid "Alterf"
+msgstr "アルテルフ"
+
+#. Name for HIP 48455
+msgid "Rasalas"
+msgstr "ラサラス"
+
+#. Name for HIP 47508
+msgid "Subra"
+msgstr "スブラ"
+
+#. Name for HIP 25985
+msgid "Arneb"
+msgstr "アルネブ"
+
+#. Name for HIP 25606
+msgid "Nihal"
+msgstr "ニハル"
+
+#. Name for HIP 23203
+msgid "Hind's Crimson Star"
+msgstr "ハインドの深紅色星(クリムソン・スター)"
+
+#. Name for HIP 72622
+msgid "Zubenelgenubi"
+msgstr "ズベネルゲヌビ"
+
+#. Name for HIP 74785
+msgid "Zubeneschamali"
+msgstr "ズベネスカマリ"
+
+#. Name for HIP 92420
+msgid "Sheliak"
+msgstr "シェリアク"
+
+#. Name for HIP 93194
+msgid "Sulafat"
+msgstr "スラファト"
+
+#. Name for HIP 86032
+msgid "Rasalhague"
+msgstr "ラスアルハゲ"
+
+#. Name for HIP 86742
+msgid "Cebalrai"
+msgstr "ケバルライ"
+
+#. Name for HIP 79593
+msgid "Yed Prior"
+msgstr "イェッド・プリオル"
+
+#. Name for HIP 79882
+msgid "Yed Posterior"
+msgstr "イェッド・ポステリオル"
+
+#. Name for HIP 84012
+msgid "Sabik"
+msgstr "サビク"
+
+#. Name for HIP 87937
+msgid "Barnard's Star"
+msgstr "バーナード星"
+
+#. Name for HIP 27366
+msgid "Saiph"
+msgstr "サイフ"
+
+#. Name for HIP 26207
+msgid "Meissa"
+msgstr "メイサ"
+
+#. Name for HIP 100751
+msgid "Peacock"
+msgstr "ピーコック"
+
+#. Name for HIP 113963
+msgid "Markab"
+msgstr "マルカブ"
+
+#. Name for HIP 1067
+msgid "Algenib"
+msgstr "アルゲニブ"
+
+#. Name for HIP 107315
+msgid "Enif"
+msgstr "エニフ"
+
+#. Name for HIP 112029
+msgid "Homam"
+msgstr "ホマム"
+
+#. Name for HIP 112158
+msgid "Matar"
+msgstr "マタール"
+
+#. Name for HIP 109427
+msgid "Biham"
+msgstr "ビハム"
+
+#. Name for HIP 112748
+msgid "Sadalbari"
+msgstr "サダルバリ"
+
+#. Name for HIP 15863
+msgid "Mirfak"
+msgstr "ミルファク"
+
+#. Name for HIP 14576
+msgid "Algol"
+msgstr "アルゴル"
+
+#. Name for HIP 18614
+msgid "Menkib"
+msgstr "メンキブ"
+
+#. Name for HIP 17448
+msgid "Atik"
+msgstr "アティク"
+
+#. Name for HIP 2081
+msgid "Ankaa"
+msgstr "アンカー"
+
+#. Name for HIP 9487
+msgid "Alrescha"
+msgstr "アルレシャ"
+
+#. Name for HIP 39429
+msgid "Naos"
+msgstr "ナオス"
+
+#. Name for HIP 96757
+msgid "Sham"
+msgstr "シャム"
+
+#. Name for HIP 95347
+msgid "Rukbat"
+msgstr "ルクバト"
+
+#. Name for HIP 95241
+msgid "Arkab"
+msgstr "アルカブ"
+
+#. Name for HIP 88635
+msgid "Alnasl"
+msgstr "アルナスル"
+
+#. Name for HIP 89931
+msgid "Kaus Media"
+msgstr "カウス・メディア"
+
+#. Name for HIP 90185
+msgid "Kaus Australis"
+msgstr "カウス・アウストラリス"
+
+#. Name for HIP 93506
+msgid "Ascella"
+msgstr "アスケラ"
+
+#. Name for HIP 90496
+msgid "Kaus Borealis"
+msgstr "カウス・ボレアリス"
+
+#. Name for HIP 92855
+msgid "Nunki"
+msgstr "ヌンキ"
+
+#. Name for HIP 78820
+msgid "Graffias"
+msgstr "グラフィアス"
+
+#. Name for HIP 78401
+msgid "Dschubba"
+msgstr "ドゥスクッバ"
+
+#. Name for HIP 86228
+msgid "Girtab"
+msgstr "ギルタブ"
+
+#. Name for HIP 85927
+msgid "Shaula"
+msgstr "シャウラ"
+
+#. Name for HIP 80112
+msgid "Al Niyat"
+msgstr "アル・ニヤト"
+
+#. Name for HIP 85696
+msgid "Lesath"
+msgstr "レサート"
+
+#. Name for HIP 77070
+msgid "Unukalhai"
+msgstr "ウヌカルハイ"
+
+#. Name for HIP 92946
+msgid "Alya"
+msgstr "アリア"
+
+#. Name for HIP 25428
+msgid "Elnath"
+msgstr "エルナト"
+
+#. Name for HIP 20889
+msgid "Ain"
+msgstr "アイン"
+
+#. Name for HIP 17702
+msgid "Alcyone"
+msgstr "アルキオーネ"
+
+#. Name for HIP 17489
+msgid "Celaeno"
+msgstr "ケレノ"
+
+#. Name for HIP 17499
+msgid "Electra"
+msgstr "エレクトラ"
+
+#. Name for HIP 17531
+msgid "Taygeta"
+msgstr "タイゲタ"
+
+#. Name for HIP 17573
+msgid "Maia"
+msgstr "マイア"
+
+#. Name for HIP 17608
+msgid "Merope"
+msgstr "メローペ"
+
+#. Name for HIP 17847
+msgid "Atlas"
+msgstr "アトラス"
+
+#. Name for HIP 17851
+msgid "Pleione"
+msgstr "プレイオネ"
+
+#. Name for HIP 8796
+msgid "Mothallah"
+msgstr "メタラー"
+
+#. Name for HIP 82273
+msgid "Atria"
+msgstr "アトリア"
+
+#. Name for HIP 54061
+msgid "Dubhe"
+msgstr "ドゥベー"
+
+#. Name for HIP 53910
+msgid "Merak"
+msgstr "メラク"
+
+#. Name for HIP 58001
+msgid "Phecda"
+msgstr "フェクダ"
+
+#. Name for HIP 59774
+msgid "Megrez"
+msgstr "メグレズ"
+
+#. Name for HIP 62956
+msgid "Alioth"
+msgstr "アリオト"
+
+#. Name for HIP 65378
+msgid "Mizar"
+msgstr "ミザール"
+
+#. Name for HIP 65477
+msgid "Alcor"
+msgstr "アルコル"
+
+#. Name for HIP 67301
+msgid "Alkaid"
+msgstr "アルカイド"
+
+#. Name for HIP 44127
+msgid "Talitha"
+msgstr "タリタ"
+
+#. Name for HIP 50372
+msgid "Tania Borealis"
+msgstr "タニア・ボレアリス"
+
+#. Name for HIP 50801
+msgid "Tania Australis"
+msgstr "タニア・アウストラリス"
+
+#. Name for HIP 55219
+msgid "Alula Borealis"
+msgstr "アルラ・ボレアリス"
+
+#. Name for HIP 55203
+msgid "Alula Australis"
+msgstr "アルラ・アウストラリス"
+
+#. Name for HIP 41704
+msgid "Muscida"
+msgstr "ムシダ"
+
+#. Name for HIP 57939
+msgid "Groombridge 1830"
+msgstr "グルームブリッジ1830"
+
+#. Name for HIP 54035
+msgid "Lalande 21185"
+msgstr "ラランド21185"
+
+#. Name for HIP 11767
+msgid "Polaris"
+msgstr "北極星(ポラリス)"
+
+#. Name for HIP 72607
+msgid "Kochab"
+msgstr "コカブ"
+
+#. Name for HIP 75097
+msgid "Pherkad"
+msgstr "フェルカド"
+
+#. Name for HIP 85822
+msgid "Yildun"
+msgstr "イルドゥン"
+
+#. Name for HIP 39953
+msgid "Regor"
+msgstr "レゴル"
+
+#. Name for HIP 44816
+msgid "Suhail"
+msgstr "スハイル"
+
+#. Name for HIP 45941
+msgid "Markeb"
+msgstr "マルケブ"
+
+#. Name for HIP 57757
+msgid "Zavijava"
+msgstr "ザウィヤワ"
+
+#. Name for HIP 61941
+msgid "Porrima"
+msgstr "ポリマ"
+
+#. Name for HIP 63608
+msgid "Vindemiatrix"
+msgstr "ウィンデミアトリクス"
+
+#. Name for HIP 60129
+msgid "Zaniah"
+msgstr "ザニア"
+
+#. Name for HIP 69701
+msgid "Syrma"
+msgstr "シルマ"
+
+#. Name for HIP 17579
+msgid "Sterope"
+msgstr "ステローペ"
+
+#. Name for HIP 44368
+msgid "Vela X-1"
+msgstr "ほ座X-1"
+
+#. Name for HIP 59654
+msgid "Rmk 14"
+msgstr "Rmk14"
+
+#. Name for HIP 69995
+msgid "V1002"
+msgstr "V1002"
+
+#. Name for HIP 73184
+msgid "H N 28"
+msgstr "HN28"
+
+#. Name for HIP 78322
+msgid "T = Blaze Star"
+msgstr "かんむり座T(火炎星)"
+
+#. Name for HIP 105090
+msgid "Lacaille 8760"
+msgstr "ラカイユ8760"
+
+#. Name for HIP 107259
+msgid "Herschel's Garnet Star"
+msgstr "ハーシェルのガーネット・スター"
+
+#. Name for HIP 110893
+msgid "Krueger 60"
+msgstr "クリューゲル60番星"
+
+#. Name for HIP 114622
+msgid "Bradley 3077"
+msgstr "ブラッドレー3077"

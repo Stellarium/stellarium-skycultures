@@ -1,0 +1,1374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
+"Language-Team: Chinese (Taiwan) (https://app.transifex.com/stellarium/"
+"teams/80998/zh_TW/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Sky culture name
+msgid "Modern (Sky & Telescope)"
+msgstr "現代 (Sky & Telescope)"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"Modern sky culture is used internationally by modern astronomers, and is the "
+"official scheme of The International Astronomical Union. It has historical "
+"roots in Ancient Greek astronomy, with influences from Islamic astronomy. "
+"The constellation figures and star names come from Sky & Telescope's "
+"definitions, and should be familiar to users of Sky & Telescope's Pocket Sky "
+"Atlas, Sky Atlas 2000.0, and the figures in Sky & Telescope magazine."
+msgstr ""
+"現代，西方天空文化在國際上被廣泛使用, 也是國際天文聯合會的官方天空文化。它具"
+"有古希臘天文學的歷史根源，受到伊斯蘭天文學的影響。星座的連線和星名來自*天空與"
+"望遠鏡*（Sky & Telescope）雜誌的定義，*天空與望遠鏡*的*口袋星圖*（Pocket Sky "
+"Atlas），*天空地圖2000.0*（Sky Atlas2000.0），以及*天空與望遠鏡*的星座連線，"
+"用戶應該很熟悉。"
+
+#. Sky culture constellations section in markdown format
+msgid ""
+"The modern culture divides the celestial sphere into 88 areas of various "
+"sizes called *constellations*, each with precise boundary, issued by the "
+"International Astronomical Union. These constellations have become the "
+"standard way to describe the sky, replacing similar sets in other sky "
+"cultures exhaustively in daily usage.\n"
+"\n"
+"Note: the Sky & Telescope sky culture does not provide constellation lines "
+"for Microscopium or Mensa.\n"
+"\n"
+"### Star names\n"
+"\n"
+"The method used by Sky & Telescope to determine star names is detailed in "
+"the included *SnT_star_names.docx* file."
+msgstr ""
+"西方文化將天球劃分為88個不同大小的區域，稱為 *星座*,每個區域都有精確的邊界，"
+"由國際天文學聯合會發佈。 這些星座已經成為描述天空的標準方式，在日常使用中徹底"
+"取代了其他天空文化中的類似恒星集合。\n"
+"\n"
+"### 星名\n"
+"\n"
+"*天空與望遠鏡*雜誌確定星名的方法詳見*SnT_star_names.docx*文件。"
+
+#. Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Sky & Telescope](https://www.skyandtelescope.com) homepage\n"
+" - [#2]: [Constellation](http://en.wikipedia.org/wiki/Constellation) article "
+"at Wikipedia\n"
+" - [#3]: [Star Catalogue](http://en.wikipedia.org/wiki/Star_catalogue) "
+"article at Wikipedia\n"
+" - [#4]: [Official IAU constellation information](http://www.iau.org/public/"
+"constellations/)"
+msgstr ""
+" - [#1]: [Sky & Telescope](https://www.skyandtelescope.com) 主頁\n"
+" - [#2]: [星座](http://en.wikipedia.org/wiki/Constellation) 維琪百科\n"
+" - [#3]: [星表](http://en.wikipedia.org/wiki/Star_catalogue) 維琪百科\n"
+" - [#4]: [ IAU官方星座資訊](http://www.iau.org/public/constellations/)\n"
+"\n"
+"中文翻譯: Sun Shuwei and Wang Lingyi"
+
+#. Modern (Sky & Telescope) constellation, native: Ursa Minor
+msgid "Ursa Minor"
+msgstr "小熊座"
+
+#. Modern (Sky & Telescope) constellation, native: Ursa Major
+msgid "Ursa Major"
+msgstr "大熊座"
+
+#. Modern (Sky & Telescope) constellation, native: Draco
+msgid "Draco"
+msgstr "天龍座"
+
+#. Modern (Sky & Telescope) constellation, native: Cepheus
+msgid "Cepheus"
+msgstr "仙王座"
+
+#. Modern (Sky & Telescope) constellation, native: Bootes
+msgid "Bootes"
+msgstr "牧夫座"
+
+#. Modern (Sky & Telescope) constellation, native: Corona Borealis
+msgid "Corona Borealis"
+msgstr "北冕座"
+
+#. Modern (Sky & Telescope) constellation, native: Hercules
+msgid "Hercules"
+msgstr "武仙座"
+
+#. Modern (Sky & Telescope) constellation, native: Lyra
+msgid "Lyra"
+msgstr "天琴座"
+
+#. Modern (Sky & Telescope) constellation, native: Cygnus
+msgid "Cygnus"
+msgstr "天鵝座"
+
+#. Modern (Sky & Telescope) constellation, native: Cassiopeia
+msgid "Cassiopeia"
+msgstr "仙后座"
+
+#. Modern (Sky & Telescope) constellation, native: Perseus
+msgid "Perseus"
+msgstr "英仙座"
+
+#. Modern (Sky & Telescope) constellation, native: Auriga
+msgid "Auriga"
+msgstr "御夫座"
+
+#. Modern (Sky & Telescope) constellation, native: Ophiuchus
+msgid "Ophiuchus"
+msgstr "蛇夫座"
+
+#. Modern (Sky & Telescope) constellation, native: Serpens
+msgid "Serpens"
+msgstr "巨蛇座"
+
+#. Modern (Sky & Telescope) constellation, native: Sagitta
+msgid "Sagitta"
+msgstr "天箭座"
+
+#. Modern (Sky & Telescope) constellation, native: Aquila
+msgid "Aquila"
+msgstr "天鷹座"
+
+#. Modern (Sky & Telescope) constellation, native: Delphinus
+msgid "Delphinus"
+msgstr "海豚座"
+
+#. Modern (Sky & Telescope) constellation, native: Equuleus
+msgid "Equuleus"
+msgstr "小馬座"
+
+#. Modern (Sky & Telescope) constellation, native: Pegasus
+msgid "Pegasus"
+msgstr "飛馬座"
+
+#. Modern (Sky & Telescope) constellation, native: Andromeda
+msgid "Andromeda"
+msgstr "仙女座"
+
+#. Modern (Sky & Telescope) constellation, native: Triangulum
+msgid "Triangulum"
+msgstr "三角座"
+
+#. Modern (Sky & Telescope) constellation, native: Aries
+msgid "Aries"
+msgstr "白羊座"
+
+#. Modern (Sky & Telescope) constellation, native: Taurus
+msgid "Taurus"
+msgstr "金牛座"
+
+#. Modern (Sky & Telescope) constellation, native: Gemini
+msgid "Gemini"
+msgstr "雙子座"
+
+#. Modern (Sky & Telescope) constellation, native: Cancer
+msgid "Cancer"
+msgstr "巨蟹座"
+
+#. Modern (Sky & Telescope) constellation, native: Leo
+msgid "Leo"
+msgstr "獅子座"
+
+#. Modern (Sky & Telescope) constellation, native: Virgo
+msgid "Virgo"
+msgstr "室女座"
+
+#. Modern (Sky & Telescope) constellation, native: Libra
+msgid "Libra"
+msgstr "天秤座"
+
+#. Modern (Sky & Telescope) constellation, native: Scorpius
+msgid "Scorpius"
+msgstr "天蝎座"
+
+#. Modern (Sky & Telescope) constellation, native: Sagittarius
+msgid "Sagittarius"
+msgstr "人馬座"
+
+#. Modern (Sky & Telescope) constellation, native: Capricornus
+msgid "Capricornus"
+msgstr "摩羯座"
+
+#. Modern (Sky & Telescope) constellation, native: Aquarius
+msgid "Aquarius"
+msgstr "寶瓶座"
+
+#. Modern (Sky & Telescope) constellation, native: Pisces
+msgid "Pisces"
+msgstr "雙魚座"
+
+#. Modern (Sky & Telescope) constellation, native: Cetus
+msgid "Cetus"
+msgstr "鯨魚座"
+
+#. Modern (Sky & Telescope) constellation, native: Orion
+msgid "Orion"
+msgstr "獵戶座"
+
+#. Modern (Sky & Telescope) constellation, native: Eridanus
+msgid "Eridanus"
+msgstr "波江座"
+
+#. Modern (Sky & Telescope) constellation, native: Lepus
+msgid "Lepus"
+msgstr "天兔座"
+
+#. Modern (Sky & Telescope) constellation, native: Canis Major
+msgid "Canis Major"
+msgstr "大犬座"
+
+#. Modern (Sky & Telescope) constellation, native: Canis Minor
+msgid "Canis Minor"
+msgstr "小犬座"
+
+#. Modern (Sky & Telescope) constellation, native: Hydra
+msgid "Hydra"
+msgstr "長蛇座"
+
+#. Modern (Sky & Telescope) constellation, native: Crater
+msgid "Crater"
+msgstr "巨爵座"
+
+#. Modern (Sky & Telescope) constellation, native: Corvus
+msgid "Corvus"
+msgstr "烏鴉座"
+
+#. Modern (Sky & Telescope) constellation, native: Centaurus
+msgid "Centaurus"
+msgstr "半人馬座"
+
+#. Modern (Sky & Telescope) constellation, native: Lupus
+msgid "Lupus"
+msgstr "豺狼座"
+
+#. Modern (Sky & Telescope) constellation, native: Ara
+msgid "Ara"
+msgstr "天壇座"
+
+#. Modern (Sky & Telescope) constellation, native: Corona Australis
+msgid "Corona Australis"
+msgstr "南冕座"
+
+#. Modern (Sky & Telescope) constellation, native: Piscis Austrinus
+msgid "Piscis Austrinus"
+msgstr "南魚座"
+
+#. Name for HIP 37279
+msgid "Procyon"
+msgstr "Procyon (南河三)"
+
+#. Name for HIP 32349
+msgid "Sirius"
+msgstr "Sirius (天狼)"
+
+#. Name for HIP 69673
+msgid "Arcturus"
+msgstr "大角"
+
+#. Name for HIP 91262
+msgid "Vega"
+msgstr "織女一"
+
+#. Name for HIP 24608
+msgid "Capella"
+msgstr "五車二"
+
+#. Name for HIP 21421
+msgid "Aldebaran"
+msgstr "畢宿五 (Aldebaran)"
+
+#. Name for HIP 49669
+msgid "Regulus"
+msgstr "軒轅十四 (Regulus)"
+
+#. Name for HIP 57632
+msgid "Denebola"
+msgstr "五帝座一 (Denebola)"
+
+#. Name for HIP 65474
+msgid "Spica"
+msgstr "角宿一 (Spica)"
+
+#. Name for HIP 113368
+msgid "Fomalhaut"
+msgstr "北落師門 (Fomalhaut)"
+
+#. Name for HIP 27989
+msgid "Betelgeuse"
+msgstr "參宿四"
+
+#. Name for HIP 24436
+msgid "Rigel"
+msgstr "參宿七 (Rigel)"
+
+#. Name for HIP 30438
+msgid "Canopus"
+msgstr "Canopus (老人)"
+
+#. Name for HIP 25336
+msgid "Bellatrix"
+msgstr "參宿五 (Bellatrix)"
+
+#. Name for HIP 26727
+msgid "Alnitak"
+msgstr "參宿一 (Alnitak)"
+
+#. Name for HIP 26311
+msgid "Alnilam"
+msgstr "參宿二 (Alnilam)"
+
+#. Name for HIP 25930
+msgid "Mintaka"
+msgstr "參宿三 (Mintaka)"
+
+#. Name for HIP 7588
+msgid "Achernar"
+msgstr "水委一 (Achernar)"
+
+#. Name for HIP 60718
+msgid "Acrux"
+msgstr "十字架二 (Acrux)"
+
+#. Name for HIP 68702
+msgid "Hadar"
+msgstr "馬腹一 (Hadar)"
+
+#. Name for HIP 80763
+msgid "Antares"
+msgstr "心宿二 (Antares)"
+
+#. Modern (Sky & Telescope) constellation, native: Sculptor
+msgid "Sculptor"
+msgstr "玉夫座"
+
+#. Modern (Sky & Telescope) constellation, native: Pyxis
+msgid "Pyxis"
+msgstr "羅盤座"
+
+#. Modern (Sky & Telescope) constellation, native: Caelum
+msgid "Caelum"
+msgstr "雕具座"
+
+#. Modern (Sky & Telescope) constellation, native: Chamaeleon
+msgid "Chamaeleon"
+msgstr "蝘蜓座"
+
+#. Modern (Sky & Telescope) constellation, native: Carina
+msgid "Carina"
+msgstr "船底座"
+
+#. Modern (Sky & Telescope) constellation, native: Coma Berenices
+msgid "Coma Berenices"
+msgstr "后髮座"
+
+#. Modern (Sky & Telescope) constellation, native: Canes Venatici
+msgid "Canes Venatici"
+msgstr "獵犬座"
+
+#. Modern (Sky & Telescope) constellation, native: Columba
+msgid "Columba"
+msgstr "天鴿座"
+
+#. Modern (Sky & Telescope) constellation, native: Circinus
+msgid "Circinus"
+msgstr "圓規座"
+
+#. Modern (Sky & Telescope) constellation, native: Crux
+msgid "Crux"
+msgstr "南十字座"
+
+#. Modern (Sky & Telescope) constellation, native: Dorado
+msgid "Dorado"
+msgstr "劍魚座"
+
+#. Modern (Sky & Telescope) constellation, native: Norma
+msgid "Norma"
+msgstr "矩尺座"
+
+#. Modern (Sky & Telescope) constellation, native: Fornax
+msgid "Fornax"
+msgstr "天爐座"
+
+#. Modern (Sky & Telescope) constellation, native: Camelopardalis
+msgid "Camelopardalis"
+msgstr "鹿豹座"
+
+#. Modern (Sky & Telescope) constellation, native: Grus
+msgid "Grus"
+msgstr "Grus (天鶴座)"
+
+#. Modern (Sky & Telescope) constellation, native: Horologium
+msgid "Horologium"
+msgstr "時鐘座"
+
+#. Modern (Sky & Telescope) constellation, native: Hydrus
+msgid "Hydrus"
+msgstr "水蛇座"
+
+#. Modern (Sky & Telescope) constellation, native: Indus
+msgid "Indus"
+msgstr "印第安座"
+
+#. Modern (Sky & Telescope) constellation, native: Lacerta
+msgid "Lacerta"
+msgstr "蝎虎座"
+
+#. Modern (Sky & Telescope) constellation, native: Monoceros
+msgid "Monoceros"
+msgstr "麒麟座"
+
+#. Modern (Sky & Telescope) constellation, native: Lynx
+msgid "Lynx"
+msgstr "天貓座"
+
+#. Modern (Sky & Telescope) constellation, native: Antlia
+msgid "Antlia"
+msgstr "唧筒座"
+
+#. Modern (Sky & Telescope) constellation, native: Microscopium
+msgid "Microscopium"
+msgstr "顯微鏡座"
+
+#. Modern (Sky & Telescope) constellation, native: Musca
+msgid "Musca"
+msgstr "蒼蠅座"
+
+#. Modern (Sky & Telescope) constellation, native: Octans
+msgid "Octans"
+msgstr "南極座"
+
+#. Modern (Sky & Telescope) constellation, native: Apus
+msgid "Apus"
+msgstr "天燕座"
+
+#. Modern (Sky & Telescope) constellation, native: Pavo
+msgid "Pavo"
+msgstr "孔雀座"
+
+#. Modern (Sky & Telescope) constellation, native: Pictor
+msgid "Pictor"
+msgstr "繪架座"
+
+#. Modern (Sky & Telescope) constellation, native: Leo Minor
+msgid "Leo Minor"
+msgstr "小獅座"
+
+#. Modern (Sky & Telescope) constellation, native: Vulpecula
+msgid "Vulpecula"
+msgstr "狐狸座"
+
+#. Modern (Sky & Telescope) constellation, native: Phoenix
+msgid "Phoenix"
+msgstr "鳳凰座"
+
+#. Modern (Sky & Telescope) constellation, native: Volans
+msgid "Volans"
+msgstr "飛魚座"
+
+#. Modern (Sky & Telescope) constellation, native: Puppis
+msgid "Puppis"
+msgstr "船尾座"
+
+#. Modern (Sky & Telescope) constellation, native: Reticulum
+msgid "Reticulum"
+msgstr "網罟座"
+
+#. Modern (Sky & Telescope) constellation, native: Scutum
+msgid "Scutum"
+msgstr "盾牌座"
+
+#. Modern (Sky & Telescope) constellation, native: Sextans
+msgid "Sextans"
+msgstr "六分儀座"
+
+#. Modern (Sky & Telescope) constellation, native: Mensa
+msgid "Mensa"
+msgstr "山案座"
+
+#. Modern (Sky & Telescope) constellation, native: Telescopium
+msgid "Telescopium"
+msgstr "望遠鏡座"
+
+#. Modern (Sky & Telescope) constellation, native: Tucana
+msgid "Tucana"
+msgstr "杜鵑座"
+
+#. Modern (Sky & Telescope) constellation, native: Triangulum Australe
+msgid "Triangulum Australe"
+msgstr "南三角座"
+
+#. Modern (Sky & Telescope) constellation, native: Vela
+msgid "Vela"
+msgstr "船帆座"
+
+#. Name for HIP 677
+msgid "Alpheratz"
+msgstr "壁宿二 (Alpheratz)"
+
+#. Name for HIP 5447
+msgid "Mirach"
+msgstr "奎宿九 (Mirach)"
+
+#. Name for HIP 9640
+msgid "Almach"
+msgstr "天大將軍一 (Almach)"
+
+#. Name for HIP 6411
+msgid "Adhil"
+msgstr "天大將軍增一 (Adhil)"
+
+#. Name for HIP 109074
+msgid "Sadalmelik"
+msgstr "危宿一 (Sadalmelik)"
+
+#. Name for HIP 106278
+msgid "Sadalsuud"
+msgstr "虛宿一 (Sadalsuud)"
+
+#. Name for HIP 110395
+msgid "Sadachbia"
+msgstr "墳墓二 (Sadachbia)"
+
+#. Name for HIP 113136
+msgid "Skat"
+msgstr "羽林軍二十六 (Skat)"
+
+#. Name for HIP 113881
+msgid "Scheat"
+msgstr "室宿二 (Scheat)"
+
+#. Name for HIP 102618
+msgid "Albali"
+msgstr "女宿一 (Albali)"
+
+#. Name for HIP 110003
+msgid "Ancha"
+msgstr "泣二 (Ancha)"
+
+#. Name for HIP 111710
+msgid "Situla"
+msgstr "虛梁三 (Situla)"
+
+#. Name for HIP 97649
+msgid "Altair"
+msgstr "河鼓二(牛郎)"
+
+#. Name for HIP 98036
+msgid "Alshain"
+msgstr "河鼓一 (Alshain)"
+
+#. Name for HIP 97278
+msgid "Tarazed"
+msgstr "河鼓三 (Tarazed)"
+
+#. Name for HIP 9884
+msgid "Hamal"
+msgstr "婁宿三 (Hamal)"
+
+#. Name for HIP 8903
+msgid "Sheratan"
+msgstr "婁宿一 (Sheratan)"
+
+#. Name for HIP 8832
+msgid "Mesartim"
+msgstr "婁宿二 Mesartim"
+
+#. Name for HIP 14838
+msgid "Botein"
+msgstr "天陰四 (Botein)"
+
+#. Name for HIP 28360
+msgid "Menkalinan"
+msgstr "五車三 (Menkalinan)"
+
+#. Name for HIP 73555
+msgid "Nekkar"
+msgstr "七公增五 (Nekkar)"
+
+#. Name for HIP 71075
+msgid "Seginus"
+msgstr "招搖 (Seginus)"
+
+#. Name for HIP 72105
+msgid "Izar"
+msgstr "梗河一 (Izar)"
+
+#. Name for HIP 67927
+msgid "Muphrid"
+msgstr "右攝提一 (Muphrid)"
+
+#. Name for HIP 75411
+msgid "Alkalurops"
+msgstr "七公六 (Alkalurops)"
+
+#. Name for HIP 72487
+msgid "Merga"
+msgstr "元戈增二 (Merga)"
+
+#. Name for HIP 44066
+msgid "Acubens"
+msgstr "柳宿增三 (Acubens)"
+
+#. Name for HIP 42806
+msgid "Asellus Borealis"
+msgstr "鬼宿三 (Asellus Borealis)"
+
+#. Name for HIP 42911
+msgid "Asellus Australis"
+msgstr "鬼宿四 (Asellus Australis)"
+
+#. Name for HIP 40167
+msgid "Tegmine"
+msgstr "水位四 (Tegmine)"
+
+#. Name for HIP 63125
+msgid "Cor Caroli"
+msgstr "常陳一 (Cor Caroli)"
+
+#. Name for HIP 61317
+msgid "Chara"
+msgstr "常陳四 (Chara)"
+
+#. Name for HIP 30324
+msgid "Mirzam"
+msgstr "軍市一 (Mirzam)"
+
+#. Name for HIP 34045
+msgid "Muliphein"
+msgstr "天狼增四 (Muliphein)"
+
+#. Name for HIP 34444
+msgid "Wezen"
+msgstr "弧矢一 (Wezen)"
+
+#. Name for HIP 33579
+msgid "Adhara"
+msgstr "弧矢七 (Adhara)"
+
+#. Name for HIP 30122
+msgid "Furud"
+msgstr "孫增一 (Furud)"
+
+#. Name for HIP 35904
+msgid "Aludra"
+msgstr "弧矢二 (Aludra)"
+
+#. Name for HIP 36188
+msgid "Gomeisa"
+msgstr "南河二 (Gomeisa)"
+
+#. Name for HIP 100064
+msgid "Algedi"
+msgstr "牛宿二"
+
+#. Name for HIP 100345
+msgid "Dabih"
+msgstr "牛宿一 (Dabih)"
+
+#. Name for HIP 106985
+msgid "Nashira"
+msgstr "壘壁陣三 (Nashira)"
+
+#. Name for HIP 107556
+msgid "Deneb Algedi"
+msgstr "壘壁陣四 (Deneb Algedi)"
+
+#. Name for HIP 45238
+msgid "Miaplacidus"
+msgstr "南船五 (Miaplacidus)"
+
+#. Name for HIP 41037
+msgid "Avior"
+msgstr "海石一 (Avior)"
+
+#. Name for HIP 45556
+msgid "Aspidiske"
+msgstr "海石二 (Aspidiske)"
+
+#. Name for HIP 39757
+msgid "Tureis"
+msgstr "弧矢增三十二 (Tureis)"
+
+#. Name for HIP 3179
+msgid "Schedar"
+msgstr "王良四 Schedar"
+
+#. Name for HIP 746
+msgid "Caph"
+msgstr "王良一 (Caph)"
+
+#. Name for HIP 6686
+msgid "Ruchbah"
+msgstr "閣道三 (Ruchbah)"
+
+#. Name for HIP 71683
+msgid "Rigil Kentaurus"
+msgstr "南門二 (Rigil Kentaurus)"
+
+#. Name for HIP 70890
+msgid "Proxima Centauri"
+msgstr "Proxima Centauri"
+
+#. Name for HIP 61932
+msgid "Muhlifain"
+msgstr "庫樓七 (Muhlifain)"
+
+#. Name for HIP 68933
+msgid "Menkent"
+msgstr "庫樓三 (Menkent)"
+
+#. Name for HIP 68002
+msgid "Alnair"
+msgstr "鶴一 (Alnair)"
+
+#. Name for HIP 105199
+msgid "Alderamin"
+msgstr "天鉤五 (Alderamin)"
+
+#. Name for HIP 106032
+msgid "Alfirk"
+msgstr "上衛增一 (Alfirk)"
+
+#. Name for HIP 116727
+msgid "Errai"
+msgstr "少衛增八 (Errai)"
+
+#. Name for HIP 108917
+msgid "Kurhah"
+msgstr "天鉤六 (Kurhah)"
+
+#. Name for HIP 14135
+msgid "Menkar"
+msgstr "天囷一 (Menkar)"
+
+#. Name for HIP 3419
+msgid "Deneb Kaitos"
+msgstr "Deneb Kaitos"
+
+#. Name for HIP 8645
+msgid "Baten Kaitos"
+msgstr "天倉四 (Baten Kaitos)"
+
+#. Name for HIP 10826
+msgid "Mira"
+msgstr "蒭藁增二 (Mira)"
+
+#. Name for HIP 26634
+msgid "Phact"
+msgstr "丈人一 (Phact)"
+
+#. Name for HIP 27628
+msgid "Wazn"
+msgstr "子二 (Wazn)"
+
+#. Name for HIP 76267
+msgid "Alphecca"
+msgstr "貫索四 (Alphecca)"
+
+#. Name for HIP 75695
+msgid "Nusakan"
+msgstr "貫索三 (Nusakan)"
+
+#. Name for HIP 59199
+msgid "Alchiba"
+msgstr "右轄 (Alchiba)"
+
+#. Name for HIP 59803
+msgid "Gienah"
+msgstr "軫宿一 (Gienah)"
+
+#. Name for HIP 60965
+msgid "Algorab"
+msgstr "軫宿三 (Algorab)"
+
+#. Name for HIP 53740
+msgid "Alkes"
+msgstr "翼宿一 (Alkes)"
+
+#. Name for HIP 62434
+msgid "Mimosa"
+msgstr "十字架三 (Mimosa)"
+
+#. Name for HIP 61084
+msgid "Gacrux"
+msgstr "十字架一 (Gacrux)"
+
+#. Name for HIP 102098
+msgid "Deneb"
+msgstr "天津四"
+
+#. Name for HIP 95947
+msgid "Albireo"
+msgstr "輦道增七 (Albireo)"
+
+#. Name for HIP 100453
+msgid "Sadr"
+msgstr "天津一 (Sadr)"
+
+#. Name for HIP 107136
+msgid "Azelfafage"
+msgstr "螣蛇四 (Azelfafage)"
+
+#. Name for HIP 101958
+msgid "Sualocin"
+msgstr "瓠瓜一 (Sualocin)"
+
+#. Name for HIP 101769
+msgid "Rotanev"
+msgstr "瓠瓜四 (Rotanev)"
+
+#. Name for HIP 68756
+msgid "Thuban"
+msgstr "右樞[紫微右垣一] (Thuban)"
+
+#. Name for HIP 85670
+msgid "Rastaban"
+msgstr "天棓三 (Rastaban)"
+
+#. Name for HIP 87833
+msgid "Eltanin"
+msgstr "天棓四 (Eltanin)"
+
+#. Name for HIP 94376
+msgid "Altais"
+msgstr "天廚一 (Altais)"
+
+#. Name for HIP 75458
+msgid "Edasich"
+msgstr "左樞[紫微左垣一] (Edasich)"
+
+#. Name for HIP 56211
+msgid "Giausar"
+msgstr "上輔 (Giausar)"
+
+#. Name for HIP 83608
+msgid "Alrakis"
+msgstr "天棓增九 (Alrakis)"
+
+#. Name for HIP 87585
+msgid "Grumium"
+msgstr "天棓一 (Grumium)"
+
+#. Name for HIP 104987
+msgid "Kitalpha"
+msgstr "虛宿二 (Kitalpha)"
+
+#. Name for HIP 23875
+msgid "Cursa"
+msgstr "玉井三 (Cursa)"
+
+#. Name for HIP 18543
+msgid "Zaurak"
+msgstr "天苑一 (Zaurak)"
+
+#. Name for HIP 15197
+msgid "Zibal"
+msgstr "天苑五 (Zibal)"
+
+#. Name for HIP 13701
+msgid "Azha"
+msgstr "天苑六 (Azha)"
+
+#. Name for HIP 13847
+msgid "Acamar"
+msgstr "天園六 (Acamar)"
+
+#. Name for HIP 19587
+msgid "Beid"
+msgstr "九州殊口二 (Beid)"
+
+#. Name for HIP 19849
+msgid "Keid"
+msgstr "九州殊口增七 (keid)"
+
+#. Name for HIP 20535
+msgid "Theemin"
+msgstr "天園十二 (Theemin)"
+
+#. Name for HIP 36850
+msgid "Castor"
+msgstr "北河二 (Castor)"
+
+#. Name for HIP 37826
+msgid "Pollux"
+msgstr "北河三 (Pollux)"
+
+#. Name for HIP 31681
+msgid "Alhena"
+msgstr "井宿三 (Alhena)"
+
+#. Name for HIP 35550
+msgid "Wasat"
+msgstr "天罇二 (Wasat)"
+
+#. Name for HIP 32246
+msgid "Mebsuta"
+msgstr "井宿五 (Mebsuta)"
+
+#. Name for HIP 34088
+msgid "Mekbuda"
+msgstr "井宿七 (Mekbuda)"
+
+#. Name for HIP 29655
+msgid "Propus"
+msgstr "鉞 (Propus)"
+
+#. Name for HIP 30343
+msgid "Tejat"
+msgstr "井宿一 (Tejat)"
+
+#. Name for HIP 109268
+msgid "Al Na'ir"
+msgstr "Al Na'ir"
+
+#. Name for HIP 84345
+msgid "Rasalgethi"
+msgstr "帝座 (Rasalgethi)"
+
+#. Name for HIP 80816
+msgid "Kornephoros"
+msgstr "河中[天市右垣一] (Kornephoros)"
+
+#. Name for HIP 79043
+msgid "Marsic"
+msgstr "晉[天市右垣三] (Marsic)"
+
+#. Name for HIP 80883
+msgid "Marfik"
+msgstr "列肆二 (Marfik)"
+
+#. Name for HIP 85693
+msgid "Maasym"
+msgstr "趙[天市左垣二] (Maasym)"
+
+#. Name for HIP 80463
+msgid "Cujam"
+msgstr "斗一 (Cujam)"
+
+#. Name for HIP 46390
+msgid "Alphard"
+msgstr "星宿一 (Alphard)"
+
+#. Name for HIP 50583
+msgid "Algieba"
+msgstr "軒轅十二 (Algieba)"
+
+#. Name for HIP 54872
+msgid "Zosma"
+msgstr "西上相[太微右垣五] (Zosma)"
+
+#. Name for HIP 50335
+msgid "Adhafera"
+msgstr "軒轅十一 (Adhafera)"
+
+#. Name for HIP 54879
+msgid "Chertan"
+msgstr "西次相[太微右垣四] (Chertan)"
+
+#. Name for HIP 46750
+msgid "Alterf"
+msgstr "軒轅八 (Alterf)"
+
+#. Name for HIP 48455
+msgid "Rasalas"
+msgstr "軒轅十 (Rasalas)"
+
+#. Name for HIP 47508
+msgid "Subra"
+msgstr "軒轅十五 (Subra)"
+
+#. Name for HIP 25985
+msgid "Arneb"
+msgstr "廁一 (Arneb)"
+
+#. Name for HIP 25606
+msgid "Nihal"
+msgstr "廁二 (Nihal)"
+
+#. Name for HIP 23203
+msgid "Hind's Crimson Star"
+msgstr "Hind 深紅星"
+
+#. Name for HIP 72622
+msgid "Zubenelgenubi"
+msgstr "氐宿一"
+
+#. Name for HIP 74785
+msgid "Zubeneschamali"
+msgstr "氐宿四 (Zubeneschamali)"
+
+#. Name for HIP 92420
+msgid "Sheliak"
+msgstr "漸台二 (Sheliak)"
+
+#. Name for HIP 93194
+msgid "Sulafat"
+msgstr "漸台三 (Sulafat)"
+
+#. Name for HIP 86032
+msgid "Rasalhague"
+msgstr "候 (Rasalhague)"
+
+#. Name for HIP 86742
+msgid "Cebalrai"
+msgstr "宗正一 (Cebalrai)"
+
+#. Name for HIP 79593
+msgid "Yed Prior"
+msgstr "梁[天市右垣九] (Yed Prior)"
+
+#. Name for HIP 79882
+msgid "Yed Posterior"
+msgstr "楚[天市右垣十] (Yed Posterior)"
+
+#. Name for HIP 84012
+msgid "Sabik"
+msgstr "宋[天市左垣十一] (Sabik)"
+
+#. Name for HIP 87937
+msgid "Barnard's Star"
+msgstr "巴納德 (Barnard) 星"
+
+#. Name for HIP 27366
+msgid "Saiph"
+msgstr "參宿六 (Saiph)"
+
+#. Name for HIP 26207
+msgid "Meissa"
+msgstr "觜宿一 (Meissa)"
+
+#. Name for HIP 100751
+msgid "Peacock"
+msgstr "孔雀十一 (Peacock)"
+
+#. Name for HIP 113963
+msgid "Markab"
+msgstr "室宿一 (Markab)"
+
+#. Name for HIP 1067
+msgid "Algenib"
+msgstr "壁宿一 (Algenib)"
+
+#. Name for HIP 107315
+msgid "Enif"
+msgstr "危宿三 (Enif)"
+
+#. Name for HIP 112029
+msgid "Homam"
+msgstr "雷電一 (Homam)"
+
+#. Name for HIP 112158
+msgid "Matar"
+msgstr "離宮四 (Matar)"
+
+#. Name for HIP 109427
+msgid "Biham"
+msgstr "危宿二 (Biham)"
+
+#. Name for HIP 112748
+msgid "Sadalbari"
+msgstr "離宮二 (Sadalbari)"
+
+#. Name for HIP 15863
+msgid "Mirfak"
+msgstr "天船三 (Mirfak)"
+
+#. Name for HIP 14576
+msgid "Algol"
+msgstr "大陵五 (Algol)"
+
+#. Name for HIP 18614
+msgid "Menkib"
+msgstr "卷舌三 (Menkib)"
+
+#. Name for HIP 17448
+msgid "Atik"
+msgstr "卷舌四 (Atik)"
+
+#. Name for HIP 2081
+msgid "Ankaa"
+msgstr "火鳥六 (Ankaa)"
+
+#. Name for HIP 9487
+msgid "Alrescha"
+msgstr "外屏七 (Alrescha)"
+
+#. Name for HIP 39429
+msgid "Naos"
+msgstr "弧矢增二十二 (Naos)"
+
+#. Name for HIP 96757
+msgid "Sham"
+msgstr "左旗一 (Sham)"
+
+#. Name for HIP 95347
+msgid "Rukbat"
+msgstr "天淵三 (Rukbat)"
+
+#. Name for HIP 95241
+msgid "Arkab"
+msgstr "Arkab"
+
+#. Name for HIP 88635
+msgid "Alnasl"
+msgstr "箕宿一 (Alnasl)"
+
+#. Name for HIP 89931
+msgid "Kaus Media"
+msgstr "箕宿二 (Kaus Media)"
+
+#. Name for HIP 90185
+msgid "Kaus Australis"
+msgstr "箕宿三 (Kaus Australis)"
+
+#. Name for HIP 93506
+msgid "Ascella"
+msgstr "斗宿六 (Ascella)"
+
+#. Name for HIP 90496
+msgid "Kaus Borealis"
+msgstr "斗宿二 (Kaus Borealis)"
+
+#. Name for HIP 92855
+msgid "Nunki"
+msgstr "斗宿四 (Nunki)"
+
+#. Name for HIP 78820
+msgid "Graffias"
+msgstr "Graffias"
+
+#. Name for HIP 78401
+msgid "Dschubba"
+msgstr "房宿三 (Dschubba)"
+
+#. Name for HIP 86228
+msgid "Girtab"
+msgstr "尾宿六 (Girtab)"
+
+#. Name for HIP 85927
+msgid "Shaula"
+msgstr "尾宿八 (Shaula)"
+
+#. Name for HIP 80112
+msgid "Al Niyat"
+msgstr "Al Niyat"
+
+#. Name for HIP 85696
+msgid "Lesath"
+msgstr "尾宿九 (Lesath)"
+
+#. Name for HIP 77070
+msgid "Unukalhai"
+msgstr "蜀[天市右垣七] (Unukalhai)"
+
+#. Name for HIP 92946
+msgid "Alya"
+msgstr "徐[天市左垣七] (Alya)"
+
+#. Name for HIP 25428
+msgid "Elnath"
+msgstr "五車五 (Elnath)"
+
+#. Name for HIP 20889
+msgid "Ain"
+msgstr "畢宿一 (Ain)"
+
+#. Name for HIP 17702
+msgid "Alcyone"
+msgstr "昴宿六 (Alcyone)"
+
+#. Name for HIP 17489
+msgid "Celaeno"
+msgstr "昴宿增六 (Celaeno)"
+
+#. Name for HIP 17499
+msgid "Electra"
+msgstr "昴宿一 (Electra)"
+
+#. Name for HIP 17531
+msgid "Taygeta"
+msgstr "昴宿二 (Taygeta)"
+
+#. Name for HIP 17573
+msgid "Maia"
+msgstr "昴宿四 (Maia)"
+
+#. Name for HIP 17608
+msgid "Merope"
+msgstr "昴宿五 (Merope)"
+
+#. Name for HIP 17847
+msgid "Atlas"
+msgstr "昴宿七 (Atlas)"
+
+#. Name for HIP 17851
+msgid "Pleione"
+msgstr "昴宿增十二 (Pleione)"
+
+#. Name for HIP 8796
+msgid "Mothallah"
+msgstr "婁宿增六 (Mothallah)"
+
+#. Name for HIP 82273
+msgid "Atria"
+msgstr "三角形三 (Atria)"
+
+#. Name for HIP 54061
+msgid "Dubhe"
+msgstr "天樞[北斗一] (Dubhe)"
+
+#. Name for HIP 53910
+msgid "Merak"
+msgstr "天璇[北斗二] (Merak)"
+
+#. Name for HIP 58001
+msgid "Phecda"
+msgstr "天璣[北斗三] (Phecda)"
+
+#. Name for HIP 59774
+msgid "Megrez"
+msgstr "天權[北斗四] (Megrez)"
+
+#. Name for HIP 62956
+msgid "Alioth"
+msgstr "玉衡[北斗五] (Alioth)"
+
+#. Name for HIP 65378
+msgid "Mizar"
+msgstr "開陽[北斗六] (Mizar)"
+
+#. Name for HIP 65477
+msgid "Alcor"
+msgstr "輔 (Alcor)"
+
+#. Name for HIP 67301
+msgid "Alkaid"
+msgstr "搖光[北斗七] (Alkaid)"
+
+#. Name for HIP 44127
+msgid "Talitha"
+msgstr "上台一[三台一] (Talitha)"
+
+#. Name for HIP 50372
+msgid "Tania Borealis"
+msgstr "中台一[三台三] (Tania Borealis)"
+
+#. Name for HIP 50801
+msgid "Tania Australis"
+msgstr "中台二[三台四] (Tania Australis)"
+
+#. Name for HIP 55219
+msgid "Alula Borealis"
+msgstr "下台一[三台五] (Alula Borealis)"
+
+#. Name for HIP 55203
+msgid "Alula Australis"
+msgstr "下台二[三台六] (Alula Australis)"
+
+#. Name for HIP 41704
+msgid "Muscida"
+msgstr "內階一 (Muscida)"
+
+#. Name for HIP 57939
+msgid "Groombridge 1830"
+msgstr "Groombridge 1830"
+
+#. Name for HIP 54035
+msgid "Lalande 21185"
+msgstr "拉蘭德 (Lalande) 21185"
+
+#. Name for HIP 11767
+msgid "Polaris"
+msgstr "勾陳一[北極星] (Polaris)"
+
+#. Name for HIP 72607
+msgid "Kochab"
+msgstr "帝[北極二] (Kochab)"
+
+#. Name for HIP 75097
+msgid "Pherkad"
+msgstr "太子[北極一] (Pherkad)"
+
+#. Name for HIP 85822
+msgid "Yildun"
+msgstr "勾陳二 (Yildun)"
+
+#. Name for HIP 39953
+msgid "Regor"
+msgstr "天社一 (Regor)"
+
+#. Name for HIP 44816
+msgid "Suhail"
+msgstr "天記 (Suhail)"
+
+#. Name for HIP 45941
+msgid "Markeb"
+msgstr "天社五 (Markeb)"
+
+#. Name for HIP 57757
+msgid "Zavijava"
+msgstr "右執法 (Zavijava)"
+
+#. Name for HIP 61941
+msgid "Porrima"
+msgstr "東上相[太微左垣二] (Porrima)"
+
+#. Name for HIP 63608
+msgid "Vindemiatrix"
+msgstr "東次將[太微左垣四] (Vindemiatrix)"
+
+#. Name for HIP 60129
+msgid "Zaniah"
+msgstr "左執法[太微左垣一] (Zaniah)"
+
+#. Name for HIP 69701
+msgid "Syrma"
+msgstr "亢宿二 (Syrma)"
+
+#. Name for HIP 17579
+msgid "Sterope"
+msgstr "昴宿三 Sterope"
+
+#. Name for HIP 44368
+msgid "Vela X-1"
+msgstr "船帆座 X-1"
+
+#. Name for HIP 59654
+msgid "Rmk 14"
+msgstr "Rmk 14"
+
+#. Name for HIP 69995
+msgid "V1002"
+msgstr "V1002"
+
+#. Name for HIP 73184
+msgid "H N 28"
+msgstr "H N 28"
+
+#. Name for HIP 78322
+msgid "T = Blaze Star"
+msgstr "T = Blaze 星"
+
+#. Name for HIP 105090
+msgid "Lacaille 8760"
+msgstr "拉卡伊 Lacaille 8760"
+
+#. Name for HIP 107259
+msgid "Herschel's Garnet Star"
+msgstr "赫歇爾的石榴石星"
+
+#. Name for HIP 110893
+msgid "Krueger 60"
+msgstr "Krueger 60"
+
+#. Name for HIP 114622
+msgid "Bradley 3077"
+msgstr "布萊得雷 3077"
