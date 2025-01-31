@@ -1,0 +1,4724 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
+"Language-Team: Spanish (https://app.transifex.com/stellarium/teams/80998/"
+"es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
+
+#. Sky culture name
+msgid "Greek (Almagest)"
+msgstr "Griego (Almagesto)"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"<p>This ancient Greek sky culture is compiled in a book that is today known "
+"by its Arabic title \"Almagest\".\n"
+"This book was written in Roman time (under the reign of Roman emperor "
+"Hadrian) at Alexandria (Africa) in\n"
+"Greek language, with dates given in Egyptian month names and years counted "
+"after a Babylonian king,\n"
+"so it is clearly a multi-cultural compendium of knowledge. It is a "
+"compilation of\n"
+"astronomical knowledge of former astronomers including results from\n"
+"observations and mathematical astronomy. Pieced together by Claudius\n"
+"Ptolemy, using older, as well as his own, observations, it was written\n"
+"in Greek, published in the Second Century and remained the main\n"
+"astronomical work for the following 1500 years. It was originally written\n"
+"with the title <i>Mathematike Syntaxis</i>, in Ancient Greek.\n"
+"The name <i>Almagest</i>, meaning &ldquo;The Largest [Book]&rdquo;, was\n"
+"developed from Arabian translations. To create this sky culture we used\n"
+"the English translation by Toomer (1984), reworked it in some details\n"
+"(e.g. using more literal translations from Greek instead of Latin terms "
+"that\n"
+"are common today) and we made use of computer readable tables prepared\n"
+"by Ernie Wright.</p>"
+msgstr ""
+"<p>Esta antigua cultura estelar griega está recopilada en un libro conocido\n"
+"actualmente como \"Almagesto\". Este libro fue escrito en la época romana\n"
+"(bajo el reinado del emperador Adriano) en Alejandría (África) en idioma\n"
+"griego, con fechas dadas en nombres de meses egipcios y años contados\n"
+"después del rey de Babilonia, así que claramente es un compendio de\n"
+"conocimiento multicultural. Es una recopilación de conocimientos\n"
+"astronómicos de ex astrónomos que incluye resultados de observaciones y\n"
+"astronomía matemática. Compuesto por Claudio Ptolomeo, utilizando\n"
+"observaciones antiguas, así como las suyas, fue escrito en griego, "
+"publicado\n"
+"en el siglo II y siguió siendo el principal trabajo astronómico durante los\n"
+"siguientes 1500 años. Originalmente fue escrito con el título "
+"<i>Mathematike\n"
+"Syntaxis</i>, en griego antiguo. El nombre <i>Almagesto</i>, que significa\n"
+"\"El más grande [Libro]\", fue desarrollado a partir de traducciones\n"
+"árabes. Para crear esta cultura estelar, usamos la traducción al inglés de\n"
+"Toomer (1984), la reelaboramos en algunos detalles (por ejemplo, usando\n"
+"traducciones más literales del griego en lugar de los términos latinos que\n"
+"son comunes hoy en día) y usamos tablas legibles por computadora preparadas\n"
+"por Ernie Wright.</p>"
+
+#. Sky culture description section in markdown format
+msgid ""
+"The Almagest consists of 13 sections, called books. In the seventh\n"
+"and eighth book, Ptolemy listed a total of 1022 stars in 48 constellations\n"
+"(among which are about 5 star-like objects like globular star clusters).\n"
+"It is a table of coordinates of the stars with a description of their\n"
+"position in the constellation (such as \"star at the elbow of X, longitude,\n"
+"latitude, magnitude\"). With regard to precession, Ptolemy used ecliptic\n"
+"coordinates. As one of the first of his time, Ptolemy included the\n"
+"magnitude, a quantitative scale of stellar brightness, probably adopted\n"
+"from Hipparchus (which is not certain because Hipparchus&rsquo; catalog\n"
+"is not preserved). The scale starts with the brightest star with the\n"
+"magnitude of 1, going down to magnitude of 6, for the faintest stars\n"
+"visible.\n"
+"\n"
+"<p>For the computation of planet positions Ptolemy used a geocentric model\n"
+"(which is allowed because the observer always stands on Earth) and, thus,\n"
+"contributed to the scientific belief that the heliocentric model by\n"
+"Aristarch was not needed. However, for the star catalogue of the\n"
+"<i>Almagest</i> this does not matter at all because a star catalogue\n"
+"always represents a sort of inventory of the fixed dots in the sky and\n"
+"Ptolemy's proclaimed aim of the catalogue is to provide a list for making\n"
+"a celestial globe (see Alm., VIII, 3). Being aware of precession he wants\n"
+"to ease the business of future globemakers by using ecliptical coordinates:\n"
+"Precession as known to Ptolemy shifts all stars parallel to the ecliptic,\n"
+"therefore updates to the epoch of the respective globemaker could be\n"
+"applied by a simple subtraction of the value for ecliptic longitude.</p>\n"
+"\n"
+"### How this sky culture was made\n"
+"\n"
+"### Star names\n"
+"\n"
+"Out of more than 1,000 stars, Ptolemy mentions a proper name for only 15.\n"
+"The rest are identified by fairly long descriptions such as \"The star on\n"
+"the end of the tail\" for the Polaris. In order to avoid displaying such "
+"long\n"
+"strings across the screen in Stellarium, we invented short labels for all\n"
+"Almagest stars based on the constellation and the order in which they appear "
+"in\n"
+"the catalogue.  For example, Polaris is given a designation \"UMi 1\" "
+"because\n"
+"it is the first star in the constellation of Small Bear (UMi).  See the "
+"table\n"
+"below for the correspondence between Ptolemy constellations and IAU "
+"abbreviations.\n"
+"In addition, where Ptolemy describes a star as lying outside of the figure,\n"
+"we use lowercase letters in the corresponding label. To see the long "
+"description\n"
+"for a given star, users should enable \"Use additional names of stars\" in "
+"the\n"
+"\"View [F4]/Sky\" settings and click on the star. The long description will "
+"then\n"
+"be displayed at the top of the screen.\n"
+"\n"
+"### Constellation lines\n"
+"\n"
+"The process can be described as sketched here with the example of\n"
+"Corvus:\n"
+"\n"
+"In the constellation of Corvus (Raven), &alpha; Crv is the star in\n"
+"the &quot;head of the raven&quot;. It is connected with the &quot;star\n"
+"in the neck&quot;, &epsilon; Crv.  This one is connected with &quot;the\n"
+"star in the breast&quot; &zeta; Crv.  From there two lines go to the\n"
+"tips of the wings. &gamma; Crv is the star in the advanced wing and\n"
+"&delta; Crv the star in the rear wing. From the star in the breast\n"
+"another line goes to the &quot;foot of the raven&quot;, the star &beta;\n"
+"Crv.\n"
+"\n"
+"<p><img width=\"800\" src=\"illustrations/corvus_s.png\" /></p>\n"
+"<p>After identifying the stars based on their coordinates and names, we\n"
+"reconnected the stars according to the descriptions in the table\n"
+"presented in the <i>Almagest</i>.</p>\n"
+"<p>The names of stars and names of deep sky objects rely on the Almagest\n"
+"only, e.g. Ptolemy uses the name &quot;&lambda;&alpha;&mu;&pi;&alpha;&delta;"
+"&#943;&alpha;&sigmaf;\n"
+"(The Torch-like)&quot; for Aldebaran in his other work, the\n"
+"<i>Tetrabiblos</i>, but this is not implemented in this sky culture because\n"
+"it doesn't show up in the Almagest.</p>\n"
+"\n"
+"The following table displays the original constellation name in Greek and "
+"its\n"
+"English translation (column 2 and 3) and denotes our uncertainties in\n"
+"the reconstruction (column 6).\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>Abbreviation</b></td>\n"
+"\t<td><b>Original name</b></td>\n"
+"\t<td><b>Translation</b> (direct)</td>\n"
+"\t<td><b>IAU (Latin) name</b></td>\n"
+"\t<td><b>hints to constellation</b></td>\n"
+"\t<td><b>freedom of art</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>UMi</notr></td>\n"
+"\t<td><notr>&Mu;&iota;&kappa;&rho;&#942; &#702;&#714;&Alpha;&rho;&kappa;&tau;"
+"&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Small She-Bear</td>\n"
+"\t<td><notr>Ursa Minor</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>UMa</notr></td>\n"
+"\t<td><notr>&Mu;&epsilon;&gamma;&alpha;&lambda;&#942; &#702;&#714;&Alpha;"
+"&rho;&kappa;&tau;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Great She-Bear</td>\n"
+"\t<td><notr>Ursa Major</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Dra</notr></td>\n"
+"\t<td><notr>&Delta;&rho;&#940;&kappa;&omega;&nu;</notr></td>\n"
+"\t<td>Dragon</td>\n"
+"\t<td><notr>Draco</notr></td>\n"
+"\t<td>all triangles or squares are vertebra or parts of the body; line at "
+"the head is the tongue</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"\t<tr valign=\"top\">\n"
+"\t<td><notr>Cep</notr></td>\n"
+"\t<td><notr>&Kappa;&eta;&phi;&epsilon;&#973;&sigmaf;</notr></td>\n"
+"\t<td>Kepheus</td>\n"
+"\t<td><notr>Cepheus</notr></td>\n"
+"\t<td>king, upside down </td>\n"
+"\t<td>three head stars are tiara; &beta; seen as part of the belt, although "
+"Almagest says beneath belt</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Boo</notr></td>\n"
+"\t<td><notr>&Beta;&omicron;&#974;&tau;&eta;&sigmaf;</notr></td>\n"
+"\t<td>Ploughman</td>\n"
+"\t<td><notr>Bo&ouml;tes</notr></td>\n"
+"\t<td>has a shepherd's staff in his hand (&omega;)</td>\n"
+"\t<td>star HIP 72582 added as neck star</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>CrB</notr></td>\n"
+"\t<td><notr>&Sigma;&tau;&#941;&phi;&alpha;&nu;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Crown</td>\n"
+"\t<td><notr>Corona Borealis</notr></td>\n"
+"\t<td>like IAU constellation; no details for lines in the text</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Her</notr></td>\n"
+"\t<td><notr>&#703;&Epsilon;&nu;&gamma;&#972;&nu;&alpha;&sigma;&iota;&nu;</"
+"notr></td>\n"
+"\t<td>Kneeler</td>\n"
+"\t<td><notr>Hercules</notr></td>\n"
+"\t<td>one of the foot stars is top of staff of Bootes</td>\n"
+"\t<td>star HIP 82764 added as neck star</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Lyr</notr></td>\n"
+"\t<td><notr>&Lambda;&#973;&rho;&alpha;</notr></td>\n"
+"\t<td>Lyre</td>\n"
+"\t<td><notr>Lyra</notr></td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cyg</notr></td>\n"
+"\t<td><notr>&#702;&#714;&Omicron;&rho;&nu;&iota;&sigmaf;</notr></td>\n"
+"\t<td>Bird</td>\n"
+"\t<td><notr>Cygnus</notr></td>\n"
+"\t<td>swan with legs</td>\n"
+"\t<td>Tips of wings connected with tail</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cas</notr></td>\n"
+"\t<td><notr>&Kappa;&alpha;&sigma;&sigma;&iota;&#941;&pi;&epsilon;&iota;"
+"&alpha;</notr></td>\n"
+"\t<td>Kassiepeia</td>\n"
+"\t<td><notr>Cassiopeia</notr></td>\n"
+"\t<td>Queen sitting on a throne</td>\n"
+"\t<td>to avoid confusion we did not draw the throne</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Per</notr></td>\n"
+"\t<td><notr>&Pi;&epsilon;&rho;&sigma;&epsilon;&#973;&sigmaf;</notr></td>\n"
+"\t<td>Perseus</td>\n"
+"\t<td><notr>Perseus</notr></td>\n"
+"\t<td>Double star cluster NGC 869 and NGC 884 as Deep Sky Object - &gt;one "
+"of the stars in the cluster was used for drawing</td>\n"
+"\t<td>one of the stars in Gorgon-head is added to make the head look more "
+"spherical</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Aur</notr></td>\n"
+"\t<td><notr>&#703;&Eta;&nu;&#943;&omicron;&chi;&omicron;&sigmaf;</notr></"
+"td>\n"
+"\t<td>Charioteer</td>\n"
+"\t<td><notr>Auriga</notr></td>\n"
+"\t<td>wears long garment; garment limited through shoulders and hem</td>\n"
+"\t<td>o Aur added as neck star; 1 Aur added as hem star</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Oph</notr></td>\n"
+"\t<td><notr>&#702;&Omicron;&phi;&iota;&omicron;&#973;&chi;&omicron;&sigmaf;</"
+"notr></td>\n"
+"\t<td>Serpent Bearer</td>\n"
+"\t<td><notr>Ophiuchus</notr></td>\n"
+"\t<td>has serpent in his hand</td>\n"
+"\t<td>a star added as neck star</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Ser</notr></td>\n"
+"\t<td><notr>&#702;&#714;&Omicron;&phi;&iota;&sigmaf;</notr></td>\n"
+"\t<td>Snake</td>\n"
+"\t<td><notr>Serpens</notr></td>\n"
+"\t<td>two separate parts of the snake (head and tail); square is head</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Sge</notr></td>\n"
+"\t<td><notr>&#702;&Omicron;&iota;&sigma;&tau;&#972;&sigmaf;</notr></td>\n"
+"\t<td>Arrow</td>\n"
+"\t<td><notr>Sagitta</notr></td>\n"
+"\t<td>Like IAU constellation, &eta; Sge is missing </td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Aql</notr></td>\n"
+"\t<td><notr>&#702;&Alpha;&epsilon;&tau;&#972;&sigmaf;</notr></td>\n"
+"\t<td>Eagle</td>\n"
+"\t<td><notr>Aquila</notr></td>\n"
+"\t<td>&tau; Aql as head star, &beta; as neck, Altair is between shoulders, "
+"&gamma; and &mu; are shoulders</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Del</notr></td>\n"
+"\t<td><notr>&Delta;&epsilon;&lambda;&phi;&#943;&sigmaf;</notr></td>\n"
+"\t<td>Dolphin</td>\n"
+"\t<td><notr>Delphinus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>refined shape</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Equ</notr></td>\n"
+"\t<td><notr>&Pi;&rho;&omicron;&tau;&omicron;&mu;&#942;</notr></td>\n"
+"\t<td>Bust [of a horse]</td>\n"
+"\t<td><notr>Equuleus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Peg</notr></td>\n"
+"\t<td><notr>&#703;&#714;&Iota;&pi;&pi;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Horse</td>\n"
+"\t<td><notr>Pegasus</notr></td>\n"
+"\t<td>with mane and one wing</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>And</notr></td>\n"
+"\t<td><notr>&#702;&Alpha;&nu;&delta;&rho;&omicron;&mu;&#941;&delta;&alpha;</"
+"notr></td>\n"
+"\t<td>Andromeda</td>\n"
+"\t<td class='latin'><notr>Andromeda</notr></td>\n"
+"\t<td>dress and belt</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Tri</notr></td>\n"
+"\t<td><notr>&Tau;&rho;&#943;&gamma;&omega;&nu;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Triangle</td>\n"
+"\t<td><notr>Triangulum</notr></td>\n"
+"\t<td>four given stars &#61664; middle star of one side</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Ari</notr></td>\n"
+"\t<td><notr>&Kappa;&rho;&iota;&#972;&sigmaf;</notr></td>\n"
+"\t<td>Ram</td>\n"
+"\t<td><notr>Aries</notr></td>\n"
+"\t<td>turned head; only one horn</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Tau</notr></td>\n"
+"\t<td><notr>&Tau;&alpha;&upsilon;&#771;&rho;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Bull</td>\n"
+"\t<td><notr>Taurus</notr></td>\n"
+"\t<td>half body, only two legs visible; direction of view to observer</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Gem</notr></td>\n"
+"\t<td><notr>&Delta;&#943;&delta;&upsilon;&mu;&omicron;&iota;</notr></td>\n"
+"\t<td>Twins</td>\n"
+"\t<td><notr>Gemini</notr></td>\n"
+"\t<td>one star in common; touching each other with hands</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cnc</notr></td>\n"
+"\t<td><notr>&Kappa;&alpha;&rho;&kappa;&#943;&nu;&omicron;&sigmaf;</notr></"
+"td>\n"
+"\t<td>Crab</td>\n"
+"\t<td><notr>Cancer</notr></td>\n"
+"\t<td>square body</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Leo</notr></td>\n"
+"\t<td><notr>&Lambda;&#941;&omega;&nu;</notr></td>\n"
+"\t<td>Lion</td>\n"
+"\t<td><notr>Leo</notr></td>\n"
+"\t<td>opens jaw</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Vir</notr></td>\n"
+"\t<td><notr>&Pi;&alpha;&rho;&theta;&#941;&nu;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Maiden</td>\n"
+"\t<td><notr>Virgo</notr></td>\n"
+"\t<td>no separate head</td>\n"
+"\t<td>fainter stars added to draw the wings</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Lib</notr></td>\n"
+"\t<td><notr>&Chi;&eta;&lambda;&alpha;&#943;</notr></td>\n"
+"\t<td>Claws [of the Scorpion]</td>\n"
+"\t<td><notr>Libra</notr></td>\n"
+"\t<td>Ptolemy always uses the term &quot;claws&quot;, never &quot;the "
+"balance&quot;.</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Sco</notr></td>\n"
+"\t<td><notr>&Sigma;&kappa;&omicron;&rho;&pi;&#943;&omicron;&sigmaf;</notr></"
+"td>\n"
+"\t<td>Scorpion</td>\n"
+"\t<td><notr>Scorpius</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>arms added around the head: &nu; and &rho;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Sgr</notr></td>\n"
+"\t<td><notr>&Tau;&omicron;&xi;&#972;&tau;&eta;&sigmaf;</notr></td>\n"
+"\t<td>Archer</td>\n"
+"\t<td><notr>Sagittarius</notr></td>\n"
+"\t<td>a centaur with  bow ahead; &bdquo;cloak&ldquo; behind</td>\n"
+"\t<td>we included many faint stars in our stick figure in order to make the "
+"picture clear.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cap</notr></td>\n"
+"\t<td><notr>&Alpha;&#943;&gamma;&#972;&kappa;&epsilon;&rho;&omicron;&sigmaf;"
+"</notr></td>\n"
+"\t<td>The One with the Goat's Horn</td>\n"
+"\t<td><notr>Capricornus</notr></td>\n"
+"\t<td>fish tail; two legs visible</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Aqr</notr></td>\n"
+"\t<td><notr>&#703;&Upsilon;&delta;&rho;&omicron;&chi;&#972;&omicron;&sigmaf;"
+"</notr></td>\n"
+"\t<td>Water-Carrier</td>\n"
+"\t<td><notr>Aquarius</notr></td>\n"
+"\t<td>water out of jug</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Psc</notr></td>\n"
+"\t<td><notr>&#702;&Iota;&chi;&theta;&#973;&epsilon;&sigmaf;</notr></td>\n"
+"\t<td>[2] Fish</td>\n"
+"\t<td><notr>Pisces</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>northern fish: 68(h), 67(k), and 65(i) described as head in Almagest "
+"but we took them as fin because mouth should be at g and &tau; Psc. "
+"Additional change on tail fin: extended to &rho;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cet</notr></td>\n"
+"\t<td><notr>&Kappa;&eta;&#771;&tau;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Sea Monster</td>\n"
+"\t<td><notr>Cetus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>Body does not go through star &tau;, but through star &upsilon;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Ori</notr></td>\n"
+"\t<td><notr>&#702;&Omega;&rho;&#943;&omega;&nu;</notr></td>\n"
+"\t<td>Orion</td>\n"
+"\t<td class='latin'><notr>Orion</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>The &quot;head&quot; is labeled as &quot;nebulous&quot; which means "
+"Ptolemy interpreted &phi;<sub>1</sub>, &phi;<sub>2</sub>, and  &lambda;, "
+"together with fainter stars between them as a &quot;cluster&quot; (or "
+"association which is more extended than the modern &quot;&lambda; Ori Assoc."
+"&quot;). Head does not have direct connection to the shoulder stars anymore, "
+"but a connection to a star between the stars in the shoulders.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Eri</notr></td>\n"
+"\t<td><notr>&Pi;&omicron;&tau;&alpha;&mu;&omicron;&#972;&sigmaf;</notr></"
+"td>\n"
+"\t<td>River [nameless]</td>\n"
+"\t<td><notr>Eridanus</notr></td>\n"
+"\t<td>Like IAU constellation, but shorter</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Lep</notr></td>\n"
+"\t<td><notr>&Lambda;&alpha;&gamma;&omega;&#771;&sigmaf;</notr></td>\n"
+"\t<td>Hare</td>\n"
+"\t<td><notr>Lepus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>took the \"4 stars over the ear\" as ear</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>CMa</notr></td>\n"
+"\t<td><notr>&Kappa;&#973;&omega;&nu;</notr></td>\n"
+"\t<td>Dog</td>\n"
+"\t<td><notr>Canis Major</notr></td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>CMi</notr></td>\n"
+"\t<td><notr>&Pi;&rho;&omicron;&kappa;&#973;&omega;&nu;</notr></td>\n"
+"\t<td>The One before the Dog</td>\n"
+"\t<td><notr>Canis Minor</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>In Almagest, the name of the constellation is &quot;The One before the "
+"Dog&quot; or &quot;Harbinger of Sirius&quot; as Toomer puts it. However, "
+"&beta; CMi is called &quot;the neck&quot; (of whom is unknown). We drew a "
+"little dog with &gamma; and &epsilon; as head; &alpha;, &beta;, &eta; and "
+"HIP36889 as body; forelegs with HIP 35509 and HIP 35614; hindlegs with "
+"&delta;<sub>2</sub> and &delta;<sub>3</sub>; tail with HIP 37634</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Arg</notr></td>\n"
+"\t<td><notr>&#702;&Alpha;&rho;&gamma;&omega;</notr></td>\n"
+"\t<td>Ship &quot;Argo&quot;</td>\n"
+"\t<td><notr>Argo</notr></td>\n"
+"\t<td>smaller than the sum of the IAU-constellations Pup+Pyx+Car+Vel</td>\n"
+"\t<td>Many stars not integrated in the constellation, to create a boat-like "
+"shape; in many depictions (including the ancient Farnese globe), only a half "
+"of a ship is painted.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Hya</notr></td>\n"
+"\t<td><notr>&#703;&#714;&Upsilon;&delta;&rho;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Water Snake</td>\n"
+"\t<td><notr>Hydra</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Crt</notr></td>\n"
+"\t<td><notr>&Kappa;&rho;&alpha;&tau;&#768;&eta;&rho;</notr></td>\n"
+"\t<td>Krater (vessel)</td>\n"
+"\t<td><notr>Crater</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>a Krater is special Greek wine mixing vessel which looks like an "
+"amphora or vase: <a href=\"https://en.wikipedia.org/wiki/Krater\">https://en."
+"wikipedia.org/wiki/Krater</a> Ptolemy describes only one star in the foot "
+"(&alpha; Crt) and two handles (&eta;, &theta; Crt)</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Crv</notr></td>\n"
+"\t<td><notr>&Kappa;&oacute;&rho;&alpha;&xi;</notr></td>\n"
+"\t<td>Raven</td>\n"
+"\t<td><notr>Corvus</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Cen</notr></td>\n"
+"\t<td><notr>&Kappa;&#941;&nu;&tau;&alpha;&upsilon;&rho;&omicron;&sigmaf;</"
+"notr></td>\n"
+"\t<td>Kentauros</td>\n"
+"\t<td><notr>Centaurus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>deviation from description: HIP 65373 instead of &omega; Cen (cluster) "
+"taken as star on the back. &lsquo;Thyrsus&lsquo; not drawn (to avoid "
+"confusion), backward arm added.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Lup</notr></td>\n"
+"\t<td><notr>&Theta;&eta;&rho;&#943;&omicron;&nu;</notr></td>\n"
+"\t<td>Beast</td>\n"
+"\t<td><notr>Lupus</notr></td>\n"
+"\t<td></td>\n"
+"\t<td>&beta; described as &lsquo;End of hind leg&lsquo; -> taken as star in "
+"the belly; &tau;<sub>1</sub> as hindleg &Chi; removed from head, because "
+"otherwise shapelessness arises; HIP 73493 taken as foreleg</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>Ara</notr></td>\n"
+"\t<td><notr>&Theta;&upsilon;&mu;&iota;&alpha;&tau;&#942;&rho;&iota;&omicron;"
+"&nu;</notr></td>\n"
+"\t<td>Altar</td>\n"
+"\t<td><notr>Ara</notr></td>\n"
+"\t<td>like IAU constellation</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>CrA</notr></td>\n"
+"\t<td><notr>&Sigma;&tau;&#941;&phi;&alpha;&nu;&omicron;&sigmaf; &Nu;&#972;"
+"&tau;&iota;&omicron;&sigmaf;</notr></td>\n"
+"\t<td>Southern Crown</td>\n"
+"\t<td><notr>Corona Australis</notr></td>\n"
+"\t<td>like IAU constellation; only uncertainty with stars that only got a "
+"BSC number in the Almagest, because these are not clearly to identify in "
+"Stellarium</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>PsA</notr></td>\n"
+"\t<td><notr>&Nu;&#972;&tau;&iota;&omicron;&sigmaf; &#702;&Iota;&chi;&theta;"
+"&#973;&sigmaf;</notr></td>\n"
+"\t<td>Southern Fish</td>\n"
+"\t<td><notr>Piscis Austrinus</notr></td>\n"
+"\t<td>the fish is laying on his back</td>\n"
+"\t<td>we added a few stars to mark the tail as such (&beta; should be the "
+"tip of the tail but we used it as its root)</td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"### Fair Use\n"
+"\n"
+"This sky culture originates from a student's year of research. We provide "
+"this for free but\n"
+"authors of contributions certainly deserve to be cited according to the "
+"common rules. Thank you!\n"
+"\n"
+"### Thanks\n"
+"\n"
+"The authors thank Patrick Gleason and Georg Zotti for English proofreading "
+"and interesting discussions."
+msgstr ""
+"El Almagesto consta de 13 secciones, llamadas libros. En el séptimo y "
+"octavo\n"
+"libro, Ptolomeo enumeró un total de 1022 estrellas en 48 constelaciones\n"
+"(entre las cuales se encuentran alrededor de 5 objetos similares a\n"
+"estrellas, como cúmulos de estrellas globulares). Es una tabla de\n"
+"coordenadas de las estrellas con una descripción de su posición en la\n"
+"constelación (como \"estrella en el codo de X, longitud, latitud,\n"
+"magnitud\"). Con respecto a la precesión, Ptolomeo utilizó coordenadas\n"
+"eclípticas. Como uno de los primeros de su tiempo, Ptolomeo incluyó la\n"
+"magnitud, una escala cuantitativa de brillo estelar, probablemente adoptada\n"
+"de Hipparchus (lo cual no es seguro porque el catálogo de Hipparchus no "
+"está\n"
+"preservado). La escala comienza con la estrella más brillante con la\n"
+"magnitud de 1, bajando a la magnitud de 6, para las estrellas más débiles\n"
+"visibles.\n"
+"\n"
+"<p>Para el cálculo de las posiciones de los planetas, Ptolomeo utilizó un\n"
+"modelo geocéntrico (que está permitido porque el observador siempre está en\n"
+"la Tierra) y, por lo tanto, contribuyó a la creencia científica de que el\n"
+"modelo heliocéntrico de Aristarch no era necesario. Sin embargo, para el\n"
+"catálogo de estrellas del <i>Almagesto</i> esto no importa en absoluto\n"
+"porque un catálogo de estrellas representa siempre una especie de "
+"inventario\n"
+"de los puntos fijos en el cielo y el objetivo proclamado de Ptolomeo del\n"
+"catálogo es proporcionar una lista para hacer un globo celeste ( ver Alm.,\n"
+"VIII, 3). Consciente de la precesión, quiere facilitar el negocio de los\n"
+"futuros fabricantes de globos terráqueos mediante el uso de coordenadas\n"
+"eclípticas: la precesión, tal como la conoce Ptolomeo, cambia todas las\n"
+"estrellas paralelas a la eclíptica, por lo tanto, las actualizaciones de la\n"
+"época del fabricante de globos terráqueo podrían aplicarse mediante una\n"
+"simple resta del valor para longitud eclíptica.</p>\n"
+"\n"
+"### Cómo se hizo esta cultura estelar\n"
+"\n"
+"### Nombres de estrellas\n"
+"\n"
+"De más de 1.000 estrellas, Ptolomeo menciona un nombre propio para sólo\n"
+"15. El resto se identifican por descripciones bastante largas como \"La\n"
+"estrella en el extremo de la cola\" para la Polaris. Para evitar mostrar\n"
+"cadenas tan largas en la pantalla en Stellarium, inventamos etiquetas "
+"cortas\n"
+"para todas las estrellas del Almagesto basadas en la constelación y el "
+"orden\n"
+"en que aparecen en el catálogo. Por ejemplo, Polaris recibe la designación\n"
+"\"UMi 1\" porque es la primera estrella en la constelación de Small Bear\n"
+"(UMi). Consulte la tabla a continuación para ver la correspondencia entre\n"
+"las constelaciones de Ptolomeo y las abreviaturas IAU. Además, cuando\n"
+"Ptolomeo describe una estrella que se encuentra fuera de la figura, usamos\n"
+"letras minúsculas en la etiqueta correspondiente. Para ver la descripción\n"
+"larga de una estrella determinada, los usuarios deben habilitar \"Usar\n"
+"nombres adicionales de estrellas\" en la configuración de \"Ver [F4]/Cielo\" "
+"y\n"
+"hacer clic en la estrella. La descripción larga se mostrará en la parte\n"
+"superior de la pantalla.\n"
+"\n"
+"### Líneas de constelaciones\n"
+"\n"
+"El proceso se puede describir como esbozado aquí con el ejemplo de Corvus:\n"
+"\n"
+"En la constelación de Corvus (Cuervo), &alfa; Crv es la estrella en la\n"
+"\"cabeza del cuervo\". Está conectada con la \"estrella en el cuello\" "
+"&epsilon;\n"
+"Crv. Este está conectada con \"la estrella en el pecho\" &zeta; Crv. Desde\n"
+"allí, dos líneas van a la punta de las alas. &gamma; Crv es la estrella en\n"
+"el ala avanzada y &delta; Crv la estrella en el ala trasera. Desde la\n"
+"estrella en el seno otra línea va al \"pie del cuervo\", la estrella &beta;\n"
+"Crv.\n"
+"\n"
+"<p><img width=\"800\" src=\"illustrations/corvus_s.png\" /></p>\n"
+"<p>Después de identificar las estrellas en función de sus coordenadas y\n"
+"nombres, volvimos a conectar las estrellas según las descripciones en la\n"
+"tabla presentada en el <i>Almagesto</i>.</p>\n"
+"<p>Los nombres de las estrellas y los nombres de los objetos del cielo "
+"profundo\n"
+"se basan únicamente en el Almagesto. P.ej. Ptolomeo usa el nombre\n"
+"\"&lambda;&alpha;&mu;&pi;&alpha;&delta;&#943;&alpha;&sigmaf; (La "
+"antorcha)\"\n"
+"para Aldebarán en su otro trabajo, el <i>Tetrabiblos</i>, pero esto no se\n"
+"implementa en esta cultura del cielo porque no aparece en el Almagesto.</p>\n"
+"\n"
+"La siguiente tabla muestra el nombre original de la constelación en griego "
+"y\n"
+"su traducción al inglés (columnas 2 y 3) y denota nuestras incertidumbres "
+"en\n"
+"la reconstrucción (columna 6).\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>Abreviatura</b></td>\n"
+"\t<td><b>Nombre original</b></td>\n"
+"\t<td><b>Traducción</b> (directa)</td>\n"
+"\t<td><b>Nombre UAI (Latín)</b></td>\n"
+"\t<td><b>claves de la constelación</b></td>\n"
+"\t<td><b>libertad de arte</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>UMi</td>\n"
+"\t<td>&Mu;&iota;&kappa;&rho;&#942; &#702;&#714;&Alpha;&rho;&kappa;&tau;"
+"&omicron;&sigmaf;</td>\n"
+"\t<td>Osa Pequeña</td>\n"
+"\t<td>Ursa Minor</td>\n"
+"\t<td>como la constelación de UAI</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>UMa</td>\n"
+"\t<td>&Mu;&epsilon;&gamma;&alpha;&lambda;&#942; &#702;&#714;&Alpha;&rho;"
+"&kappa;&tau;&omicron;&sigmaf;</td>\n"
+"\t<td>Osa Grande</td>\n"
+"\t<td>Ursa Major</td>\n"
+"\t<td>como la constelación de UAI</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Dra</td>\n"
+"\t<td>&Delta;&rho;&#940;&kappa;&omega;&nu;</td>\n"
+"\t<td>Dragón</td>\n"
+"\t<td>Draco</td>\n"
+"\t<td>todos los triángulos o cuadrados son vértebras o partes del cuerpo; la "
+"línea\n"
+"en la cabeza es la lengua</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"\t<tr valign=\"top\">\n"
+"\t<td>Cep</td>\n"
+"\t<td>&Kappa;&eta;&phi;&epsilon;&#973;&sigmaf;</td>\n"
+"\t<td>Cefeo</td>\n"
+"\t<td>Cepheus</td>\n"
+"\t<td>rey, al revés </td>\n"
+"\t<td>tres estrellas principales son tiara, &beta; vistas como parte del "
+"cinturón,\n"
+"aunque el Almagesto dice debajo del cinturón</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Boo</td>\n"
+"\t<td>&Beta;&omicron;&#974;&tau;&eta;&sigmaf;</td>\n"
+"\t<td>Arador</td>\n"
+"\t<td>Bo&ouml;tes</td>\n"
+"\t<td>tiene un bastón de pastor en la mano (&omega;)</td>\n"
+"\t<td>Estrella HIP 72582 añadida como estrella del cuello</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>CrB</td>\n"
+"\t<td>&Sigma;&tau;&#941;&phi;&alpha;&nu;&omicron;&sigmaf;</td>\n"
+"\t<td>Corona</td>\n"
+"\t<td>Corona Borealis</td>\n"
+"\t<td>como la constelación de UAI; sin detalles para líneas en el texto</"
+"td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Her</td>\n"
+"\t<td>&#703;&Epsilon;&nu;&gamma;&#972;&nu;&alpha;&sigma;&iota;&nu;</td>\n"
+"\t<td>Reclinatorio</td>\n"
+"\t<td>Hercules</td>\n"
+"\t<td>una de las estrellas del pie es la parte superior del personal de "
+"Bootes</td>\n"
+"\t<td>estrella HIP 82764 añadida como estrella del cuello</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Lyr</td>\n"
+"\t<td>&Lambda;&#973;&rho;&alpha;</td>\n"
+"\t<td>Lyre</td>\n"
+"\t<td>Lyra</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cyg</td>\n"
+"\t<td>&#702;&#714;&Omicron;&rho;&nu;&iota;&sigmaf;</td>\n"
+"\t<td>Pájaro</td>\n"
+"\t<td>Cygnus</td>\n"
+"\t<td>cisne con patas</td>\n"
+"\t<td>Puntas de alas conectadas con cola</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cas</td>\n"
+"\t<td>&Kappa;&alpha;&sigma;&sigma;&iota;&#941;&pi;&epsilon;&iota;&alpha;</"
+"td>\n"
+"\t<td>Casiopea</td>\n"
+"\t<td>Cassiopeia</td>\n"
+"\t<td>Reina sentada en el trono</td>\n"
+"\t<td>para evitar confusión no dibujamos el trono</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Per</td>\n"
+"\t<td>&Pi;&epsilon;&rho;&sigma;&epsilon;&#973;&sigmaf;</td>\n"
+"\t<td>Perseus</td>\n"
+"\t<td>Perseus</td>\n"
+"\t<td>El cúmulo estelar doble NGC 869 y NGC 884 como Objetos del Espacio "
+"Profundo\n"
+"-&gt; una de las estrellas en el cúmulo fue usada para el dibujo</td>\n"
+"\t<td>se añade una de las estrellas en la cabeza de Gorgon para hacer que "
+"la\n"
+"cabeza se vea más esférica</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Aur</td>\n"
+"\t<td>&#703;&Eta;&nu;&#943;&omicron;&chi;&omicron;&sigmaf;</td>\n"
+"\t<td>Carruaje</td>\n"
+"\t<td>Auriga</td>\n"
+"\t<td>usa ropa larga; prenda limitada por los hombros y el dobladillo</td>\n"
+"\t<td>o Aur añadida como estrella del cuello; 1 Aur añadida como estrella "
+"del\n"
+"dobladillo</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Oph</td>\n"
+"\t<td>&#702;&Omicron;&phi;&iota;&omicron;&#973;&chi;&omicron;&sigmaf;</td>\n"
+"\t<td>Portador de la serpiente</td>\n"
+"\t<td>Ophiuchus</td>\n"
+"\t<td>tiene una serpiente en su mano</td>\n"
+"\t<td>una estrella añadida como estrella del cuello</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Ser</td>\n"
+"\t<td>&#702;&#714;&Omicron;&phi;&iota;&sigmaf;</td>\n"
+"\t<td>Serpiente</td>\n"
+"\t<td>Serpens</td>\n"
+"\t<td>dos partes separadas de la serpiente (cabeza y cola); el cuadrante es "
+"la\n"
+"cabeza</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Sge</td>\n"
+"\t<td>&#702;&Omicron;&iota;&sigma;&tau;&#972;&sigmaf;</td>\n"
+"\t<td>Flecha</td>\n"
+"\t<td>Sagitta</td>\n"
+"\t<td>Como la constelación de la UAI, &eta; Sge no se encuentra </td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Aql</td>\n"
+"\t<td>&#702;&Alpha;&epsilon;&tau;&#972;&sigmaf;</td>\n"
+"\t<td>Águila</td>\n"
+"\t<td>Aquila</td>\n"
+"\t<td>&tau; Aql en la cabeza, &beta; el cuello, Altair en medio de los "
+"hombros,\n"
+"&gamma; y &mu; son los hombros</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Del</td>\n"
+"\t<td>&Delta;&epsilon;&lambda;&phi;&#943;&sigmaf;</td>\n"
+"\t<td>Delfín</td>\n"
+"\t<td>Delphinus</td>\n"
+"\t<td></td>\n"
+"\t<td>forma refinada</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Equ</td>\n"
+"\t<td>&Pi;&rho;&omicron;&tau;&omicron;&mu;&#942;</td>\n"
+"\t<td>Busto [de un caballo]</td>\n"
+"\t<td>Equuleus</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Peg</td>\n"
+"\t<td>&#703;&#714;&Iota;&pi;&pi;&omicron;&sigmaf;</td>\n"
+"\t<td>Caballo</td>\n"
+"\t<td>Pegasus</td>\n"
+"\t<td>con melena y un ala</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>And</td>\n"
+"\t<td>&#702;&Alpha;&nu;&delta;&rho;&omicron;&mu;&#941;&delta;&alpha;</td>\n"
+"\t<td>Andrómeda</td>\n"
+"\t<td class='latin'>Andromeda</td>\n"
+"\t<td>vestido y cinturón</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Tri</td>\n"
+"\t<td>&Tau;&rho;&#943;&gamma;&omega;&nu;&omicron;&sigmaf;</td>\n"
+"\t<td>Triángulo</td>\n"
+"\t<td>Triangulum</td>\n"
+"\t<td>cuatro estrellas dadas &#61664; estrella media de un lado</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Ari</td>\n"
+"\t<td>&Kappa;&rho;&iota;&#972;&sigmaf;</td>\n"
+"\t<td>Carnero</td>\n"
+"\t<td>Aries</td>\n"
+"\t<td>cabeza girada; solo un cuerno</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Tau</td>\n"
+"\t<td>&Tau;&alpha;&upsilon;&#771;&rho;&omicron;&sigmaf;</td>\n"
+"\t<td>Toro</td>\n"
+"\t<td>Taurus</td>\n"
+"\t<td>medio cuerpo, solo dos patas visibles; dirección de la vista al "
+"observador</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Gem</td>\n"
+"\t<td>&Delta;&#943;&delta;&upsilon;&mu;&omicron;&iota;</td>\n"
+"\t<td>Gemelos</td>\n"
+"\t<td>Gemini</td>\n"
+"\t<td>una estrella en común; tocándose con las manos</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cnc</td>\n"
+"\t<td>&Kappa;&alpha;&rho;&kappa;&#943;&nu;&omicron;&sigmaf;</td>\n"
+"\t<td>Cangrejo</td>\n"
+"\t<td>Cancer</td>\n"
+"\t<td>cuerpo cuadrado</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Leo</td>\n"
+"\t<td>&Lambda;&#941;&omega;&nu;</td>\n"
+"\t<td>León</td>\n"
+"\t<td>Leo</td>\n"
+"\t<td>abre la mandíbula</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Vir</td>\n"
+"\t<td>&Pi;&alpha;&rho;&theta;&#941;&nu;&omicron;&sigmaf;</td>\n"
+"\t<td>Doncella</td>\n"
+"\t<td>Virgo</td>\n"
+"\t<td>sin cabeza separada</td>\n"
+"\t<td>estrellas más débiles añadidas para dibujar las alas</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Lib</td>\n"
+"\t<td>&Chi;&eta;&lambda;&alpha;&#943;</td>\n"
+"\t<td>Garras [del Escorpión]</td>\n"
+"\t<td>Libra</td>\n"
+"\t<td>Ptolomeo siempre usa el término &quot;garras&quot;, nunca &quot;la\n"
+"balanza&quot;.</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Sco</td>\n"
+"\t<td>&Sigma;&kappa;&omicron;&rho;&pi;&#943;&omicron;&sigmaf;</td>\n"
+"\t<td>Escorpio</td>\n"
+"\t<td>Scorpius</td>\n"
+"\t<td></td>\n"
+"\t<td>brazos añadidos alrededor de la cabeza: &nu; y &rho;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Sgr</td>\n"
+"\t<td>&Tau;&omicron;&xi;&#972;&tau;&eta;&sigmaf;</td>\n"
+"\t<td>Arquero</td>\n"
+"\t<td>Sagittarius</td>\n"
+"\t<td>un centauro con un arco delante; &bdquo;capa&ldquo; atrás</td>\n"
+"\t<td>incluimos muchas estrellas tenues en nuestra figura para aclarar la "
+"imagen.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cap</td>\n"
+"\t<td>&Alpha;&#943;&gamma;&#972;&kappa;&epsilon;&rho;&omicron;&sigmaf;</td>\n"
+"\t<td>El del Cuerno de la Cabra</td>\n"
+"\t<td>Capricornus</td>\n"
+"\t<td>cola de pez; dos patas visibles</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Aqr</td>\n"
+"\t<td>&#703;&Upsilon;&delta;&rho;&omicron;&chi;&#972;&omicron;&sigmaf;</td>\n"
+"\t<td>Portador del Agua</td>\n"
+"\t<td>Aquarius</td>\n"
+"\t<td>agua fuera de la jarra</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Psc</td>\n"
+"\t<td>&#702;&Iota;&chi;&theta;&#973;&epsilon;&sigmaf;</td>\n"
+"\t<td>[2] Pez</td>\n"
+"\t<td>Pisces</td>\n"
+"\t<td></td>\n"
+"\t<td>pez del norte: 68 (h), 67 (k) y 65 (i) descritos como cabeza en el "
+"Almagesto\n"
+"pero los tomamos como aleta porque la boca debe estar en g y &tau; Psc. "
+"otro\n"
+"cambio adicional en la aleta de la cola: extendida hasta &rho;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cet</td>\n"
+"\t<td>&Kappa;&eta;&#771;&tau;&omicron;&sigmaf;</td>\n"
+"\t<td>Monstruo marino</td>\n"
+"\t<td>Cetus</td>\n"
+"\t<td></td>\n"
+"\t<td>El cuerpo no atraviesa la estrella &tau;, sino a través de la "
+"estrella\n"
+"&upsilon;</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Ori</td>\n"
+"\t<td>&#702;&Omega;&rho;&#943;&omega;&nu;</td>\n"
+"\t<td>Orión</td>\n"
+"\t<td class='latin'>Orion</td>\n"
+"\t<td></td>\n"
+"\t<td>La &quot;cabeza&quot; está etiquetada como &quot;nebulosa&quot; lo "
+"que\n"
+"significa que Ptolomeo interpretó como &phi;<sub>1</sub>, &phi;<sub>2</"
+"sub>,\n"
+"y &lambda;, junto con estrellas más débiles entre ellas como un\n"
+"&quot;cúmulo&quot; (o asociación más extendida que la moderna &quot;\n"
+"Asoc. &lambda; Ori.&quot;). La cabeza ya no tiene una conexión directa con\n"
+"las estrellas de los hombros, sino una conexión con una estrella entre las\n"
+"estrellas de los hombros.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Eri</td>\n"
+"\t<td>&Pi;&omicron;&tau;&alpha;&mu;&omicron;&#972;&sigmaf;</td>\n"
+"\t<td>Río [sin nombre]</td>\n"
+"\t<td>Eridanus</td>\n"
+"\t<td>Como la constelación de UAI pero corta</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Lep</td>\n"
+"\t<td>&Lambda;&alpha;&gamma;&omega;&#771;&sigmaf;</td>\n"
+"\t<td>Liebre</td>\n"
+"\t<td>Lepus</td>\n"
+"\t<td></td>\n"
+"\t<td>tomó las \"4 estrellas sobre la oreja\" como oreja</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>CMa</td>\n"
+"\t<td>&Kappa;&#973;&omega;&nu;</td>\n"
+"\t<td>Perro</td>\n"
+"\t<td>Canis Major</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>CMi</td>\n"
+"\t<td>&Pi;&rho;&omicron;&kappa;&#973;&omega;&nu;</td>\n"
+"\t<td>El Anterior al Perro</td>\n"
+"\t<td>Canis Minor</td>\n"
+"\t<td></td>\n"
+"\t<td>En el Almagesto, el nombre de la constelación es &quot;El Anterior al\n"
+"Perro&quot; o &quot;Presagio de Sirio&quot;, como lo expresa Toomer. Sin\n"
+"embargo, &beta; CMi se llama &quot;cuello&quot; (de quien se\n"
+"desconoce). Dibujamos un perrito con &gamma; y &epsilon; como la cabeza;\n"
+"&alfa; &beta; &eta; y HIP36889 como el cuerpo; patas delanteras con "
+"HIP35509\n"
+"y HIP35614; patas traseras con &delta;<sub>2</sub> y &delta;<sub>3</sub>;\n"
+"cola con HIP37634</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Arg</td>\n"
+"\t<td>&#702;&Alpha;&rho;&gamma;&omega;</td>\n"
+"\t<td>Nave &quot;Argo&quot;</td>\n"
+"\t<td>Argo</td>\n"
+"\t<td>Más pequeña que la suma de las constelaciones de UAI Pup + Pyx + Car + "
+"Vel</td>\n"
+"\t<td>Muchas estrellas no integradas en la constelación, para crear una "
+"forma de\n"
+"barco; En muchas representaciones (incluido el antiguo globo de Farnese),\n"
+"solo se pinta la mitad de un barco.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Hya</td>\n"
+"\t<td>&#703;&#714;&Upsilon;&delta;&rho;&omicron;&sigmaf;</td>\n"
+"\t<td>Serpiente marina</td>\n"
+"\t<td>Hydra</td>\n"
+"\t<td>como la constelación de UAI</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Crt</td>\n"
+"\t<td>&Kappa;&rho;&alpha;&tau;&#768;&eta;&rho;</td>\n"
+"\t<td>Krater (vaso)</td>\n"
+"\t<td>Crater</td>\n"
+"\t<td></td>\n"
+"\t<td>un Krater es un recipiente especial para mezclar vino griego que se "
+"parece a\n"
+"un ánfora o un jarrón: <a\n"
+"href=\"https://en.wikipedia.org/wiki/Krater\">https://en.wikipedia.org/wiki/"
+"Krater</a>\n"
+"Ptolomeo describe solo una estrella en el pie (&alfa; Crt) y dos asas\n"
+"(&eta;, &theta; Crt)</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Crv</td>\n"
+"\t<td>&Kappa;&oacute;&rho;&alpha;&xi;</td>\n"
+"\t<td>Cuervo</td>\n"
+"\t<td>Corvus</td>\n"
+"\t<td>como la constelación de UAI</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Cen</td>\n"
+"\t<td>&Kappa;&#941;&nu;&tau;&alpha;&upsilon;&rho;&omicron;&sigmaf;</td>\n"
+"\t<td>Centauro</td>\n"
+"\t<td>Centaurus</td>\n"
+"\t<td></td>\n"
+"\t<td>desviación de la descripción: HIP 65373 en lugar de &omega; Cen "
+"(cluster)\n"
+"tomado como estrella en la espalda. &lsquo;Thyrsus&lsquo; no dibujado (para\n"
+"evitar confusiones), se añadió el brazo hacia atrás.</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Lup</td>\n"
+"\t<td>&Theta;&eta;&rho;&#943;&omicron;&nu;</td>\n"
+"\t<td>Bestia</td>\n"
+"\t<td>Lupus</td>\n"
+"\t<td></td>\n"
+"\t<td>&beta; descrito como &lsquo;Fin de la pata trasera&lsquo; -> tomada "
+"como\n"
+"estrella en el vientre; &tau;<sub>1</sub> como pata trasera &Chi; retirada\n"
+"de la cabeza, porque de lo contrario surge la falta de forma; HIP73493\n"
+"tomada como pata delantera</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Ara</td>\n"
+"\t<td>&Theta;&upsilon;&mu;&iota;&alpha;&tau;&#942;&rho;&iota;&omicron;&nu;</"
+"td>\n"
+"\t<td>Altar</td>\n"
+"\t<td>Ara</td>\n"
+"\t<td>como la constelación de UAI</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>CrA</td>\n"
+"\t<td>&Sigma;&tau;&#941;&phi;&alpha;&nu;&omicron;&sigmaf; &Nu;&#972;&tau;"
+"&iota;&omicron;&sigmaf;</td>\n"
+"\t<td>Cruz del Sur</td>\n"
+"\t<td>Corona Australis</td>\n"
+"\t<td>como la constelación de UAI; solo incertidumbre con las estrellas que "
+"solo\n"
+"obtuvieron un número BSC en el Almagesto, porque no se identifican\n"
+"claramente en Stellarium</td>\n"
+"\t<td></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>PsA</td>\n"
+"\t<td>&Nu;&#972;&tau;&iota;&omicron;&sigmaf; &#702;&Iota;&chi;&theta;&#973;"
+"&sigmaf;</td>\n"
+"\t<td>Pez del Sur</td>\n"
+"\t<td>Piscis Austrinus</td>\n"
+"\t<td>el pez está acostado sobre su espalda</td>\n"
+"\t<td>añadimos algunas estrellas para marcar la cola como tal (&beta; "
+"debería ser\n"
+"la punta de la cola pero la usamos como raíz)</td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"### Uso Justo\n"
+"\n"
+"Esta cultura estelar tiene su origen en un año de investigación de un\n"
+"estudiante. Proporcionamos esto de forma gratuita, pero los autores de las\n"
+"contribuciones ciertamente merecen ser citados de acuerdo con las reglas\n"
+"comunes. ¡Gracias!\n"
+"\n"
+"### Gracias\n"
+"\n"
+"Los autores agradecen a Patrick Gleason y Georg Zotti por la corrección de\n"
+"textos en inglés y las discusiones interesantes."
+
+#. Sky culture authors section in markdown format
+msgid ""
+"This sky culture was compiled and added to Stellarium by Alina Schmidt, Lea "
+"Jabschinski, Marie von Seggern and Susanne M. Hoffmann: service@uhura-"
+"uraniae.com\n"
+"\n"
+"Written in English: the authors"
+msgstr ""
+"Esta cultura estelar fue compilada y añadida a Stellarium por Alina "
+"Schmidt,\n"
+"Lea Jabschinski, Marie von Seggern y Susanne M. Hoffmann:\n"
+"service@uhura-uraniae.com\n"
+"\n"
+"Escrito en inglés: los autores"
+
+#. Greek (Almagest) constellation, native: ʾˊΟρνις (Ornis)
+msgid "Bird"
+msgstr "Pájaro"
+
+#. Greek (Almagest) constellation, native: Περσεύς (Perseus)
+msgid "Perseus"
+msgstr "Perseus"
+
+#. Name for HIP 85822
+msgid "The one next to it on the tail"
+msgstr "La que está a su lado en la cola‎"
+
+#. Name for HIP 82080
+msgid "The one next to that, before the place where the tail joins [the body]"
+msgstr ""
+"La que está al lado de esa, antes del lugar donde la cola se une [el ‎‎cuerpo‎]"
+
+#. Name for HIP 77055
+msgid "The southernmost of the stars in the advance side of the rectangle"
+msgstr "La más meridional de las estrellas en el lado avanzado del rectángulo"
+
+#. Name for HIP 79822
+msgid "The northernmost of [those in] the same side"
+msgstr "La más septentrional de [las que están en] el mismo lado‎"
+
+#. Name for HIP 70692
+msgid ""
+"The star lying on a straight line with the stars in the rear side [of the "
+"rectangle] and south of them"
+msgstr ""
+"‎La ‎‎estrella‎‎ que yace en línea recta con las estrellas en el lado trasero "
+"[del rectángulo] y al sur de ellas‎"
+
+#. Name for HIP 41704
+msgid "The star on the end of the snout"
+msgstr "‎La ‎‎estrella‎‎ al final del hocico‎"
+
+#. Name for HIP 42080
+msgid "The more advanced of the stars in the two eyes"
+msgstr "La más avanzada de las estrellas en los dos ojos"
+
+#. Name for HIP 2548
+msgid "The one to the rear"
+msgstr "La de atrás‎"
+
+#. Name for HIP 44390
+msgid "The more advanced of the two stars in the forehead"
+msgstr "La más avanzada de las dos estrellas en la frente"
+
+#. Name for HIP 46977
+msgid "The star on the tip of the advance ear"
+msgstr "La estrella en la punta de la oreja avanzada"
+
+#. Name for HIP 45075
+msgid "The more advanced of the two stars in the neck"
+msgstr "La más avanzada de las dos estrellas en el cuello"
+
+#. Name for HIP 48319
+msgid "The northernmost of the two stars in the chest"
+msgstr "La más septentrional de las dos estrellas en el pecho"
+
+#. Name for HIP 1170
+msgid "The southernmost of them"
+msgstr "La más meridional de ellas"
+
+#. Name for HIP 18532
+msgid "The star on the left knee"
+msgstr "La estrella en la rodilla izquierda"
+
+#. Name for HIP 45493
+msgid "The star above the right knee"
+msgstr "‎La ‎‎estrella‎‎ por encima de la rodilla derecha‎"
+
+#. Name for HIP 44901
+msgid "The star below the right knee"
+msgstr "‎La ‎‎estrella‎‎ por debajo de la rodilla derecha‎"
+
+#. Name for HIP 59774
+msgid "The one on the place where the tail joins [the body]"
+msgstr "La que está en el lugar donde la cola se une [el ‎‎cuerpo‎]"
+
+#. Name for HIP 58001
+msgid "The remaining one, on the left hind thigh"
+msgstr "La restante, en el muslo trasero izquierdo‎"
+
+#. Name for HIP 50372
+msgid "The more advanced of the [two stars] in the left hind paw"
+msgstr "La más avanzada de las [dos estrellas] en la pata trasera izquierda‎"
+
+#. Name for HIP 50801
+msgid "The one to the rear of it"
+msgstr "La que está detrás de ella"
+
+#. Name for HIP 54539
+msgid "The star on the left knee-bend"
+msgstr "‎La ‎‎estrella‎‎ en la rodilla izquierda‎"
+
+#. Name for HIP 55219
+msgid "The northernmost of the [two stars] in the right hind paw"
+msgstr "‎La más septentrional de las [dos estrellas] en la pata trasera derecha‎"
+
+#. Name for HIP 62956
+msgid ""
+"The first of the three stars on the tail next to the place where it joins "
+"[the body]"
+msgstr ""
+"‎La primera de las tres estrellas en la cola junto al lugar donde se une [el ‎‎"
+"cuerpo‎]"
+
+#. Name for HIP 17874
+msgid "The middle one"
+msgstr "La del medio"
+
+#. Name for HIP 67301
+msgid "The third, on the end of the tail"
+msgstr "La tercera, al final de la cola"
+
+#. Name for HIP 63125
+msgid "The star under the tail, at some distance towards the south"
+msgstr "‎La ‎‎estrella‎‎ bajo la cola, a cierta ‎‎distancia‎‎ hacia el sur‎"
+
+#. Name for HIP 45860
+msgid ""
+"The southernmost of the [two] stars between the front legs of Ursa [Major] "
+"and the head of Leo"
+msgstr ""
+"‎La más meridional de las [dos] estrellas entre las patas delanteras de Ursa "
+"[Major] y la cabeza de Leo‎"
+
+#. Name for HIP 45688
+msgid "The one north of it"
+msgstr "La que está al norte‎"
+
+#. Name for HIP 46952
+msgid "The rearmost of the remaining three faint stars"
+msgstr "‎La parte trasera de las tres estrellas ‎‎débiles restantes‎"
+
+#. Name for HIP 14293
+msgid "The one in advance of this"
+msgstr "La que tiene por delante de esta"
+
+#. Name for HIP 44700
+msgid "The one in advance again of the latter"
+msgstr "La avanzada de nuevo de esta última"
+
+#. Name for HIP 41075
+msgid "The star between the front legs [of Ursa Major] and Gemini"
+msgstr "‎La ‎‎estrella‎‎ entre las patas delanteras [de Ursa Major] y ‎‎Géminis‎"
+
+#. Name for HIP 83608
+msgid "The star on the tongue"
+msgstr "La estrella en la lengua"
+
+#. Name for HIP 85819
+msgid "The star in the mouth"
+msgstr "La estrella en la boca"
+
+#. Name for HIP 85670
+msgid "The star above the eye"
+msgstr "La estrella encima del ojo"
+
+#. Name for HIP 87833
+msgid "The star above the head"
+msgstr "La estrella encima de la cabeza"
+
+#. Name for HIP 47908
+msgid "The southernmost of these"
+msgstr "La más meridional de éstas"
+
+#. Name for HIP 94376
+msgid "The more northerly star of the advance side"
+msgstr "‎La ‎‎estrella‎‎ más al norte del lado de avance‎"
+
+#. Name for HIP 97433
+msgid "The northern star of the rear side [of the quadrilateral]"
+msgstr "‎La ‎‎estrella‎‎ norte de la parte trasera [del cuadrilátero]‎"
+
+#. Name for HIP 98702
+msgid "The southern star of the rear side"
+msgstr "‎La ‎‎estrella del sur‎‎ del lado trasero‎"
+
+#. Name for HIP 96100
+msgid "The southern star of [those forming] the triangle in the next bend"
+msgstr ""
+"‎La ‎‎estrella del sur‎‎ de [los que forman] el triángulo en la siguiente curva‎"
+
+#. Name for HIP 92782
+msgid "The more advanced of the other two stars of the triangle"
+msgstr "La más avanzada de las otras dos estrellas del triángulo‎"
+
+#. Name for HIP 89937
+msgid "The southernmost of the other two forming the triangle"
+msgstr "La más meridional de las otras dos formando el triángulo‎"
+
+#. Name for HIP 89908
+msgid "The northernmost of the other two"
+msgstr "La más meridional de las otras dos"
+
+#. Name for HIP 85805
+msgid "The rearmost of the two small stars to the west of the triangle"
+msgstr "‎La más trasera de las dos pequeñas estrellas al oeste del triángulo‎"
+
+#. Name for HIP 86201
+msgid "The one in advance"
+msgstr "La más avanzada"
+
+#. Name for HIP 1686
+msgid "The middle one of the three"
+msgstr "La del medio de las tres"
+
+#. Name for HIP 1366
+msgid "The northernmost of them"
+msgstr "La más septentrional de ellas"
+
+#. Name for HIP 75458
+msgid "The star to the west of these, in the bend by the tail"
+msgstr "‎La ‎‎estrella‎‎ al oeste de estas, en la curva por la cola‎"
+
+#. Name for HIP 68756
+msgid "The rear star of these [two]"
+msgstr "La estrella trasera de éstas [dos]"
+
+#. Name for HIP 61281
+msgid "The star close by these, by the tail"
+msgstr "‎La ‎‎estrella‎‎ cerca por estas, por la cola‎"
+
+#. Name for HIP 56211
+msgid "The remaining star, on the tip of the tail"
+msgstr "‎La ‎‎estrella‎‎ restante, en la punta de la cola‎"
+
+#. Name for HIP 99255
+msgid "The star on the right leg"
+msgstr "La estrella en la pierna derecha"
+
+#. Name for HIP 116727
+msgid "The one on the left leg"
+msgstr "La de la pierna izquierda‎"
+
+#. Name for HIP 106032
+msgid "The star under the belt on the right side"
+msgstr "‎La ‎‎estrella‎‎ bajo el cinturón en el lado derecho‎"
+
+#. Name for HIP 105199
+msgid "The star over the right shoulder, which touches it"
+msgstr "‎La ‎‎estrella‎‎ sobre el hombro derecho, que la toca‎"
+
+#. Name for HIP 102422
+msgid "The star over the right elbow, which touches it"
+msgstr "‎La ‎‎estrella‎‎ sobre el codo derecho, que la toca‎"
+
+#. Name for HIP 18724
+msgid "The star in the chest"
+msgstr "La estrella en el pecho"
+
+#. Name for HIP 112724
+msgid "The star on the left arm"
+msgstr "La estrella en el brazo izquierdo"
+
+#. Name for HIP 3881
+msgid "The northernmost of the three"
+msgstr "La más meridional de las tres"
+
+#. Name for HIP 69483
+msgid "The most advanced of the three in the left arm"
+msgstr "La más avanzada de las tres en el brazo izquierdo"
+
+#. Name for HIP 69713
+msgid "The middle and southernmost of the three"
+msgstr "‎La del medio y más meridional de las tres‎"
+
+#. Name for HIP 5571
+msgid "The rearmost of the three"
+msgstr "La más retrasada de las tres"
+
+#. Name for HIP 4463
+msgid "The star on the left elbow"
+msgstr "‎La ‎‎estrella‎‎ en el codo izquierdo‎"
+
+#. Name for HIP 12777
+msgid "The star on the left shoulder"
+msgstr "La estrella en el hombro izquierdo"
+
+#. Name for HIP 2920
+msgid "The star on the head"
+msgstr "La estrella en la cabeza"
+
+#. Name for HIP 14328
+msgid "The star on the right shoulder"
+msgstr "La estrella en el hombro derecho"
+
+#. Name for HIP 75411
+msgid "The one to the north of these, on the staff"
+msgstr "La que está al norte de estas, en el bastón"
+
+#. Name for HIP 75312
+msgid "The northernmost of the two stars below the shoulder, in the club"
+msgstr "‎La más septentrional de las dos estrellas bajo el hombro, en el bastón"
+
+#. Name for HIP 73996
+msgid "The star on the end of the right arm"
+msgstr "La estrella al final del brazo derecho"
+
+#. Name for HIP 73745
+msgid "The more advanced of the two stars in the wrist"
+msgstr "La más avanzada de las dos estrellas en la muñeca"
+
+#. Name for HIP 145
+msgid "The rearmost of them"
+msgstr "La más retrasada de ellas"
+
+#. Name for HIP 73568
+msgid "The star on the end of the handle of the staff"
+msgstr "La estrella en el extremo del mango del bastón"
+
+#. Name for HIP 71284
+msgid "The rearmost of the two stars in the belt"
+msgstr "‎La más trasera de las dos estrellas en el cinturón‎"
+
+#. Name for HIP 5364
+msgid "The more advanced of them"
+msgstr "La más avanzada de ellas"
+
+#. Name for HIP 71795
+msgid "The star on the right heel"
+msgstr "La estrella en el talón derecho"
+
+#. Name for HIP 76267
+msgid "The bright star in the crown"
+msgstr "La estrella brillante en la corona"
+
+#. Name for HIP 30277
+msgid "The one north again of this"
+msgstr "La del norte de nuevo de esta"
+
+#. Name for HIP 80816
+msgid "The star on the right shoulder by the armpit"
+msgstr "La estrella en el hombro derecho por la axila"
+
+#. Name for HIP 68862
+msgid "The star on the right upper arm"
+msgstr "La estrella en el brazo superior derecho"
+
+#. Name for HIP 13268
+msgid "The star on the right elbow"
+msgstr "La estrella en el codo derecho"
+
+#. Name for HIP 3693
+msgid "The star on the left upper arm"
+msgstr "La estrella en el brazo superior izquierdo"
+
+#. Name for HIP 81693
+msgid "The star in the right side"
+msgstr "La estrella en el lado derecho"
+
+#. Name for HIP 83207
+msgid "The star in the left side"
+msgstr "La estrella en el lado izquierdo"
+
+#. Name for HIP 83313
+msgid "The one north of the latter, on the left buttock"
+msgstr "La que está al norte de esta última, en la nalga izquierda"
+
+#. Name for HIP 83838
+msgid "The one on the place where the thigh joins the same [buttock]"
+msgstr "La del lugar donde el muslo se une al mismo [nalga]"
+
+#. Name for HIP 13288
+msgid "The one to the rear of this"
+msgstr "La que está detrás de esta"
+
+#. Name for HIP 85112
+msgid "The one yet further to the rear of this"
+msgstr "La que está aún más atrás de esta"
+
+#. Name for HIP 81833
+msgid "The star on the place where the right thigh joins [the buttock]"
+msgstr "La estrella en el lugar donde se une el muslo derecho [la nalga]"
+
+#. Name for HIP 81126
+msgid "The star north of it in the same thigh"
+msgstr "La estrella al norte de ella en el mismo muslo"
+
+#. Name for HIP 5434
+msgid "The star on the right knee"
+msgstr "La estrella en la rodilla derecha"
+
+#. Name for HIP 77760
+msgid "The star in the right lower leg"
+msgstr "La estrella en la parte inferior de la pierna derecha"
+
+#. Name for HIP 80463
+msgid "The star south of the one in the right upper arm"
+msgstr ""
+"La estrella al sur de la que está en la parte superior del brazo derecho"
+
+#. Name for HIP 92791
+msgid ""
+"The one to the rear of these, in between the points where the horns [of the "
+"lyre] are attached"
+msgstr ""
+"La de la parte trasera de estas, entre los puntos donde se unen los cuernos "
+"[de la liras]‎"
+
+#. Name for HIP 95947
+msgid "The star on the beak"
+msgstr "‎La ‎‎estrella‎‎ en el pico‎"
+
+#. Name for HIP 96683
+msgid "The one to the rear of this, on the head"
+msgstr "La que está detrás de esta, en la cabeza"
+
+#. Name for HIP 98110
+msgid "The star in the middle of the neck"
+msgstr "La estrella en el medio del cuello"
+
+#. Name for HIP 3179
+msgid "The star in the breast"
+msgstr "La estrella en el pecho"
+
+#. Name for HIP 102098
+msgid "The bright star in the tail"
+msgstr "La estrella brillante en la cola"
+
+#. Name for HIP 97165
+msgid "The star in the bend of the right wing"
+msgstr "‎La ‎‎estrella‎‎ en la curva del ala derecha‎"
+
+#. Name for HIP 94779
+msgid "The northernmost of them, on the tip of the wing-feathers"
+msgstr "La más septentrional de ellas, en la punta de las plumas de las alas‎"
+
+#. Name for HIP 102488
+msgid "The star on the bend of the left wing"
+msgstr "‎La ‎‎estrella‎‎ en la curva del ala izquierda‎"
+
+#. Name for HIP 102589
+msgid "The star north of this, in the middle of the same wing"
+msgstr "‎La ‎‎estrella‎‎ al norte de esta, en medio de la misma ala‎"
+
+#. Name for HIP 104732
+msgid "The star in the tip of the feathers of the left wing"
+msgstr "‎La ‎‎estrella‎‎ en la punta de las plumas del ala izquierda‎"
+
+#. Name for HIP 103413
+msgid "The star on the left leg"
+msgstr "La estrella en la pierna izquierda"
+
+#. Name for HIP 3821
+msgid "The one north of that, on the belt"
+msgstr "La que está al norte de esa, en el cinturón‎"
+
+#. Name for HIP 6686
+msgid "The star in the knees"
+msgstr "La estrella en las rodillas"
+
+#. Name for HIP 8886
+msgid "The star on the lower leg"
+msgstr "La estrella en la parte inferior de la pierna"
+
+#. Name for HIP 11569
+msgid "The star on the end of the leg"
+msgstr "La estrella al final de la pierna"
+
+#. Name for HIP 6242
+msgid "The star below the left elbow"
+msgstr "La estrella debajo del codo izquierdo"
+
+#. Name for HIP 29800
+msgid "The star on the right forearm"
+msgstr "La estrella en el antebrazo derecho"
+
+#. Name for HIP 14632
+msgid "The star on the place between the shoulders"
+msgstr "La estrella en el lugar en medio de los hombros"
+
+#. Name for HIP 15863
+msgid "The bright star in the right side"
+msgstr "La estrella brillante en el lado derecho"
+
+#. Name for HIP 14354
+msgid "The one in advance of the bright star"
+msgstr "La más avanzada de la ‎‎estrella‎‎ ‎‎brillante‎"
+
+#. Name for HIP 13879
+msgid "The remaining one, yet again in advance of this"
+msgstr "La restante, una vez más antes de esta"
+
+#. Name for HIP 20070
+msgid "The star in the right knee"
+msgstr "La estrella en la rodilla derecha"
+
+#. Name for HIP 19167
+msgid "The one in advance of this, over the knee"
+msgstr "La más avanzada de esta, sobre la rodilla"
+
+#. Name for HIP 19812
+msgid "The rearmost of them, just over the bend in the knee"
+msgstr "‎La parte trasera de ellas, justo sobre la curva en la rodilla‎"
+
+#. Name for HIP 20354
+msgid "The star on the right calf"
+msgstr "‎La ‎‎estrella‎‎ en la pantorrilla derecha‎"
+
+#. Name for HIP 21476
+msgid "The star on the right ankle"
+msgstr "La estrella en el tobillo derecho"
+
+#. Name for HIP 17529
+msgid "The star in the left thigh"
+msgstr "La estrella en el muslo izquierdo"
+
+#. Name for HIP 18614
+msgid "The star on the left lower leg"
+msgstr "La estrella en la parte inferior de la pierna izquierda"
+
+#. Name for HIP 17448
+msgid "The star on the left heel"
+msgstr "La estrella en el talón izquierdo"
+
+#. Name for HIP 18246
+msgid "The one to the rear of this, on the left foot"
+msgstr "La que está detrás de esta, en el pie izquierdo"
+
+#. Name for HIP 19811
+msgid "The star to the east of the one on the left knee"
+msgstr "‎La ‎‎estrella‎‎ al este de la de la rodilla izquierda‎"
+
+#. Name for HIP 19949
+msgid "The star to the north of the one in the right knee"
+msgstr "‎La ‎‎estrella‎‎ al norte de la de la rodilla derecha‎"
+
+#. Name for HIP 13254
+msgid "The star in advance of those in the Gorgon-head"
+msgstr "‎La ‎‎estrella‎‎ avanzada de las de la cabeza de Gorgon‎"
+
+#. Name for HIP 28358
+msgid "The southernmost of the two on the head"
+msgstr "La más meridional de las dos en la cabeza‎"
+
+#. Name for HIP 27949
+msgid "The northernmost [of these], over the head"
+msgstr "La más septentrional [de estas], sobre la cabeza‎"
+
+#. Name for HIP 28380
+msgid "The star on the right wrist"
+msgstr "La estrella en la muñeca derecha"
+
+#. Name for HIP 23453
+msgid "The more advanced of these"
+msgstr "La más avanzada de estas"
+
+#. Name for HIP 23015
+msgid "The star on the left ankle"
+msgstr "La estrella en el tobillo izquierdo"
+
+#. Name for HIP 25984
+msgid "The one to the north of the latter, in the lower hem [of the garment]"
+msgstr "La del norte de esta última, en el dobladillo inferior [de la prenda]‎"
+
+#. Name for HIP 25541
+msgid "The one north again of this, on the buttock"
+msgstr "La del norte de nuevo de esta, en la nalga"
+
+#. Name for HIP 84893
+msgid "The star on the right lower leg"
+msgstr "La estrella en la parte inferior de la pierna derecha"
+
+#. Name for HIP 85340
+msgid "The one to the rear again of that"
+msgstr "La que está de nuevo detrás de esa"
+
+#. Name for HIP 86736
+msgid "The star to the rear of these, which touches the heel"
+msgstr "‎La ‎‎estrella‎‎ en la parte trasera de estas, que toca el talón‎"
+
+#. Name for HIP 81377
+msgid "The star in the left knee"
+msgstr "La estrella en la rodilla izquierda"
+
+#. Name for HIP 4366
+msgid "The middle one of these"
+msgstr "La del medio de estas"
+
+#. Name for HIP 26241
+msgid "The southernmost of the three"
+msgstr "La más septentrional de las tres"
+
+#. Name for HIP 80473
+msgid "The star touching the hollow of the left foot"
+msgstr "‎La ‎‎estrella‎‎ tocando el hueco del pie izquierdo‎"
+
+#. Name for HIP 76852
+msgid "Stars on the quadrilateral in the head:  the one on the end of the jaw"
+msgstr ""
+"‎Estrellas en el cuadrilátero en la cabeza: la del extremo de la mandíbula‎"
+
+#. Name for HIP 77661
+msgid "The one touching the nostrils"
+msgstr "La que toca las fosas nasales‎"
+
+#. Name for HIP 78072
+msgid "The one in the temple"
+msgstr "La del templo"
+
+#. Name for HIP 77233
+msgid "The one where the neck joins [the head]"
+msgstr "‎Aquella donde el cuello se une [la cabeza]‎"
+
+#. Name for HIP 77450
+msgid "The one in the middle of the quadrilateral, in the mouth"
+msgstr "La que está en medio del cuadrilátero, en la boca‎"
+
+#. Name for HIP 78554
+msgid "The star outside the head, to the north of it"
+msgstr "‎La ‎‎estrella‎‎ fuera de la cabeza, al norte de ella‎"
+
+#. Name for HIP 76276
+msgid "The one after the first bend in the neck"
+msgstr "La que está después de la primera curva en el cuello‎"
+
+#. Name for HIP 77516
+msgid ""
+"The star after the next bend, which is in advance of the left hand of "
+"Ophiuchus"
+msgstr ""
+"‎La ‎‎estrella‎‎ después de la siguiente curva, que está por delante de la mano "
+"izquierda de Ofiuco"
+
+#. Name for HIP 84880
+msgid "The one after the back of the right thigh of Ophiuchus"
+msgstr "La de la parte posterior del muslo derecho de Ofiuco"
+
+#. Name for HIP 88175
+msgid "The one after the right hand [of Ophiuchus], on the bend in the tail"
+msgstr "La de la mano derecha [de Ofiuco], en la curva de la cola‎"
+
+#. Name for HIP 89962
+msgid "The one to the rear of this, likewise on the tail"
+msgstr "La que está detrás de esta, del mismo modo en la cola"
+
+#. Name for HIP 28103
+msgid "The star on the tip of the tail"
+msgstr "La estrella en la punta de la cola"
+
+#. Name for HIP 98337
+msgid "The lone star on the arrow-head"
+msgstr "‎La ‎‎estrella‎‎ solitaria en la cabeza de la flecha‎"
+
+#. Name for HIP 97496
+msgid "The rearmost of the three stars in the shaft"
+msgstr "‎La más trasera de las tres estrellas en el eje‎"
+
+#. Name for HIP 3885
+msgid "The most advanced of the three"
+msgstr "La más avanzada de las tres"
+
+#. Name for HIP 96837
+msgid "The star on the end of the notch"
+msgstr "‎La ‎‎estrella‎‎ al final de la muesca‎"
+
+#. Name for HIP 98823
+msgid "The star in the middle of the head"
+msgstr "La estrella en el medio de la cabeza"
+
+#. Name for HIP 98036
+msgid "The one in advance of this, on the neck"
+msgstr "La más avanzada de esta, en el cuello"
+
+#. Name for HIP 97675
+msgid "The one close to this towards the north"
+msgstr "La cercana a esta hacia el norte‎"
+
+#. Name for HIP 96229
+msgid "The more advanced of the two in the right shoulder"
+msgstr "La más avanzada de las dos en el hombro derecho"
+
+#. Name for HIP 96468
+msgid "The one to the south of this"
+msgstr "La que está al sur de esta"
+
+#. Name for HIP 96483
+msgid "The one to the south again of the latter"
+msgstr "La que está al sur de nuevo de esta última"
+
+#. Name for HIP 75695
+msgid "The star most in advance of all"
+msgstr "La estrella más avanzada de todas"
+
+#. Name for HIP 3455
+msgid "The northernmost one on the advance side"
+msgstr "La más septentrional en el lado avanzado"
+
+#. Name for HIP 102281
+msgid "The southernmost one on the rear side of the rhombus"
+msgstr "La más meridional en el lado trasero del rombo‎"
+
+#. Name for HIP 12390
+msgid "The northernmost one on the rear side"
+msgstr "La más septentrional en la parte trasera‎"
+
+#. Name for HIP 101882
+msgid "The remaining, rearmost one"
+msgstr "La restante, la más retrasada"
+
+#. Name for HIP 104521
+msgid "The more advanced of the two stars in the mouth"
+msgstr "La más avanzada de las dos estrellas en la boca"
+
+#. Name for HIP 677
+msgid ""
+"The star on the navel, which is [applied in] common to the head of Andromeda"
+msgstr ""
+"‎La ‎‎estrella‎‎ en el ombligo, que se aplica [en común] a la cabeza de Andrómeda‎"
+
+#. Name for HIP 1067
+msgid "The star on the rump and the wing-tip"
+msgstr "‎La ‎‎estrella‎‎ en la grupa y la punta del ala‎"
+
+#. Name for HIP 113881
+msgid "The star on the right shoulder and the place where the leg joins [it]"
+msgstr ""
+"‎La ‎‎estrella‎‎ en el hombro derecho y el lugar donde la pierna se une [a ella]‎"
+
+#. Name for HIP 113963
+msgid ""
+"The star on the place between the shoulders and the shoulder-part of the wing"
+msgstr ""
+"‎La ‎‎estrella‎‎ en el lugar entre los hombros y la parte del hombro del ala‎"
+
+#. Name for HIP 115250
+msgid "The northernmost of the two stars in the body under the wing"
+msgstr "‎La más septentrional de las dos estrellas en el ‎‎cuerpo‎‎ bajo el ala‎"
+
+#. Name for HIP 112158
+msgid "The northernmost of the two stars in the right knee"
+msgstr "‎La más septentrional de las dos estrellas en la rodilla derecha‎"
+
+#. Name for HIP 112440
+msgid "The more advanced of the two stars close together in the chest"
+msgstr "La más avanzada de las dos estrellas cercanas entre sí en el pecho‎"
+
+#. Name for HIP 113186
+msgid "The southernmost of the two stars on the mane"
+msgstr "‎La más meridional de las dos estrellas en la melena‎"
+
+#. Name for HIP 109427
+msgid "The northernmost of the two stars close together on the head"
+msgstr ""
+"‎La más septentrional de las dos estrellas cercanas entre sí en la cabeza‎"
+
+#. Name for HIP 107315
+msgid "The star in the muzzle"
+msgstr "‎La ‎‎estrella‎‎ en el hocico‎"
+
+#. Name for HIP 109410
+msgid "The star in the right hock"
+msgstr "‎La ‎‎estrella‎‎ en el casco derecho‎"
+
+#. Name for HIP 107354
+msgid "The star in the left hock"
+msgstr "La estrella en el casco izquierdo"
+
+#. Name for HIP 3092
+msgid "The star in the place between the shoulders"
+msgstr "La estrella entre los hombros"
+
+#. Name for HIP 2912
+msgid "The star in the right shoulder"
+msgstr "La estrella en el hombro derecho"
+
+#. Name for HIP 3031
+msgid "The star in the left shoulder"
+msgstr "La estrella en el hombro izquierdo"
+
+#. Name for HIP 8068
+msgid "The star in the right foot"
+msgstr "La estrella en el pie derecho"
+
+#. Name for HIP 7607
+msgid "The one south of the latter"
+msgstr "La del sur de esta última"
+
+#. Name for HIP 113726
+msgid "The star in advance of the three in the right hand, outside [of it]"
+msgstr "‎La ‎‎estrella‎‎ delante de las tres en la mano derecha, fuera [de ella]‎"
+
+#. Name for HIP 8796
+msgid "The star in the apex of the triangle"
+msgstr "‎La ‎‎estrella‎‎ en el ápice del triángulo‎"
+
+#. Name for HIP 9110
+msgid "The star on the neck"
+msgstr "La estrella en el cuello"
+
+#. Name for HIP 12332
+msgid "The star on the rump"
+msgstr "‎La ‎‎estrella‎‎ en la grupa‎"
+
+#. Name for HIP 13702
+msgid "The star in the back of the thigh"
+msgstr "‎La ‎‎estrella‎‎ en la parte posterior del muslo‎"
+
+#. Name for HIP 12828
+msgid "The star on the hind hoof"
+msgstr "‎La ‎‎estrella‎‎ en la pezuña trasera‎"
+
+#. Name for HIP 9884
+msgid ""
+"The star over the head, which Hipparchus [calls] 'the one on the muzzle'"
+msgstr "‎La ‎‎estrella‎‎ sobre la cabeza, que Hiparco [llama] 'la del hocico'‎"
+
+#. Name for HIP 12719
+msgid "The middle one of these three"
+msgstr "La del medio de estas tres‎"
+
+#. Name for HIP 16322
+msgid "The one close by this"
+msgstr "La cercana a esta"
+
+#. Name for HIP 16083
+msgid "The one close again to the latter"
+msgstr "La que está cercana de nuevo de esta última"
+
+#. Name for HIP 18907
+msgid "The star on the right hock"
+msgstr "‎La ‎‎estrella‎‎ en el casco derecho"
+
+#. Name for HIP 20889
+msgid "The remaining one, on the northern eye"
+msgstr "La restante, en el ojo del norte"
+
+#. Name for HIP 22565
+msgid ""
+"The star on the place where the southern horn and the ear join [the head]"
+msgstr ""
+"‎La ‎‎estrella‎‎ en el lugar donde el cuerno del sur y la oreja se unen [a la "
+"cabeza]‎"
+
+#. Name for HIP 23871
+msgid "The northernmost of these"
+msgstr "La más septentrional de estas"
+
+#. Name for HIP 26451
+msgid "The star on the tip of the southern horn"
+msgstr "‎La ‎‎estrella‎‎ en la punta del cuerno del sur‎"
+
+#. Name for HIP 21881
+msgid "The star on the place where the northern horn joins [the head]"
+msgstr "‎La ‎‎estrella‎‎ en el lugar donde el cuerno del norte se une [a la cabeza]‎"
+
+#. Name for HIP 19205
+msgid "The northernmost star on the advance side"
+msgstr "La estrella más septentrional en el lado avanzado"
+
+#. Name for HIP 20430
+msgid "The southernmost star on the rear side"
+msgstr "‎La ‎‎estrella más meridional‎‎ del lado trasero‎"
+
+#. Name for HIP 17531
+msgid "The Pleiades:  the northern end of the advance side"
+msgstr "‎Las Pléyades: el extremo norte del lado avanzado"
+
+#. Name for HIP 17608
+msgid "The southern end of the advance side [of the Pleiades]"
+msgstr "‎El extremo sur del lado avanzado [de las Pléyades]‎"
+
+#. Name for HIP 17847
+msgid "The rearmost and narrowest end of the Pleiades"
+msgstr "El extremo más retrasado y estrecho de las Pléyades"
+
+#. Name for HIP 17954
+msgid "The small star outside the Pleiades, towards the north"
+msgstr "La estrella pequeña fuera de las Pléyades, hacia el norte"
+
+#. Name for HIP 27468
+msgid "The one to the rear again of the latter"
+msgstr "La que está de nuevo detrás de esa última"
+
+#. Name for HIP 28237
+msgid "The southernmost of these two"
+msgstr "La más meridional de estas dos"
+
+#. Name for HIP 36850
+msgid "The star on the head of the advance twin"
+msgstr "‎La ‎‎estrella‎‎ en la cabeza del gemelo adelantado‎"
+
+#. Name for HIP 37826
+msgid "The reddish star on the head of the rear twin"
+msgstr "‎La estrella ‎‎rojiza‎‎ en la cabeza del gemelo trasero‎"
+
+#. Name for HIP 33018
+msgid "The star in the left forearm of the advance twin"
+msgstr "‎La ‎‎estrella‎‎ en el antebrazo izquierdo del gemelo adelantado‎"
+
+#. Name for HIP 34693
+msgid "The star in the same [left] upper arm"
+msgstr "‎La ‎‎estrella‎‎ en la misma parte superior [izquierda] del brazo‎"
+
+#. Name for HIP 36962
+msgid ""
+"The one to the rear of this, on the right shoulder of the same [advance] twin"
+msgstr ""
+"La de la parte trasera de esta, en el hombro derecho del mismo gemelo "
+"[adelantado]‎"
+
+#. Name for HIP 37740
+msgid "The star on the rear shoulder of the rear twin"
+msgstr "‎La ‎‎estrella‎‎ en el hombro trasero del gemelo trasero‎"
+
+#. Name for HIP 35846
+msgid "The star on the right side of the advance twin"
+msgstr "‎La ‎‎estrella‎‎ en el lado derecho del gemelo adelantado"
+
+#. Name for HIP 35842
+msgid "The star on the left side of the rear twin"
+msgstr "‎La ‎‎estrella‎‎ en el lado izquierdo del gemelo trasero‎"
+
+#. Name for HIP 32246
+msgid "The star on the left knee of the advance twin"
+msgstr "‎La ‎‎estrella‎‎ en la rodilla izquierda del gemelo adelantado‎"
+
+#. Name for HIP 35350
+msgid "The star over the bend in the right knee of the same [rear] twin"
+msgstr ""
+"‎La ‎‎estrella‎‎ sobre la curva en la rodilla derecha del mismo gemelo [trasero]‎"
+
+#. Name for HIP 30343
+msgid "The one to the rear of this on the same foot"
+msgstr "La de la parte trasera de esta en el mismo pie‎"
+
+#. Name for HIP 30883
+msgid "The star on the right foot of the advance twin"
+msgstr "‎La ‎‎estrella‎‎ en el pie derecho del gemelo avanzado"
+
+#. Name for HIP 31681
+msgid "The star on the left foot of the rear twin"
+msgstr "‎La ‎‎estrella‎‎ en el pie izquierdo del gemelo trasero‎"
+
+#. Name for HIP 32362
+msgid "The star on the right foot of the rear twin"
+msgstr "‎La ‎‎estrella‎‎ en el pie derecho del gemelo trasero‎"
+
+#. Name for HIP 29696
+msgid "The bright star in advance of the advance knee"
+msgstr "‎La ‎‎estrella‎‎ ‎‎brillante‎‎ antes de la rodilla adelantada"
+
+#. Name for HIP 32921
+msgid "The star in advance of the left knee of the rear twin"
+msgstr "‎La ‎‎estrella‎‎ delante de la rodilla izquierda del gemelo traserao"
+
+#. Name for HIP 38722
+msgid ""
+"The northernmost of the three stars in a straight line to the rear of the "
+"right arm of the rear twin"
+msgstr ""
+"‎La más septentrional de las tres estrellas en línea recta a la parte trasera "
+"del brazo derecho del gemelo trasero"
+
+#. Name for HIP 37300
+msgid "The southernmost of them, near the forearm of the [right] arm"
+msgstr "La más meridional de ellas, cerca del antebrazo del brazo [derecho]‎"
+
+#. Name for HIP 41822
+msgid "The southernmost of the two stars in advance"
+msgstr "‎La más meridional de las dos estrellas avanzadas"
+
+#. Name for HIP 44066
+msgid "The star on the southern claw"
+msgstr "La estrella en la garra del sur"
+
+#. Name for HIP 43100
+msgid "The star on the northern claw"
+msgstr "La estrella en la garra del norte"
+
+#. Name for HIP 39780
+msgid "The star on the northern back leg"
+msgstr "‎La ‎‎estrella‎‎ en la pierna trasera del norte‎"
+
+#. Name for HIP 40526
+msgid "The star on the southern back leg"
+msgstr "‎La ‎‎estrella‎‎ en la pierna trasera del sur"
+
+#. Name for HIP 45410
+msgid "The star over the joint in the southern claw"
+msgstr "‎La estrella sobre la articulación en la garra del sur"
+
+#. Name for HIP 44798
+msgid "The star to the rear of the tip of the southern claw"
+msgstr "‎La ‎‎estrella‎‎ en la parte trasera de la punta de la garra del sur‎"
+
+#. Name for HIP 44405
+msgid ""
+"The more advanced of the two stars over the nebula and to the rear of it"
+msgstr ""
+"La más avanzada de las dos estrellas sobre la nebulosa y hacia atrás de ella"
+
+#. Name for HIP 44946
+msgid "The rearmost of these [two]"
+msgstr "La más trasera de estas [dos]"
+
+#. Name for HIP 13954
+msgid "The star on the tip of the nostrils"
+msgstr "La estrella en la punta de las fosas nasales"
+
+#. Name for HIP 46750
+msgid "The star in the gaping jaws"
+msgstr "‎La ‎‎estrella‎‎ en las mandíbulas abiertas‎"
+
+#. Name for HIP 48455
+msgid "The northernmost of the two stars in the head"
+msgstr "La más septentrional de las dos estrellas en la cabeza"
+
+#. Name for HIP 50583
+msgid "The one close to this, the middle one of the three"
+msgstr "La que está cerca de esta, la del medio de las tres"
+
+#. Name for HIP 49637
+msgid "The one south of this, about on the chest"
+msgstr "La que está al sur de esta, sobre el pecho‎"
+
+#. Name for HIP 46771
+msgid "The star on the right front claw-clutch"
+msgstr "La estrella en la garra delantera derecha"
+
+#. Name for HIP 47508
+msgid "The star on the left front claw-clutch"
+msgstr "La estrella en la garra delantera izquierda"
+
+#. Name for HIP 49029
+msgid "The star on the left [front] knee"
+msgstr "La estrella en la rodilla [delantera] izquierda"
+
+#. Name for HIP 51624
+msgid "The star on the left armpit"
+msgstr "La estrella en la axila izquierda"
+
+#. Name for HIP 51585
+msgid "The most advanced of the three stars in the belly"
+msgstr "La más avanzada de las tres estrellas en el vientre"
+
+#. Name for HIP 52911
+msgid "The southernmost of these [two]"
+msgstr "La más meridional de estas [dos]"
+
+#. Name for HIP 53954
+msgid "The more advanced of the two stars on the rump"
+msgstr "La más avanzada de las dos estrellas en la grupa"
+
+#. Name for HIP 55642
+msgid "The star in the hind thighs"
+msgstr "La estrella en los muslos traseros"
+
+#. Name for HIP 55434
+msgid "The star in the hind leg-bends"
+msgstr "‎La ‎‎estrella‎‎ en las curvas traseras de las piernas‎"
+
+#. Name for HIP 55945
+msgid "The one south of this, about in the lower legs"
+msgstr "La que está al sur de esta, sobre en la parte inferior de las piernas"
+
+#. Name for HIP 56647
+msgid "The star on the hind claw-clutches"
+msgstr "La estrella en el agarre de la garra trasera"
+
+#. Name for HIP 11767
+msgid "The star on the end of the tail"
+msgstr "La estrella al final de la cola"
+
+#. Name for HIP 60742
+msgid ""
+"The northernmost part of the nebulous mass between the edges of Leo and Ursa "
+"[Major], called Coma [Berenices]"
+msgstr ""
+"‎La parte más septentrional de la ‎‎masa‎‎ nebulosa entre los bordes de Leo y "
+"Ursa [Major], llamada ‎‎Coma‎‎ [Berenices]‎"
+
+#. Name for HIP 59847
+msgid "The most advanced of the southern outrunners of Coma"
+msgstr "La más avanzada de los corredores del sur de Coma"
+
+#. Name for HIP 61394
+msgid "The rearmost of them, shaped like an ivy leaf"
+msgstr "La última de ellas, con forma de hoja de hiedra"
+
+#. Name for HIP 57757
+msgid "The star on the tip of the southern, left wing"
+msgstr "‎La ‎‎estrella‎‎ en la punta del ala izquierda, del sur‎"
+
+#. Name for HIP 63494
+msgid "The one to the rear again of this"
+msgstr "La que está de nuevo detrás de esta"
+
+#. Name for HIP 63090
+msgid "The star in the right side under the girdle"
+msgstr "‎La ‎‎estrella‎‎ en el lado derecho debajo de la faja‎"
+
+#. Name for HIP 63608
+msgid "The northernmost of these, called 'Vindemiatrix'"
+msgstr "La más septentrional de estas, llamada 'Vindemiatrix'"
+
+#. Name for HIP 66249
+msgid "The star under the apron just about over the right buttock"
+msgstr "‎La ‎‎estrella‎‎ bajo el delantal casi sobre la nalga derecha"
+
+#. Name for HIP 24327
+msgid "The southern star on the advance side"
+msgstr "La estrella del sur en el lado avanzado"
+
+#. Name for HIP 67929
+msgid "The star in the back of the right thigh"
+msgstr "‎La ‎‎estrella‎‎ en la parte trasera del muslo‎ derecho"
+
+#. Name for HIP 69974
+msgid "The star on the left, southern foot"
+msgstr "‎La ‎‎estrella‎‎ a la izquierda, pie del sur‎"
+
+#. Name for HIP 71957
+msgid "The star on the right, northern foot"
+msgstr "La estrella a la derecha, pie del norte"
+
+#. Name for HIP 61740
+msgid ""
+"The most advanced of the three in a straight line under the left forearm"
+msgstr "La más avanzada de las tres en línea recta bajo el antebrazo izquierdo‎"
+
+#. Name for HIP 64924
+msgid "The middle one of these, which is a double star"
+msgstr "La del medio de estas, que es una estrella doble"
+
+#. Name for HIP 74392
+msgid "The star in the middle of the southern claw"
+msgstr "‎La ‎‎estrella‎‎ en medio de la garra del sur‎"
+
+#. Name for HIP 73945
+msgid "The one in advance of this on the same claw"
+msgstr "La avanzada de esta en la misma garra‎"
+
+#. Name for HIP 76333
+msgid "The star in the middle of the northern claw"
+msgstr "‎La ‎‎estrella‎‎ en medio de la garra del norte"
+
+#. Name for HIP 77853
+msgid "The one to the rear of this on the same claw"
+msgstr "La de la parte trasera de esta en la misma garra"
+
+#. Name for HIP 78104
+msgid "The star south again of this, on one of the legs"
+msgstr "‎La ‎‎estrella‎‎ al sur de nuevo de esta, en una de las piernas‎"
+
+#. Name for HIP 79881
+msgid "The rearmost of these"
+msgstr "La más retrasada de estas"
+
+#. Name for HIP 82729
+msgid "The southern star of the double-star"
+msgstr "‎La ‎‎estrella‎‎ del sur de la estrella doble"
+
+#. Name for HIP 87261
+#. Name for NGC 6441
+msgid "The nebulous star to the rear of the sting"
+msgstr "‎La ‎‎estrella‎‎ nebulosa en la parte trasera del aguijón"
+
+#. Name for HIP 88635
+msgid "The star on the point of the arrow"
+msgstr "La estrella en la punta de la flecha"
+
+#. Name for HIP 90185
+msgid "The star in the southern portion of the bow"
+msgstr "‎La ‎‎estrella‎‎ en la parte sur del arco‎"
+
+#. Name for HIP 89341
+msgid "The northernmost of these, on the tip of the bow"
+msgstr "La más septentrional de estas, en la punta del arco"
+
+#. Name for HIP 92761
+msgid "The star on the eye, which is nebulous and double"
+msgstr "‎La ‎‎estrella‎‎ en el ojo, que es nebulosa y ‎‎doble‎"
+
+#. Name for HIP 96950
+msgid "The faint star to the rear of these three"
+msgstr "‎La ‎‎‎‎estrella‎‎ débil‎‎ en la parte trasera de estas tres‎"
+
+#. Name for HIP 93506
+msgid "The other one, under the armpit"
+msgstr "La otra, debajo de la axila"
+
+#. Name for HIP 95241
+msgid "The star on the front left hock"
+msgstr "La estrella delante del casco izquierdo"
+
+#. Name for HIP 95347
+msgid "The one on the knee of the same leg"
+msgstr "La de la rodilla de la misma pierna"
+
+#. Name for HIP 89642
+msgid "The star on the front right hock"
+msgstr "La estrella delante del casco derecho"
+
+#. Name for HIP 98412
+msgid "The star on the left thigh"
+msgstr "La estrella en el muslo izquierdo"
+
+#. Name for HIP 98032
+msgid "The star on the right hind lower leg"
+msgstr "‎La ‎‎estrella‎‎ en la pierna inferior trasera derecha‎"
+
+#. Name for HIP 98353
+msgid "The rear star on the northern side"
+msgstr "La estrella trasera en el lado del norte"
+
+#. Name for HIP 29038
+msgid "The advance star on the southern side"
+msgstr "La estrella avanzada en el lado del sur"
+
+#. Name for HIP 98688
+msgid "The rear star on the southern side"
+msgstr "La estrella trasera en el lado del sur"
+
+#. Name for HIP 99572
+msgid "The star on the tip of the advance horn"
+msgstr "La estrella en la punta del cuerno avanzado"
+
+#. Name for HIP 100881
+msgid "The more advanced of the other two"
+msgstr "La más avanzada de las otras dos"
+
+#. Name for HIP 102485
+msgid "The star under the right knee"
+msgstr "La estrella debajo de la rodilla derecha"
+
+#. Name for HIP 102978
+msgid "The star on the left, doubled-up knee"
+msgstr "‎La ‎‎estrella en la rodilla izquierda doblada‎"
+
+#. Name for HIP 107382
+msgid "The northernmost of them, on the end of the tail-fin"
+msgstr "La más septentrional de ellas, en el extremo de la aleta de cola‎"
+
+#. Name for HIP 106944
+msgid "The star on the head of Aquarius"
+msgstr "La estrella en la cabeza de Acuario"
+
+#. Name for HIP 108874
+msgid "The fainter one, under it"
+msgstr "La débil, debajo de ella"
+
+#. Name for HIP 106786
+msgid "The one under that, in the back, approximately under the armpit"
+msgstr ""
+"La que está debajo de esa, en la parte posterior, aproximadamente debajo de "
+"la axila‎"
+
+#. Name for HIP 104459
+msgid "The rearmost of the three stars in the left arm, on the coat"
+msgstr ""
+"La más trasera de las tres estrellas en el brazo izquierdo, en el abrigo"
+
+#. Name for HIP 110395
+msgid "The star in the right forearm"
+msgstr "La estrella en el antebrazo derecho"
+
+#. Name for HIP 111123
+msgid "The star on the right buttock"
+msgstr "‎La ‎‎estrella‎‎ en la nalga derecha"
+
+#. Name for HIP 112716
+msgid "The northernmost of them, under the knee-bend"
+msgstr "La más septentrional de ellas, bajo la curva de la rodilla"
+
+#. Name for HIP 110778
+msgid "The star in the back of the left thigh"
+msgstr "‎La ‎‎estrella‎‎ en la parte posterior del muslo‎ izquierdo"
+
+#. Name for HIP 112211
+msgid "The northernmost of these, under the knee"
+msgstr "La más septentrional de estas, debajo de la rodilla"
+
+#. Name for HIP 111710
+msgid ""
+"The stars on the flow of water:  the most advanced [in the section] "
+"beginning at the hand"
+msgstr ""
+"‎Las estrellas en el flujo de agua: las más avanzadas [en la sección] "
+"comenzando a la mano‎"
+
+#. Name for HIP 112961
+msgid "The one next to the latter towards the south"
+msgstr "La que está al lado de esta última hacia el sur‎"
+
+#. Name for HIP 114939
+msgid "The one in the bend to the south of this"
+msgstr "La de la curva al sur de esta"
+
+#. Name for HIP 115115
+msgid "The southernmost of the two"
+msgstr "La más septentrional de las dos"
+
+#. Name for HIP 115126
+msgid "The lone star at some distance from these [two] towards the south"
+msgstr "‎La ‎‎estrella‎‎ solitaria a cierta ‎‎distancia‎‎ de estas [dos] hacia el sur‎"
+
+#. Name for HIP 113368
+msgid "The star at the end of the water and on the mouth of Piscis Austrinus"
+msgstr ""
+"‎La ‎‎estrella‎‎ al final del agua y en la desembocadura de Piscis Austrinus‎"
+
+#. Name for HIP 113889
+msgid "The star in the mouth of the advance fish"
+msgstr "‎La ‎‎estrella en la boca del pez avanzado"
+
+#. Name for HIP 118268
+msgid "The star in the tail of the same [advance] fish"
+msgstr "‎La ‎‎estrella‎‎ en la cola del mismo pez [avanzado]‎"
+
+#. Name for HIP 5454
+msgid "The star in the rear spine, near the tail"
+msgstr "‎La ‎‎estrella‎‎ detrás de la columna vertebral, cerca de la cola‎"
+
+#. Name for HIP 154
+msgid "The more advanced star on the southern side"
+msgstr "‎La ‎‎estrella‎‎ más avanzada en el lado sur‎"
+
+#. Name for HIP 443
+msgid "The rearmost one on the southern side"
+msgstr "La estrella más trasera en el lado del sur"
+
+#. Name for HIP 12706
+msgid "The middle one, in the middle of the mouth"
+msgstr "La del medio, en medio de la boca‎"
+
+#. Name for HIP 12093
+msgid "The star on the eyebrow and the eye"
+msgstr "‎La ‎‎estrella‎‎ en la ceja y el ojo‎"
+
+#. Name for HIP 11484
+msgid "The one to the north of this, about on the hair"
+msgstr "La que está al norte de esta, sobre el pelo‎"
+
+#. Name for HIP 10324
+msgid "The one in advance of these, about on the mane"
+msgstr "La avanzada de estas, sobre la melena‎"
+
+#. Name for HIP 3436
+msgid "The southernmost one on the advance side"
+msgstr "La más meridional en el lado avanzado"
+
+#. Name for HIP 3849
+msgid "The southernmost one on the rear side"
+msgstr "La más meridional en la parte trasera‎"
+
+#. Name for HIP 3419
+msgid "The one on the end of the southern tail-fin"
+msgstr "La que está al final de la aleta trasera del sur‎"
+
+#. Name for HIP 27989
+msgid "The bright, reddish star on the right shoulder"
+msgstr "‎La ‎‎estrella brillante‎‎ y rojiza en el hombro derecho ‎"
+
+#. Name for HIP 25813
+msgid "The one under this to the rear"
+msgstr "La que está debajo de esta en la de atrás"
+
+#. Name for HIP 29704
+msgid "The rear one on the northern side"
+msgstr "La trasera en el lado del norte"
+
+#. Name for HIP 29434
+msgid "The advance one on the northern side"
+msgstr "La avanzada en el lado del norte"
+
+#. Name for HIP 13701
+msgid "The one in advance again of this"
+msgstr "La avanzada de nuevo de esta"
+
+#. Name for HIP 23123
+msgid "The last and southernmost of those in the pelt"
+msgstr "La última y más meridional de las que están en la piel‎"
+
+#. Name for HIP 25281
+msgid "The star near the handle of the dagger"
+msgstr "‎La ‎‎estrella‎‎ cerca del mango de la daga‎"
+
+#. Name for HIP 24436
+msgid ""
+"The bright star in the left foot, which is [applied in] common to the water "
+"[of Eridanus]"
+msgstr ""
+"‎La ‎‎estrella‎‎ ‎‎brillante‎‎ en el pie izquierdo, que se [aplica en] común al agua "
+"[de Eridanus]‎"
+
+#. Name for HIP 24674
+msgid "The star to the north of it in the lower leg, over the ankle-joint"
+msgstr ""
+"‎La ‎‎estrella‎‎ al norte de ella en la parte inferior de la pierna, sobre la "
+"articulación del tobillo‎"
+
+#. Name for HIP 25247
+msgid "The star under the left heel, outside"
+msgstr "‎La ‎‎estrella‎‎ bajo el talón izquierdo, afuera‎"
+
+#. Name for HIP 27366
+msgid "The star under the right, rear knee"
+msgstr "‎La ‎‎estrella‎‎ debajo de la rodilla derecha trasera‎"
+
+#. Name for HIP 23875
+msgid "The one north of this, in the curve near the shin of Orion"
+msgstr ""
+"La que está al norte de esta, en la curva cerca de la espinilla de Orión‎"
+
+#. Name for HIP 18543
+msgid "The rearmost of the four stars in the next interval"
+msgstr "‎La más trasera de las cuatro estrellas en el siguiente intervalo‎"
+
+#. Name for HIP 17717
+msgid "The southernmost on the advance side"
+msgstr "La más meridional en el lado avanzado"
+
+#. Name for HIP 18216
+msgid "The more advanced one on the rear side"
+msgstr "La más avanzada en el lado trasero"
+
+#. Name for HIP 24873
+msgid "The northern star on the rear side"
+msgstr "‎La ‎‎estrella del norte del lado trasero‎"
+
+#. Name for HIP 24845
+msgid "The southern star on the rear side"
+msgstr "‎La ‎‎estrella del sur‎‎ del lado trasero‎"
+
+#. Name for HIP 23685
+msgid "The star on the left front foot"
+msgstr "‎La ‎‎estrella‎‎ en el pie delantero izquierdo‎"
+
+#. Name for HIP 25985
+msgid "The star in the middle of the body"
+msgstr "La estrella en el medio del cuerpo"
+
+#. Name for HIP 25606
+msgid "The star under the belly"
+msgstr "La estrella debajo del vientre"
+
+#. Name for HIP 33160
+msgid "The star on the ears"
+msgstr "La estrella en las orejas"
+
+#. Name for HIP 33302
+msgid "The star on the chest"
+msgstr "La estrella en el pecho"
+
+#. Name for HIP 34444
+msgid "The star in the place where the left thigh joins [the body]"
+msgstr "‎La ‎‎estrella‎‎ en el lugar donde el muslo izquierdo se une [al ‎‎cuerpo‎]"
+
+#. Name for HIP 32759
+msgid "The star on the joint of the right leg"
+msgstr "‎La ‎‎estrella‎‎ en la articulación de la pierna derecha‎"
+
+#. Name for HIP 30122
+msgid "The star on the end of the right leg"
+msgstr "‎La ‎‎estrella‎‎ en el extremo de la pierna derecha‎"
+
+#. Name for HIP 35904
+msgid "The star on the tail"
+msgstr "La estrella en la cola"
+
+#. Name for HIP 29807
+msgid "The one north of this"
+msgstr "La del norte de esta"
+
+#. Name for HIP 25859
+msgid "The last star, to the south of the above"
+msgstr "‎La última ‎‎estrella,‎‎ al sur de la anterior‎"
+
+#. Name for HIP 37173
+msgid "The star in advance of these"
+msgstr "La estrella delante de estas"
+
+#. Name for HIP 37229
+msgid "The bright star in the middle of the little shield"
+msgstr "‎La ‎‎estrella‎‎ ‎‎brillante‎‎ en el medio del escudo pequeño"
+
+#. Name for HIP 39429
+msgid "The bright star on the deck to the rear of these"
+msgstr "La estrella brillante en la cubierta a la parte trasera de estas"
+
+#. Name for HIP 46651
+msgid "The star on the cut-off of the deck"
+msgstr "La estrella en el corte de la cubierta"
+
+#. Name for HIP 36377
+msgid "The star between the steering-oars in the keel"
+msgstr "La estrella entre los remos de la quilla"
+
+#. Name for HIP 38164
+msgid "The faint star to the rear of this"
+msgstr "‎La ‎‎‎‎estrella‎‎ débil‎‎ en la parte trasera de esta"
+
+#. Name for HIP 39953
+msgid "The bright star to the rear of this, under the deck"
+msgstr "La estrella brillante detrás de esta, debajo de la cubierta"
+
+#. Name for HIP 32768
+msgid "The other, rearmost star"
+msgstr "La otra estrella más retrasada"
+
+#. Name for HIP 42799
+msgid "The southernmost of them, on the gaping jaws"
+msgstr "La más meridional de ellas, en las mandíbulas abiertas‎"
+
+#. Name for HIP 46776
+msgid "The middle star of the following three in the bend of the neck"
+msgstr "La estrella del medio de las siguientes tres en la curva del cuello"
+
+#. Name for HIP 56922
+msgid "The middle and southernmost one"
+msgstr "La del medio y más meridional"
+
+#. Name for HIP 64962
+msgid "The star after Corvus, in the section by the tail"
+msgstr "La estrella después de Corvus, en la sección de la cola"
+
+#. Name for HIP 41307
+msgid "The star to the south of the head"
+msgstr "La estrella al sur de la cabeza"
+
+#. Name for HIP 53740
+msgid "The star in the base of bowl, which is [applied in] common to Hydra"
+msgstr "La estrella en la base del cuenco, que se [aplica en] común a Hydra"
+
+#. Name for HIP 57283
+msgid "The star on the southern rim of the mouth"
+msgstr "La estrella en el borde sur de la boca"
+
+#. Name for HIP 55687
+msgid "The star on the northern rim"
+msgstr "La estrella en el borde norte"
+
+#. Name for HIP 58188
+msgid "The star on the southern handle"
+msgstr "La estrella en el mango sur"
+
+#. Name for HIP 56633
+msgid "The star on the northern handle"
+msgstr "La estrella en el mango norte"
+
+#. Name for HIP 59199
+msgid "The star in the beak, which is [applied in] common to Hydra"
+msgstr "La estrella en el pico, que se [aplica en] común a Hydra"
+
+#. Name for HIP 59316
+msgid "The star in the neck, by the head"
+msgstr "La estrella en el cuello, por la cabeza"
+
+#. Name for HIP 59803
+msgid "The star in the advance, right wing"
+msgstr "La estrella en la avanzada ala derecha"
+
+#. Name for HIP 61359
+msgid "The star on the end of the leg, which is [applied in] common to Hydra"
+msgstr ""
+"La estrella en el extremo de la pierna, que se [aplica en] común a Hydra"
+
+#. Name for HIP 65109
+msgid "The star on the left, advance shoulder"
+msgstr "La estrella en el hombro izquierdo avanzado"
+
+#. Name for HIP 65936
+msgid "The star on the left shoulder-blade"
+msgstr "La estrella en el omóplato izquierdo"
+
+#. Name for HIP 72010
+msgid "That one of the other two which is at the tip of the thyrsus"
+msgstr "Esa de las otras dos que está en la punta del tirso"
+
+#. Name for HIP 71865
+msgid "The last one, south of the latter"
+msgstr "La última al sur de esta última"
+
+#. Name for HIP 73334
+msgid "The star in the right hand"
+msgstr "La estrella en la mano derecha"
+
+#. Name for HIP 68002
+msgid "The bright star in the place where the human body joins [the horse's]"
+msgstr ""
+"La estrella brillante en el lugar donde el cuerpo humano se une [al del "
+"caballo]"
+
+#. Name for HIP 63945
+msgid "The star in advance of this, on the horse's back"
+msgstr "La estrella antes de esta, en el lomo del caballo"
+
+#. Name for HIP 61932
+msgid "The rearmost of the stars on the rump"
+msgstr "La más trasera de las estrellas en la grupa"
+
+#. Name for HIP 67234
+msgid "The star in the chest, under the horse's armpit"
+msgstr "La estrella en el pecho, debajo de la axila del caballo"
+
+#. Name for HIP 61084
+msgid "The star on the knee-bend of the right [hind] leg"
+msgstr "La estrella en la flexión de la rodilla de la pierna derecha [trasera]"
+
+#. Name for HIP 62434
+msgid "The star in the hock of the same leg"
+msgstr "La estrella en el casco de la misma pierna"
+
+#. Name for HIP 59747
+msgid "The star under the knee-bend of the left [hind] leg"
+msgstr ""
+"La estrella debajo de la flexión de la rodilla de la pierna izquierda "
+"[trasera]"
+
+#. Name for HIP 60718
+msgid "The star on the frog of the hoof on the same leg"
+msgstr "La estrella en la rana de la pezuña en la misma pierna"
+
+#. Name for HIP 71683
+msgid "The star on the end of the right front leg"
+msgstr "La estrella al final de la pata delantera derecha"
+
+#. Name for HIP 68702
+msgid "The star on the knee of the left [front] leg"
+msgstr "La estrella en la rodilla de la pierna izquierda [delantera]"
+
+#. Name for HIP 63003
+msgid "The star outside, under the right hind leg"
+msgstr "La estrella afuera, debajo de la pata trasera derecha"
+
+#. Name for HIP 73273
+msgid "The star at the end of the hind leg, by the [right] hand of Centaurus"
+msgstr ""
+"La estrella al final de la pata trasera, por la mano [derecha] de Centaurus"
+
+#. Name for HIP 71860
+msgid "The star on the bend in the same leg"
+msgstr "La estrella en la curva en la misma pierna"
+
+#. Name for HIP 75264
+msgid "The star in the middle of the body of Lupus"
+msgstr "La estrella en medio del cuerpo de Lupus"
+
+#. Name for HIP 74117
+msgid "The star in the belly, under the flank"
+msgstr "La estrella en el vientre, debajo del costado"
+
+#. Name for HIP 73807
+msgid "The star on the thigh"
+msgstr "La estrella en el muslo"
+
+#. Name for HIP 74395
+msgid "The star on the end of the rump"
+msgstr "La estrella al final de la grupa"
+
+#. Name for HIP 71536
+msgid "The southernmost of the 3 stars in the end of the tail"
+msgstr "La más al sur de las tres estrellas al final de la cola"
+
+#. Name for HIP 85792
+msgid "The star in the middle of the little altar"
+msgstr "La estrella en medio del altar pequeño"
+
+#. Name for HIP 83081
+msgid "The star on the end of the burning-apparatus"
+msgstr "La estrella al final del aparato ardiente"
+
+#. Name for HIP 90422
+msgid "The most advanced of the stars on the southern rim, outside [the crown]"
+msgstr "La más avanzada de las estrellas en el borde sur, fuera de [la corona]"
+
+#. Name for HIP 92308
+msgid "The star to the rear of this on the crown"
+msgstr "La estrella detrás de esta en la corona"
+
+#. Name for HIP 94005
+msgid "The one after this, before the knee of Sagittarius"
+msgstr "La siguiente, antes de la rodilla de Sagitario"
+
+#. Name for HIP 94114
+msgid "The star to the north of this"
+msgstr "La estrella al norte de esta"
+
+#. Name for HIP 93825
+msgid "The one to the north again of this"
+msgstr "La que está al norte de nuevo de esta"
+
+#. Name for HIP 91875
+msgid "The star quite some distance in advance of this"
+msgstr "La estrella bastante distante en avanzada de esta"
+
+#. Name for HIP 90982
+msgid "The last one, which is south of the aforementioned star"
+msgstr "La última, que está al sur de la estrella antes mencionada"
+
+#. Name for HIP 111954
+msgid "The star by the gills"
+msgstr "La estrella por las branquias"
+
+#. Name for HIP 109285
+msgid "The star on the southernmost spine on the back"
+msgstr "La estrella en la columna más al sur de la espalda"
+
+#. Name for NGC 869
+msgid "The nebulous mass on the right hand"
+msgstr "La masa nebulosa en la mano derecha"
+
+#. Name for NGC 5139
+msgid "The star on the place where the back joins [the horse's body]"
+msgstr ""
+"La estrella en el lugar donde la espalda se une [al cuerpo del caballo]"
+
+#. Name for M 44
+msgid "The middle of the nebulous mass in the chest, called Praesepe"
+msgstr "La mitad de la masa nebulosa en el pecho, llamada Praesepe"
+
+#. Greek (Almagest) constellation, native: Καρκίνος (Karkinos)
+msgid "Crab"
+msgstr "Cangrejo"
+
+#. Greek (Almagest) constellation, native: Κύων (Kyon)
+msgid "Dog"
+msgstr "Perro"
+
+#. Greek (Almagest) constellation, native: ʿˊΙππος (Hippos)
+msgid "Horse"
+msgstr "Caballo"
+
+#. Greek (Almagest) constellation, native: ʾΟιστός (Oistos)
+msgid "Arrow"
+msgstr "Flecha"
+
+#. Greek (Almagest) constellation, native: Κóραξ (Korax)
+msgid "Raven"
+msgstr "Cuervo"
+
+#. Greek (Almagest) constellation, native: Σκορπίος (Skorpios)
+msgid "Scorpion"
+msgstr "Escorpio"
+
+#. Greek (Almagest) constellation, native: Δίδυμοι (Didymoi)
+msgid "Twins"
+msgstr "Gemelos"
+
+#. Greek (Almagest) constellation, native: Τρίγωνος (Trigonos)
+msgid "Triangle"
+msgstr "Triángulo"
+
+#. Greek (Almagest) constellation, native: Λέων (Leon)
+msgid "Lion"
+msgstr "León"
+
+#. Greek (Almagest) constellation, native: Θηρίον (Therion)
+msgid "Beast"
+msgstr "Bestia"
+
+#. Greek (Almagest) constellation, native: Μικρή ʾˊΑρκτος (Mikre Arktos)
+msgid "Small Bear"
+msgstr "Oso Menor"
+
+#. Greek (Almagest) constellation, native: Μεγαλή ʾˊΑρκτος (Megale Arktos)
+msgid "Great Bear"
+msgstr "Gran Oso"
+
+#. Greek (Almagest) constellation, native: Δράκων (Drakon)
+msgid "Dragon"
+msgstr "Dragón"
+
+#. Greek (Almagest) constellation, native: Κηφεύς (Kepheus)
+msgid "King Kepheus"
+msgstr "Rey Cefeo"
+
+#. Greek (Almagest) constellation, native: Βοώτης (Bootes)
+msgid "Ploughman"
+msgstr "Arador"
+
+#. Greek (Almagest) constellation, native: Στέφανος (Stephanos)
+msgid "Crown"
+msgstr "Corona"
+
+#. Greek (Almagest) constellation, native: ʾΕνγόνασιν (Engonasin)
+msgid "Kneeler"
+msgstr "Reclinatorio"
+
+#. Greek (Almagest) constellation, native: Λύρα (Lyra)
+msgid "Lyre"
+msgstr "Lyre"
+
+#. Greek (Almagest) constellation, native: Κασσιέπεiα (Kassiepeia)
+msgid "Queen Kassiepeia"
+msgstr "Reina Casiopea"
+
+#. Greek (Almagest) constellation, native: ʿΗνίοχος (Heniochos)
+msgid "Charioteer"
+msgstr "Carruaje"
+
+#. Greek (Almagest) constellation, native: ʾΟφιούχος (Ophiuchos)
+msgid "Serpent Bearer"
+msgstr "Portador de la serpiente"
+
+#. Greek (Almagest) constellation, native: ʾˊΟφις (Ophis)
+msgid "Snake"
+msgstr "Serpiente"
+
+#. Greek (Almagest) constellation, native: ʾΑετός (Aetos) καί Ἀντίνοος
+msgid "Eagle with Antinoos"
+msgstr "Águila con Antínoo"
+
+#. Greek (Almagest) constellation, native: Δελφίς (Delphis)
+msgid "Dolphin"
+msgstr "Delfín"
+
+#. Greek (Almagest) constellation, native: Προτομή (Protomé)
+msgid "Bust [of a Horse]"
+msgstr "Busto [de un Caballo]"
+
+#. Greek (Almagest) constellation, native: ʾΑνδρομέδα (Andromeda)
+msgid "Princess Andromeda"
+msgstr "Princesa Andrómeda"
+
+#. Greek (Almagest) constellation, native: Κριός (Krios)
+msgid "Ram"
+msgstr "Carnero"
+
+#. Greek (Almagest) constellation, native: Ταῦρος (Tauros)
+msgid "Bull"
+msgstr "Toro"
+
+#. Greek (Almagest) constellation, native: Παρθένος (Parthenos)
+msgid "Maiden"
+msgstr "Doncella"
+
+#. Greek (Almagest) constellation, native: Χηλαί
+msgid "Claws [of Scorpion]"
+msgstr "Garras [de Escorpio]"
+
+#. Greek (Almagest) constellation, native: Τοξότης (Toxotes)
+msgid "Archer"
+msgstr "Arquero"
+
+#. Greek (Almagest) constellation, native: Αίγόκερος (Aigokeros)
+msgid "The One with the Goat's Horn"
+msgstr "El del Cuerno de la Cabra"
+
+#. Greek (Almagest) constellation, native: ʿΥδροχόος (Hydrochoos)
+msgid "Water-carrier"
+msgstr "Portador del Agua"
+
+#. Greek (Almagest) constellation, native: ʾΙχθύες (Ichthyes)
+msgid "Fishes"
+msgstr "Peces"
+
+#. Greek (Almagest) constellation, native: Κῆτος (Ketos)
+msgid "Sea Monster"
+msgstr "Monstruo marino"
+
+#. Greek (Almagest) constellation, native: ʾΩρίων (Orion)
+msgid "Hero Orion"
+msgstr "Héroe Orión"
+
+#. Greek (Almagest) constellation, native: Ποταμός (Potamos)
+msgid "River"
+msgstr "Río"
+
+#. Greek (Almagest) constellation, native: Λαγῶς (Lagos)
+msgid "Hare"
+msgstr "Liebre"
+
+#. Greek (Almagest) constellation, native: Προκύων (Prokyon)
+msgid "The One before the Dog"
+msgstr "El Anterior al Perro"
+
+#. Greek (Almagest) constellation, native: ʾΑργω (Argo)
+msgid "The Ship Argo"
+msgstr "La nave Argo"
+
+#. Greek (Almagest) constellation, native: ʿˊΥδρος (Hydros)
+msgid "Water Snake"
+msgstr "Serpiente marina"
+
+#. Greek (Almagest) constellation, native: Κρατήρ (Krater)
+msgid "Vessel"
+msgstr "Barco"
+
+#. Greek (Almagest) constellation, native: Κένταυρος (Kentauros)
+msgid "Kentaur"
+msgstr "Centauro"
+
+#. Greek (Almagest) constellation, native: Θυμιατήριον (Thymiaterion)
+msgid "Altar"
+msgstr "Altar"
+
+#. Greek (Almagest) constellation, native: Στέφανος Νότιος (Stephanos Notios)
+msgid "Southern Crown"
+msgstr "Cruz del Sur"
+
+#. Greek (Almagest) constellation, native: Νότιος ʾΙχθύς (Notios Ichthys)
+msgid "Southern Fish"
+msgstr "Pez del Sur"
+
+#. Greek (Almagest) constellation, native: πλόκαμος (Plokamos, in Leo)
+msgid "The Lock [in Leo]"
+msgstr "La Cerradura [en Leo]"
+
+#. Name for HIP 72607
+msgid "The southern star in the rear side"
+msgstr "‎La ‎‎estrella del sur‎‎ del lado trasero‎"
+
+#. Name for HIP 75097
+msgid "The northern one in the same side"
+msgstr "La más septentrional de el mismo lado‎"
+
+#. Name for HIP 44127
+msgid "The northernmost of the [two] in the front left paw"
+msgstr "La más septentrional de las [dos] en la pata delantera izquierda"
+
+#. Name for HIP 54061
+msgid "The stars in the quadrilateral:  the one on the back"
+msgstr "‎Las estrellas en el cuadrilátero: la de atrás‎"
+
+#. Name for HIP 53910
+msgid "The one on the flank"
+msgstr "La del flanco"
+
+#. Name for HIP 61317
+msgid "The rather faint star in advance of it"
+msgstr "‎La ‎‎estrella‎‎ débil antes de ella‎"
+
+#. Name for HIP 87585
+msgid "The star on the jaw"
+msgstr "La estrella en la mandíbula"
+
+#. Name for HIP 90156
+msgid ""
+"The northernmost of the 3 stars in a straight line in the first bend of the "
+"neck"
+msgstr ""
+"‎La más septentrional de las 3 estrellas en línea recta en la primera curva "
+"del cuello‎"
+
+#. Name for HIP 92512
+msgid "The star to the rear and due east of the latter"
+msgstr "La estrella en la parte trasera y al este de este último"
+
+#. Name for HIP 95081
+msgid ""
+"The southern star of the [two] forming the advance side of the quadrilateral "
+"in the next bend"
+msgstr ""
+"La estrella del sur de las [dos] que forman el lado avanzado del "
+"cuadrilátero en la siguiente curva"
+
+#. Name for HIP 86614
+msgid ""
+"The most advanced of the three stars in the next triangle, which is in "
+"advance [of the last]"
+msgstr ""
+"‎La más avanzada de las tres estrellas en el triángulo siguiente, que es de "
+"antemano [de la última]‎"
+
+#. Name for HIP 81660
+msgid "The southernmost of the next 3 stars in a straight line"
+msgstr "‎La más meridional de las siguientes 3 estrellas en línea recta‎"
+
+#. Name for HIP 80331
+msgid "The northernmost of the next 2 to the west"
+msgstr "La más septentrional de las 2 siguientes al oeste‎"
+
+#. Name for HIP 67627
+msgid "The advance star of the 2 quite some distance from the latter"
+msgstr "‎La ‎‎estrella‎‎ avanzada de las 2 bastante ‎‎lejos‎‎ de esta última"
+
+#. Name for HIP 101093
+msgid "The one under that elbow, which also touches it"
+msgstr "‎La ‎‎estrella‎‎ debajo del codo derecho, que también la toca‎"
+
+#. Name for HIP 109857
+msgid "The southernmost of the 3 stars on the tiara"
+msgstr "La más meridional de las 3 estrellas en la tiara"
+
+#. Name for HIP 107259
+msgid "The one in advance of the tiara"
+msgstr "La más avanzada de la tiara"
+
+#. Name for HIP 110991
+msgid "The one to the rear of the tiara"
+msgstr "La que está detrás de la tiara"
+
+#. Name for HIP 75973
+msgid "The one farther to the north again of this, on the tip of the staff"
+msgstr "La que está más al norte otra vez de esta, en la punta del bastón"
+
+#. Name for HIP 72105
+msgid "The star on the right thigh, in the apron"
+msgstr "La estrella en el muslo derecho, en el delantal"
+
+#. Name for HIP 67927
+msgid "The northernmost of the 3 stars in the left lower leg"
+msgstr ""
+"La más septentrional de las 3 estrellas en la parte inferior de la pierna "
+"izquierda"
+
+#. Name for HIP 69673
+msgid "Ἀρκτοῦρος (Arkturos, Guard)"
+msgstr "Ἀρκτοῦρος (Arturo, Guardián)"
+
+#. Name for HIP 69673
+msgid "The star between the thighs, called 'Arcturus', reddish"
+msgstr "‎La ‎‎estrella‎‎ entre los muslos, llamada 'Arcturus' rojiza‎"
+
+#. Name for HIP 76127
+msgid "The one to the rear and to the north of this"
+msgstr "La que está detrás y al norte de esta"
+
+#. Name for HIP 77048
+msgid "The one to the rear and north again of this"
+msgstr "La que está de nuevo detrás y al norte de esta"
+
+#. Name for HIP 76952
+msgid "The one to the rear of the bright star from the south"
+msgstr "La que está detrás de la estrella brillante del sur"
+
+#. Name for HIP 77512
+msgid "The one to the rear again of the latter, close by"
+msgstr "La que está en la parte trasera de nuevo de esta última, cerca"
+
+#. Name for HIP 78159
+msgid "The one to the rear again of these"
+msgstr "La que está de nuevo detrás de estas"
+
+#. Name for HIP 78493
+msgid "The star to the rear of all [the others] in the crown"
+msgstr "La estrella detrás de todas [las otras] en la corona"
+
+#. Name for HIP 88794
+msgid "The rearmost of the 3 stars in the left wrist"
+msgstr "La más trasera de las 3 estrellas en la muñeca izquierda"
+
+#. Name for HIP 910
+msgid "The northernmost of the other 2"
+msgstr "La más meridional de las otras 2"
+
+#. Name for HIP 84380
+msgid "The most advanced of the 3 in the left thigh"
+msgstr "La más avanzada de las 3 en el muslo izquierdo"
+
+#. Name for HIP 86414
+msgid "The star on the left shin"
+msgstr "La estrella de la espinilla izquierda"
+
+#. Name for HIP 85379
+msgid "The most advanced of the 3 stars in the left foot"
+msgstr "La más avanzada de las 3 estrellas en el pie izquierdo"
+
+#. Name for HIP 79101
+msgid "The southernmost of the 2 stars under the right knee"
+msgstr "‎La más meridional de las 2 estrellas debajo de la rodilla derecha‎"
+
+#. Name for HIP 75973
+msgid ""
+"The star on the end of the right leg is the same as the one on the tip of "
+"the staff [of Bootes, 96 Boo 9]"
+msgstr ""
+"La estrella al final de la pierna derecha es la misma que en la punta del "
+"bastón [de Bootes, 96 Boo 9]"
+
+#. Name for HIP 91262
+msgid "λύρα (Lyra)"
+msgstr "λύρα (Lira)"
+
+#. Name for HIP 91262
+msgid "The bright star on the shell, called Lyra"
+msgstr "La estrella brillante en la concha, llamada Lyra"
+
+#. Name for HIP 91919
+msgid "The northernmost of the 2 stars lying near the latter, close together"
+msgstr ""
+"‎La más septentrional de las 2 estrellas que yacen cerca de esta última, "
+"cerca de‎"
+
+#. Name for HIP 94481
+msgid ""
+"The northernmost of the 2 stars close together in the region to the east of "
+"the shell"
+msgstr ""
+"‎La más septentrional de las 2 estrellas se unen en la ‎‎región‎‎ al este de la "
+"tela‎"
+
+#. Name for HIP 92420
+msgid "The northernmost of the two advance stars in the bridge"
+msgstr "‎La más septentrional de las dos estrellas avanzadas en el puente"
+
+#. Name for HIP 93194
+msgid "The northernmost of the two rear stars in the bridge"
+msgstr "‎La más septentrional de las dos estrellas traseras en el puente"
+
+#. Name for HIP 96441
+msgid "The southernmost of the 3 in the right wing-feathers"
+msgstr "La más meridional de las 3 en las plumas de la derecha‎"
+
+#. Name for HIP 99675
+msgid "The more advanced of the 2 stars in the right leg"
+msgstr "La más avanzada de las 2 estrellas en la pierna derecha‎"
+
+#. Name for HIP 101243
+msgid "The nebulous star on the right knee"
+msgstr "La estrella nebulosa en la rodilla derecha"
+
+#. Name for HIP 104887
+msgid "The southernmost of the 2 stars under the left wing"
+msgstr "‎La más meridional de las 2 estrellas bajo el ala izquierda‎"
+
+#. Name for HIP 4427
+msgid "The star over the throne, just over the thighs"
+msgstr "‎La ‎‎estrella‎‎ sobre el trono, justo sobre los muslos‎"
+
+#. Name for HIP 118243
+msgid "The star on the right fore-arm"
+msgstr "La estrella en el antebrazo derecho"
+
+#. Name for HIP 2599
+msgid "The star above the foot of the throne"
+msgstr "La estrella encima del pie del trono"
+
+#. Name for HIP 746
+msgid "The star on the middle of the back of the throne"
+msgstr "‎La ‎‎estrella‎‎ en medio de atrás del trono"
+
+#. Name for HIP 117863
+msgid "The star on the top of the throne-back"
+msgstr "La estrella encima de atrás del trono"
+
+#. Name for HIP 16335
+msgid "The most advanced of the 3 stars next to the one in the side"
+msgstr "‎La más avanzada de las 3 estrellas junto a la del lado"
+
+#. Name for HIP 14576
+msgid "Stars in the Gorgon-head:  the bright one"
+msgstr "‎Estrellas en la cabeza Gorgona: la ‎‎brillante‎"
+
+#. Name for HIP 19343
+msgid "The more advanced of the 2 stars above the bend in the knee"
+msgstr ""
+"La más avanzada de las 2 estrellas por encima de la curva en la rodilla‎"
+
+#. Name for HIP 24608
+msgid "αἴξ (Goat)"
+msgstr "αἴξ (Cabra)"
+
+#. Name for HIP 24608
+msgid "The star on the left shoulder, called Capella"
+msgstr "‎La ‎‎estrella‎‎ en el hombro izquierdo, llamada Capella"
+
+#. Name for HIP 23767
+msgid "Ἔριφοι (Kids [of the Goat]) I"
+msgstr " Ἔριφοι (Niños [de la Cabra]) I"
+
+#. Name for HIP 23767
+msgid ""
+"The rearmost of the two stars on the left wrist, which are called 'Haedi'"
+msgstr ""
+"‎La parte trasera de las dos estrellas en la muñeca izquierda, que se llaman "
+"'Haedi'‎"
+
+#. Name for HIP 23453
+msgid "Ἔριφοι (Kids [of the Goat]) II"
+msgstr " Ἔριφοι (Niños [de la Cabra]) II"
+
+#. Name for HIP 25428
+msgid ""
+"The star on the right ankle, which is [applied in] common to the horn [of "
+"Taurus, 400 Tau 21]"
+msgstr ""
+"‎La ‎‎estrella‎‎ en el tobillo derecho, que se aplica [en común] al cuerno [de ‎‎"
+"Tauro‎, 400 Tau 21]"
+
+#. Name for HIP 24504
+msgid "The small star over the left foot"
+msgstr "La estrella pequeña sobre el pie izquierdo"
+
+#. Name for HIP 86742
+msgid "The more advanced of the 2 stars on the right shoulder"
+msgstr "La más avanzada de las 2 estrellas en el hombro derecha‎"
+
+#. Name for HIP 82673
+msgid "The more advanced of the 2 stars on the left shoulder"
+msgstr "La más avanzada de las 2 estrellas en el hombro izquierdo"
+
+#. Name for HIP 79593
+msgid "The more advanced of the 2 stars in the left hand"
+msgstr "La más avanzada de las 2 estrellas en la mano izquierda"
+
+#. Name for HIP 88048
+msgid "The more advanced of the 2 stars in the right hand"
+msgstr "La más avanzada de las 2 estrellas en la mano derecha"
+
+#. Name for HIP 84405
+msgid "The most advanced of the 4 stars on the right foot"
+msgstr "La más avanzada de las 4 estrellas en el pie derecho"
+
+#. Name for HIP 64238
+msgid "The last and rearmost of the 4"
+msgstr "La última y más retrasada de las 4"
+
+#. Name for HIP 80894
+msgid ""
+"The northernmost of the 3 stars in a straight line in the left lower leg"
+msgstr ""
+"‎La más septentrional de las 3 estrellas en línea recta en la pierna inferior "
+"izquierda‎"
+
+#. Name for HIP 88149
+msgid "The northernmost of the 3 to the east of the right shoulder"
+msgstr "La más septentrional de las 3 al este del hombro derecho‎"
+
+#. Name for HIP 88601
+msgid "The star to the rear of these 3, approximately over the middle one"
+msgstr ""
+"‎La ‎‎estrella‎‎ a la parte trasera de estas 3, aproximadamente sobre la del medio‎"
+
+#. Name for HIP 88771
+msgid "The lone star north of [these] 4 [nos. 25-28]"
+msgstr "‎La ‎‎estrella‎‎ solitaria al norte de [estas] 4 [nos. 25-28]"
+
+#. Name for HIP 77257
+msgid "The northernmost of the 3 following this"
+msgstr "La más meridional de las 3 siguiendo esta"
+
+#. Name for HIP 80628
+msgid ""
+"The star to the rear of those in the hand [of Ophiuchus, 240-241 Oph 7-8]"
+msgstr ""
+"‎La ‎‎estrella‎‎ en la parte trasera de las que están en la mano [de Ofiuco, "
+"240-241 Oph 7-8]"
+
+#. Name for HIP 86263
+msgid "The southernmost of the 2 to the rear of the latter"
+msgstr "La más meridional de las 2 en la parte trasera de esta última"
+
+#. Name for HIP 97649
+msgid "ἀετός (Eagle)"
+msgstr "ἀετός (Águila)"
+
+#. Name for HIP 97649
+msgid "The bright star on the place between the shoulders, called Aquila"
+msgstr "‎La ‎‎estrella‎‎ ‎‎brillante‎‎ en el lugar entre los hombros, llamada Aquila"
+
+#. Name for HIP 97278
+msgid "The more advanced of the 2 in the left shoulder"
+msgstr "La más avanzada de las 2 en el hombro izquierdo"
+
+#. Name for HIP 93747
+msgid "The star some distance under the tail of Aquila, touching the Milky Way"
+msgstr ""
+"‎La ‎‎estrella‎‎ a cierta ‎‎distancia‎‎ bajo la cola de Aquila, tocando la ‎‎Vía Láctea‎"
+
+#. Name for HIP 97804
+msgid ""
+"The stars around Aquila, to which the name 'Antinous' is given:  The more "
+"advanced of the 2 stars south of the head of Aquila"
+msgstr ""
+"‎Las estrellas alrededor de Aquila, a las que se le da el nombre de "
+"'Antinoo': La más avanzada de las 2 estrellas al sur de la cabeza de Aquila‎"
+
+#. Name for HIP 95501
+msgid "The star to the south and west of the right shoulder of Aquila"
+msgstr "‎La ‎‎estrella‎‎ al sur y al oeste del hombro derecho de Aquila"
+
+#. Name for HIP 14838
+msgid "The most advanced of the 3 stars in the tail"
+msgstr "La más avanzada de las 3 estrellas en la cola"
+
+#. Name for HIP 101769
+msgid ""
+"The stars in the rhomboid quadrilateral:  the southernmost one on the "
+"advance side"
+msgstr ""
+"‎Las estrellas en el cuadrilátero romboidal: la más meridional en el lado "
+"avanzado‎"
+
+#. Name for HIP 101483
+msgid "The southernmost of the 3 stars between the tail and the rhombus"
+msgstr "‎La más septentrional de las 3 estrellas entre la cola y el rombo‎"
+
+#. Name for HIP 101589
+msgid "The more advanced of the other 2 to the north"
+msgstr "La más avanzada de las otras 2 hacia el norte"
+
+#. Name for HIP 104987
+msgid "The more advanced of the 2 stars in the head"
+msgstr "La más avanzada de las 2 estrellas en la cabeza"
+
+#. Name for HIP 112029
+msgid "The more advanced of the 2 stars close together in the neck"
+msgstr "La más avanzada de las 2 estrellas cercanas entre sí en el cuello"
+
+#. Name for HIP 1473
+msgid "The southernmost of the 3 stars on the right upper arm"
+msgstr ""
+"‎La más meridional de las 3 estrellas en la parte superior derecha del brazo‎"
+
+#. Name for HIP 116631
+msgid "The southernmost of the 3 stars on the right hand"
+msgstr "‎La más meridional de las 3 estrellas de la mano derecha‎"
+
+#. Name for HIP 5447
+msgid "The southernmost of the 3 stars over the girdle"
+msgstr "‎La más meridional de las 3 estrellas sobre la faja‎"
+
+#. Name for HIP 9640
+msgid "The star over the left foot"
+msgstr "La estrella sobre el pie izquierdo"
+
+#. Name for HIP 7513
+msgid "The northernmost of the 2 stars on the left knee-bend"
+msgstr "‎La más septentrional de las 2 estrellas en la rodilla izquierda‎"
+
+#. Name for HIP 6999
+msgid "The northernmost of the two stars in the lower hem [of the garment]"
+msgstr ""
+"La más septentrional de las dos estrellas en el dobladillo inferior [de la "
+"prenda‎]"
+
+#. Name for HIP 10064
+msgid "The most advanced of the 3 on the base"
+msgstr "La más avanzada de las 3 en la base‎"
+
+#. Name for HIP 8832
+msgid "The more advanced of the 2 stars on the horn"
+msgstr "La más avanzada de las 2 estrellas en el cuerno"
+
+#. Name for HIP 10306
+msgid "The northernmost of the 2 stars on the muzzle"
+msgstr "‎La más septentrional de las 2 estrellas en el hocico‎"
+
+#. Name for HIP 13914
+msgid "The star on the place where the tail joins [the body]"
+msgstr "‎La ‎‎estrella‎‎ en el lugar donde la cola se une [al ‎‎cuerpo‎]"
+
+#. Name for HIP 13327
+msgid "The star under the knee-bend"
+msgstr "‎La ‎‎estrella‎‎ bajo la rodilla doblada‎"
+
+#. Name for HIP 13209
+msgid ""
+"The 4 stars over the rump:  the rearmost, which is brighter [than the others]"
+msgstr ""
+"‎Las 4 estrellas sobre la grupa: la más trasera, que es más brillante [que "
+"las otras]‎"
+
+#. Name for HIP 13061
+msgid "The northernmost of the other 3, fainter stars"
+msgstr "‎La más septentrional de las otras 3 estrellas más débiles‎"
+
+#. Name for HIP 16369
+msgid "The northernmost of the 4 stars in the cut-off"
+msgstr "‎La más septentrional de las 4 estrellas en el corte‎"
+
+#. Name for HIP 15900
+msgid "The southernmost of the 4"
+msgstr "La más meridional de las 4"
+
+#. Name for HIP 17771
+msgid "The one to the rear of these, on the right shoulder-blade"
+msgstr "La de la parte trasera de estas, en el omóplato derecho"
+
+#. Name for HIP 20205
+msgid "The stars in the face, called 'the Hyades':  the one on the nostrils"
+msgstr ""
+"La estrellas de la cara, que se conocen como \"las Híades\": la de la nariz"
+
+#. Name for HIP 20455
+msgid "The one between this and the northern eye"
+msgstr "La que está entre esta y el ojo del norte"
+
+#. Name for HIP 20885
+msgid "The one between it [no. 11] and the southern eye"
+msgstr "La que está entre esta [n.º 11] y el ojo del sur"
+
+#. Name for HIP 21421
+msgid "The bright star of the Hyades, the reddish one on the southern eye"
+msgstr "La estrella brillante de las Híades, la rojiza, en el ojo del sur"
+
+#. Name for HIP 23835
+msgid "The southernmost of the 2 stars on the southern horn"
+msgstr "La más meridional de las 2 estrellas en el cuerno del sur"
+
+#. Name for HIP 25428
+msgid ""
+"The star on the tip of the northern horn, which is the same as the one on "
+"the right foot of Auriga [230 Aur 11]"
+msgstr ""
+"La estrella en la punta del cuerno del norte, que es la misma que la del pie "
+"derecho de Auriga [230 Aur 11]"
+
+#. Name for HIP 20711
+msgid "The northernmost of the 2 stars close together in the northern ear"
+msgstr ""
+"La más septentrional de las 2 estrellas cercanas entre sí, en la oreja del "
+"norte"
+
+#. Name for HIP 19038
+msgid "The more advanced of the 2 small stars in the neck"
+msgstr "La más avanzada de las 2 estrellas pequeñas en el cuello"
+
+#. Name for HIP 19513
+msgid ""
+"The quadrilateral in the neck:  the southernmost star on the advance side"
+msgstr ""
+"El cuadrilátero en el cuello: la estrella más meridional en el lado avanzado"
+
+#. Name for HIP 16852
+msgid "The star under the right foot and the shoulder-blade"
+msgstr "La estrella bajo el pie derecho y el omóplato"
+
+#. Name for HIP 23497
+msgid "The most advanced of the 3 stars over the southern horn"
+msgstr "La más avanzada de las 3 estrellas sobre el cuerno del sur"
+
+#. Name for HIP 26777
+msgid "The northernmost of the 2 stars under the tip of the southern horn"
+msgstr ""
+"La más septentrional de las 2 estrellas bajo la punta del cuerno del sur"
+
+#. Name for HIP 26248
+msgid ""
+"The 5 stars under and to the rear of the northern horn:  the most advanced"
+msgstr ""
+"Las 5 estrellas debajo y hacia la parte trasera del cuerno del norte: la más "
+"avanzada"
+
+#. Name for HIP 27830
+msgid "The northernmost of the remaining, rearmost 2"
+msgstr "La más septentrional de las 2 restantes más retrasadas"
+
+#. Name for HIP 36046
+msgid "The one to the rear of that, just over the place between the shoulders"
+msgstr ""
+"La que está detrás de esta, justo encima del punto situado entre los hombros."
+
+#. Name for HIP 34088
+msgid "The star under the left knee of the rear twin"
+msgstr "La estrella bajo la rodilla izquierda del gemelo trasero"
+
+#. Name for HIP 35550
+msgid "The star in the left groin of the rear twin"
+msgstr "‎La ‎‎estrella‎‎ en la ingle izquierda del gemelo trasero‎"
+
+#. Name for HIP 29655
+msgid "The star on the forward foot of the advance twin"
+msgstr "‎La ‎‎estrella‎‎ en el pie delantero del gemelo avanzado"
+
+#. Name for HIP 28734
+msgid "The star in advance of the forward foot of the advance twin"
+msgstr "‎La ‎‎estrella‎‎ por delante del pie delantero del gemelo avanzado"
+
+#. Name for HIP 40167
+msgid "The bright star to the rear of the above-mentioned 3"
+msgstr "‎La ‎‎estrella‎‎ ‎‎brillante‎‎ en la parte trasera de las 3 antes mencionadas‎"
+
+#. Name for HIP 41909
+msgid ""
+"The quadrilateral containing the nebula [no. 1]:  the northernmost of the "
+"two stars in advance"
+msgstr ""
+"‎El cuadrilátero que contiene la ‎‎nebulosa‎‎ [no. 1]: la más septentrional de "
+"las dos estrellas avanzadas"
+
+#. Name for HIP 42806
+msgid "ὄνος (Ass) I"
+msgstr "ὄνος (Asno) I"
+
+#. Name for HIP 42806
+msgid ""
+"The northernmost of the rear 2 stars on the quadrilateral, which are called "
+"'Aselli'"
+msgstr ""
+"‎La más septentrional de las 2 estrellas traseras en el cuadrilátero, que se "
+"llaman 'Aselli'‎"
+
+#. Name for HIP 42911
+msgid "ὄνος (Ass) II"
+msgstr "ὄνος (Asno) II"
+
+#. Name for HIP 50335
+msgid "The northernmost of the 3 stars in the neck"
+msgstr "La más septentrional de las 3 estrellas en el cuello"
+
+#. Name for HIP 49669
+msgid "βασιλίσκος (Princelet)"
+msgstr "βασιλίσκος (Pulsera)"
+
+#. Name for HIP 49669
+msgid "The star on the heart, called 'Regulus'"
+msgstr "‎La ‎‎estrella‎‎ en el corazón, llamada 'Régulo'"
+
+#. Name for HIP 48883
+msgid "The star a little in advance of the star on the heart [no. 8]"
+msgstr "‎La ‎‎estrella‎‎ un poco avanzada de la ‎‎estrella‎‎ en el corazón‎ [no. 8]"
+
+#. Name for HIP 52689
+msgid "The northernmost of the other, rearmost 2"
+msgstr "La más meridional de la otra, las 2 retrasadas"
+
+#. Name for HIP 55765
+msgid "The northernmost of the 2 stars in the buttocks"
+msgstr "La más septentrional de las 2 estrellas en las nalgas"
+
+#. Name for HIP 52457
+msgid "The more advanced of the 2 over the back"
+msgstr "La más avanzada de las 2 estrellas sobre la espalda"
+
+#. Name for HIP 54182
+msgid "The northernmost of the 3 under the flank"
+msgstr "La más septentrional de las 3 bajo el flanco‎"
+
+#. Name for HIP 57380
+msgid "The southernmost of the 2 stars in the top of the skull"
+msgstr "‎La más meridional de las 2 estrellas arriba de la calavera"
+
+#. Name for HIP 58948
+msgid "The northernmost of the 2 stars to the rear of these, in the face"
+msgstr ""
+"La más septentrional de las 2 estrellas a la parte trasera de estas, en la "
+"cara‎"
+
+#. Name for HIP 60129
+msgid "The most advanced of the 4 stars in the left wing"
+msgstr "La más avanzada de las 4 estrellas en el ala izquierda"
+
+#. Name for HIP 61960
+msgid "The most advanced of the 3 stars in the right, northern wing"
+msgstr "La más avanzada de las 3 estrellas en el ala derecha, del norte‎"
+
+#. Name for HIP 62267
+msgid "The southernmost of the other 2"
+msgstr "La más meridional de las otras 2"
+
+#. Name for HIP 63608
+msgid "Προτρυγητήρ (Harbinger of Vintage)"
+msgstr "Προτρυγητήρ (Heraldo de la vendimia)"
+
+#. Name for HIP 65474
+msgid "στάχυς (Ear of Grain)"
+msgstr "στάχυς (Oreja de Grain)"
+
+#. Name for HIP 65474
+msgid "The star on the left hand, called 'Spica'"
+msgstr "‎La ‎‎estrella‎‎ en la mano izquierda, llamada 'Spica'"
+
+#. Name for HIP 66006
+msgid ""
+"The quadrilateral in the left thigh:  the northern star on the advance side"
+msgstr ""
+"‎El cuadrilátero en el muslo izquierdo: la ‎‎estrella‎‎ del norte en el lado "
+"avanzado"
+
+#. Name for HIP 66803
+msgid "The northernmost of the 2 stars on the rear side"
+msgstr "La más septentrional de las 2 estrellas en el lado trasero"
+
+#. Name for HIP 69701
+msgid "The middle star of the 3 in the garment-hem round the feet"
+msgstr ""
+"‎La ‎‎estrella‎‎ del medio de las 3 en el dobladillo de la prenda alrededor de "
+"los pies‎"
+
+#. Name for HIP 47431
+msgid "The rearmost of the 3"
+msgstr "La más retrasada de las 3"
+
+#. Name for HIP 64407
+msgid "The most advanced of the 3 stars almost on a straight line under Spica"
+msgstr "‎La más avanzada de las 3 estrellas casi en línea recta bajo Spica‎"
+
+#. Name for HIP 72622
+msgid "Stars on the tip of the southern claw:  the bright one"
+msgstr "‎Las estrellas‎‎ en la punta de la garra del sur‎: la más brillante"
+
+#. Name for HIP 72489
+msgid "The star to the north of this and fainter than it"
+msgstr "La estrella al norte de esta y débil de ésta"
+
+#. Name for HIP 74785
+msgid "Stars on the tip of the northern claw:  the bright one"
+msgstr "‎Las estrellas‎‎ en la punta de la garra del norte: la más brillante"
+
+#. Name for HIP 73473
+msgid "The faint star in advance of this"
+msgstr "‎La ‎‎estrella‎‎ débil delante de esta"
+
+#. Name for HIP 76219
+msgid "The most advanced of the 3 stars north of the northern claw"
+msgstr "La más avanzada de las 3 estrellas al norte de la garra del norte‎"
+
+#. Name for HIP 78207
+msgid "The southernmost of the rearmost 2 [of these]"
+msgstr "La más meridional de las 2 más traseras [de estas]‎"
+
+#. Name for HIP 77811
+msgid "The rearmost of the 3 stars between the claws"
+msgstr "‎La más trasera de las 3 estrellas entre las garras‎"
+
+#. Name for HIP 76880
+msgid "The northernmost of the other 2 in advance [of the latter]"
+msgstr "La más septentrional de las otras 2 avanzadas [de esta última]‎"
+
+#. Name for HIP 73714
+msgid "The most advanced of the 3 stars south of the southern claw"
+msgstr "La más avanzada de las 3 estrellas al sur de la garra del sur"
+
+#. Name for HIP 76470
+msgid "The northernmost of the other, rear 2"
+msgstr "La más meridional de la otra, las 2 retrasadas"
+
+#. Name for HIP 78820
+msgid "The northernmost of the 3 bright stars in the forehead"
+msgstr "‎La más septentrional de las 3 estrellas ‎‎brillantes‎‎ en la frente‎"
+
+#. Name for HIP 79374
+msgid ""
+"The northernmost of the 2 stars adjacent to the northernmost of the 3 bright "
+"ones [no. 1]"
+msgstr ""
+"‎La más septentrional de las 2 estrellas adyacentes a la más septentrional de "
+"las 3 ‎brillantes‎ [no. 1]"
+
+#. Name for HIP 80112
+msgid "The most advanced of the 3 bright stars in the body"
+msgstr "‎La más avanzada de las 3 estrellas ‎‎brillantes‎‎ en el ‎‎cuerpo‎"
+
+#. Name for HIP 80763
+msgid "ἀντάρης (Antares)"
+msgstr "ἀντάρης (Antares)"
+
+#. Name for HIP 80763
+msgid "The middle one of these, which is reddish and called 'Antares'"
+msgstr "La del medio de estas, que es rojiza y llamada 'Antares'‎"
+
+#. Name for HIP 79404
+msgid "The advance star of the 2 under these, approximately on the last leg"
+msgstr ""
+"‎La ‎‎estrella‎‎ avanzada de las 2 debajo de estas, aproximadamente en la última "
+"piernas"
+
+#. Name for HIP 82396
+msgid "The star in the first [tail-] joint from the body"
+msgstr "La estrella en la primera articulación [de la cola] del cuerpo"
+
+#. Name for HIP 82514
+msgid "The one after this, in the 2nd joint"
+msgstr "La que sigue a esta, en la 2da articulación"
+
+#. Name for HIP 82671
+msgid "The northern star of the double-star in the 3rd joint"
+msgstr "La estrella del norte de la estrella doble en la 3ra articulación"
+
+#. Name for HIP 84143
+msgid "The one following, in the 4th joint"
+msgstr "La que sigue a esta, en la 4ta articulación"
+
+#. Name for HIP 86228
+msgid "The one after that, in the 5th joint"
+msgstr "La que sigue a esta, en la 5ta articulación"
+
+#. Name for HIP 87073
+msgid "The next one again, in the 6th joint"
+msgstr "La siguiente, en la 6ta articulación"
+
+#. Name for HIP 86670
+msgid "The star in the 7th joint, the joint next to the sting"
+msgstr ""
+"La estrella en la 7ma articulación, la articulación al lado del aguijón"
+
+#. Name for HIP 85927
+msgid "The rearmost of the 2 stars in the sting"
+msgstr "La última de las 2 estrellas en el aguijón"
+
+#. Name for HIP 85423
+msgid "The most advanced of the 2 stars to the north of the sting"
+msgstr "‎La más avanzada de las 2 estrellas al norte del aguijón"
+
+#. Name for HIP 89931
+msgid "The star in the [bow-] grip held by the left hand"
+msgstr "‎La ‎‎estrella‎‎ en el agarre [del arco] sostenido por la mano izquierda‎"
+
+#. Name for HIP 90496
+msgid "The southernmost of the [2] stars in the northern portion of the bow"
+msgstr "‎La más meridional de las [2] estrellas en la parte norte del arco"
+
+#. Name for HIP 92041
+msgid "The one in advance of this, just over the arrow"
+msgstr "La avanzada de esta, sobre la flecha"
+
+#. Name for HIP 93085
+msgid "The most advanced of the 3 stars in the head"
+msgstr "La más avanzada de las 3 estrellas en la cabeza"
+
+#. Name for HIP 94820
+msgid "The southernmost of the 3 stars in the northern cloak-attachment"
+msgstr "‎La más meridional de las 3 estrellas en el manto del norte‎"
+
+#. Name for HIP 98258
+msgid "The northernmost of the 2 stars on the southern cloak-attachment"
+msgstr "La más septentrional de las 2 estrellas en el manto del sur"
+
+#. Name for HIP 94643
+msgid ""
+"The three stars in the back:  the one just above the place between the "
+"shoulders"
+msgstr ""
+"Las tres estrellas atrás: la que está justo encima del lugar entre los "
+"hombros"
+
+#. Name for HIP 93864
+msgid "The middle one, just above the shoulder-blade"
+msgstr "La del medio, justo encima del omóplato‎"
+
+#. Name for HIP 98066
+msgid ""
+"The four stars [forming a quadrilateral] in the place where the tail joins "
+"[the body]:  the advance star on the northern side"
+msgstr ""
+"Las cuatro estrellas [formando un cuadrilátero] en el lugar donde la cola se "
+"une [al cuerpo]: la estrella avanzada en el lado norte"
+
+#. Name for HIP 100027
+msgid "The northernmost of the 3 stars in the rear horn"
+msgstr "‎La más septentrional de las 3 estrellas en el cuerno trasero"
+
+#. Name for HIP 101123
+msgid "The southernmost of the 3 stars in the muzzle"
+msgstr "‎La más septentrional de las 3 estrellas en el hocico‎"
+
+#. Name for HIP 100195
+msgid "The star in advance of the [above] 3, under the right eye"
+msgstr "La estrella avanzada de las 3 [arriba], debajo del ojo derecho"
+
+#. Name for HIP 34045
+msgid "The northernmost of the 2 stars in the neck"
+msgstr "La más septentrional de las 2 estrellas en el cuello"
+
+#. Name for HIP 105881
+msgid "The more advanced of the 2 stars close together under the belly"
+msgstr ""
+"La más avanzada de las 2 estrellas cercanas entre sí debajo del vientre"
+
+#. Name for HIP 104963
+msgid "The rearmost of the 3 stars in the middle of the body"
+msgstr "La más trasera de las 3 estrellas en el medio del cuerpo"
+
+#. Name for HIP 104365
+msgid "The southernmost of the other, advance 2"
+msgstr "La más meridional de la otra, las 2 avanzadas"
+
+#. Name for HIP 104139
+msgid "The more advanced of the 2 stars in the back"
+msgstr "La más avanzada de las 2 estrellas en la espalda"
+
+#. Name for HIP 106723
+msgid "The more advanced of the 2 stars in the southern spine"
+msgstr "La más avanzada de las 2 estrellas en el sur de la columna vertebral"
+
+#. Name for HIP 106985
+msgid ""
+"The more advanced of the 2 stars in the section [of the body] next to the "
+"tail"
+msgstr ""
+"La más avanzada de las 2 estrellas en la sección [del ‎‎cuerpo‎‎] junto a la cola‎"
+
+#. Name for HIP 107095
+msgid "The most advanced of the 4 stars on the northern portion of the tail"
+msgstr "La más avanzada de las 4 estrellas en la parte norte de la cola‎"
+
+#. Name for HIP 108036
+msgid "The southernmost of the other 3"
+msgstr "La más meridional de las otras 3"
+
+#. Name for HIP 109074
+msgid "The brighter of the 2 stars in the right shoulder"
+msgstr "La estrella brillante de las 2 estrellas en el hombro derecho"
+
+#. Name for HIP 110672
+msgid "The northernmost of the 3 stars on the right hand"
+msgstr "‎La más septentrional de las 3 estrellas de la mano derecha‎"
+
+#. Name for HIP 110960
+msgid "The more advanced of the other 2 to the south"
+msgstr "La más avanzada de las otras 2 hacia el sur"
+
+#. Name for HIP 110003
+msgid ""
+"The more advanced of the 2 stars close together in the hollow of the right "
+"[hip]"
+msgstr ""
+"La más avanzada de las 2 estrellas cercanas entre sí en el hueco de la "
+"[cadera] derecha"
+
+#. Name for HIP 109139
+msgid "The southernmost of the 2 stars in the left buttock"
+msgstr "La más meridional de las 2 estrellas en la nalga izquierda"
+
+#. Name for HIP 113136
+msgid "The southernmost of the 2 stars in the right lower leg"
+msgstr "‎La más meridional de las 2 estrellas en la pierna inferior derecha‎"
+
+#. Name for HIP 112529
+msgid "The southernmost of the 2 stars in the left lower leg"
+msgstr "‎La más meridional de las 2 estrellas en la pierna inferior izquierda"
+
+#. Name for HIP 113996
+msgid "The one next to this, after [the beginning of] the bend"
+msgstr "La que está al lado de esta, después de [el comienzo de] la curva"
+
+#. Name for HIP 114855
+msgid "The northernmost of the 2 stars to the south of this"
+msgstr "‎La más septentrional de las 2 estrellas al sur de esta"
+
+#. Name for HIP 116758
+msgid "The more advanced of the 2 stars close together after the latter"
+msgstr ""
+"La más avanzada de las 2 estrellas cercanas entre sí después de esta última"
+
+#. Name for HIP 116901
+msgid "The northernmost of the 3 stars in the next group"
+msgstr "‎La más septentrional de las 3 estrellas en el siguiente grupo"
+
+#. Name for HIP 115438
+msgid "The northernmost of the next 3 [arranged] likewise"
+msgstr "La más septentrional de las siguientes 3 [dispuestas] del mismo modo‎"
+
+#. Name for HIP 114119
+msgid "The most advanced of the 3 stars in the remaining group"
+msgstr "La más avanzada de las 3 estrellas en el grupo restante‎"
+
+#. Name for HIP 301
+msgid "The most advanced of the 3 stars to the rear of the bend in the water"
+msgstr ""
+"La más avanzada de las 3 estrellas a la parte trasera de la curva en el agua‎"
+
+#. Name for HIP 114971
+msgid "The southernmost of the 2 stars in the top of its head"
+msgstr "‎La más meridional de las 2 estrellas en la parte superior de su cabeza‎"
+
+#. Name for HIP 115738
+msgid "The more advanced of the 2 stars in the belly"
+msgstr "La más avanzada de las 2 estrellas en el vientre‎"
+
+#. Name for HIP 1645
+msgid "The stars forming its fishing-line:  the first after the tail"
+msgstr ""
+"Las estrellas que forman su línea de pesca: la primera después de la cola"
+
+#. Name for HIP 3786
+msgid "The most advanced of the 3 following bright stars"
+msgstr "La más avanzada de las 3 estrellas brillantes siguientes"
+
+#. Name for HIP 5346
+msgid "The northernmost of the 2 small stars under these, in the bend"
+msgstr ""
+"La más septentrional de las 2 estrellas pequeñas bajo estas, en la curva‎"
+
+#. Name for HIP 7007
+msgid "The most advanced of the 3 stars after the bend"
+msgstr "La más avanzada de las 3 estrellas después de la curva‎"
+
+#. Name for HIP 9487
+msgid "The star on the knot joining the 2 fishing-lines"
+msgstr "‎La ‎‎estrella‎‎ en el nudo uniéndose a las 2 líneas de pesca‎"
+
+#. Name for HIP 8198
+msgid ""
+"Stars in the northern fishing-line:  the first in the section beginning at "
+"the knot"
+msgstr ""
+"Estrellas en la línea de pesca del norte: la primera en la sección que "
+"comienza en el nudo"
+
+#. Name for HIP 7535
+msgid "The southernmost of the 3 stars following after that"
+msgstr "‎La más meridional de las 3 estrellas siguientes después de esa"
+
+#. Name for HIP 6706
+msgid "The northernmost of the 3, which is also on the end of the tail"
+msgstr ""
+"La más septentrional de las 3, que también está en el extremo de la cola‎"
+
+#. Name for HIP 5544
+msgid "The northernmost of the 2 stars in the mouth of the rear fish"
+msgstr "‎La más septentrional de las 2 estrellas en la boca del pez trasero"
+
+#. Name for HIP 4510
+msgid "The rearmost of the 3 small stars in the head"
+msgstr "‎La más trasera de las 3 estrellas pequeñas en la cabeza‎"
+
+#. Name for HIP 5131
+msgid ""
+"The most advanced of the 3 stars on the spine in the back, following [i.e. "
+"to the rear of] the star on the elbow of Andromeda [345 And 11]"
+msgstr ""
+"‎La más avanzada de las 3 estrellas en la columna vertebral en la espalda, "
+"siguiendo [es decir, a la parte trasera de] la ‎‎estrella‎‎ en el codo de "
+"Andrómeda‎ [345 And 11]"
+
+#. Name for HIP 6193
+msgid "The northernmost of the 2 stars in the belly"
+msgstr "‎La más septentrional de las 2 estrellas en el vientre‎"
+
+#. Name for HIP 118209
+msgid ""
+"The quadrilateral under the advance fish:  the more advanced of the 2 "
+"northern stars"
+msgstr ""
+"El cuadrilátero debajo del pez avanzado: la más avanzada de las 2 estrellas "
+"del norte"
+
+#. Name for HIP 14135
+msgid "The three stars in the snout:  the rearmost, on the end of the jaw"
+msgstr ""
+"Las tres estrellas en el hocico: la más retrasada, al final de la mandíbula"
+
+#. Name for HIP 12387
+msgid "The most advanced of the 3, on the cheek"
+msgstr "La más avanzada de las 3, en la mejilla"
+
+#. Name for HIP 11345
+msgid ""
+"The quadrilateral in the chest:  the northernmost star on the advance side"
+msgstr ""
+"El cuadrilátero en el pecho: la estrella más meridional en el lado avanzado"
+
+#. Name for HIP 8102
+msgid "The midmost of the 3 stars in the body"
+msgstr "‎La que está en medio de las 3 estrellas en el ‎‎cuerpo‎"
+
+#. Name for HIP 6537
+msgid "The rearmost of the 2 stars by the section next to the tail"
+msgstr "‎La más trasera de las 2 estrellas por la sección junto a la cola‎"
+
+#. Name for HIP 3909
+msgid ""
+"The quadrilateral in the section next to the tail:  the northernmost star on "
+"the rear side"
+msgstr ""
+"El cuadrilátero en la sección al lado de la cola: la estrella más meridional "
+"en el lado trasero"
+
+#. Name for HIP 1562
+msgid ""
+"The 2 stars at the ends of the tail-fins:  the one on the northern [tail-fin]"
+msgstr ""
+"Las 2 estrellas en los extremos de las aletas de la cola: la del norte "
+"[aleta de la cola]"
+
+#. Name for HIP 26207
+msgid "The nebulous star in the head of Orion"
+msgstr "La estrella nebulosa en la cabeza de Orión"
+
+#. Name for HIP 29426
+msgid ""
+"The quadrilateral in the right hand:  the rear, double star on the southern "
+"side"
+msgstr ""
+"El cuadrilátero en la mano derecha: la trasera estrella doble en el lado sur"
+
+#. Name for HIP 27913
+msgid "The more advanced of the 2 stars in the staff"
+msgstr "La más avanzada de las 2 estrellas en el personal"
+
+#. Name for HIP 26594
+msgid ""
+"The rearmost of the 4 stars almost on a straight line just over the back"
+msgstr ""
+"‎La parte trasera de las 4 estrellas casi en línea recta justo sobre la parte "
+"posterior‎"
+
+#. Name for HIP 25473
+msgid "The last and most advanced of the 4"
+msgstr "La última y más avanzada de las 4"
+
+#. Name for HIP 24010
+msgid "Stars in the pelt on the left arm:  the northernmost"
+msgstr "Las estrellas en la piel en el brazo izquierdo: la más septentrional"
+
+#. Name for HIP 23607
+msgid "The 2nd from the northernmost"
+msgstr "La 2da del norte‎"
+
+#. Name for HIP 22957
+msgid "The 3rd from the northernmost"
+msgstr "La 3ra del norte‎"
+
+#. Name for HIP 22845
+msgid "The 4th from the northernmost"
+msgstr "La 4ta del norte‎"
+
+#. Name for HIP 22509
+msgid "The 5th from the northernmost"
+msgstr "La 5ta del norte‎"
+
+#. Name for HIP 22449
+msgid "The 6th from the northernmost"
+msgstr "La 6ta del norte‎"
+
+#. Name for HIP 22549
+msgid "The 7th from the northernmost"
+msgstr "La 7ma del norte‎"
+
+#. Name for HIP 22797
+msgid "The 8th from the northernmost"
+msgstr "La 8va del norte‎"
+
+#. Name for HIP 25930
+msgid "The most advanced of the 3 stars on the belt"
+msgstr "La más avanzada de las 3 estrellas en el cinturón"
+
+#. Name for HIP 26237
+msgid ""
+"The northernmost of the 3 stars joined together at the tip of the dagger"
+msgstr "‎La más septentrional de las 3 estrellas unidas en la punta de la daga‎"
+
+#. Name for HIP 26563
+msgid "The rearmost of the 2 stars under the tip of the dagger"
+msgstr "‎La más trasera de las 2 estrellas bajo la punta de la daga‎"
+
+#. Name for HIP 23972
+msgid ""
+"The star after the one in the foot of Orion [768 Ori 35], at the beginning "
+"of the river"
+msgstr ""
+"‎La ‎‎estrella‎‎ después de la que está al pie de Orión [768 Ori 35], al "
+"principio del río‎"
+
+#. Name for HIP 23364
+msgid "The rearmost of the 2 stars next in order after this"
+msgstr ""
+"‎La más trasera de las 2 estrellas a continuación en orden después de esta"
+
+#. Name for HIP 22109
+msgid "The rearmost of the next 2 in order again"
+msgstr "‎La más trasera de las 2 siguientes en orden de nuevo"
+
+#. Name for HIP 20507
+msgid "The rearmost of the 3 stars after this"
+msgstr "‎La más trasera de las 3 estrellas después de esta"
+
+#. Name for HIP 13421
+msgid "The most advanced of the 4"
+msgstr "La más avanzada de las 4"
+
+#. Name for HIP 15197
+msgid "The rearmost of the 4 stars in the next interval again"
+msgstr "‎La más trasera de las 4 estrellas en el siguiente intervalo‎"
+
+#. Name for HIP 12843
+msgid ""
+"The first star in the bend of the river, which [star] touches the chest of "
+"Cetus"
+msgstr ""
+"‎La primera ‎‎estrella‎‎ en la curva del río, que [estrella] toca el pecho de "
+"Cetus‎"
+
+#. Name for HIP 14146
+msgid "The most advanced of the next [group of] three"
+msgstr "La más avanzada de las siguientes [grupo de] tres"
+
+#. Name for HIP 17651
+msgid ""
+"The next four stars, nearly forming a trapezium:  the northern one on the "
+"advance side"
+msgstr ""
+"Las siguientes cuatro estrellas, casi formando un trapecio: la del norte en "
+"el lado avanzado"
+
+#. Name for HIP 18673
+msgid "The last of the 4, the rear one on that side"
+msgstr "La última de las 4, la que está detrás de ese lado‎"
+
+#. Name for HIP 21248
+msgid ""
+"The northernmost of the 2 stars close together at some distance to the east"
+msgstr ""
+"‎La más septentrional de las 2 estrellas cercanas entre sí a cierta ‎‎distancia‎‎ "
+"hacia el este‎"
+
+#. Name for HIP 20535
+msgid "The rearmost of the next 2 stars after the bend"
+msgstr "‎La más trasera de las siguientes 2 estrellas después de la curva‎"
+
+#. Name for HIP 18213
+msgid "The rearmost of the 3 stars in the next interval"
+msgstr "‎La más trasera de las 3 estrellas en el siguiente intervalo‎"
+
+#. Name for HIP 13847
+msgid "The last star of the river, the bright one"
+msgstr "‎La última ‎‎estrella‎‎ del río, la ‎‎brillante"
+
+#. Name for HIP 24244
+msgid ""
+"The quadrilateral just over the ears:  the northern star on the advance side"
+msgstr ""
+"El cuadrilátero justo encima de las orejas: la estrella del norte en el lado "
+"avanzado"
+
+#. Name for HIP 24305
+msgid "The star in the cheek"
+msgstr "La estrella en la mejilla"
+
+#. Name for HIP 27654
+msgid "The northernmost of the 2 stars in the hind legs"
+msgstr "‎La más septentrional de las 2 estrellas en las patas traseras‎"
+
+#. Name for HIP 32349
+msgid "κύων (Dog)"
+msgstr "κύων (Perro)"
+
+#. Name for HIP 32349
+msgid ""
+"The star in the mouth, the brightest, which is called 'the Dog' and is "
+"reddish"
+msgstr ""
+"‎La ‎‎estrella‎‎ en la boca, la más brillante, ‎‎que se llama 'el Perro' y es rojiza"
+
+#. Name for HIP 31700
+msgid "The northernmost of the 2 stars on the right knee"
+msgstr "‎La más septentrional de las 2 estrellas en la rodilla derecha‎"
+
+#. Name for HIP 30324
+msgid "The star on the end of the front leg"
+msgstr "‎La ‎‎estrella‎‎ en el extremo de la pierna delantera"
+
+#. Name for HIP 31125
+msgid "The more advanced of the 2 stars in the left knee"
+msgstr "La más avanzada de las 2 estrellas en la rodilla izquierda"
+
+#. Name for HIP 33977
+msgid "The rearmost of the 2 stars in the left shoulder"
+msgstr "‎La más trasera de las 2 estrellas en el hombro izquierdo"
+
+#. Name for HIP 33579
+msgid "The star below the belly, in the middle of the thighs"
+msgstr "‎La ‎‎estrella‎‎ debajo del vientre, en el medio los muslos‎"
+
+#. Name for HIP 33971
+msgid "The star to the north of the top of Canis"
+msgstr "‎La ‎‎estrella‎‎ al norte de la parte superior de Canis"
+
+#. Name for HIP 29034
+msgid ""
+"The southernmost of the 4 stars almost on a straight line under the hind legs"
+msgstr ""
+"‎La más meridional de las 4 estrellas casi en línea recta debajo de las patas "
+"traseras‎"
+
+#. Name for HIP 30788
+msgid "The last and northernmost of the 4"
+msgstr "La última y más septentrional de las 4"
+
+#. Name for HIP 27204
+msgid ""
+"The most advanced of the 3 stars almost on a straight line to the west of "
+"the [above] four"
+msgstr ""
+"La más avanzada de las 3 estrellas casi en línea recta al oeste [arriba]‎ de "
+"las cuatro"
+
+#. Name for HIP 27628
+msgid "The rearmost of the 2 bright stars under these"
+msgstr "‎La más trasera de las 2 estrellas ‎‎brillantes‎‎ bajo estas"
+
+#. Name for HIP 36188
+msgid "The star in the neck"
+msgstr "La estrella en el cuello"
+
+#. Name for HIP 37279
+msgid "Προκύων (Prokyon, The One [rising] before the Dog)"
+msgstr "Προκύων (Proción, El anterior [naciente] del Perro)"
+
+#. Name for HIP 37279
+msgid "The bright star just over the hindquarters, called Procyon"
+msgstr ""
+"‎La ‎‎estrella‎‎ ‎‎brillante‎‎ justo sobre los cuartos traseros, llamada Proción"
+
+#. Name for HIP 38835
+msgid "The more advanced of the 2 stars in the stern-ornament"
+msgstr "La más avanzada de las 2 estrellas en el adorno de popa"
+
+#. Name for HIP 38170
+msgid ""
+"The northernmost of the 2 stars close together over the little shield in the "
+"poop"
+msgstr ""
+"‎La más septentrional de las 2 estrellas cercanas entre sí sobre el escudo "
+"pequeño en la popa"
+
+#. Name for HIP 36917
+msgid "The most advanced of the 3 stars under the little shield"
+msgstr "La más avanzada de las 3 estrellas bajo el escudo pequeño"
+
+#. Name for HIP 38901
+msgid "The star on the goose [-neck]"
+msgstr "La estrella en [el cuello] del ganso"
+
+#. Name for HIP 35957
+msgid "The northernmost of the 2 stars in the stern-keel"
+msgstr "La más septentrional de las 2 estrellas de la quilla de popa"
+
+#. Name for HIP 37096
+msgid "Stars in the poop-deck:  the northernmost"
+msgstr "Las estrellas en la cubierta de popa: la más septentrional"
+
+#. Name for HIP 37297
+msgid "The most advanced of the next 3"
+msgstr "La más avanzada de las siguientes 3"
+
+#. Name for HIP 38414
+msgid "The more advanced of the 2 faint stars under the bright one"
+msgstr "La más avanzada de las 2 estrellas débiles debajo de la brillante"
+
+#. Name for HIP 40091
+msgid "The more advanced of the 2 stars over the above-mentioned bright one"
+msgstr "La más avanzada de las 2 estrellas sobre la brillante antes mencionada"
+
+#. Name for HIP 43603
+msgid ""
+"The northernmost of the 3 stars on the little shields, about on the mast-"
+"holder"
+msgstr ""
+"La más septentrional de las 3 estrellas en los escudos pequeños, sobre el "
+"soporte del mástil"
+
+#. Name for HIP 43023
+msgid "The northernmost of the 2 stars close together under these"
+msgstr "La más septentrional de las 2 estrellas cercanas entre sí bajo estas"
+
+#. Name for HIP 42515
+msgid "The southernmost of the 2 stars in the middle of the mast"
+msgstr "La más meridional de las 2 estrellas en medio del mástil"
+
+#. Name for HIP 43409
+msgid "The more advanced of the 2 stars by the tip of the mast"
+msgstr "La más avanzada de las 2 estrellas por la punta del mástil"
+
+#. Name for HIP 44816
+msgid "The star below the 3rd and rearmost little shield"
+msgstr "La estrella debajo del 3er escudo pequeño trasero"
+
+#. Name for HIP 38827
+msgid "The bright star to the south of this, on the lower [part of the] keel"
+msgstr ""
+"La estrella brillante al sur de esta, en la parte inferior [de la] quilla"
+
+#. Name for HIP 42536
+msgid "The most advanced of the 3 stars to the rear of this"
+msgstr "La más avanzada de las 3 estrellas detrás de esta"
+
+#. Name for HIP 45941
+msgid "The more advanced of the 2 stars to the rear of these, near the cut-off"
+msgstr ""
+"La más avanzada de las 2 estrellas en la parte trasera de estas, cerca del "
+"límite"
+
+#. Name for HIP 28328
+msgid "The more advanced of the 2 stars in the northern, advance steering-oar"
+msgstr "La más avanzada de las 2 estrellas en el norte, el timón avanzado"
+
+#. Name for HIP 30438
+msgid "Κάνωβος (Kanobos)"
+msgstr "Κάνωβος (Kanobos)"
+
+#. Name for HIP 30438
+msgid ""
+"The more advanced of the 2 stars in the other steering-oar, called Canopus"
+msgstr "La más avanzada de las 2 estrellas en el otro remo, llamada Canopus"
+
+#. Name for HIP 42402
+msgid ""
+"The 5 stars in the head:  the southernmost of the 2 advance ones, which is "
+"on the nostrils"
+msgstr ""
+"Las 5 estrellas en la cabeza: la más meridional de las 2 avanzadas, que está "
+"en las fosas nasales"
+
+#. Name for HIP 42313
+msgid "The northernmost of these [2], which is above the eye"
+msgstr "La más septentrional de estas [2], que está por encima del ojo"
+
+#. Name for HIP 43109
+msgid ""
+"The northernmost of the 2 to the rear of these, which is about on the skull"
+msgstr ""
+"La más septentrional de las 2 en la parte posterior de estos, que se "
+"encuentra aproximadamente en el cráneo"
+
+#. Name for HIP 43813
+msgid "The rearmost of all, about on the cheek"
+msgstr "La más retrasada de todas, sobre la mejilla"
+
+#. Name for HIP 44659
+msgid ""
+"The more advanced of the 2 stars in the place where the neck joins [the head]"
+msgstr ""
+"La más avanzada de las 2 estrellas en el lugar donde el cuello se une [a la "
+"cabeza]"
+
+#. Name for HIP 46404
+msgid "The faint, northernmost star of the 2 close together to the south"
+msgstr "La estrella débil más al norte de las 2 cercanas al sur"
+
+#. Name for HIP 46390
+msgid "The bright one of these two close stars"
+msgstr "La brillante de estas dos estrellas cercanas"
+
+#. Name for HIP 47452
+msgid ""
+"The most advanced of the 3 stars to the rear, after the bend [in the neck]"
+msgstr ""
+"La más avanzada de las 3 estrellas en la parte trasera, después de la curva "
+"[en el cuello]"
+
+#. Name for HIP 51069
+msgid "The most advanced of the next 3 stars almost on a straight line"
+msgstr "La más avanzada de las siguientes 3 estrellas casi en línea recta"
+
+#. Name for HIP 54682
+msgid ""
+"The northernmost of the 2 stars after [i.e. to the rear of] the base of "
+"Crater"
+msgstr ""
+"La más septentrional de las 2 estrellas después de [p. Ej. a la parte "
+"trasera de] la base de Crater"
+
+#. Name for HIP 56343
+msgid "The most advanced of the 3 stars after these, as it were in a triangle"
+msgstr ""
+"La más avanzada de las 3 estrellas después de estas, por así decirlo en un "
+"triángulo"
+
+#. Name for HIP 50414
+msgid "The star some distance to the rear of those in the neck [nos. 6-15]"
+msgstr ""
+"La estrella a cierta distancia de la parte trasera de las que están en el "
+"cuello [nos. 6-15]"
+
+#. Name for HIP 55705
+msgid "The southernmost of the 2 stars in the middle of the bowl"
+msgstr "La más meridional de las 2 estrellas en el medio del cuenco"
+
+#. Name for HIP 60965
+msgid "The more advanced of the 2 stars in the rear wing"
+msgstr "La más avanzada de las 2 estrellas en el ala trasera"
+
+#. Name for HIP 67457
+msgid "The southernmost of the 4 stars in the head"
+msgstr "La más meridional de las 4 estrellas en la cabeza"
+
+#. Name for HIP 67153
+msgid "The more advanced of the other, middle 2"
+msgstr "La más avanzada de las otras 2 en medio"
+
+#. Name for HIP 67669
+msgid "The rearmost of these, the last of the 4"
+msgstr "La último de estas, la última de las 4"
+
+#. Name for HIP 70090
+msgid "The 4 stars in the thyrsus:  the northernmost of the advance 2"
+msgstr "Las 4 estrellas en el tirso: la más septentrional de las 2 avanzadas"
+
+#. Name for HIP 67464
+msgid "The most advanced of the 3 stars in the right side"
+msgstr "La más avanzada de las 3 estrellas del lado derecho"
+
+#. Name for HIP 68523
+msgid "The rearmost of the 2 faint stars to the north of this"
+msgstr "La última de las 2 estrellas débiles al norte de esta"
+
+#. Name for HIP 59196
+msgid "The more advanced of the 2 stars close together on the right thigh"
+msgstr ""
+"La más avanzada de las 2 estrellas cercanas entre sí en el muslo derecho"
+
+#. Name for HIP 66657
+msgid "The more advanced of the 2 stars under the belly"
+msgstr "La más avanzada de las 2 estrellas bajo el vientre"
+
+#. Name for HIP 75141
+msgid "The more advanced of the 2 stars just over the shoulder-blade"
+msgstr "La más avanzada de las 2 estrellas justo por encima del omóplato"
+
+#. Name for HIP 74911
+msgid ""
+"The northernmost of the 2 stars near the place where the thigh joins [the "
+"body]"
+msgstr ""
+"La más septentrional de las 2 estrellas cerca del lugar donde el muslo se "
+"une [al cuerpo]"
+
+#. Name for HIP 78384
+msgid "The southernmost of the 2 stars in the neck"
+msgstr "La más meridional de las 2 estrellas en el cuello"
+
+#. Name for HIP 77634
+msgid "The more advanced of the 2 stars in the snout"
+msgstr "La más avanzada de las 2 estrellas en el hocico"
+
+#. Name for HIP 74604
+msgid "The southernmost of the 2 stars in the front leg"
+msgstr "‎La más meridional de las 2 estrellas en la pierna delantera"
+
+#. Name for HIP 86092
+msgid "The northernmost of the 2 stars in the base"
+msgstr "La más septentrional de las 2 estrellas en la base"
+
+#. Name for HIP 83153
+msgid "The northernmost of the 3 stars in the brazier"
+msgstr "La más septentrional de las 3 estrellas en el brasero"
+
+#. Name for HIP 85267
+msgid "The southernmost of the other 2 which are close together"
+msgstr "La más meridional de las otros 2 que están cercanas entre sí"
+
+#. Name for HIP 85258
+msgid "The northernmost of these [2]"
+msgstr "La más septentrional de estas [2]"
+
+#. Name for HIP 94160
+msgid ""
+"The one after this, which is north of the bright star in the knee [of "
+"Sagittarius, 593 Sgr 24]"
+msgstr ""
+"La siguiente, que está al norte de la estrella brillante en la rodilla [de "
+"Sagitario, 593 Sgr 24]"
+
+#. Name for HIP 93174
+msgid "The rearmost of the 2 stars after this, in advance, in the northern rim"
+msgstr ""
+"La última de las 2 estrellas después de esta, avanzada, en el borde norte"
+
+#. Name for HIP 92989
+msgid "The more advanced of these 2 faint stars"
+msgstr "La más avanzada de estas 2 estrellas débiles"
+
+#. Name for HIP 113368
+msgid ""
+"The star in the mouth, which is the same as the beginning of the water [670 "
+"Aqr 42]"
+msgstr ""
+"‎La ‎‎estrella‎‎ en la boca, que es la mismo que al comienzo del agua [670 Aqr 42]‎"
+
+#. Name for HIP 111188
+msgid "The most advanced of the 3 stars on the southern rim of the head"
+msgstr "La más avanzada de las 3 estrellas en el borde sur de la cabeza"
+
+#. Name for HIP 111138
+msgid "The rearmost of the 2 stars in the belly"
+msgstr "La última de las 2 estrellas en el vientre"
+
+#. Name for HIP 108661
+msgid "The rearmost of the 3 stars on the northern spine"
+msgstr "La última de las 3 estrellas en la columna norte"
+
+#. Name for HIP 104177
+msgid ""
+"The most advanced of the 3 bright stars in advance of Piscis [Austrinus]"
+msgstr ""
+"‎La más avanzada de las 3 estrellas ‎‎brillantes‎‎ avanzadas de Piscis [Austrinus]"
+
+#. Name for HIP 102831
+msgid "The southernmost of the remaining 2 stars to the north"
+msgstr "La más meridional de las 2 estrellas en el norte"
+
+#. Name for NAME Jupiter, native: Ζεύς
+#. Native name for Jupiter
+msgid "Zeus/Dios"
+msgstr "Zeus/Dios"
+
+#. Name for NAME Venus, native: Ἀφροδίτη
+#. Native name for Venus
+msgid "Aphrodite"
+msgstr "Afrodita"
+
+#. Name for NAME Mars, native: Ἄρης
+#. Native name for Mars
+msgid "Ares"
+msgstr "Ares"
+
+#. Name for NAME Saturn, native: Κρόνος
+#. Native name for Saturn
+msgid "Kronos"
+msgstr "Cronos"
+
+#. Name for NAME Mercury, native: Ἑρμῆς
+#. Native name for Mercury
+msgid "Hermes"
+msgstr "Hermes"
+
+#. Name for NAME Sun, native: Ἥλιος
+#. Native name for the Sun
+msgid "Helios"
+msgstr "Helios"
+
+#. Name for NAME Moon, native: Σελήνη
+#. Native name for the Moon
+msgid "Selene"
+msgstr "Selene"
+
+#. Name for NAME Uranus, native: undiscovered planet U.
+msgid "Uranus (1781)"
+msgstr "Urano (1781)"
+
+#. Name for NAME Neptune, native: undiscovered planet N.
+msgid "Neptun (1846)"
+msgstr "Neptuno (1846)"
+
+#. Name for M 44
+msgid "φάτνη (Manger)"
+msgstr "φάτνη (Pesebre)"
+
+#. Name for M 45
+msgid "Πλειάδες (Pleiades)"
+msgstr "Πλειάδες (Pléyades)"
+
+#. Name for M 45
+msgid "Tau 30-33"
+msgstr "Tau 30-33"
+
+#. Name for Mel 25
+msgid "ʿΥάδες (Hyades)"
+msgstr "ʿΥάδες (Híades)"
+
+#. Name for Mel 25
+msgid "Tau 11-15"
+msgstr "Tau 11-15"
+
+#. Name for Mel 111
+msgid "πλόκαμος (Coma)"
+msgstr "πλόκαμος (Coma)"
+
+#. Name for Mel 111
+msgid "Leo 33"
+msgstr "Leo 33"
+
+#. Name for NGC 6441
+msgid "sco 22"
+msgstr "sco 22"
