@@ -1,0 +1,4917 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
+"Language-Team: Chinese (China) (https://app.transifex.com/stellarium/"
+"teams/80998/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Sky culture name
+msgid "Modern"
+msgstr "现代"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"The modern sky culture is used internationally by modern astronomers, and is "
+"the official scheme of The International Astronomical Union. It has "
+"historical roots in Ancient Greek astronomy, with influences from Islamic "
+"astronomy."
+msgstr ""
+"现代天文学家在国际上使用现代天空文化，这是国际天文学联合会的官方计划。它源于"
+"古希腊天文学，并受到伊斯兰天文学的影响。"
+
+#. Sky culture description section in markdown format
+msgid ""
+"The modern sky culture divides the celestial sphere into 88 areas of various "
+"sizes called constellations, each with precise boundary, issued by the "
+"International Astronomical Union in 1922. These constellations have become "
+"the standard way to describe the sky, replacing similar sets in other sky "
+"cultures exhaustively in daily usage.\n"
+"\n"
+"The constellations in use today are based mainly on ancient Greek "
+"constellations depicted by Ptolemy in his book the Almagest during the 2nd "
+"century CE. In the subsequent centuries, this book has been translated from "
+"Greek into Arabic (6th to 9th century) and later to medieval Latin. In the "
+"Arabic more than in the Latin tradition, the Ptolemaic figures were enriched "
+"and transformed by native Arabic constellations and star names.\n"
+"\n"
+"In the 16-18th centuries, European astronomers suggested new constellations "
+"to fill the gaps between northern constellations (e.g. the constellation of "
+"\"the lynx\" for an area close to the Great Bear but with stars so faint "
+"that you would need the eyes of a lynx to see them) and also created new "
+"constellations in the southern part of the sky which had not been visible to "
+"Ptolemy. These new constellations were usually named after new technical "
+"inventions of the early modern period (e.g. a chemical furnace, a balloon, "
+"an air pump) or exotic animals (e.g. a chamaeleon, a tucan, a paradise "
+"bird). Among them several constellations were also named with political "
+"consideration to honor certain kings or patrons.\n"
+"\n"
+"In the beginning of the 20th century, the IAU (International Astronomical "
+"Union) aimed for a large clean-up: in 1922, it officially accepted the list "
+"of 88 constellation names. In 1928 it also defined precise constellation "
+"boundaries [#40] still in use today.\n"
+"\n"
+"### Extras\n"
+"\n"
+"In the 2nd century CE, Ptolemy in Alexandria published a multi-volume book "
+"which summarised the astronomical knowledge of the time, rooted in a "
+"tradition of mathematical astronomy since Hipparchus (at least 265 years "
+"earlier). In the subsequent centuries, this book has been translated from "
+"Greek into Arabic (6th to 9th century), from Arabic into Latin, and later, "
+"from the original ancient Greek into medieval Latin. Due to this "
+"transformation, it is now known under the artificial name Almagest, derived "
+"from the Arabic title [#46].\n"
+"\n"
+"The Almagest star catalogue (books VII and VIII) has been depicted many "
+"times in the Islamic as well as in the Christian astronomical traditions. "
+"Often, the figures were re-drawn in order to adapt them to the taste of art "
+"of the epoch. In the Arabic more than in the Latin tradition, the Ptolemaic "
+"figures were enriched and transformed by native Arabic constellations and "
+"star names. Therefore, this sky culture displays a modern descendant of the "
+"Ptolemaic one with traces of translations, misunderstandings, "
+"transformations, and deliberate additions.\n"
+"\n"
+"In 1603 the lawyer and hobby astronomer Johann Bayer from Augsburg, Germany, "
+"made a new celestial atlas, called Uranometria [#41]. In this atlas, he "
+"introduced a systematic naming of stars starting with alpha, the brightest, "
+"beta, the second brightest, gamma, the third ... within a constellation. "
+"Subsequently, it was established to name a star with a Greek letter and the "
+"Latin constellation name in casus genitive.\n"
+"\n"
+"In the 18th century, the century of great atlases (Flamsteed, Fortin, Bode: "
+"[#42][#43]), new constellations were added to fill the gaps between northern "
+"constellations. Additionally, there were suggestions to create new "
+"constellations in the southern part of the sky which had not been visible to "
+"Ptolemy. European astronomers visited the European colonies and instead of "
+"asking the native people for their constellations, the Europeans were "
+"creative. This way, many new technical inventions of the early modern period "
+"were depicted in constellations (e.g. a chemical furnace, a balloon, an air "
+"pump) as well as exotic animals (e.g. a chamaeleon, a tucan, a paradise "
+"bird).\n"
+"\n"
+"The problem was that sometimes astronomers did not agree with each other "
+"and, thus, atlases showed deviations from each other.\n"
+"\n"
+"After many centuries of astronomers taking liberties in interpretation of "
+"the Ptolemaic original, there were many variants of constellations. As "
+"constellations are a positioning system, i.e. astronomers describe positions "
+"in the sky relative to stars and stars relative to constellations (like "
+"\"Betelgeuse\", Orion's right shoulder), it is necessary to use "
+"constellation names and star names uniformly all over the world.\n"
+"\n"
+"In the \"Fin de siècle\", there were upcoming suggestions in the "
+"astronomical community to unify the system of constellations and star names "
+"[#44].\n"
+"\n"
+"The IAU, only founded in 1919, in 1928 defined the boundaries of these areas "
+"[#43] and not the way of drawing artwork or connecting lines within them. "
+"Consequently several sub-cultures of painting figures and drawing simplified "
+"stickfigures were developed during the 20th and 21st century. We provide "
+"some of them as further sky cultures.\n"
+"\n"
+"### Constellations\n"
+"\n"
+"These constellations are based mainly on the Ptolemaic tradition which had "
+"been used in all three Abrahamitic religions and, thus, was common in the "
+"Near East, in Europe and its colonies on all continents. However, between "
+"the ancient Greek constellations there were gaps of areas with only faint "
+"stars belonging to no constellation.[#47] In the Modern Epoch, several "
+"astronomers suggested constellation figures for these gaps, among them "
+"several political constellations to the honor of certain kings or patrons. "
+"In the late 19th century, the astronomical research community aimed for a "
+"huge clean-up to avoid ambiguities in assigning stars to constellations.\n"
+"\n"
+"In 1922, the IAU officially approved the list of 88 constellation names and "
+"their official abbreviations with three letters. The only remaining "
+"political constellation is Scutum, the shield of a Polish king but without "
+"mentioning the political reference anymore. The Belgian priest E. Delporte "
+"got the task to define constellation boundaries according to coordinates. In "
+"1928, he finished the work, based on an atlas from Argentina [#51], and the "
+"IAU accepted his delimitations [#40].\n"
+"\n"
+"These \"constellations\" are naked areas in the sky without any stick "
+"figures or depictions [#44]. The borders simply follow the lines of right "
+"ascension and declination from the epoch 1875.0. Precession causes a slowly "
+"increasing deviation from the originally rectilinear grid. These "
+"constellations became the standard way to describe the sky, replacing "
+"similar sets in other sky cultures exhaustively in daily usage.\n"
+"\n"
+"Stellarium by default displays the precise RA-DEC-boundaries and a set of "
+"artwork constellations on the basis of Ptolemaic figures but following our "
+"contemporary taste of art.\n"
+"\n"
+"### Asterisms\n"
+"\n"
+"The term \"asterism\" (assembly of stars) can sometimes be used synonymously "
+"to \"constellation\". In the modern use it describes a figure which is not "
+"part of the official canon. Sometimes an asterism is a part of a "
+"constellation, e.g. the Big Dipper as part of Ursa Major, or Great Square as "
+"part of Pegasus. Other asterisms span over several constellations, e.g. the "
+"Summer Triangle or Winter Hexagon. Yet others are only visible in binoculars "
+"or telescopes and are aptly named \"telescopic asterism\", e.g. the "
+"Coathanger. They are often discussed in the observing columns of popular "
+"astronomy magazines.\n"
+"\n"
+"### Ray Helpers\n"
+"\n"
+"Seasoned observers can find their way around the sky easily. One mnemonic "
+"tool are associative chains of stars that span large distances. We show them "
+"as \"ray helpers\". These are not standardized.\n"
+"\n"
+"### Proper names of stars\n"
+"\n"
+"Ptolemy's star catalogue had the layout of a table listing the description "
+"of the star's position in the constellation's figure, the ecliptical "
+"coordinates, and the magnitude e.g.: \"The star at the tip of the tail of "
+"Ursa Minor\", \"Gem 0 1/6, +66\", \"Mag 3\".\n"
+"\n"
+"In most cases, the star names evolved by astronomer's systematical "
+"abbreviations of these descriptions, e.g., a first astronomer abbreviated in "
+"a text \"tip of the tail\", a next astronomer drew a map with less space and "
+"wrote only \"tail\" next to the star and this name remained. Over centuries, "
+"these descriptions were translated into Arabic and Latin, and in some cases "
+"the translators or scribes made mistakes because of misreading or "
+"misspelling of the Arabic words (e.g. the Arabic \"yad al gauza\", the hand "
+"of the giant woman, was mangled to the common term \"Betelgeuse\").\n"
+"\n"
+"However, there are also a few original Greek words like the red star "
+"\"Antares\", the counterpart of Ares (Mars), and even a few original "
+"Babylonian terms like \"Shargaz\", the Sting, in Scorpius. Our modern, most "
+"recent IAU star names [#45] are a renewed mixture, also with influences or "
+"even politically wanted additions of star names from the non-Ptolemaic sky "
+"cultures, e.g. the traditional Pingsing, a Chinese star name for a star in "
+"Hydra (its meaning is only \"star\", a reminescence to his lonely position), "
+"or newly adopted star names from Polynesian, Hawaiian, or Aboriginal "
+"cultures for names of stars with exoplanets.\n"
+"\n"
+"The IAU is the only scientifically accepted authority to assign new names to "
+"stars. Commercial exploits like \"star name registries\", who sell stars for "
+"commemorative purposes or as gifts, only sell printed pieces of paper. These "
+"names are not approved and never used by scientists."
+msgstr ""
+"现代天空文化将天球划分为88个不同大小的区域，称为星座，每个区域都有精确的边"
+"界，由国际天文学联合会于1922年发布。这些星座已成为描述天空的标准方式，在日常"
+"使用中彻底取代了其他天空文化中的类似星座。\n"
+"\n"
+"今天使用的星座主要基于托勒密在公元2世纪的《天文学大成》（Almagest）一书中描绘"
+"的古希腊星座。在随后的几个世纪里，这本书从希腊语被翻译成阿拉伯语（6世纪至9世"
+"纪），后来又被翻译成中世纪的拉丁语。在阿拉伯语中，托勒密数字比在拉丁语传统中"
+"更丰富，并被阿拉伯本土的星座和恒星名称所丰富和改造。\n"
+"\n"
+"在16-18世纪，欧洲天文学家提出了新的星座来填补北方星座之间的空白（例如，靠近大"
+"熊的地区的“猞猁”星座，但恒星非常微弱，你需要猞猁的眼睛才能看到它们），并在托"
+"勒密看不到的天空南部创造了新的星座。这些新的星座通常以现代早期的新技术发明"
+"（如化学炉、气球、气泵）或外来动物（如变色龙、蜥蜴、天堂鸟）命名。其中几个星"
+"座也是出于政治考虑而命名的，以纪念某些国王或赞助人。\n"
+"\n"
+"20世纪初，国际天文学联合会（IAU）计划进行大规模清理：1922年，它正式接受了88个"
+"星座名称的名单。1928年，它还定义了至今仍在使用的精确星座边界[#40]。\n"
+"\n"
+"### 其他\n"
+"\n"
+"公元2世纪，亚历山大的托勒密出版了一本多卷本的书，总结了当时的天文学知识，这本"
+"书植根于自希帕丘斯（至少265年前）以来的数学天文学传统。在随后的几个世纪里，这"
+"本书从希腊语翻译成阿拉伯语（6世纪至9世纪），从阿拉伯语翻译成拉丁语，后来从原"
+"始古希腊语翻译为中世纪拉丁语。由于这种转变，它现在被称为Almagest，也就是《天"
+"文学大成》，源自阿拉伯语标题[#46]。\n"
+"\n"
+"《天文学大成》星表（第七册和第八册）在伊斯兰和基督教天文传统中多次被描绘。通"
+"常，这些人物会被重新绘制，以适应那个时代的艺术品味。在阿拉伯语中，托勒密数字"
+"比在拉丁语传统中更丰富，并被阿拉伯本土的星座和恒星名称所丰富和改造。因此，这"
+"种天空文化展现了托勒密文化的现代后裔，带有翻译、误解、转换和故意添加的痕"
+"迹。\n"
+"\n"
+"1603年，来自德国奥格斯堡的律师兼业余天文学家Johann Bayer制作了一本名为"
+"Uranometria的新天体图集。在这本图集中，他介绍了恒星的系统命名，从最亮的阿尔"
+"法、最亮的贝塔、第二亮的伽马、第三亮的伽马开始。。。在一个星座内。随后，它被"
+"确立为用希腊字母命名一颗恒星，用拉丁语的星座名称命名。\n"
+"\n"
+"在18世纪，伟大的星图集世纪（Flamsteed，Fortin，Bode:[#42][#43]），新的星座被"
+"添加以填补北方星座之间的空白。此外，有人建议在托勒密看不到的天空南部创建新的"
+"星座。欧洲天文学家访问了欧洲殖民地，欧洲人没有向当地人询问他们的星座，而是富"
+"有创造力。通过这种方式，现代早期的许多新技术发明被描绘成星座（如化学炉、气"
+"球、气泵）以及异国情调的动物（如蝘蜓、杜鹃、天堂鸟）。\n"
+"\n"
+"问题是，有时天文学家之间意见不一致，因此，星图集显示出彼此的不同。\n"
+"\n"
+"经过几个世纪的天文学家对托勒密原始星座的自由解释，星座有了许多变体。由于星座"
+"是一个定位系统，即天文学家描述了天空中相对于恒星的位置和恒星相对于星座的位置"
+"（如猎户座的右肩“参宿四”），因此有必要在世界各地统一使用星座名称和恒星名"
+"称。\n"
+"\n"
+"在“世纪末”，天文学界即将提出统一星座和恒星名称系统的建议[#44]。\n"
+"\n"
+"过几天文联合会（IAU）成立于1919年，1928年定义了这些区域的边界[#43]，而不是在"
+"其中绘制艺术品或连接线条的方式。因此，在20世纪和21世纪，几个亚文化的绘画人物"
+"和绘画简化的棍棒人物得到了发展。我们提供其中一些作为进一步的天空文化。\n"
+"\n"
+"### 星座\n"
+"\n"
+"这些星座主要基于托勒密传统，该传统在所有三种亚伯拉罕宗教中都有使用，因此在近"
+"东、欧洲及其各大洲的殖民地都很常见。然而，在古希腊星座之间有一些空白区域，有"
+"一些不属于任何星座的暗淡恒星。[#47]在现代，一些天文学家提出了一些星座填补这些"
+"空隙，其中包括几个政治星座，以纪念某些国王或赞助人。19世纪末，天文学研究界旨"
+"在进行大规模的清理，以避免在将恒星分配给星座时出现歧义。\n"
+"\n"
+"1922年，国际天文学联合会正式批准了88个星座名称及其三个字母的官方缩写。唯一剩"
+"下的政治星座是盾牌座，波兰国王的盾牌，但不再提及政治参考。比利时牧师E."
+"Delporte接到了根据坐标定义星座边界的任务。1928年，他根据阿根廷的星图集完成了"
+"这项工作[#51]，国际天文学联合会接受了他的划界[#40]。\n"
+"\n"
+"这些“星座”是天空中没有任何人物或描绘的裸露区域[#44]。边界简单地遵循1875.0时代"
+"的赤经和赤纬线。进动导致与原始直线网格的偏差缓慢增加。这些星座成为描述天空的"
+"标准方式，在日常使用中彻底取代了其他星空文化中的类似集合。\n"
+"\n"
+"Stellarium默认显示精确的赤经赤纬边界和一组基于托勒密数字的艺术品星座，但遵循"
+"我们当代的艺术品味。\n"
+"\n"
+"### 星群\n"
+"\n"
+"“星群”（恒星的集合）一词有时可以与“星座”同义。在现代用法中，它描述了一个不属"
+"于官方的“恒星集合”。有时星群是星座的一部分，例如大熊座的北斗七星，飞马座的大"
+"正方形。有些星群跨越几个星座，例如夏季三角星座或冬季六边形星座。然而，有些星"
+"群仅在双筒望远镜或望远镜中可见，并被恰当地命名为“望远镜星群”，例如衣架星群。"
+"它们经常在流行天文学杂志的观测专栏中讨论。\n"
+"\n"
+"### 导航辅助线\n"
+"\n"
+"经验丰富的观测者可以很容易地在天空中找到方向。一种助记工具是跨越很远距离的恒"
+"星的联想链。我们把它们称为“导航辅助线”。这些都不是标准化的。\n"
+"\n"
+"### 恒星的专名\n"
+"\n"
+"托勒密的星表有以表格的形式，列出了恒星在星座图中的位置、黄道坐标和星等的描"
+"述，例如：\"The star at the tip of the tail of Ursa Minor\"，\"Gem 0 1/6, "
+"+66\", \"Mag 3\"。\n"
+"\n"
+"在大多数情况下，恒星的名字是由天文学家对这些描述的系统缩写演变而来的，例如，"
+"第一个天文学家在文本中缩写为“尾巴的尖端”，下一个天文学家在地图上画了一个更小"
+"的空间，只在恒星旁边写了“尾巴”，这个名字就保留了下来。几个世纪以来，这些描述"
+"被翻译成阿拉伯语和拉丁语，在某些情况下，翻译者或抄写员会因为误读或拼写错误而"
+"犯错误（例如，阿拉伯语中的“yad al gauza”，即女巨人的手，被曲解成常见的术"
+"语“Betelgeuse”）。\n"
+"\n"
+"然而，也有一些原始的希腊单词，如红星“Antares”，与Ares（火星）相对应，甚至还有"
+"一些原始的巴比伦术语，如天蝎座中的“Shargaz”、“Sting”。我们现代、最新的国际天"
+"文学联合会恒星名称[#45]是一种新的混合体，也受到非托勒密天空文化的影响，甚至是"
+"政治上想要添加的恒星名称，例如传统的平星，长蛇座中用中文名称命名的一颗恒星"
+"（它的意思只是“恒星”，让人想起他孤独的位置），或者新采用来自波利尼西亚、夏威"
+"夷或土著文化的恒星名称作为系外行星的恒星名称。\n"
+"\n"
+"国际天文学联合会是唯一被科学认可的为恒星命名的权威机构。像“恒星名字登记”这样"
+"的商业行为，他们出售恒星作为纪念或礼物，只出售印刷的纸张。这些名称未经批准，"
+"也从未被科学家使用过。"
+
+#. Name for HIP 116076
+msgid "Veritate"
+msgstr "螣蛇增九 Veritate"
+
+#. Name for HIP 103527
+msgid "Musica"
+msgstr "司非增二 Musica"
+
+#. Name for HIP 90344
+msgid "Fafnir"
+msgstr "扶筐增二 Fafnir"
+
+#. Name for HIP 53721
+msgid "Chalawan"
+msgstr "天牢三 Chalawan"
+
+#. Name for HIP 113357
+msgid "Helvetios"
+msgstr "室宿增一 Helvetios"
+
+#. Name for HIP 43587
+msgid "Copernicus"
+msgstr "轩辕增十九 Copernicus"
+
+#. Name for HIP 16537
+msgid "Ran"
+msgstr "天苑四 Ran"
+
+#. Name for HIP 58952
+msgid "Tonatiuh"
+msgstr "托纳季乌 Ogma"
+
+#. Name for HIP 80838
+msgid "Ogma"
+msgstr "奥马 Ogma"
+
+#. Name for HIP 46471
+msgid "Intercrus"
+msgstr "上台增七 Intercrus"
+
+#. Name for HIP 86796
+msgid "Cervantes"
+msgstr "塞万提斯 Cervantes"
+
+#. Name for HIP 7513
+msgid "Titawin"
+msgstr "天大将军六 Titawin"
+
+#. Name for HIP 97938
+msgid "Libertas"
+msgstr "河鼓增八 Libertas"
+
+#. Name for HIP 47087
+msgid "Illyrian"
+msgstr "伊利里亚人 Illyrian"
+
+#. Name for HIP 21109
+msgid "Hoggar"
+msgstr "霍加尔 Hoggar"
+
+#. Name for HIP 72845
+msgid "Arcalís"
+msgstr "阿卡利斯 Arcalís"
+
+#. Name for HIP 31895
+msgid "Nosaxa"
+msgstr "春天 Nosaxa"
+
+#. Name for HIP 26380
+msgid "Bubup"
+msgstr "Bubup"
+
+#. Name for HIP 82651
+msgid "Mahsati"
+msgstr "Mahsati"
+
+#. Name for HIP 80687
+msgid "Timir"
+msgstr "Timir"
+
+#. Name for HIP 32916
+msgid "Nervia"
+msgstr "Nervia"
+
+#. Name for HIP 42446
+msgid "Gakyid"
+msgstr "Gakyid"
+
+#. Name for HIP 38041
+msgid "Tapecue"
+msgstr "Tapecue"
+
+#. Name for HIP 107251
+msgid "Bosona"
+msgstr "波斯纳 Bosona"
+
+#. Name for HIP 17096
+msgid "Tupi"
+msgstr "图皮 Tupi"
+
+#. Name for HIP 94645
+msgid "Gumala"
+msgstr "Gumala"
+
+#. Name for HIP 22491
+msgid "Mouhoun"
+msgstr "Mouhoun"
+
+#. Name for HIP 74961
+msgid "Nikawiy"
+msgstr "Nikawiy"
+
+#. Name for HIP 88414
+msgid "Pincoya"
+msgstr "Pincoya"
+
+#. Name for HIP 110813
+msgid "Lionrock"
+msgstr "狮子山 Lionrock"
+
+#. Name for HIP 91852
+msgid "Xihe"
+msgstr "羲和 Xihe"
+
+#. Name for HIP 56508
+msgid "Formosa"
+msgstr "福尔摩沙 Formosa"
+
+#. Name for HIP 52521
+msgid "Macondo"
+msgstr "马孔多 Macondo"
+
+#. Name for HIP 116084
+msgid "Poerava"
+msgstr "Poerava"
+
+#. Name for HIP 43674
+msgid "Stribor"
+msgstr "Stribor"
+
+#. Name for HIP 2247
+msgid "Felixvarela"
+msgstr "Felixvarela"
+
+#. Name for HIP 90004
+msgid "Alasia"
+msgstr "Alasia"
+
+#. Name for HIP 5054
+msgid "Nenque"
+msgstr "Nenque"
+
+#. Name for HIP 33719
+msgid "Citalá"
+msgstr "Citalá"
+
+#. Name for HIP 12191
+msgid "Buna"
+msgstr "Buna"
+
+#. Name for HIP 6643
+msgid "Bélénos"
+msgstr "Bélénos"
+
+#. Name for HIP 108375
+msgid "Itonda"
+msgstr "Itonda"
+
+#. Name for HIP 24003
+msgid "Mago"
+msgstr "Mago"
+
+#. Name for HIP 95262
+msgid "Sika"
+msgstr "Sika"
+
+#. Name for HIP 1547
+msgid "Citadelle"
+msgstr "Citadelle"
+
+#. Name for HIP 55174
+msgid "Hunahpú"
+msgstr "Hunahpú"
+
+#. Name for HIP 80076
+msgid "Hunor"
+msgstr "Hunor"
+
+#. Name for HIP 61177
+msgid "Funi"
+msgstr "Funi"
+
+#. Name for HIP 48711
+msgid "Bibhā"
+msgstr "Bibhā"
+
+#. Name for HIP 66047
+msgid "Dofida"
+msgstr "Dofida"
+
+#. Name for HIP 92895
+msgid "Kaveh"
+msgstr "Kaveh"
+
+#. Name for HIP 96078
+msgid "Uruk"
+msgstr "Uruk"
+
+#. Name for HIP 57370
+msgid "Flegetonte"
+msgstr "Flegetonte"
+
+#. Name for HIP 47202
+msgid "Kalausi"
+msgstr "Kalausi"
+
+#. Name for HIP 66192
+msgid "Liesma"
+msgstr "Liesma"
+
+#. Name for HIP 99711
+msgid "Phoenicia"
+msgstr "Phoenicia"
+
+#. Name for HIP 30860
+msgid "Lucilinburhuc"
+msgstr "Lucilinburhuc"
+
+#. Name for HIP 83547
+msgid "Rapeto"
+msgstr "Rapeto"
+
+#. Name for HIP 15578
+msgid "Intan"
+msgstr "Intan"
+
+#. Name for HIP 118319
+msgid "Axólotl"
+msgstr "Axólotl"
+
+#. Name for HIP 5529
+msgid "Emiw"
+msgstr "Emiw"
+
+#. Name for HIP 13993
+msgid "Ayeyarwady"
+msgstr "Ayeyarwady"
+
+#. Name for HIP 56572
+msgid "Sagarmatha"
+msgstr "Sagarmatha"
+
+#. Name for HIP 76351
+msgid "Karaka"
+msgstr "Karaka"
+
+#. Name for HIP 3479
+msgid "Cocibolca"
+msgstr "Cocibolca"
+
+#. Name for HIP 29550
+msgid "Amadioha"
+msgstr "Amadioha"
+
+#. Name for HIP 40687
+msgid "Násti"
+msgstr "Násti"
+
+#. Name for HIP 55664
+msgid "Shama"
+msgstr "Shama"
+
+#. Name for HIP 55664
+msgid "Moriah"
+msgstr "Moriah"
+
+#. Name for HIP 60644
+msgid "Tupã"
+msgstr "Tupã"
+
+#. Name for HIP 84787
+msgid "Inquill"
+msgstr "Inquill"
+
+#. Name for HIP 57291
+msgid "Uklun"
+msgstr "Uklun"
+
+#. Name for HIP 104780
+msgid "Solaris"
+msgstr "Solaris"
+
+#. Name for HIP 30905
+msgid "Lusitânia"
+msgstr "Lusitânia"
+
+#. Name for HIP 12961
+msgid "Koeia"
+msgstr "Koeia"
+
+#. Name for HIP 95124
+msgid "Belel"
+msgstr "Belel"
+
+#. Name for HIP 73136
+msgid "Baekdu"
+msgstr "白头 Baekdu"
+
+#. Name for HIP 81022
+msgid "Rosalíadecastro"
+msgstr "Rosalíadecastro"
+
+#. Name for HIP 106824
+msgid "Sāmaya"
+msgstr "Sāmaya"
+
+#. Name for HIP 57820
+msgid "Aniara"
+msgstr "Aniara"
+
+#. Name for HIP 72339
+msgid "Mönch"
+msgstr "Mönch"
+
+#. Name for HIP 114322
+msgid "Ebla"
+msgstr "Ebla"
+
+#. Name for HIP 54158
+msgid "Dingolay"
+msgstr "Dingolay"
+
+#. Name for HIP 99894
+msgid "Chechia"
+msgstr "Chechia"
+
+#. Name for HIP 79431
+msgid "Sharjah"
+msgstr "Sharjah"
+
+#. Name for HIP 13192
+msgid "Nushagak"
+msgstr "Nushagak"
+
+#. Name for HIP 37284
+msgid "Ceibo"
+msgstr "Ceibo"
+
+#. Name for HIP 48235
+msgid "Natasha"
+msgstr "Natasha"
+
+#. Modern constellation, native: Ursa Minor
+msgid "Ursa Minor"
+msgstr "小熊座"
+
+#. Modern constellation, native: Ursa Major
+msgid "Ursa Major"
+msgstr "大熊座"
+
+#. Modern constellation, native: Draco
+msgid "Draco"
+msgstr "天龙座"
+
+#. Modern constellation, native: Cepheus
+msgid "Cepheus"
+msgstr "仙王座"
+
+#. Modern constellation, native: Bootes
+msgid "Bootes"
+msgstr "牧夫座"
+
+#. Modern constellation, native: Corona Borealis
+msgid "Corona Borealis"
+msgstr "北冕座"
+
+#. Modern constellation, native: Hercules
+msgid "Hercules"
+msgstr "武仙座"
+
+#. Modern constellation, native: Lyra
+msgid "Lyra"
+msgstr "天琴座"
+
+#. Modern constellation, native: Cygnus
+msgid "Cygnus"
+msgstr "天鹅座"
+
+#. Modern constellation, native: Cassiopeia
+msgid "Cassiopeia"
+msgstr "仙后座"
+
+#. Modern constellation, native: Perseus
+msgid "Perseus"
+msgstr "英仙座"
+
+#. Modern constellation, native: Auriga
+msgid "Auriga"
+msgstr "御夫座"
+
+#. Modern constellation, native: Ophiuchus
+msgid "Ophiuchus"
+msgstr "蛇夫座"
+
+#. Modern constellation, native: Serpens
+msgid "Serpens"
+msgstr "巨蛇座"
+
+#. Modern constellation, native: Sagitta
+msgid "Sagitta"
+msgstr "天箭座"
+
+#. Modern constellation, native: Aquila
+msgid "Aquila"
+msgstr "天鹰座"
+
+#. Modern constellation, native: Delphinus
+msgid "Delphinus"
+msgstr "海豚座"
+
+#. Modern constellation, native: Equuleus
+msgid "Equuleus"
+msgstr "小马座"
+
+#. Modern constellation, native: Pegasus
+msgid "Pegasus"
+msgstr "飞马座"
+
+#. Modern constellation, native: Andromeda
+msgid "Andromeda"
+msgstr "仙女座"
+
+#. Modern constellation, native: Triangulum
+msgid "Triangulum"
+msgstr "三角座"
+
+#. Modern constellation, native: Aries
+msgid "Aries"
+msgstr "白羊座"
+
+#. Modern constellation, native: Taurus
+msgid "Taurus"
+msgstr "金牛座"
+
+#. Modern constellation, native: Gemini
+msgid "Gemini"
+msgstr "双子座"
+
+#. Modern constellation, native: Cancer
+msgid "Cancer"
+msgstr "巨蟹座"
+
+#. Modern constellation, native: Leo
+msgid "Leo"
+msgstr "狮子座"
+
+#. Modern constellation, native: Virgo
+msgid "Virgo"
+msgstr "室女座"
+
+#. Modern constellation, native: Libra
+msgid "Libra"
+msgstr "天秤座"
+
+#. Modern constellation, native: Scorpius
+msgid "Scorpius"
+msgstr "天蝎座"
+
+#. Modern constellation, native: Sagittarius
+msgid "Sagittarius"
+msgstr "人马座"
+
+#. Modern constellation, native: Capricornus
+msgid "Capricornus"
+msgstr "摩羯座"
+
+#. Modern constellation, native: Aquarius
+msgid "Aquarius"
+msgstr "宝瓶座"
+
+#. Modern constellation, native: Pisces
+msgid "Pisces"
+msgstr "双鱼座"
+
+#. Modern constellation, native: Cetus
+msgid "Cetus"
+msgstr "鲸鱼座"
+
+#. Modern constellation, native: Orion
+msgid "Orion"
+msgstr "猎户座"
+
+#. Modern constellation, native: Eridanus
+msgid "Eridanus"
+msgstr "波江座"
+
+#. Modern constellation, native: Lepus
+msgid "Lepus"
+msgstr "天兔座"
+
+#. Modern constellation, native: Canis Major
+msgid "Canis Major"
+msgstr "大犬座"
+
+#. Modern constellation, native: Canis Minor
+msgid "Canis Minor"
+msgstr "小犬座"
+
+#. Modern constellation, native: Hydra
+msgid "Hydra"
+msgstr "长蛇座"
+
+#. Modern constellation, native: Crater
+msgid "Crater"
+msgstr "巨爵座"
+
+#. Modern constellation, native: Corvus
+msgid "Corvus"
+msgstr "乌鸦座"
+
+#. Modern constellation, native: Centaurus
+msgid "Centaurus"
+msgstr "半人马座"
+
+#. Modern constellation, native: Lupus
+msgid "Lupus"
+msgstr "豺狼座"
+
+#. Modern constellation, native: Ara
+msgid "Ara"
+msgstr "天坛座"
+
+#. Modern constellation, native: Corona Australis
+msgid "Corona Australis"
+msgstr "南冕座"
+
+#. Modern constellation, native: Piscis Austrinus
+msgid "Piscis Austrinus"
+msgstr "南鱼座"
+
+#. Name for HIP 37279
+msgid "Procyon"
+msgstr "南河三 Procyon"
+
+#. Name for HIP 32349
+msgid "Sirius"
+msgstr "天狼 Sirius"
+
+#. Name for HIP 69673
+msgid "Arcturus"
+msgstr "大角 Arcturus"
+
+#. Name for HIP 91262
+msgid "Vega"
+msgstr "织女一 Vega"
+
+#. Name for HIP 24608
+msgid "Capella"
+msgstr "五车二 Capella"
+
+#. Name for HIP 21421
+msgid "Aldebaran"
+msgstr "毕宿五 Aldebaran"
+
+#. Name for HIP 49669
+msgid "Regulus"
+msgstr "轩辕十四 Regulus"
+
+#. Name for HIP 57632
+msgid "Denebola"
+msgstr "五帝座一 Denebola"
+
+#. Name for HIP 65474
+msgid "Spica"
+msgstr "角宿一 Spica"
+
+#. Name for HIP 113368
+msgid "Fomalhaut"
+msgstr "北落师门 Fomalhaut"
+
+#. Name for HIP 27989
+msgid "Betelgeuse"
+msgstr "参宿四 Betelgeuse"
+
+#. Name for HIP 24436
+msgid "Rigel"
+msgstr "参宿七 Rigel"
+
+#. Name for HIP 30438
+msgid "Canopus"
+msgstr "老人 Canopus"
+
+#. Name for HIP 25336
+msgid "Bellatrix"
+msgstr "参宿五 Bellatrix"
+
+#. Name for HIP 26727
+msgid "Alnitak"
+msgstr "参宿一 Alnitak"
+
+#. Name for HIP 26311
+msgid "Alnilam"
+msgstr "参宿二 Alnilam"
+
+#. Name for HIP 25930
+msgid "Mintaka"
+msgstr "参宿三 Mintaka"
+
+#. Name for HIP 7588
+msgid "Achernar"
+msgstr "水委一 Achernar"
+
+#. Name for HIP 60718
+msgid "Acrux"
+msgstr "十字架二 Acrux"
+
+#. Name for HIP 68702
+msgid "Hadar"
+msgstr "马腹一 Hadar"
+
+#. Name for HIP 80763
+msgid "Antares"
+msgstr "心宿二 Antares"
+
+#. Modern constellation, native: Sculptor
+msgid "Sculptor"
+msgstr "玉夫座"
+
+#. Modern constellation, native: Pyxis
+msgid "Pyxis"
+msgstr "罗盘座"
+
+#. Modern constellation, native: Caelum
+msgid "Caelum"
+msgstr "雕具座"
+
+#. Modern constellation, native: Chamaeleon
+msgid "Chamaeleon"
+msgstr "蝘蜓座"
+
+#. Modern constellation, native: Carina
+msgid "Carina"
+msgstr "船底座"
+
+#. Modern constellation, native: Coma Berenices
+msgid "Coma Berenices"
+msgstr "后发座"
+
+#. Modern constellation, native: Canes Venatici
+msgid "Canes Venatici"
+msgstr "猎犬座"
+
+#. Modern constellation, native: Columba
+msgid "Columba"
+msgstr "天鸽座"
+
+#. Modern constellation, native: Circinus
+msgid "Circinus"
+msgstr "圆规座"
+
+#. Modern constellation, native: Crux
+msgid "Crux"
+msgstr "南十字座"
+
+#. Modern constellation, native: Dorado
+msgid "Dorado"
+msgstr "剑鱼座"
+
+#. Modern constellation, native: Norma
+msgid "Norma"
+msgstr "矩尺座"
+
+#. Modern constellation, native: Fornax
+msgid "Fornax"
+msgstr "天炉座"
+
+#. Modern constellation, native: Camelopardalis
+msgid "Camelopardalis"
+msgstr "鹿豹座"
+
+#. Modern constellation, native: Grus
+msgid "Grus"
+msgstr "天鹤座"
+
+#. Modern constellation, native: Horologium
+msgid "Horologium"
+msgstr "时钟座"
+
+#. Modern constellation, native: Hydrus
+msgid "Hydrus"
+msgstr "水蛇座"
+
+#. Modern constellation, native: Indus
+msgid "Indus"
+msgstr "印第安座"
+
+#. Modern constellation, native: Lacerta
+msgid "Lacerta"
+msgstr "蝎虎座"
+
+#. Modern constellation, native: Monoceros
+msgid "Monoceros"
+msgstr "麒麟座"
+
+#. Modern constellation, native: Lynx
+msgid "Lynx"
+msgstr "天猫座"
+
+#. Modern constellation, native: Antlia
+msgid "Antlia"
+msgstr "唧筒座"
+
+#. Modern constellation, native: Microscopium
+msgid "Microscopium"
+msgstr "显微镜座"
+
+#. Modern constellation, native: Musca
+msgid "Musca"
+msgstr "苍蝇座"
+
+#. Modern constellation, native: Octans
+msgid "Octans"
+msgstr "南极座"
+
+#. Modern constellation, native: Apus
+msgid "Apus"
+msgstr "天燕座"
+
+#. Modern constellation, native: Pavo
+msgid "Pavo"
+msgstr "孔雀座"
+
+#. Modern constellation, native: Pictor
+msgid "Pictor"
+msgstr "绘架座"
+
+#. Modern constellation, native: Leo Minor
+msgid "Leo Minor"
+msgstr "小狮座"
+
+#. Modern constellation, native: Vulpecula
+msgid "Vulpecula"
+msgstr "狐狸座"
+
+#. Modern constellation, native: Phoenix
+msgid "Phoenix"
+msgstr "凤凰座"
+
+#. Modern constellation, native: Volans
+msgid "Volans"
+msgstr "飞鱼座"
+
+#. Modern constellation, native: Puppis
+msgid "Puppis"
+msgstr "船尾座"
+
+#. Modern constellation, native: Reticulum
+msgid "Reticulum"
+msgstr "网罟座"
+
+#. Modern constellation, native: Scutum
+msgid "Scutum"
+msgstr "盾牌座"
+
+#. Modern constellation, native: Sextans
+msgid "Sextans"
+msgstr "六分仪座"
+
+#. Modern constellation, native: Mensa
+msgid "Mensa"
+msgstr "山案座"
+
+#. Modern constellation, native: Telescopium
+msgid "Telescopium"
+msgstr "望远镜座"
+
+#. Modern constellation, native: Tucana
+msgid "Tucana"
+msgstr "杜鹃座"
+
+#. Modern constellation, native: Triangulum Australe
+msgid "Triangulum Australe"
+msgstr "南三角座"
+
+#. Modern constellation, native: Vela
+msgid "Vela"
+msgstr "船帆座"
+
+#. Modern asterism
+msgid "Great Diamond"
+msgstr "春季大钻石"
+
+#. Modern asterism
+msgid "Spring Triangle"
+msgstr "春季大三角"
+
+#. Modern asterism
+msgid "Summer Triangle"
+msgstr "夏季大三角"
+
+#. Modern asterism
+msgid "Great Square of Pegasus"
+msgstr "秋季四边形"
+
+#. Modern asterism
+msgid "Winter Triangle"
+msgstr "冬季大三角"
+
+#. Modern asterism
+msgid "Winter Hexagon (Winter Circle)"
+msgstr "冬季六边形(冬季大椭圆)"
+
+#. Modern asterism
+msgid "Heavenly G"
+msgstr "天上的G"
+
+#. Modern asterism
+msgid "Segment of Perseus"
+msgstr "英仙切块"
+
+#. Modern asterism
+msgid "Northern Cross"
+msgstr "北十字"
+
+#. Modern asterism
+msgid "W"
+msgstr "W星群"
+
+#. Modern asterism
+msgid "Keystone"
+msgstr "拱顶石"
+
+#. Modern asterism
+msgid "Butterfly"
+msgstr "蝴蝶星群"
+
+#. Modern asterism
+msgid "Kite"
+msgstr "风筝星群"
+
+#. Modern asterism
+msgid "Sail"
+msgstr "风帆星群"
+
+#. Modern asterism
+msgid "Coathanger"
+msgstr "衣架星群"
+
+#. Modern asterism
+msgid "Mini-Cassiopeia"
+msgstr "小仙后星群"
+
+#. Modern asterism
+msgid "Job's Coffin"
+msgstr "约伯的棺材"
+
+#. Modern asterism
+msgid "V of Taurus"
+msgstr "金牛座V字"
+
+#. Modern asterism
+msgid "Triangulum Minus"
+msgstr "小三角座星群"
+
+#. Modern asterism
+msgid "Ptolemy's Triangle"
+msgstr "托勒密三角"
+
+#. Modern asterism
+msgid "Bier"
+msgstr "停尸架星群"
+
+#. Modern asterism
+msgid "Guardians of the Pole (Guards)"
+msgstr "极点守护者（卫兵星群）"
+
+#. Modern asterism
+msgid "Big Dipper (Plough)"
+msgstr "北斗"
+
+#. Modern asterism
+msgid "Little Dipper"
+msgstr "小斗"
+
+#. Modern asterism
+msgid "Seven Stars Row"
+msgstr "七星并肩"
+
+#. Modern asterism
+msgid "The Pointers"
+msgstr "指极星群"
+
+#. Modern asterism
+msgid "Dragon Head (Lozenge)"
+msgstr "龙头（菱形）星群"
+
+#. Modern asterism
+msgid "Head of Medusa Gorgon"
+msgstr "美杜莎之头"
+
+#. Modern asterism
+msgid "Goatlings (Kids)"
+msgstr "山羊（小山羊）星群"
+
+#. Modern asterism
+msgid "The Y in Aquarius (The Urn or Water Jar)"
+msgstr "水瓶座的Y（瓮或者水罐）"
+
+#. Modern asterism
+msgid "Orion's Belt"
+msgstr "猎户的腰带"
+
+#. Modern asterism
+msgid "Orion's Sword"
+msgstr "猎户的配剑"
+
+#. Modern asterism
+msgid "Orion's Shield"
+msgstr "猎户的盾牌"
+
+#. Modern asterism
+msgid "Orion's Cudgel"
+msgstr "猎户的木棍"
+
+#. Modern asterism
+msgid "Head of Whale"
+msgstr "鲸头星群"
+
+#. Modern asterism
+msgid "Head of Serpent"
+msgstr "巨蛇之头星群"
+
+#. Modern asterism
+msgid "Head of Hydra"
+msgstr "长蛇之头星群"
+
+#. Modern asterism
+msgid "Teapot"
+msgstr "茶壶星群"
+
+#. Modern asterism
+msgid "Milk Dipper"
+msgstr "南斗（奶勺）"
+
+#. Modern asterism
+#. Name for HIP 98066
+msgid "Terebellum"
+msgstr "飞弹螺星群"
+
+#. Modern asterism
+msgid "Egyptian Cross"
+msgstr "埃及十字架"
+
+#. Modern asterism
+msgid "False Cross"
+msgstr "伪十字"
+
+#. Modern asterism
+msgid "Sickle"
+msgstr "𫓧锧"
+
+#. Modern asterism
+msgid "Diamond Cross"
+msgstr "钻石十字"
+
+#. Modern asterism
+msgid "Circlet"
+msgstr "小椭圆"
+
+#. Modern asterism
+msgid "The Arc of the King"
+msgstr "王弧星群"
+
+#. Modern asterism
+msgid "Head of Centaurus"
+msgstr "半人马头星群"
+
+#. Modern asterism
+#. Sudor Ophiuchi = Sweat of Ophiuchus
+msgid "Sudor Ophiuchi"
+msgstr "蛇夫的汗珠"
+
+#. Modern asterism
+msgid "Venus' Mirror"
+msgstr "维纳斯的镜子"
+
+#. Modern asterism
+msgid "The Butterfly of Orion"
+msgstr "猎户的蝴蝶"
+
+#. Modern asterism
+msgid "The Fish Hook"
+msgstr "鱼钩星群"
+
+#. Modern asterism
+msgid "The Bull of Poniatowski"
+msgstr "波尼亚托夫斯基的公牛"
+
+#. Modern asterism
+msgid "The Trapezoid"
+msgstr "梯形星群"
+
+#. Modern asterism
+msgid "The Three Patriarchs"
+msgstr "三圣父星群"
+
+#. Modern asterism
+msgid "The Northern Fly"
+msgstr "北飞星群"
+
+#. Modern asterism
+msgid "Davis' Dog"
+msgstr "戴维斯的狗"
+
+#. Modern asterism
+msgid "Honores Friderici (Frederick's Glory)"
+msgstr "弗雷德里克的荣耀"
+
+#. Modern asterism
+msgid "Engagement ring of Polaris"
+msgstr "北极星的戒指"
+
+#. Modern asterism
+msgid "Christmas Goose"
+msgstr "圣诞烤鹅星群"
+
+#. Modern asterism
+msgid "The Arrow"
+msgstr "箭头星群"
+
+#. Modern asterism
+msgid "The Flying Minnow"
+msgstr "飞鱼星群"
+
+#. Modern asterism
+msgid "Harrington 7"
+msgstr "哈灵顿7"
+
+#. Modern asterism
+msgid "Kemble's Cascade"
+msgstr "甘伯串珠"
+
+#. Modern asterism
+msgid "Kemble's Kite"
+msgstr "甘伯风筝"
+
+#. Modern asterism
+msgid "Mini-Cassiopeia (Kemble 2)"
+msgstr "迷你仙后座(甘伯2)"
+
+#. Modern asterism
+msgid "Napoleon's Hat"
+msgstr "拿破仑之帽"
+
+#. Modern asterism
+msgid "The Hercules Keystone"
+msgstr "武仙座的拱顶石"
+
+#. Modern asterism
+msgid "Pouring Cup"
+msgstr "浇口杯星群"
+
+#. Modern asterism
+msgid "Mini-Dipper"
+msgstr "小北斗"
+
+#. Modern asterism
+msgid "The Stargate"
+msgstr "星际之门"
+
+#. Modern asterism
+msgid "The Jaws"
+msgstr "大白鲨星群"
+
+#. Modern asterism
+msgid "Red-Necked Emu"
+msgstr "红颈鸸苗星群"
+
+#. Modern asterism
+msgid "Medium Bull"
+msgstr "中牛星群"
+
+#. Modern asterism
+msgid "Minor Bull"
+msgstr "小牛星群"
+
+#. Name for HIP 677
+msgid "Alpheratz"
+msgstr "壁宿二 Alpheratz"
+
+#. Name for HIP 677
+msgid "Sirrah"
+msgstr "Sirrah"
+
+#. Name for HIP 5447
+msgid "Mirach"
+msgstr "奎宿九 Mirach"
+
+#. Name for HIP 9640
+msgid "Almach"
+msgstr "天大将军一 Almach"
+
+#. Name for HIP 9640
+msgid "Alamak"
+msgstr "Alamak"
+
+#. Name for HIP 6411
+msgid "Adhil"
+msgstr "天大将军增一 Adhil"
+
+#. Name for HIP 7607
+msgid "Nembus"
+msgstr "天大将军三 Nembus"
+
+#. Name for HIP 6999
+msgid "Thail"
+msgstr "天大将军四 Thail"
+
+#. Name for HIP 109074
+msgid "Sadalmelik"
+msgstr "危宿一 Sadalmelik"
+
+#. Name for HIP 109074
+msgid "Sadalmelek"
+msgstr "Sadalmelek"
+
+#. Name for HIP 106278
+msgid "Sadalsuud"
+msgstr "虚宿一 Sadalsuud"
+
+#. Name for HIP 106278
+msgid "Sadalsud"
+msgstr "Sadalsud"
+
+#. Name for HIP 110395
+msgid "Sadachbia"
+msgstr "坟墓二 Sadachbia"
+
+#. Name for HIP 110395
+msgid "Sadalachbia"
+msgstr "Sadalachbia"
+
+#. Name for HIP 113136
+msgid "Skat"
+msgstr "羽林军二十六 Skat"
+
+#. Name for HIP 113881
+msgid "Scheat"
+msgstr "室宿二 Scheat"
+
+#. Name for HIP 102618
+msgid "Albali"
+msgstr "女宿一 Albali"
+
+#. Name for HIP 110003
+msgid "Ancha"
+msgstr "泣二 Ancha"
+
+#. Name for HIP 111710
+msgid "Situla"
+msgstr "虚梁三 Situla"
+
+#. Name for HIP 110960
+msgid "Sadaltager"
+msgstr "坟墓一 Sadaltager"
+
+#. Name for HIP 110960
+msgid "Alsad"
+msgstr "Alsad"
+
+#. Name for HIP 112961
+msgid "Hydor"
+msgstr "垒壁阵七 Hydor"
+
+#. Name for HIP 104459
+msgid "Albulan II"
+msgstr "天垒城十 Albulan II"
+
+#. Name for HIP 103045
+msgid "Albulaan"
+msgstr "Albulaan"
+
+#. Name for HIP 103045
+msgid "Albulan I"
+msgstr "女宿二 Albulan I"
+
+#. Name for HIP 106786
+msgid "Bunda"
+msgstr "天垒城一 Bunda"
+
+#. Name for HIP 108874
+msgid "Sadalmulk"
+msgstr "盖屋一 Sadalmulk"
+
+#. Name for HIP 108874
+msgid "Al Sa'd al Mulk"
+msgstr "Al Sa'd al Mulk"
+
+#. Name for HIP 110672
+msgid "Seat"
+msgstr "坟墓四 Seat"
+
+#. Name for HIP 97649
+msgid "Altair"
+msgstr "河鼓二 Altair"
+
+#. Name for HIP 97649
+msgid "Atair"
+msgstr "Atair"
+
+#. Name for HIP 98036
+msgid "Alshain"
+msgstr "河鼓一 Alshain"
+
+#. Name for HIP 98036
+msgid "Alschairn"
+msgstr "Alschairn"
+
+#. Name for HIP 97278
+msgid "Tarazed"
+msgstr "河鼓三 Tarazed"
+
+#. Name for HIP 97278
+msgid "Reda"
+msgstr "Reda"
+
+#. Name for HIP 93805
+msgid "Al Thalimain Prior"
+msgstr "天弁七 Al Thalimain Prior"
+
+#. Name for HIP 93805
+msgid "Al Thalimain I"
+msgstr "Al Thalimain I"
+
+#. Name for HIP 96468
+msgid "Al Thalimain Posterior"
+msgstr "右旗五 Al Thalimain Posterior"
+
+#. Name for HIP 96468
+msgid "Al Thalimain II"
+msgstr "Al Thalimain II"
+
+#. Name for HIP 93747
+msgid "Okab"
+msgstr "天市左垣六 吴越 Okab"
+
+#. Name for HIP 93747
+msgid "Deneb al Okab Australis"
+msgstr "Deneb al Okab Australis"
+
+#. Name for HIP 93244
+msgid "Deneb el Okab"
+msgstr "Deneb el Okab"
+
+#. Name for HIP 5364
+msgid "Dheneb"
+msgstr "天仓二 Dheneb"
+
+#. Name for HIP 93244
+msgid "Deneb al Okab Borealis"
+msgstr "吴越增一 Deneb al Okab Borealis"
+
+#. Name for HIP 95501
+msgid "Almizan I"
+msgstr "右旗三  Almizan I"
+
+#. Name for HIP 95501
+msgid "Deneb Okab"
+msgstr "Deneb Okab"
+
+#. Name for HIP 97804
+msgid "Almizan II"
+msgstr "天桴四 Almizan II"
+
+#. Name for HIP 99473
+msgid "Almizan III"
+msgstr "天桴一 Almizan III"
+
+#. Name for HIP 9884
+msgid "Hamal"
+msgstr "娄宿三Hamal"
+
+#. Name for HIP 8903
+msgid "Sheratan"
+msgstr "娄宿一 Sheratan"
+
+#. Name for HIP 8832
+msgid "Mesarthim"
+msgstr "娄宿二 Mesarthim"
+
+#. Name for HIP 14838
+msgid "Botein"
+msgstr "天阴四 Botein"
+
+#. Name for HIP 12489
+msgid "Barani I"
+msgstr "胃宿增五 Barani I"
+
+#. Name for HIP 12719
+msgid "Barani II"
+msgstr "胃宿一 Barani II"
+
+#. Name for HIP 13061
+msgid "Lilii Borea"
+msgstr "胃宿二 Lilii Borea"
+
+#. Name for HIP 13061
+msgid "Barani III"
+msgstr "Barani III"
+
+#. Name for HIP 13209
+msgid "Bharani"
+msgstr "胃宿三 Bharani"
+
+#. Name for HIP 13209
+msgid "Nair al Butain"
+msgstr "Nair al Butain"
+
+#. Name for HIP 13914
+msgid "Al Butain III"
+msgstr "左更增七 Al Butain III"
+
+#. Name for HIP 15110
+msgid "Al Butain IV"
+msgstr "天阴二 Al Butain IV"
+
+#. Name for HIP 12640
+msgid "Koleon"
+msgstr "左更二 Koleon"
+
+#. Name for HIP 13165
+msgid "Al Butain I"
+msgstr "左更五 Al Butain I"
+
+#. Name for HIP 13702
+msgid "Al Butain II"
+msgstr "左更增四 Al Butain II"
+
+#. Name for HIP 24608
+msgid "Alhajoth"
+msgstr "Alhajoth"
+
+#. Name for HIP 24608
+msgid "Goat Star"
+msgstr "山羊星 Goat Star"
+
+#. Name for HIP 28360
+msgid "Menkalinan"
+msgstr "五车三 Menkalinan"
+
+#. Name for HIP 23015
+msgid "Hassaleh"
+msgstr "五车一 Hassaleh"
+
+#. Name for HIP 23015
+msgid "Kabalinan"
+msgstr "Kabalinan"
+
+#. Name for HIP 23453
+msgid "Saclateni"
+msgstr "柱二 Saclateni"
+
+#. Name for HIP 23453
+msgid "Haedus I"
+msgstr "Haedus I"
+
+#. Name for HIP 23453
+msgid "Haedus"
+msgstr "Haedus"
+
+#. Name for HIP 23453
+msgid "Sadatoni"
+msgstr "Sadatoni"
+
+#. Name for HIP 23416
+msgid "Almaaz"
+msgstr "柱一 Almaaz"
+
+#. Name for HIP 23416
+msgid "Al Ma'az"
+msgstr "Al Ma'az"
+
+#. Name for HIP 23416
+msgid "Alanz"
+msgstr "Alanz"
+
+#. Name for HIP 23416
+msgid "Al Anz"
+msgstr "Al Anz"
+
+#. Name for HIP 23767
+msgid "Haedus II"
+msgstr "Haedus II 柱三"
+
+#. Name for HIP 28380
+msgid "Mahasim"
+msgstr "五车四 Mahasim"
+
+#. Name for HIP 28380
+msgid "Bogardus"
+msgstr "Bogardus"
+
+#. Name for HIP 24813
+msgid "Alhiba II"
+msgstr "咸池三 Alhiba II"
+
+#. Name for HIP 24340
+msgid "Alhiba I"
+msgstr "天潢五 Alhiba I"
+
+#. Name for HIP 25292
+msgid "Alhiba III"
+msgstr "天潢四 Alhiba III"
+
+#. Name for HIP 30520
+msgid "Dolones I"
+msgstr "座旗增一 Dolones I"
+
+#. Name for HIP 31832
+msgid "Dolones III"
+msgstr "座旗五 Dolones III"
+
+#. Name for HIP 31789
+msgid "Dolones II"
+msgstr "座旗七 Dolones II"
+
+#. Name for HIP 32173
+msgid "Dolones IV"
+msgstr "座旗三 Dolones IV"
+
+#. Name for HIP 32480
+msgid "Dolones V"
+msgstr "座旗四 Dolones V"
+
+#. Name for HIP 32562
+msgid "Dolones VI"
+msgstr "座旗一 Dolones VI"
+
+#. Name for HIP 32844
+msgid "Dolones VII"
+msgstr "座旗六 Dolones VII"
+
+#. Name for HIP 33133
+msgid "Dolones VIII"
+msgstr "座旗增四 Dolones VIII"
+
+#. Name for HIP 33377
+msgid "Dolones IX"
+msgstr "多洛雷斯 IX"
+
+#. Name for HIP 26712
+msgid "Andrews' star"
+msgstr "安德鲁斯星 Andrews' star"
+
+#. Name for HIP 28358
+msgid "Prijipati"
+msgstr "八谷一 Prijipati"
+
+#. Name for HIP 73555
+msgid "Nekkar"
+msgstr "七公增五 Nekkar"
+
+#. Name for HIP 71075
+msgid "Seginus"
+msgstr "招摇 Seginus"
+
+#. Name for HIP 71075
+msgid "Haris"
+msgstr "Haris"
+
+#. Name for HIP 72105
+msgid "Izar"
+msgstr "梗河一 Izar"
+
+#. Name for HIP 72105
+msgid "Pulcherrima"
+msgstr "Pulcherrima"
+
+#. Name for HIP 53910
+msgid "Mirak"
+msgstr "Mirak"
+
+#. Name for HIP 72105
+msgid "Mirac"
+msgstr "Mirac"
+
+#. Name for HIP 67927
+msgid "Muphrid"
+msgstr "右摄提一 Muphrid"
+
+#. Name for HIP 75411
+msgid "Alkalurops"
+msgstr "七公六 Alkalurops"
+
+#. Name for HIP 75411
+msgid "Inkalunis"
+msgstr "Inkalunis"
+
+#. Name for HIP 75411
+msgid "Clava"
+msgstr "Clava"
+
+#. Name for HIP 75411
+msgid "Venabulum"
+msgstr "Venabulum"
+
+#. Name for HIP 72487
+msgid "Merga"
+msgstr "玄戈增二 Merga"
+
+#. Name for HIP 70497
+msgid "Asellus Primus"
+msgstr "天枪三 Asellus Primus"
+
+#. Name for HIP 69713
+msgid "Asellus Secundus"
+msgstr "天枪二 Asellus Secundus"
+
+#. Name for HIP 69713
+msgid "Asellus Secondus"
+msgstr "Asellus Secondus"
+
+#. Name for HIP 69483
+msgid "Asellus Tertius"
+msgstr "天枪一 Asellus Tertius"
+
+#. Name for HIP 74666
+msgid "Thiba"
+msgstr "七公七 Thiba"
+
+#. Name for HIP 69732
+msgid "Xuange"
+msgstr "玄戈 Xuange"
+
+#. Name for HIP 69732
+msgid "Aulad Althiba"
+msgstr "Aulad Althiba"
+
+#. Name for HIP 76534
+msgid "Ceginus"
+msgstr "七公增十 Ceginus"
+
+#. Name for HIP 73745
+msgid "Aulad Alnathlat"
+msgstr "梗河增一 Aulad Alnathlat"
+
+#. Name for HIP 44066
+msgid "Acubens"
+msgstr "柳宿增三 Acubens"
+
+#. Name for HIP 44066
+msgid "Sertan"
+msgstr "Sertan"
+
+#. Name for HIP 42806
+msgid "Asellus Borealis"
+msgstr "鬼宿三  Asellus Borealis"
+
+#. Name for HIP 42911
+msgid "Asellus Australis"
+msgstr "鬼宿四 Asellus Australis"
+
+#. Name for HIP 40167
+msgid "Tegmine"
+msgstr "水位四 Tegmine"
+
+#. Name for HIP 40167
+msgid "Tegmeni"
+msgstr "Tegmeni"
+
+#. Name for HIP 40526
+msgid "Tarf"
+msgstr "柳宿增十 Tarf"
+
+#. Name for HIP 40526
+msgid "Al Tarf"
+msgstr "Al Tarf"
+
+#. Name for HIP 42556
+msgid "Meleph"
+msgstr "积尸增二 Meleph"
+
+#. Name for HIP 42556
+msgid "Almalaf"
+msgstr "积尸增二 Almalaf"
+
+#. Name for HIP 43103
+msgid "Zubanah"
+msgstr "轩辕增二十二 Zubanah"
+
+#. Name for HIP 40881
+msgid "Piautos"
+msgstr "爟二 Piautos"
+
+#. Name for HIP 44946
+msgid "Nahn"
+msgstr "轩辕增二十四 Nahn"
+
+#. Name for HIP 63125
+msgid "Cor Caroli"
+msgstr "常陈一 Cor Caroli"
+
+#. Name for HIP 61317
+msgid "Chara"
+msgstr "常陈四 Chara"
+
+#. Name for HIP 61317
+msgid "Asterion"
+msgstr "Asterion"
+
+#. Name for HIP 62223
+msgid "La Superba"
+msgstr "猎犬座Y La Superba"
+
+#. Name for HIP 32349
+msgid "Canicula"
+msgstr "Canicula"
+
+#. Name for HIP 32349
+msgid "Aschere"
+msgstr "Aschere"
+
+#. Name for HIP 27989
+msgid "Mirzam"
+msgstr "军市一 Mirzam"
+
+#. Name for HIP 30324
+msgid "Murzim"
+msgstr "Murzim"
+
+#. Name for HIP 30324
+msgid "Murzam"
+msgstr "Murzam"
+
+#. Name for HIP 34045
+msgid "Muliphein"
+msgstr "天狼增四 Muliphein"
+
+#. Name for HIP 34045
+msgid "Mirza"
+msgstr "Mirza"
+
+#. Name for HIP 33345
+msgid "Isis"
+msgstr "天狼增三 Isis"
+
+#. Name for HIP 34444
+msgid "Wezen"
+msgstr "弧矢一 Wezen"
+
+#. Name for HIP 34444
+msgid "Alwazn"
+msgstr "Alwazn"
+
+#. Name for HIP 34444
+msgid "Al Wazor"
+msgstr "Al Wazor"
+
+#. Name for HIP 33579
+msgid "Adhara"
+msgstr "弧矢七 Adhara"
+
+#. Name for HIP 33579
+msgid "Adara"
+msgstr "Adara"
+
+#. Name for HIP 30122
+msgid "Furud"
+msgstr "孙增一 Furud"
+
+#. Name for HIP 35904
+msgid "Aludra"
+msgstr "弧矢二 Aludra"
+
+#. Name for HIP 33152
+msgid "Udra"
+msgstr "军市五 Udra"
+
+#. Name for HIP 33977
+msgid "Al Zara"
+msgstr "军市增五 Al Zara"
+
+#. Name for HIP 33856
+msgid "Nganurganity"
+msgstr "弧矢增二 Nganurganity"
+
+#. Name for HIP 35210
+msgid "Winter Albireo"
+msgstr "Winter Albireo"
+
+#. Name for HIP 37279
+msgid "Elgomaisa"
+msgstr "Elgomaisa"
+
+#. Name for HIP 37279
+msgid "Antecanis"
+msgstr "Antecanis"
+
+#. Name for HIP 36188
+msgid "Gomeisa"
+msgstr "南河二 Gomeisa"
+
+#. Name for HIP 36188
+msgid "Algomeyla"
+msgstr "Algomeyla"
+
+#. Name for HIP 36188
+msgid "Gomelza"
+msgstr "Gomelza"
+
+#. Name for HIP 36208
+msgid "Luyten's Star"
+msgstr "鲁坦星 Luyten's Star"
+
+#. Name for HIP 100027
+msgid "Prima Giedi"
+msgstr "牛宿增六  Prima Giedi"
+
+#. Name for HIP 100027
+msgid "Gredi"
+msgstr "Gredi"
+
+#. Name for HIP 100027
+msgid "Giedi"
+msgstr "Deneb Algiedi"
+
+#. Name for HIP 100027
+msgid "Al Giedi Prima"
+msgstr "Al Giedi Prima"
+
+#. Name for HIP 100064
+msgid "Algedi"
+msgstr "牛宿二 Algedi"
+
+#. Name for HIP 100064
+msgid "Secunda Giedi"
+msgstr "Secunda Giedi"
+
+#. Name for HIP 100345
+msgid "Dabih"
+msgstr "牛宿一 Dabih"
+
+#. Name for HIP 100345
+msgid "Dabih Major"
+msgstr "Dabih Major"
+
+#. Name for HIP 100325
+msgid "Dabih Minor"
+msgstr "牛宿增十二 Dabih Minor"
+
+#. Name for HIP 106985
+msgid "Nashira"
+msgstr "垒壁阵三 Nashira"
+
+#. Name for HIP 107556
+msgid "Deneb Algedi"
+msgstr "垒壁阵四 Deneb Algedi"
+
+#. Name for HIP 107556
+msgid "Deneb Algiedi"
+msgstr "Deneb Algiedi"
+
+#. Name for HIP 107556
+msgid "Scheddi"
+msgstr "Scheddi"
+
+#. Name for HIP 100310
+msgid "Alshat"
+msgstr "牛宿增七  Alshat"
+
+#. Name for HIP 100310
+msgid "Al Shat"
+msgstr "牛宿增十一 Al Shat"
+
+#. Name for HIP 30438
+msgid "Suhel"
+msgstr "Suhel"
+
+#. Name for HIP 45238
+msgid "Miaplacidus"
+msgstr "南船五 Miaplacidus"
+
+#. Name for HIP 41037
+msgid "Avior"
+msgstr "海石一 Avior"
+
+#. Name for HIP 45556
+msgid "Aspidiske"
+msgstr "海石二 Aspidiske"
+
+#. Name for HIP 39757
+msgid "Tureis"
+msgstr "弧矢增三十二Tureis"
+
+#. Name for HIP 45556
+msgid "Turais"
+msgstr "Turais"
+
+#. Name for HIP 45556
+msgid "Scutulum"
+msgstr "Scutulum"
+
+#. Name for HIP 55042
+msgid "Innes' Star"
+msgstr "英尼斯星 Innes' Star"
+
+#. Name for HIP 3179
+msgid "Schedar"
+msgstr "王良四 Mesartim"
+
+#. Name for HIP 3179
+msgid "Shedar"
+msgstr "王良四 Shedar"
+
+#. Name for HIP 3179
+msgid "Shedir"
+msgstr "Shedir"
+
+#. Name for HIP 746
+msgid "Caph"
+msgstr "王良一 Caph"
+
+#. Name for HIP 746
+msgid "Al Sanam al Nakah"
+msgstr "Al Sanam al Nakah"
+
+#. Name for HIP 6686
+msgid "Ruchbah"
+msgstr "阁道三 Ruchbah"
+
+#. Name for HIP 6686
+msgid "Ksora"
+msgstr "Ksora"
+
+#. Name for HIP 6686
+msgid "Rucbar"
+msgstr "Rucbar"
+
+#. Name for HIP 3821
+msgid "Achird"
+msgstr "王良三 Achird"
+
+#. Name for HIP 3821
+msgid "Marfak"
+msgstr "Marfak"
+
+#. Name for HIP 8886
+msgid "Segin"
+msgstr "阁道二 Segin"
+
+#. Name for HIP 5542
+msgid "Marfak-East"
+msgstr "阁道四 Marfak-East"
+
+#. Name for HIP 5336
+msgid "Marfak-West"
+msgstr "Marfak-West"
+
+#. Name for HIP 5336
+msgid "Al Marfak"
+msgstr "Al Marfak"
+
+#. Name for HIP 4427
+msgid "Navi"
+msgstr "策 Navi"
+
+#. Name for HIP 4427
+msgid "Cih"
+msgstr "Cih"
+
+#. Name for HIP 2920
+msgid "Fulu"
+msgstr "附路 Fulu"
+
+#. Name for HIP 4422
+msgid "Castula"
+msgstr "Castula"
+
+#. Name for HIP 1415
+msgid "Pearce's Star"
+msgstr "皮尔斯星 Pearce's Star"
+
+#. Name for HIP 71683
+msgid "Rigil Kentaurus"
+msgstr "南门二 Rigil Kentaurus"
+
+#. Name for HIP 71681
+msgid "Toliman"
+msgstr "Toliman"
+
+#. Name for HIP 71683
+msgid "Rigel Kentaurus"
+msgstr "Rigel Kentaurus"
+
+#. Name for HIP 71683
+msgid "Bungula"
+msgstr "Bungula"
+
+#. Name for HIP 70890
+msgid "Proxima"
+msgstr "比邻星 Proxima"
+
+#. Name for HIP 70890
+msgid "Proxima Centauri"
+msgstr "Proxima Centauri"
+
+#. Name for HIP 68702
+msgid "Agena"
+msgstr "Agena"
+
+#. Name for HIP 61932
+msgid "Muhlifain"
+msgstr "库楼七 Muhlifai"
+
+#. Name for HIP 68933
+msgid "Menkent"
+msgstr "库楼三 Menkent"
+
+#. Name for HIP 68002
+msgid "Alnair"
+msgstr "Alnair"
+
+#. Name for HIP 68002
+msgid "Baten Kentaurus"
+msgstr "库楼一 Baten Kentaurus"
+
+#. Name for HIP 56709
+msgid "Przybylski's Star"
+msgstr "普日比斯基星 Przybylski's Star"
+
+#. Name for HIP 70300
+msgid "Bidelman's Helium Variable Star"
+msgstr "彼得曼的氦变星 Bidelman's Helium Variable Star"
+
+#. Name for HIP 69619
+msgid "Popper's Star"
+msgstr "波普尔星 Popper's Star"
+
+#. Name for HIP 105199
+msgid "Alderamin"
+msgstr "天钩五 Alderamin"
+
+#. Name for HIP 106032
+msgid "Alfirk"
+msgstr "上卫增一 Alfirk"
+
+#. Name for HIP 116727
+msgid "Errai"
+msgstr "少卫增八 Errai"
+
+#. Name for HIP 116727
+msgid "Alrai"
+msgstr "Alrai"
+
+#. Name for HIP 107259
+msgid "The Garnet Star"
+msgstr "造父四 The Garnet Star"
+
+#. Name for HIP 107259
+msgid "Erakis"
+msgstr "Erakis"
+
+#. Name for HIP 108917
+msgid "Kurhah"
+msgstr "天钩六 Kurhah"
+
+#. Name for HIP 108917
+msgid "Al Kurhah"
+msgstr "Al Kurhah"
+
+#. Name for HIP 111056
+msgid "Al Kalb al Rai"
+msgstr "少卫增七 Al Kalb al Rai"
+
+#. Name for HIP 111056
+msgid "Kalbalrai"
+msgstr "Kalbalrai"
+
+#. Name for HIP 110893
+msgid "Kruger 60"
+msgstr "克虑格60"
+
+#. Name for HIP 102422
+msgid "Kabalfird"
+msgstr "天钩四 Kabalfird"
+
+#. Name for HIP 101093
+msgid "Al Kidr"
+msgstr "天钩三 Al Kidr"
+
+#. Name for HIP 99255
+msgid "Al Aghnam I"
+msgstr "天柱增二 Al Aghnam I"
+
+#. Name for HIP 114222
+msgid "Al Aghnam II"
+msgstr "紫微左垣七 少卫 Al Aghnam II"
+
+#. Name for HIP 13954
+msgid "Menkar"
+msgstr "天囷一 Menkar"
+
+#. Name for HIP 3419
+msgid "Diphda"
+msgstr "土司空 Diphda"
+
+#. Name for HIP 1562
+msgid "Deneb Kaitos"
+msgstr "Deneb Kaitos"
+
+#. Name for HIP 8645
+msgid "Baten Kaitos"
+msgstr "天仓四 Baten Kaitos"
+
+#. Name for HIP 10826
+msgid "Mira"
+msgstr "刍藁增二 Mira"
+
+#. Name for HIP 10826
+msgid "Mira Ceti"
+msgstr "Mira Ceti"
+
+#. Name for HIP 12706
+msgid "Kaffaljidhma"
+msgstr "天囷八 Kaffaljidhma"
+
+#. Name for HIP 12706
+msgid "Al Kaff al Jidhmah"
+msgstr "Al Kaff al Jidhmah"
+
+#. Name for HIP 12706
+msgid "Kafalgidma"
+msgstr "Kafalgidma"
+
+#. Name for HIP 5364
+msgid "Deneb Algenubi"
+msgstr "Deneb Algenubi"
+
+#. Name for HIP 1562
+msgid "Deneb Kaitos Shemali"
+msgstr "天仓一 Deneb Kaitos Shemali"
+
+#. Name for HIP 1562
+msgid "Schemali"
+msgstr "Schemali"
+
+#. Name for HIP 13954
+msgid "Menkab"
+msgstr "天囷三 Menkab"
+
+#. Name for HIP 12387
+msgid "Al Kaff al Jidhmah III"
+msgstr "天囷九 Al Kaff al Jidhmah III"
+
+#. Name for HIP 12390
+msgid "Sadr al Kaitos III"
+msgstr "刍藁六 Sadr al Kaitos III"
+
+#. Name for HIP 6537
+msgid "Al Naymat I"
+msgstr "天仓三 Al Naymat I"
+
+#. Name for HIP 12828
+msgid "Al Kaff al Jidhmah IV"
+msgstr "天囷四 Al Kaff al Jidhmah IV"
+
+#. Name for HIP 10324
+msgid "Al Kaff al Jidhmah I"
+msgstr "天囷五 Al Kaff al Jidhmah I"
+
+#. Name for HIP 11484
+msgid "Al Kaff al Jidhmah II"
+msgstr "天囷六 Al Kaff al Jidhmah II"
+
+#. Name for HIP 12770
+msgid "Sadr al Kaitos IV"
+msgstr "天苑七 Sadr al Kaitos IV"
+
+#. Name for HIP 11345
+msgid "Sadr al Kaitos I"
+msgstr "刍藁一 Sadr al Kaitos I"
+
+#. Name for HIP 11783
+msgid "Sadr al Kaitos II"
+msgstr "天苑增九 Sadr al Kaitos II"
+
+#. Name for HIP 8102
+msgid "Al Naymat II"
+msgstr "天仓五 Al Naymat II"
+
+#. Name for HIP 9347
+msgid "Al Naymat III"
+msgstr "𫓧锧四 Al Naymat III"
+
+#. Name for HIP 3455
+msgid "Alnitham I"
+msgstr "天溷四 Alnitham I"
+
+#. Name for HIP 3909
+msgid "Alnitham II"
+msgstr "天溷增六 Alnitham II"
+
+#. Name for HIP 4371
+msgid "Alnitham III"
+msgstr "天溷二 Alnitham III"
+
+#. Name for HIP 4587
+msgid "Alnitham IV"
+msgstr "天溷增五 Alnitham IV"
+
+#. Name for HIP 26634
+msgid "Phact"
+msgstr "丈人一 Phact"
+
+#. Name for HIP 26634
+msgid "Phaet"
+msgstr "Phaet"
+
+#. Name for HIP 26634
+msgid "Phakt"
+msgstr "Phakt"
+
+#. Name for HIP 26634
+msgid "Phad"
+msgstr "Phad"
+
+#. Name for HIP 27628
+msgid "Wazn"
+msgstr "子二 Wazn"
+
+#. Name for HIP 27628
+msgid "Wezn"
+msgstr "Wezn"
+
+#. Name for HIP 29034
+msgid "Elkurud"
+msgstr "孙二 Elkurud"
+
+#. Name for HIP 29034
+msgid "Kurud I"
+msgstr "Kurud I"
+
+#. Name for HIP 29807
+msgid "Kurud II"
+msgstr "孙一 Kurud II"
+
+#. Name for HIP 62763
+msgid "Polaris Galacticus Borealis"
+msgstr "郎将 Polaris Galacticus Borealis"
+
+#. Name for HIP 64241
+msgid "Diadem"
+msgstr "太微左垣五 东上将 Diadem"
+
+#. Name for HIP 64241
+msgid "Diadema"
+msgstr "Diadema"
+
+#. Name for HIP 61071
+msgid "Kissin"
+msgstr "郎位八 Kissin"
+
+#. Name for HIP 60742
+msgid "Al Dafirah"
+msgstr "郎位一 Al Dafirah"
+
+#. Name for HIP 94114
+msgid "Meridiana"
+msgstr "鳖六  Meridiana"
+
+#. Name for HIP 94114
+msgid "Alfecca Meridiana"
+msgstr "鳖六 Alfecca Meridiana"
+
+#. Name for HIP 76267
+msgid "Alphecca"
+msgstr "贯索四 Alphecca"
+
+#. Name for HIP 76267
+msgid "Gemma"
+msgstr "Gemma"
+
+#. Name for HIP 76267
+msgid "Gnosia"
+msgstr "Gnosia"
+
+#. Name for HIP 76267
+msgid "Ashtaroth"
+msgstr "Ashtaroth"
+
+#. Name for HIP 75695
+msgid "Nusakan"
+msgstr "贯索三 Nusakan"
+
+#. Name for HIP 77442
+msgid "Variabilis Coronae"
+msgstr "北冕座变星 Variabilis Coronae"
+
+#. Name for HIP 78322
+msgid "Blaze Star"
+msgstr "博雷兹星 Blaze Star"
+
+#. Name for HIP 79219
+msgid "Kamuy"
+msgstr "Kamuy"
+
+#. Name for HIP 59199
+msgid "Alchiba"
+msgstr "右辖 Alchiba"
+
+#. Name for HIP 59199
+msgid "Al Chiba"
+msgstr "Al Chiba"
+
+#. Name for HIP 59199
+msgid "Alchita"
+msgstr "Alchita"
+
+#. Name for HIP 59803
+msgid "Gienah"
+msgstr "轸宿一 Gienah"
+
+#. Name for HIP 59803
+msgid "Gienah Corvi"
+msgstr "Gienah Corvi"
+
+#. Name for HIP 59803
+msgid "Gienah Ghurab"
+msgstr "Gienah Ghurab"
+
+#. Name for HIP 59316
+msgid "Minkar"
+msgstr "轸宿二 Minkar"
+
+#. Name for HIP 60965
+msgid "Algorab"
+msgstr "轸宿三 Algorab"
+
+#. Name for HIP 61359
+msgid "Kraz"
+msgstr "轸宿四 Kraz"
+
+#. Name for HIP 53740
+msgid "Alkes"
+msgstr "翼宿一 Alkes"
+
+#. Name for HIP 54682
+msgid "Al Sharasif"
+msgstr "翼宿十六 Al Sharasif"
+
+#. Name for HIP 54682
+msgid "Al Sharasif II"
+msgstr "Al Sharasif II"
+
+#. Name for HIP 55106
+msgid "Abt's Star"
+msgstr "阿布特星 Abt's Star"
+
+#. Name for HIP 62434
+msgid "Mimosa"
+msgstr "十字架三 Mimosa"
+
+#. Name for HIP 62434
+msgid "Becrux"
+msgstr "Becrux"
+
+#. Name for HIP 61084
+msgid "Gacrux"
+msgstr "十字架一 Gacrux"
+
+#. Name for HIP 60260
+msgid "Ginan"
+msgstr "吉娜恩 Ginan"
+
+#. Name for HIP 59747
+msgid "Imai"
+msgstr "十字架四 Imai"
+
+#. Name for HIP 102098
+msgid "Deneb"
+msgstr "天津四 Deneb"
+
+#. Name for HIP 102098
+msgid "Arided"
+msgstr "Arided"
+
+#. Name for HIP 102098
+msgid "Aridif"
+msgstr "Aridif"
+
+#. Name for HIP 102098
+msgid "Arrioph"
+msgstr "Arrioph"
+
+#. Name for HIP 102098
+msgid "Deneb el Adige"
+msgstr "Deneb el Adige"
+
+#. Name for HIP 102098
+msgid "Deneb Cygni"
+msgstr "Deneb Cygni"
+
+#. Name for HIP 95947
+msgid "Albireo"
+msgstr "辇道增七 Albireo"
+
+#. Name for HIP 100453
+msgid "Sadr"
+msgstr "天津一 Sadr"
+
+#. Name for HIP 100453
+msgid "Sadir"
+msgstr "Sadir"
+
+#. Name for HIP 102488
+msgid "Aljanah"
+msgstr "天津九 Aljanah"
+
+#. Name for HIP 102488
+msgid "Gienah Cygni"
+msgstr "Gienah Cygni"
+
+#. Name for HIP 102488
+msgid "Al Janah"
+msgstr "Al Janah"
+
+#. Name for HIP 107136
+msgid "Azelfafage"
+msgstr "螣蛇四 Azelfafage"
+
+#. Name for HIP 107136
+msgid "Azelfage"
+msgstr "Azelfage"
+
+#. Name for HIP 101138
+msgid "Ruchba"
+msgstr "天津增三十五 Ruchba"
+
+#. Name for HIP 101138
+msgid "Rucba"
+msgstr "Rucba"
+
+#. Name for HIP 104217
+msgid "Bessel's Star"
+msgstr "天津增二十九 Bessel's Star"
+
+#. Name for HIP 104217
+msgid "Piazzi's Flying Star"
+msgstr "皮亚齐飞行之星 Piazzi's Flying Star"
+
+#. Name for HIP 96295
+msgid "Campbell's Star"
+msgstr "坎贝尔星 Campbell's Star"
+
+#. Name for HIP 96295
+msgid "Campbell’s Hydrogen Star"
+msgstr "坎贝尔氢星 Campbell’s Hydrogen Star"
+
+#. Name for HIP 100044
+msgid "Revenant of the Swan"
+msgstr "天津增九 Revenant of the Swan"
+
+#. Name for HIP 100044
+msgid "Permanent nova"
+msgstr "Permanent nova"
+
+#. Name for HIP 97165
+msgid "Fawaris"
+msgstr "天津二 Fawaris"
+
+#. Name for HIP 97165
+msgid "Fawaris II"
+msgstr "Fawaris II"
+
+#. Name for HIP 104732
+msgid "Fawaris III"
+msgstr "天津八 Fawaris III"
+
+#. Name for HIP 94779
+msgid "Fawaris I"
+msgstr "奚仲一 Fawaris I"
+
+#. Name for HIP 101958
+msgid "Sualocin"
+msgstr "瓠瓜一 Sualocin"
+
+#. Name for HIP 101958
+msgid "Svalocin"
+msgstr "Svalocin"
+
+#. Name for HIP 101769
+msgid "Rotanev"
+msgstr "瓠瓜四 Rotanev"
+
+#. Name for HIP 101769
+msgid "Venator"
+msgstr "Venator"
+
+#. Name for HIP 101421
+msgid "Aldulfin"
+msgstr "败瓜一 Aldulfin"
+
+#. Name for HIP 101421
+msgid "Deneb Dulfim"
+msgstr "败瓜一 Deneb Dulfim"
+
+#. Name for HIP 102532
+msgid "Al Salib"
+msgstr "瓠瓜二 Al Salib"
+
+#. Name for HIP 102281
+msgid "Al Ukud"
+msgstr "瓠瓜三Al Ukud"
+
+#. Name for HIP 68756
+msgid "Thuban"
+msgstr "右枢 Thuban"
+
+#. Name for HIP 68756
+msgid "Adib"
+msgstr "Adib"
+
+#. Name for HIP 68756
+msgid "Al Tinnin"
+msgstr "Al Tinnin"
+
+#. Name for HIP 85670
+msgid "Rastaban"
+msgstr "天棓三 Rastaban"
+
+#. Name for HIP 85670
+msgid "Alwaid"
+msgstr "Alwaid"
+
+#. Name for HIP 85670
+msgid "Asuia"
+msgstr "Asuia"
+
+#. Name for HIP 87833
+msgid "Eltanin"
+msgstr "天棓四 Eltanin"
+
+#. Name for HIP 87833
+msgid "Etamin"
+msgstr "天培四 Etamin"
+
+#. Name for HIP 87833
+msgid "Taurt"
+msgstr "Taurt"
+
+#. Name for HIP 94376
+msgid "Altais"
+msgstr "天厨一 Altais"
+
+#. Name for HIP 94376
+msgid "Al Tais"
+msgstr "Al Tais"
+
+#. Name for HIP 94376
+msgid "Nodus II"
+msgstr "Nodus II"
+
+#. Name for HIP 56211
+msgid "Nodus Secundus"
+msgstr "Nodus Secundus"
+
+#. Name for HIP 94376
+msgid "Aldib"
+msgstr "Aldib"
+
+#. Name for HIP 75458
+msgid "Edasich"
+msgstr "左枢 Edasich"
+
+#. Name for HIP 75458
+msgid "Ed Asich"
+msgstr "Ed Asich"
+
+#. Name for HIP 75458
+msgid "Al Dhihi"
+msgstr "Al Dhihi"
+
+#. Name for HIP 56211
+msgid "Giausar"
+msgstr "上辅 Giausar"
+
+#. Name for HIP 83608
+msgid "Alrakis"
+msgstr "天棓增九 Alrakis"
+
+#. Name for HIP 83608
+msgid "Arrakis"
+msgstr "Arrakis"
+
+#. Name for HIP 83608
+msgid "Errakis"
+msgstr "Errakis"
+
+#. Name for HIP 87585
+msgid "Grumium"
+msgstr "天棓一 Grumium"
+
+#. Name for HIP 87585
+msgid "Genam"
+msgstr "Genam"
+
+#. Name for HIP 83895
+msgid "Nodus I"
+msgstr "Nodus I"
+
+#. Name for HIP 85819
+msgid "Kuma"
+msgstr "天棓增一 Kuma"
+
+#. Name for HIP 97433
+msgid "Tyl"
+msgstr "天厨三 Tyl"
+
+#. Name for HIP 96100
+msgid "Alsafi"
+msgstr "天厨二 Alsafi"
+
+#. Name for HIP 86614
+msgid "Dziban"
+msgstr "女史增一 Dziban"
+
+#. Name for HIP 86614
+msgid "Dziban I"
+msgstr "Dziban I"
+
+#. Name for HIP 86620
+msgid "Dziban II"
+msgstr "Dziban II"
+
+#. Name for HIP 86620
+msgid "Dsiban"
+msgstr "Dsiban"
+
+#. Name for HIP 86201
+msgid "Al Dhih"
+msgstr "尚书增一 Al Dhih"
+
+#. Name for HIP 86201
+msgid "Adfar Aldib II"
+msgstr "Adfar Aldib II"
+
+#. Name for HIP 86782
+msgid "Alruba"
+msgstr "Alruba"
+
+#. Name for HIP 83895
+msgid "Aldhibah"
+msgstr "紫微左垣四 上弼 Aldhibah"
+
+#. Name for HIP 83895
+msgid "Al Dhibain Posterior"
+msgstr "Al Dhibain Posterior"
+
+#. Name for HIP 83895
+msgid "Dhibah"
+msgstr "Dhibah"
+
+#. Name for HIP 80331
+msgid "Athebyne"
+msgstr "紫微左垣三 少宰 Athebyne"
+
+#. Name for HIP 80331
+msgid "Al Dhibain Prior"
+msgstr "Al Dhibain Prior"
+
+#. Name for HIP 80331
+msgid "Dhibain"
+msgstr "Dhibain"
+
+#. Name for HIP 85805
+msgid "Adfar Aldib I"
+msgstr "尚书一 Adfar Aldib I"
+
+#. Name for HIP 95081
+msgid "Tais I"
+msgstr "天厨六 Tais I"
+
+#. Name for HIP 98702
+msgid "Tais II"
+msgstr "天厨四 Tais II"
+
+#. Name for HIP 94648
+msgid "Athafi II"
+msgstr "御女一 Athafi II"
+
+#. Name for HIP 92782
+msgid "Athafi I"
+msgstr "紫微左垣五 少弼"
+
+#. Name for HIP 89908
+msgid "Aldhiba"
+msgstr "柱史 Aldhiba"
+
+#. Name for HIP 89937
+msgid "Alahakan"
+msgstr "御女四 Alahakan"
+
+#. Name for HIP 63076
+msgid "Taiyi"
+msgstr "内厨二 Taiyi"
+
+#. Name for HIP 62423
+msgid "Tianyi"
+msgstr "内厨一 Tianyi"
+
+#. Name for HIP 104987
+msgid "Kitalpha"
+msgstr "虚宿二 Kitalpha"
+
+#. Name for HIP 23875
+msgid "Cursa"
+msgstr "玉井三 Cursa"
+
+#. Name for HIP 23875
+msgid "Dhalim"
+msgstr "Dhalim"
+
+#. Name for HIP 18543
+msgid "Zaurak"
+msgstr "天苑一 Zaurak"
+
+#. Name for HIP 15197
+msgid "Zibal"
+msgstr "天苑五 Zibal"
+
+#. Name for HIP 13701
+msgid "Azha"
+msgstr "天苑六 Azha"
+
+#. Name for HIP 13847
+msgid "Acamar"
+msgstr "天园六 Acamar"
+
+#. Name for HIP 13847
+msgid "Dalim"
+msgstr "天苑增三 Dalim"
+
+#. Name for HIP 19587
+msgid "Beid"
+msgstr "九州殊口二 Beid"
+
+#. Name for HIP 19849
+msgid "Keid"
+msgstr "九州殊口增七 Keid"
+
+#. Name for HIP 20535
+msgid "Theemin"
+msgstr "Theemin"
+
+#. Name for HIP 20535
+msgid "Beemim"
+msgstr "Beemim"
+
+#. Name for HIP 20535
+msgid "Theemim"
+msgstr "Theemim"
+
+#. Name for HIP 20535
+msgid "Beemim II"
+msgstr "天园十一 Beemim II"
+
+#. Name for HIP 13288
+msgid "Angetenar"
+msgstr "天苑九 Angetenar"
+
+#. Name for HIP 13288
+msgid "Anchat"
+msgstr "CoAnchat"
+
+#. Name for HIP 13288
+msgid "An Anchat al Nahr"
+msgstr "An Anchat al Nahr"
+
+#. Name for HIP 21248
+msgid "Beemim III"
+msgstr "天园十三 Beemim III"
+
+#. Name for HIP 17378
+msgid "Rana"
+msgstr "天苑三 Rana"
+
+#. Name for HIP 21594
+msgid "Sceptrum"
+msgstr "九斿增四 Sceptrum"
+
+#. Name for HIP 23972
+msgid "Kursi al Jauzah II"
+msgstr "玉井一Kursi al Jauzah II"
+
+#. Name for HIP 14060
+msgid "Aludhi I"
+msgstr "天苑增十 Aludhi I"
+
+#. Name for HIP 14168
+msgid "Aludhi II"
+msgstr "天苑增十一 Aludhi II"
+
+#. Name for HIP 14293
+msgid "Aludhi III"
+msgstr "天苑增十二 Aludhi III"
+
+#. Name for HIP 20042
+msgid "Beemim I"
+msgstr "天园十 Beemim I"
+
+#. Name for HIP 23364
+msgid "Kursi al Jauzah I"
+msgstr "玉井二 Kursi al Jauzah I"
+
+#. Name for HIP 14879
+msgid "Fornacis"
+msgstr "Fornacis"
+
+#. Name for HIP 36850
+msgid "Castor"
+msgstr "北河二 Castor"
+
+#. Name for HIP 36850
+msgid "Apollo"
+msgstr "Apollo"
+
+#. Name for HIP 37826
+msgid "Pollux"
+msgstr "北河三 Pollux"
+
+#. Name for HIP 37826
+#. Added context to avoid conflict with constellation name
+msgid "Hercules [star]"
+msgstr "Hercules [恒星]"
+
+#. Name for HIP 31681
+msgid "Alhena"
+msgstr "井宿三 Alhena"
+
+#. Name for HIP 31681
+msgid "Almeisan"
+msgstr "Almeisan"
+
+#. Name for HIP 35550
+msgid "Wasat"
+msgstr "天樽二 Wasat"
+
+#. Name for HIP 32246
+msgid "Mebsuta"
+msgstr "井宿五 Mebsuta"
+
+#. Name for HIP 32246
+msgid "Melucta"
+msgstr "Melucta"
+
+#. Name for HIP 32246
+msgid "Meboula"
+msgstr "Meboula"
+
+#. Name for HIP 34088
+msgid "Mekbuda"
+msgstr "井宿七 Mekbuda"
+
+#. Name for HIP 29655
+msgid "Propus"
+msgstr "钺 Propus"
+
+#. Name for HIP 29655
+msgid "Tejat Prior"
+msgstr "Tejat Prior"
+
+#. Name for HIP 29655
+msgid "Praepes"
+msgstr "Praepes"
+
+#. Name for HIP 30343
+msgid "Tejat"
+msgstr "井宿一 Tejat"
+
+#. Name for HIP 30343
+msgid "Tejat Posterior"
+msgstr "Tejat Posterior"
+
+#. Name for HIP 30343
+msgid "Calx"
+msgstr "Calx"
+
+#. Name for HIP 32362
+msgid "Alzirr"
+msgstr "井宿四 Alzirr"
+
+#. Name for HIP 32362
+msgid "Al Zirr"
+msgstr "Al Zirr"
+
+#. Name for HIP 30883
+msgid "Nucatai"
+msgstr "井宿二 Nucatai"
+
+#. Name for HIP 37265
+msgid "Jishui"
+msgstr "北河增二 Jishui"
+
+#. Name for HIP 109268
+msgid "Al Na'ir"
+msgstr "Al Na'ir"
+
+#. Name for HIP 109268
+msgid "Al Nair"
+msgstr "鹤一 Al Nair"
+
+#. Name for HIP 108085
+msgid "Aldhanab"
+msgstr "败臼一 Aldhanab"
+
+#. Name for HIP 108085
+msgid "Al Dhanab"
+msgstr "Al Dhanab"
+
+#. Name for HIP 108085
+msgid "Deneb Hut"
+msgstr "Deneb Hut"
+
+#. Name for HIP 112122
+msgid "Tiaki"
+msgstr "鹤二 Tiaki"
+
+#. Name for HIP 112122
+msgid "Deneb Alnahr"
+msgstr "Deneb Alnahr"
+
+#. Name for HIP 84345
+msgid "Rasalgethi"
+msgstr "帝座 Rasalgethi"
+
+#. Name for HIP 84345
+msgid "Ras Algethi"
+msgstr "Ras Algethi"
+
+#. Name for HIP 80816
+msgid "Kornephoros"
+msgstr "天市右垣一 河中 Kornephoros"
+
+#. Name for HIP 80816
+msgid "Antilicus"
+msgstr "Antilicus"
+
+#. Name for HIP 80816
+msgid "Rutilicus"
+msgstr "Rutilicus"
+
+#. Name for HIP 79043
+msgid "Marsic"
+msgstr "晋 Marsic"
+
+#. Name for HIP 79043
+msgid "Marfik"
+msgstr "列肆二 Marfik"
+
+#. Name for HIP 85693
+msgid "Maasym"
+msgstr "赵 Maasym"
+
+#. Name for HIP 85693
+msgid "Masym"
+msgstr "Masym"
+
+#. Name for HIP 80463
+msgid "Cujam"
+msgstr "斗一 Cujam"
+
+#. Name for HIP 84379
+msgid "Sarin"
+msgstr "天市左垣一 魏 Sarin"
+
+#. Name for HIP 80170
+msgid "Nasak Shamiya III"
+msgstr "天市右垣二 河间 Nasak Shamiya III"
+
+#. Name for HIP 46390
+msgid "Alphard"
+msgstr "星宿一 Alphard"
+
+#. Name for HIP 46390
+msgid "Kalbelaphard"
+msgstr "Kalbelaphard"
+
+#. Name for HIP 46390
+msgid "Cor Hydrae"
+msgstr "Cor Hydrae"
+
+#. Name for HIP 46982
+msgid "Ukdah III"
+msgstr "星宿增八 Ukdah III"
+
+#. Name for HIP 42313
+msgid "Minazal I"
+msgstr "柳宿一 Minazal I"
+
+#. Name for HIP 43109
+msgid "Ashlesha"
+msgstr "柳宿五 Ashlesha"
+
+#. Name for HIP 43109
+msgid "Minazal III"
+msgstr "Minazal III"
+
+#. Name for HIP 43813
+msgid "Minazal V"
+msgstr "柳宿六 Minazal V"
+
+#. Name for HIP 42799
+msgid "Minazal II"
+msgstr "柳宿三 Minazal II"
+
+#. Name for HIP 47431
+msgid "Ukdah"
+msgstr "星宿四 Ukdah"
+
+#. Name for HIP 47431
+msgid "Ukdah IV"
+msgstr "Ukdah IV"
+
+#. Name for HIP 47452
+msgid "Al Sharasif I"
+msgstr "张宿五 Al Sharasif I"
+
+#. Name for HIP 43234
+msgid "Minazal IV"
+msgstr "柳宿四 Minazal IV"
+
+#. Name for HIP 42402
+msgid "Minchir"
+msgstr "柳宿二 Minchir"
+
+#. Name for HIP 42402
+msgid "Minkalshuja"
+msgstr "柳宿二 Minkalshuja"
+
+#. Name for HIP 42402
+msgid "Al Minliar al Shuja"
+msgstr "Al Minliar al Shuja"
+
+#. Name for HIP 46509
+msgid "Ukdah I"
+msgstr "星宿二 Ukdah I"
+
+#. Name for HIP 46776
+msgid "Ukdah II"
+msgstr "星宿三 Ukdah II"
+
+#. Name for HIP 48356
+msgid "Zhang"
+msgstr "张宿一 Zhang"
+
+#. Name for HIP 48615
+msgid "Felis"
+msgstr "Felis"
+
+#. Name for HIP 101772
+msgid "Persian"
+msgstr "波斯二 Persian"
+
+#. Name for HIP 112247
+msgid "Babcock's Star"
+msgstr "巴布科克星 Campbell's Star"
+
+#. Name for HIP 49669
+msgid "Cor Leonis"
+msgstr "Cor Leonis"
+
+#. Name for HIP 49669
+msgid "Rex"
+msgstr "Rex"
+
+#. Name for HIP 49669
+msgid "Kabeleced"
+msgstr "Kabeleced"
+
+#. Name for HIP 49669
+msgid "Al Kalb al Asad"
+msgstr "Al Kalb al Asad"
+
+#. Name for HIP 57632
+msgid "Deneb Aleet"
+msgstr "Deneb Aleet"
+
+#. Name for HIP 50583
+msgid "Algieba"
+msgstr "轩辕十二 Algieba"
+
+#. Name for HIP 50583
+msgid "Al Geiba"
+msgstr "Al Geiba"
+
+#. Name for HIP 54872
+msgid "Zosma"
+msgstr "太微右垣五 西上相 Zosma"
+
+#. Name for HIP 54872
+msgid "Duhr"
+msgstr "Duhr"
+
+#. Name for HIP 54872
+msgid "Zubra"
+msgstr "Zubra"
+
+#. Name for HIP 50335
+msgid "Adhafera"
+msgstr "轩辕十一 Adhafera"
+
+#. Name for HIP 50335
+msgid "Aldhafera"
+msgstr "Aldhafera"
+
+#. Name for HIP 49583
+msgid "Chertan"
+msgstr "西次相 Chertan"
+
+#. Name for HIP 54879
+msgid "Al Haratan"
+msgstr "Al Haratan"
+
+#. Name for HIP 49583
+msgid "Coxa"
+msgstr "Coxa"
+
+#. Name for HIP 49583
+msgid "Chort"
+msgstr "Chort"
+
+#. Name for HIP 46750
+msgid "Alterf"
+msgstr "轩辕八 Alterf"
+
+#. Name for HIP 48455
+msgid "Rasalas"
+msgstr "轩辕十 Rasalas"
+
+#. Name for HIP 48455
+msgid "Alshemali"
+msgstr "Alshemali"
+
+#. Name for HIP 48455
+msgid "Ras Elased Borealis"
+msgstr "Ras Elased Borealis"
+
+#. Name for HIP 47508
+msgid "Subra"
+msgstr "轩辕十五 Subra"
+
+#. Name for HIP 47908
+msgid "Algenubi"
+msgstr "轩辕九 Algenubi"
+
+#. Name for HIP 47908
+msgid "Ras Elased Australis"
+msgstr "Ras Elased Australis"
+
+#. Name for HIP 47908
+msgid "Ras Elased"
+msgstr "Ras Elased"
+
+#. Name for HIP 46146
+msgid "Al Minlear al Asad"
+msgstr "Al Minlear al Asad"
+
+#. Name for HIP 46146
+msgid "Minkarasad"
+msgstr "Minkarasad"
+
+#. Name for HIP 54951
+msgid "Zubrah"
+msgstr "虎贲 Zubrah"
+
+#. Name for HIP 49583
+msgid "Al Jabhah"
+msgstr "轩辕十三 Al Jabhah"
+
+#. Name for HIP 52123
+msgid "Klemola's Star"
+msgstr "克莱莫拉星 Klemola's Star"
+
+#. Name for HIP 55642
+msgid "Tsze Tseang"
+msgstr "太微右垣三 西次将 Tsze Tseang"
+
+#. Name for HIP 53229
+msgid "Praecipua"
+msgstr "势四 Praecipua"
+
+#. Name for HIP 25985
+msgid "Arneb"
+msgstr "厕一 Arneb"
+
+#. Name for HIP 25985
+msgid "Arsh"
+msgstr "Arsh"
+
+#. Name for HIP 25606
+msgid "Nihal"
+msgstr "厕二 Nihal"
+
+#. Name for HIP 23203
+msgid "Hind's Crimson Star"
+msgstr "欣德深红星 Hind's Crimson Star"
+
+#. Name for HIP 27072
+msgid "Kursi al Jabbar"
+msgstr "厕三 Kursi al Jabbar"
+
+#. Name for HIP 27654
+msgid "Arsh al Jauzah"
+msgstr "厕四 Arsh al Jauzah"
+
+#. Name for HIP 72603
+msgid "Zubenelgenubi I"
+msgstr "氐宿增七 Zubenelgenubi I"
+
+#. Name for HIP 72622
+msgid "Zubenelgenubi"
+msgstr "氐宿一 Zubenelgenubi"
+
+#. Name for HIP 72622
+msgid "Zuben el Genubi"
+msgstr "Zuben el Genubi"
+
+#. Name for HIP 72622
+msgid "Zuben Elgenubi"
+msgstr "Zuben Elgenubi"
+
+#. Name for HIP 72622
+msgid "Zubenelgenubi II"
+msgstr "Zubenelgenubi II"
+
+#. Name for HIP 74785
+msgid "Zubeneschamali"
+msgstr "氐宿四 Zubeneschamali"
+
+#. Name for HIP 74785
+msgid "Zuben Eschamali"
+msgstr "Zuben Eschamali"
+
+#. Name for HIP 74785
+msgid "Zuben Elschemali"
+msgstr "Zuben Elschemali"
+
+#. Name for HIP 73714
+msgid "Brachium"
+msgstr "折威七 Brachium"
+
+#. Name for HIP 73714
+msgid "Zuben Acrabi"
+msgstr "Zuben Acrabi"
+
+#. Name for HIP 73714
+msgid "Cornu"
+msgstr "Cornu"
+
+#. Name for HIP 73473
+msgid "Zuben Elakribi"
+msgstr "氐宿增一 Zuben Elakribi"
+
+#. Name for HIP 73473
+msgid "Mulu-Lizi"
+msgstr "Mulu-Lizi"
+
+#. Name for HIP 76333
+msgid "Zubenelhakrabi"
+msgstr "氐宿三 Zubenelhakrabi"
+
+#. Name for HIP 76333
+msgid "Zuben Elakrab"
+msgstr "Zuben Elakrab"
+
+#. Name for HIP 73945
+msgid "Zuben Hakrabi"
+msgstr "氐宿增十 Zuben Hakrabi"
+
+#. Name for HIP 76976
+msgid "Methuselah star"
+msgstr "梅撒瑟拉星 Methuselah star"
+
+#. Name for HIP 77060
+msgid "Zuban al Kravi"
+msgstr "西咸四 Zuban al Kravi"
+
+#. Name for HIP 41075
+msgid "Alsciaukat"
+msgstr "上台增四 Alsciaukat"
+
+#. Name for HIP 41075
+msgid "Mabsuthat"
+msgstr "Mabsuthat"
+
+#. Name for HIP 41075
+msgid "Shaukah"
+msgstr "Shaukah"
+
+#. Name for HIP 33485
+msgid "Dolones X"
+msgstr "座旗二 Dolones X"
+
+#. Name for HIP 91262
+msgid "Fidis"
+msgstr "Fidis"
+
+#. Name for HIP 91262
+msgid "Harp star"
+msgstr "Harp star"
+
+#. Name for HIP 92420
+msgid "Sheliak"
+msgstr "渐台二 Sheliak"
+
+#. Name for HIP 93194
+msgid "Sulafat"
+msgstr "渐台三 Sulafat"
+
+#. Name for HIP 93194
+msgid "Jugum"
+msgstr "Jugum"
+
+#. Name for HIP 94481
+msgid "Aladfar"
+msgstr "辇道二 Aladfar"
+
+#. Name for HIP 90191
+msgid "Al Athfar"
+msgstr "织女增三 Al Athfar"
+
+#. Name for HIP 91919
+msgid "Double Double I"
+msgstr "织女二 Double Double I"
+
+#. Name for HIP 91926
+msgid "Double Double II"
+msgstr "织女增二 Double Double II"
+
+#. Name for HIP 91971
+msgid "Nasr Alwaki I"
+msgstr "织女三 Nasr Alwaki I"
+
+#. Name for HIP 91973
+msgid "Nasr Alwaki II"
+msgstr "织女增一 Nasr Alwaki II"
+
+#. Name for HIP 31646
+msgid "Plaskett's Star"
+msgstr "普拉斯基特星 Plaskett's Star"
+
+#. Name for HIP 30089
+msgid "Red Rectangle"
+msgstr "红矩形星 Red Rectangle"
+
+#. Name for HIP 104382
+msgid "Polaris Australis"
+msgstr "南极星 Polaris Australis"
+
+#. Name for HIP 86032
+msgid "Rasalhague"
+msgstr "侯 Rasalhague"
+
+#. Name for HIP 86032
+msgid "Ras Alhague"
+msgstr "Ras Alhague"
+
+#. Name for HIP 86742
+msgid "Cebalrai"
+msgstr "宗正一 Cebalrai"
+
+#. Name for HIP 86742
+msgid "Kelb Alrai"
+msgstr "Kelb Alrai"
+
+#. Name for HIP 79593
+msgid "Yed Prior"
+msgstr "天市右垣九 梁 Yed Prior"
+
+#. Name for HIP 79882
+msgid "Yed Posterior"
+msgstr "天市右垣十 楚 Yed Posterior"
+
+#. Name for HIP 84012
+msgid "Sabik"
+msgstr "宋 Sabik"
+
+#. Name for HIP 87108
+msgid "Muliphen"
+msgstr "宗正二 Muliphen"
+
+#. Name for HIP 87937
+msgid "Barnard's Star"
+msgstr "巴纳德星 Barnard's Star"
+
+#. Name for HIP 87937
+msgid "Velox Barnardi"
+msgstr "Velox Barnardi"
+
+#. Name for HIP 81377
+msgid "Saik"
+msgstr "天市右垣十一 韩 Saik"
+
+#. Name for HIP 84970
+msgid "Garafsa"
+msgstr "天江三  Garafsa"
+
+#. Name for HIP 84893
+msgid "Aggia"
+msgstr "天江增七 Aggia"
+
+#. Name for HIP 86777
+msgid "Iron Star"
+msgstr "铁星 Iron Star"
+
+#. Name for HIP 84405
+msgid "Guniibuu"
+msgstr "天江二 Guniibuu"
+
+#. Name for HIP 27989
+msgid "Al Mankib"
+msgstr "Al Mankib"
+
+#. Name for HIP 27989
+msgid "Betelgeux"
+msgstr "Betelgeux"
+
+#. Name for HIP 27989
+msgid "Martial Star"
+msgstr "战星 Martial Star"
+
+#. Name for HIP 24436
+msgid "Algebar"
+msgstr "Algebar"
+
+#. Name for HIP 25336
+msgid "Amazon Star"
+msgstr "亚马逊星 Amazon Star"
+
+#. Name for HIP 27366
+msgid "Saiph"
+msgstr "参宿六 Saiph"
+
+#. Name for HIP 26207
+msgid "Meissa"
+msgstr "觜宿一 Meissa"
+
+#. Name for HIP 26176
+msgid "Heka"
+msgstr "Heka"
+
+#. Name for HIP 26241
+msgid "Hatysa"
+msgstr "伐三 Hatysa"
+
+#. Name for HIP 26241
+msgid "Nair al Saif"
+msgstr "Nair al Saif"
+
+#. Name for HIP 25923
+msgid "Thabit"
+msgstr "参宿增三十六 Thabit"
+
+#. Name for HIP 22449
+msgid "Tabit"
+msgstr "参旗六 Tabit"
+
+#. Name for HIP 26237
+msgid "Mizan Batil I"
+msgstr "伐一 Mizan Batil I"
+
+#. Name for HIP 26563
+msgid "Mizan Batil III"
+msgstr "参宿增三十五 Mizan Batil III"
+
+#. Name for HIP 22833
+msgid "Manica"
+msgstr "参旗三 Manica"
+
+#. Name for HIP 25281
+msgid "Saif al Jabbar"
+msgstr "参宿增三 Saif al Jabbar"
+
+#. Name for HIP 26220
+msgid "Trapezium"
+msgstr "伐增二 Trapezium"
+
+#. Name for HIP 26235
+msgid "Mizan Batil II"
+msgstr "伐二 Mizan Batil II"
+
+#. Name for HIP 22667
+msgid "Al Kumm I"
+msgstr "参旗一 Al Kumm I"
+
+#. Name for HIP 22957
+msgid "Al Kumm II"
+msgstr "参旗二 Al Kumm II"
+
+#. Name for HIP 22845
+msgid "Al Taj IV"
+msgstr "参旗四 Al Taj IV"
+
+#. Name for HIP 22509
+msgid "Al Taj I"
+msgstr "参旗五 Al Taj I"
+
+#. Name for HIP 22549
+msgid "Al Taj II"
+msgstr "参旗七 Al Taj II"
+
+#. Name for HIP 22797
+msgid "Al Taj III"
+msgstr "参旗八 Al Taj III"
+
+#. Name for HIP 23123
+msgid "Al Taj V"
+msgstr "参旗九 Al Taj V"
+
+#. Name for HIP 26221
+msgid "Becklin's Star"
+msgstr "贝克林星 Becklin's Star"
+
+#. Name for HIP 100751
+msgid "Peacock"
+msgstr "孔雀十一"
+
+#. Name for HIP 45941
+msgid "Markab"
+msgstr "室宿一 Markab"
+
+#. Name for HIP 113963
+msgid "Yed Alpheras"
+msgstr "Yed Alpheras"
+
+#. Name for HIP 113963
+msgid "Marchab"
+msgstr "Marchab"
+
+#. Name for HIP 113881
+msgid "Seat Alpheras"
+msgstr "Seat Alpheras"
+
+#. Name for HIP 1067
+msgid "Algenib"
+msgstr "壁宿一 Algenib"
+
+#. Name for HIP 107315
+msgid "Enif"
+msgstr "危宿三 Enif"
+
+#. Name for HIP 107315
+msgid "Os Pegasi"
+msgstr "Os Pegasi"
+
+#. Name for HIP 107315
+msgid "Fom"
+msgstr "Fom"
+
+#. Name for HIP 107315
+msgid "Fumalfaras"
+msgstr "Fumalfaras"
+
+#. Name for HIP 112029
+msgid "Homam"
+msgstr "雷电一 Homam"
+
+#. Name for HIP 112029
+msgid "Al Hammam"
+msgstr "Al Hammam"
+
+#. Name for HIP 112158
+msgid "Matar"
+msgstr "离宫四 Matar"
+
+#. Name for HIP 109427
+msgid "Biham"
+msgstr "危宿二 Biham"
+
+#. Name for HIP 112748
+msgid "Sadalbari"
+msgstr "离宫二 Sadalbari"
+
+#. Name for HIP 112748
+msgid "Sa'd al Bari'"
+msgstr "Sa'd al Bari'"
+
+#. Name for HIP 115250
+msgid "Salm"
+msgstr "离宫五 Salm"
+
+#. Name for HIP 115250
+msgid "Al Karab"
+msgstr "Al Karab"
+
+#. Name for HIP 115250
+msgid "Salma"
+msgstr "Salma"
+
+#. Name for HIP 112440
+msgid "Sadalnazi"
+msgstr "离宫一 Sadalnazi"
+
+#. Name for HIP 109068
+msgid "Fum al Faras"
+msgstr "危宿增六 Fum al Faras"
+
+#. Name for HIP 112447
+msgid "Suudalnujum"
+msgstr "雷电二 Suudalnujum"
+
+#. Name for HIP 112051
+msgid "Sadalmatar"
+msgstr "离宫三 Sadalmatar"
+
+#. Name for HIP 115623
+msgid "Alkarab"
+msgstr "离宫六 Alkarab"
+
+#. Name for HIP 15863
+msgid "Mirfak"
+msgstr "天船三 Mirfak"
+
+#. Name for HIP 15863
+msgid "Alchemb"
+msgstr "Alchemb"
+
+#. Name for HIP 14576
+msgid "Algol"
+msgstr "大陵五 Algol"
+
+#. Name for HIP 14576
+msgid "Gorgonea Prima"
+msgstr "Gorgonea Prima"
+
+#. Name for HIP 14576
+msgid "Gorgona"
+msgstr "Gorgona"
+
+#. Name for HIP 18614
+msgid "Menkib"
+msgstr "卷舌三 Menkib"
+
+#. Name for HIP 17448
+msgid "Atik"
+msgstr "Atik"
+
+#. Name for HIP 17448
+msgid "Alatik"
+msgstr "Alatik"
+
+#. Name for HIP 18246
+msgid "Menkhib"
+msgstr "卷舌四"
+
+#. Name for HIP 13879
+msgid "Gorgonea Secunda"
+msgstr "积尸 Gorgonea Secunda"
+
+#. Name for HIP 14354
+msgid "Gorgonea Tertia"
+msgstr "大陵六 Gorgonea Tertia"
+
+#. Name for HIP 14817
+msgid "Gorgonea Quarta"
+msgstr "大陵增十八 Gorgonea Quarta"
+
+#. Name for HIP 13268
+msgid "Miram"
+msgstr "天船一 Miram"
+
+#. Name for HIP 14668
+msgid "Misam"
+msgstr "大陵四 Misam"
+
+#. Name for HIP 10729
+msgid "Misam al Thurayya I"
+msgstr "大陵增一 Misam al Thurayya I"
+
+#. Name for HIP 22365
+msgid "Bidelman's Peculiar Star"
+msgstr "彼得曼特殊恒星 Bidelman's Peculiar Star"
+
+#. Name for HIP 2081
+msgid "Ankaa"
+msgstr "火鸟六 Ankaa"
+
+#. Name for HIP 2081
+msgid "Nair al Zaurak"
+msgstr "Nair al Zaurak"
+
+#. Name for HIP 5165
+msgid "Alrial III"
+msgstr "火鸟九 Alrial III"
+
+#. Name for HIP 6867
+msgid "Alrial V"
+msgstr "火鸟十 Alrial V"
+
+#. Name for HIP 2071
+msgid "Alrial I"
+msgstr "Alrial I"
+
+#. Name for HIP 3245
+msgid "Alrial II"
+msgstr "火鸟七 Alrial II"
+
+#. Name for HIP 5862
+msgid "Alrial IV"
+msgstr "Alrial IV"
+
+#. Name for HIP 5348
+msgid "Wurren"
+msgstr "水委二 Wurren"
+
+#. Name for HIP 24186
+msgid "Kapteyn's Star"
+msgstr "卡普坦星 Kapteyn's Star"
+
+#. Name for HIP 9487
+msgid "Alrescha"
+msgstr "外屏七 Alrescha"
+
+#. Name for HIP 9487
+msgid "Al Rescha"
+msgstr "Al Rescha"
+
+#. Name for HIP 9487
+msgid "Alrischa"
+msgstr "Alrischa"
+
+#. Name for HIP 9487
+msgid "Alrisha"
+msgstr "Alrisha"
+
+#. Name for HIP 9487
+msgid "Okda"
+msgstr "Okda"
+
+#. Name for HIP 9487
+msgid "Kaitain"
+msgstr "Kaitain"
+
+#. Name for HIP 3829
+msgid "van Maanen's Star"
+msgstr "范马南星 van Maanen's Star"
+
+#. Name for HIP 3829
+msgid "van Maanen 2"
+msgstr "范马南2 van Maanen 2"
+
+#. Name for HIP 8198
+msgid "Torcular"
+msgstr "右更四 Torcular"
+
+#. Name for HIP 8198
+msgid "Torcularis Septentrionalis"
+msgstr "Torcularis Septentrionalis"
+
+#. Name for HIP 7097
+msgid "Alpherg"
+msgstr "右更二 Alpherg"
+
+#. Name for HIP 7097
+msgid "Kullat Nunu"
+msgstr "Kullat Nunu"
+
+#. Name for HIP 113889
+msgid "Fumalsamakah"
+msgstr "霹雳一 Fumalsamakah"
+
+#. Name for HIP 113889
+msgid "Fum al Samakah"
+msgstr "Fum al Samakah"
+
+#. Name for HIP 3786
+msgid "Kuton I"
+msgstr "外屏一 Kuton I"
+
+#. Name for HIP 5737
+msgid "Revati"
+msgstr "外屏三 Revati"
+
+#. Name for HIP 5737
+msgid "Kuton II"
+msgstr "Kuton II"
+
+#. Name for HIP 5743
+msgid "Kuton III"
+msgstr "Kuton III"
+
+#. Name for HIP 113368
+msgid "Thalim"
+msgstr "Thalim"
+
+#. Name for HIP 113368
+msgid "Os Piscis Meridiani"
+msgstr "Os Piscis Meridiani"
+
+#. Name for HIP 113368
+msgid "Os Piscis Notii"
+msgstr "Os Piscis Notii"
+
+#. Name for HIP 111188
+msgid "Fum al Hui"
+msgstr "败臼增一 Fum al Hui"
+
+#. Name for HIP 39429
+msgid "Naos"
+msgstr "弧矢增二十二 Naos"
+
+#. Name for HIP 35488
+msgid "Bernes 135"
+msgstr "别尔涅斯135 Bernes 135"
+
+#. Name for HIP 38170
+msgid "Azmidi"
+msgstr "弧矢增十七 Azmidi"
+
+#. Name for HIP 38170
+msgid "Asmidiske"
+msgstr "Asmidiske"
+
+#. Name for HIP 38170
+msgid "Azmidiske"
+msgstr "Azmidiske"
+
+#. Name for HIP 96757
+msgid "Sham"
+msgstr "左旗一 Sham"
+
+#. Name for HIP 95347
+msgid "Rukbat"
+msgstr "天渊三 Rukbat"
+
+#. Name for HIP 95347
+msgid "Alrami"
+msgstr "Alrami"
+
+#. Name for HIP 95241
+msgid "Arkab Prior"
+msgstr "天渊二 Arkab Prior"
+
+#. Name for HIP 89642
+msgid "Arkab"
+msgstr "Arkab"
+
+#. Name for HIP 95294
+msgid "Arkab Posterior"
+msgstr "天渊一 Arkab Posterior"
+
+#. Name for HIP 88635
+msgid "Alnasl"
+msgstr "箕宿一 Alnasl"
+
+#. Name for HIP 88635
+msgid "Nushaba"
+msgstr "Nushaba"
+
+#. Name for HIP 88635
+msgid "Al Nasl"
+msgstr "Al Nasl"
+
+#. Name for HIP 88635
+msgid "Nash"
+msgstr "Nash"
+
+#. Name for HIP 88635
+msgid "El Nasl"
+msgstr "El Nasl"
+
+#. Name for HIP 89931
+msgid "Kaus Media"
+msgstr "箕宿二 Kaus Media"
+
+#. Name for HIP 89931
+msgid "Kaus Meridionalis"
+msgstr "Kaus Meridionalis"
+
+#. Name for HIP 89931
+msgid "Media"
+msgstr "Media"
+
+#. Name for HIP 89931
+msgid "Kaus Medius"
+msgstr "Kaus Medius"
+
+#. Name for HIP 90185
+msgid "Kaus Australis"
+msgstr "箕宿三 Kaus Australis"
+
+#. Name for HIP 93506
+msgid "Ascella"
+msgstr "斗宿六 Ascella"
+
+#. Name for HIP 90496
+msgid "Kaus Borealis"
+msgstr "斗宿二 Kaus Borealis"
+
+#. Name for HIP 89341
+msgid "Al Thalimain"
+msgstr "Al Thalimain"
+
+#. Name for HIP 92855
+msgid "Nunki"
+msgstr "斗宿四 Nunki"
+
+#. Name for HIP 92855
+msgid "Sadira"
+msgstr "Sadira"
+
+#. Name for HIP 89341
+msgid "Polis"
+msgstr "斗宿三 Polis"
+
+#. Name for HIP 89341
+msgid "Alnam"
+msgstr "Alnam"
+
+#. Name for HIP 94141
+msgid "Albaldah"
+msgstr "建三 Albaldah"
+
+#. Name for HIP 94141
+msgid "Al Baldah"
+msgstr "Al Baldah"
+
+#. Name for HIP 98066
+msgid "Terebellum I"
+msgstr "Terebellum I"
+
+#. Name for HIP 98162
+msgid "Terebellum II"
+msgstr "狗国四 Terebellum II"
+
+#. Name for HIP 98353
+msgid "Terebellum III"
+msgstr "狗国二 Terebellum III"
+
+#. Name for HIP 98688
+msgid "Terebellum IV"
+msgstr "狗国三 Terebellum IV"
+
+#. Name for HIP 89642
+msgid "Hamalwarid"
+msgstr "箕宿四  Hamalwarid"
+
+#. Name for HIP 92761
+msgid "Ainalrami"
+msgstr "建增六  Ainalrami"
+
+#. Name for HIP 92761
+msgid "Ain al Rami I"
+msgstr "Ain al Rami I"
+
+#. Name for HIP 92845
+msgid "Ain al Rami II"
+msgstr "建增七 Ain al Rami II"
+
+#. Name for HIP 93864
+msgid "Namalsadirah II"
+msgstr "斗宿五 Namalsadirah II"
+
+#. Name for HIP 92041
+msgid "Namalsadirah I"
+msgstr "斗宿一 Namalsadirah I"
+
+#. Name for HIP 95477
+msgid "Namalsadirah III"
+msgstr "狗二 Namalsadirah III"
+
+#. Name for HIP 95503
+msgid "Namalsadirah IV"
+msgstr "狗增四 Namalsadirah IV"
+
+#. Name for HIP 94643
+msgid "Al Kiladah"
+msgstr "狗增六 Al Kiladah"
+
+#. Name for HIP 80763
+msgid "Cor Scorpii"
+msgstr "Cor Scorpii"
+
+#. Name for HIP 80763
+msgid "Vespertilio"
+msgstr "Vespertilio"
+
+#. Name for HIP 80763
+msgid "Kalb al Akrab"
+msgstr "Kalb al Akrab"
+
+#. Name for HIP 78820
+msgid "Acrab"
+msgstr "房宿四 Acrab"
+
+#. Name for HIP 78820
+msgid "Graffias"
+msgstr "Graffias"
+
+#. Name for HIP 78820
+msgid "Akrab"
+msgstr "Akrab"
+
+#. Name for HIP 78401
+msgid "Dschubba"
+msgstr "房宿三 Dschubba"
+
+#. Name for HIP 78401
+msgid "Iclarkrau"
+msgstr "Iclarkrau"
+
+#. Name for HIP 86228
+msgid "Sargas"
+msgstr "尾宿五 Sargas"
+
+#. Name for HIP 86228
+msgid "Girtab"
+msgstr "尾宿六 Girtab"
+
+#. Name for HIP 85927
+msgid "Shaula"
+msgstr "尾宿八 Shaula"
+
+#. Name for HIP 80112
+msgid "Alniyat"
+msgstr "心宿一 Alniyat"
+
+#. Name for HIP 80112
+msgid "Alniyat I"
+msgstr "Alniyat I"
+
+#. Name for HIP 80112
+msgid "Al Niyat"
+msgstr "Al Niyat"
+
+#. Name for HIP 81266
+msgid "Paikauhale"
+msgstr "心宿三 Paikauhale"
+
+#. Name for HIP 81266
+msgid "Alniyat II"
+msgstr "Alniyat II"
+
+#. Name for HIP 85696
+msgid "Lesath"
+msgstr "尾宿九 Lesath"
+
+#. Name for HIP 85696
+msgid "Lesuth"
+msgstr "Lesuth"
+
+#. Name for HIP 79374
+msgid "Jabbah"
+msgstr "建闭 Jabbah"
+
+#. Name for HIP 78727
+msgid "Grafias"
+msgstr "西咸一 Grafias"
+
+#. Name for HIP 78727
+msgid "Grassias"
+msgstr "Grassias"
+
+#. Name for HIP 87294
+msgid "Vanant"
+msgstr "范南特星 Vanant"
+
+#. Name for HIP 86670
+msgid "Mula"
+msgstr "尾宿七 Mula"
+
+#. Name for HIP 82514
+msgid "Xamidimura"
+msgstr "尾宿一  Xamidimura"
+
+#. Name for HIP 82514
+msgid "Tali al Shaulah I"
+msgstr "Tali al Shaulah I"
+
+#. Name for HIP 82545
+msgid "Pipirima"
+msgstr "尾宿增二 Pipirima"
+
+#. Name for HIP 82545
+msgid "Tali al Shaulah II"
+msgstr "Tali al Shaulah II"
+
+#. Name for HIP 78265
+msgid "Fang"
+msgstr "房宿一 Fang"
+
+#. Name for HIP 78265
+msgid "Nur"
+msgstr "Nur"
+
+#. Name for HIP 78104
+msgid "Iklil"
+msgstr "房宿二 Iklil"
+
+#. Name for HIP 78104
+msgid "Iolil"
+msgstr "Iolil"
+
+#. Name for HIP 78933
+msgid "Jabhat Acrabi I"
+msgstr "钩钤一 Jabhat Acrabi I"
+
+#. Name for HIP 78990
+msgid "Jabhat Acrabi II"
+msgstr "钩钤二 Jabhat Acrabi II"
+
+#. Name for HIP 87261
+msgid "Fuyue"
+msgstr "傅说 Fuyue"
+
+#. Name for HIP 82396
+msgid "Larawag"
+msgstr "尾宿二 Larawag"
+
+#. Name for HIP 77070
+msgid "Unukalhai"
+msgstr "天市右垣七 蜀 Unukalhai"
+
+#. Name for HIP 77070
+msgid "Cor Serpentis"
+msgstr "Cor Serpentis"
+
+#. Name for HIP 77070
+msgid "Unuk al Hay"
+msgstr "Unuk al Hay"
+
+#. Name for HIP 77070
+msgid "Unuk Elhaia"
+msgstr "Unuk Elhaia"
+
+#. Name for HIP 92946
+msgid "Alya"
+msgstr " 天市左垣七 徐 Alya"
+
+#. Name for HIP 77233
+msgid "Chow"
+msgstr "天市右垣五 周 Chow"
+
+#. Name for HIP 77233
+msgid "Nasak Shamiya I"
+msgstr "Nasak Shamiya I"
+
+#. Name for HIP 78072
+msgid "Nasak Shamiya II"
+msgstr "天市右垣四 郑 Nasak Shamiya II"
+
+#. Name for HIP 76276
+msgid "Nasak Yamani I"
+msgstr "天市右垣六 秦 Nasak Yamani I"
+
+#. Name for HIP 77622
+msgid "Nasak Yamani II"
+msgstr "天市右垣八 巴 Nasak Yamani II"
+
+#. Name for HIP 92037
+msgid "Tweedledee and Tweedledum"
+msgstr "双胞胎星 Tweedledee and Tweedledum"
+
+#. Name for HIP 77450
+msgid "Gudja"
+msgstr "周增八 Gudja"
+
+#. Name for HIP 21421
+msgid "Cor Tauri"
+msgstr "Cor Tauri"
+
+#. Name for HIP 21421
+msgid "Parilicium"
+msgstr "Parilicium"
+
+#. Name for HIP 25428
+msgid "Elnath"
+msgstr "五车五 Elnath"
+
+#. Name for HIP 25428
+msgid "El Nath"
+msgstr "El Nath"
+
+#. Name for HIP 25428
+msgid "Nath"
+msgstr "Nath"
+
+#. Name for HIP 20889
+msgid "Ain"
+msgstr "毕宿一 Ain"
+
+#. Name for HIP 20889
+msgid "Oculus Boreus"
+msgstr "Oculus Boreus"
+
+#. Name for HIP 17702
+msgid "Alcyone"
+msgstr "昴宿六 Alcyone"
+
+#. Name for HIP 17489
+msgid "Celaeno"
+msgstr "昴宿增六 Celaeno"
+
+#. Name for HIP 17499
+msgid "Electra"
+msgstr "昴宿一 Electra"
+
+#. Name for HIP 17531
+msgid "Taygeta"
+msgstr "昴宿二 Taygeta"
+
+#. Name for HIP 17573
+msgid "Maia"
+msgstr "昴宿四 Maia"
+
+#. Name for HIP 17579
+msgid "Asterope"
+msgstr "昴宿三 Asterope"
+
+#. Name for HIP 17579
+msgid "Sterope I"
+msgstr "Sterope I"
+
+#. Name for HIP 17608
+msgid "Merope"
+msgstr "昴宿五 Merope"
+
+#. Name for HIP 17847
+msgid "Atlas"
+msgstr "昴宿七 Atlas"
+
+#. Name for HIP 17851
+msgid "Pleione"
+msgstr "昴宿增十二 Pleione"
+
+#. Name for HIP 20205
+msgid "Prima Hyadum"
+msgstr "Prima Hyadum"
+
+#. Name for HIP 20205
+msgid "Hyadum I"
+msgstr "Hyadum I"
+
+#. Name for HIP 20455
+msgid "Secunda Hyadum"
+msgstr "毕宿三 Secunda Hyadum"
+
+#. Name for HIP 20455
+msgid "Hyadum II"
+msgstr "Hyadum II"
+
+#. Name for HIP 25945
+msgid "The Ruby Star"
+msgstr "红宝石星 The Ruby Star"
+
+#. Name for HIP 17588
+msgid "Sterope II"
+msgstr "Sterope II"
+
+#. Name for HIP 20885
+msgid "Hyadum III"
+msgstr "毕宿六 Hyadum III"
+
+#. Name for HIP 20894
+msgid "Chamukuy"
+msgstr "毕宿增十三 Chamukuy"
+
+#. Name for HIP 20894
+msgid "Hyadum IV"
+msgstr "Hyadum IV"
+
+#. Name for HIP 20635
+msgid "Alkalbain III"
+msgstr "天街增二 Alkalbain III"
+
+#. Name for HIP 20641
+msgid "Alkalbain IV"
+msgstr "天街一 Alkalbain IV"
+
+#. Name for HIP 20711
+msgid "Alkalbain V"
+msgstr "天街增三 Alkalbain V"
+
+#. Name for HIP 20250
+msgid "Alkalbain I"
+msgstr "砺石四 Alkalbain I"
+
+#. Name for HIP 20430
+msgid "Alkalbain II"
+msgstr "砺石三 Alkalbain II"
+
+#. Name for HIP 26451
+msgid "Tianguan"
+msgstr "天关 Tianguan"
+
+#. Name for HIP 8796
+msgid "Mothallah"
+msgstr "娄宿增六 Mothallah"
+
+#. Name for HIP 8796
+msgid "Caput Trianguli"
+msgstr "Caput Trianguli"
+
+#. Name for HIP 8796
+msgid "Methallah"
+msgstr "Methallah"
+
+#. Name for HIP 8796
+msgid "Atria"
+msgstr "三角形三 Atria"
+
+#. Name for HIP 8796
+msgid "Rasalmudallah"
+msgstr "Rasalmudallah"
+
+#. Name for HIP 10064
+msgid "Mizan"
+msgstr "天大将军九 Mizan"
+
+#. Name for HIP 54061
+msgid "Dubhe"
+msgstr "天枢 Dubhe"
+
+#. Name for HIP 54061
+msgid "Dubb"
+msgstr "Dubb"
+
+#. Name for HIP 54061
+msgid "Ak"
+msgstr "Ak"
+
+#. Name for HIP 54061
+msgid "Dubh"
+msgstr "Dubh"
+
+#. Name for HIP 53910
+msgid "Merak"
+msgstr "天璇 Merak"
+
+#. Name for HIP 58001
+msgid "Phecda"
+msgstr "天玑 Phecda"
+
+#. Name for HIP 58001
+msgid "Phekda"
+msgstr "Phekda"
+
+#. Name for HIP 59774
+msgid "Megrez"
+msgstr "天权 Megrez"
+
+#. Name for HIP 59774
+msgid "Kaffa"
+msgstr "Kaffa"
+
+#. Name for HIP 62956
+msgid "Alioth"
+msgstr "玉衡 Alioth"
+
+#. Name for HIP 62956
+msgid "Aliath"
+msgstr "Aliath"
+
+#. Name for HIP 65378
+msgid "Mizar"
+msgstr "开阳 Mizar"
+
+#. Name for HIP 65378
+msgid "Alcor"
+msgstr "辅 Alcor"
+
+#. Name for HIP 67301
+msgid "Alkaid"
+msgstr "摇光 Alkaid"
+
+#. Name for HIP 67301
+msgid "Benetnasch"
+msgstr "Benetnasch"
+
+#. Name for HIP 44127
+msgid "Talitha"
+msgstr "上台一 Talitha"
+
+#. Name for HIP 44127
+msgid "Talita"
+msgstr "Talita"
+
+#. Name for HIP 44127
+msgid "Dnoces"
+msgstr "Dnoces"
+
+#. Name for HIP 50372
+msgid "Tania Borealis"
+msgstr "中台一 Tania Borealis"
+
+#. Name for HIP 50801
+msgid "Tania Australis"
+msgstr "中台二 Tania Australis"
+
+#. Name for HIP 55219
+msgid "Alula Borealis"
+msgstr "下台一 Alula Borealis"
+
+#. Name for HIP 55203
+msgid "Alula Australis"
+msgstr "下台二 Alula Australis"
+
+#. Name for HIP 41704
+msgid "Muscida"
+msgstr "内阶一 Muscida"
+
+#. Name for HIP 57939
+msgid "Groombridge 1830"
+msgstr "葛罗姆布里吉1830 Groombridge 1830"
+
+#. Name for HIP 57939
+msgid "Flying Star"
+msgstr "飞行之星 Flying Star"
+
+#. Name for HIP 57939
+msgid "Runaway Star"
+msgstr "速逃星 Runaway Star"
+
+#. Name for HIP 57939
+msgid "Argelander's Star"
+msgstr "阿格兰德星 Argelander's Star"
+
+#. Name for HIP 57399
+msgid "Taiyangshou"
+msgstr "太阳守 Taiyangshou"
+
+#. Name for HIP 57399
+msgid "Al Kaphrah"
+msgstr "Al Kaphrah"
+
+#. Name for HIP 42080
+msgid "Althiba I"
+msgstr "Althiba I"
+
+#. Name for HIP 46977
+msgid "Althiba VII"
+msgstr "紫微右垣四 少辅 Althiba VII"
+
+#. Name for HIP 45493
+msgid "Alhaud III"
+msgstr "内阶增十 Alhaud II"
+
+#. Name for HIP 44901
+msgid "Alhaud I"
+msgstr "文昌五 Alhaud I"
+
+#. Name for HIP 46733
+msgid "Alhaud IV"
+msgstr "内阶四 Alhaud IV"
+
+#. Name for HIP 46853
+msgid "Alhaud V"
+msgstr "文昌 四 Alhaud V"
+
+#. Name for HIP 44471
+msgid "Alkaphrah"
+msgstr "上台二 Alkaphrah"
+
+#. Name for HIP 44471
+msgid "Kafzatania"
+msgstr "Kafzatania"
+
+#. Name for HIP 44471
+msgid "Al Kaprah"
+msgstr "Al Kaprah"
+
+#. Name for HIP 44471
+msgid "Talitha Australis"
+msgstr "Talitha Australis"
+
+#. Name for HIP 42438
+msgid "Althiba II"
+msgstr "内阶增九 Althiba II"
+
+#. Name for HIP 42527
+msgid "Althiba III"
+msgstr "内阶增七 Althiba III"
+
+#. Name for HIP 42527
+msgid "Museida"
+msgstr "Museida"
+
+#. Name for HIP 44390
+msgid "Althiba IV"
+msgstr "三师一 Althiba IV"
+
+#. Name for HIP 44857
+msgid "Althiba V"
+msgstr "三师三 Althiba V"
+
+#. Name for HIP 45038
+msgid "Althiba VI"
+msgstr "三师增一 Althiba VI"
+
+#. Name for HIP 45075
+msgid "Alhaud II"
+msgstr "内阶增十 Alhaud II"
+
+#. Name for HIP 48319
+msgid "Alhaud VI"
+msgstr "文昌二 Alhaud VI"
+
+#. Name for HIP 48402
+msgid "Alhaud VII"
+msgstr "文昌三 Alhaud VII"
+
+#. Name for HIP 54035
+msgid "Lalande 21185"
+msgstr "拉兰德21185 Lalande 21185"
+
+#. Name for HIP 11767
+msgid "Polaris"
+msgstr "勾陈一  Polaris"
+
+#. Name for HIP 11767
+msgid "Alrucaba"
+msgstr "北极星 Alrucaba"
+
+#. Name for HIP 11767
+msgid "Cinosura"
+msgstr "Cinosura"
+
+#. Name for HIP 11767
+msgid "Cynosura"
+msgstr "Cynosura"
+
+#. Name for HIP 11767
+msgid "Tramontana"
+msgstr "Tramontana"
+
+#. Name for HIP 11767
+msgid "Yilduz"
+msgstr "Yilduz"
+
+#. Name for HIP 11767
+msgid "Mismar"
+msgstr "Mismar"
+
+#. Name for HIP 11767
+msgid "Star of Arcady"
+msgstr "Star of Arcady"
+
+#. Name for HIP 72607
+msgid "Kochab"
+msgstr "北极二 Kochab"
+
+#. Name for HIP 75097
+msgid "Pherkad"
+msgstr "太子Pherkad"
+
+#. Name for HIP 74793
+msgid "Pherkad Minor"
+msgstr "天床增二 Pherkad Minor"
+
+#. Name for HIP 85822
+msgid "Yildun"
+msgstr "勾陈二 Yildun"
+
+#. Name for HIP 85822
+msgid "Vildiur"
+msgstr "Vildiur"
+
+#. Name for HIP 85822
+msgid "Pherkard"
+msgstr "Pherkard"
+
+#. Name for HIP 82080
+msgid "Circitores"
+msgstr "勾陈三 Circitores"
+
+#. Name for HIP 77055
+msgid "Akfa Farkadain"
+msgstr "勾陈四 Akfa Farkadain"
+
+#. Name for HIP 79822
+msgid "Anwa Farkadain"
+msgstr "Anwa Farkadain"
+
+#. Name for HIP 39953
+msgid "Regor"
+msgstr "天社一 Regor"
+
+#. Name for HIP 39953
+msgid "Suhail al Muhlif"
+msgstr "Suhail al Muhlif"
+
+#. Name for HIP 39953
+msgid "Suhail"
+msgstr "天纪 Suhail"
+
+#. Name for HIP 45941
+msgid "Markeb"
+msgstr "天社五 Markeb"
+
+#. Name for HIP 44816
+msgid "Alsuhail"
+msgstr "Alsuhail"
+
+#. Name for HIP 42913
+msgid "Alsephina"
+msgstr "天社三 Alsephina"
+
+#. Name for HIP 65474
+msgid "Azimech"
+msgstr "Azimech"
+
+#. Name for HIP 57757
+msgid "Alaraph"
+msgstr "Alaraph"
+
+#. Name for HIP 57757
+msgid "Zavijava"
+msgstr "太微右垣一 右执法 Zavijava"
+
+#. Name for HIP 57757
+msgid "Minelauva"
+msgstr "Minelauva"
+
+#. Name for HIP 57757
+msgid "Zavijah"
+msgstr "Alaraph"
+
+#. Name for HIP 61941
+msgid "Porrima"
+msgstr "太微左垣二 东上相 Porrima"
+
+#. Name for HIP 61941
+msgid "Antevorta"
+msgstr "Antevorta"
+
+#. Name for HIP 61941
+msgid "Arich"
+msgstr "Arich"
+
+#. Name for HIP 63608
+msgid "Vindemiatrix"
+msgstr "太微左垣四 东次将 Vindemiatrix"
+
+#. Name for HIP 63608
+msgid "Almuredin"
+msgstr "Almuredin"
+
+#. Name for HIP 63608
+msgid "Provindemiator"
+msgstr "Provindemiator"
+
+#. Name for HIP 63608
+msgid "Protrigetrix"
+msgstr "Protrigetrix"
+
+#. Name for HIP 60129
+msgid "Zaniah"
+msgstr "太微左垣一 左执法 Zaniah"
+
+#. Name for HIP 69701
+msgid "Syrma"
+msgstr "亢宿二 Syrma"
+
+#. Name for HIP 66249
+msgid "Heze"
+msgstr "角宿二 Heze"
+
+#. Name for HIP 63090
+msgid "Auva"
+msgstr "Auva"
+
+#. Name for HIP 69974
+msgid "Khambalia"
+msgstr "亢宿四 Khambalia"
+
+#. Name for HIP 69974
+msgid "Kambalia"
+msgstr "Kambalia"
+
+#. Name for HIP 71957
+msgid "Rijl al Awwa"
+msgstr "亢宿增七 Rijl al Awwa"
+
+#. Name for HIP 71957
+msgid "Rigilawwa"
+msgstr "Rigilawwa"
+
+#. Name for HIP 69427
+msgid "Kang"
+msgstr "亢宿一 Kang"
+
+#. Name for HIP 69427
+msgid "Algafar I"
+msgstr "Algafar I"
+
+#. Name for HIP 70755
+msgid "Elgafar"
+msgstr "亢宿三 Elgafar"
+
+#. Name for HIP 70755
+msgid "Algafar II"
+msgstr "Algafar II"
+
+#. Name for HIP 95771
+msgid "Anser"
+msgstr "齐增五 Anser"
