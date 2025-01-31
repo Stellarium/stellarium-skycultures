@@ -1,0 +1,2323 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
+"Language-Team: Lithuanian (https://app.transifex.com/stellarium/teams/80998/"
+"lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < "
+"11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? "
+"1 : n % 1 != 0 ? 2: 3);\n"
+
+#. Sky culture name
+msgid "Chinese Medieval"
+msgstr "Kinų, viduramžiai"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"This sky culture is based on the observation data of Huangyou four years "
+"(1052 AD), and presents the medieval Chinese sky map as faithfully as "
+"possible. This sky culture includes 283 Xingguans (星官, Chinese "
+"Constellations) and 1464 stars (including clusters M7, M44) of the "
+"*Xinyixiangfayao Star Map*. And the determinative star is marked for each "
+"Xingguan that can determine the determinative star. The boundaries of Twenty-"
+"eight Lunar Mansions are based on 1052 AD."
+msgstr ""
+"Ši dangaus kultūra pagrįsta Huangju ketverių metų (1052 m.) stebėjimo "
+"duomenimis ir kuo tiksliau pateikia viduramžių Kinijos dangaus žemėlapį. Į "
+"šią dangaus kultūrą įtraukti 283 Ksinguanai (星官, kinų žvaigždynai) ir 1464 "
+"žvaigždės (įskaitant žvaigždynus M7, M44) iš *Xinyixiangfayao žvaigždžių "
+"žemėlapio*. O lemtingoji žvaigždė pažymėta prie kiekvieno Ksinguano, kuris "
+"gali nustatyti lemtingąją žvaigždę. Dvidešimt aštuonių Mėnulio dvarų ribos "
+"nustatytos 1052 m. po Kr."
+
+#. Sky culture description section in markdown format
+msgid ""
+"### Medieval Xingguans\n"
+"\n"
+"From the Three Kingdoms Period to the Ming Dynasty, covering the whole of "
+"the Middle Ages, China's star map is similar.\n"
+"\n"
+"The Xingguans originated in ancient times. Wuxian (巫咸) of Shang "
+"Dynasty(16th century BC-1046 BC), Gan De (甘德) and Shi Shen (石申) of The "
+"Warring States Period (475–221 BC), created their own Xingguan system "
+"respectively. During the Three Kingdoms period (220–280 AD), Chen Zhuo (陈"
+"卓) summarized the Xingguans system of Gan De, Shi Shen and Wuxian, "
+"including 283 Xingguans and 1464 stars. Since then, Xingguan system has been "
+"basically defined, and after a thousand years, there has not been much "
+"change. Since the 17th century, Western astronomy has had an impact on "
+"Chinese astronomy, and the shape and number of Xingguans have changed "
+"significantly. Only about half of the constellations maintained the medieval "
+"style.\n"
+"\n"
+"Determinative star is an important concept. In the Middle Ages, Chinese "
+"astronomers did not name all stars, and each Xingguans was chosen as a major "
+"star called determinative star. In ancient China, astronomical measurements "
+"measured its coordinate position, and other stars in the Xingguan were "
+"rarely mentioned. However, some important constellations will be selected "
+"more stars for observation and recording. In ancient China, astronomers used "
+"mansion distance degrees (determinative star distance) and polar distance "
+"degrees to record the position of stars. **In ancient China, the "
+"determinative stars of Twenty-eight Lunar Mansions was the benchmark for "
+"determining the longitude of the equatorial coordinate system**.\n"
+"\n"
+"The *Song of the Sky Pacers* (步天歌) is an early Chinese star catalogue in "
+"the form of poem in heptasyllabic verse, enumerating the names of stars.\n"
+"\n"
+"Below is *Xinyixiangfayao Star Map* from Su Song(苏颂, 1020-1101 AD).\n"
+"\n"
+"![](illustrations/xyxfy.png)\n"
+"\n"
+"*Xinyixiangfayao Star Map(1088 AD)*\n"
+"\n"
+"### Restore Sky Map\n"
+"\n"
+"The sky map of the Song dynasty is typical of the Chinese medieval sky map. "
+"In 1052 AD, the Song Dynasty official conducted accurate stellar "
+"measurements, leaving a lot of data.\n"
+"\n"
+"Pan Nai(潘鼐) collated these astronomical observations data and based on the "
+"*Xinyixiangfayao Star Map*, he restored most of the Song Dynasty's Xingguan "
+"in his masterpiece *The History of Stellar Observation in China*, which is "
+"the most important reference book. Qi Rui (齐锐) and Wan Haoyi (万昊宜) also "
+"restored the Xingguans of the Song Dynasty in the book *Roving China "
+"Heavens*, which is also an important reference book.\n"
+"\n"
+"Due to the limitation of observation conditions in Song Dynasty, combined "
+"with instruments, circulated errors and other reasons, different scholars "
+"restored the sky map is somewhat different.\n"
+"\n"
+"Based on these books, Stellarium can almost truly present the Chinese "
+"medieval sky map of Huangyou four years (1052 AD).\n"
+"\n"
+"### Planets\n"
+"\n"
+"Taiyang (太阳), Sun. The name comes from yin and yang, meaning a lot of "
+"yang,\n"
+"\n"
+"Taiyin (太阴), Moon. The name comes from yin and yang, meaning a lot of "
+"Yin,\n"
+"\n"
+"Chen Star (辰星), Mercury. Chen is an angle unit, which refers to about 30 "
+"degrees. Mercury is always within 30 degrees of the sun.\n"
+"\n"
+"Taibai (太白), Venus. Taibai means big and white.\n"
+"\n"
+"Yinghuo (荧惑), Mars. The colors of Mars are like fire, and movement is "
+"confusing.\n"
+"\n"
+"Sui Star (岁星), Jupiter. It means the old star. Jupiter travels around the "
+"celestial sphere for a week every 12 years. The ancients took Jupiter's "
+"position as the standard of the chronology.\n"
+"\n"
+"Zhen Star (填星), Saturn. Zhen, means passing Lunar Mansions. Saturn travels "
+"around the celestial sphere about every 28 years. Saturn will pass through a "
+"Lunar Mansion every year."
+msgstr ""
+"### Viduramžių Xingguanai\n"
+"\n"
+"Nuo Trijų karalysčių laikotarpio iki Minų dinastijos, apimančios visus "
+"viduramžius, Kinijos žvaigždžių žemėlapis yra panašus.\n"
+"\n"
+"Singuanai atsirado senovėje. Šangų dinastijos (XVI a. pr. m. e. - 146 m. pr. "
+"m. e.) Wuxianas (巫咸), Gan De (甘德) ir Shi Shenas (石申) iš Kariaujančių "
+"valstybių laikotarpio (475-221 m. pr. m. e.) sukūrė savo Singuanų sistemą. "
+"Trijų karalysčių laikotarpiu (220-280 m. po Kr.) Chen Zhuo (陈卓) "
+"apibendrino Gan De, Shi Shen ir Wuxian singuanų sistemą, apimančią 283 "
+"singuanus ir 1464 žvaigždes. Nuo to laiko Singuanų sistema buvo iš esmės "
+"apibrėžta, ir po tūkstančio metų daug pokyčių neįvyko. Nuo XVII a. Vakarų "
+"astronomija darė įtaką kinų astronomijai, todėl Singvanų forma ir skaičius "
+"labai pasikeitė. Tik maždaug pusė žvaigždynų išlaikė viduramžių stilių.\n"
+"\n"
+"Nustatančioji žvaigždė yra svarbi sąvoka. Viduramžiais kinų astronomai ne "
+"visas žvaigždes pavadindavo, o kiekviena Ksingvano žvaigždė buvo pasirinkta "
+"kaip pagrindinė žvaigždė, vadinama determinacine žvaigžde. Senovės Kinijoje "
+"astronominiais matavimais buvo matuojama jos koordinatinė padėtis, o kitos "
+"Ksingvano žvaigždės buvo retai minimos. Tačiau kai kuriuose svarbiuose "
+"žvaigždynuose bus atrinkta daugiau žvaigždžių stebėjimams ir registravimui. "
+"Senovės Kinijoje astronomai žvaigždžių padėčiai registruoti naudojo dvaro "
+"atstumo laipsnius („nustatomosios žvaigždės atstumas“) ir poliarinio atstumo "
+"laipsnius. **Senovės Kinijoje dvidešimt aštuonių Mėnulio dvarų nustatymo "
+"žvaigždės buvo etalonas ekvatorinės koordinačių sistemos ilgumai nustatyti."
+"**\n"
+"\n"
+"*Dangiškųjų keliauninkų giesmė* (步天歌) - ankstyvasis kinų žvaigždžių "
+"katalogas, kuriame išvardyti žvaigždžių pavadinimai.\n"
+"\n"
+"Žemiau yra *Xinyixiangfajaus žvaigždžių žemėlapis* iš Su Song (苏颂, "
+"1020-1101 m.).\n"
+"\n"
+"![](illustrations/xyxfy.png)\n"
+"\n"
+"*Xinyixiangfajaus žvaigždžių žemėlapis(1088 m.)*\n"
+"\n"
+"### Atkurti Žvaigždėlapį\n"
+"\n"
+"Songų dinastijos dangaus žemėlapis yra tipiškas Kinijos viduramžių dangaus "
+"žemėlapis. 1052 m. Songų dinastijos pareigūnas atliko tikslius žvaigždžių "
+"matavimus ir paliko daug duomenų.\n"
+"\n"
+"Pan Nai (潘鼐) surinko šiuos astronominių stebėjimų duomenis ir, remdamasis "
+"*Xinyixiangfayao žvaigždžių žemėlapiu*, atkūrė didžiąją dalį Songų "
+"dinastijos Ksingvanų žemėlapių savo šedevre *Kinijos žvaigždžių stebėjimo "
+"istorija*, kuris yra svarbiausias žinynas. Qi Rui (齐锐) ir Wan Haoyi (万昊"
+"宜) taip pat atkūrė Songų dinastijos Ksingvanus knygoje  *Keliaujantys "
+"Kinijos dangūs*, kuri taip pat yra svarbus žinynas.\n"
+"\n"
+"Dėl stebėjimo sąlygų apribojimo Song dynastijos laikotarpiu, kartu su "
+"instrumentais, paskleistomis klaidomis ir kitomis priežastimis, skirtingi "
+"mokslininkai atkūrė dangaus žemėlapį šiek tiek skirtingai.\n"
+"\n"
+"Remiantis šiomis knygomis, \"Stellarium\" gali beveik teisingai pateikti "
+"Kinijos Huangyou viduramžių dangaus žemėlapį ketverių metų (1052 m.).\n"
+"\n"
+"### Planetos\n"
+"\n"
+"Taiyang (太阳), Saulė. Vardas kilęs iš yin ir yang, reiškiantis daug yang,\n"
+"\n"
+"Taiyin (太阴), Mėnulis. Vardas kilęs iš yin ir yang, reiškiantis daug Yin,\n"
+"\n"
+"Chen Star (辰星), Merkurijus. Chen yra kampinio vieneto pavadinimas, kuris "
+"apie 30 laipsnių. Merkurijus visada yra ne toliau kaip 30 laipsnių nuo "
+"saulės.\n"
+"\n"
+"Taibai (太白), Venera. Taibai reiškia didelį ir baltą.\n"
+"\n"
+"Yinghuo (荧惑), Marsas. Marso spalva yra kaip ugnis, o judėjimas yra "
+"painus.\n"
+"\n"
+"Sui Star (岁星), Jupiteris. Tai reiškia seną žvaigždę. Jupiteris keliauja "
+"aplink dangaus sferą savaitę kas 12 metų. Senovėje Jupiterio padėtis buvo "
+"laikoma chronologijos standartu.\n"
+"\n"
+"Zhen Star (填星), Saturnas. Zhen reiškia praeinantį Mėnulio stotelę. "
+"Saturnas keliauja aplink dangaus sferą apie kiekvienus 28 metus. Saturnas "
+"praeis per Mėnulio stotelę kasmet."
+
+#. Sky culture references section in markdown format
+msgid ""
+" - [#1]: Pan Nai. The History of Stellar Observation in China\n"
+" - [#2]: Qi Rui and Wan Haoyi. Roving China Heavens\n"
+" - [#3]: Su Song. *Xinyixiangfayao Star Map*\n"
+" - [#4]: *Records of the Grand Historian*\n"
+" - [#5]: *Book of Sui*\n"
+" - [#6]: *History of Song*\n"
+"\n"
+"### External links\n"
+"\n"
+" - [wikipedia - Su Song](https://en.wikipedia.org/wiki/Su_Song)\n"
+" - [History of Song](http://chinesenotes.com/songshi.html)\n"
+" - [Records of the Grand Historian](http://chinesenotes.com/shiji.html)\n"
+" - [(Chinese) Song of the Sky Pacers](https://www.lcsd.gov.hk/CE/Museum/"
+"Space/archive/Research/Literature/c_research_literature_9.htm)\n"
+" - [wikipedia - Song of the Sky Pacers](https://en.wikipedia.org/wiki/"
+"Song_of_the_Sky_Pacers)\n"
+" - [(Chinese) Chinese Heaven in WWT Community Beijing](http://wwt.china-vo."
+"org/why/chineseheaven.htm)"
+msgstr ""
+" - [#1]: Pan Nai. Žvaigždžių stebėjimo Kinijoje istorija\n"
+" - [#2]: Či Rui ir Van Haojis. Kelionės po Kinijos dangų\n"
+" - [#3]: Su Song. *Xinyixiangfayao žvaigždžių žemėlapis*\n"
+" - [#4]: *Didžiojo istoriko užrašai*\n"
+" - [#5]: *Sui knyga*\n"
+" - [#6]: *Songo istorija*\n"
+"\n"
+"### Išorinės nuorodos\n"
+"\n"
+" - [wikipedia - Su Song](https://en.wikipedia.org/wiki/Su_Song)\n"
+" - [History of Song](http://chinesenotes.com/songshi.html)\n"
+" - [Didžiojo istoriko užrašai](http://chinesenotes.com/shiji.html)\n"
+" - [(Chinese) Song of the Sky Pacers](https://www.lcsd.gov.hk/CE/Museum/"
+"Space/archive/Research/Literature/c_research_literature_9.htm)\n"
+" - [wikipedia - Song of the Sky Pacers](https://en.wikipedia.org/wiki/"
+"Song_of_the_Sky_Pacers)\n"
+" - [(Chinese) Chinese Heaven in WWT Community Beijing](http://wwt.china-vo."
+"org/why/chineseheaven.htm)"
+
+#. Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user *Sun Shuwei* (孙殳玮) . "
+"[sunshuwei.hi@foxmail.com](mailto:sunshuwei.hi@foxmail.com)"
+msgstr ""
+"<p> Šią dangaus kultūrą sukūrė Stellarium naudotojas *Sun Šuvei* (孙殳玮) . "
+"<a href=„mailto:sunshuwei.hi@foxmail.com“>sunshuwei.hi@foxmail.com</a>\n"
+"\n"
+"</p>"
+
+#. Chinese Medieval constellation, native: Lao Ren
+msgid "Old Man"
+msgstr "Senis"
+
+#. Chinese Medieval constellation, native: Gou
+msgid "Dog"
+msgstr "Šuo"
+
+#. Chinese Medieval constellation, native: Yu
+msgid "Fish"
+msgstr "Žuvis"
+
+#. Chinese Medieval constellation, native: Lang
+msgid "Wolf"
+msgstr "Vilkas"
+
+#. Chinese Medieval constellation, native: Bi Xiu
+msgid "Net"
+msgstr "Tinklas"
+
+#. Chinese Medieval constellation, native: Bi Xiu
+msgid "Wall"
+msgstr "Siena"
+
+#. Chinese Medieval constellation, native: Shen Xiu
+msgid "Three Stars"
+msgstr "Trys žvaigždės"
+
+#. Chinese Medieval constellation, native: Di Xiu
+msgid "Root"
+msgstr "Šaknis"
+
+#. Chinese Medieval constellation, native: Dou Xiu
+msgid "Dipper"
+msgstr "Samtis"
+
+#. Chinese Medieval constellation, native: Fang Xiu
+msgid "Room"
+msgstr "Kambarys"
+
+#. Chinese Medieval constellation, native: Gui Xiu
+msgid "Ghosts"
+msgstr "Šmėklos"
+
+#. Chinese Medieval constellation, native: Ji Xiu
+msgid "Winnowing Basket"
+msgstr "Grūdų valytuvas "
+
+#. Chinese Medieval constellation, native: Jiao Xiu
+msgid "Horn"
+msgstr "Ragas"
+
+#. Chinese Medieval constellation, native: Jing Xiu
+msgid "Well"
+msgstr "Šulinys"
+
+#. Chinese Medieval constellation, native: Kang Xiu
+msgid "Neck"
+msgstr "Kaklas"
+
+#. Chinese Medieval constellation, native: Kui Xiu
+msgid "Legs"
+msgstr "Kojos"
+
+#. Chinese Medieval constellation, native: Liu Xiu
+msgid "Willow"
+msgstr "Gluosnis"
+
+#. Chinese Medieval constellation, native: Lou Xiu
+msgid "Bond"
+msgstr "Pančiai"
+
+#. Chinese Medieval constellation, native: Mao Xiu
+msgid "Hairy Head"
+msgstr "Plaukuota galva"
+
+#. Chinese Medieval constellation, native: Niu Xiu
+msgid "Ox"
+msgstr "Jautis"
+
+#. Chinese Medieval constellation, native: Nü Xiu
+msgid "Girl"
+msgstr "Mergina"
+
+#. Chinese Medieval constellation, native: Shi Xiu
+msgid "Encampment"
+msgstr "Stovyklavietė"
+
+#. Chinese Medieval constellation, native: Wei Xiu
+msgid "Rooftop"
+msgstr "Stogo danga"
+
+#. Chinese Medieval constellation, native: Wei Xiu
+msgid "Tail"
+msgstr "Uodega"
+
+#. Chinese Medieval constellation, native: Wei Xiu
+msgid "Stomach"
+msgstr "Pilvas"
+
+#. Chinese Medieval constellation, native: Xin Xiu
+msgid "Heart"
+msgstr "Širdis"
+
+#. Chinese Medieval constellation, native: Xing Xiu
+msgid "Star"
+msgstr "Žvaigždė"
+
+#. Chinese Medieval constellation, native: Xu Xiu
+msgid "Emptiness"
+msgstr "Tuštuma"
+
+#. Chinese Medieval constellation, native: Yi Xiu
+msgid "Wings"
+msgstr "Sparnai"
+
+#. Chinese Medieval constellation, native: Zhang Xiu
+msgid "Extended Net"
+msgstr "Ištemptas tinklas"
+
+#. Chinese Medieval constellation, native: Zhen Xiu
+msgid "Chariot"
+msgstr "Vežimas"
+
+#. Chinese Medieval constellation, native: Zi Xiu
+msgid "Turtle Beak"
+msgstr "Vėžlio snukis"
+
+#. Chinese Medieval constellation, native: Ba Gu
+msgid "Eight Kinds of Crops"
+msgstr "Aštuonios augalų rūšys"
+
+#. Chinese Medieval constellation, native: Ba Kui
+msgid "Net for Catching Birds"
+msgstr "Paukščių gaudymo tinklas"
+
+#. Chinese Medieval constellation, native: Bai Gua
+msgid "Rotten Gourd"
+msgstr "Supuvęs moliūgas"
+
+#. Chinese Medieval constellation, native: Bai Jiu
+msgid "Decayed Mortar"
+msgstr "Sudužusi piesta"
+
+#. Chinese Medieval constellation, native: Bei Dou
+msgid "Northern Dipper"
+msgstr "Šiaurinis samtis"
+
+#. Chinese Medieval constellation, native: Bei He
+msgid "North River"
+msgstr "Šiaurinė upė"
+
+#. Chinese Medieval constellation, native: Bei Ji
+msgid "Northern Pole"
+msgstr "Šiaurės polius"
+
+#. Chinese Medieval constellation, native: Bei Luo Shi Men
+msgid "North Gate of the Military Camp"
+msgstr "Karinės stovyklos Šiauriniai vartai"
+
+#. Chinese Medieval constellation, native: Bie
+msgid "River Turtle"
+msgstr "Upinis vėžlys"
+
+#. Chinese Medieval constellation, native: Bo Du
+msgid "Textile Ruler"
+msgstr "Tekstilės matuoklis"
+
+#. Chinese Medieval constellation, native: Can Qi
+msgid "Banner of Three Stars"
+msgstr "Trijų žvaigždžių vėliava"
+
+#. Chinese Medieval constellation, native: Ce
+msgid "Toilet"
+msgstr "Tualetas"
+
+#. Chinese Medieval constellation, native: Ce
+msgid "Whip"
+msgstr "Botagas"
+
+#. Chinese Medieval constellation, native: Chang Chen
+msgid "Royal Guards"
+msgstr "Karališkieji sargybiniai"
+
+#. Chinese Medieval constellation, native: Che Fu
+msgid "Big Yard for Chariots"
+msgstr "Didelis kiemas kovos vežimams"
+
+#. Chinese Medieval constellation, native: Che Qi
+msgid "Chariots and Cavalry"
+msgstr "Kovos vežimai ir raiteliai"
+
+#. Chinese Medieval constellation, native: Che Si
+msgid "Commodity Market"
+msgstr "Prekių turgus"
+
+#. Chinese Medieval constellation, native: Chu Hao
+msgid "Hay"
+msgstr "Šienas"
+
+#. Chinese Medieval constellation, native: Chu(Ji Xiu)
+msgid "Pestle (In Winnowing Basket Mansion)"
+msgstr "Grūstuvas (Grūdų valytuvo stotelėje)"
+
+#. Chinese Medieval constellation, native: Chu(Wei Xiu)
+msgid "Pestle (In Rooftop Mansion)"
+msgstr "Grūstuvas (Stogo dangos stotelėje)"
+
+#. Chinese Medieval constellation, native: Chang Sha
+msgid "Changsha (Vassal of Chariot)"
+msgstr "Changsha (Vežimo pavaldinys)"
+
+#. Chinese Medieval constellation, native: Chuan She
+msgid "Guest House"
+msgstr "Svečių namai"
+
+#. Chinese Medieval constellation, native: Cong Guan(Fang Xiu)
+msgid "Retinue (In Room Mansion)"
+msgstr "Svita (Kambario stotelėje)"
+
+#. Chinese Medieval constellation, native: Cong Guan(Tai Wei Yuan)
+msgid "Retinue (In Supreme Palace Enclosure)"
+msgstr "Svita (Aukščiausiųjų rūmų kieme)"
+
+#. Chinese Medieval constellation, native: Da Jiao
+msgid "Great Horn"
+msgstr "Didysis ragas"
+
+#. Chinese Medieval constellation, native: Da Li
+msgid "Chief Judge"
+msgstr "Vyriausiasis teisėjas"
+
+#. Chinese Medieval constellation, native: Da Ling
+msgid "Mausoleum"
+msgstr "Mauzoliejus"
+
+#. Chinese Medieval constellation, native: Tian Miao
+msgid "Celestial Temple"
+msgstr "Dangaus šventykla"
+
+#. Chinese Medieval constellation, native: Di Xi
+msgid "Mattress of the Emperor"
+msgstr "Imperatoriaus čiužinys"
+
+#. Chinese Medieval constellation, native: Di Zuo
+msgid "Emperor's Seat"
+msgstr "Imperatoriaus sostas"
+
+#. Chinese Medieval constellation, native: Dong Xian
+msgid "Eastern Door"
+msgstr "Rytinės durys"
+
+#. Chinese Medieval constellation, native: Dou
+msgid "Dipper for Liquids"
+msgstr "Samtis skysčiams"
+
+#. Chinese Medieval constellation, native: Dun Wan
+msgid "Trials"
+msgstr "Bandymai"
+
+#. Chinese Medieval constellation, native: Fa
+msgid "Send Armed Forces To Suppress (Vassal of Three Stars)"
+msgstr ""
+"Siųskite ginkluotąsias pajėgas, kad slopintų (Trijų žvaigždžių vasalą)."
+
+#. Chinese Medieval constellation, native: Fa
+msgid "Punishment"
+msgstr "Bausmė"
+
+#. Chinese Medieval constellation, native: Fen Mu
+msgid "Tomb (Vassal of Rooftop)"
+msgstr "Kapas (Stogviršio pavaldinys)"
+
+#. Chinese Medieval constellation, native: Fu Yue
+msgid "Axe"
+msgstr "Kirvis"
+
+#. Chinese Medieval constellation, native: Fu Zhi
+msgid "Sickle"
+msgstr "Pjautuvas"
+
+#. Chinese Medieval constellation, native: Fu Kuang
+msgid "Basket for Mulberry Leaves"
+msgstr "Krepšys šilkmedžio lapams"
+
+#. Chinese Medieval constellation, native: Fu Lu
+msgid "Auxiliary Road"
+msgstr "Pagalbinis kelias"
+
+#. Chinese Medieval constellation, native: Fu Yue
+msgid "Fu Yue"
+msgstr "Fu Jue"
+
+#. Chinese Medieval constellation, native: Gai Wu
+msgid "Roofing"
+msgstr "Stogų dengimas"
+
+#. Chinese Medieval constellation, native: Gang
+msgid "Canopy Support (Vassal of Canopy of the Emperor)"
+msgstr "Baldakimo atrama (Imperatoriaus baldakimo vasalas)"
+
+#. Chinese Medieval constellation, native: Ge Dao
+msgid "Flying Corridor"
+msgstr "Skrydžio koridorius"
+
+#. Chinese Medieval constellation, native: Geng He
+msgid "Celestial Lance"
+msgstr "Dangaus riterių ietis"
+
+#. Chinese Medieval constellation, native: Gou Chen
+msgid "Curved Array"
+msgstr "Išlenkta rikiuotė"
+
+#. Chinese Medieval constellation, native: Gou Qian
+msgid "Lock (Vassal of Room)"
+msgstr "Spyna (Kambario vasalas)"
+
+#. Chinese Medieval constellation, native: Gou Guo
+msgid "Territory of Dog"
+msgstr "Šuns teritorija"
+
+#. Chinese Medieval constellation, native: Guan Suo
+msgid "Coiled Thong"
+msgstr "Susuktas diržas"
+
+#. Chinese Medieval constellation, native: Guan
+msgid "Beacon Fire"
+msgstr "Švyturio liepsna"
+
+#. Chinese Medieval constellation, native: Gui
+msgid "Tortoise"
+msgstr "Vėžlys"
+
+#. Chinese Medieval constellation, native: Jun Men
+msgid "Military Gate"
+msgstr "Kariniai vartai"
+
+#. Chinese Medieval constellation, native: He Gu
+msgid "Drum at the River"
+msgstr "Būgnas prie upės "
+
+#. Chinese Medieval constellation, native: Heng
+msgid "Railings"
+msgstr "Turėklai"
+
+#. Chinese Medieval constellation, native: Hou
+msgid "Astrologer"
+msgstr "Astrologas"
+
+#. Chinese Medieval constellation, native: Hu Shi
+msgid "Bow and Arrow"
+msgstr "Lankas ir strėlė"
+
+#. Chinese Medieval constellation, native: Hu
+msgid "Dipper for Solids"
+msgstr "Samtis birioms medžiagoms"
+
+#. Chinese Medieval constellation, native: Hu Ben
+msgid "Emperor's Bodyguard"
+msgstr "Imperatoriaus asmens sargybinis"
+
+#. Chinese Medieval constellation, native: Hu Gua
+msgid "Good Gourd"
+msgstr "Šviežias moliūgas"
+
+#. Chinese Medieval constellation, native: Hua Gai
+msgid "Canopy of the Emperor"
+msgstr "Imperatoriaus baldakimas"
+
+#. Chinese Medieval constellation, native: Huan Zhe
+msgid "Eunuch Official"
+msgstr "Eunucho pareigūnas"
+
+#. Chinese Medieval constellation, native: Ji Shi(Wei Xiu)
+msgid "Heap of Corpses"
+msgstr "Lavonų krūva"
+
+#. Chinese Medieval constellation, native: Ji Shui(Wei Xiu)
+msgid "Stored water"
+msgstr "Saugomas vanduo"
+
+#. Chinese Medieval constellation, native: Ji Xin
+msgid "Pile of Firewood"
+msgstr "Malkų krūva"
+
+#. Chinese Medieval constellation, native: Ji Zu
+msgid "Group of Soldiers"
+msgstr "Kareivių grupė"
+
+#. Chinese Medieval constellation, native: Jian
+msgid "Establishment"
+msgstr "Įstaiga"
+
+#. Chinese Medieval constellation, native: Jian Tai
+msgid "Clepsydra Terrace"
+msgstr "Terasa su vandens laikrodžiu"
+
+#. Chinese Medieval constellation, native: Jian Bi
+msgid "Door Bolt"
+msgstr "Durų varžtas"
+
+#. Chinese Medieval constellation, native: Jin Xian
+msgid "Recommending Virtuous Men"
+msgstr "Rekomenduojantys dorybingi vyrai"
+
+#. Chinese Medieval constellation, native: Ji Shui(Jin Xiu)
+msgid "Accumulated Water"
+msgstr "Kaupiamas vanduo"
+
+#. Chinese Medieval constellation, native: Jiu Kan
+msgid "Nine Water Wells"
+msgstr "Devyni Vandens Šuliniai"
+
+#. Chinese Medieval constellation, native: Jiu Qing
+msgid "Nine Senior Officers"
+msgstr "Devyni vyresnieji pareigūnai"
+
+#. Chinese Medieval constellation, native: Jiu Liu
+msgid "Imperial Military Flag"
+msgstr "Imperinės kariuomenės vėliava"
+
+#. Chinese Medieval constellation, native: Jiu Zhou Shu Kou
+msgid "Interpreters of Nine Dialects"
+msgstr "Devynių dialektų vertėjai"
+
+#. Chinese Medieval constellation, native: Jiu Qi
+msgid "Banner of Wine Shop"
+msgstr "Vyno parduotuvės iškaba"
+
+#. Chinese Medieval constellation, native: Jiu
+msgid "Mortar"
+msgstr "Piesta"
+
+#. Chinese Medieval constellation, native: Juan She
+msgid "Rolled Tongue"
+msgstr "Susuktas liežuvis"
+
+#. Chinese Medieval constellation, native: Jun Jing
+msgid "Military Well"
+msgstr "Karinis šulinys"
+
+#. Chinese Medieval constellation, native: Jun Nan Men
+msgid "Southern Military Gate"
+msgstr "Pietiniai kariniai vartai"
+
+#. Chinese Medieval constellation, native: Jun Shi
+msgid "Market for Soldiers"
+msgstr "Kareivių Turgus"
+
+#. Chinese Medieval constellation, native: Kang
+msgid "Chaff"
+msgstr "Pelai"
+
+#. Chinese Medieval constellation, native: Kang Chi
+msgid "Boats and Lake"
+msgstr "Valtys ir ežeras"
+
+#. Chinese Medieval constellation, native: Ku
+msgid "Crying"
+msgstr "Verkimas"
+
+#. Chinese Medieval constellation, native: Ku Lou
+msgid "Arsenal"
+msgstr "Ginklų sandėlis"
+
+#. Chinese Medieval constellation, native: Lang Jiang
+msgid "Captain of the Bodyguards"
+msgstr "Asmens sargybinių kapitonas"
+
+#. Chinese Medieval constellation, native: Lang Wei
+msgid "Officers of the Imperial Guard"
+msgstr "Imperinių sargybinių karininkai"
+
+#. Chinese Medieval constellation, native: Lei Dian
+msgid "Thunder and Lightning"
+msgstr "Griaustinis ir žaibas"
+
+#. Chinese Medieval constellation, native: Lei Bi Zhen
+msgid "Line of Ramparts"
+msgstr "Pylimų linija"
+
+#. Chinese Medieval constellation, native: Li Gong
+msgid "Resting Palace (Vassal of Encampment)"
+msgstr "Poilsio rūmai (Stovyklavietės vasalas)"
+
+#. Chinese Medieval constellation, native: Li Yu
+msgid "Jade Ornament on Ladies' Wear"
+msgstr "Nefrito papuošalai ponios drabužiuose"
+
+#. Chinese Medieval constellation, native: Li Zhu
+msgid "Pearls on Ladies' Wear"
+msgstr "Perlai moters rūbuose"
+
+#. Chinese Medieval constellation, native: Li Shi
+msgid "Whetstone"
+msgstr "Galąstuvas"
+
+#. Chinese Medieval constellation, native: Lie Si
+msgid "Jewel Market"
+msgstr "Brangakmenių turgus"
+
+#. Chinese Medieval constellation, native: Ling Tai
+msgid "Astronomical Observatory"
+msgstr "Astronominė observatorija"
+
+#. Chinese Medieval constellation, native: Liu Jia
+msgid "Six Jia"
+msgstr "Šeši Jia"
+
+#. Chinese Medieval constellation, native: Luo Yan
+msgid "Network of Dykes"
+msgstr "Kanalų tinklas"
+
+#. Chinese Medieval constellation, native: Ming Tang
+msgid "The Hall of Glory"
+msgstr "Garbės salė"
+
+#. Chinese Medieval constellation, native: Nan He
+msgid "South River"
+msgstr "Pietinė upė"
+
+#. Chinese Medieval constellation, native: Dong Ou
+msgid "Dongou"
+msgstr "Dongou"
+
+#. Chinese Medieval constellation, native: Nan Men
+msgid "Southern Gate"
+msgstr "Pietiniai vartai"
+
+#. Chinese Medieval constellation, native: Nei Chu
+msgid "Inner Kitchen"
+msgstr "Vidinė virtuvė"
+
+#. Chinese Medieval constellation, native: Nei Jie
+msgid "Inner Steps"
+msgstr "Vidiniai laiptai"
+
+#. Chinese Medieval constellation, native: Nei Ping
+msgid "High Judge"
+msgstr "Didysis Teisėjas"
+
+#. Chinese Medieval constellation, native: Nei Ping
+msgid "Inner Screen"
+msgstr "Vidinė širma"
+
+#. Chinese Medieval constellation, native: Nian Dao
+msgid "Imperial Passageway"
+msgstr "Imperatoriškasis pasažas"
+
+#. Chinese Medieval constellation, native: Nong Zhang Ren
+msgid "Peasant"
+msgstr "Valstietis"
+
+#. Chinese Medieval constellation, native: Nü Chuang
+msgid "Woman's Bed"
+msgstr "Moters lova"
+
+#. Chinese Medieval constellation, native: Nü Shi
+msgid "Female Protocol"
+msgstr "Sekretorė"
+
+#. Chinese Medieval constellation, native: Pi Li
+msgid "Thunderbolt"
+msgstr "Žaibas"
+
+#. Chinese Medieval constellation, native: Ping
+msgid "Judging"
+msgstr "Teisimas"
+
+#. Chinese Medieval constellation, native: Ping Dao
+msgid "Flat Road"
+msgstr "Lygus kelias"
+
+#. Chinese Medieval constellation, native: Ping
+msgid "Screen"
+msgstr "Širma"
+
+#. Chinese Medieval constellation, native: Qi Gong
+msgid "Seven Excellencies"
+msgstr "Septynios puikybės"
+
+#. Chinese Medieval constellation, native: Qi Fu
+msgid "House for Musical Instruments"
+msgstr "Namai muzikos instrumentams"
+
+#. Chinese Medieval constellation, native: Qi Guan
+msgid "Imperial Guards"
+msgstr "Imperatoriškieji sargybiniai"
+
+#. Chinese Medieval constellation, native: Qi Zhen Jiang Jun
+msgid "Chariots and Cavalry General"
+msgstr "Kovos vežimų ir kavalerijos generolas"
+
+#. Chinese Medieval constellation, native: Qi
+msgid "Weeping"
+msgstr "Raudos"
+
+#. Chinese Medieval constellation, native: Tian Ji
+msgid "Celestial Cereals"
+msgstr "Dangaus grūdai"
+
+#. Chinese Medieval constellation, native: Qing Qiu
+msgid "Green Hill"
+msgstr "Žalia kalva"
+
+#. Chinese Medieval constellation, native: Que Qiu
+msgid "Palace Gate"
+msgstr "Rūmų vartai"
+
+#. Chinese Medieval constellation, native: Ren
+msgid "Humans"
+msgstr "Žmonės"
+
+#. Chinese Medieval constellation, native: Ri
+msgid "Solar Star"
+msgstr "Saulės žvaigždė"
+
+#. Chinese Medieval constellation, native: San Gong(Tai Wei Yuan)
+msgid "Three Excellencies (In Supreme Palace Enclosure)"
+msgstr "Trys puikybės (Aukščiausiųjų rūmų kieme)"
+
+#. Chinese Medieval constellation, native: San gong(Zi Wei Yuan)
+msgid "Three Excellencies (In Purple Forbidden Enclosure)"
+msgstr "Tris puikybės (Purpurinėje Draudžiamoje Teritorijoje)"
+
+#. Chinese Medieval constellation, native: San Shi
+msgid "Three Top Instructors"
+msgstr "Tris geriausi instruktoriai"
+
+#. Chinese Medieval constellation, native: Shang Shu
+msgid "Royal Secretary"
+msgstr "Karališkasis sekretorius"
+
+#. Chinese Medieval constellation, native: Shao Wei
+msgid "Junior Officers"
+msgstr "Jaunesnieji karininkai"
+
+#. Chinese Medieval constellation, native: Shen Gong
+msgid "Changing Room (Vassal of Tail)"
+msgstr "Persirengimo kambarys (Uodegos pavaldinys)"
+
+#. Chinese Medieval constellation, native: Shi
+msgid "Excrement"
+msgstr "Ekskrementai"
+
+#. Chinese Medieval constellation, native: Shi Lou
+msgid "Municipal Office"
+msgstr "Miesto Taryba"
+
+#. Chinese Medieval constellation, native: Shi
+msgid "Eunuch"
+msgstr "Eunuchas"
+
+#. Chinese Medieval constellation, native: Shui Fu
+msgid "Official for Irrigation"
+msgstr "Atsakingas už laistymą"
+
+#. Chinese Medieval constellation, native: Shui Wei
+msgid "Water Level"
+msgstr "Vandens lygis"
+
+#. Chinese Medieval constellation, native: Si Fei
+msgid "Deified Judge of Right and Wrong"
+msgstr "Dievinamas Teisėjas Tiesos ir Neteisybės"
+
+#. Chinese Medieval constellation, native: Si Guai
+msgid "Deity in Charge of Monsters"
+msgstr "Dievybė, atsakinga už monstrus"
+
+#. Chinese Medieval constellation, native: Si Lu
+msgid "Deified Judge of Rank"
+msgstr "Dievinamas rango teisėjas "
+
+#. Chinese Medieval constellation, native: Si Ming
+msgid "Deified Judge of Life"
+msgstr "Dievinamas gyvenimo teisėjas"
+
+#. Chinese Medieval constellation, native: Si wei
+msgid "Deified Judge of Disaster and Good Fortune"
+msgstr "Dievinamas nelaimės ir sėkmės teisėjas"
+
+#. Chinese Medieval constellation, native: Si Du
+msgid "Four Channels"
+msgstr "Keturi kanalai"
+
+#. Chinese Medieval constellation, native: Si Fu
+msgid "Four Advisors"
+msgstr "Keturi patarėjai"
+
+#. Chinese Medieval constellation, native: Sun
+msgid "Grandson"
+msgstr "Anūkas"
+
+#. Chinese Medieval constellation, native: Tai Yang Shou
+msgid "Guard of the Sun"
+msgstr "Saulės sargybinis"
+
+#. Chinese Medieval constellation, native: Tai Yi
+msgid "First Great One"
+msgstr "Pirmasis Didysis"
+
+#. Chinese Medieval constellation, native: Tai Zi
+msgid "Crown Prince"
+msgstr "Sosto įpėdinis"
+
+#. Chinese Medieval constellation, native: Tai Zun
+msgid "Royals"
+msgstr "Karališkosios šeimos nariai"
+
+#. Chinese Medieval constellation, native: Teng She
+msgid "Flying Serpent"
+msgstr "Skraidanti gyvatė"
+
+#. Chinese Medieval constellation, native: Tian E
+msgid "Celestial Concave"
+msgstr "Dangaus gaubtas"
+
+#. Chinese Medieval constellation, native: Tian Bang
+msgid "Celestial Flail"
+msgstr "Dangaus spragilas"
+
+#. Chinese Medieval constellation, native: Tian Bian
+msgid "Market Officer"
+msgstr "Turgaus valdininkas"
+
+#. Chinese Medieval constellation, native: Tian Cang
+msgid "Square Celestial Granary"
+msgstr "Kvadratinė dangaus klėtis"
+
+#. Chinese Medieval constellation, native: Tian Chan
+msgid "Celestial Slander"
+msgstr "Dangaus teismo plaktukas"
+
+#. Chinese Medieval constellation, native: Tian Chu
+msgid "Celestial Kitchen"
+msgstr "Dangaus virtuvė"
+
+#. Chinese Medieval constellation, native: Tian Chuan
+msgid "Celestial Boat"
+msgstr "Dangaus valtis"
+
+#. Chinese Medieval constellation, native: Tian Chuang
+msgid "Celestial Bed"
+msgstr "Dangaus lova"
+
+#. Chinese Medieval constellation, native: Tian Da Jiang Jun
+msgid "Great General of Heaven"
+msgstr "Didysis rojaus generolas"
+
+#. Chinese Medieval constellation, native: Tian Fu
+msgid "Celestial Drumstick"
+msgstr "Dangaus būgno lazdelė"
+
+#. Chinese Medieval constellation, native: Tian Fu
+msgid "Celestial Spokes"
+msgstr "Dangaus stipinai"
+
+#. Chinese Medieval constellation, native: Tian Gang
+msgid "Materials for Making Tents"
+msgstr "Medžiagos palapinėms gaminti"
+
+#. Chinese Medieval constellation, native: Tian Gao
+msgid "Celestial High Terrace"
+msgstr "Dangaus aukšta terasa"
+
+#. Chinese Medieval constellation, native: Tian Gou
+msgid "Celestial Hook"
+msgstr "Dangaus kablys"
+
+#. Chinese Medieval constellation, native: Tian Gou
+msgid "Celestial Dog"
+msgstr "Dangaus šuo"
+
+#. Chinese Medieval constellation, native: Tian Guan
+msgid "Celestial Pass"
+msgstr "Dangiškoji perėja pridėta"
+
+#. Chinese Medieval constellation, native: Tian Huang Da Di
+msgid "Great Emperor of Heaven"
+msgstr "Didysis rojaus imperatorius"
+
+#. Chinese Medieval constellation, native: Tian Huang
+msgid "Celestial Pier"
+msgstr "Dangaus molas"
+
+#. Chinese Medieval constellation, native: Tian Hun
+msgid "Celestial Pigsty"
+msgstr "Dangaus kiaulidė"
+
+#. Chinese Medieval constellation, native: Tian Ji
+msgid "Celestial Cock"
+msgstr "Dangaus gaidys"
+
+#. Chinese Medieval constellation, native: Tian Ji
+msgid "Judge for Estimating the Age of Animals"
+msgstr "Teisėjas, skirtas gyvūnų amžiui įvertinti"
+
+#. Chinese Medieval constellation, native: Tian Ji
+msgid "Celestial Discipline"
+msgstr "Dangaus disciplina"
+
+#. Chinese Medieval constellation, native: Tian Jiang
+msgid "Celestial River"
+msgstr "Dangaus upė"
+
+#. Chinese Medieval constellation, native: Tian Jie
+msgid "Celestial Street"
+msgstr "Dangaus gatvė"
+
+#. Chinese Medieval constellation, native: Tian Jie
+msgid "Celestial Tally"
+msgstr "Dangaus sąskaita"
+
+#. Chinese Medieval constellation, native: Tian Jin
+msgid "Celestial Ford"
+msgstr "Dangaus brasta"
+
+#. Chinese Medieval constellation, native: Tian Jiu
+msgid "Celestial Stable"
+msgstr "Dangaus arklidė"
+
+#. Chinese Medieval constellation, native: Tian Lao
+msgid "Celestial Prison"
+msgstr "Dangaus kalėjimas"
+
+#. Chinese Medieval constellation, native: Tian Lei Cheng
+msgid "Celestial Ramparts"
+msgstr "Dangaus pylimai"
+
+#. Chinese Medieval constellation, native: Tian Li
+msgid "Judge for Nobility"
+msgstr "Teisėjas Kilmingumui"
+
+#. Chinese Medieval constellation, native: Tian Lin
+msgid "Celestial Foodstuff"
+msgstr "Dangaus maisto produktai"
+
+#. Chinese Medieval constellation, native: Tian Men
+msgid "Celestial Gate"
+msgstr "Dangaus vartai"
+
+#. Chinese Medieval constellation, native: Tian Qian
+msgid "Celestial Money"
+msgstr "Dangaus pinigai"
+
+#. Chinese Medieval constellation, native: Tian Qiang
+msgid "Celestial Spear"
+msgstr "Dangaus ietis"
+
+#. Chinese Medieval constellation, native: Tian Qun
+msgid "Circular Celestial Granary"
+msgstr "Apskritasis dangaus svirnas"
+
+#. Chinese Medieval constellation, native: Tian Ru
+msgid "Celestial Milk"
+msgstr "Dangaus pienas"
+
+#. Chinese Medieval constellation, native: Tian She
+msgid "Celestial Earth God's Temple"
+msgstr "Dangiškoji Žemės Dievo šventykla"
+
+#. Chinese Medieval constellation, native: Tian Tian(Jiao Xiu)
+msgid "Celestial Farmland (In Horn Mansion)"
+msgstr "Dangaus Ferma (Rago stotelėje)"
+
+#. Chinese Medieval constellation, native: Tian Tian(Niu Xiu)
+msgid "Celestial Farmland (In Ox Mansion)"
+msgstr "Dangaus Ferma (Jaučio stotelėje)"
+
+#. Chinese Medieval constellation, native: Tian Xiang
+msgid "Celestial Premier"
+msgstr "Dangaus Premjeras"
+
+#. Chinese Medieval constellation, native: Tian Yi
+msgid "Celestial Great One"
+msgstr "Dangaus Didysis"
+
+#. Chinese Medieval constellation, native: Tian Yin
+msgid "Celestial Yin Force"
+msgstr "Dangaus IN jėga"
+
+#. Chinese Medieval constellation, native: Tian Yu
+msgid "Ricks of Grain"
+msgstr "Javų gubos"
+
+#. Chinese Medieval constellation, native: Tian Yuan
+msgid "Celestial Spring"
+msgstr "Dangaus pavasaris"
+
+#. Chinese Medieval constellation, native: Tian Yuan
+msgid "Celestial Orchard"
+msgstr "Dangaus sodas"
+
+#. Chinese Medieval constellation, native: Tian Yuan
+msgid "Celestial Meadows"
+msgstr "Dangaus pievos"
+
+#. Chinese Medieval constellation, native: Tian Yue
+msgid "Celestial Keyhole"
+msgstr "Dangaus rakto skylutė"
+
+#. Chinese Medieval constellation, native: Tian Zhu
+msgid "Celestial Pillar"
+msgstr "Dangaus stulpas"
+
+#. Chinese Medieval constellation, native: Tian Zun
+msgid "Celestial Wine Cup"
+msgstr "Dangaus vyno taurė"
+
+#. Chinese Medieval constellation, native: Tu Si
+msgid "Butcher's Shops"
+msgstr "Mėsos parduotuvės"
+
+#. Chinese Medieval constellation, native: Tu Gong
+msgid "Official for Earthworks and Buildings"
+msgstr "Valdininkas žemės darbų ir pastatų"
+
+#. Chinese Medieval constellation, native: Tu Gong Li
+msgid "Official for Materials Supply"
+msgstr "Medžiagų tiekimo pareigūnas"
+
+#. Chinese Medieval constellation, native: Wai Chu
+msgid "Outer Kitchen"
+msgstr "Išorinė virtuvė"
+
+#. Chinese Medieval constellation, native: Wai Ping
+msgid "Outer Fence"
+msgstr "Išorinė tvora"
+
+#. Chinese Medieval constellation, native: Wang Liang
+msgid "Wang Liang"
+msgstr "Wang Liang"
+
+#. Chinese Medieval constellation, native: Tu Si Kong(Kui Xiu)
+msgid "Master of Constructions (In Legs Mansion)"
+msgstr "Statybos Meistras(Kojų stotelėje)"
+
+#. Chinese Medieval constellation, native: Wen Chang
+msgid "Administrative Center"
+msgstr "Administracinis centras"
+
+#. Chinese Medieval constellation, native: Wu Che
+msgid "Five Chariots"
+msgstr "Penki vežimai"
+
+#. Chinese Medieval constellation, native: Wu Di Nei Zuo
+msgid "Interior Seats of the Five Emperors"
+msgstr "Vidiniai penkių imperatorių sostai"
+
+#. Chinese Medieval constellation, native: Wu Di Zuo
+msgid "Seats of the Five Emperors"
+msgstr "Penkių imperatorių sostai"
+
+#. Chinese Medieval constellation, native: Wu Zhu Hou(JingXiu)
+msgid "Five Feudal Kings"
+msgstr "Penki karaliai feodalai"
+
+#. Chinese Medieval constellation, native: Wu Zhu Hou(Tai Wei Yuan)
+msgid "Five Lords"
+msgstr "Penki valdovai"
+
+#. Chinese Medieval constellation, native: Xi Xian
+msgid "Western Door"
+msgstr "Vakarinės durys"
+
+#. Chinese Medieval constellation, native: Xi Zhong
+msgid "Xi Zhong"
+msgstr "Xi Zhong"
+
+#. Chinese Medieval constellation, native: Xian Chi
+msgid "Pool of Harmony"
+msgstr "Harmonijos baseinas"
+
+#. Chinese Medieval constellation, native: Xiang
+msgid "Prime Minister"
+msgstr "Ministras pirmininkas"
+
+#. Chinese Medieval constellation, native: Xing Chen
+msgid "Officer of Honour"
+msgstr "Garbės pareigūnas"
+
+#. Chinese Medieval constellation, native: Xu Liang
+msgid "Temple"
+msgstr "Šventykla"
+
+#. Chinese Medieval constellation, native: Xuan Yuan
+msgid "Xuanyuan"
+msgstr "Xuanyuan"
+
+#. Chinese Medieval constellation, native: Xuan Ge
+msgid "Sombre Lance"
+msgstr "Niūri ietis"
+
+#. Chinese Medieval constellation, native: Yue
+msgid "Battle Axe (Vassal of Well)"
+msgstr "Kovinis kirvis (Šulinio vasalo)"
+
+#. Chinese Medieval constellation, native: Yang Men
+msgid "Gate of Yang"
+msgstr "Jang vartai"
+
+#. Chinese Medieval constellation, native: Ye Ji
+msgid "Wild Cockerel"
+msgstr "Laukinis gaidys"
+
+#. Chinese Medieval constellation, native: Ye Zhe
+msgid "Usher to the Court"
+msgstr "Teismo posėdžių sekretorius"
+
+#. Chinese Medieval constellation, native: Yin De
+msgid "Hidden Virtue"
+msgstr "Paslėpta dorybė"
+
+#. Chinese Medieval constellation, native: You Geng
+msgid "Official in Charge of Pasturing"
+msgstr "Už ganyklą atsakingas pareigūnas "
+
+#. Chinese Medieval constellation, native: You Qi
+msgid "Right Flag"
+msgstr "Dešinė vėliava"
+
+#. Chinese Medieval constellation, native: You She Ti
+msgid "Right Conductor"
+msgstr "Dešinysis vadovas"
+
+#. Chinese Medieval constellation, native: Yu Lin Jun
+msgid "Palace Guard"
+msgstr "Rūmų sargybinis"
+
+#. Chinese Medieval constellation, native: Yu Jing
+msgid "Jade Well"
+msgstr "Žalsvas šulinys"
+
+#. Chinese Medieval constellation, native: Yu Nü
+msgid "Maids-in-waiting"
+msgstr "Budinčios tarnaitės"
+
+#. Chinese Medieval constellation, native: Yue
+msgid "Lunar Star"
+msgstr "Mėnulio žvaigždė"
+
+#. Chinese Medieval constellation, native: Fu Er
+msgid "Whisper (Vassal of Net)"
+msgstr "Šnabždesys (tinklo vasalas)"
+
+#. Chinese Medieval constellation, native: Yun Yu
+msgid "Cloud and Rain"
+msgstr "Debesys ir lietus"
+
+#. Chinese Medieval constellation, native: Zao Fu
+msgid "Zaofu"
+msgstr "Zaofu"
+
+#. Chinese Medieval constellation, native: Chang Yuan
+msgid "Long Wall"
+msgstr "Ilga siena"
+
+#. Chinese Medieval constellation, native: Zhang Ren
+msgid "Grandfather"
+msgstr "Senelis"
+
+#. Chinese Medieval constellation, native: Zhao Yao
+msgid "Twinkling Indicator"
+msgstr "Mirksintis indikatorius"
+
+#. Chinese Medieval constellation, native: Fu
+msgid "Assistant (Vassal of Northern Dipper)"
+msgstr "Asistentas (Šiaurinio samčio vasalas)"
+
+#. Chinese Medieval constellation, native: Zhe Wei
+msgid "Executions"
+msgstr "Egzekucijos"
+
+#. Chinese Medieval constellation, native: Zhen Che
+msgid "Battle Chariots"
+msgstr "Kovos vežimai"
+
+#. Chinese Medieval constellation, native: You Xia
+msgid "Right linchpin (Vassal of Chariot)"
+msgstr "Dešinysis fiksatorius (Vežimo vasalas)"
+
+#. Chinese Medieval constellation, native: Zhi Nü
+msgid "Weaving Girl"
+msgstr "Audžianti mergina"
+
+#. Chinese Medieval constellation, native: Zuo Xia
+msgid "Left linchpin (Vassal of Chariot)"
+msgstr "Kairysis fiksatorius (Vežimo vasalas)"
+
+#. Chinese Medieval constellation, native: Zhou Ding
+msgid "Tripod of the Zhou"
+msgstr "Žū trikojis"
+
+#. Chinese Medieval constellation, native: Zhu Wang
+msgid "Feudal Kings"
+msgstr "Feodaliniai karaliai"
+
+#. Chinese Medieval constellation, native: Zhu(Bi Xiu)
+msgid "Pillars (In Net Mansion)"
+msgstr "Stulpai (Tinklo stotelėje)"
+
+#. Chinese Medieval constellation, native: Zhu(Jiao Xiu)
+msgid "Pillars (In Horn Mansion)"
+msgstr "Stulpai (Rago stotelėje)"
+
+#. Chinese Medieval constellation, native: Zhu Shi
+msgid "Official of Royal Archives"
+msgstr "Karališkųjų archyvų pareigūnas"
+
+#. Chinese Medieval constellation, native: Zi
+msgid "Son"
+msgstr "Sūnus"
+
+#. Chinese Medieval constellation, native: Zong
+msgid "Patriarchal Clan"
+msgstr "Patriarchalinis klanas"
+
+#. Chinese Medieval constellation, native: Zong Ren
+msgid "Official of Religious Ceremonies"
+msgstr "Oficialus religinių apeigų atstovas"
+
+#. Chinese Medieval constellation, native: Zong Zheng
+msgid "Official for the Royal Clan"
+msgstr "Karališkojo klano pareigūnas"
+
+#. Chinese Medieval constellation, native: Zuo Geng
+msgid "Official in Charge of the Forest"
+msgstr "Už mišką atsakingas pareigūnas"
+
+#. Chinese Medieval constellation, native: Zuo Qi
+msgid "Left Flag"
+msgstr "Kairė vėliava"
+
+#. Chinese Medieval constellation, native: Zuo She Ti
+msgid "Left Conductor"
+msgstr "Kairysis vadovas"
+
+#. Chinese Medieval constellation, native: Zuo Qi
+msgid "Seat Flags"
+msgstr "Sėdynių vėliavos"
+
+#. Name for HIP 80816
+msgid "Hezhong"
+msgstr "Hezhong"
+
+#. Name for HIP 80170
+msgid "Hejian"
+msgstr "Hejian"
+
+#. Name for HIP 79043
+msgid "Jin"
+msgstr "Jin"
+
+#. Name for HIP 78072
+msgid "Zheng"
+msgstr "Zheng"
+
+#. Name for HIP 77233
+msgid "Zhou"
+msgstr "Žū"
+
+#. Name for HIP 76276
+msgid "Qin"
+msgstr "Qin"
+
+#. Name for HIP 77070
+msgid "Shu"
+msgstr "Shu"
+
+#. Name for HIP 77622
+msgid "Ba"
+msgstr "Ba"
+
+#. Name for HIP 79593
+msgid "Liang"
+msgstr "Liang"
+
+#. Name for HIP 79882
+msgid "Chu"
+msgstr "Chu"
+
+#. Name for HIP 81377
+msgid "Han"
+msgstr "Han"
+
+#. Name for HIP 84379
+msgid "Wei"
+msgstr "Wei"
+
+#. Name for HIP 85693
+msgid "Zhao"
+msgstr "Žao"
+
+#. Name for HIP 86974
+msgid "Jiuhe"
+msgstr "Jiuhe"
+
+#. Name for HIP 88794
+msgid "Zhongshan"
+msgstr "Zhongshan"
+
+#. Name for HIP 92043
+msgid "Qi"
+msgstr "Qi"
+
+#. Name for HIP 93747
+msgid "Wuyue"
+msgstr "Wuyue"
+
+#. Name for HIP 92946
+msgid "Xu"
+msgstr "Xu"
+
+#. Name for HIP 89962
+msgid "Donghai"
+msgstr "Donghai"
+
+#. Name for HIP 88048
+msgid "Yan"
+msgstr "Yan"
+
+#. Name for HIP 86263
+msgid "Nanhai"
+msgstr "Nanhai"
+
+#. Name for HIP 84012
+msgid "Song"
+msgstr "Daina"
+
+#. Name for NAME Sun, native: 太阳
+#. Native name of the Sun in Chinese culture
+msgid "Taiyang"
+msgstr "Taijan"
+
+#. Chinese Medieval constellation, native: Zi Wei Zuo Yuan
+msgid "Purple Forbidden East Wall"
+msgstr "Purpurinė uždraustoji Rytinė Siena"
+
+#. Chinese Medieval constellation, native: Zi Wei You Yuan
+msgid "Purple Forbidden West Wall"
+msgstr "Purpurinė uždraustoji Vakarinė Siena"
+
+#. Chinese Medieval constellation, native: Tai Wei Zuo Yuan
+msgid "Supreme Palace East Wall"
+msgstr "Aukščiausiųjų rūmų rytinė siena"
+
+#. Chinese Medieval constellation, native: Tai Wei You Yuan
+msgid "Supreme Palace West Wall"
+msgstr "Aukščiausiųjų rūmų vakarinė siena"
+
+#. Chinese Medieval constellation, native: San Tai
+msgid "Three Steps (Upper Step)"
+msgstr "Trys laipteliai (Viršutinis laiptelis)"
+
+#. Chinese Medieval constellation, native: San Tai
+msgid "Three Steps (Middle Step)"
+msgstr "Trys laipteliai (Vidurinysis laiptelis)"
+
+#. Chinese Medieval constellation, native: San Tai
+msgid "Three Steps (Lower Step)"
+msgstr "Trys laipteliai (Apatinis laiptelis)"
+
+#. Chinese Medieval constellation, native: Tian Shi Zuo Yuan
+msgid "Heavenly Market East Wall"
+msgstr "Dangaus turgaus rytinė siena"
+
+#. Chinese Medieval constellation, native: Tian Shi You Yuan
+msgid "Heavenly Market West Wall"
+msgstr "Dangaus turgaus vakarinė siena"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Zhao)
+msgid "Twelve States (Zhao State)"
+msgstr "Dvylika valstijų (Žao valstybė)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Yue)
+msgid "Twelve States (Yue State)"
+msgstr "Dvylika valstijų (Jue valstybė)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Zhou)
+msgid "Twelve States (Zhou State)"
+msgstr "Dvylika valstijų (Žū valstybė)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Qi)
+msgid "Twelve States (Qi State)"
+msgstr "Dvylika valstijų (Kvi valstybė)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Zheng)
+msgid "Twelve States (Zheng State)"
+msgstr "Dvylika valstijų (Ženg valstybė)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Chu)
+msgid "Twelve States (Chu State)"
+msgstr "Dvylika valstijų (Ču valstybė)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Qin)
+msgid "Twelve States (Qin State)"
+msgstr "Dvylika valstijų (Kvin valstybė)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Yan)
+msgid "Twelve States (Yan State)"
+msgstr "Dvylika valstijų (Jan valstybė)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Wei)
+msgid "Twelve States (Wei State)"
+msgstr "Dvylika valstijų (Vei valstybė)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Dai)
+msgid "Twelve States (Dai State)"
+msgstr "Dvylika valstijų (Dai valstybė)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Jin)
+msgid "Twelve States (Jin State)"
+msgstr "Dvylika valstijų (Dzin valstybė)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Han)
+msgid "Twelve States (Han State)"
+msgstr "Dvylika valstijų (Han valstybė)"
+
+#. Chinese Medieval constellation, native: Ji Shi Qi
+msgid "Cumulative Corpse Gas"
+msgstr " Sukauptos lavonų dujos"
+
+#. Chinese Medieval constellation, native: Tu Si Kong(Zhen Xiu)
+msgid "Master of Constructions (In Chariot Mansion)"
+msgstr "Statybos Meistras (Vežimo stotelėje)"
+
+#. Name for HIP 57565
+msgid "Taizi/Crown Prince"
+msgstr "Taizi/Kronprincas"
+
+#. Name for HIP 72607
+msgid "Di/Emperor"
+msgstr "Di/Imperatorius"
+
+#. Name for HIP 70692
+msgid "Shuzi/Bastard"
+msgstr "Shuzi/Bastūnas"
+
+#. Name for HIP 69112
+msgid "Hougong/Harem"
+msgstr "Hougong/Haremas"
+
+#. Name for HIP 54061
+msgid "Tianshu/The Celestial Pivot"
+msgstr "Tianshu/Dangaus ašis"
+
+#. Name for HIP 62572
+msgid "Niuxing/Ancient Star"
+msgstr "Niuxing/Senovės žvaigždė"
+
+#. Name for HIP 11767
+msgid "Yuanshi/The Origin of All Things"
+msgstr "Yuanshi/Visų daiktų kilmės šaltinis"
+
+#. Name for HIP 115746
+msgid "Tianhuangdadi/Great Emperor of Heaven"
+msgstr "Tianhuangdadi/Didysis Rojaus Imperatorius"
+
+#. Name for HIP 86614
+msgid "Nüshi/Female Protocol"
+msgstr "Nüshi/Sekretorė"
+
+#. Name for HIP 89937
+msgid "Zhushi/Official of Royal Archives"
+msgstr "Zhushi/Karališkųjų archyvų pareigūnas"
+
+#. Name for HIP 68756
+msgid "Youshu/Right Pivot"
+msgstr "Youshu/Dešinioji ašis"
+
+#. Name for HIP 61281
+msgid "Shaowei/The Second Commandant"
+msgstr "Shaowei/Antrasis komendantas"
+
+#. Name for HIP 56211
+msgid "Shangfu/The Great Advisor"
+msgstr "Shangfu/Didysis Patarėjas"
+
+#. Name for HIP 46977
+msgid "Shaofu/The Second Advisor"
+msgstr "Shaofu/Antrasis patarėjas"
+
+#. Name for HIP 33827
+msgid "Shangwei/The Great Imperial Guard"
+msgstr "Shangwei/Didžioji imperatoriškoji gvardija"
+
+#. Name for HIP 24254
+msgid "Shaowei/The Second Imperial Guard"
+msgstr "Shaowei/Antroji Imperatoriškoji gvardija"
+
+#. Name for HIP 14862
+msgid "Shangcheng/The Great Imperial Minister"
+msgstr "Shangcheng/Didysis imperijos ministras"
+
+#. Name for HIP 75458
+msgid "Zuoshu/Left Pivot"
+msgstr "Zuoshu/Kairė ašis"
+
+#. Name for HIP 78527
+msgid "Shangzai/The Great Prime Minister"
+msgstr "Shangzai/Didysis Ministras Pirmininkas"
+
+#. Name for HIP 80331
+msgid "Shaozai/The Second Prime Minister"
+msgstr "Shaozai/Antrasis Ministras Pirmininkas"
+
+#. Name for HIP 83895
+msgid "Shangbi/The Great Protector"
+msgstr "Shangbi/Didysis Saugotojas"
+
+#. Name for HIP 89908
+msgid "Shaobi/The Second Protector"
+msgstr "Shaobi/Antrasis Saugotojas"
+
+#. Name for HIP 6522
+msgid "Shaocheng/The Second Imperial Minister"
+msgstr "Shaocheng/Antrasis imperijos ministras"
+
+#. Name for HIP 67627
+msgid "Tianyi/Celestial Great One"
+msgstr "Tianyi / Dangaus Didysis"
+
+#. Name for HIP 66798
+msgid "Taiyi/First Great One"
+msgstr "Taiyi/Pirmasis Didysis"
+
+#. Name for HIP 53910
+msgid "Tianxuan/The Celestial Rotating Jade"
+msgstr "Tianxuan/Dangiškasis besisukantis nefritas"
+
+#. Name for HIP 58001
+msgid "Tianji/The Celestial Shining Pearl"
+msgstr "Tianji/Dangaus švytintis perlas"
+
+#. Name for HIP 59774
+msgid "Tianquan/The Celestial Balance"
+msgstr "Tianquan / Dangaus svarstyklės"
+
+#. Name for HIP 62956
+msgid "Yuheng/The Jade Sighting-tube"
+msgstr "Yuheng/Nefritinis monoklis"
+
+#. Name for HIP 65378
+msgid "Kaiyang/The Opener of Heat"
+msgstr "Kaiyang/Karščio atidarytojas"
+
+#. Name for HIP 67301
+msgid "Yaoguang/The Twinkling Brilliance"
+msgstr "Yaoguang/Mirksintis švytėjimas"
+
+#. Name for HIP 54061
+msgid "Tanlang/Greedy Wolf"
+msgstr "Tanlang/Godus vilkas"
+
+#. Name for HIP 53910
+msgid "Jumen/Giant Gate"
+msgstr "Jumen/Milžiniški vartai"
+
+#. Name for HIP 58001
+msgid "Lucun/Good Fortune Star"
+msgstr "Lucun/Geros Laimės Žvaigždė"
+
+#. Name for HIP 59774
+msgid "Wenqu/Literary Star"
+msgstr "Wenqu/Literatūrinė žvaigždė"
+
+#. Name for HIP 62956
+msgid "Lianzhen/Clean and Chaste"
+msgstr "Lianzhen/Švarus ir tyras"
+
+#. Name for HIP 65378
+msgid "Wuqu/Military Star"
+msgstr "Wuqu/Karinė žvaigždė"
+
+#. Name for HIP 67301
+msgid "Pojun/Break the Enemy"
+msgstr "Pojun / Išmuškite priešą"
+
+#. Name for HIP 54061
+msgid "Zheng/Justice"
+msgstr "Zheng/Teisingumas"
+
+#. Name for HIP 53910
+msgid "Fa/Law"
+msgstr "Fa/Įstatymas"
+
+#. Name for HIP 58001
+msgid "Ling/Command"
+msgstr "Ling/Vadovybė"
+
+#. Name for HIP 59774
+msgid "Fa/Crusade"
+msgstr "Fa/Kryžiaus žygis"
+
+#. Name for HIP 62956
+msgid "Sha/Killing"
+msgstr "Sha/Žudymas"
+
+#. Name for HIP 65378
+msgid "Wei/Danger"
+msgstr "Wei/Pavojus"
+
+#. Name for HIP 67301
+msgid "Bu/Army"
+msgstr "Bu/Kariuomenė"
+
+#. Name for HIP 65477
+msgid "Fu/Assistant"
+msgstr "Fu/Asistentas"
+
+#. Name for HIP 69732
+msgid "Xuange/Sombre Lance"
+msgstr "Xuange/Niūri ietis"
+
+#. Name for HIP 60988
+msgid "Xiang/Prime Minister"
+msgstr "Xiang/Ministras pirmininkas"
+
+#. Name for HIP 57399
+msgid "Taiyangshou/Guard of the Sun"
+msgstr "Taiyangshou/Saulės sargybinis"
+
+#. Name for HIP 54539
+msgid "Taizun/Royals"
+msgstr "Taizun/Karališkieji asmenys"
+
+#. Name for HIP 46733
+msgid "Shangjiang/Great General"
+msgstr "Shangjiang/Didysis generolas"
+
+#. Name for HIP 48319
+msgid "Cijiang/Second General"
+msgstr "Cijiang/Antrasis Generolas"
+
+#. Name for HIP 48319
+msgid "Shangshu/Royal Secretary"
+msgstr "Shangshu/Karališkasis sekretorius"
+
+#. Name for HIP 48402
+msgid "Guixiang/Distinguished Primer"
+msgstr "Guixiang/Išskirtinis gruntas"
+
+#. Name for HIP 48402
+msgid "Taichang/Minister of Justice"
+msgstr "Taichang/Teisingumo ministras"
+
+#. Name for HIP 46853
+msgid "Silu/Deified Judge of Rank"
+msgstr "Silu/Dievinamas rango teisėjas"
+
+#. Name for HIP 46853
+msgid "Sizhong/Deified Judge of Disaster"
+msgstr "Sizhong/Dievinamas nelaimių teisėjas"
+
+#. Name for HIP 46853
+msgid "Sili/Senior Judge"
+msgstr "Sili/Vyresnysis Teisėjas"
+
+#. Name for HIP 44901
+msgid "Siming/Deified Judge of Life"
+msgstr "Siming/Dievinamas gyvenimo teisėjas"
+
+#. Name for HIP 44901
+msgid "Siguai/Deity in Charge of Monsters"
+msgstr "Siguai / Dievybė atsakinga už monstrus"
+
+#. Name for HIP 37740
+msgid "Taishi/Court Historian"
+msgstr "Taishi / Teismo istorikas"
+
+#. Name for HIP 44504
+msgid "Sikou/Supreme Judge"
+msgstr "Sikou/Aukščiausiasis teisėjas"
+
+#. Name for HIP 44504
+msgid "Dali/Minister of Justice"
+msgstr "Dali/Teisingumo ministras"
+
+#. Name for HIP 57632
+msgid "Huangdizuo/Seat of Yellow Emperor"
+msgstr "Huangdizuo/Geltonojo Imperatoriaus sostas"
+
+#. Name for HIP 58159
+msgid "Cangdi/Azure Emperor"
+msgstr "Cangdi / Lazūrinis imperatorius"
+
+#. Name for HIP 57779
+msgid "Chidi/Red Emperor"
+msgstr "Chidi/Raudonasis imperatorius"
+
+#. Name for HIP 57320
+msgid "Baidi/White Emperor"
+msgstr "Baidi/Baltasis imperatorius"
+
+#. Name for HIP 57646
+msgid "Heidi/Black Emperor"
+msgstr "Heidi/Juodasis imperatorius"
+
+#. Name for HIP 56975
+msgid "Congguan/Retinue"
+msgstr "Congguan/Svita"
+
+#. Name for HIP 58858
+msgid "Xingchen/Officer of Honour"
+msgstr "Xingchen/Garbės pareigūnas"
+
+#. Name for HIP 57757
+msgid "Youzhifa/Right Law Administrator"
+msgstr "Youzhifa/Dešinysis Teisės administratorius"
+
+#. Name for HIP 55434
+msgid "Xishangjiang/The Great Western General"
+msgstr "Xishangjiang/Didysis vakarų generolas"
+
+#. Name for HIP 55642
+msgid "Xicijiang/The Second Western General"
+msgstr "Xicijiang/Antrasis Vakarų Generolas"
+
+#. Name for HIP 54879
+msgid "Xicixiang/The Second Western Premier"
+msgstr "Xicixiang/Antrasis Vakarų Premjeras"
+
+#. Name for HIP 54872
+msgid "Xishangxiang/The Great Western Premier"
+msgstr "Xishangxiang/Didysis Vakarų Premjeras"
+
+#. Name for HIP 60129
+msgid "Zuozhifa/Left Law Administrator"
+msgstr "Zuozhifa/Kairysis teisės administratorius"
+
+#. Name for HIP 61941
+msgid "Dongshangxiang/The Great Eastern Premier"
+msgstr "Dongshangxiang/Didysis Rytų premjeras"
+
+#. Name for HIP 63090
+msgid "Dongcixiang/The Second Eastern Premier"
+msgstr "Dongcixiang/Antrasis Rytų Premjeras"
+
+#. Name for HIP 63608
+msgid "Dongcijiang/The Second Eastern General"
+msgstr "Dongcijiang/Antrasis Rytų Generolas"
+
+#. Name for HIP 64241
+msgid "Dongshangjiang/The Great Eastern General"
+msgstr "Dongshangjiang/Didysis Rytų generolas"
+
+#. Name for HIP 44127
+msgid "Tianzi/Son of Heaven"
+msgstr "Tianzi/Rojaus sūnus"
+
+#. Name for HIP 44471
+msgid "Nüzhu/Empress"
+msgstr "Nüzhu/Imperatorė"
+
+#. Name for HIP 50372
+msgid "Zhuhousangong/ Feudal Kings and Three Excellencies"
+msgstr "Zhuhousangong/ Feodaliniai karaliai ir Trys puikybės"
+
+#. Name for HIP 50801
+msgid "Qingdafu/High Ministers and Nobles"
+msgstr "Qingdafu/Aukštieji ministrai ir didikai"
+
+#. Name for HIP 55219
+msgid "Shi/Gentry"
+msgstr "Shi/Aukštoji visuomenė"
+
+#. Name for HIP 55203
+msgid "Shuren/Common People"
+msgstr "Shuren/Paprasti žmonės"
+
+#. Name for HIP 54951
+msgid "Huben/Emperor's Bodyguard"
+msgstr "Huben/Imperatoriaus asmens sargybinis"
+
+#. Name for HIP 60172
+msgid "Yezhe/Usher to the Court"
+msgstr "Yezhe/Teismo posėdžių sekretorius"
+
+#. Name for HIP 84345
+msgid "Dizuo/Emperor's Seat"
+msgstr "Dizuo/Imperatoriaus sostas"
+
+#. Name for HIP 86032
+msgid "Hou/Astrologer"
+msgstr "Hou/Astrologas"
+
+#. Name for HIP 64238
+msgid "Jinxian/Recommending Virtuous Men"
+msgstr "Jinxian/Rekomenduojantys dorybingi vyrai"
+
+#. Name for HIP 69673
+msgid "Dajiao/Great Horn"
+msgstr "Dajiao/Didysis Ragas"
+
+#. Name for HIP 72622
+msgid "Shi/Wedded Wife"
+msgstr "Ši/Vedusi Žmona"
+
+#. Name for HIP 74392
+msgid "Qie/Minor Concubine"
+msgstr "Qie/Nepilnametė sugulovė"
+
+#. Name for HIP 69879
+msgid "Zhaoyao/Twinkling Indicator"
+msgstr "Žaojao/Mirksintis indikatorius"
+
+#. Name for HIP 77516
+msgid "Tianru/Celestial Milk"
+msgstr "Tianru/Dangaus Pienas"
+
+#. Name for HIP 74376
+msgid "Qizhenjiangjun/Chariots and Cavalry General"
+msgstr "Qizhenjiangjun/Vežimų ir kavalerijos generolas"
+
+#. Name for HIP 78265
+msgid "Cijiang/The Second General"
+msgstr "Cijiang/Antrasis Generolas"
+
+#. Name for HIP 78104
+msgid "Shangjiang/The Great General"
+msgstr "Šangdžiang/Didysis generolas"
+
+#. Name for HIP 78401
+msgid "Cixiang/The Second General"
+msgstr "Cijiang/Antrasis Generolas"
+
+#. Name for HIP 78820
+msgid "Shangxiang/The Great Premier"
+msgstr "Šangšiang/Didysis premjeras"
+
+#. Name for HIP 79374
+msgid "Jianbi/Door Bolt"
+msgstr "Jianbi/Durų varžtas"
+
+#. Name for HIP 77840
+msgid "Ri/Solar Star"
+msgstr "Ri/Saulės žvaigždė"
+
+#. Name for HIP 80763
+msgid "Tianwang/Celestial King"
+msgstr "Tianvang/Dangaus karalius"
+
+#. Name for HIP 80763
+msgid "Mingtang/Cosmological Temple"
+msgstr "Mingtang / kosmologinė šventykla"
+
+#. Name for HIP 80763
+msgid "Dahuo/Great Fire"
+msgstr "Dahuo/Didžioji Ugnis"
+
+#. Name for HIP 82396
+msgid "Hou/Empress Consort"
+msgstr "Hou/Imperatorienė konsortė"
+
+#. Name for HIP 50583
+msgid "Fei/Imperial Consort"
+msgstr "Fei/Imperatoriškasis konsortas"
+
+#. Name for HIP 86228
+msgid "Pin/Imperial Concubine"
+msgstr "Pin/Imperatoriškoji sugulovė"
+
+#. Name for HIP 82545
+msgid "Shengong/Changing Room"
+msgstr "Šengong/Persirengimo kambarys"
+
+#. Name for HIP 87261
+msgid "Fuyue/Fu Yue"
+msgstr "Fuyue/Fu Yue"
+
+#. Name for HIP 88550
+msgid "Kang/Chaff"
+msgstr "Kang/Pelai"
+
+#. Name for HIP 92041
+msgid "Tiantong/Celestial Collaborators"
+msgstr "Tiantong/Dangaus Bendradarbiai"
+
+#. Name for HIP 92041
+msgid "Fu/Blessing"
+msgstr "Fu/Palaima"
+
+#. Name for HIP 90496
+msgid "Tianxiang/Celestial Premier"
+msgstr "Tianxiang/Dangaus Premjeras"
+
+#. Name for HIP 90496
+msgid "Yin/Stamp"
+msgstr "Yin/Štampas"
+
+#. Name for HIP 89341
+msgid "Qisha/Seven Assassins"
+msgstr "Qisha/Septyni žudikai"
+
+#. Name for HIP 89341
+msgid "Jiang/General"
+msgstr "Džiang/Generolas"
+
+#. Name for HIP 92855
+msgid "Tianji/Celestial Secret"
+msgstr "Tianji/Dangiškoji paslaptis"
+
+#. Name for HIP 92855
+msgid "Shan/Kindness"
+msgstr "Shan/Gerumas"
+
+#. Name for HIP 93864
+msgid "Tianliang/Celestial Beam"
+msgstr "Tianliang/Dangaus spindulys"
+
+#. Name for HIP 93864
+msgid "Yin/Shade"
+msgstr "Yin/Atspalvis"
+
+#. Name for HIP 93506
+msgid "Tianfu/Celestial Official"
+msgstr "Tianfu/Dangaus pareigūnas"
+
+#. Name for HIP 90763
+msgid "Nongzhangren/Peasant"
+msgstr "Nongzhangren/Piemuo"
+
+#. Name for HIP 97649
+msgid "Dajiangjun/Great General"
+msgstr "Dajiangjun/Didysis generolas"
+
+#. Name for HIP 98036
+msgid "Zuojiangjun/Left General"
+msgstr "Zuojiangjun/Kairysis Generolas"
+
+#. Name for HIP 97278
+msgid "Youjiangjun/Right General"
+msgstr "Youjiangjun/Dešinysis Generolas"
+
+#. Name for HIP 97649
+msgid "Qianniuxing/Cowboy"
+msgstr "Qianniuxing/Kaubojus"
+
+#. Name for HIP 91262
+msgid "Zhinüxing/Weaving Girl"
+msgstr "Zhinüxing/Mergina audėja"
+
+#. Name for HIP 102014
+msgid "Yue"
+msgstr "Jue"
+
+#. Name for HIP 111188
+msgid "Tiangang/Materials for Making Tents"
+msgstr "Tiangang/Medžiagos palapinėms gaminti"
+
+#. Name for HIP 113368
+msgid "Beiluoshimen/North Gate of the Military Camp"
+msgstr "Beiluoshimen/Karinės stovyklos šiauriniai vartai"
+
+#. Name for HIP 746
+msgid "Wangliang/Wang Liang"
+msgstr "Vangliang/Wang Liang"
+
+#. Name for HIP 2920
+msgid "Tiansi/Celestial Horse"
+msgstr "Tiansi/Dangaus arklys"
+
+#. Name for HIP 2599
+msgid "Ce/Whip"
+msgstr "Ce/Botagas"
+
+#. Name for HIP 6686
+msgid "Fulu/Auxiliary Road"
+msgstr "Fulu/Pagalbinis kelias"
+
+#. Name for HIP 8796
+msgid "Junnanmen/Southern Military Gate"
+msgstr "Junnanmen/Pietiniai kariniai vartai"
+
+#. Name for HIP 3419
+msgid "Tusikong/Master of Constructions"
+msgstr "Tusikong/Statybos meistras"
+
+#. Name for HIP 13879
+msgid "Jishi/Heap of Corpses"
+msgstr "Džiši/Lavonų krūva"
+
+#. Name for HIP 18453
+msgid "Jishui/Stored Water"
+msgstr "Jishui/Saugomas vanduo"
+
+#. Name for HIP 15696
+msgid "Tiane/Celestial Concave"
+msgstr "Tiane/Dangaus gaubtas"
+
+#. Name for HIP 19038
+msgid "Yue/Lunar Star"
+msgstr "Yue/Mėnulio žvaigždė"
+
+#. Name for HIP 17886
+msgid "Tianchan/Celestial Slander"
+msgstr "Tianchan/Dangaus teismo plaktukas"
+
+#. Name for HIP 21421
+msgid "Tiangao/Celestial High Terrace"
+msgstr "Tiangao/Dangaus aukšta terasa"
+
+#. Name for HIP 21421
+msgid "Bianjiang/Side-general"
+msgstr "Bianjiang/Šoninis Generolas"
+
+#. Name for HIP 21683
+msgid "Fuer/Whisper"
+msgstr "Fuer/Šnabždesys"
+
+#. Name for HIP 26451
+msgid "Tianguan/Celestial Pass"
+msgstr "Tianguan/Dangiškoji perėja"
+
+#. Name for HIP 25930
+msgid "Hengshi/Scales"
+msgstr "Hengshi/Svarstyklės"
+
+#. Name for HIP 27989
+msgid "Zuojian/Left Shoulder"
+msgstr "Zuojian/Kairysis petys"
+
+#. Name for HIP 25336
+msgid "Youjian/Right Shoulder"
+msgstr "Youjian/Dešinysis petys"
+
+#. Name for HIP 27366
+msgid "Zuozu/Left Foot"
+msgstr "Zuozu/Kairė pėda"
+
+#. Name for HIP 24436
+msgid "Youzu/Right Foot"
+msgstr "Youzu/Dešinė pėda"
+
+#. Name for HIP 27072
+msgid "Shi/Excrement"
+msgstr "Shi/Ekskrementas"
+
+#. Name for HIP 29655
+msgid "Yue/Battle Axe"
+msgstr "Yue/Kovos kirvis"
+
+#. Name for HIP 33018
+msgid "Dishi/Emperor Teacher"
+msgstr "Dishi/Imperatoriaus mokytojas"
+
+#. Name for HIP 34693
+msgid "Diyou/Emperor friend"
+msgstr "Diyou/Imperatoriaus draugas "
+
+#. Name for HIP 36046
+msgid "Sangong/Three excellencies"
+msgstr "Sangong/Trys puikybės"
+
+#. Name for HIP 36962
+msgid "Boshi/Doctor"
+msgstr "Boshi/Gydytojas"
+
+#. Name for HIP 37265
+msgid "Jishui/Accumulated Water"
+msgstr "Jishui/Kaupiamas vanduo"
+
+#. Name for HIP 39659
+msgid "Jixin/Pile of Firewood"
+msgstr "Jixin/Malkų krūva"
+
+#. Name for HIP 30324
+msgid "Yeji/Wild Cockerel"
+msgstr "Yeji/Laukinis Gaidys"
+
+#. Name for HIP 32349
+msgid "Lang/Wolf"
+msgstr "Lang/Vilkas"
+
+#. Name for HIP 32349
+msgid "Tianlang/Celestial Wolf"
+msgstr "Tianlang/Dangaus vilkas"
+
+#. Name for HIP 30438
+msgid "Laoren/Old Man"
+msgstr "Laoren/Senis"
+
+#. Name for HIP 30438
+msgid "Nanjilaoren/The Southernmost Old Man"
+msgstr "Nanjilaoren/Piečiausias senis"
+
+#. Name for HIP 33977
+msgid "Shi/Arrow"
+msgstr "Shi/Strėlė"
+
+#. Name for HIP 43067
+msgid "Tianji/Judge for Estimating the Age of Animals"
+msgstr "Tianji/Teisėjas gyvulių amžiaus nustatymui"
+
+#. Name for HIP 44248
+msgid "Cifei/Minor Imperial Consort"
+msgstr "Cifei/Jaunesnioji imperinė palyda"
+
+#. Name for HIP 49583
+msgid "Furen/Highest-ranking Imperial Consort"
+msgstr "Furen/Aukščiausiojo rango imperinė palyda"
+
+#. Name for HIP 47508
+msgid "Damin/Patriarchal Clan of Empress Dowager"
+msgstr "Damin/Imperatorienės našlės patriarchalinis klanas"
+
+#. Name for HIP 51624
+msgid "Shaomin/Patriarchal Clan of Empress Consort"
+msgstr "Shaomin/Patriarchalinis Imperatorienės konsortės  klanas"
+
+#. Name for HIP 49637
+msgid "Yunü/Maids-in-waiting"
+msgstr "Yunü/Budinčios tarnaitės"
+
+#. Name for HIP 59199
+msgid "Youxia/Right linchpin"
+msgstr "Youxia/Dešinysis fiksatorius"
+
+#. Name for HIP 61174
+msgid "Zuoxia/Left linchpin"
+msgstr "Zuoxia/Kairysis fiksatorius"
+
+#. Name for HIP 60189
+msgid "Changsha/Changsha"
+msgstr "Changsha/Čangša"
+
+#. Name for HIP 746
+msgid "Determinative Star"
+msgstr "Nustatančioji žvaigždė"
+
+#. Name for NAME Moon, native: 太阴
+#. Native name of the Moon in Chinese culture
+msgid "Taiyin"
+msgstr "Taiyin"
+
+#. Name for NAME Mercury, native: 辰星
+#. Native name of Mercury in Chinese culture
+msgid "Chen Star"
+msgstr "Čen Žvaigždė"
+
+#. Name for NAME Venus, native: 太白
+#. Native name of Venus in Chinese culture
+msgid "Taibai"
+msgstr ""
+
+#. Name for NAME Mars, native: 荧惑
+#. Native name of Mars in Chinese culture
+msgid "Yinghuo"
+msgstr ""
+
+#. Name for NAME Jupiter, native: 岁星
+#. Native name of Jupiter in Chinese culture
+msgid "Sui Star"
+msgstr "Sui Žvaigždė"
+
+#. Name for NAME Saturn, native: 填星
+#. Native name of Saturn in Chinese culture
+msgid "Zhen Star"
+msgstr "Žen Žvaigždė"
+
+#. Name for M 44
+msgid "Jishiqi / Cumulative Corpse Gas"
+msgstr "Jishiqi /  Sukauptos lavonų dujos"
+
+#. Name for M 7
+msgid "Yu / Fish"
+msgstr "Ju / Žuvis"
+
+#. Name for M 45
+msgid "Maotou / Ancient Flag with Yak's Tail"
+msgstr "Maotou / Senovinė vėliava su jako uodega"

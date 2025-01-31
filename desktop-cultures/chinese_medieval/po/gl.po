@@ -1,0 +1,2321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Manuel Rosales <manuel.rosales.gr@gmail.com>, 2025\n"
+"Language-Team: Galician (https://app.transifex.com/stellarium/teams/80998/"
+"gl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: gl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Sky culture name
+msgid "Chinese Medieval"
+msgstr "Chinés Medieval"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"This sky culture is based on the observation data of Huangyou four years "
+"(1052 AD), and presents the medieval Chinese sky map as faithfully as "
+"possible. This sky culture includes 283 Xingguans (星官, Chinese "
+"Constellations) and 1464 stars (including clusters M7, M44) of the "
+"*Xinyixiangfayao Star Map*. And the determinative star is marked for each "
+"Xingguan that can determine the determinative star. The boundaries of Twenty-"
+"eight Lunar Mansions are based on 1052 AD."
+msgstr ""
+"Esta cultura do ceo baséase nos datos de observación de Huangyou en catro "
+"anos (1052 AD) e presenta o mapa do ceo medieval chinés o máis fielmente "
+"posible. Esta cultura do ceo inclúe 283 xingguans (星 官, constelacións "
+"chinesas) e 1464 estrelas (incluídos os cúmulos M7, M44) do *Mapa de "
+"Estrelas de Xinyixiangfayao*. E a estrela determinativa está marcada para "
+"cada Xingguan, o que pode determinar a estrela determinativa. Os límites das "
+"Vinte e oito mansións lunares baséanse no 1052 d.C."
+
+#. Sky culture description section in markdown format
+msgid ""
+"### Medieval Xingguans\n"
+"\n"
+"From the Three Kingdoms Period to the Ming Dynasty, covering the whole of "
+"the Middle Ages, China's star map is similar.\n"
+"\n"
+"The Xingguans originated in ancient times. Wuxian (巫咸) of Shang "
+"Dynasty(16th century BC-1046 BC), Gan De (甘德) and Shi Shen (石申) of The "
+"Warring States Period (475–221 BC), created their own Xingguan system "
+"respectively. During the Three Kingdoms period (220–280 AD), Chen Zhuo (陈"
+"卓) summarized the Xingguans system of Gan De, Shi Shen and Wuxian, "
+"including 283 Xingguans and 1464 stars. Since then, Xingguan system has been "
+"basically defined, and after a thousand years, there has not been much "
+"change. Since the 17th century, Western astronomy has had an impact on "
+"Chinese astronomy, and the shape and number of Xingguans have changed "
+"significantly. Only about half of the constellations maintained the medieval "
+"style.\n"
+"\n"
+"Determinative star is an important concept. In the Middle Ages, Chinese "
+"astronomers did not name all stars, and each Xingguans was chosen as a major "
+"star called determinative star. In ancient China, astronomical measurements "
+"measured its coordinate position, and other stars in the Xingguan were "
+"rarely mentioned. However, some important constellations will be selected "
+"more stars for observation and recording. In ancient China, astronomers used "
+"mansion distance degrees (determinative star distance) and polar distance "
+"degrees to record the position of stars. **In ancient China, the "
+"determinative stars of Twenty-eight Lunar Mansions was the benchmark for "
+"determining the longitude of the equatorial coordinate system**.\n"
+"\n"
+"The *Song of the Sky Pacers* (步天歌) is an early Chinese star catalogue in "
+"the form of poem in heptasyllabic verse, enumerating the names of stars.\n"
+"\n"
+"Below is *Xinyixiangfayao Star Map* from Su Song(苏颂, 1020-1101 AD).\n"
+"\n"
+"![](illustrations/xyxfy.png)\n"
+"\n"
+"*Xinyixiangfayao Star Map(1088 AD)*\n"
+"\n"
+"### Restore Sky Map\n"
+"\n"
+"The sky map of the Song dynasty is typical of the Chinese medieval sky map. "
+"In 1052 AD, the Song Dynasty official conducted accurate stellar "
+"measurements, leaving a lot of data.\n"
+"\n"
+"Pan Nai(潘鼐) collated these astronomical observations data and based on the "
+"*Xinyixiangfayao Star Map*, he restored most of the Song Dynasty's Xingguan "
+"in his masterpiece *The History of Stellar Observation in China*, which is "
+"the most important reference book. Qi Rui (齐锐) and Wan Haoyi (万昊宜) also "
+"restored the Xingguans of the Song Dynasty in the book *Roving China "
+"Heavens*, which is also an important reference book.\n"
+"\n"
+"Due to the limitation of observation conditions in Song Dynasty, combined "
+"with instruments, circulated errors and other reasons, different scholars "
+"restored the sky map is somewhat different.\n"
+"\n"
+"Based on these books, Stellarium can almost truly present the Chinese "
+"medieval sky map of Huangyou four years (1052 AD).\n"
+"\n"
+"### Planets\n"
+"\n"
+"Taiyang (太阳), Sun. The name comes from yin and yang, meaning a lot of "
+"yang,\n"
+"\n"
+"Taiyin (太阴), Moon. The name comes from yin and yang, meaning a lot of "
+"Yin,\n"
+"\n"
+"Chen Star (辰星), Mercury. Chen is an angle unit, which refers to about 30 "
+"degrees. Mercury is always within 30 degrees of the sun.\n"
+"\n"
+"Taibai (太白), Venus. Taibai means big and white.\n"
+"\n"
+"Yinghuo (荧惑), Mars. The colors of Mars are like fire, and movement is "
+"confusing.\n"
+"\n"
+"Sui Star (岁星), Jupiter. It means the old star. Jupiter travels around the "
+"celestial sphere for a week every 12 years. The ancients took Jupiter's "
+"position as the standard of the chronology.\n"
+"\n"
+"Zhen Star (填星), Saturn. Zhen, means passing Lunar Mansions. Saturn travels "
+"around the celestial sphere about every 28 years. Saturn will pass through a "
+"Lunar Mansion every year."
+msgstr ""
+"### Xingguans Medievais\n"
+"\n"
+"Dende o período dos tres reinos ata a dinastía Ming, que abarca toda a Idade "
+"Media, o mapa das estrelas de China é similar.\n"
+"\n"
+"Os xingguans orixináronse na antigüidade. Wuxian (巫咸) da dinastía Shang "
+"(século XVI a.C.-1046 a.C.), Gan De (甘德) e Shi Shen (石 Período) do "
+"período dos Estados en Guerra (475-221 a. C.), crearon o seu propio sistema "
+"Xingguan respectivamente. Durante o período dos Tres Reinos (220-280 dC), "
+"Chen Zhuo (陈卓) resumiu o sistema xingguan de Gan De, Shi Shen e Wuxian, "
+"incluíndo 283 xingguans e 1464 estrelas. Desde entón, o sistema Xingguan "
+"quedou basicamente definido e despois de mil anos non se produciron moitos "
+"cambios. Dende o século XVII a astronomía occidental tivo un impacto na "
+"astronomía chinesa, e a forma e o número de xingguans cambiaron "
+"significativamente. Só preto da metade das constelacións mantiveron o estilo "
+"medieval.\n"
+"\n"
+"A estrela determinativa é un concepto importante. Na Idade Media os "
+"astrónomos chineses non nomearon todas as estrelas, e en cada Xingguan foi "
+"elixida unha estrela principal chamada estrela determinativa. Na China "
+"antiga as medidas astronómicas mediron a súa posición de coordenadas e "
+"raramente se mencionaron outras estrelas no Xingguan. Non obstante, "
+"nalgunhas constelacións importantes seleccionáronse máis estrelas para a súa "
+"observación e rexistro. Na antiga China os astrónomos empregaron os graos de "
+"aloxamento lunar (distancia da estrela determinativa) e os graos da "
+"distancia polar para rexistrar a posición das estrelas. **Na China antiga as "
+"estrelas determinativas das Vinte e oito mansións lunares foron o referente "
+"para determinar a lonxitude do sistema de coordenadas ecuatorial.**.\n"
+"\n"
+"A *Canción dos ceos*  (步天歌) é un catálogo de estrelas chinés en forma de "
+"poema en verso heptasílabo, que enumera os nomes das estrelas.\n"
+"\n"
+"A continuación móstrase o *Mapa de estrelas de Xinyixiangfayao* de Su Song(苏"
+"颂, 1020-1101 AD).\n"
+"\n"
+"![](illustrations/xyxfy.png)\n"
+"\n"
+"*Mapa de estrelas de Xinyixiangfayao(1088 AD)*\n"
+"\n"
+"### Restaurar Mapa do Ceo\n"
+"\n"
+"O mapa do ceo da dinastía Song é o típico do mapa medieval do ceo chinés. No "
+"1052 d.C, o funcionario da Dinastía Song realizou medicións estelares "
+"precisas, deixando moitos datos.\n"
+"\n"
+"Pan Nai(潘鼐) engadiu estes datos de observacións astronómicas e baseouse no "
+"*Mapa de estrelas de Xinyixiangfayao* , restaurou a maior parte dos "
+"Xingguans da dinastía Song na súa obra mestra *A Historia da Observación "
+"Estelar en China* , que é o libro de referencia máis importante. Qi Rui (齐"
+"锐) e Wan Haoyi (万昊宜) tamén restauraron os Xingguans da dinastía Song no "
+"libro *Ceos de China* , que tamén un importante libro de referencia.\n"
+"\n"
+"Debido á limitación das condicións de observación na dinastía Song, "
+"combinada con instrumentos, erros nos círculos e outras razóns, diferentes "
+"estudosos restauraron o mapa do ceo.\n"
+"\n"
+"Con base nestes libros, Stellarium pode presentar realmente o mapa do ceo "
+"medieval chinés de catro anos de Huangyou (1052 AD).\n"
+"\n"
+"### Planetas\n"
+"\n"
+"Taiyang (太阳), Sol. O nome vén de yin e yang, que significa unha morea de "
+"yang,\n"
+"\n"
+"Taiyin (太阴), Lúa. O nome provén de yin and yang, que significa unha morea "
+"de Yin,\n"
+"\n"
+"Chen Star (辰星), Mercurio. Chené unha unidade angular que se refire máis ou "
+"menos a 30 graos. Mercurio está tamén a 30 graos do Sol.\n"
+"\n"
+"Taibai (太白), Venus. Taibai significa grande e branco.\n"
+"\n"
+"Yinghuo (荧惑), Marte. As cores de Marte son coma o lume, e o seu movemento "
+"confuso.\n"
+"\n"
+"Estrela Sui (岁星), Xúpiter. Significa a vella estrela. Xúpiter viaxa "
+"arredor da esfera celeste durante unha semana cada 12 anos. Os antigos "
+"tomaron a posición de Xúpiter como estándar da cronoloxía.\n"
+"\n"
+"Estrela Zhen (填星), Saturno. Zhen significa pasar mansións lunares. Saturno "
+"viaxa arredor da esfera celeste aproximadamente cada 28 anos. Saturno pasará "
+"por unha mansión lunar cada ano."
+
+#. Sky culture references section in markdown format
+msgid ""
+" - [#1]: Pan Nai. The History of Stellar Observation in China\n"
+" - [#2]: Qi Rui and Wan Haoyi. Roving China Heavens\n"
+" - [#3]: Su Song. *Xinyixiangfayao Star Map*\n"
+" - [#4]: *Records of the Grand Historian*\n"
+" - [#5]: *Book of Sui*\n"
+" - [#6]: *History of Song*\n"
+"\n"
+"### External links\n"
+"\n"
+" - [wikipedia - Su Song](https://en.wikipedia.org/wiki/Su_Song)\n"
+" - [History of Song](http://chinesenotes.com/songshi.html)\n"
+" - [Records of the Grand Historian](http://chinesenotes.com/shiji.html)\n"
+" - [(Chinese) Song of the Sky Pacers](https://www.lcsd.gov.hk/CE/Museum/"
+"Space/archive/Research/Literature/c_research_literature_9.htm)\n"
+" - [wikipedia - Song of the Sky Pacers](https://en.wikipedia.org/wiki/"
+"Song_of_the_Sky_Pacers)\n"
+" - [(Chinese) Chinese Heaven in WWT Community Beijing](http://wwt.china-vo."
+"org/why/chineseheaven.htm)"
+msgstr ""
+" - [#1]: Pan Nai. The History of Stellar Observation in China\n"
+" - [#2]: Qi Rui and Wan Haoyi. Roving China Heavens\n"
+" - [#3]: Su Song. *Mapa de estrelas de Xinyixiangfayao*\n"
+" - [#4]: *Records of the Grand Historian*\n"
+" - [#5]: *Libro de Sui*\n"
+" - [#6]: *Historia de Song*\n"
+"\n"
+"### Ligazóns externas\n"
+"\n"
+" - [wikipedia - Su Song](https://en.wikipedia.org/wiki/Su_Song)\n"
+" - [Histooria de Song](http://chinesenotes.com/songshi.html)\n"
+" - [Records of the Grand Historian](http://chinesenotes.com/shiji.html)\n"
+" - [(Chinés) Canción do líder do ceo](https://www.lcsd.gov.hk/CE/Museum/"
+"Space/archive/Research/Literature/c_research_literature_9.htm)\n"
+" - [wikipedia - Canción do líder do ceo](https://en.wikipedia.org/wiki/"
+"Song_of_the_Sky_Pacers)\n"
+" - [(Chinese) Ceo Chinés en WWT Community Beijing](http://wwt.china-vo.org/"
+"why/chineseheaven.htm)"
+
+#. Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user *Sun Shuwei* (孙殳玮) . "
+"[sunshuwei.hi@foxmail.com](mailto:sunshuwei.hi@foxmail.com)"
+msgstr ""
+"A esta cultura do ceo para Stellarium contribuíu *Sun Shuwei* (孙殳玮) . "
+"[sunshuwei.hi@foxmail.com](mailto:sunshuwei.hi@foxmail.com)"
+
+#. Chinese Medieval constellation, native: Lao Ren
+msgid "Old Man"
+msgstr "Home vello"
+
+#. Chinese Medieval constellation, native: Gou
+msgid "Dog"
+msgstr "Can"
+
+#. Chinese Medieval constellation, native: Yu
+msgid "Fish"
+msgstr "Peixe"
+
+#. Chinese Medieval constellation, native: Lang
+msgid "Wolf"
+msgstr "Lobo"
+
+#. Chinese Medieval constellation, native: Bi Xiu
+msgid "Net"
+msgstr "Rede"
+
+#. Chinese Medieval constellation, native: Bi Xiu
+msgid "Wall"
+msgstr "Muro"
+
+#. Chinese Medieval constellation, native: Shen Xiu
+msgid "Three Stars"
+msgstr "Tres Estrelas"
+
+#. Chinese Medieval constellation, native: Di Xiu
+msgid "Root"
+msgstr "Raíz"
+
+#. Chinese Medieval constellation, native: Dou Xiu
+msgid "Dipper"
+msgstr "Cullerón"
+
+#. Chinese Medieval constellation, native: Fang Xiu
+msgid "Room"
+msgstr "Cuarto"
+
+#. Chinese Medieval constellation, native: Gui Xiu
+msgid "Ghosts"
+msgstr "Pantasmas"
+
+#. Chinese Medieval constellation, native: Ji Xiu
+msgid "Winnowing Basket"
+msgstr "Cesta de mazar"
+
+#. Chinese Medieval constellation, native: Jiao Xiu
+msgid "Horn"
+msgstr "Corno"
+
+#. Chinese Medieval constellation, native: Jing Xiu
+msgid "Well"
+msgstr "Well"
+
+#. Chinese Medieval constellation, native: Kang Xiu
+msgid "Neck"
+msgstr "Pescozo"
+
+#. Chinese Medieval constellation, native: Kui Xiu
+msgid "Legs"
+msgstr "Pernas"
+
+#. Chinese Medieval constellation, native: Liu Xiu
+msgid "Willow"
+msgstr "Vimbio"
+
+#. Chinese Medieval constellation, native: Lou Xiu
+msgid "Bond"
+msgstr "Ligazón"
+
+#. Chinese Medieval constellation, native: Mao Xiu
+msgid "Hairy Head"
+msgstr "Cabeza Peluda"
+
+#. Chinese Medieval constellation, native: Niu Xiu
+msgid "Ox"
+msgstr "Boi"
+
+#. Chinese Medieval constellation, native: Nü Xiu
+msgid "Girl"
+msgstr "Rapaza"
+
+#. Chinese Medieval constellation, native: Shi Xiu
+msgid "Encampment"
+msgstr "Campamento"
+
+#. Chinese Medieval constellation, native: Wei Xiu
+msgid "Rooftop"
+msgstr "Azotea"
+
+#. Chinese Medieval constellation, native: Wei Xiu
+msgid "Tail"
+msgstr "Rabo"
+
+#. Chinese Medieval constellation, native: Wei Xiu
+msgid "Stomach"
+msgstr "Estómago"
+
+#. Chinese Medieval constellation, native: Xin Xiu
+msgid "Heart"
+msgstr "Corazón"
+
+#. Chinese Medieval constellation, native: Xing Xiu
+msgid "Star"
+msgstr "Estrela"
+
+#. Chinese Medieval constellation, native: Xu Xiu
+msgid "Emptiness"
+msgstr "Baleiro"
+
+#. Chinese Medieval constellation, native: Yi Xiu
+msgid "Wings"
+msgstr "Ás"
+
+#. Chinese Medieval constellation, native: Zhang Xiu
+msgid "Extended Net"
+msgstr "Rede Extendida"
+
+#. Chinese Medieval constellation, native: Zhen Xiu
+msgid "Chariot"
+msgstr "Carro"
+
+#. Chinese Medieval constellation, native: Zi Xiu
+msgid "Turtle Beak"
+msgstr "Peteiro de Tartaruga"
+
+#. Chinese Medieval constellation, native: Ba Gu
+msgid "Eight Kinds of Crops"
+msgstr "Oito tipos de cultivos"
+
+#. Chinese Medieval constellation, native: Ba Kui
+msgid "Net for Catching Birds"
+msgstr "Rede para Cazar Paxaros"
+
+#. Chinese Medieval constellation, native: Bai Gua
+msgid "Rotten Gourd"
+msgstr "Cabaza Podre"
+
+#. Chinese Medieval constellation, native: Bai Jiu
+msgid "Decayed Mortar"
+msgstr "Morteiro Deteriorado"
+
+#. Chinese Medieval constellation, native: Bei Dou
+msgid "Northern Dipper"
+msgstr "Cullerón do Norte"
+
+#. Chinese Medieval constellation, native: Bei He
+msgid "North River"
+msgstr "Río do Norte"
+
+#. Chinese Medieval constellation, native: Bei Ji
+msgid "Northern Pole"
+msgstr "Polo Norte"
+
+#. Chinese Medieval constellation, native: Bei Luo Shi Men
+msgid "North Gate of the Military Camp"
+msgstr "Porta Norte do Campo Militar"
+
+#. Chinese Medieval constellation, native: Bie
+msgid "River Turtle"
+msgstr "Tartaruga de río"
+
+#. Chinese Medieval constellation, native: Bo Du
+msgid "Textile Ruler"
+msgstr "Regra Téxtil"
+
+#. Chinese Medieval constellation, native: Can Qi
+msgid "Banner of Three Stars"
+msgstr "Estandarte de tres estrelas"
+
+#. Chinese Medieval constellation, native: Ce
+msgid "Toilet"
+msgstr "Baños"
+
+#. Chinese Medieval constellation, native: Ce
+msgid "Whip"
+msgstr "Tralla"
+
+#. Chinese Medieval constellation, native: Chang Chen
+msgid "Royal Guards"
+msgstr "Gardas Reais"
+
+#. Chinese Medieval constellation, native: Che Fu
+msgid "Big Yard for Chariots"
+msgstr "Gran Patio para Carros"
+
+#. Chinese Medieval constellation, native: Che Qi
+msgid "Chariots and Cavalry"
+msgstr "Carros e Cabalería"
+
+#. Chinese Medieval constellation, native: Che Si
+msgid "Commodity Market"
+msgstr "Mercado de Materias Primas"
+
+#. Chinese Medieval constellation, native: Chu Hao
+msgid "Hay"
+msgstr "Feo"
+
+#. Chinese Medieval constellation, native: Chu(Ji Xiu)
+msgid "Pestle (In Winnowing Basket Mansion)"
+msgstr "Man do Morteiro (na casa da Cesta de Mazar)"
+
+#. Chinese Medieval constellation, native: Chu(Wei Xiu)
+msgid "Pestle (In Rooftop Mansion)"
+msgstr "Man do Morteiro (na Casa da Azotea)"
+
+#. Chinese Medieval constellation, native: Chang Sha
+msgid "Changsha (Vassal of Chariot)"
+msgstr "Changsha (Vasalo de Carro)"
+
+#. Chinese Medieval constellation, native: Chuan She
+msgid "Guest House"
+msgstr "Casa de Convidados"
+
+#. Chinese Medieval constellation, native: Cong Guan(Fang Xiu)
+msgid "Retinue (In Room Mansion)"
+msgstr "Comitiva (na Mansion do Cuarto)"
+
+#. Chinese Medieval constellation, native: Cong Guan(Tai Wei Yuan)
+msgid "Retinue (In Supreme Palace Enclosure)"
+msgstr "Comitiva (no Recinto do Castelo Supremo)"
+
+#. Chinese Medieval constellation, native: Da Jiao
+msgid "Great Horn"
+msgstr "Gran Corno"
+
+#. Chinese Medieval constellation, native: Da Li
+msgid "Chief Judge"
+msgstr "Xuíz Xefe"
+
+#. Chinese Medieval constellation, native: Da Ling
+msgid "Mausoleum"
+msgstr "Mausoleo"
+
+#. Chinese Medieval constellation, native: Tian Miao
+msgid "Celestial Temple"
+msgstr "Templo Celestial"
+
+#. Chinese Medieval constellation, native: Di Xi
+msgid "Mattress of the Emperor"
+msgstr "Colchón do Emperador"
+
+#. Chinese Medieval constellation, native: Di Zuo
+msgid "Emperor's Seat"
+msgstr "Asento do Emperador"
+
+#. Chinese Medieval constellation, native: Dong Xian
+msgid "Eastern Door"
+msgstr "Porta do leste"
+
+#. Chinese Medieval constellation, native: Dou
+msgid "Dipper for Liquids"
+msgstr "Cullerón de Líquidos"
+
+#. Chinese Medieval constellation, native: Dun Wan
+msgid "Trials"
+msgstr "Ensaios"
+
+#. Chinese Medieval constellation, native: Fa
+msgid "Send Armed Forces To Suppress (Vassal of Three Stars)"
+msgstr "Enviar forzas armadas para reprimir (Vasalo de Tres Estrelas)"
+
+#. Chinese Medieval constellation, native: Fa
+msgid "Punishment"
+msgstr "Castigo"
+
+#. Chinese Medieval constellation, native: Fen Mu
+msgid "Tomb (Vassal of Rooftop)"
+msgstr "Tumba (Vasalo de Azotea)"
+
+#. Chinese Medieval constellation, native: Fu Yue
+msgid "Axe"
+msgstr "Machada"
+
+#. Chinese Medieval constellation, native: Fu Zhi
+msgid "Sickle"
+msgstr "Fouciño"
+
+#. Chinese Medieval constellation, native: Fu Kuang
+msgid "Basket for Mulberry Leaves"
+msgstr "Cesto para Follas de Moreira"
+
+#. Chinese Medieval constellation, native: Fu Lu
+msgid "Auxiliary Road"
+msgstr "Camiño Auxiliar"
+
+#. Chinese Medieval constellation, native: Fu Yue
+msgid "Fu Yue"
+msgstr "Fu Yue"
+
+#. Chinese Medieval constellation, native: Gai Wu
+msgid "Roofing"
+msgstr "Tellado"
+
+#. Chinese Medieval constellation, native: Gang
+msgid "Canopy Support (Vassal of Canopy of the Emperor)"
+msgstr "Soporte da Cuberta (Vasalo de Baldaquino do Emperador)"
+
+#. Chinese Medieval constellation, native: Ge Dao
+msgid "Flying Corridor"
+msgstr "Corredor Voante"
+
+#. Chinese Medieval constellation, native: Geng He
+msgid "Celestial Lance"
+msgstr "Lanza Celestial"
+
+#. Chinese Medieval constellation, native: Gou Chen
+msgid "Curved Array"
+msgstr "Matriz Curvada"
+
+#. Chinese Medieval constellation, native: Gou Qian
+msgid "Lock (Vassal of Room)"
+msgstr "Pechadura (Vasalo de Cuarto)"
+
+#. Chinese Medieval constellation, native: Gou Guo
+msgid "Territory of Dog"
+msgstr "Territorio de Can"
+
+#. Chinese Medieval constellation, native: Guan Suo
+msgid "Coiled Thong"
+msgstr "Fita Envolvida"
+
+#. Chinese Medieval constellation, native: Guan
+msgid "Beacon Fire"
+msgstr "Lume de Faro"
+
+#. Chinese Medieval constellation, native: Gui
+msgid "Tortoise"
+msgstr "Sapoconcho"
+
+#. Chinese Medieval constellation, native: Jun Men
+msgid "Military Gate"
+msgstr "Porta Militar"
+
+#. Chinese Medieval constellation, native: He Gu
+msgid "Drum at the River"
+msgstr "Tambor no río"
+
+#. Chinese Medieval constellation, native: Heng
+msgid "Railings"
+msgstr "Varandas"
+
+#. Chinese Medieval constellation, native: Hou
+msgid "Astrologer"
+msgstr "Astrólogo"
+
+#. Chinese Medieval constellation, native: Hu Shi
+msgid "Bow and Arrow"
+msgstr "Arco e Frechas"
+
+#. Chinese Medieval constellation, native: Hu
+msgid "Dipper for Solids"
+msgstr "Cullerón de Sólidos"
+
+#. Chinese Medieval constellation, native: Hu Ben
+msgid "Emperor's Bodyguard"
+msgstr "Gardacostas do Emperador"
+
+#. Chinese Medieval constellation, native: Hu Gua
+msgid "Good Gourd"
+msgstr "Cabaza Sa"
+
+#. Chinese Medieval constellation, native: Hua Gai
+msgid "Canopy of the Emperor"
+msgstr "Baldaquino do Emperador"
+
+#. Chinese Medieval constellation, native: Huan Zhe
+msgid "Eunuch Official"
+msgstr "Oficial Eunuco"
+
+#. Chinese Medieval constellation, native: Ji Shi(Wei Xiu)
+msgid "Heap of Corpses"
+msgstr "Morea de Cadaveres"
+
+#. Chinese Medieval constellation, native: Ji Shui(Wei Xiu)
+msgid "Stored water"
+msgstr "Auga Almacenada"
+
+#. Chinese Medieval constellation, native: Ji Xin
+msgid "Pile of Firewood"
+msgstr "Pía de Leña"
+
+#. Chinese Medieval constellation, native: Ji Zu
+msgid "Group of Soldiers"
+msgstr "Grupo de Soldados"
+
+#. Chinese Medieval constellation, native: Jian
+msgid "Establishment"
+msgstr "Estabelecemento"
+
+#. Chinese Medieval constellation, native: Jian Tai
+msgid "Clepsydra Terrace"
+msgstr "Terraza de Clepsidra"
+
+#. Chinese Medieval constellation, native: Jian Bi
+msgid "Door Bolt"
+msgstr "Porlón"
+
+#. Chinese Medieval constellation, native: Jin Xian
+msgid "Recommending Virtuous Men"
+msgstr "Recomendando Homes Virtuosos"
+
+#. Chinese Medieval constellation, native: Ji Shui(Jin Xiu)
+msgid "Accumulated Water"
+msgstr "Auga Acumulada"
+
+#. Chinese Medieval constellation, native: Jiu Kan
+msgid "Nine Water Wells"
+msgstr "Nove Pozos de Auga"
+
+#. Chinese Medieval constellation, native: Jiu Qing
+msgid "Nine Senior Officers"
+msgstr "Nove Oficiais Veteranos"
+
+#. Chinese Medieval constellation, native: Jiu Liu
+msgid "Imperial Military Flag"
+msgstr "Bandeira Militar Imperial"
+
+#. Chinese Medieval constellation, native: Jiu Zhou Shu Kou
+msgid "Interpreters of Nine Dialects"
+msgstr "Intérpretes de Nove Dialectos"
+
+#. Chinese Medieval constellation, native: Jiu Qi
+msgid "Banner of Wine Shop"
+msgstr "Estandarte de Tenda de Viño"
+
+#. Chinese Medieval constellation, native: Jiu
+msgid "Mortar"
+msgstr "Morteiro"
+
+#. Chinese Medieval constellation, native: Juan She
+msgid "Rolled Tongue"
+msgstr "Lingua enrolada"
+
+#. Chinese Medieval constellation, native: Jun Jing
+msgid "Military Well"
+msgstr "Pozo Militar"
+
+#. Chinese Medieval constellation, native: Jun Nan Men
+msgid "Southern Military Gate"
+msgstr "Porta Militar do Sur"
+
+#. Chinese Medieval constellation, native: Jun Shi
+msgid "Market for Soldiers"
+msgstr "Mercado para Soldados"
+
+#. Chinese Medieval constellation, native: Kang
+msgid "Chaff"
+msgstr "Palla"
+
+#. Chinese Medieval constellation, native: Kang Chi
+msgid "Boats and Lake"
+msgstr "Barcos e Lago"
+
+#. Chinese Medieval constellation, native: Ku
+msgid "Crying"
+msgstr "Choro"
+
+#. Chinese Medieval constellation, native: Ku Lou
+msgid "Arsenal"
+msgstr "Arsenal"
+
+#. Chinese Medieval constellation, native: Lang Jiang
+msgid "Captain of the Bodyguards"
+msgstr "Capitán dos Gardacostas"
+
+#. Chinese Medieval constellation, native: Lang Wei
+msgid "Officers of the Imperial Guard"
+msgstr "Oficiais da Garda do Emperador"
+
+#. Chinese Medieval constellation, native: Lei Dian
+msgid "Thunder and Lightning"
+msgstr "Tronos e Lóstregos"
+
+#. Chinese Medieval constellation, native: Lei Bi Zhen
+msgid "Line of Ramparts"
+msgstr "Liña de Murallas"
+
+#. Chinese Medieval constellation, native: Li Gong
+msgid "Resting Palace (Vassal of Encampment)"
+msgstr "Pazo de Descanso (Vasalo de Campamento)"
+
+#. Chinese Medieval constellation, native: Li Yu
+msgid "Jade Ornament on Ladies' Wear"
+msgstr "Ornamento de xade sobre roupa de muller"
+
+#. Chinese Medieval constellation, native: Li Zhu
+msgid "Pearls on Ladies' Wear"
+msgstr "Perlas sobre roupa de muller"
+
+#. Chinese Medieval constellation, native: Li Shi
+msgid "Whetstone"
+msgstr "Pedra de afiar"
+
+#. Chinese Medieval constellation, native: Lie Si
+msgid "Jewel Market"
+msgstr "Mercado de Xoias"
+
+#. Chinese Medieval constellation, native: Ling Tai
+msgid "Astronomical Observatory"
+msgstr "Observatorio Astronómico"
+
+#. Chinese Medieval constellation, native: Liu Jia
+msgid "Six Jia"
+msgstr "Six Jia"
+
+#. Chinese Medieval constellation, native: Luo Yan
+msgid "Network of Dykes"
+msgstr "Rede de Dykes"
+
+#. Chinese Medieval constellation, native: Ming Tang
+msgid "The Hall of Glory"
+msgstr "O Salón da Gloria"
+
+#. Chinese Medieval constellation, native: Nan He
+msgid "South River"
+msgstr "Río do Sur"
+
+#. Chinese Medieval constellation, native: Dong Ou
+msgid "Dongou"
+msgstr "Dongou"
+
+#. Chinese Medieval constellation, native: Nan Men
+msgid "Southern Gate"
+msgstr "Porta do Sur"
+
+#. Chinese Medieval constellation, native: Nei Chu
+msgid "Inner Kitchen"
+msgstr "Cociña Interior"
+
+#. Chinese Medieval constellation, native: Nei Jie
+msgid "Inner Steps"
+msgstr "Chanzos Interiores"
+
+#. Chinese Medieval constellation, native: Nei Ping
+msgid "High Judge"
+msgstr "Alto Xuíz"
+
+#. Chinese Medieval constellation, native: Nei Ping
+msgid "Inner Screen"
+msgstr "Pantalla Interior"
+
+#. Chinese Medieval constellation, native: Nian Dao
+msgid "Imperial Passageway"
+msgstr "Corredor Imperial"
+
+#. Chinese Medieval constellation, native: Nong Zhang Ren
+msgid "Peasant"
+msgstr "Labrego"
+
+#. Chinese Medieval constellation, native: Nü Chuang
+msgid "Woman's Bed"
+msgstr "Leito de Muller"
+
+#. Chinese Medieval constellation, native: Nü Shi
+msgid "Female Protocol"
+msgstr "Protocolo Feminino"
+
+#. Chinese Medieval constellation, native: Pi Li
+msgid "Thunderbolt"
+msgstr "Lóstrego"
+
+#. Chinese Medieval constellation, native: Ping
+msgid "Judging"
+msgstr "Xulgando"
+
+#. Chinese Medieval constellation, native: Ping Dao
+msgid "Flat Road"
+msgstr "Estrada Chaira"
+
+#. Chinese Medieval constellation, native: Ping
+msgid "Screen"
+msgstr "Pantalla"
+
+#. Chinese Medieval constellation, native: Qi Gong
+msgid "Seven Excellencies"
+msgstr "Sete Excelencias"
+
+#. Chinese Medieval constellation, native: Qi Fu
+msgid "House for Musical Instruments"
+msgstr "Casa de Instrumentos Musicais"
+
+#. Chinese Medieval constellation, native: Qi Guan
+msgid "Imperial Guards"
+msgstr "Gardas Imperiais"
+
+#. Chinese Medieval constellation, native: Qi Zhen Jiang Jun
+msgid "Chariots and Cavalry General"
+msgstr "Xeneral de Carros e Cabalería"
+
+#. Chinese Medieval constellation, native: Qi
+msgid "Weeping"
+msgstr "Pranto"
+
+#. Chinese Medieval constellation, native: Tian Ji
+msgid "Celestial Cereals"
+msgstr "Cereais Celestiais"
+
+#. Chinese Medieval constellation, native: Qing Qiu
+msgid "Green Hill"
+msgstr "Outeiro Verde"
+
+#. Chinese Medieval constellation, native: Que Qiu
+msgid "Palace Gate"
+msgstr "Porta do palacio"
+
+#. Chinese Medieval constellation, native: Ren
+msgid "Humans"
+msgstr "Humanos"
+
+#. Chinese Medieval constellation, native: Ri
+msgid "Solar Star"
+msgstr "Estrela Solar"
+
+#. Chinese Medieval constellation, native: San Gong(Tai Wei Yuan)
+msgid "Three Excellencies (In Supreme Palace Enclosure)"
+msgstr "Tres Excelencias (no Recinto do Castelo Supremo)"
+
+#. Chinese Medieval constellation, native: San gong(Zi Wei Yuan)
+msgid "Three Excellencies (In Purple Forbidden Enclosure)"
+msgstr "Tres Excelencias (no Recinto Prohibido Púrpura)"
+
+#. Chinese Medieval constellation, native: San Shi
+msgid "Three Top Instructors"
+msgstr "Tres Instrutores Principais"
+
+#. Chinese Medieval constellation, native: Shang Shu
+msgid "Royal Secretary"
+msgstr "Secretario Real"
+
+#. Chinese Medieval constellation, native: Shao Wei
+msgid "Junior Officers"
+msgstr "Oficiais Novos"
+
+#. Chinese Medieval constellation, native: Shen Gong
+msgid "Changing Room (Vassal of Tail)"
+msgstr "Vestiario (Vasalo de Rabo)"
+
+#. Chinese Medieval constellation, native: Shi
+msgid "Excrement"
+msgstr "Excremento"
+
+#. Chinese Medieval constellation, native: Shi Lou
+msgid "Municipal Office"
+msgstr "Oficina Municipal"
+
+#. Chinese Medieval constellation, native: Shi
+msgid "Eunuch"
+msgstr "Eunuco"
+
+#. Chinese Medieval constellation, native: Shui Fu
+msgid "Official for Irrigation"
+msgstr "Oficial de Irrigación"
+
+#. Chinese Medieval constellation, native: Shui Wei
+msgid "Water Level"
+msgstr "Nivel de Auga"
+
+#. Chinese Medieval constellation, native: Si Fei
+msgid "Deified Judge of Right and Wrong"
+msgstr "Xuíz Deificado do Correcto e do Incorrecto"
+
+#. Chinese Medieval constellation, native: Si Guai
+msgid "Deity in Charge of Monsters"
+msgstr "Deidade a Cargo de Monstros"
+
+#. Chinese Medieval constellation, native: Si Lu
+msgid "Deified Judge of Rank"
+msgstr "Xuíz de Rango Deificado"
+
+#. Chinese Medieval constellation, native: Si Ming
+msgid "Deified Judge of Life"
+msgstr "Xuíz de Vida Deificado"
+
+#. Chinese Medieval constellation, native: Si wei
+msgid "Deified Judge of Disaster and Good Fortune"
+msgstr "Xuíz Deificado de Desastre e Boa Fortuna"
+
+#. Chinese Medieval constellation, native: Si Du
+msgid "Four Channels"
+msgstr "Catro Canles"
+
+#. Chinese Medieval constellation, native: Si Fu
+msgid "Four Advisors"
+msgstr "Catro Conselleiros"
+
+#. Chinese Medieval constellation, native: Sun
+msgid "Grandson"
+msgstr "Neto"
+
+#. Chinese Medieval constellation, native: Tai Yang Shou
+msgid "Guard of the Sun"
+msgstr "Gardián do Sol"
+
+#. Chinese Medieval constellation, native: Tai Yi
+msgid "First Great One"
+msgstr "Primeiro O Grande"
+
+#. Chinese Medieval constellation, native: Tai Zi
+msgid "Crown Prince"
+msgstr "Príncipe Herdeiro"
+
+#. Chinese Medieval constellation, native: Tai Zun
+msgid "Royals"
+msgstr "Realeza"
+
+#. Chinese Medieval constellation, native: Teng She
+msgid "Flying Serpent"
+msgstr "Serpe Voadora"
+
+#. Chinese Medieval constellation, native: Tian E
+msgid "Celestial Concave"
+msgstr "Cóncavo Celestial"
+
+#. Chinese Medieval constellation, native: Tian Bang
+msgid "Celestial Flail"
+msgstr "Axitación Celestial"
+
+#. Chinese Medieval constellation, native: Tian Bian
+msgid "Market Officer"
+msgstr "Oficial do mercado"
+
+#. Chinese Medieval constellation, native: Tian Cang
+msgid "Square Celestial Granary"
+msgstr "Celeiro Celestial Cadrado"
+
+#. Chinese Medieval constellation, native: Tian Chan
+msgid "Celestial Slander"
+msgstr "Calumnia Celestial"
+
+#. Chinese Medieval constellation, native: Tian Chu
+msgid "Celestial Kitchen"
+msgstr "Cociña Celestial"
+
+#. Chinese Medieval constellation, native: Tian Chuan
+msgid "Celestial Boat"
+msgstr "Barco Celestial"
+
+#. Chinese Medieval constellation, native: Tian Chuang
+msgid "Celestial Bed"
+msgstr "Leito Celestial"
+
+#. Chinese Medieval constellation, native: Tian Da Jiang Jun
+msgid "Great General of Heaven"
+msgstr "Gran Xeneral do Ceo"
+
+#. Chinese Medieval constellation, native: Tian Fu
+msgid "Celestial Drumstick"
+msgstr "Pau de Tambor Celestial"
+
+#. Chinese Medieval constellation, native: Tian Fu
+msgid "Celestial Spokes"
+msgstr "Raios Celestiais"
+
+#. Chinese Medieval constellation, native: Tian Gang
+msgid "Materials for Making Tents"
+msgstr "Materiais para Facer Tendas"
+
+#. Chinese Medieval constellation, native: Tian Gao
+msgid "Celestial High Terrace"
+msgstr "Alta Terraza Celestial"
+
+#. Chinese Medieval constellation, native: Tian Gou
+msgid "Celestial Hook"
+msgstr "Gancho Celestial"
+
+#. Chinese Medieval constellation, native: Tian Gou
+msgid "Celestial Dog"
+msgstr "Can Celestial"
+
+#. Chinese Medieval constellation, native: Tian Guan
+msgid "Celestial Pass"
+msgstr "Paso Celestial"
+
+#. Chinese Medieval constellation, native: Tian Huang Da Di
+msgid "Great Emperor of Heaven"
+msgstr "Gran Emperador do Ceo"
+
+#. Chinese Medieval constellation, native: Tian Huang
+msgid "Celestial Pier"
+msgstr "Peirao Celestial"
+
+#. Chinese Medieval constellation, native: Tian Hun
+msgid "Celestial Pigsty"
+msgstr "Porqueira Celestial"
+
+#. Chinese Medieval constellation, native: Tian Ji
+msgid "Celestial Cock"
+msgstr "Galo Celestial"
+
+#. Chinese Medieval constellation, native: Tian Ji
+msgid "Judge for Estimating the Age of Animals"
+msgstr "Xuíz para Estimar a Idade dos Animais"
+
+#. Chinese Medieval constellation, native: Tian Ji
+msgid "Celestial Discipline"
+msgstr "Disciplina Celestial"
+
+#. Chinese Medieval constellation, native: Tian Jiang
+msgid "Celestial River"
+msgstr "Río Celestial"
+
+#. Chinese Medieval constellation, native: Tian Jie
+msgid "Celestial Street"
+msgstr "Rúa Celestial"
+
+#. Chinese Medieval constellation, native: Tian Jie
+msgid "Celestial Tally"
+msgstr "Reconto Celestial"
+
+#. Chinese Medieval constellation, native: Tian Jin
+msgid "Celestial Ford"
+msgstr "Vao Celestial"
+
+#. Chinese Medieval constellation, native: Tian Jiu
+msgid "Celestial Stable"
+msgstr "Corte Celestial"
+
+#. Chinese Medieval constellation, native: Tian Lao
+msgid "Celestial Prison"
+msgstr "Prisión Celestial"
+
+#. Chinese Medieval constellation, native: Tian Lei Cheng
+msgid "Celestial Ramparts"
+msgstr "Murallas Celestiais"
+
+#. Chinese Medieval constellation, native: Tian Li
+msgid "Judge for Nobility"
+msgstr "Xulgado de Nobreza"
+
+#. Chinese Medieval constellation, native: Tian Lin
+msgid "Celestial Foodstuff"
+msgstr "Alimentos Celestiais"
+
+#. Chinese Medieval constellation, native: Tian Men
+msgid "Celestial Gate"
+msgstr "Porta Celestial"
+
+#. Chinese Medieval constellation, native: Tian Qian
+msgid "Celestial Money"
+msgstr "Diñeiro Celestial"
+
+#. Chinese Medieval constellation, native: Tian Qiang
+msgid "Celestial Spear"
+msgstr "Arpón Celestial"
+
+#. Chinese Medieval constellation, native: Tian Qun
+msgid "Circular Celestial Granary"
+msgstr "Celeiro Celestial Redondo"
+
+#. Chinese Medieval constellation, native: Tian Ru
+msgid "Celestial Milk"
+msgstr "Leite Celestial"
+
+#. Chinese Medieval constellation, native: Tian She
+msgid "Celestial Earth God's Temple"
+msgstr "Templo do Deus da Terra "
+
+#. Chinese Medieval constellation, native: Tian Tian(Jiao Xiu)
+msgid "Celestial Farmland (In Horn Mansion)"
+msgstr "Agros Celestiais (na Mansión do Corno)"
+
+#. Chinese Medieval constellation, native: Tian Tian(Niu Xiu)
+msgid "Celestial Farmland (In Ox Mansion)"
+msgstr "Agros Celestiais (na Mansión do Boi)"
+
+#. Chinese Medieval constellation, native: Tian Xiang
+msgid "Celestial Premier"
+msgstr "Primeiro Ministro Celestial"
+
+#. Chinese Medieval constellation, native: Tian Yi
+msgid "Celestial Great One"
+msgstr "O Grande Celestial"
+
+#. Chinese Medieval constellation, native: Tian Yin
+msgid "Celestial Yin Force"
+msgstr "Forza Yin Celestial"
+
+#. Chinese Medieval constellation, native: Tian Yu
+msgid "Ricks of Grain"
+msgstr "Celeiros de Gran"
+
+#. Chinese Medieval constellation, native: Tian Yuan
+msgid "Celestial Spring"
+msgstr "Primavera Celestial"
+
+#. Chinese Medieval constellation, native: Tian Yuan
+msgid "Celestial Orchard"
+msgstr "Horta Celestial"
+
+#. Chinese Medieval constellation, native: Tian Yuan
+msgid "Celestial Meadows"
+msgstr "Prados Celestiais"
+
+#. Chinese Medieval constellation, native: Tian Yue
+msgid "Celestial Keyhole"
+msgstr "Ollo da Pechadura Celestial"
+
+#. Chinese Medieval constellation, native: Tian Zhu
+msgid "Celestial Pillar"
+msgstr "Columna Celestial"
+
+#. Chinese Medieval constellation, native: Tian Zun
+msgid "Celestial Wine Cup"
+msgstr "Cunca de Viño Celestial"
+
+#. Chinese Medieval constellation, native: Tu Si
+msgid "Butcher's Shops"
+msgstr "Carnicerías"
+
+#. Chinese Medieval constellation, native: Tu Gong
+msgid "Official for Earthworks and Buildings"
+msgstr "Oficial para Movementos de Terras e Edificios"
+
+#. Chinese Medieval constellation, native: Tu Gong Li
+msgid "Official for Materials Supply"
+msgstr "Oficial de abastecemento de materiais"
+
+#. Chinese Medieval constellation, native: Wai Chu
+msgid "Outer Kitchen"
+msgstr "Cociña exterior"
+
+#. Chinese Medieval constellation, native: Wai Ping
+msgid "Outer Fence"
+msgstr "Valo exterior"
+
+#. Chinese Medieval constellation, native: Wang Liang
+msgid "Wang Liang"
+msgstr "Wang Liang"
+
+#. Chinese Medieval constellation, native: Tu Si Kong(Kui Xiu)
+msgid "Master of Constructions (In Legs Mansion)"
+msgstr "Mestre de Construcións (na Mansión das Pernas)"
+
+#. Chinese Medieval constellation, native: Wen Chang
+msgid "Administrative Center"
+msgstr "Centro Administrativo"
+
+#. Chinese Medieval constellation, native: Wu Che
+msgid "Five Chariots"
+msgstr "Cinco carros"
+
+#. Chinese Medieval constellation, native: Wu Di Nei Zuo
+msgid "Interior Seats of the Five Emperors"
+msgstr "Asentos Interiores dos Cinco Emperadores"
+
+#. Chinese Medieval constellation, native: Wu Di Zuo
+msgid "Seats of the Five Emperors"
+msgstr "Asentos dos Cinco Emperadores"
+
+#. Chinese Medieval constellation, native: Wu Zhu Hou(JingXiu)
+msgid "Five Feudal Kings"
+msgstr "Cinco Reis Feudais"
+
+#. Chinese Medieval constellation, native: Wu Zhu Hou(Tai Wei Yuan)
+msgid "Five Lords"
+msgstr "Cinco Señores"
+
+#. Chinese Medieval constellation, native: Xi Xian
+msgid "Western Door"
+msgstr "Porta do Oeste"
+
+#. Chinese Medieval constellation, native: Xi Zhong
+msgid "Xi Zhong"
+msgstr "Xi Zhong"
+
+#. Chinese Medieval constellation, native: Xian Chi
+msgid "Pool of Harmony"
+msgstr "Piscina de Harmonía"
+
+#. Chinese Medieval constellation, native: Xiang
+msgid "Prime Minister"
+msgstr "Primeiro Ministro"
+
+#. Chinese Medieval constellation, native: Xing Chen
+msgid "Officer of Honour"
+msgstr "Oficial de Honra"
+
+#. Chinese Medieval constellation, native: Xu Liang
+msgid "Temple"
+msgstr "Templo"
+
+#. Chinese Medieval constellation, native: Xuan Yuan
+msgid "Xuanyuan"
+msgstr "Xuanyuan"
+
+#. Chinese Medieval constellation, native: Xuan Ge
+msgid "Sombre Lance"
+msgstr "Lanza Sombría"
+
+#. Chinese Medieval constellation, native: Yue
+msgid "Battle Axe (Vassal of Well)"
+msgstr "Machada de Batalla (Vasalo de Pozo)"
+
+#. Chinese Medieval constellation, native: Yang Men
+msgid "Gate of Yang"
+msgstr "Porta de Yang"
+
+#. Chinese Medieval constellation, native: Ye Ji
+msgid "Wild Cockerel"
+msgstr "Pita do Monte"
+
+#. Chinese Medieval constellation, native: Ye Zhe
+msgid "Usher to the Court"
+msgstr "Alguacil da Corte"
+
+#. Chinese Medieval constellation, native: Yin De
+msgid "Hidden Virtue"
+msgstr "Virtude Escondida"
+
+#. Chinese Medieval constellation, native: You Geng
+msgid "Official in Charge of Pasturing"
+msgstr "Oficial a Cargo do Pastoreo"
+
+#. Chinese Medieval constellation, native: You Qi
+msgid "Right Flag"
+msgstr "Bandeira Dereita"
+
+#. Chinese Medieval constellation, native: You She Ti
+msgid "Right Conductor"
+msgstr "Condutor dereito"
+
+#. Chinese Medieval constellation, native: Yu Lin Jun
+msgid "Palace Guard"
+msgstr "Garda do Palacio"
+
+#. Chinese Medieval constellation, native: Yu Jing
+msgid "Jade Well"
+msgstr "Pozo de xade"
+
+#. Chinese Medieval constellation, native: Yu Nü
+msgid "Maids-in-waiting"
+msgstr "Criadas agardando"
+
+#. Chinese Medieval constellation, native: Yue
+msgid "Lunar Star"
+msgstr "Estrela Lunar"
+
+#. Chinese Medieval constellation, native: Fu Er
+msgid "Whisper (Vassal of Net)"
+msgstr "Murmurio (Vasalo de Rede)"
+
+#. Chinese Medieval constellation, native: Yun Yu
+msgid "Cloud and Rain"
+msgstr "Nube e Choiva"
+
+#. Chinese Medieval constellation, native: Zao Fu
+msgid "Zaofu"
+msgstr "Zaofu"
+
+#. Chinese Medieval constellation, native: Chang Yuan
+msgid "Long Wall"
+msgstr "Muro Longo"
+
+#. Chinese Medieval constellation, native: Zhang Ren
+msgid "Grandfather"
+msgstr "Avó"
+
+#. Chinese Medieval constellation, native: Zhao Yao
+msgid "Twinkling Indicator"
+msgstr "Indicador de Escintileo"
+
+#. Chinese Medieval constellation, native: Fu
+msgid "Assistant (Vassal of Northern Dipper)"
+msgstr "Asistente (Vasalo do Cullerón do Norte)"
+
+#. Chinese Medieval constellation, native: Zhe Wei
+msgid "Executions"
+msgstr "Execucións"
+
+#. Chinese Medieval constellation, native: Zhen Che
+msgid "Battle Chariots"
+msgstr "Carros de Batalla"
+
+#. Chinese Medieval constellation, native: You Xia
+msgid "Right linchpin (Vassal of Chariot)"
+msgstr "Eixe Dereito (Vasalo de Carro)"
+
+#. Chinese Medieval constellation, native: Zhi Nü
+msgid "Weaving Girl"
+msgstr "Tecelá"
+
+#. Chinese Medieval constellation, native: Zuo Xia
+msgid "Left linchpin (Vassal of Chariot)"
+msgstr "Eixe Esquerdo (Vasalo de Carro)"
+
+#. Chinese Medieval constellation, native: Zhou Ding
+msgid "Tripod of the Zhou"
+msgstr "Trespés de Zhou"
+
+#. Chinese Medieval constellation, native: Zhu Wang
+msgid "Feudal Kings"
+msgstr "Reis Feudais"
+
+#. Chinese Medieval constellation, native: Zhu(Bi Xiu)
+msgid "Pillars (In Net Mansion)"
+msgstr "Columnas (na Mansión de Rede)"
+
+#. Chinese Medieval constellation, native: Zhu(Jiao Xiu)
+msgid "Pillars (In Horn Mansion)"
+msgstr "Columnas (na Mansión do Corno)"
+
+#. Chinese Medieval constellation, native: Zhu Shi
+msgid "Official of Royal Archives"
+msgstr "Oficial de Arquivos Reais"
+
+#. Chinese Medieval constellation, native: Zi
+msgid "Son"
+msgstr "Fillo"
+
+#. Chinese Medieval constellation, native: Zong
+msgid "Patriarchal Clan"
+msgstr "Clan Patriarcal"
+
+#. Chinese Medieval constellation, native: Zong Ren
+msgid "Official of Religious Ceremonies"
+msgstr "Oficial de Cerimonias Relixiosas"
+
+#. Chinese Medieval constellation, native: Zong Zheng
+msgid "Official for the Royal Clan"
+msgstr "Oficial para o Clan Real"
+
+#. Chinese Medieval constellation, native: Zuo Geng
+msgid "Official in Charge of the Forest"
+msgstr "Oficial a Cargo do Bosque"
+
+#. Chinese Medieval constellation, native: Zuo Qi
+msgid "Left Flag"
+msgstr "Bandeira Esquerda"
+
+#. Chinese Medieval constellation, native: Zuo She Ti
+msgid "Left Conductor"
+msgstr "Condutor Esquerdo"
+
+#. Chinese Medieval constellation, native: Zuo Qi
+msgid "Seat Flags"
+msgstr "Bandeiras de Asento"
+
+#. Name for HIP 80816
+msgid "Hezhong"
+msgstr "Hezhong"
+
+#. Name for HIP 80170
+msgid "Hejian"
+msgstr "Hejian"
+
+#. Name for HIP 79043
+msgid "Jin"
+msgstr "Jin"
+
+#. Name for HIP 78072
+msgid "Zheng"
+msgstr "Zheng"
+
+#. Name for HIP 77233
+msgid "Zhou"
+msgstr "Zhou"
+
+#. Name for HIP 76276
+msgid "Qin"
+msgstr "Qin"
+
+#. Name for HIP 77070
+msgid "Shu"
+msgstr "Shu"
+
+#. Name for HIP 77622
+msgid "Ba"
+msgstr "Ba"
+
+#. Name for HIP 79593
+msgid "Liang"
+msgstr "Liang"
+
+#. Name for HIP 79882
+msgid "Chu"
+msgstr "Chu"
+
+#. Name for HIP 81377
+msgid "Han"
+msgstr "Han"
+
+#. Name for HIP 84379
+msgid "Wei"
+msgstr "Wei"
+
+#. Name for HIP 85693
+msgid "Zhao"
+msgstr "Zhao"
+
+#. Name for HIP 86974
+msgid "Jiuhe"
+msgstr "Jiuhe"
+
+#. Name for HIP 88794
+msgid "Zhongshan"
+msgstr "Zhongshan"
+
+#. Name for HIP 92043
+msgid "Qi"
+msgstr "Qi"
+
+#. Name for HIP 93747
+msgid "Wuyue"
+msgstr "Wuyue"
+
+#. Name for HIP 92946
+msgid "Xu"
+msgstr "Xu"
+
+#. Name for HIP 89962
+msgid "Donghai"
+msgstr "Donghai"
+
+#. Name for HIP 88048
+msgid "Yan"
+msgstr "Yan"
+
+#. Name for HIP 86263
+msgid "Nanhai"
+msgstr "Nanhai"
+
+#. Name for HIP 84012
+msgid "Song"
+msgstr "Song"
+
+#. Name for NAME Sun, native: 太阳
+#. Native name of the Sun in Chinese culture
+msgid "Taiyang"
+msgstr "Taiyang"
+
+#. Chinese Medieval constellation, native: Zi Wei Zuo Yuan
+msgid "Purple Forbidden East Wall"
+msgstr "Muro Leste Prohibido Púrpura"
+
+#. Chinese Medieval constellation, native: Zi Wei You Yuan
+msgid "Purple Forbidden West Wall"
+msgstr "Muro Oeste Prohibido Púrpura "
+
+#. Chinese Medieval constellation, native: Tai Wei Zuo Yuan
+msgid "Supreme Palace East Wall"
+msgstr "Muro Leste do Palacio Supremo"
+
+#. Chinese Medieval constellation, native: Tai Wei You Yuan
+msgid "Supreme Palace West Wall"
+msgstr "Muro Oeste do Palacio Supremo"
+
+#. Chinese Medieval constellation, native: San Tai
+msgid "Three Steps (Upper Step)"
+msgstr "Tres chanzos (Chanzo Superior)"
+
+#. Chinese Medieval constellation, native: San Tai
+msgid "Three Steps (Middle Step)"
+msgstr "Tres chanzos (Chanzo Medio)"
+
+#. Chinese Medieval constellation, native: San Tai
+msgid "Three Steps (Lower Step)"
+msgstr "Tres chanzos (Chanzo Inferior)"
+
+#. Chinese Medieval constellation, native: Tian Shi Zuo Yuan
+msgid "Heavenly Market East Wall"
+msgstr "Muro Leste do Mercado Celestial"
+
+#. Chinese Medieval constellation, native: Tian Shi You Yuan
+msgid "Heavenly Market West Wall"
+msgstr "Muro Oeste do Mercado Celestial"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Zhao)
+msgid "Twelve States (Zhao State)"
+msgstr "Doce Estgados (Estado Zhao)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Yue)
+msgid "Twelve States (Yue State)"
+msgstr "Doce Estgados (Estado Yue)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Zhou)
+msgid "Twelve States (Zhou State)"
+msgstr "Doce Estgados (Estado Zhou)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Qi)
+msgid "Twelve States (Qi State)"
+msgstr "Doce Estgados (Estado Qi)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Zheng)
+msgid "Twelve States (Zheng State)"
+msgstr "Doce Estgados (Estado Zheng)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Chu)
+msgid "Twelve States (Chu State)"
+msgstr "Doce Estgados (Estado Chu)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Qin)
+msgid "Twelve States (Qin State)"
+msgstr "Doce Estgados (Estado Qin)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Yan)
+msgid "Twelve States (Yan State)"
+msgstr "Doce Estgados (Estado Yan)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Wei)
+msgid "Twelve States (Wei State)"
+msgstr "Doce Estgados (Estado Wei)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Dai)
+msgid "Twelve States (Dai State)"
+msgstr "Doce Estgados (Estado Dai)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Jin)
+msgid "Twelve States (Jin State)"
+msgstr "Doce Estgados (Estado Jin)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Han)
+msgid "Twelve States (Han State)"
+msgstr "Doce Estgados (Estado Han)"
+
+#. Chinese Medieval constellation, native: Ji Shi Qi
+msgid "Cumulative Corpse Gas"
+msgstr "Gas de Cadáveres Amoreados"
+
+#. Chinese Medieval constellation, native: Tu Si Kong(Zhen Xiu)
+msgid "Master of Constructions (In Chariot Mansion)"
+msgstr "Mestre de Construcións (na Mansión do Carro)"
+
+#. Name for HIP 57565
+msgid "Taizi/Crown Prince"
+msgstr "Taizi/Príncipe Herdeiro"
+
+#. Name for HIP 72607
+msgid "Di/Emperor"
+msgstr "Di/Emperador"
+
+#. Name for HIP 70692
+msgid "Shuzi/Bastard"
+msgstr "Shuzi/Bastardo"
+
+#. Name for HIP 69112
+msgid "Hougong/Harem"
+msgstr "Hougong/Harén"
+
+#. Name for HIP 54061
+msgid "Tianshu/The Celestial Pivot"
+msgstr "Tianshu/O Pivote Celestial"
+
+#. Name for HIP 62572
+msgid "Niuxing/Ancient Star"
+msgstr "Niuxing/Antiga Estrela"
+
+#. Name for HIP 11767
+msgid "Yuanshi/The Origin of All Things"
+msgstr "Yuanshi/A Orixe de Todo"
+
+#. Name for HIP 115746
+msgid "Tianhuangdadi/Great Emperor of Heaven"
+msgstr "Tianhuangdadi/Gran Emperador do Ceo"
+
+#. Name for HIP 86614
+msgid "Nüshi/Female Protocol"
+msgstr "Nüshi/Protocolo Feminino"
+
+#. Name for HIP 89937
+msgid "Zhushi/Official of Royal Archives"
+msgstr "Zhushi/Oficial de Arquivos Reais"
+
+#. Name for HIP 68756
+msgid "Youshu/Right Pivot"
+msgstr "Youshu/Pivote Dereito"
+
+#. Name for HIP 61281
+msgid "Shaowei/The Second Commandant"
+msgstr "Shaowei/O Segundo Comandante"
+
+#. Name for HIP 56211
+msgid "Shangfu/The Great Advisor"
+msgstr "Shangfu/O Gran Conselleiro"
+
+#. Name for HIP 46977
+msgid "Shaofu/The Second Advisor"
+msgstr "Shaofu/O Segundo Conselleiro"
+
+#. Name for HIP 33827
+msgid "Shangwei/The Great Imperial Guard"
+msgstr "Shangwei/O Gran Garda Imperial"
+
+#. Name for HIP 24254
+msgid "Shaowei/The Second Imperial Guard"
+msgstr "Shaowei/O Segundo Gran Garda Imperial"
+
+#. Name for HIP 14862
+msgid "Shangcheng/The Great Imperial Minister"
+msgstr "Shangcheng/O Gran Ministro Imperial"
+
+#. Name for HIP 75458
+msgid "Zuoshu/Left Pivot"
+msgstr "Zuoshu/Pivote Esquerdo"
+
+#. Name for HIP 78527
+msgid "Shangzai/The Great Prime Minister"
+msgstr "Shangzai/O Gran Primeiro Ministro"
+
+#. Name for HIP 80331
+msgid "Shaozai/The Second Prime Minister"
+msgstr "Shaozai/O Segundo Primeiro Ministro"
+
+#. Name for HIP 83895
+msgid "Shangbi/The Great Protector"
+msgstr "Shangbi/O Gran Protector"
+
+#. Name for HIP 89908
+msgid "Shaobi/The Second Protector"
+msgstr "Shaobi/O Segundo Protector"
+
+#. Name for HIP 6522
+msgid "Shaocheng/The Second Imperial Minister"
+msgstr "Shaocheng/O Segundo Ministro Imperial"
+
+#. Name for HIP 67627
+msgid "Tianyi/Celestial Great One"
+msgstr "Tianyi/O Grande Celestial"
+
+#. Name for HIP 66798
+msgid "Taiyi/First Great One"
+msgstr "Taiyi/Primeiro O Grande"
+
+#. Name for HIP 53910
+msgid "Tianxuan/The Celestial Rotating Jade"
+msgstr "Tianxuan/O Xade Xiratorio Celeste"
+
+#. Name for HIP 58001
+msgid "Tianji/The Celestial Shining Pearl"
+msgstr "Tianji/A Perla Brillante Celestial"
+
+#. Name for HIP 59774
+msgid "Tianquan/The Celestial Balance"
+msgstr "Tianquan/O Equilibrio Celestial"
+
+#. Name for HIP 62956
+msgid "Yuheng/The Jade Sighting-tube"
+msgstr "Yuheng/O tuto de Observación de Xade"
+
+#. Name for HIP 65378
+msgid "Kaiyang/The Opener of Heat"
+msgstr "Kaiyang/O que Abre a Calor"
+
+#. Name for HIP 67301
+msgid "Yaoguang/The Twinkling Brilliance"
+msgstr "Yaoguang/O Brillo Escintilante"
+
+#. Name for HIP 54061
+msgid "Tanlang/Greedy Wolf"
+msgstr "Tanlang/Lobo cobizoso"
+
+#. Name for HIP 53910
+msgid "Jumen/Giant Gate"
+msgstr "Jumen/Porta do Xigante"
+
+#. Name for HIP 58001
+msgid "Lucun/Good Fortune Star"
+msgstr "Lucun/Estrela da Fortuna de Deus"
+
+#. Name for HIP 59774
+msgid "Wenqu/Literary Star"
+msgstr "Wenqu/Estrela Literaria"
+
+#. Name for HIP 62956
+msgid "Lianzhen/Clean and Chaste"
+msgstr "Lianzhen/Limpo e Casto"
+
+#. Name for HIP 65378
+msgid "Wuqu/Military Star"
+msgstr "Wuqu/Estrela Militar"
+
+#. Name for HIP 67301
+msgid "Pojun/Break the Enemy"
+msgstr "Pojun/Romper ó Inimigo"
+
+#. Name for HIP 54061
+msgid "Zheng/Justice"
+msgstr "Zheng/Xustiza"
+
+#. Name for HIP 53910
+msgid "Fa/Law"
+msgstr "Fa/Lei"
+
+#. Name for HIP 58001
+msgid "Ling/Command"
+msgstr "Ling/Comando"
+
+#. Name for HIP 59774
+msgid "Fa/Crusade"
+msgstr "Fa/Cruzada"
+
+#. Name for HIP 62956
+msgid "Sha/Killing"
+msgstr "Sha/Asasinato"
+
+#. Name for HIP 65378
+msgid "Wei/Danger"
+msgstr "Wei/Perigo"
+
+#. Name for HIP 67301
+msgid "Bu/Army"
+msgstr "Bu/Armada"
+
+#. Name for HIP 65477
+msgid "Fu/Assistant"
+msgstr "Fu/Asistente"
+
+#. Name for HIP 69732
+msgid "Xuange/Sombre Lance"
+msgstr "Xuange/Lanza Sombría"
+
+#. Name for HIP 60988
+msgid "Xiang/Prime Minister"
+msgstr "Xiang/Primeiro Ministro"
+
+#. Name for HIP 57399
+msgid "Taiyangshou/Guard of the Sun"
+msgstr "Taiyangshou/Gardián do Sol"
+
+#. Name for HIP 54539
+msgid "Taizun/Royals"
+msgstr "Taizun/Realeza"
+
+#. Name for HIP 46733
+msgid "Shangjiang/Great General"
+msgstr "Shangjiang/Gran Xeneral"
+
+#. Name for HIP 48319
+msgid "Cijiang/Second General"
+msgstr "Cijiang/Segundo Xeneral"
+
+#. Name for HIP 48319
+msgid "Shangshu/Royal Secretary"
+msgstr "Shangshu/Secretario Real"
+
+#. Name for HIP 48402
+msgid "Guixiang/Distinguished Primer"
+msgstr "Guixiang/Primeiro Ministro Distinguido"
+
+#. Name for HIP 48402
+msgid "Taichang/Minister of Justice"
+msgstr "Taichang/Ministro de Xustiza"
+
+#. Name for HIP 46853
+msgid "Silu/Deified Judge of Rank"
+msgstr "Silu/Xuíz de Rango Deificado"
+
+#. Name for HIP 46853
+msgid "Sizhong/Deified Judge of Disaster"
+msgstr "Sizhong/Xuíz Deificado do Desastre"
+
+#. Name for HIP 46853
+msgid "Sili/Senior Judge"
+msgstr "Sili/Xuíz Veterano"
+
+#. Name for HIP 44901
+msgid "Siming/Deified Judge of Life"
+msgstr "Siming/Xuíz de Vida Deificado"
+
+#. Name for HIP 44901
+msgid "Siguai/Deity in Charge of Monsters"
+msgstr "Siguai/Deidade a Cargo de Monstros"
+
+#. Name for HIP 37740
+msgid "Taishi/Court Historian"
+msgstr "Taishi/Xulgado Histórico"
+
+#. Name for HIP 44504
+msgid "Sikou/Supreme Judge"
+msgstr "Sikou/Xuíz Supremo"
+
+#. Name for HIP 44504
+msgid "Dali/Minister of Justice"
+msgstr "Dali/Ministro de Xustiza"
+
+#. Name for HIP 57632
+msgid "Huangdizuo/Seat of Yellow Emperor"
+msgstr "Huangdizuo/Cadeira do Emperador Amarela"
+
+#. Name for HIP 58159
+msgid "Cangdi/Azure Emperor"
+msgstr "Cangdi/Emperador Azul"
+
+#. Name for HIP 57779
+msgid "Chidi/Red Emperor"
+msgstr "Chidi/Emperador Vermello"
+
+#. Name for HIP 57320
+msgid "Baidi/White Emperor"
+msgstr "Baidi/Emperador Branco"
+
+#. Name for HIP 57646
+msgid "Heidi/Black Emperor"
+msgstr "Heidi/Emperador Negro"
+
+#. Name for HIP 56975
+msgid "Congguan/Retinue"
+msgstr "Congguan/Séguito"
+
+#. Name for HIP 58858
+msgid "Xingchen/Officer of Honour"
+msgstr "Xingchen/Oficial de Honra"
+
+#. Name for HIP 57757
+msgid "Youzhifa/Right Law Administrator"
+msgstr "Youzhifa/Administrador da Lei Dereito"
+
+#. Name for HIP 55434
+msgid "Xishangjiang/The Great Western General"
+msgstr "Xishangjiang/O Gran Xeneral do Oeste"
+
+#. Name for HIP 55642
+msgid "Xicijiang/The Second Western General"
+msgstr "Xicijiang/O Segundo Xeneral do Oeste"
+
+#. Name for HIP 54879
+msgid "Xicixiang/The Second Western Premier"
+msgstr "Xicixiang/O Segundo Primeiro Ministro do Oeste"
+
+#. Name for HIP 54872
+msgid "Xishangxiang/The Great Western Premier"
+msgstr "Xishangxiang/O Gran Primeiro Ministro do Oeste"
+
+#. Name for HIP 60129
+msgid "Zuozhifa/Left Law Administrator"
+msgstr "Zuozhifa/Administrador de Lei Esquerdo"
+
+#. Name for HIP 61941
+msgid "Dongshangxiang/The Great Eastern Premier"
+msgstr "Dongshangxiang/O Gran Primeiro Ministro do Leste"
+
+#. Name for HIP 63090
+msgid "Dongcixiang/The Second Eastern Premier"
+msgstr "Dongcixiang/O Segundo Primeiro Ministro do Leste"
+
+#. Name for HIP 63608
+msgid "Dongcijiang/The Second Eastern General"
+msgstr "Dongcijiang/O Segundo Xeneral do Leste"
+
+#. Name for HIP 64241
+msgid "Dongshangjiang/The Great Eastern General"
+msgstr "Dongshangjiang/O Gran Xeneral do Leste"
+
+#. Name for HIP 44127
+msgid "Tianzi/Son of Heaven"
+msgstr "Tianzi/Fillo do Ceo"
+
+#. Name for HIP 44471
+msgid "Nüzhu/Empress"
+msgstr "Nüzhu/Emperatriz"
+
+#. Name for HIP 50372
+msgid "Zhuhousangong/ Feudal Kings and Three Excellencies"
+msgstr "Zhuhousangong/Reis Feudais e Tres Excelencias"
+
+#. Name for HIP 50801
+msgid "Qingdafu/High Ministers and Nobles"
+msgstr "Qingdafu/Altos Ministros e Nobres"
+
+#. Name for HIP 55219
+msgid "Shi/Gentry"
+msgstr "Shi/Alta Burguesía"
+
+#. Name for HIP 55203
+msgid "Shuren/Common People"
+msgstr "Shuren/Xente Común"
+
+#. Name for HIP 54951
+msgid "Huben/Emperor's Bodyguard"
+msgstr "Huben/Gardacostas do Emperador"
+
+#. Name for HIP 60172
+msgid "Yezhe/Usher to the Court"
+msgstr "Yezhe/Asistente da Corte"
+
+#. Name for HIP 84345
+msgid "Dizuo/Emperor's Seat"
+msgstr "Dizuo/Trono do Emperador"
+
+#. Name for HIP 86032
+msgid "Hou/Astrologer"
+msgstr "Hou/Astrólogo"
+
+#. Name for HIP 64238
+msgid "Jinxian/Recommending Virtuous Men"
+msgstr "Jinxian/Recomendando Homes Virtuosos"
+
+#. Name for HIP 69673
+msgid "Dajiao/Great Horn"
+msgstr "Dajiao/Gran Corno"
+
+#. Name for HIP 72622
+msgid "Shi/Wedded Wife"
+msgstr "Shi/Muller Casada"
+
+#. Name for HIP 74392
+msgid "Qie/Minor Concubine"
+msgstr "Qie/Concubina Menor"
+
+#. Name for HIP 69879
+msgid "Zhaoyao/Twinkling Indicator"
+msgstr "Zhaoyao/Indicador de Escintileo"
+
+#. Name for HIP 77516
+msgid "Tianru/Celestial Milk"
+msgstr "Tianru/Leite Celestial"
+
+#. Name for HIP 74376
+msgid "Qizhenjiangjun/Chariots and Cavalry General"
+msgstr "Qizhenjiangjun/Xeneral de Carros e Cabalería"
+
+#. Name for HIP 78265
+msgid "Cijiang/The Second General"
+msgstr "Cijiang/O Segundo Xeneral"
+
+#. Name for HIP 78104
+msgid "Shangjiang/The Great General"
+msgstr "Shangjiang/O Gran Xeneral"
+
+#. Name for HIP 78401
+msgid "Cixiang/The Second General"
+msgstr "Cixiang/O Segundo Xeneral"
+
+#. Name for HIP 78820
+msgid "Shangxiang/The Great Premier"
+msgstr "Shangxiang/O Gran Primeiro Ministro"
+
+#. Name for HIP 79374
+msgid "Jianbi/Door Bolt"
+msgstr "Jianbi/Porlón"
+
+#. Name for HIP 77840
+msgid "Ri/Solar Star"
+msgstr "Ri/Estrela Solar"
+
+#. Name for HIP 80763
+msgid "Tianwang/Celestial King"
+msgstr "Tianwang/Rei Celestial"
+
+#. Name for HIP 80763
+msgid "Mingtang/Cosmological Temple"
+msgstr "Mingtang/Templo Cosmolóxico"
+
+#. Name for HIP 80763
+msgid "Dahuo/Great Fire"
+msgstr "Dahuo/Gran Lume"
+
+#. Name for HIP 82396
+msgid "Hou/Empress Consort"
+msgstr "Hou/Emperatriz Consorte"
+
+#. Name for HIP 50583
+msgid "Fei/Imperial Consort"
+msgstr "Fei/Consorte Imperial"
+
+#. Name for HIP 86228
+msgid "Pin/Imperial Concubine"
+msgstr "Pin/Concubina Imperial"
+
+#. Name for HIP 82545
+msgid "Shengong/Changing Room"
+msgstr "Shengong/Vestiario"
+
+#. Name for HIP 87261
+msgid "Fuyue/Fu Yue"
+msgstr "Fu Yue/Fu Yue"
+
+#. Name for HIP 88550
+msgid "Kang/Chaff"
+msgstr "Kang/Palla"
+
+#. Name for HIP 92041
+msgid "Tiantong/Celestial Collaborators"
+msgstr "Tiantong/Colaboradores Celestiais"
+
+#. Name for HIP 92041
+msgid "Fu/Blessing"
+msgstr "Fu/Benzón"
+
+#. Name for HIP 90496
+msgid "Tianxiang/Celestial Premier"
+msgstr "Tianxiang/Primeiro Ministro Celestial"
+
+#. Name for HIP 90496
+msgid "Yin/Stamp"
+msgstr "Yin/Carimbo"
+
+#. Name for HIP 89341
+msgid "Qisha/Seven Assassins"
+msgstr "Qisha/Sete Asasinos"
+
+#. Name for HIP 89341
+msgid "Jiang/General"
+msgstr "Jiang/Xeneral"
+
+#. Name for HIP 92855
+msgid "Tianji/Celestial Secret"
+msgstr "Tianji/Segredo Celestial"
+
+#. Name for HIP 92855
+msgid "Shan/Kindness"
+msgstr "Shan/Amabilidade"
+
+#. Name for HIP 93864
+msgid "Tianliang/Celestial Beam"
+msgstr "Tianliang/Feixe Celestial"
+
+#. Name for HIP 93864
+msgid "Yin/Shade"
+msgstr "Yin/Sombra"
+
+#. Name for HIP 93506
+msgid "Tianfu/Celestial Official"
+msgstr "Tianfu/Oficial Celestial"
+
+#. Name for HIP 90763
+msgid "Nongzhangren/Peasant"
+msgstr "Nongzhangren/Campesiño"
+
+#. Name for HIP 97649
+msgid "Dajiangjun/Great General"
+msgstr "Dajiangjun/Gran Xeneral"
+
+#. Name for HIP 98036
+msgid "Zuojiangjun/Left General"
+msgstr "Zuojiangjun/Xeneral da Esquerda"
+
+#. Name for HIP 97278
+msgid "Youjiangjun/Right General"
+msgstr "Youjiangjun/Xeneral da Dereita"
+
+#. Name for HIP 97649
+msgid "Qianniuxing/Cowboy"
+msgstr "Qianniuxing/Gandeiro"
+
+#. Name for HIP 91262
+msgid "Zhinüxing/Weaving Girl"
+msgstr "Zhinüxing/Tecelá"
+
+#. Name for HIP 102014
+msgid "Yue"
+msgstr "Yue"
+
+#. Name for HIP 111188
+msgid "Tiangang/Materials for Making Tents"
+msgstr "Tiangang/Materiais para Facer Tendas"
+
+#. Name for HIP 113368
+msgid "Beiluoshimen/North Gate of the Military Camp"
+msgstr "Beiluoshimen/Porta Norte do Campo Militar"
+
+#. Name for HIP 746
+msgid "Wangliang/Wang Liang"
+msgstr "Wangliang/Wang Liang"
+
+#. Name for HIP 2920
+msgid "Tiansi/Celestial Horse"
+msgstr "Tiansi/Cabalo Celestial"
+
+#. Name for HIP 2599
+msgid "Ce/Whip"
+msgstr "Ce/Tralla"
+
+#. Name for HIP 6686
+msgid "Fulu/Auxiliary Road"
+msgstr "Fulu/Camiño Auxiliar"
+
+#. Name for HIP 8796
+msgid "Junnanmen/Southern Military Gate"
+msgstr "Junnanmen/Porta Militar do Sur"
+
+#. Name for HIP 3419
+msgid "Tusikong/Master of Constructions"
+msgstr "Tusikong/Maestre de Construcións"
+
+#. Name for HIP 13879
+msgid "Jishi/Heap of Corpses"
+msgstr "Jishi/Morea de Cadáveres"
+
+#. Name for HIP 18453
+msgid "Jishui/Stored Water"
+msgstr "Jishui/Auga Almacenada"
+
+#. Name for HIP 15696
+msgid "Tiane/Celestial Concave"
+msgstr "Tiane/Cóncavo Celestial"
+
+#. Name for HIP 19038
+msgid "Yue/Lunar Star"
+msgstr "Yue/Estrela Lunar"
+
+#. Name for HIP 17886
+msgid "Tianchan/Celestial Slander"
+msgstr "Tianchan/Calumnia Celestial"
+
+#. Name for HIP 21421
+msgid "Tiangao/Celestial High Terrace"
+msgstr "Tiangao/Alta Terraza Celestial"
+
+#. Name for HIP 21421
+msgid "Bianjiang/Side-general"
+msgstr "Bianjiang/Xeneral Acompañante"
+
+#. Name for HIP 21683
+msgid "Fuer/Whisper"
+msgstr "Fuer/Murmurio"
+
+#. Name for HIP 26451
+msgid "Tianguan/Celestial Pass"
+msgstr "Tianguan/Paso Celestial"
+
+#. Name for HIP 25930
+msgid "Hengshi/Scales"
+msgstr "Hengshi/Escalas"
+
+#. Name for HIP 27989
+msgid "Zuojian/Left Shoulder"
+msgstr "Zuojian/Ombreiro Esquerdo"
+
+#. Name for HIP 25336
+msgid "Youjian/Right Shoulder"
+msgstr "Youjian/Ombreiro Dereito"
+
+#. Name for HIP 27366
+msgid "Zuozu/Left Foot"
+msgstr "Zuozu/Pé Esquerdo"
+
+#. Name for HIP 24436
+msgid "Youzu/Right Foot"
+msgstr "Youzu/Pé Dereito"
+
+#. Name for HIP 27072
+msgid "Shi/Excrement"
+msgstr "Shi/Excremento"
+
+#. Name for HIP 29655
+msgid "Yue/Battle Axe"
+msgstr "Yue/Machada de Batalla"
+
+#. Name for HIP 33018
+msgid "Dishi/Emperor Teacher"
+msgstr "Dishi/Mestre do Emperador"
+
+#. Name for HIP 34693
+msgid "Diyou/Emperor friend"
+msgstr "Diyou/Amigo do Emperador"
+
+#. Name for HIP 36046
+msgid "Sangong/Three excellencies"
+msgstr "Sangong/Tres Excelencias"
+
+#. Name for HIP 36962
+msgid "Boshi/Doctor"
+msgstr "Boshi/Doutor"
+
+#. Name for HIP 37265
+msgid "Jishui/Accumulated Water"
+msgstr "Jishui/Auga Acumulada"
+
+#. Name for HIP 39659
+msgid "Jixin/Pile of Firewood"
+msgstr "Jixin/Pía de Leña"
+
+#. Name for HIP 30324
+msgid "Yeji/Wild Cockerel"
+msgstr "Yeji/Pita do Monte"
+
+#. Name for HIP 32349
+msgid "Lang/Wolf"
+msgstr "Lang/Lobo"
+
+#. Name for HIP 32349
+msgid "Tianlang/Celestial Wolf"
+msgstr "Tianlang/Lobo Celestial"
+
+#. Name for HIP 30438
+msgid "Laoren/Old Man"
+msgstr "Laoren/Home Vello"
+
+#. Name for HIP 30438
+msgid "Nanjilaoren/The Southernmost Old Man"
+msgstr "Nanjilaoren/O Home Vello Máis Meridional"
+
+#. Name for HIP 33977
+msgid "Shi/Arrow"
+msgstr "Shi/Frecha"
+
+#. Name for HIP 43067
+msgid "Tianji/Judge for Estimating the Age of Animals"
+msgstr "Tianji/Xuíz para Estimar a Idade dos Animais"
+
+#. Name for HIP 44248
+msgid "Cifei/Minor Imperial Consort"
+msgstr "Cifei/Consorte Imperial Menor"
+
+#. Name for HIP 49583
+msgid "Furen/Highest-ranking Imperial Consort"
+msgstr "Furen/Consorte Imperial de Maior Rango"
+
+#. Name for HIP 47508
+msgid "Damin/Patriarchal Clan of Empress Dowager"
+msgstr "Damin/Clan Patriarcal de Emperatriz Viúva"
+
+#. Name for HIP 51624
+msgid "Shaomin/Patriarchal Clan of Empress Consort"
+msgstr "Shaomin/Clan Patriarcal de Emperatriz Consorte"
+
+#. Name for HIP 49637
+msgid "Yunü/Maids-in-waiting"
+msgstr "Yunü/Criadas agardando"
+
+#. Name for HIP 59199
+msgid "Youxia/Right linchpin"
+msgstr "Youxia/Eixe Dereito"
+
+#. Name for HIP 61174
+msgid "Zuoxia/Left linchpin"
+msgstr "Zuoxia/Eixe Esquerdo"
+
+#. Name for HIP 60189
+msgid "Changsha/Changsha"
+msgstr "Changsha/Changsha"
+
+#. Name for HIP 746
+msgid "Determinative Star"
+msgstr "Estrela Determinativa"
+
+#. Name for NAME Moon, native: 太阴
+#. Native name of the Moon in Chinese culture
+msgid "Taiyin"
+msgstr "Taiyin"
+
+#. Name for NAME Mercury, native: 辰星
+#. Native name of Mercury in Chinese culture
+msgid "Chen Star"
+msgstr "Estrela Chen"
+
+#. Name for NAME Venus, native: 太白
+#. Native name of Venus in Chinese culture
+msgid "Taibai"
+msgstr "Taibai"
+
+#. Name for NAME Mars, native: 荧惑
+#. Native name of Mars in Chinese culture
+msgid "Yinghuo"
+msgstr "Yinghuo"
+
+#. Name for NAME Jupiter, native: 岁星
+#. Native name of Jupiter in Chinese culture
+msgid "Sui Star"
+msgstr "Estrela Sui"
+
+#. Name for NAME Saturn, native: 填星
+#. Native name of Saturn in Chinese culture
+msgid "Zhen Star"
+msgstr "Estrela Zhen"
+
+#. Name for M 44
+msgid "Jishiqi / Cumulative Corpse Gas"
+msgstr "Jishiqi / Gas de Cadáveres Amoreados"
+
+#. Name for M 7
+msgid "Yu / Fish"
+msgstr "Yu / Peixe"
+
+#. Name for M 45
+msgid "Maotou / Ancient Flag with Yak's Tail"
+msgstr "Maotou / Antiga bandeira con rabo de Yak"

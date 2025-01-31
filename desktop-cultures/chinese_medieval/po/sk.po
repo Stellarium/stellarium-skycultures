@@ -1,0 +1,2315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
+"Language-Team: Slovak (https://app.transifex.com/stellarium/teams/80998/"
+"sk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n == 1 ? 0 : n % 1 == 0 && n "
+">= 2 && n <= 4 ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#. Sky culture name
+msgid "Chinese Medieval"
+msgstr "Čínska (stredoveká)"
+
+#. Sky culture introduction section in markdown format
+msgid ""
+"This sky culture is based on the observation data of Huangyou four years "
+"(1052 AD), and presents the medieval Chinese sky map as faithfully as "
+"possible. This sky culture includes 283 Xingguans (星官, Chinese "
+"Constellations) and 1464 stars (including clusters M7, M44) of the "
+"*Xinyixiangfayao Star Map*. And the determinative star is marked for each "
+"Xingguan that can determine the determinative star. The boundaries of Twenty-"
+"eight Lunar Mansions are based on 1052 AD."
+msgstr ""
+"Táto kultúra hviezdnej oblohy je založená na pozorovacích dátach zo štyroch "
+"rokov z Chuangjou (1052 n.l.) a zobrazuje stredovekú mapu čo najvernejšie, "
+"ako bolo možné. Táto kultúra oblohy obsahuje 283 Singkuanov (星官, čínskych "
+"súhvezdí) a 1464 hviezd (vrátane hviezdokôp M7, M44) z *Hviezdnej mapy "
+"Sinjisiangfajao*. Určujúca hviezda každého Singkuanu je označená. Hranice "
+"dvadsiatich ôsmych Mesačných dómov sú z roku 1052 n.l."
+
+#. Sky culture description section in markdown format
+msgid ""
+"### Medieval Xingguans\n"
+"\n"
+"From the Three Kingdoms Period to the Ming Dynasty, covering the whole of "
+"the Middle Ages, China's star map is similar.\n"
+"\n"
+"The Xingguans originated in ancient times. Wuxian (巫咸) of Shang "
+"Dynasty(16th century BC-1046 BC), Gan De (甘德) and Shi Shen (石申) of The "
+"Warring States Period (475–221 BC), created their own Xingguan system "
+"respectively. During the Three Kingdoms period (220–280 AD), Chen Zhuo (陈"
+"卓) summarized the Xingguans system of Gan De, Shi Shen and Wuxian, "
+"including 283 Xingguans and 1464 stars. Since then, Xingguan system has been "
+"basically defined, and after a thousand years, there has not been much "
+"change. Since the 17th century, Western astronomy has had an impact on "
+"Chinese astronomy, and the shape and number of Xingguans have changed "
+"significantly. Only about half of the constellations maintained the medieval "
+"style.\n"
+"\n"
+"Determinative star is an important concept. In the Middle Ages, Chinese "
+"astronomers did not name all stars, and each Xingguans was chosen as a major "
+"star called determinative star. In ancient China, astronomical measurements "
+"measured its coordinate position, and other stars in the Xingguan were "
+"rarely mentioned. However, some important constellations will be selected "
+"more stars for observation and recording. In ancient China, astronomers used "
+"mansion distance degrees (determinative star distance) and polar distance "
+"degrees to record the position of stars. **In ancient China, the "
+"determinative stars of Twenty-eight Lunar Mansions was the benchmark for "
+"determining the longitude of the equatorial coordinate system**.\n"
+"\n"
+"The *Song of the Sky Pacers* (步天歌) is an early Chinese star catalogue in "
+"the form of poem in heptasyllabic verse, enumerating the names of stars.\n"
+"\n"
+"Below is *Xinyixiangfayao Star Map* from Su Song(苏颂, 1020-1101 AD).\n"
+"\n"
+"![](illustrations/xyxfy.png)\n"
+"\n"
+"*Xinyixiangfayao Star Map(1088 AD)*\n"
+"\n"
+"### Restore Sky Map\n"
+"\n"
+"The sky map of the Song dynasty is typical of the Chinese medieval sky map. "
+"In 1052 AD, the Song Dynasty official conducted accurate stellar "
+"measurements, leaving a lot of data.\n"
+"\n"
+"Pan Nai(潘鼐) collated these astronomical observations data and based on the "
+"*Xinyixiangfayao Star Map*, he restored most of the Song Dynasty's Xingguan "
+"in his masterpiece *The History of Stellar Observation in China*, which is "
+"the most important reference book. Qi Rui (齐锐) and Wan Haoyi (万昊宜) also "
+"restored the Xingguans of the Song Dynasty in the book *Roving China "
+"Heavens*, which is also an important reference book.\n"
+"\n"
+"Due to the limitation of observation conditions in Song Dynasty, combined "
+"with instruments, circulated errors and other reasons, different scholars "
+"restored the sky map is somewhat different.\n"
+"\n"
+"Based on these books, Stellarium can almost truly present the Chinese "
+"medieval sky map of Huangyou four years (1052 AD).\n"
+"\n"
+"### Planets\n"
+"\n"
+"Taiyang (太阳), Sun. The name comes from yin and yang, meaning a lot of "
+"yang,\n"
+"\n"
+"Taiyin (太阴), Moon. The name comes from yin and yang, meaning a lot of "
+"Yin,\n"
+"\n"
+"Chen Star (辰星), Mercury. Chen is an angle unit, which refers to about 30 "
+"degrees. Mercury is always within 30 degrees of the sun.\n"
+"\n"
+"Taibai (太白), Venus. Taibai means big and white.\n"
+"\n"
+"Yinghuo (荧惑), Mars. The colors of Mars are like fire, and movement is "
+"confusing.\n"
+"\n"
+"Sui Star (岁星), Jupiter. It means the old star. Jupiter travels around the "
+"celestial sphere for a week every 12 years. The ancients took Jupiter's "
+"position as the standard of the chronology.\n"
+"\n"
+"Zhen Star (填星), Saturn. Zhen, means passing Lunar Mansions. Saturn travels "
+"around the celestial sphere about every 28 years. Saturn will pass through a "
+"Lunar Mansion every year."
+msgstr ""
+"### Stredoveké Singkuany\n"
+"\n"
+"Čínska hviezdna mapa bola podobná od obdobia Troch kráľovstiev do dynastie "
+"Ming, počas celého stredoveku.\n"
+"\n"
+"Singkuany vznikli v staroveku. Wusian (巫咸) z dynastie Šang (16. storočie "
+"pred n.l. - 1046 pred n.l.), Kan Te (甘德) a Ši Šen (石申) z Obdobia "
+"bojujúcich štátov (475 - 221 pred n.l.) vytvorili svoje vlastné systémy "
+"Singkuanov. Počas Obdobia troch kráľovstiev (220 - 280 n.l.) zosumarizoval "
+"Čchen Čuo (陈卓) systém Singkuanov Kan Teho, Ši Šena a Wusiana, celkovo 283 "
+"Singkuanov a 1464 hviezd. Odvtedy bol systém Singkuanov definovaný a po "
+"tisíc rokov sa prakticky nemenil. Od 17. storočia mala západná astronómia "
+"silný vplyv na čínsku astronómiu a výrazne sa zmenil tvar a počet "
+"Singkuanov. Len asi polovica súhvezdí si zachovala svoj stredoveký štýl.\n"
+"\n"
+"Určujúca hviezda je dôležitý koncept. V stredoveku čínski astronómovia "
+"nepomenúvali všetky hviezdy a každý singkuan bol zvolený po tom, čo sa jasná "
+"hviezda nazvala určujúcou. V starovekej Číne sa astronomické merania "
+"vykonávali podľa jej súradnicovej polohy a ostatné hviezdy v singkuane boli "
+"málokedy spomenuté. Napriek tomu, niektoré dôležité súhvezdia mali vybrané "
+"viaceré hviezdy pre pozorovanie a záznamy. V starovekej Číne používali "
+"astronómovia na zaznamenanie polohy stupne nebeského dómu (vzdialenosť "
+"určujúcich hviezd) a polárnu vzdialenosť hviezd. **V starovekej Číne boli "
+"určujúce hviezdy dvadsiatich ôsmych Mesačných dómov orientačným bodom pre "
+"určenie dĺžky ekvatoreálnej súradnicovej sústavy**.\n"
+"\n"
+"*Pieseň o nebeských chodcoch* (步天歌) je raným čínskym katalógom hviezd vo "
+"forme básne v sedemslabičnom verši, ktorá vymenúva mená hviezd.\n"
+"\n"
+"Nižšie je *Hviezdna mapa Sinjisiangfajao* od Su Sunga (苏颂, 1020-1101 n."
+"l.).\n"
+"\n"
+"![](illustrations/xyxfy.png)\n"
+"\n"
+"*Hviezdna mapa Sinjisiangfajao (1088 n.l.)*\n"
+"\n"
+"### Obnoviť mapu oblohy\n"
+"\n"
+"Mapa oblohy dynastie Sung je typická Čínska stredoveká mapa oblohy. V roku "
+"1052 n.l. dynastia Sung oficiálne nariadila vykonanie presných hviezdnych "
+"meraní, zanechajúc množstvo údajov.\n"
+"\n"
+"Pan Naj (潘鼐) zoradil tieto astronomické pozorovania a podľa *Hviezdnej "
+"mapy Sinjisiangfajao* obnovil väčšinu Singkuanov dynastie Sung vo svojom "
+"majstrovskom diele *Dejiny pozorovania hviezd v Číne*, čo je stále "
+"najdôležitejšou knihou literatúry. Čchi Žui (齐锐) a Wan Chaoi (万昊宜) "
+"taktiež obnovili Singkuany dynastie Sung v knihe *Bludné čínske nebo*, čo je "
+"tiež dôležitá príručka.\n"
+"\n"
+"Pre obmedzenie v pozorovacích podmienkach v dynastii Sung, v kombinácii s "
+"prístrojmi, cyklickými chybami a z iných dôvodov, rôzni učenci obnovili mapu "
+"oblohy rôzne.\n"
+"\n"
+"Na základe týchto kníh dokáže Stellarium takmer dokonale zobraziť Čínsku "
+"stredovekú mapu zo štyroch rokov Chunagjou (1052 n.l.)\n"
+"\n"
+"### Planéty\n"
+"\n"
+"Tchajjang (太阳), Slnko. Názov pochádza z jin a jang, znamená veľa jang,\n"
+"\n"
+"Tchajjin (太阴), Mesiac. Názov pochádza z jin a jang, znamená veľa jin,\n"
+"\n"
+"Hviezda Čchen (辰星), Merkúr. Čchen je uhlová miera, ktorá zodpovedá asi 30 "
+"stupňom. Merkúr je vždy maximálne do 30 stupňov od Slnka.\n"
+"\n"
+"Tchajpaj (太白), Venuša. Tchajpaj znamená veľká a biela.\n"
+"\n"
+"Jingchuo (荧惑), Mars. Farba Marsu je ako oheň a jeho pohyb je mätúci.\n"
+"\n"
+"Hviezda Suj (岁星), Jupiter. Znamená stará hviezda. Jupiter putuje po "
+"nebeskej sfére týždeň každých 12 rokov. Ľudia staroveku považovali polohu "
+"Jupitera za štandard v meraní času.\n"
+"\n"
+"Hviezda Čen (填星), Saturn. Čen, znamená prechádzajúci Mesačnými dómami. "
+"Saturn putuje po nebeskej sfére asi 28 rokov. Každý rok prejde jedným "
+"Mesačným dómom."
+
+#. Sky culture references section in markdown format
+msgid ""
+" - [#1]: Pan Nai. The History of Stellar Observation in China\n"
+" - [#2]: Qi Rui and Wan Haoyi. Roving China Heavens\n"
+" - [#3]: Su Song. *Xinyixiangfayao Star Map*\n"
+" - [#4]: *Records of the Grand Historian*\n"
+" - [#5]: *Book of Sui*\n"
+" - [#6]: *History of Song*\n"
+"\n"
+"### External links\n"
+"\n"
+" - [wikipedia - Su Song](https://en.wikipedia.org/wiki/Su_Song)\n"
+" - [History of Song](http://chinesenotes.com/songshi.html)\n"
+" - [Records of the Grand Historian](http://chinesenotes.com/shiji.html)\n"
+" - [(Chinese) Song of the Sky Pacers](https://www.lcsd.gov.hk/CE/Museum/"
+"Space/archive/Research/Literature/c_research_literature_9.htm)\n"
+" - [wikipedia - Song of the Sky Pacers](https://en.wikipedia.org/wiki/"
+"Song_of_the_Sky_Pacers)\n"
+" - [(Chinese) Chinese Heaven in WWT Community Beijing](http://wwt.china-vo."
+"org/why/chineseheaven.htm)"
+msgstr ""
+" - [#1]: Pan Naj. Dejiny pozorovania hviezd v Číne\n"
+" - [#2]: Čchi Žuj a Wan Chaoji. Bludné čínske nebo\n"
+" - [#3]: Su Sung. *Hviezdna mapa Sinjisiangfajao*\n"
+" - [#4]: *Záznamy Veľkého historika*\n"
+" - [#5]: *Kniha Sujiho*\n"
+" - [#6]: *História dynastie Sung*\n"
+"\n"
+"### Externé zdroje\n"
+"\n"
+" - [wikipédia - Su Song](https://en.wikipedia.org/wiki/Su_Song)\n"
+" - [História dynastie Sung](http://chinesenotes.com/songshi.html)\n"
+" - [Záznamy Veľkého historika](http://chinesenotes.com/shiji.html)\n"
+" - [(čínsky) Pieseň o nebeských chodcoch](https://www.lcsd.gov.hk/CE/Museum/"
+"Space/archive/Research/Literature/c_research_literature_9.htm)\n"
+" - [wikipédia - Pieseň o nebeských chodcoch](https://en.wikipedia.org/wiki/"
+"Song_of_the_Sky_Pacers)\n"
+" - [(čínsky) Čínske nebo vo WWT komunite, Peking](http://wwt.china-vo.org/"
+"why/chineseheaven.htm)"
+
+#. Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user *Sun Shuwei* (孙殳玮) . "
+"[sunshuwei.hi@foxmail.com](mailto:sunshuwei.hi@foxmail.com)"
+msgstr ""
+"Túto kultúru oblohy do Stellaria pridal užívateľ *Sun Šuwej* (孙殳玮) . "
+"[sunshuwei.hi@foxmail.com](mailto:sunshuwei.hi@foxmail.com)"
+
+#. Chinese Medieval constellation, native: Lao Ren
+msgid "Old Man"
+msgstr "Starec"
+
+#. Chinese Medieval constellation, native: Gou
+msgid "Dog"
+msgstr "Pes"
+
+#. Chinese Medieval constellation, native: Yu
+msgid "Fish"
+msgstr "Ryba"
+
+#. Chinese Medieval constellation, native: Lang
+msgid "Wolf"
+msgstr "Vlk"
+
+#. Chinese Medieval constellation, native: Bi Xiu
+msgid "Net"
+msgstr "Sieť"
+
+#. Chinese Medieval constellation, native: Bi Xiu
+msgid "Wall"
+msgstr "Múr"
+
+#. Chinese Medieval constellation, native: Shen Xiu
+msgid "Three Stars"
+msgstr "Tri hviezdy"
+
+#. Chinese Medieval constellation, native: Di Xiu
+msgid "Root"
+msgstr "Koreň"
+
+#. Chinese Medieval constellation, native: Dou Xiu
+msgid "Dipper"
+msgstr "Naberačka"
+
+#. Chinese Medieval constellation, native: Fang Xiu
+msgid "Room"
+msgstr "Izba"
+
+#. Chinese Medieval constellation, native: Gui Xiu
+msgid "Ghosts"
+msgstr "Duchovia"
+
+#. Chinese Medieval constellation, native: Ji Xiu
+msgid "Winnowing Basket"
+msgstr "Preosievací kôš"
+
+#. Chinese Medieval constellation, native: Jiao Xiu
+msgid "Horn"
+msgstr "Roh"
+
+#. Chinese Medieval constellation, native: Jing Xiu
+msgid "Well"
+msgstr "Studňa"
+
+#. Chinese Medieval constellation, native: Kang Xiu
+msgid "Neck"
+msgstr "Krk"
+
+#. Chinese Medieval constellation, native: Kui Xiu
+msgid "Legs"
+msgstr "Nohy"
+
+#. Chinese Medieval constellation, native: Liu Xiu
+msgid "Willow"
+msgstr "Vŕba"
+
+#. Chinese Medieval constellation, native: Lou Xiu
+msgid "Bond"
+msgstr "Putá"
+
+#. Chinese Medieval constellation, native: Mao Xiu
+msgid "Hairy Head"
+msgstr "Vlasatá hlava"
+
+#. Chinese Medieval constellation, native: Niu Xiu
+msgid "Ox"
+msgstr "Vôl"
+
+#. Chinese Medieval constellation, native: Nü Xiu
+msgid "Girl"
+msgstr "Dievča"
+
+#. Chinese Medieval constellation, native: Shi Xiu
+msgid "Encampment"
+msgstr "Tábor"
+
+#. Chinese Medieval constellation, native: Wei Xiu
+msgid "Rooftop"
+msgstr "Strecha"
+
+#. Chinese Medieval constellation, native: Wei Xiu
+msgid "Tail"
+msgstr "Chvost"
+
+#. Chinese Medieval constellation, native: Wei Xiu
+msgid "Stomach"
+msgstr "Žalúdok"
+
+#. Chinese Medieval constellation, native: Xin Xiu
+msgid "Heart"
+msgstr "Srdce"
+
+#. Chinese Medieval constellation, native: Xing Xiu
+msgid "Star"
+msgstr "Hviezda"
+
+#. Chinese Medieval constellation, native: Xu Xiu
+msgid "Emptiness"
+msgstr "Prázdnota"
+
+#. Chinese Medieval constellation, native: Yi Xiu
+msgid "Wings"
+msgstr "Krídla"
+
+#. Chinese Medieval constellation, native: Zhang Xiu
+msgid "Extended Net"
+msgstr "Roztiahnutá sieť"
+
+#. Chinese Medieval constellation, native: Zhen Xiu
+msgid "Chariot"
+msgstr "Bojový voz"
+
+#. Chinese Medieval constellation, native: Zi Xiu
+msgid "Turtle Beak"
+msgstr "Zobák korytnačky"
+
+#. Chinese Medieval constellation, native: Ba Gu
+msgid "Eight Kinds of Crops"
+msgstr "Osem druhov plodín"
+
+#. Chinese Medieval constellation, native: Ba Kui
+msgid "Net for Catching Birds"
+msgstr "Sieť na chytanie vtákov"
+
+#. Chinese Medieval constellation, native: Bai Gua
+msgid "Rotten Gourd"
+msgstr "Zhnitá tekvica"
+
+#. Chinese Medieval constellation, native: Bai Jiu
+msgid "Decayed Mortar"
+msgstr "Rozpadnutý mažiar"
+
+#. Chinese Medieval constellation, native: Bei Dou
+msgid "Northern Dipper"
+msgstr "Severná naberačka"
+
+#. Chinese Medieval constellation, native: Bei He
+msgid "North River"
+msgstr "Severná rieka"
+
+#. Chinese Medieval constellation, native: Bei Ji
+msgid "Northern Pole"
+msgstr "Severný pól"
+
+#. Chinese Medieval constellation, native: Bei Luo Shi Men
+msgid "North Gate of the Military Camp"
+msgstr "Severná brána vojenského tábora"
+
+#. Chinese Medieval constellation, native: Bie
+msgid "River Turtle"
+msgstr "Riečna korytnačka"
+
+#. Chinese Medieval constellation, native: Bo Du
+msgid "Textile Ruler"
+msgstr "Predavač textilu"
+
+#. Chinese Medieval constellation, native: Can Qi
+msgid "Banner of Three Stars"
+msgstr "Vlajka troch hviezd"
+
+#. Chinese Medieval constellation, native: Ce
+msgid "Toilet"
+msgstr "Kúpeľňa"
+
+#. Chinese Medieval constellation, native: Ce
+msgid "Whip"
+msgstr "Bič"
+
+#. Chinese Medieval constellation, native: Chang Chen
+msgid "Royal Guards"
+msgstr "Kráľovskí strážcovia"
+
+#. Chinese Medieval constellation, native: Che Fu
+msgid "Big Yard for Chariots"
+msgstr "Veľký dvor pre bojové vozy"
+
+#. Chinese Medieval constellation, native: Che Qi
+msgid "Chariots and Cavalry"
+msgstr "Bojové vozy a kavaléria"
+
+#. Chinese Medieval constellation, native: Che Si
+msgid "Commodity Market"
+msgstr "Komoditný trh"
+
+#. Chinese Medieval constellation, native: Chu Hao
+msgid "Hay"
+msgstr "Seno"
+
+#. Chinese Medieval constellation, native: Chu(Ji Xiu)
+msgid "Pestle (In Winnowing Basket Mansion)"
+msgstr "Tĺčik (V dóme Preosievacieho koša)"
+
+#. Chinese Medieval constellation, native: Chu(Wei Xiu)
+msgid "Pestle (In Rooftop Mansion)"
+msgstr "Tĺčik (V dóme Strechy)"
+
+#. Chinese Medieval constellation, native: Chang Sha
+msgid "Changsha (Vassal of Chariot)"
+msgstr "Čangša (Vazal Bojového vozu)"
+
+#. Chinese Medieval constellation, native: Chuan She
+msgid "Guest House"
+msgstr "Hosťovský dom"
+
+#. Chinese Medieval constellation, native: Cong Guan(Fang Xiu)
+msgid "Retinue (In Room Mansion)"
+msgstr "Sprievod (V dóme Izby)"
+
+#. Chinese Medieval constellation, native: Cong Guan(Tai Wei Yuan)
+msgid "Retinue (In Supreme Palace Enclosure)"
+msgstr "Sprievod (V ohrade Najvyššieho paláca)"
+
+#. Chinese Medieval constellation, native: Da Jiao
+msgid "Great Horn"
+msgstr "Veľký roh"
+
+#. Chinese Medieval constellation, native: Da Li
+msgid "Chief Judge"
+msgstr "Hlavný sudca"
+
+#. Chinese Medieval constellation, native: Da Ling
+msgid "Mausoleum"
+msgstr "Mauzóleum"
+
+#. Chinese Medieval constellation, native: Tian Miao
+msgid "Celestial Temple"
+msgstr "Nebeský chrám"
+
+#. Chinese Medieval constellation, native: Di Xi
+msgid "Mattress of the Emperor"
+msgstr "Cisárov matrac"
+
+#. Chinese Medieval constellation, native: Di Zuo
+msgid "Emperor's Seat"
+msgstr "Cisárov trón"
+
+#. Chinese Medieval constellation, native: Dong Xian
+msgid "Eastern Door"
+msgstr "Východné dvere"
+
+#. Chinese Medieval constellation, native: Dou
+msgid "Dipper for Liquids"
+msgstr "Naberačka na tekutiny"
+
+#. Chinese Medieval constellation, native: Dun Wan
+msgid "Trials"
+msgstr "Procesy"
+
+#. Chinese Medieval constellation, native: Fa
+msgid "Send Armed Forces To Suppress (Vassal of Three Stars)"
+msgstr "Poslať armádu na potlačenie (Vazal Troch hviezd)"
+
+#. Chinese Medieval constellation, native: Fa
+msgid "Punishment"
+msgstr "Trest"
+
+#. Chinese Medieval constellation, native: Fen Mu
+msgid "Tomb (Vassal of Rooftop)"
+msgstr "Hrobka (Vazal Strechy)"
+
+#. Chinese Medieval constellation, native: Fu Yue
+msgid "Axe"
+msgstr "Sekera"
+
+#. Chinese Medieval constellation, native: Fu Zhi
+msgid "Sickle"
+msgstr "Kosák"
+
+#. Chinese Medieval constellation, native: Fu Kuang
+msgid "Basket for Mulberry Leaves"
+msgstr "Kôš na morušové listy"
+
+#. Chinese Medieval constellation, native: Fu Lu
+msgid "Auxiliary Road"
+msgstr "Pomocná cesta"
+
+#. Chinese Medieval constellation, native: Fu Yue
+msgid "Fu Yue"
+msgstr "Fu Jue"
+
+#. Chinese Medieval constellation, native: Gai Wu
+msgid "Roofing"
+msgstr "Zastrešenie"
+
+#. Chinese Medieval constellation, native: Gang
+msgid "Canopy Support (Vassal of Canopy of the Emperor)"
+msgstr "Podstavec baldachýnu (vazal Baldachýnu cisára)"
+
+#. Chinese Medieval constellation, native: Ge Dao
+msgid "Flying Corridor"
+msgstr "Lietajúca chodba"
+
+#. Chinese Medieval constellation, native: Geng He
+msgid "Celestial Lance"
+msgstr "Nebeský oštep"
+
+#. Chinese Medieval constellation, native: Gou Chen
+msgid "Curved Array"
+msgstr "Zakrivené pole"
+
+#. Chinese Medieval constellation, native: Gou Qian
+msgid "Lock (Vassal of Room)"
+msgstr "Zámok (Vazal Izby)"
+
+#. Chinese Medieval constellation, native: Gou Guo
+msgid "Territory of Dog"
+msgstr "Teritórium psa"
+
+#. Chinese Medieval constellation, native: Guan Suo
+msgid "Coiled Thong"
+msgstr "Zvinutý remeň"
+
+#. Chinese Medieval constellation, native: Guan
+msgid "Beacon Fire"
+msgstr "Oheň majáka"
+
+#. Chinese Medieval constellation, native: Gui
+msgid "Tortoise"
+msgstr "Korytnačka"
+
+#. Chinese Medieval constellation, native: Jun Men
+msgid "Military Gate"
+msgstr "Vojenská brána"
+
+#. Chinese Medieval constellation, native: He Gu
+msgid "Drum at the River"
+msgstr "Riečny bubon"
+
+#. Chinese Medieval constellation, native: Heng
+msgid "Railings"
+msgstr "Zábradlia"
+
+#. Chinese Medieval constellation, native: Hou
+msgid "Astrologer"
+msgstr "Astrológ"
+
+#. Chinese Medieval constellation, native: Hu Shi
+msgid "Bow and Arrow"
+msgstr "Luk a Šíp"
+
+#. Chinese Medieval constellation, native: Hu
+msgid "Dipper for Solids"
+msgstr "Naberačka na tuhé látky"
+
+#. Chinese Medieval constellation, native: Hu Ben
+msgid "Emperor's Bodyguard"
+msgstr "Cisárov strážca"
+
+#. Chinese Medieval constellation, native: Hu Gua
+msgid "Good Gourd"
+msgstr "Čerstvá tekvica"
+
+#. Chinese Medieval constellation, native: Hua Gai
+msgid "Canopy of the Emperor"
+msgstr "Baldachýn cisára"
+
+#. Chinese Medieval constellation, native: Huan Zhe
+msgid "Eunuch Official"
+msgstr "Úradník eunuch"
+
+#. Chinese Medieval constellation, native: Ji Shi(Wei Xiu)
+msgid "Heap of Corpses"
+msgstr "Hromada mŕtvol"
+
+#. Chinese Medieval constellation, native: Ji Shui(Wei Xiu)
+msgid "Stored water"
+msgstr "Uložená voda"
+
+#. Chinese Medieval constellation, native: Ji Xin
+msgid "Pile of Firewood"
+msgstr "Kopa dreva na pálenie"
+
+#. Chinese Medieval constellation, native: Ji Zu
+msgid "Group of Soldiers"
+msgstr "Skupina vojakov"
+
+#. Chinese Medieval constellation, native: Jian
+msgid "Establishment"
+msgstr "Zriadenie"
+
+#. Chinese Medieval constellation, native: Jian Tai
+msgid "Clepsydra Terrace"
+msgstr "Terasa vodných hodín"
+
+#. Chinese Medieval constellation, native: Jian Bi
+msgid "Door Bolt"
+msgstr "Haspra"
+
+#. Chinese Medieval constellation, native: Jin Xian
+msgid "Recommending Virtuous Men"
+msgstr "Odporúčanie čestných mužov"
+
+#. Chinese Medieval constellation, native: Ji Shui(Jin Xiu)
+msgid "Accumulated Water"
+msgstr "Nazbieraná voda"
+
+#. Chinese Medieval constellation, native: Jiu Kan
+msgid "Nine Water Wells"
+msgstr "Deväť studní"
+
+#. Chinese Medieval constellation, native: Jiu Qing
+msgid "Nine Senior Officers"
+msgstr "Deväť starších úradníkov"
+
+#. Chinese Medieval constellation, native: Jiu Liu
+msgid "Imperial Military Flag"
+msgstr "Cisárska vojenská zástava"
+
+#. Chinese Medieval constellation, native: Jiu Zhou Shu Kou
+msgid "Interpreters of Nine Dialects"
+msgstr "Tlmočníci deviatich dialektov"
+
+#. Chinese Medieval constellation, native: Jiu Qi
+msgid "Banner of Wine Shop"
+msgstr "Transparent obchodu s vínom"
+
+#. Chinese Medieval constellation, native: Jiu
+msgid "Mortar"
+msgstr "Mažiar"
+
+#. Chinese Medieval constellation, native: Juan She
+msgid "Rolled Tongue"
+msgstr "Zrolovaný jazyk"
+
+#. Chinese Medieval constellation, native: Jun Jing
+msgid "Military Well"
+msgstr "Vojenská studňa"
+
+#. Chinese Medieval constellation, native: Jun Nan Men
+msgid "Southern Military Gate"
+msgstr "Južná vojenská brána"
+
+#. Chinese Medieval constellation, native: Jun Shi
+msgid "Market for Soldiers"
+msgstr "Trh pre vojakov"
+
+#. Chinese Medieval constellation, native: Kang
+msgid "Chaff"
+msgstr "Plevy"
+
+#. Chinese Medieval constellation, native: Kang Chi
+msgid "Boats and Lake"
+msgstr "Člny a jazero"
+
+#. Chinese Medieval constellation, native: Ku
+msgid "Crying"
+msgstr "Plač"
+
+#. Chinese Medieval constellation, native: Ku Lou
+msgid "Arsenal"
+msgstr "Zbrojnica"
+
+#. Chinese Medieval constellation, native: Lang Jiang
+msgid "Captain of the Bodyguards"
+msgstr "Kapitán strážcov"
+
+#. Chinese Medieval constellation, native: Lang Wei
+msgid "Officers of the Imperial Guard"
+msgstr "Dôstojníci cisárskej stráže"
+
+#. Chinese Medieval constellation, native: Lei Dian
+msgid "Thunder and Lightning"
+msgstr "Hrom a blesk"
+
+#. Chinese Medieval constellation, native: Lei Bi Zhen
+msgid "Line of Ramparts"
+msgstr "Línia hradieb"
+
+#. Chinese Medieval constellation, native: Li Gong
+msgid "Resting Palace (Vassal of Encampment)"
+msgstr "Oddychový palác (vazal z Tábora)"
+
+#. Chinese Medieval constellation, native: Li Yu
+msgid "Jade Ornament on Ladies' Wear"
+msgstr "Nefritová ozdoba na odeve dámy"
+
+#. Chinese Medieval constellation, native: Li Zhu
+msgid "Pearls on Ladies' Wear"
+msgstr "Perly na dámskom odeve"
+
+#. Chinese Medieval constellation, native: Li Shi
+msgid "Whetstone"
+msgstr "Brúsny kameň"
+
+#. Chinese Medieval constellation, native: Lie Si
+msgid "Jewel Market"
+msgstr "Trh so šperkami"
+
+#. Chinese Medieval constellation, native: Ling Tai
+msgid "Astronomical Observatory"
+msgstr "Astronomické observatórium"
+
+#. Chinese Medieval constellation, native: Liu Jia
+msgid "Six Jia"
+msgstr "Šesť Ťia"
+
+#. Chinese Medieval constellation, native: Luo Yan
+msgid "Network of Dykes"
+msgstr "Sieť priehrad"
+
+#. Chinese Medieval constellation, native: Ming Tang
+msgid "The Hall of Glory"
+msgstr "Sieň slávy"
+
+#. Chinese Medieval constellation, native: Nan He
+msgid "South River"
+msgstr "Južná rieka"
+
+#. Chinese Medieval constellation, native: Dong Ou
+msgid "Dongou"
+msgstr "Tonkou"
+
+#. Chinese Medieval constellation, native: Nan Men
+msgid "Southern Gate"
+msgstr "Južná brána"
+
+#. Chinese Medieval constellation, native: Nei Chu
+msgid "Inner Kitchen"
+msgstr "Vnútorná kuchyňa"
+
+#. Chinese Medieval constellation, native: Nei Jie
+msgid "Inner Steps"
+msgstr "Vnútorné schody"
+
+#. Chinese Medieval constellation, native: Nei Ping
+msgid "High Judge"
+msgstr "Veľký sudca"
+
+#. Chinese Medieval constellation, native: Nei Ping
+msgid "Inner Screen"
+msgstr "Vnútorné plátno"
+
+#. Chinese Medieval constellation, native: Nian Dao
+msgid "Imperial Passageway"
+msgstr "Cisárska cestička"
+
+#. Chinese Medieval constellation, native: Nong Zhang Ren
+msgid "Peasant"
+msgstr "Sedliak"
+
+#. Chinese Medieval constellation, native: Nü Chuang
+msgid "Woman's Bed"
+msgstr "Posteľ ženy"
+
+#. Chinese Medieval constellation, native: Nü Shi
+msgid "Female Protocol"
+msgstr "Ženský protokol"
+
+#. Chinese Medieval constellation, native: Pi Li
+msgid "Thunderbolt"
+msgstr "Hrom"
+
+#. Chinese Medieval constellation, native: Ping
+msgid "Judging"
+msgstr "Súd"
+
+#. Chinese Medieval constellation, native: Ping Dao
+msgid "Flat Road"
+msgstr "Plochá cesta"
+
+#. Chinese Medieval constellation, native: Ping
+msgid "Screen"
+msgstr "Plátno"
+
+#. Chinese Medieval constellation, native: Qi Gong
+msgid "Seven Excellencies"
+msgstr "Sedem Excelencií"
+
+#. Chinese Medieval constellation, native: Qi Fu
+msgid "House for Musical Instruments"
+msgstr "Dom hudobných nástrojov"
+
+#. Chinese Medieval constellation, native: Qi Guan
+msgid "Imperial Guards"
+msgstr "Cisárski strážcovia"
+
+#. Chinese Medieval constellation, native: Qi Zhen Jiang Jun
+msgid "Chariots and Cavalry General"
+msgstr "Generál bojových vozov a kavalérie"
+
+#. Chinese Medieval constellation, native: Qi
+msgid "Weeping"
+msgstr "Vzlyk"
+
+#. Chinese Medieval constellation, native: Tian Ji
+msgid "Celestial Cereals"
+msgstr "Nebeské obilie"
+
+#. Chinese Medieval constellation, native: Qing Qiu
+msgid "Green Hill"
+msgstr "Zelený vrch"
+
+#. Chinese Medieval constellation, native: Que Qiu
+msgid "Palace Gate"
+msgstr "Palácová brána"
+
+#. Chinese Medieval constellation, native: Ren
+msgid "Humans"
+msgstr "Ľudia"
+
+#. Chinese Medieval constellation, native: Ri
+msgid "Solar Star"
+msgstr "Slnečná hviezda"
+
+#. Chinese Medieval constellation, native: San Gong(Tai Wei Yuan)
+msgid "Three Excellencies (In Supreme Palace Enclosure)"
+msgstr "Tri excelencie (V ohrade Najvyššieho paláca)"
+
+#. Chinese Medieval constellation, native: San gong(Zi Wei Yuan)
+msgid "Three Excellencies (In Purple Forbidden Enclosure)"
+msgstr "Tri excelencie (Vo Fialovej zakázanej ohrade)"
+
+#. Chinese Medieval constellation, native: San Shi
+msgid "Three Top Instructors"
+msgstr "Traja vrchní inštruktori"
+
+#. Chinese Medieval constellation, native: Shang Shu
+msgid "Royal Secretary"
+msgstr "Kráľovský sekretár"
+
+#. Chinese Medieval constellation, native: Shao Wei
+msgid "Junior Officers"
+msgstr "Mladší úradníci"
+
+#. Chinese Medieval constellation, native: Shen Gong
+msgid "Changing Room (Vassal of Tail)"
+msgstr "Šatňa (Vazal Chvosta)"
+
+#. Chinese Medieval constellation, native: Shi
+msgid "Excrement"
+msgstr "Exkrement"
+
+#. Chinese Medieval constellation, native: Shi Lou
+msgid "Municipal Office"
+msgstr "Mestský úrad"
+
+#. Chinese Medieval constellation, native: Shi
+msgid "Eunuch"
+msgstr "Eunuch"
+
+#. Chinese Medieval constellation, native: Shui Fu
+msgid "Official for Irrigation"
+msgstr "Úradník pre zavlažovanie"
+
+#. Chinese Medieval constellation, native: Shui Wei
+msgid "Water Level"
+msgstr "Vodomierka"
+
+#. Chinese Medieval constellation, native: Si Fei
+msgid "Deified Judge of Right and Wrong"
+msgstr "Zbožštený sudca pravdy a nepravdy"
+
+#. Chinese Medieval constellation, native: Si Guai
+msgid "Deity in Charge of Monsters"
+msgstr "Božstvo zodpovedné za príšery"
+
+#. Chinese Medieval constellation, native: Si Lu
+msgid "Deified Judge of Rank"
+msgstr "Zbožštený sudca hodnosti"
+
+#. Chinese Medieval constellation, native: Si Ming
+msgid "Deified Judge of Life"
+msgstr "Zbožštený sudca života"
+
+#. Chinese Medieval constellation, native: Si wei
+msgid "Deified Judge of Disaster and Good Fortune"
+msgstr "Zbožštený sudca nešťastia a šťastia"
+
+#. Chinese Medieval constellation, native: Si Du
+msgid "Four Channels"
+msgstr "Štyri kanály"
+
+#. Chinese Medieval constellation, native: Si Fu
+msgid "Four Advisors"
+msgstr "Štyria radcovia"
+
+#. Chinese Medieval constellation, native: Sun
+msgid "Grandson"
+msgstr "Vnuk"
+
+#. Chinese Medieval constellation, native: Tai Yang Shou
+msgid "Guard of the Sun"
+msgstr "Strážca Slnka"
+
+#. Chinese Medieval constellation, native: Tai Yi
+msgid "First Great One"
+msgstr "Prvý Veľký"
+
+#. Chinese Medieval constellation, native: Tai Zi
+msgid "Crown Prince"
+msgstr "Korunný princ"
+
+#. Chinese Medieval constellation, native: Tai Zun
+msgid "Royals"
+msgstr "Členovia kráľovskej rodiny"
+
+#. Chinese Medieval constellation, native: Teng She
+msgid "Flying Serpent"
+msgstr "Lietajúci had"
+
+#. Chinese Medieval constellation, native: Tian E
+msgid "Celestial Concave"
+msgstr "Nebeská dutina"
+
+#. Chinese Medieval constellation, native: Tian Bang
+msgid "Celestial Flail"
+msgstr "Nebeský cep"
+
+#. Chinese Medieval constellation, native: Tian Bian
+msgid "Market Officer"
+msgstr "Trhový úradník"
+
+#. Chinese Medieval constellation, native: Tian Cang
+msgid "Square Celestial Granary"
+msgstr "Štvorcová nebeská sýpka"
+
+#. Chinese Medieval constellation, native: Tian Chan
+msgid "Celestial Slander"
+msgstr "Nebeské ohováranie"
+
+#. Chinese Medieval constellation, native: Tian Chu
+msgid "Celestial Kitchen"
+msgstr "Nebeská kuchyňa"
+
+#. Chinese Medieval constellation, native: Tian Chuan
+msgid "Celestial Boat"
+msgstr "Nebeský čln"
+
+#. Chinese Medieval constellation, native: Tian Chuang
+msgid "Celestial Bed"
+msgstr "Nebeská posteľ"
+
+#. Chinese Medieval constellation, native: Tian Da Jiang Jun
+msgid "Great General of Heaven"
+msgstr "Veľký generál nebies"
+
+#. Chinese Medieval constellation, native: Tian Fu
+msgid "Celestial Drumstick"
+msgstr "Nebeská palička"
+
+#. Chinese Medieval constellation, native: Tian Fu
+msgid "Celestial Spokes"
+msgstr "Nebeské priečky"
+
+#. Chinese Medieval constellation, native: Tian Gang
+msgid "Materials for Making Tents"
+msgstr "Materiál na výrobu stanov"
+
+#. Chinese Medieval constellation, native: Tian Gao
+msgid "Celestial High Terrace"
+msgstr "Nebeská vysoká terasa"
+
+#. Chinese Medieval constellation, native: Tian Gou
+msgid "Celestial Hook"
+msgstr "Nebeský hák"
+
+#. Chinese Medieval constellation, native: Tian Gou
+msgid "Celestial Dog"
+msgstr "Nebeský pes"
+
+#. Chinese Medieval constellation, native: Tian Guan
+msgid "Celestial Pass"
+msgstr "Nebeský priesmyk"
+
+#. Chinese Medieval constellation, native: Tian Huang Da Di
+msgid "Great Emperor of Heaven"
+msgstr "Veľký cisár nebies"
+
+#. Chinese Medieval constellation, native: Tian Huang
+msgid "Celestial Pier"
+msgstr "Nebeské mólo"
+
+#. Chinese Medieval constellation, native: Tian Hun
+msgid "Celestial Pigsty"
+msgstr "Nebeský chliev"
+
+#. Chinese Medieval constellation, native: Tian Ji
+msgid "Celestial Cock"
+msgstr "Nebeský kohút"
+
+#. Chinese Medieval constellation, native: Tian Ji
+msgid "Judge for Estimating the Age of Animals"
+msgstr "Sudca pre odhad veku zvierat"
+
+#. Chinese Medieval constellation, native: Tian Ji
+msgid "Celestial Discipline"
+msgstr "Nebeská disciplína"
+
+#. Chinese Medieval constellation, native: Tian Jiang
+msgid "Celestial River"
+msgstr "Nebeská rieka"
+
+#. Chinese Medieval constellation, native: Tian Jie
+msgid "Celestial Street"
+msgstr "Nebeská ulica"
+
+#. Chinese Medieval constellation, native: Tian Jie
+msgid "Celestial Tally"
+msgstr "Nebeské záznamy"
+
+#. Chinese Medieval constellation, native: Tian Jin
+msgid "Celestial Ford"
+msgstr "Nebeský brod"
+
+#. Chinese Medieval constellation, native: Tian Jiu
+msgid "Celestial Stable"
+msgstr "Nebeská stajňa"
+
+#. Chinese Medieval constellation, native: Tian Lao
+msgid "Celestial Prison"
+msgstr "Nebeské väzenie"
+
+#. Chinese Medieval constellation, native: Tian Lei Cheng
+msgid "Celestial Ramparts"
+msgstr "Nebeské hradby"
+
+#. Chinese Medieval constellation, native: Tian Li
+msgid "Judge for Nobility"
+msgstr "Sudca pre aristokraciu"
+
+#. Chinese Medieval constellation, native: Tian Lin
+msgid "Celestial Foodstuff"
+msgstr "Nebeské potraviny"
+
+#. Chinese Medieval constellation, native: Tian Men
+msgid "Celestial Gate"
+msgstr "Nebeská brána"
+
+#. Chinese Medieval constellation, native: Tian Qian
+msgid "Celestial Money"
+msgstr "Nebeské peniaze"
+
+#. Chinese Medieval constellation, native: Tian Qiang
+msgid "Celestial Spear"
+msgstr "Nebeská kopija"
+
+#. Chinese Medieval constellation, native: Tian Qun
+msgid "Circular Celestial Granary"
+msgstr "Kruhová nebeská sýpka"
+
+#. Chinese Medieval constellation, native: Tian Ru
+msgid "Celestial Milk"
+msgstr "Nebeské mlieko"
+
+#. Chinese Medieval constellation, native: Tian She
+msgid "Celestial Earth God's Temple"
+msgstr "Nebeský chrám boha zeme"
+
+#. Chinese Medieval constellation, native: Tian Tian(Jiao Xiu)
+msgid "Celestial Farmland (In Horn Mansion)"
+msgstr "Nebeská farma (V dóme Roha)"
+
+#. Chinese Medieval constellation, native: Tian Tian(Niu Xiu)
+msgid "Celestial Farmland (In Ox Mansion)"
+msgstr "Nebeská farma (V dóme Vola)"
+
+#. Chinese Medieval constellation, native: Tian Xiang
+msgid "Celestial Premier"
+msgstr "Nebeský premiér"
+
+#. Chinese Medieval constellation, native: Tian Yi
+msgid "Celestial Great One"
+msgstr "Nebeský Vznešený"
+
+#. Chinese Medieval constellation, native: Tian Yin
+msgid "Celestial Yin Force"
+msgstr "Nebeská sila Jin"
+
+#. Chinese Medieval constellation, native: Tian Yu
+msgid "Ricks of Grain"
+msgstr "Stohy obilia"
+
+#. Chinese Medieval constellation, native: Tian Yuan
+msgid "Celestial Spring"
+msgstr "Nebeský prameň"
+
+#. Chinese Medieval constellation, native: Tian Yuan
+msgid "Celestial Orchard"
+msgstr "Nebeský sad"
+
+#. Chinese Medieval constellation, native: Tian Yuan
+msgid "Celestial Meadows"
+msgstr "Nebeské lúky"
+
+#. Chinese Medieval constellation, native: Tian Yue
+msgid "Celestial Keyhole"
+msgstr "Nebeská kľúčová dierka"
+
+#. Chinese Medieval constellation, native: Tian Zhu
+msgid "Celestial Pillar"
+msgstr "Nebeský stĺp"
+
+#. Chinese Medieval constellation, native: Tian Zun
+msgid "Celestial Wine Cup"
+msgstr "Nebeský pohár na víno"
+
+#. Chinese Medieval constellation, native: Tu Si
+msgid "Butcher's Shops"
+msgstr "Obchody mäsiarov"
+
+#. Chinese Medieval constellation, native: Tu Gong
+msgid "Official for Earthworks and Buildings"
+msgstr "Úradník pre zemné práce a stavby"
+
+#. Chinese Medieval constellation, native: Tu Gong Li
+msgid "Official for Materials Supply"
+msgstr "Úradník pre materiálne zásobovanie"
+
+#. Chinese Medieval constellation, native: Wai Chu
+msgid "Outer Kitchen"
+msgstr "Vonkajšia kuchyňa"
+
+#. Chinese Medieval constellation, native: Wai Ping
+msgid "Outer Fence"
+msgstr "Vonkajší plot"
+
+#. Chinese Medieval constellation, native: Wang Liang
+msgid "Wang Liang"
+msgstr "Wang Liang"
+
+#. Chinese Medieval constellation, native: Tu Si Kong(Kui Xiu)
+msgid "Master of Constructions (In Legs Mansion)"
+msgstr "Stavebný majster (V dóme Nôh)"
+
+#. Chinese Medieval constellation, native: Wen Chang
+msgid "Administrative Center"
+msgstr "Administratívne stredisko"
+
+#. Chinese Medieval constellation, native: Wu Che
+msgid "Five Chariots"
+msgstr "Päť bojových vozov"
+
+#. Chinese Medieval constellation, native: Wu Di Nei Zuo
+msgid "Interior Seats of the Five Emperors"
+msgstr "Vnútorné tróny piatich cisárov"
+
+#. Chinese Medieval constellation, native: Wu Di Zuo
+msgid "Seats of the Five Emperors"
+msgstr "Tróny piatich cisárov"
+
+#. Chinese Medieval constellation, native: Wu Zhu Hou(JingXiu)
+msgid "Five Feudal Kings"
+msgstr "Päť feudálnych kráľov"
+
+#. Chinese Medieval constellation, native: Wu Zhu Hou(Tai Wei Yuan)
+msgid "Five Lords"
+msgstr "Päť pánov"
+
+#. Chinese Medieval constellation, native: Xi Xian
+msgid "Western Door"
+msgstr "Západné dvere"
+
+#. Chinese Medieval constellation, native: Xi Zhong
+msgid "Xi Zhong"
+msgstr "Si Čung"
+
+#. Chinese Medieval constellation, native: Xian Chi
+msgid "Pool of Harmony"
+msgstr "Bazén harmónie"
+
+#. Chinese Medieval constellation, native: Xiang
+msgid "Prime Minister"
+msgstr "Hlavný minister"
+
+#. Chinese Medieval constellation, native: Xing Chen
+msgid "Officer of Honour"
+msgstr "Úradník cti"
+
+#. Chinese Medieval constellation, native: Xu Liang
+msgid "Temple"
+msgstr "Chrám"
+
+#. Chinese Medieval constellation, native: Xuan Yuan
+msgid "Xuanyuan"
+msgstr "Suanjüan"
+
+#. Chinese Medieval constellation, native: Xuan Ge
+msgid "Sombre Lance"
+msgstr "Temný oštep"
+
+#. Chinese Medieval constellation, native: Yue
+msgid "Battle Axe (Vassal of Well)"
+msgstr "Bojová sekera (Vazal Studne)"
+
+#. Chinese Medieval constellation, native: Yang Men
+msgid "Gate of Yang"
+msgstr "Brána Jang"
+
+#. Chinese Medieval constellation, native: Ye Ji
+msgid "Wild Cockerel"
+msgstr "Divý kohútik"
+
+#. Chinese Medieval constellation, native: Ye Zhe
+msgid "Usher to the Court"
+msgstr "Dvorný uvádzač"
+
+#. Chinese Medieval constellation, native: Yin De
+msgid "Hidden Virtue"
+msgstr "Skrytá cnosť"
+
+#. Chinese Medieval constellation, native: You Geng
+msgid "Official in Charge of Pasturing"
+msgstr "Úradník zodpovedný za pastviny"
+
+#. Chinese Medieval constellation, native: You Qi
+msgid "Right Flag"
+msgstr "Pravá zástava"
+
+#. Chinese Medieval constellation, native: You She Ti
+msgid "Right Conductor"
+msgstr "Pravý zberač"
+
+#. Chinese Medieval constellation, native: Yu Lin Jun
+msgid "Palace Guard"
+msgstr "Stráž paláca"
+
+#. Chinese Medieval constellation, native: Yu Jing
+msgid "Jade Well"
+msgstr "Nefritová studňa"
+
+#. Chinese Medieval constellation, native: Yu Nü
+msgid "Maids-in-waiting"
+msgstr "Dvorné dámy"
+
+#. Chinese Medieval constellation, native: Yue
+msgid "Lunar Star"
+msgstr "Mesačná hviezda"
+
+#. Chinese Medieval constellation, native: Fu Er
+msgid "Whisper (Vassal of Net)"
+msgstr "Šepot (Vazal Siete)"
+
+#. Chinese Medieval constellation, native: Yun Yu
+msgid "Cloud and Rain"
+msgstr "Mrak a dážď"
+
+#. Chinese Medieval constellation, native: Zao Fu
+msgid "Zaofu"
+msgstr "Caofu"
+
+#. Chinese Medieval constellation, native: Chang Yuan
+msgid "Long Wall"
+msgstr "Dlhý múr"
+
+#. Chinese Medieval constellation, native: Zhang Ren
+msgid "Grandfather"
+msgstr "Starý otec"
+
+#. Chinese Medieval constellation, native: Zhao Yao
+msgid "Twinkling Indicator"
+msgstr "Blikajúci ukazovateľ"
+
+#. Chinese Medieval constellation, native: Fu
+msgid "Assistant (Vassal of Northern Dipper)"
+msgstr "Asistent (Vazal Severnej naberačky)"
+
+#. Chinese Medieval constellation, native: Zhe Wei
+msgid "Executions"
+msgstr "Popravy"
+
+#. Chinese Medieval constellation, native: Zhen Che
+msgid "Battle Chariots"
+msgstr "Bojové vozy"
+
+#. Chinese Medieval constellation, native: You Xia
+msgid "Right linchpin (Vassal of Chariot)"
+msgstr "Pravý zákolesník (Vazal Bojového voza)"
+
+#. Chinese Medieval constellation, native: Zhi Nü
+msgid "Weaving Girl"
+msgstr "Tkáčka"
+
+#. Chinese Medieval constellation, native: Zuo Xia
+msgid "Left linchpin (Vassal of Chariot)"
+msgstr "Ľavý zákolesník (Vazal Bojového voza)"
+
+#. Chinese Medieval constellation, native: Zhou Ding
+msgid "Tripod of the Zhou"
+msgstr "Čouova trojnožka"
+
+#. Chinese Medieval constellation, native: Zhu Wang
+msgid "Feudal Kings"
+msgstr "Feudálni králi"
+
+#. Chinese Medieval constellation, native: Zhu(Bi Xiu)
+msgid "Pillars (In Net Mansion)"
+msgstr "Stĺpy (V dóme Siete)"
+
+#. Chinese Medieval constellation, native: Zhu(Jiao Xiu)
+msgid "Pillars (In Horn Mansion)"
+msgstr "Stĺpy (V dóme Roha)"
+
+#. Chinese Medieval constellation, native: Zhu Shi
+msgid "Official of Royal Archives"
+msgstr "Úradník kráľovského archívu"
+
+#. Chinese Medieval constellation, native: Zi
+msgid "Son"
+msgstr "Syn"
+
+#. Chinese Medieval constellation, native: Zong
+msgid "Patriarchal Clan"
+msgstr "Patriarchálny klan"
+
+#. Chinese Medieval constellation, native: Zong Ren
+msgid "Official of Religious Ceremonies"
+msgstr "Úradník pre náboženské obrady"
+
+#. Chinese Medieval constellation, native: Zong Zheng
+msgid "Official for the Royal Clan"
+msgstr "Úradník kráľovského klanu"
+
+#. Chinese Medieval constellation, native: Zuo Geng
+msgid "Official in Charge of the Forest"
+msgstr "Úradník zodpovedný za les"
+
+#. Chinese Medieval constellation, native: Zuo Qi
+msgid "Left Flag"
+msgstr "Ľavá zástava"
+
+#. Chinese Medieval constellation, native: Zuo She Ti
+msgid "Left Conductor"
+msgstr "Ľavý zberač"
+
+#. Chinese Medieval constellation, native: Zuo Qi
+msgid "Seat Flags"
+msgstr "Vlajky sedadiel"
+
+#. Name for HIP 80816
+msgid "Hezhong"
+msgstr "Chečung"
+
+#. Name for HIP 80170
+msgid "Hejian"
+msgstr "Cheťjen"
+
+#. Name for HIP 79043
+msgid "Jin"
+msgstr "Ťin"
+
+#. Name for HIP 78072
+msgid "Zheng"
+msgstr "Čeng"
+
+#. Name for HIP 77233
+msgid "Zhou"
+msgstr "Čou"
+
+#. Name for HIP 76276
+msgid "Qin"
+msgstr "Čchin"
+
+#. Name for HIP 77070
+msgid "Shu"
+msgstr "Šu"
+
+#. Name for HIP 77622
+msgid "Ba"
+msgstr "Pa"
+
+#. Name for HIP 79593
+msgid "Liang"
+msgstr "Liang"
+
+#. Name for HIP 79882
+msgid "Chu"
+msgstr "Čchu"
+
+#. Name for HIP 81377
+msgid "Han"
+msgstr "Han"
+
+#. Name for HIP 84379
+msgid "Wei"
+msgstr "Wej"
+
+#. Name for HIP 85693
+msgid "Zhao"
+msgstr "Čao"
+
+#. Name for HIP 86974
+msgid "Jiuhe"
+msgstr "Ťiuche"
+
+#. Name for HIP 88794
+msgid "Zhongshan"
+msgstr "Čungšan"
+
+#. Name for HIP 92043
+msgid "Qi"
+msgstr "Čchi"
+
+#. Name for HIP 93747
+msgid "Wuyue"
+msgstr "Wujüe"
+
+#. Name for HIP 92946
+msgid "Xu"
+msgstr "Su"
+
+#. Name for HIP 89962
+msgid "Donghai"
+msgstr "Tungchaj"
+
+#. Name for HIP 88048
+msgid "Yan"
+msgstr "Jan"
+
+#. Name for HIP 86263
+msgid "Nanhai"
+msgstr "Nanchaj"
+
+#. Name for HIP 84012
+msgid "Song"
+msgstr "Sung"
+
+#. Name for NAME Sun, native: 太阳
+#. Native name of the Sun in Chinese culture
+msgid "Taiyang"
+msgstr "Tchajjang"
+
+#. Chinese Medieval constellation, native: Zi Wei Zuo Yuan
+msgid "Purple Forbidden East Wall"
+msgstr "Fialový zakázaný východný múr"
+
+#. Chinese Medieval constellation, native: Zi Wei You Yuan
+msgid "Purple Forbidden West Wall"
+msgstr "Fialový zakázaný západný múr"
+
+#. Chinese Medieval constellation, native: Tai Wei Zuo Yuan
+msgid "Supreme Palace East Wall"
+msgstr "Východný múr najvyššieho paláca"
+
+#. Chinese Medieval constellation, native: Tai Wei You Yuan
+msgid "Supreme Palace West Wall"
+msgstr "Západný múr najvyššieho paláca"
+
+#. Chinese Medieval constellation, native: San Tai
+msgid "Three Steps (Upper Step)"
+msgstr "Tri schody (Horný schod)"
+
+#. Chinese Medieval constellation, native: San Tai
+msgid "Three Steps (Middle Step)"
+msgstr "Tri schody (Stredný schod)"
+
+#. Chinese Medieval constellation, native: San Tai
+msgid "Three Steps (Lower Step)"
+msgstr "Tri schody (Dolný schod)"
+
+#. Chinese Medieval constellation, native: Tian Shi Zuo Yuan
+msgid "Heavenly Market East Wall"
+msgstr "Východný múr nebeského trhu"
+
+#. Chinese Medieval constellation, native: Tian Shi You Yuan
+msgid "Heavenly Market West Wall"
+msgstr "Západný múr nebeského trhu"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Zhao)
+msgid "Twelve States (Zhao State)"
+msgstr "Dvanásť štátov (Štát Čao)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Yue)
+msgid "Twelve States (Yue State)"
+msgstr "Dvanásť štátov (Štát Jüe)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Zhou)
+msgid "Twelve States (Zhou State)"
+msgstr "Dvanásť štátov (Štát Čou)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Qi)
+msgid "Twelve States (Qi State)"
+msgstr "Dvanásť štátov (Štát Čchi)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Zheng)
+msgid "Twelve States (Zheng State)"
+msgstr "Dvanásť štátov (Štát Čeng)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Chu)
+msgid "Twelve States (Chu State)"
+msgstr "Dvanásť štátov (Štát Čchu)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Qin)
+msgid "Twelve States (Qin State)"
+msgstr "Dvanásť štátov (Štát Čchin)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Yan)
+msgid "Twelve States (Yan State)"
+msgstr "Dvanásť štátov (Štát Jan)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Wei)
+msgid "Twelve States (Wei State)"
+msgstr "Dvanásť štátov (Štát Wej)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Dai)
+msgid "Twelve States (Dai State)"
+msgstr "Dvanásť štátov (Štát Taj)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Jin)
+msgid "Twelve States (Jin State)"
+msgstr "Dvanásť štátov (Štát Ťin)"
+
+#. Chinese Medieval constellation, native: Shi Er Guo (Han)
+msgid "Twelve States (Han State)"
+msgstr "Dvanásť štátov (Štát Chan)"
+
+#. Chinese Medieval constellation, native: Ji Shi Qi
+msgid "Cumulative Corpse Gas"
+msgstr "Plyn z hromadných mŕtvol"
+
+#. Chinese Medieval constellation, native: Tu Si Kong(Zhen Xiu)
+msgid "Master of Constructions (In Chariot Mansion)"
+msgstr "Stavebný majster (V dóme Vozov)"
+
+#. Name for HIP 57565
+msgid "Taizi/Crown Prince"
+msgstr "Tchajci/Korunný princ"
+
+#. Name for HIP 72607
+msgid "Di/Emperor"
+msgstr "Ti/Cisár"
+
+#. Name for HIP 70692
+msgid "Shuzi/Bastard"
+msgstr "Šuci/Bastard"
+
+#. Name for HIP 69112
+msgid "Hougong/Harem"
+msgstr "Choukchong/Hárem"
+
+#. Name for HIP 54061
+msgid "Tianshu/The Celestial Pivot"
+msgstr "Tchienšu/Nebeský čap"
+
+#. Name for HIP 62572
+msgid "Niuxing/Ancient Star"
+msgstr "Nuejsing/Starobylá hviezda"
+
+#. Name for HIP 11767
+msgid "Yuanshi/The Origin of All Things"
+msgstr "Jüanši/Počiatok všetkého"
+
+#. Name for HIP 115746
+msgid "Tianhuangdadi/Great Emperor of Heaven"
+msgstr "Tchienchuangtati/Veľký cisár nebies"
+
+#. Name for HIP 86614
+msgid "Nüshi/Female Protocol"
+msgstr "Nüši/Ženský protokol"
+
+#. Name for HIP 89937
+msgid "Zhushi/Official of Royal Archives"
+msgstr "Čuši/Úradník kráľovského archívu"
+
+#. Name for HIP 68756
+msgid "Youshu/Right Pivot"
+msgstr "Joušu/Pravý čap"
+
+#. Name for HIP 61281
+msgid "Shaowei/The Second Commandant"
+msgstr "Šaowei/Druhý veliteľ"
+
+#. Name for HIP 56211
+msgid "Shangfu/The Great Advisor"
+msgstr "Šangfu/Veľký radca"
+
+#. Name for HIP 46977
+msgid "Shaofu/The Second Advisor"
+msgstr "Šaofu/Druhý radca"
+
+#. Name for HIP 33827
+msgid "Shangwei/The Great Imperial Guard"
+msgstr "Šangwei/Veľký cisársky strážca"
+
+#. Name for HIP 24254
+msgid "Shaowei/The Second Imperial Guard"
+msgstr "Šaowei/Druhý cisársky strážca"
+
+#. Name for HIP 14862
+msgid "Shangcheng/The Great Imperial Minister"
+msgstr "Šangčcheng/Veľký cisársky minister"
+
+#. Name for HIP 75458
+msgid "Zuoshu/Left Pivot"
+msgstr "Cuošu/Ľavý čap"
+
+#. Name for HIP 78527
+msgid "Shangzai/The Great Prime Minister"
+msgstr "Šangzaj/Veľký premiér"
+
+#. Name for HIP 80331
+msgid "Shaozai/The Second Prime Minister"
+msgstr "Šaozaj/Druhý premiér"
+
+#. Name for HIP 83895
+msgid "Shangbi/The Great Protector"
+msgstr "Šangbi/Veľký ochranca"
+
+#. Name for HIP 89908
+msgid "Shaobi/The Second Protector"
+msgstr "Šaobi/Druhý ochranca"
+
+#. Name for HIP 6522
+msgid "Shaocheng/The Second Imperial Minister"
+msgstr "Šaočcheng/Druhý cisársky minister"
+
+#. Name for HIP 67627
+msgid "Tianyi/Celestial Great One"
+msgstr "Tchianji/Nebeský Veľký"
+
+#. Name for HIP 66798
+msgid "Taiyi/First Great One"
+msgstr "Tchaiji/Prvý Veľký"
+
+#. Name for HIP 53910
+msgid "Tianxuan/The Celestial Rotating Jade"
+msgstr "Tchiansuan/Nebeský otáčajúci sa nefrit"
+
+#. Name for HIP 58001
+msgid "Tianji/The Celestial Shining Pearl"
+msgstr "Tchianťi/Nebeská jagavá perla"
+
+#. Name for HIP 59774
+msgid "Tianquan/The Celestial Balance"
+msgstr "Tchiančchuan/Nebeská rovnováha"
+
+#. Name for HIP 62956
+msgid "Yuheng/The Jade Sighting-tube"
+msgstr "Jücheng/Nefritový ďalekohľad"
+
+#. Name for HIP 65378
+msgid "Kaiyang/The Opener of Heat"
+msgstr "Kchaijang/Otvárač tepla"
+
+#. Name for HIP 67301
+msgid "Yaoguang/The Twinkling Brilliance"
+msgstr "Jaokuang/Blikajúca nádhera"
+
+#. Name for HIP 54061
+msgid "Tanlang/Greedy Wolf"
+msgstr "Tchanlang/Nenásytný vlk"
+
+#. Name for HIP 53910
+msgid "Jumen/Giant Gate"
+msgstr "Ťumen/Obrovská brána"
+
+#. Name for HIP 58001
+msgid "Lucun/Good Fortune Star"
+msgstr "Lucchun/Hviezda šťastia"
+
+#. Name for HIP 59774
+msgid "Wenqu/Literary Star"
+msgstr "Wenčchu/Knižná hviezda"
+
+#. Name for HIP 62956
+msgid "Lianzhen/Clean and Chaste"
+msgstr "Liančen/Čistota a cudnosť"
+
+#. Name for HIP 65378
+msgid "Wuqu/Military Star"
+msgstr "Wučchu/Vojenská hviezda"
+
+#. Name for HIP 67301
+msgid "Pojun/Break the Enemy"
+msgstr "Pchoťun/Rozbitie nepriateľa"
+
+#. Name for HIP 54061
+msgid "Zheng/Justice"
+msgstr "Čeng/Spravodlivosť"
+
+#. Name for HIP 53910
+msgid "Fa/Law"
+msgstr "Fa/Zákon"
+
+#. Name for HIP 58001
+msgid "Ling/Command"
+msgstr "Ling/Velenie"
+
+#. Name for HIP 59774
+msgid "Fa/Crusade"
+msgstr "Fa/Krížová výprava"
+
+#. Name for HIP 62956
+msgid "Sha/Killing"
+msgstr "Ša/Zabíjanie"
+
+#. Name for HIP 65378
+msgid "Wei/Danger"
+msgstr "Wei/Nebezpečenstvo"
+
+#. Name for HIP 67301
+msgid "Bu/Army"
+msgstr "Bu/Armáda"
+
+#. Name for HIP 65477
+msgid "Fu/Assistant"
+msgstr "Fu/Asistent"
+
+#. Name for HIP 69732
+msgid "Xuange/Sombre Lance"
+msgstr "Suange/Temný oštep"
+
+#. Name for HIP 60988
+msgid "Xiang/Prime Minister"
+msgstr "Siang/Premiér"
+
+#. Name for HIP 57399
+msgid "Taiyangshou/Guard of the Sun"
+msgstr "Tchaijangšou/Strážca Slnka"
+
+#. Name for HIP 54539
+msgid "Taizun/Royals"
+msgstr "Tchaicun/Členovia kráľovskej rodiny"
+
+#. Name for HIP 46733
+msgid "Shangjiang/Great General"
+msgstr "Šangtijang/Veľký generál"
+
+#. Name for HIP 48319
+msgid "Cijiang/Second General"
+msgstr "Cchiťijang/Druhý generál"
+
+#. Name for HIP 48319
+msgid "Shangshu/Royal Secretary"
+msgstr "Šangšu/Kráľovský sekretár"
+
+#. Name for HIP 48402
+msgid "Guixiang/Distinguished Primer"
+msgstr "Kuisiang/Význačný základ"
+
+#. Name for HIP 48402
+msgid "Taichang/Minister of Justice"
+msgstr "Tchaičchang/Minister spravodlivosti"
+
+#. Name for HIP 46853
+msgid "Silu/Deified Judge of Rank"
+msgstr "Silu/Zbožštený sudca hodnosti"
+
+#. Name for HIP 46853
+msgid "Sizhong/Deified Judge of Disaster"
+msgstr "Sižung/Zbožštený sudca nešťastia"
+
+#. Name for HIP 46853
+msgid "Sili/Senior Judge"
+msgstr "Sili/Starší sudca"
+
+#. Name for HIP 44901
+msgid "Siming/Deified Judge of Life"
+msgstr "Siming/Zbožštený sudca života"
+
+#. Name for HIP 44901
+msgid "Siguai/Deity in Charge of Monsters"
+msgstr "Sikuai/Božstvo zodpovedné za príšery"
+
+#. Name for HIP 37740
+msgid "Taishi/Court Historian"
+msgstr "Tchajši/Dvorný historik"
+
+#. Name for HIP 44504
+msgid "Sikou/Supreme Judge"
+msgstr "Sikchou/Najvyšší sudca"
+
+#. Name for HIP 44504
+msgid "Dali/Minister of Justice"
+msgstr "Tali/Minister spravodlivosti"
+
+#. Name for HIP 57632
+msgid "Huangdizuo/Seat of Yellow Emperor"
+msgstr "Chuangticuo/Trón žltého cisára"
+
+#. Name for HIP 58159
+msgid "Cangdi/Azure Emperor"
+msgstr "Cchangti/Blankytný cisár"
+
+#. Name for HIP 57779
+msgid "Chidi/Red Emperor"
+msgstr "Čchiti/Červený cisár"
+
+#. Name for HIP 57320
+msgid "Baidi/White Emperor"
+msgstr "Paiti/Biely cisár"
+
+#. Name for HIP 57646
+msgid "Heidi/Black Emperor"
+msgstr "Cheiti/Čierny cisár"
+
+#. Name for HIP 56975
+msgid "Congguan/Retinue"
+msgstr "Cchungkuan/Družina"
+
+#. Name for HIP 58858
+msgid "Xingchen/Officer of Honour"
+msgstr "Singčchen/Hodnostár"
+
+#. Name for HIP 57757
+msgid "Youzhifa/Right Law Administrator"
+msgstr "Joučifa/Pravý správca poriadku"
+
+#. Name for HIP 55434
+msgid "Xishangjiang/The Great Western General"
+msgstr "Sišangťijang/Veľký západný generál"
+
+#. Name for HIP 55642
+msgid "Xicijiang/The Second Western General"
+msgstr "Sicchiťijang/Druhý západný generál"
+
+#. Name for HIP 54879
+msgid "Xicixiang/The Second Western Premier"
+msgstr "Sicchisiang/Druhý západný permiér"
+
+#. Name for HIP 54872
+msgid "Xishangxiang/The Great Western Premier"
+msgstr "Sišangsiang/Veľký západný premiér"
+
+#. Name for HIP 60129
+msgid "Zuozhifa/Left Law Administrator"
+msgstr "Cuočifa/Ľavý správca poriadku"
+
+#. Name for HIP 61941
+msgid "Dongshangxiang/The Great Eastern Premier"
+msgstr "Dongšangsiang/Veľký východný premiér"
+
+#. Name for HIP 63090
+msgid "Dongcixiang/The Second Eastern Premier"
+msgstr "Dongcchisiang/Druhý východný premiér"
+
+#. Name for HIP 63608
+msgid "Dongcijiang/The Second Eastern General"
+msgstr "Dongchiťijang/Druhý východný generál"
+
+#. Name for HIP 64241
+msgid "Dongshangjiang/The Great Eastern General"
+msgstr "Dongšnagťijang/Veľký výchondý generál"
+
+#. Name for HIP 44127
+msgid "Tianzi/Son of Heaven"
+msgstr "Tchianci/Syn nebies"
+
+#. Name for HIP 44471
+msgid "Nüzhu/Empress"
+msgstr "Nüču/Cisárovná"
+
+#. Name for HIP 50372
+msgid "Zhuhousangong/ Feudal Kings and Three Excellencies"
+msgstr "Žuchousangung/Feudálni králi a tri excelencie"
+
+#. Name for HIP 50801
+msgid "Qingdafu/High Ministers and Nobles"
+msgstr "Čchingtafu/Vysokí ministri a šľachtici"
+
+#. Name for HIP 55219
+msgid "Shi/Gentry"
+msgstr "Ši/Panstvo"
+
+#. Name for HIP 55203
+msgid "Shuren/Common People"
+msgstr "Šužen/Prostý ľud"
+
+#. Name for HIP 54951
+msgid "Huben/Emperor's Bodyguard"
+msgstr "Chupen/Cisárov strážca"
+
+#. Name for HIP 60172
+msgid "Yezhe/Usher to the Court"
+msgstr "Ječe/Dvorný uvádzač"
+
+#. Name for HIP 84345
+msgid "Dizuo/Emperor's Seat"
+msgstr "Ticuo/Cisárov trón"
+
+#. Name for HIP 86032
+msgid "Hou/Astrologer"
+msgstr "Chou/Astrológ"
+
+#. Name for HIP 64238
+msgid "Jinxian/Recommending Virtuous Men"
+msgstr "Ťinsian/Odporúčanie čestných mužov"
+
+#. Name for HIP 69673
+msgid "Dajiao/Great Horn"
+msgstr "Taťiao/Veľký roh"
+
+#. Name for HIP 72622
+msgid "Shi/Wedded Wife"
+msgstr "Ši/Vydatá žena"
+
+#. Name for HIP 74392
+msgid "Qie/Minor Concubine"
+msgstr "Čchie/Drobná konkubína"
+
+#. Name for HIP 69879
+msgid "Zhaoyao/Twinkling Indicator"
+msgstr "Čaojao/Blikajúci ukazovateľ"
+
+#. Name for HIP 77516
+msgid "Tianru/Celestial Milk"
+msgstr "Tchienžu/Nebeské mlieko"
+
+#. Name for HIP 74376
+msgid "Qizhenjiangjun/Chariots and Cavalry General"
+msgstr "Čhičenťiangťun/Vozy a generál kavalérie"
+
+#. Name for HIP 78265
+msgid "Cijiang/The Second General"
+msgstr "Cchiťijang/Druhý generál"
+
+#. Name for HIP 78104
+msgid "Shangjiang/The Great General"
+msgstr "Šangtijang/Veľký generál"
+
+#. Name for HIP 78401
+msgid "Cixiang/The Second General"
+msgstr "Cchisijang/Druhý generál"
+
+#. Name for HIP 78820
+msgid "Shangxiang/The Great Premier"
+msgstr "Šangsijang/Veľký generál"
+
+#. Name for HIP 79374
+msgid "Jianbi/Door Bolt"
+msgstr "Ťienpi/Haspra"
+
+#. Name for HIP 77840
+msgid "Ri/Solar Star"
+msgstr "Ži/Slnečná hviezda"
+
+#. Name for HIP 80763
+msgid "Tianwang/Celestial King"
+msgstr "Tchienwang/Nebeský kráľ"
+
+#. Name for HIP 80763
+msgid "Mingtang/Cosmological Temple"
+msgstr "Mingtchang/Kozmologický chrám"
+
+#. Name for HIP 80763
+msgid "Dahuo/Great Fire"
+msgstr "Tachuo/Veľký oheň"
+
+#. Name for HIP 82396
+msgid "Hou/Empress Consort"
+msgstr "Chou/Cisárovná manželka"
+
+#. Name for HIP 50583
+msgid "Fei/Imperial Consort"
+msgstr "Fej/Cisárska manželka"
+
+#. Name for HIP 86228
+msgid "Pin/Imperial Concubine"
+msgstr "Pchin/Cisárska konkubína"
+
+#. Name for HIP 82545
+msgid "Shengong/Changing Room"
+msgstr "Šengkung/Šatňa"
+
+#. Name for HIP 87261
+msgid "Fuyue/Fu Yue"
+msgstr "Fujüe/Fu Jüe"
+
+#. Name for HIP 88550
+msgid "Kang/Chaff"
+msgstr "Kang/Plevy"
+
+#. Name for HIP 92041
+msgid "Tiantong/Celestial Collaborators"
+msgstr "Tchiantung/Nebeskí spolupracovníci"
+
+#. Name for HIP 92041
+msgid "Fu/Blessing"
+msgstr "Fu/Požehnanie"
+
+#. Name for HIP 90496
+msgid "Tianxiang/Celestial Premier"
+msgstr "Tchiansiang/Nebeský premiér"
+
+#. Name for HIP 90496
+msgid "Yin/Stamp"
+msgstr "Jin/Razítko"
+
+#. Name for HIP 89341
+msgid "Qisha/Seven Assassins"
+msgstr "Čchiša/Sedem zabijakov"
+
+#. Name for HIP 89341
+msgid "Jiang/General"
+msgstr "Tijang/Generál"
+
+#. Name for HIP 92855
+msgid "Tianji/Celestial Secret"
+msgstr "Tchianťi/Nebeské tajomstvo"
+
+#. Name for HIP 92855
+msgid "Shan/Kindness"
+msgstr "Šan/Láskavosť"
+
+#. Name for HIP 93864
+msgid "Tianliang/Celestial Beam"
+msgstr "Tchianliang/Nebeský lúč"
+
+#. Name for HIP 93864
+msgid "Yin/Shade"
+msgstr "Jin/Tieň"
+
+#. Name for HIP 93506
+msgid "Tianfu/Celestial Official"
+msgstr "Tchianfu/Nebeský úradník"
+
+#. Name for HIP 90763
+msgid "Nongzhangren/Peasant"
+msgstr "Nungčangren/Sedliak"
+
+#. Name for HIP 97649
+msgid "Dajiangjun/Great General"
+msgstr "Taťijangťun/Veľký generál"
+
+#. Name for HIP 98036
+msgid "Zuojiangjun/Left General"
+msgstr "Cuoťijangťun/Ľavý generál"
+
+#. Name for HIP 97278
+msgid "Youjiangjun/Right General"
+msgstr "Jouťijangťun/Pravý generál"
+
+#. Name for HIP 97649
+msgid "Qianniuxing/Cowboy"
+msgstr "Čchianniusing/Pastier dobytka"
+
+#. Name for HIP 91262
+msgid "Zhinüxing/Weaving Girl"
+msgstr "Činüsing/Tkáčka"
+
+#. Name for HIP 102014
+msgid "Yue"
+msgstr "Jüe"
+
+#. Name for HIP 111188
+msgid "Tiangang/Materials for Making Tents"
+msgstr "Tchiangang/Materiál na výrobu stanov"
+
+#. Name for HIP 113368
+msgid "Beiluoshimen/North Gate of the Military Camp"
+msgstr "Peiluošimen/Severná brána vojenského tábora"
+
+#. Name for HIP 746
+msgid "Wangliang/Wang Liang"
+msgstr "Wangiang/Wang Liang"
+
+#. Name for HIP 2920
+msgid "Tiansi/Celestial Horse"
+msgstr "Tchiensi/Nebeský kôň"
+
+#. Name for HIP 2599
+msgid "Ce/Whip"
+msgstr "Cche/Bič"
+
+#. Name for HIP 6686
+msgid "Fulu/Auxiliary Road"
+msgstr "Fulu/Pomocná cesta"
+
+#. Name for HIP 8796
+msgid "Junnanmen/Southern Military Gate"
+msgstr "Ťunnanmen/Južná vojenská brána"
+
+#. Name for HIP 3419
+msgid "Tusikong/Master of Constructions"
+msgstr "Tchusikchung/Stavebný majster"
+
+#. Name for HIP 13879
+msgid "Jishi/Heap of Corpses"
+msgstr "Ťiši/Hromada mŕtvol"
+
+#. Name for HIP 18453
+msgid "Jishui/Stored Water"
+msgstr "Ťišuej/Uložená voda"
+
+#. Name for HIP 15696
+msgid "Tiane/Celestial Concave"
+msgstr "Tchiene/Nebeská dutina"
+
+#. Name for HIP 19038
+msgid "Yue/Lunar Star"
+msgstr "Jüe/Mesačná hviezda"
+
+#. Name for HIP 17886
+msgid "Tianchan/Celestial Slander"
+msgstr "Tchienčchan/Nebeská klebeta"
+
+#. Name for HIP 21421
+msgid "Tiangao/Celestial High Terrace"
+msgstr "Tchienkao/Nebeská vysoká terasa"
+
+#. Name for HIP 21421
+msgid "Bianjiang/Side-general"
+msgstr "Bianťijang/Vedľajší generál"
+
+#. Name for HIP 21683
+msgid "Fuer/Whisper"
+msgstr "Fuer/Šepot"
+
+#. Name for HIP 26451
+msgid "Tianguan/Celestial Pass"
+msgstr "Tchienkuan/Nebeský priesmyk"
+
+#. Name for HIP 25930
+msgid "Hengshi/Scales"
+msgstr "Chengši/Šupiny"
+
+#. Name for HIP 27989
+msgid "Zuojian/Left Shoulder"
+msgstr "Cuoťien/Ľavé plece"
+
+#. Name for HIP 25336
+msgid "Youjian/Right Shoulder"
+msgstr "Jouťien/Pravé plece"
+
+#. Name for HIP 27366
+msgid "Zuozu/Left Foot"
+msgstr "Cuocu/Ľavé chodidlo"
+
+#. Name for HIP 24436
+msgid "Youzu/Right Foot"
+msgstr "Joucu/Pravé chodidlo"
+
+#. Name for HIP 27072
+msgid "Shi/Excrement"
+msgstr "Ši/Exkrement"
+
+#. Name for HIP 29655
+msgid "Yue/Battle Axe"
+msgstr "Jüe/Bojová sekera"
+
+#. Name for HIP 33018
+msgid "Dishi/Emperor Teacher"
+msgstr "Tiši/Cisárov učiteľ"
+
+#. Name for HIP 34693
+msgid "Diyou/Emperor friend"
+msgstr "Tijou/Cisárov priateľ"
+
+#. Name for HIP 36046
+msgid "Sangong/Three excellencies"
+msgstr "Sangung/Tri excelencie"
+
+#. Name for HIP 36962
+msgid "Boshi/Doctor"
+msgstr "Poši/Lekár"
+
+#. Name for HIP 37265
+msgid "Jishui/Accumulated Water"
+msgstr "Ťišuej/Nazbieraná voda"
+
+#. Name for HIP 39659
+msgid "Jixin/Pile of Firewood"
+msgstr "Ťisin/Kopa dreva na pálenie"
+
+#. Name for HIP 30324
+msgid "Yeji/Wild Cockerel"
+msgstr "Jeťi/Divý kohútik"
+
+#. Name for HIP 32349
+msgid "Lang/Wolf"
+msgstr "Lang/Vlk"
+
+#. Name for HIP 32349
+msgid "Tianlang/Celestial Wolf"
+msgstr "Tchianlang/Nebeský vlk"
+
+#. Name for HIP 30438
+msgid "Laoren/Old Man"
+msgstr "Laožen/Starec"
+
+#. Name for HIP 30438
+msgid "Nanjilaoren/The Southernmost Old Man"
+msgstr "Nanťilaoren/Najjužnejší starec"
+
+#. Name for HIP 33977
+msgid "Shi/Arrow"
+msgstr "Ši/Šíp"
+
+#. Name for HIP 43067
+msgid "Tianji/Judge for Estimating the Age of Animals"
+msgstr "Tchianťi/Sudca pre odhad veku zvierat"
+
+#. Name for HIP 44248
+msgid "Cifei/Minor Imperial Consort"
+msgstr "Cchifei/Drobná cisárska manželka"
+
+#. Name for HIP 49583
+msgid "Furen/Highest-ranking Imperial Consort"
+msgstr "Furen/Najvyššia cisárska manželka"
+
+#. Name for HIP 47508
+msgid "Damin/Patriarchal Clan of Empress Dowager"
+msgstr "Tamin/Patriarchálny klan cisárovnej vena"
+
+#. Name for HIP 51624
+msgid "Shaomin/Patriarchal Clan of Empress Consort"
+msgstr "Šaomin/Patriarchálny klan cisárskej manželky"
+
+#. Name for HIP 49637
+msgid "Yunü/Maids-in-waiting"
+msgstr "Jünü/Dvorné dámy"
+
+#. Name for HIP 59199
+msgid "Youxia/Right linchpin"
+msgstr "Jousia/Pravý zákolesník"
+
+#. Name for HIP 61174
+msgid "Zuoxia/Left linchpin"
+msgstr "Cuosia/Ľavý zákolesník"
+
+#. Name for HIP 60189
+msgid "Changsha/Changsha"
+msgstr "Čchangša/Čchangša"
+
+#. Name for HIP 746
+msgid "Determinative Star"
+msgstr "Určujúca hviezda"
+
+#. Name for NAME Moon, native: 太阴
+#. Native name of the Moon in Chinese culture
+msgid "Taiyin"
+msgstr "Tchajjin"
+
+#. Name for NAME Mercury, native: 辰星
+#. Native name of Mercury in Chinese culture
+msgid "Chen Star"
+msgstr "Hviezda Čchen"
+
+#. Name for NAME Venus, native: 太白
+#. Native name of Venus in Chinese culture
+msgid "Taibai"
+msgstr "Tchajpaj"
+
+#. Name for NAME Mars, native: 荧惑
+#. Native name of Mars in Chinese culture
+msgid "Yinghuo"
+msgstr "Jinkchuo"
+
+#. Name for NAME Jupiter, native: 岁星
+#. Native name of Jupiter in Chinese culture
+msgid "Sui Star"
+msgstr "Hviezda Suej"
+
+#. Name for NAME Saturn, native: 填星
+#. Native name of Saturn in Chinese culture
+msgid "Zhen Star"
+msgstr "Hviezda Čen"
+
+#. Name for M 44
+msgid "Jishiqi / Cumulative Corpse Gas"
+msgstr "Ťišičchi/Plyn z hromadných mŕtvol"
+
+#. Name for M 7
+msgid "Yu / Fish"
+msgstr "Jü/Ryba"
+
+#. Name for M 45
+msgid "Maotou / Ancient Flag with Yak's Tail"
+msgstr "Maotchou/Starobylá zástava s chvostom jaka"
