@@ -95,6 +95,9 @@ key `"comment"` and value containing the comment text anywhere in JSON objects
         # Thumbnail to display e.g. when constellation is selected
         "thumbnail": "my_thumb.webp"
       },
+      # Optional seasonal rules can be defined as a couple of numbers denoting
+      # the months when the constellation starts and stops being visible.
+      "visibility": { "months": [6,3] },
       # Common names can define the english name (the one used as reference
       # for translations), the native name (using native spelling), and the
       # pronounciation name, e.g. pinyin for chinese. Also they can contain
