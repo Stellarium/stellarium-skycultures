@@ -97,8 +97,10 @@ key `"comment"` and value containing the comment text anywhere in JSON objects
       },
       # Common names can define the english name (the one used as reference
       # for translations), the native name (using native spelling), and the
-      # pronounciation name, e.g. pinyin for chinese.
-      "common_name": {"english": "Hairy Head", "pronounce": "Mǎoxiù", "native": "昴宿"}
+      # pronounciation name, e.g. pinyin for chinese. Also they can contain
+      # an optional list of references, which are numbers referring to the
+      # References section of description.md file.
+      "common_name": {"english": "Hairy Head", "pronounce": "Mǎoxiù", "native": "昴宿", "references": [2,3]}
       # IAU abbreviation, only used for western sky culture
       "iau": "Aql"
     },
@@ -113,7 +115,7 @@ key `"comment"` and value containing the comment text anywhere in JSON objects
   "common_names": {
     "comment": "An optional comment for all the common names",
     "HIP 91262": [{"english": "The Old Woman", "comment": "An optional comment for this HIP entry"}],
-    "HIP 21421": [{"english": "Spirit of a Polar Bear", "comment": "An optional comment for this HIP entry"}],
+    "HIP 21421": [{"english": "Spirit of a Polar Bear", "comment": "An optional comment for this HIP entry", "references": [7,11]}],
     "NAME Orion Nebula": [{"english": "Nephews or Nieces", "native": "Qangimmaariik", "description": "A group of children"}]
   },
   # Only used for western sky culture
