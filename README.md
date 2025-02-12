@@ -100,10 +100,16 @@ key `"comment"` and value containing the comment text anywhere in JSON objects
       "visibility": { "months": [6,3] },
       # Common names can define the english name (the one used as reference
       # for translations), the native name (using native spelling), and the
-      # pronounciation name, e.g. pinyin for chinese. Also they can contain
-      # an optional list of references, which are numbers referring to the
-      # References section of description.md file.
-      "common_name": {"english": "Hairy Head", "pronounce": "Mǎoxiù", "native": "昴宿", "references": [2,3]}
+      # pronounciation name, e.g. pinyin for chinese.
+      # Also they can contain an optional list of references, which are numbers
+      # referring to the References section of description.md file.
+      # An optional comment for translators can be present, which will become
+      # an extracted comment in the .po files generated for this sky culture.
+      "common_name": {"english": "Hairy Head",
+                      "pronounce": "Mǎoxiù",
+                      "native": "昴宿",
+                      "references": [2,3],
+                      "translators_comments": "Some detail that translators should take into account"}
       # IAU abbreviation, only used for western sky culture
       "iau": "Aql"
     },
