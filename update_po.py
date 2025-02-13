@@ -64,7 +64,7 @@ def po_for_skyculture(sc, lang, team, legacy):
     # Sky Culture title
     entry = polib.POEntry(msgid=sc['name'],
                           msgstr=legacy.get(sc['name'], ''),
-                          tcomment="Sky culture name")
+                          comment="Sky culture name")
     po.append(entry)
 
     # Sky culture description elements
@@ -73,7 +73,7 @@ def po_for_skyculture(sc, lang, team, legacy):
             continue
         entry = polib.POEntry(msgid=sc[key],
                               msgstr=legacy.get(sc[key], ''),
-                              tcomment='Sky culture ' + key +
+                              comment='Sky culture ' + key +
                               ' section in markdown format')
         try:
             po.append(entry)
@@ -128,7 +128,7 @@ def po_for_skyculture(sc, lang, team, legacy):
                     notes = notes + ', native: ' + cn['native']
                 if 'pronounce' in cn:
                     notes = notes + ', pronounce: ' + cn['pronounce']
-                entry = polib.POEntry(msgid=english, msgstr=tr, tcomment=notes)
+                entry = polib.POEntry(msgid=english, msgstr=tr, comment=notes)
                 if entry not in po:
                     po.append(entry)
         if 'description' in constel:
@@ -138,7 +138,7 @@ def po_for_skyculture(sc, lang, team, legacy):
                 notes_id = id
             notes = 'Description of ' + sc['name'] + ' constellation ' + notes_id
             entry = polib.POEntry(msgid=desc, msgstr=tr,
-                                  tcomment=notes)
+                                  comment=notes)
             if entry not in po:
                 po.append(entry)
     # Other common names
@@ -157,7 +157,7 @@ def po_for_skyculture(sc, lang, team, legacy):
                 notes = 'Chinese star name for ' + id
                 entry = polib.POEntry(msgid=cleaned,
                                       msgstr=cleaned_tr,
-                                      tcomment=notes)
+                                      comment=notes)
                 if entry not in po:
                     po.append(entry)
 
@@ -167,7 +167,7 @@ def po_for_skyculture(sc, lang, team, legacy):
                     entry = polib.POEntry(
                         msgid='Added',
                         msgstr=added_tr,
-                        tcomment=notes)
+                        comment=notes)
                     if entry not in po:
                         po.append(entry)
             else:
@@ -180,7 +180,7 @@ def po_for_skyculture(sc, lang, team, legacy):
                     tr = cn['native']
                 notes = 'Name for ' + id
                 entry = polib.POEntry(msgid=english_name, msgstr=tr,
-                                      tcomment=notes)
+                                      comment=notes)
                 if entry not in po:
                     po.append(entry)
     return po
