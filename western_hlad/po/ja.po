@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-# Sky culture name
+#. Sky culture name
 msgid "Western (O.Hlad)"
 msgstr "西洋 (O.Hlad)"
 
-# Sky culture introduction section in markdown format
+#. Sky culture introduction section in markdown format
 msgid ""
 "A variation of the Western sky culture with lines reproducing the 1988 Czech\n"
 "printed atlas _Hvězdná obloha 2000.0_ by Hlad et al."
@@ -21,7 +21,7 @@ msgstr ""
 "Hlad "
 "etal。による1988年のチェコの印刷されたアトラス_Hvězdnáobloha2000.0_を再現した線による西部の空の文化のバリエーション。"
 
-# Sky culture description section in markdown format
+#. Sky culture description section in markdown format
 msgid ""
 "This atlas [#1] is is a folder of loose sheets (62x46cm) with 85,000 celestial\n"
 "objects and very decent line prints of the modern constellations.\n"
@@ -69,7 +69,7 @@ msgstr ""
 " *宝石も同様のケースです。\n"
 " *カムは伝統的な神話の図と比較して逆さまに見えますが、HIP 29997、33694の星は確かに明るいです。"
 
-# Sky culture references section in markdown format
+#. Sky culture references section in markdown format
 msgid ""
 " - [#1]: Hlad, Hovorka, Polechová, Weiselová (1988): _Hvězdná obloha 2000.0_. Praha: Geodetický a kartografický podnik.\n"
 " - [#2]: Hlad, Oldrich; Hovorka, Frantisek; Sojka, Petr; Weiselová, Jitka (2000): _Atlas Coeli Novus 2000.0_. Praha: Hvězdárna a planetárium hl. m. Prahy, ETC publishing.\n"
@@ -79,7 +79,7 @@ msgstr ""
 " - [#2]: Hlad、Oldrich; Hovorka、Frantisek;ソカ、ペトル;ワイセロバ、ジトカ（2000）：_Atlas Coeli Novus 2000.0_。 Praha：Hvězdárnaaplanetáriumhl。 m。 Prahy、ETC出版。\n"
 " - [#3]: Pittich、Kalmančok（1981）：_Obloha na dlani_。ブラチスラバ：Obzor。"
 
-# Sky culture authors section in markdown format
+#. Sky culture authors section in markdown format
 msgid ""
 "Miroslav Broz created version 1.0 for Stellarium 0.13.1. Updates are available\n"
 "[there](http://sirrah.troja.mff.cuni.cz/~mira/souhvezdi/).\n"
@@ -90,6 +90,6 @@ msgstr ""
 "\n"
 "説明はステラリウムのチームによって再作成されました。"
 
-# Sky culture license section in markdown format
+#. Sky culture license section in markdown format
 msgid "GNU GPL v2.0"
 msgstr "GNU GPL v2.0"
