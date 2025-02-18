@@ -178,7 +178,7 @@ def po_for_skyculture(sc, lang, team, legacy):
                 tr = legacy.get(english_name, '')
                 if is_native_lang and 'native' in cn:
                     tr = cn['native']
-                notes = 'Name for ' + id
+                notes = sc['name'] + ' name for ' + id
                 entry = polib.POEntry(msgid=english_name, msgstr=tr,
                                       comment=notes)
                 if entry not in po:
