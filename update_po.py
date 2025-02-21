@@ -128,6 +128,8 @@ def po_for_skyculture(sc, lang, team, legacy):
                     notes = notes + ', native: ' + cn['native']
                 if 'pronounce' in cn:
                     notes = notes + ', pronounce: ' + cn['pronounce']
+                if 'translators_comments' in cn:
+                    notes += '\n' + cn['translators_comments']
                 entry = polib.POEntry(msgid=english, msgstr=tr, comment=notes)
                 if entry not in po:
                     po.append(entry)
@@ -181,6 +183,8 @@ def po_for_skyculture(sc, lang, team, legacy):
                 notes = sc['name'] + ' name for ' + id
                 if 'native' in cn:
                     notes += ", native: "+cn['native']
+                if 'translators_comments' in cn:
+                    notes += '\n' + cn['translators_comments']
                 entry = polib.POEntry(msgid=english_name, msgstr=tr,
                                       comment=notes)
                 if entry not in po:
