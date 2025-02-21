@@ -102,47 +102,50 @@ def po_for_skyculture(sc, lang, team, legacy):
     if 'native_lang' in sc:
         is_native_lang = lang == sc['native_lang']
 
-    for constel in sc['constellations']:
-        id = constel['id']
-        notes_id = ''
-        if 'common_name' in constel:
-            cn = constel['common_name']
-            if prefer_native and 'native' in cn:
-                english = cn['native']
+    for obj_type, data in [['constellation', sc['constellations'] if 'constellations' in sc else {}],
+                           ['asterism', sc['asterisms'] if 'asterisms' in sc else {}]]:
+        for obj in data:
+            id = obj['id']
+            notes_id = ''
+            if 'common_name' in obj:
+                cn = obj['common_name']
+                if prefer_native and 'native' in cn:
+                    english = cn['native']
+                    if notes_id == '':
+                        notes_id = english
+                elif 'english' in cn:
+                    english = cn['english']
+                    if notes_id == '':
+                        notes_id = english
+                # Don't add names in po if it already exist in the
+                # international common names
+                if english in all_english_cn:
+                    english = ''
+                if english:
+                    tr = legacy.get(english, '')
+                    if is_native_lang and 'native' in cn:
+                        tr = cn['native']
+                    notes = sc['name'] + ' ' + obj_type
+                    if 'native' in cn:
+                        notes = notes + ', native: ' + cn['native']
+                    if 'pronounce' in cn:
+                        notes = notes + ', pronounce: ' + cn['pronounce']
+                    if 'translators_comments' in cn:
+                        notes += '\n' + cn['translators_comments']
+                    entry = polib.POEntry(msgid=english, msgstr=tr, comment=notes)
+                    if entry not in po:
+                        po.append(entry)
+            if 'description' in obj:
+                desc = obj['description']
+                tr = legacy.get(desc, '')
                 if notes_id == '':
-                    notes_id = english
-            elif 'english' in cn:
-                english = cn['english']
-                if notes_id == '':
-                    notes_id = english
-            # Don't add names in po if it already exist in the
-            # international common names
-            if english in all_english_cn:
-                english = ''
-            if english:
-                tr = legacy.get(english, '')
-                if is_native_lang and 'native' in cn:
-                    tr = cn['native']
-                notes = sc['name'] + ' constellation'
-                if 'native' in cn:
-                    notes = notes + ', native: ' + cn['native']
-                if 'pronounce' in cn:
-                    notes = notes + ', pronounce: ' + cn['pronounce']
-                if 'translators_comments' in cn:
-                    notes += '\n' + cn['translators_comments']
-                entry = polib.POEntry(msgid=english, msgstr=tr, comment=notes)
+                    notes_id = id
+                notes = 'Description of ' + sc['name'] + ' ' + obj_type + ' ' + notes_id
+                entry = polib.POEntry(msgid=desc, msgstr=tr,
+                                      comment=notes)
                 if entry not in po:
                     po.append(entry)
-        if 'description' in constel:
-            desc = constel['description']
-            tr = legacy.get(desc, '')
-            if notes_id == '':
-                notes_id = id
-            notes = 'Description of ' + sc['name'] + ' constellation ' + notes_id
-            entry = polib.POEntry(msgid=desc, msgstr=tr,
-                                  comment=notes)
-            if entry not in po:
-                po.append(entry)
+
     # Other common names
     for id, cns in sc.get('common_names', {}).items():
         for cn in cns:
