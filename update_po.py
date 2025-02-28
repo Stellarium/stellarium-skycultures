@@ -282,6 +282,8 @@ def main():
         else:
             for filename in os.listdir(po_directory):
                 langs.append(filename.replace('.po', ''))
+        langs = list(set(langs))
+        langs.sort()
         for lang in langs:
             # Load existing translations
             current_po_path = os.path.join(po_directory, '%s.po' % lang)
