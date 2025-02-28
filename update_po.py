@@ -168,9 +168,9 @@ def po_for_skyculture(sc, lang, team, legacy):
 
                 if has_added:
                     notes = '"Added" chinese star name'
-                    added_tr = legacy.get('Added', '')
+                    added_tr = legacy.get(' Added', '')
                     entry = polib.POEntry(
-                        msgid='Added',
+                        msgid=' Added',
                         msgstr=added_tr,
                         comment=notes)
                     if entry not in po:
