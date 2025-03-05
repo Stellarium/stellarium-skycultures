@@ -132,7 +132,10 @@ def po_for_skyculture(sc, lang, team, legacy):
                         notes = notes + ', pronounce: ' + cn['pronounce']
                     if 'translators_comments' in cn:
                         notes += '\n' + cn['translators_comments']
-                    entry = polib.POEntry(msgid=english, msgstr=tr, comment=notes)
+                    context = None
+                    if 'context' in cn:
+                        context = cn['context']
+                    entry = polib.POEntry(msgid=english, msgstr=tr, comment=notes, msgctxt=context)
                     if entry not in po:
                         po.append(entry)
             if 'description' in obj:
@@ -188,8 +191,11 @@ def po_for_skyculture(sc, lang, team, legacy):
                     notes += ", native: "+cn['native']
                 if 'translators_comments' in cn:
                     notes += '\n' + cn['translators_comments']
+                context = None
+                if 'context' in cn:
+                    context = cn['context']
                 entry = polib.POEntry(msgid=english_name, msgstr=tr,
-                                      comment=notes)
+                                      comment=notes, msgctxt=context)
                 if entry not in po:
                     po.append(entry)
     return po
