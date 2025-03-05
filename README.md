@@ -105,10 +105,15 @@ key `"comment"` and value containing the comment text anywhere in JSON objects
       # referring to the References section of description.md file.
       # An optional comment for translators can be present, which will become
       # an extracted comment in the .po files generated for this sky culture.
+      # If needed for disambiguation when translating, e.g. when a term from the
+      # current culture should be translate differently to a similar term in
+      # another culture, a context can be added. This will result in a msgctxt
+      # entry in the .po files.
       "common_name": {"english": "Hairy Head",
                       "pronounce": "Mǎoxiù",
                       "native": "昴宿",
                       "references": [2,3],
+                      "context": "a sky culture with a separately-translated common term",
                       "translators_comments": "Some detail that translators should take into account"}
       # IAU abbreviation, only used for western sky culture
       "iau": "Aql"
