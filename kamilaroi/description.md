@@ -138,3 +138,5 @@ Technical re-work by Susanne M Hoffmann
 ## License
 
 Text, lines and illustrations: CC BY-NC-ND 4.0
+
+Special permission is granted to Stellarium developers to include the licensed material.
