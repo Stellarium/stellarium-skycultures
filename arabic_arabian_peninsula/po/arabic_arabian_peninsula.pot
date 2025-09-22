@@ -1,22 +1,14 @@
 #
-# Translators:
-# Pedro Presilha <ppresilha@gmail.com>, 2022
-# Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022
-# cardinot <mcardinot@gmail.com>, 2025
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"Last-Translator: cardinot <mcardinot@gmail.com>, 2025\n"
-"Language-Team: Portuguese (https://app.transifex.com/stellarium/teams/80998/"
-"pt/)\n"
-"Language: pt\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
-"1000000 == 0 ? 1 : 2;\n"
 
 #. Arabic (Arabian Peninsula) sky culture name
 msgid "Arabic (Arabian Peninsula)"
@@ -33,50 +25,26 @@ msgstr ""
 #. Arabic (Arabian Peninsula) sky culture description section in markdown
 #. format
 msgid ""
-"The Arabian Peninsula is a region covering the southwestern corner of Asia, "
-"bordered by the Gulf of Aden and Arabian Sea to the south, the Gulf of Oman "
-"and the Arabian/Persian Gulf to the east, and the Red Sea to the west. The "
-"northern border is not precisely defined, but according to ancient "
-"geographers, it is bordered by rivers, notably the Euphrates River [#16] "
-"[#17]. This region is inhabited by Arabs and includes Jordan, Saudi Arabia, "
-"Kuwait, Bahrain, Qatar, United Arab Emirates, Oman, Yemen, and parts of "
-"Syria and Iraq.\n"
+"The Arabian Peninsula is a region covering the southwestern corner of Asia, bordered by the Gulf of Aden and Arabian Sea to the south, the Gulf of Oman and the Arabian/Persian Gulf to the east, and the Red Sea to the west. The northern border is not precisely defined, but according to ancient geographers, it is bordered by rivers, notably the Euphrates River [#16] [#17]. This region is inhabited by Arabs and includes Jordan, Saudi Arabia, Kuwait, Bahrain, Qatar, United Arab Emirates, Oman, Yemen, and parts of Syria and Iraq.\n"
 "\n"
 "<p><img width=\"300\" src=\"illustrations/arabian_peninsula.jpg\" /></p>\n"
 "\n"
-"Bedouins and farmers across the Arabian Peninsula relied heavily on stars to "
-"time their nomadic journeys, care for animals, forecast weather, and conduct "
-"agricultural activities. Stars are frequently mentioned in their proverbs "
-"and poetry. Fortunately, oral poetry and proverbs have been documented and "
-"preserved by various scholars. Surveying the collections of these scholars "
-"alongside oral traditions reveals the star knowledge of the people in this "
-"region.\n"
+"Bedouins and farmers across the Arabian Peninsula relied heavily on stars to time their nomadic journeys, care for animals, forecast weather, and conduct agricultural activities. Stars are frequently mentioned in their proverbs and poetry. Fortunately, oral poetry and proverbs have been documented and preserved by various scholars. Surveying the collections of these scholars alongside oral traditions reveals the star knowledge of the people in this region.\n"
 "\n"
-"The stars used for timing are the same as those of ancient Arabs, but the "
-"system is simplified by beginning the year with the heliacal rising of al-"
-"Thurayyā, the Pleiades, at the start of summer, then counting 13 days for "
-"each lunar station, except al-Ǧabhah, which has 14 days. This results in a "
-"27 lunar stations × 13 days + 14 days (al-Ǧabhah) = 365-day cycle. Other "
-"timing methods were also used, such as the monthly Pleiades-Moon conjunction "
-"or using stars like those of the Big Dipper.\n"
+"The stars used for timing are the same as those of ancient Arabs, but the system is simplified by beginning the year with the heliacal rising of al-Thurayyā, the Pleiades, at the start of summer, then counting 13 days for each lunar station, except al-Ǧabhah, which has 14 days. This results in a 27 lunar stations × 13 days + 14 days (al-Ǧabhah) = 365-day cycle. Other timing methods were also used, such as the monthly Pleiades-Moon conjunction or using stars like those of the Big Dipper.\n"
 "\n"
-"The sources indicate that star names and asterisms are fewer compared to "
-"those of ancient Arabs. Only the brightest stars and prominent asterisms "
-"were named and used. An important source of continuing star knowledge is the "
-"poetry of al-Ḫalāwī, a poet whose era is uncertain but estimated to be in "
-"the 17th century [#3]. Another key source is a poem by Moḥammad al-Qāḍī "
-"(~1809–1886), in which he described all 28 lunar stations, citing their "
-"local names [#2]."
+"The sources indicate that star names and asterisms are fewer compared to those of ancient Arabs. Only the brightest stars and prominent asterisms were named and used. An important source of continuing star knowledge is the poetry of al-Ḫalāwī, a poet whose era is uncertain but estimated to be in the 17th century [#3]. Another key source is a poem by Moḥammad al-Qāḍī (~1809–1886), in which he described all 28 lunar stations, citing their local names [#2]."
 msgstr ""
 
 #. Description of Arabic (Arabian Peninsula) constellation The Two Guards
 msgid ""
 "The Two Guards are the stars β Ursae Minoris and γ Ursae Minoris, "
-"traditionally used in desert navigation. Their name comes from an old legend "
-"in which al-Jady (Polaris) kills the father of the Seven Sisters—represented "
-"by the stars of the Big Dipper—who then carry their father’s bier and circle "
-"al-Jady, vowing revenge. Seeking protection from their wrath, al-Jady turned "
-"to these two nearby stars, which became known as the “Two Guards.” [#1]."
+"traditionally used in desert navigation. Their name comes from an old legend"
+" in which al-Jady (Polaris) kills the father of the Seven "
+"Sisters—represented by the stars of the Big Dipper—who then carry their "
+"father’s bier and circle al-Jady, vowing revenge. Seeking protection from "
+"their wrath, al-Jady turned to these two nearby stars, which became known as"
+" the “Two Guards.” [#1]."
 msgstr ""
 
 #. Description of Arabic (Arabian Peninsula) constellation The Two Refugees
@@ -103,8 +71,8 @@ msgstr ""
 
 #. Description of Arabic (Arabian Peninsula) constellation Daughters Of Na'sh
 msgid ""
-"The seven stars of the Big Dipper, known as the seven sisters carrying their "
-"father's bier, the father killed by al-Ǧady (Polaris) [#1]."
+"The seven stars of the Big Dipper, known as the seven sisters carrying their"
+" father's bier, the father killed by al-Ǧady (Polaris) [#1]."
 msgstr ""
 
 #. Description of Arabic (Arabian Peninsula) constellation Saddle Of The Camel
@@ -115,8 +83,8 @@ msgstr ""
 
 #. Description of Arabic (Arabian Peninsula) constellation The Wool Spindle
 msgid ""
-"The cross-shaped arrangement of α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr), "
-"δ Cyg, and β1+β2 Cyg (Albireo). This comes from oral tradition in Zulfi, "
+"The cross-shaped arrangement of α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr),"
+" δ Cyg, and β1+β2 Cyg (Albireo). This comes from oral tradition in Zulfi, "
 "central Saudi Arabia [#1]."
 msgstr ""
 
@@ -152,15 +120,15 @@ msgstr ""
 
 #. Description of Arabic (Arabian Peninsula) constellation The Arm
 msgid ""
-"The two stars of Canis Minor, considered the arm of the lion (5th mansion of "
-"the Moon) [#2]."
+"The two stars of Canis Minor, considered the arm of the lion (5th mansion of"
+" the Moon) [#2]."
 msgstr ""
 
 #. Description of Arabic (Arabian Peninsula) constellation The Two Little Dogs
 msgid ""
 "An asterism of stars δ CMa and ε CMa. Their heliacal rising marks timing "
-"(coinciding with the 6th mansion of the Moon). The name is common in central "
-"Arabia [#2] [#3]."
+"(coinciding with the 6th mansion of the Moon). The name is common in central"
+" Arabia [#2] [#3]."
 msgstr ""
 
 #. Description of Arabic (Arabian Peninsula) constellation The Nostrils
@@ -208,8 +176,8 @@ msgstr ""
 
 #. Description of Arabic (Arabian Peninsula) constellation The Diadem
 msgid ""
-"An arc of three stars on the forehead of Scorpius (15th mansion of the Moon) "
-"[#2]."
+"An arc of three stars on the forehead of Scorpius (15th mansion of the Moon)"
+" [#2]."
 msgstr ""
 
 #. Description of Arabic (Arabian Peninsula) constellation The Heart
@@ -300,8 +268,8 @@ msgstr ""
 #. Description of Arabic (Arabian Peninsula) constellation Mosque Of Al-
 #. Thurayya
 msgid ""
-"A triangle of stars that rise before al-Thurayya (the Pleiades). It includes "
-"α Ari, α Tri, and β Tri. The name comes from oral tradition in Wadi al-"
+"A triangle of stars that rise before al-Thurayya (the Pleiades). It includes"
+" α Ari, α Tri, and β Tri. The name comes from oral tradition in Wadi al-"
 "Dawasir, southwestern Saudi Arabia [#1]."
 msgstr ""
 
@@ -316,65 +284,22 @@ msgstr ""
 #. format
 msgid ""
 "- [#1]: Oral tradition  \n"
-"- [#2]: Al-Ajaji, Khalid, *Šarḥ Qaṣidat al-Qāḍī fi al-anwāʾ wal-nuǧūm*, "
-"Explanation of al-Qāḍī poem of anwāʾ and stars, Riyadh, Saudi Arabia, 2013., "
-"خالد بن عبد الله العجاجي، شرح قصيدة القاضي في الأنواء والنجوم، الرياض، "
-"المملكة العربية السعودية، 1434 هـ.  \n"
-"- [#3]: Al-Ajaji, Khalid, *Šarḥ Maʾthūrāt al-Ḫalāwī al-falakiyah*, "
-"Explanation of al-Ḫalāwī astronomy poems, Riyadh, Saudi Arabia, 2018., خالد "
-"بن عبد الله العجاجي، شرح مأثورات الخلاوي الفلكية، الرياض، المملكة العربية "
-"السعودية، 1439 هـ.  \n"
-"- [#4]: Ibn Ḫamīs, ʿAbd Allah b. Muḥammad, *Rāshid al-Ḫalāwī*, Riyadh, Saudi "
-"Arabia, 2002., عبدالله بن محمد بن خميس ، راشد الخلاوي ، الرياض، المملكة "
-"العربية السعودية، 1423 هـ.  \n"
-"- [#5]: Al-Blādī, ʿAtiq b. Ġayth, *Al-adab al-šaʿbī fi al-ḥiǧāz*, Folk "
-"literature in Ḥijaz, Dar Makkah, Makkah, Saudi Arabia, 1982, عاتق بن غيث "
-"البلادي (ت 1431 ه)، الأدب الشعبي في الحجاز، دار مكة، مكة المكرمة، ط 2، 1402 "
-"هـ.  \n"
-"- [#6]: Al-Suwaydā, ʿAbd al-Raḥman, *Al-Amthāl al-šaʿbiyah al-sāʾirah fi "
-"manṭiqat Ḥāʾil*, The local common proverbs of the Ḥayel region, Riyadh, "
-"Saudi Arabia, 2007., عبد الرحمن بن زيد السويداء، الأمثال الشعبية السائرة في "
-"منطقة حائل، الرياض، المملكة العربية السعودية، 1428 هـ.  \n"
-"- [#7]: Al-Ḥatim, ʿAbd Allah Khalid, *Diwān ʿAbd Allah bin Ḥmūd al-Sbayel*, "
-"The poetry collection of ʿAbd Allah b. Ḥumūd al-Sbayel, 1984, عبدالله الخالد "
-"الحاتم ، ديوان عبدالله بن حمود السبيِّل، 1404 هـ.  \n"
-"- [#8]: Al-Suwaydā, ʿAbd al-Raḥman, *Šuʿarāʾ al-ǧabal al-šaʿbiyūn*, The "
-"Poets of the mountain, 5-volume poetry collection, Riyadh, Saudi Arabia, "
-"2013., عبد الرحمن بن زيد السويداء، شعراء الجبل الشعبيون، الرياض، المملكة "
-"العربية السعودية، 1434 هـ.  \n"
-"- [#9]: Al-ʿAnsī, Yaḥyā, *Al-Maʿalim al-ziraʿiyah fi al-Yaman*, Agricultural "
-"signs in Yemen, Yemen, 2010, يحيى العنسي، المعالم الزراعية في اليمن، اليمن، "
-"1431 هـ.  \n"
-"- [#10]: Ibn Bišir, ʿUṯmān ibn ʿAbd Allah (died 1873), *ʿInwān al-maǧd fi "
-"tarīḫ Naǧd*, The Title of Glory on the History of Najd (Arabic critical "
-"edition by Dr. Muḥammad ibn Nāṣir al-Šiṯrī), Riyadh, Saudi Arabia, 2012., "
-"ابن بشر، عثمان بن عبد الله بن بشر، عنوان المجد في تاريخ نجد، تحقيق الدكتور "
-"محمد بن ناصر الشثري، الرياض، المملكة العربية السعودية، 1433 هـ.  \n"
-"- [#11]: Al-ʿUbūdī, Moḥammad b. Nāṣir, *Al-Amthāl al-ʿāmiyah fi Naǧd*, The "
-"folk proverbs in Najd, 4 volumes, Dar Al-Thulūthiyah, Riyadh, Saudi Arabia, "
-"2010., محمد بن ناصر العبودي، الأمثال العامية في نجد، دار الثلوثية، الرياض، "
-"المملكة العربية السعودية، 1431 هـ.  \n"
-"- [#12]: Al-ʿUbūdī, Moḥammad b. Nāṣir, *Muʿǧam al-Uṣūl al-faṣīḥah lil-alfāẓ "
-"al-dariǧah*, Lexicon of the classical root of the common dialect words, 13 "
-"volumes, King AbdulAzeez Library, Riyadh, Saudi Arabia, 2009., محمد بن ناصر "
-"العبودي، معجم الأصول الفصيحة للألفاظ الدارجة، مكتبة الملك عبد العزيز، "
-"الرياض، المملكة العربية السعودية، 1430 هـ.  \n"
-"- [#13]: *Al-Azhār al-nadiyah min ashʿār al-badiyah*, A collection of "
-"Bedouin poetry titled The Moist Flowers of Bedouin Poetry, 18 volumes, Al "
-"Ma'arif library, Tayef, Saudi Arabia. الأزهار النادية من أشعار البادية، "
-"مكتبة المعارف، الطائف، المملكة العربية السعودية.  \n"
-"- [#14]: *Min ādābinā al-shaʿbiyah fi al-ǧazīrah al-ʿarabiyah*, A collection "
-"of poetry by Mandeel al-Fuhaid, Our local literature of the Arabian "
-"Peninsula, 10 volumes, Riyadh, Saudi Arabia. منديل بن محمد الفهيد، من آدابنا "
-"الشعبية في الجزيرة العربية.  \n"
-"- [#15]: Al-Suwaydā, ʿAbd al-Raḥman, *Durar min al-shiʿr al-shaʿbī*, The "
-"Best of Folk Poetry, 3-volume poetry collection, Riyadh, Saudi Arabia, 1999. "
-"عبد الرحمن بن زيد السويداء، درر من الشعر الشعبي، الرياض، المملكة العربية "
-"السعودية، 1420 هـ.  \n"
-"- [#16]: Al-Hamdânîʼs *Geographie der Arabischen Halbinsel*, David Heinrich "
-"Müller, Leiden: E. J. Brill, 1884, p. 47.  \n"
-"- [#17]: Le Bon, Gustave, *La civilisation des Arabes*, Paris, Librairie de "
-"Firmin-Didot, 1884, livre premier, p. 1."
+"- [#2]: Al-Ajaji, Khalid, *Šarḥ Qaṣidat al-Qāḍī fi al-anwāʾ wal-nuǧūm*, Explanation of al-Qāḍī poem of anwāʾ and stars, Riyadh, Saudi Arabia, 2013., خالد بن عبد الله العجاجي، شرح قصيدة القاضي في الأنواء والنجوم، الرياض، المملكة العربية السعودية، 1434 هـ.  \n"
+"- [#3]: Al-Ajaji, Khalid, *Šarḥ Maʾthūrāt al-Ḫalāwī al-falakiyah*, Explanation of al-Ḫalāwī astronomy poems, Riyadh, Saudi Arabia, 2018., خالد بن عبد الله العجاجي، شرح مأثورات الخلاوي الفلكية، الرياض، المملكة العربية السعودية، 1439 هـ.  \n"
+"- [#4]: Ibn Ḫamīs, ʿAbd Allah b. Muḥammad, *Rāshid al-Ḫalāwī*, Riyadh, Saudi Arabia, 2002., عبدالله بن محمد بن خميس ، راشد الخلاوي ، الرياض، المملكة العربية السعودية، 1423 هـ.  \n"
+"- [#5]: Al-Blādī, ʿAtiq b. Ġayth, *Al-adab al-šaʿbī fi al-ḥiǧāz*, Folk literature in Ḥijaz, Dar Makkah, Makkah, Saudi Arabia, 1982, عاتق بن غيث البلادي (ت 1431 ه)، الأدب الشعبي في الحجاز، دار مكة، مكة المكرمة، ط 2، 1402 هـ.  \n"
+"- [#6]: Al-Suwaydā, ʿAbd al-Raḥman, *Al-Amthāl al-šaʿbiyah al-sāʾirah fi manṭiqat Ḥāʾil*, The local common proverbs of the Ḥayel region, Riyadh, Saudi Arabia, 2007., عبد الرحمن بن زيد السويداء، الأمثال الشعبية السائرة في منطقة حائل، الرياض، المملكة العربية السعودية، 1428 هـ.  \n"
+"- [#7]: Al-Ḥatim, ʿAbd Allah Khalid, *Diwān ʿAbd Allah bin Ḥmūd al-Sbayel*, The poetry collection of ʿAbd Allah b. Ḥumūd al-Sbayel, 1984, عبدالله الخالد الحاتم ، ديوان عبدالله بن حمود السبيِّل، 1404 هـ.  \n"
+"- [#8]: Al-Suwaydā, ʿAbd al-Raḥman, *Šuʿarāʾ al-ǧabal al-šaʿbiyūn*, The Poets of the mountain, 5-volume poetry collection, Riyadh, Saudi Arabia, 2013., عبد الرحمن بن زيد السويداء، شعراء الجبل الشعبيون، الرياض، المملكة العربية السعودية، 1434 هـ.  \n"
+"- [#9]: Al-ʿAnsī, Yaḥyā, *Al-Maʿalim al-ziraʿiyah fi al-Yaman*, Agricultural signs in Yemen, Yemen, 2010, يحيى العنسي، المعالم الزراعية في اليمن، اليمن، 1431 هـ.  \n"
+"- [#10]: Ibn Bišir, ʿUṯmān ibn ʿAbd Allah (died 1873), *ʿInwān al-maǧd fi tarīḫ Naǧd*, The Title of Glory on the History of Najd (Arabic critical edition by Dr. Muḥammad ibn Nāṣir al-Šiṯrī), Riyadh, Saudi Arabia, 2012., ابن بشر، عثمان بن عبد الله بن بشر، عنوان المجد في تاريخ نجد، تحقيق الدكتور محمد بن ناصر الشثري، الرياض، المملكة العربية السعودية، 1433 هـ.  \n"
+"- [#11]: Al-ʿUbūdī, Moḥammad b. Nāṣir, *Al-Amthāl al-ʿāmiyah fi Naǧd*, The folk proverbs in Najd, 4 volumes, Dar Al-Thulūthiyah, Riyadh, Saudi Arabia, 2010., محمد بن ناصر العبودي، الأمثال العامية في نجد، دار الثلوثية، الرياض، المملكة العربية السعودية، 1431 هـ.  \n"
+"- [#12]: Al-ʿUbūdī, Moḥammad b. Nāṣir, *Muʿǧam al-Uṣūl al-faṣīḥah lil-alfāẓ al-dariǧah*, Lexicon of the classical root of the common dialect words, 13 volumes, King AbdulAzeez Library, Riyadh, Saudi Arabia, 2009., محمد بن ناصر العبودي، معجم الأصول الفصيحة للألفاظ الدارجة، مكتبة الملك عبد العزيز، الرياض، المملكة العربية السعودية، 1430 هـ.  \n"
+"- [#13]: *Al-Azhār al-nadiyah min ashʿār al-badiyah*, A collection of Bedouin poetry titled The Moist Flowers of Bedouin Poetry, 18 volumes, Al Ma'arif library, Tayef, Saudi Arabia. الأزهار النادية من أشعار البادية، مكتبة المعارف، الطائف، المملكة العربية السعودية.  \n"
+"- [#14]: *Min ādābinā al-shaʿbiyah fi al-ǧazīrah al-ʿarabiyah*, A collection of poetry by Mandeel al-Fuhaid, Our local literature of the Arabian Peninsula, 10 volumes, Riyadh, Saudi Arabia. منديل بن محمد الفهيد، من آدابنا الشعبية في الجزيرة العربية.  \n"
+"- [#15]: Al-Suwaydā, ʿAbd al-Raḥman, *Durar min al-shiʿr al-shaʿbī*, The Best of Folk Poetry, 3-volume poetry collection, Riyadh, Saudi Arabia, 1999. عبد الرحمن بن زيد السويداء، درر من الشعر الشعبي، الرياض، المملكة العربية السعودية، 1420 هـ.  \n"
+"- [#16]: Al-Hamdânîʼs *Geographie der Arabischen Halbinsel*, David Heinrich Müller, Leiden: E. J. Brill, 1884, p. 47.  \n"
+"- [#17]: Le Bon, Gustave, *La civilisation des Arabes*, Paris, Librairie de Firmin-Didot, 1884, livre premier, p. 1."
 msgstr ""
 
 #. Arabic (Arabian Peninsula) sky culture authors section in markdown format
@@ -385,8 +310,7 @@ msgstr ""
 msgid ""
 "CC BY-ND 4.0\n"
 "\n"
-"Special permission is granted to Stellarium Labs to include the licensed "
-"material."
+"Special permission is granted to Stellarium Labs to include the licensed material."
 msgstr ""
 
 #. Arabic (Arabian Peninsula) constellation, native: الحويجزين, pronounce: al-
@@ -413,7 +337,7 @@ msgstr ""
 #. Arabic (Arabian Peninsula) constellation, native: السبَّع, pronounce: al-
 #. Sibba'
 msgid "The Seven"
-msgstr "Os Sete"
+msgstr ""
 
 #. Arabic (Arabian Peninsula) constellation, native: بنات نعش, pronounce:
 #. Banāt Na'sh
@@ -458,7 +382,7 @@ msgstr ""
 #. Thrayyā
 #. Al-Thurayya is a proper name
 msgid "Al-Thurayya"
-msgstr "Al-Thurayya"
+msgstr ""
 
 #. Arabic (Arabian Peninsula) constellation, native: التويبع, pronounce: al-
 #. Twaibi'
@@ -469,7 +393,7 @@ msgstr ""
 #. Arabic (Arabian Peninsula) constellation, native: الذراع, pronounce: al-
 #. Dhrā'
 msgid "The Arm"
-msgstr "O Braço"
+msgstr ""
 
 #. Arabic (Arabian Peninsula) constellation, native: الكليبين, pronounce: al-
 #. Klaybayn
@@ -500,7 +424,7 @@ msgstr ""
 #. Arabic (Arabian Peninsula) constellation, native: العوا, pronounce:
 #. al-'Awwā
 msgid "The Bend"
-msgstr "A Curvatura"
+msgstr ""
 
 #. Arabic (Arabian Peninsula) constellation, native: السماك الأعزل, pronounce:
 #. al-Smak al-'Azal
@@ -526,7 +450,7 @@ msgstr ""
 #. Arabic (Arabian Peninsula) constellation, native: القلب, pronounce: al-Qalb
 #. Arabic (Arabian Peninsula) name for HIP 80763, native: القلب
 msgid "The Heart"
-msgstr "O Coração"
+msgstr ""
 
 #. Arabic (Arabian Peninsula) constellation, native: الشولة, pronounce: al-
 #. Shawlah
@@ -537,7 +461,7 @@ msgstr ""
 #. Arabic (Arabian Peninsula) constellation, native: العقرب, pronounce:
 #. al-'Aqrab
 msgid "The Scorpion"
-msgstr "O Escorpião"
+msgstr ""
 
 #. Arabic (Arabian Peninsula) constellation, native: البلدة, pronounce: al-
 #. Baldah
@@ -547,7 +471,7 @@ msgstr ""
 #. Arabic (Arabian Peninsula) constellation, native: النعائم, pronounce: al-
 #. Na'āyim
 msgid "The Ostriches"
-msgstr "Os Avestruzes"
+msgstr ""
 
 #. Arabic (Arabian Peninsula) constellation, native: سعد الذابح, pronounce:
 #. Sa'd al-Dhābih
@@ -643,7 +567,7 @@ msgstr ""
 #. Arabic (Arabian Peninsula) name for HIP 11767, native: الجدي
 #. The Kid is the little he-goat
 msgid "The Kid"
-msgstr "A Criança"
+msgstr ""
 
 #. Arabic (Arabian Peninsula) name for HIP 21421, native: التويلي
 msgid "The Latter"
@@ -689,7 +613,7 @@ msgstr ""
 #. Arabic (Arabian Peninsula) name for HIP 30438, native: سهيل
 #. Suhayl is a proper name
 msgid "Suhayl"
-msgstr "Suhail"
+msgstr ""
 
 #. Arabic (Arabian Peninsula) name for HIP 32349, native: المرزم
 #. Al-Mirzam is a proper name
@@ -855,7 +779,7 @@ msgstr ""
 
 #. Arabic (Arabian Peninsula) name for NAME Venus, native: نجمة الصبح
 msgid "Morning Star"
-msgstr "Estrela da Manhã"
+msgstr ""
 
 #. Arabic (Arabian Peninsula) name for NAME Venus, native: الجغمة
 msgid "The Sip"

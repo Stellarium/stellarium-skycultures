@@ -1,594 +1,982 @@
 #
+# Translators:
+# Huzaifa <huthaifaalmustafa@gmail.com>, 2025
+# Latein Lebt, 2025
+# cardinot <mcardinot@gmail.com>, 2025
+# Alexander V. Wolf <alex.v.wolf@gmail.com>, 2025
+# Khalid AlAjaji, 2025
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: 1.0\n"
-"Last-Translator: Stellarium's developers\n"
-"Language-Team: \n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Khalid AlAjaji, 2025\n"
+"Language-Team: Arabic (https://app.transifex.com/stellarium/teams/80998/"
+"ar/)\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Poedit 3.7\n"
 
-#. Sky culture name
+#. Arabic (Arabian Peninsula) sky culture name
 msgid "Arabic (Arabian Peninsula)"
 msgstr "العربي (الجزيرة العربية)"
 
-#. Sky culture introduction section in markdown format
+#. Arabic (Arabian Peninsula) sky culture introduction section in markdown
+#. format
 msgid ""
-"The oral folk tradition of star names and asterisms in the Arabian Peninsula, \n"
-"mostly scattered in poetry and proverbs."
+"The Arabic (Arabian Peninsula) sky culture reflects the oral folk tradition "
+"of star names and asterisms in the Arabian Peninsula, primarily found "
+"scattered in poetry and proverbs."
 msgstr ""
-"التراث الفلكي الشعبي لأسماء النجوم المحفوظ في الشعر النبطي والأمثال العامية."
+"تراث الجزيرة العربية الفلكي الشعبي الشفهي لتشكيلات النجوم وأسمائها المحفوظ "
+"في الشعر النبطي والأمثال العامية."
 
-#. Sky culture description section in markdown format
+#. Arabic (Arabian Peninsula) sky culture description section in markdown
+#. format
 msgid ""
-"The Bedouins and farmers in central Arabia relied heavily on stars for timing \n"
-"their nomadic trips, animal care, weather forecast and agricultural activities. \n"
-"We find frequent mention of stars in their proverbs and poetry. Fortunately, the \n"
-"oral poetry and proverbs have been documented and preserved in collections by \n"
-"different scholars. Surveying these collections along with oral traditions \n"
-"reveals the star knowledge of the people of this region.\n"
+"The Arabian Peninsula is a region covering the southwestern corner of Asia, "
+"bordered by the Gulf of Aden and Arabian Sea to the south, the Gulf of Oman "
+"and the Arabian/Persian Gulf to the east, and the Red Sea to the west. The "
+"northern border is not precisely defined, but according to ancient "
+"geographers, it is bordered by rivers, notably the Euphrates River [#16] "
+"[#17]. This region is inhabited by Arabs and includes Jordan, Saudi Arabia, "
+"Kuwait, Bahrain, Qatar, United Arab Emirates, Oman, Yemen, and parts of "
+"Syria and Iraq.\n"
 "\n"
-"The stars used for timing are the same as that of ancient Arabs, but the system \n"
-"is simplified by beginning the year cycle with the heliacal rising of \n"
-"al-Thurayya, the Pleiades, in the beginning of summer, and then counting 13 days \n"
-"for each lunar station, except for al-Jabhah that has 14 days. This will have 27 \n"
-"lunar stations x 13 days + 14 days for (al-Jabhah) = 365-day cycle. Other \n"
-"methods of timing were also used like the monthly Pleiades-Moon conjunction or \n"
-"using other stars like the stars of the Big Dipper.\n"
+"<p><img width=\"300\" src=\"illustrations/arabian_peninsula.jpg\" /></p>\n"
 "\n"
-"The sources show that star names and asterisms are few compared to that of \n"
-"ancient Arabs. Only the bright stars and prominent asterism were named and used. \n"
-"An important source of star knowledge that continued its influence up to the \n"
-"present is the poetry of al-Khalāwī, a poet who's time is not certain but \n"
-"estimated to be in the 17th century[#9]. Another important source is a poem by \n"
-"Moḥammad al-Qādhī (~1809 -1886), where he described all the 28 lunar \n"
-"stations, citing them by the local names[#8].\n"
+"Bedouins and farmers across the Arabian Peninsula relied heavily on stars to "
+"time their nomadic journeys, care for animals, forecast weather, and conduct "
+"agricultural activities. Stars are frequently mentioned in their proverbs "
+"and poetry. Fortunately, oral poetry and proverbs have been documented and "
+"preserved by various scholars. Surveying the collections of these scholars "
+"alongside oral traditions reveals the star knowledge of the people in this "
+"region.\n"
 "\n"
-"The source of this sky culture is a compilation of star names from oral \n"
-"traditions and the books listed in the references section."
+"The stars used for timing are the same as those of ancient Arabs, but the "
+"system is simplified by beginning the year with the heliacal rising of al-"
+"Thurayyā, the Pleiades, at the start of summer, then counting 13 days for "
+"each lunar station, except al-Ǧabhah, which has 14 days. This results in a "
+"27 lunar stations × 13 days + 14 days (al-Ǧabhah) = 365-day cycle. Other "
+"timing methods were also used, such as the monthly Pleiades-Moon conjunction "
+"or using stars like those of the Big Dipper.\n"
+"\n"
+"The sources indicate that star names and asterisms are fewer compared to "
+"those of ancient Arabs. Only the brightest stars and prominent asterisms "
+"were named and used. An important source of continuing star knowledge is the "
+"poetry of al-Ḫalāwī, a poet whose era is uncertain but estimated to be in "
+"the 17th century [#3]. Another key source is a poem by Moḥammad al-Qāḍī "
+"(~1809–1886), in which he described all 28 lunar stations, citing their "
+"local names [#2]."
 msgstr ""
-"كانت النجوم بالنسبة للعرب، باديتهم وحاضرتهم، وسيلة مهمة لتوقيت نشاطاتهم الحياتية من الانتجاع والرجوع إلى المحاضر والعناية بالماشية، والتنبؤ بأوقات المطر، والزراعة الفصلية. ولذلك نرى ذكرا كثيرا للنجوم في الأمثال والشعر يعبر عن الأوقات بطلوع النجوم أو غيابها. ومن فضل الله، فقد اعتنى بعض الباحثين بتدوين ونشر مجاميع القصائد والأمثال الشعبية الشفهية لمناطق الجزيرة العربية. استقصاء المعارف الفلكية من هذه المجاميع مع التلقي الشفهي يكشف لنا المعرفة الفلكية لأهل الجزيرة العربية. \n"
+"الجزيرة العربية منطقة تغطي الركن الجنوبي الغربي من قارة آسيا، يحدها من "
+"الجنوب خليج عدن وبحر العرب، ومن الشرق خليج عمان والخليج العربي، ومن الغرب "
+"البحر الأحمر. أما حدودها الشمالية فليست محددة بدقة، لكن وفق الجغرافيين "
+"القدماء تحدها أنهار، أبرزها نهر الفرات [#16] [#17]. يسكن هذه المنطقة العرب، "
+"وتشمل كلاً من الأردن، المملكة العربية السعودية، الكويت، البحرين، قطر، "
+"الإمارات العربية المتحدة، عمان، اليمن، إضافة إلى أجزاء من سوريا والعراق.\n"
 "\n"
-"النجوم التي استخدمت للتوقيت هي نفس النجوم عند العرب القدماء، ولكن بطريقة مبسطة حيث يبدأ التقويم من طلوع الثريا في أول القيظ ثم يعطى لكل نجم 13 يوما ما عدا الجبهة فلها 14 يوما، وبذلك تستغرق الدورة السنوية للنجوم الثمانية والعشرين 365 يوما. وهذه ليست الطريقة الوحيدة لحساب الفصول، ولكن توجد طرق بحساب طلوع نجوم أخرى مثل نجوم بنات نعش أو باقتران الثريا مع القمر في أطواره المختلفة. \n"
+"<p><img width=\"300\" src=\"illustrations/arabian_peninsula.jpg\" /></p>\n"
 "\n"
-"باستقصاء المصادر، نجد أن عدد أسماء النجوم وتشكيلاتها قليل مقارنة بما كان عند العرب القدماء، حيث لم تسمى إلا النجوم اللامعة والتشكيلات الظاهرة مثل بنات نعش والجوزاء. من المصادر المهمة للمعرفة الفلكية التي مازالت مستعملة حتى اليوم قصائد الخلاوي الفلكية، وزمن الخلاوي غير معلوم، ولكن قدر البعض أنه في القرن الحادي عشر[#9]. المصدر الآخر المهم قصيدة لمحمد القاضي رحمه الله (ت 1284 هـ) في النجوم يصف فيها جميع منازل القمر مع ذكر الأسماء الشعبية[#8].\n"
+"كانت النجوم بالنسبة للعرب، باديتهم وحاضرتهم، وسيلة مهمة لتوقيت نشاطاتهم "
+"الحياتية من الانتجاع والرجوع إلى المحاضر والعناية بالماشية، والتنبؤ بأوقات "
+"المطر، والزراعة الفصلية. ولذلك نرى ذكرا كثيرا للنجوم في الأمثال والشعر يعبر "
+"عن الأوقات بطلوع النجوم أو غيابها. ومن فضل الله، فقد اعتنى بعض الباحثين "
+"بتدوين ونشر مجاميع القصائد والأمثال الشعبية الشفهية لمناطق الجزيرة العربية. "
+"استقصاء المعارف الفلكية من هذه المجاميع مع التلقي الشفهي يكشف لنا المعرفة "
+"الفلكية لأهل الجزيرة العربية.\n"
 "\n"
-"جمعت الأسماء الموجودة في هذا التراث الفلكي بالتلقي الشفهي، والكتب المدرجة في قسم المراجع."
+"النجوم التي استخدمت للتوقيت هي نفس النجوم عند العرب القدماء، ولكن بطريقة "
+"مبسطة حيث يبدأ التقويم من طلوع الثريا في أول القيظ ثم يعطى لكل نجم 13 يوما "
+"ما عدا الجبهة فلها 14 يوما، وبذلك تستغرق الدورة السنوية للنجوم الثمانية "
+"والعشرين 365 يوما. وهذه ليست الطريقة الوحيدة لحساب الفصول، ولكن توجد طرق "
+"بحساب طلوع نجوم أخرى مثل نجوم بنات نعش أو باقتران الثريا مع القمر في أطواره "
+"المختلفة.\n"
+"\n"
+"باستقصاء المصادر، نجد أن عدد أسماء النجوم وتشكيلاتها قليل مقارنة بما كان عند "
+"العرب القدماء، حيث لم تسمى إلا النجوم اللامعة والتشكيلات الظاهرة مثل بنات "
+"نعش والجوزاء. من المصادر المهمة للمعرفة الفلكية التي مازالت مستعملة حتى "
+"اليوم قصائد الخلاوي الفلكية، وزمن الخلاوي غير معلوم، ولكن قدر البعض أنه في "
+"القرن الحادي عشر [#3]. والمصدر الآخر المهم قصيدة لمحمد القاضي (1224 - 1285 "
+"هـ) في النجوم يصف فيها جميع منازل القمر مع ذكر الأسماء الشعبية [#2]."
 
-#. Sky culture references section in markdown format
+#. Description of Arabic (Arabian Peninsula) constellation The Two Guards
 msgid ""
-"- [#1]: Al-ʿUbūdī, Moḥammad b. Nāṣir, The folk proverbs in Najd, 4 volumes, Dar Al-Thulūthiyah, Riyadh, Saudi Arabia, 2010 AD.\n"
-"- [#2]: Al-ʿUbūdī, Moḥammad b. Nāṣir, Lexicon of the classical root of the common dialect words, 13 volumes, King AbdulAzeez Library, Riyadh,  Saudi Arabia, 2009 AD.\n"
-"- [#3]: A collection of Bedouins poetry by the name: The moist flowers of Bedouin poetry, 18 volumes, Al Maʿarif library, Tayef, Saudi Arabia.\n"
-"- [#4]: A collection of poetry by Mandīl al-Fuhayd, Our local literature of the Arab Peninsula, 10 volumes, Riyadh, Saudi Arabia.\n"
-"- [#5]: Al-Suwayda, ʿAbd al-Raḥman, The local common proverbs of the Ḥayel region, Riyadh, Saudi Arabia, 2007.\n"
-"- [#6]: Al-Suwayda, ʿAbd al-Raḥman, The best of folk poetry, 3 volume poetry collection, Riyadh,  Saudi Arabia, 1999.\n"
-"- [#7]: Al-Suwayda, ʿAbd al-Raḥman, The poets of the mountain, 5 volume poetry collection, Riyadh,  Saudi Arabia, 2013.\n"
-"- [#8]: Al-Ajaji, Khalid, The explanation of al-Qādhī poem of anwāʾ and stars, Riyadh,  Saudi Arabia, 2013.\n"
-"- [#9]: Al-Ajaji, Khalid, The explanation of al-Khalāwī astronomy poems, Riyadh,  Saudi arabia, 2018."
+"The Two Guards are the stars β Ursae Minoris and γ Ursae Minoris, "
+"traditionally used in desert navigation. Their name comes from an old legend "
+"in which al-Jady (Polaris) kills the father of the Seven Sisters—represented "
+"by the stars of the Big Dipper—who then carry their father’s bier and circle "
+"al-Jady, vowing revenge. Seeking protection from their wrath, al-Jady turned "
+"to these two nearby stars, which became known as the “Two Guards.” [#1]."
 msgstr ""
-"- [#1]: محمد بن ناصر العبودي، الأمثال العامية في نجد، دار الثلوثية، الرياض، المملكة العربية السعودية، 1431 هـ. \n"
-"- [#2]: محمد بن ناصر العبودي، معجم الأصول الفصيحة للألفاظ الدارجة، مكتبة الملك عبد العزيز، الرياض، المملكة العربية السعودية، 1430 هـ. \n"
-"- [#3]: الأزهار النادية من أشعار البادية، مكتبة المعارف، الطائف، المملكة العربية السعودية. \n"
-"- [#4]: منديل بن محمد الفهيد، من آدابنا الشعبية في الجزيرة العربية. \n"
-"- [#5]: عبد الرحمن بن زيد السويداء، الأمثال الشعبية السائرة في منطقة حائل، الرياض، المملكة العربية السعودية، 1428 هـ. \n"
-"- [#6]: عبد الرحمن بن زيد السويداء، درر من الشعر الشعبي، الرياض، المملكة العربية السعودية، 1420 هـ.\n"
-"- [#7]: عبد الرحمن بن زيد السويداء، شعراء الجبل الشعبيون، الرياض، المملكة العربية السعودية، 1434 هـ. \n"
-"- [#8]: خالد بن عبد الله العجاجي، شرح قصيدة القاضي في الأنواء والنجوم، الرياض، المملكة العربية السعودية، 1434 هـ.\n"
-"- [#9]: خالد بن عبد الله العجاجي، شرح مأثورات الخلاوي الفلكية، الرياض، المملكة العربية السعودية، 1439 هـ."
+"النجمان: β UMi و γ UMi، وهما من نجوم الاستدلال على الشمال. اسم \\\"الحويجزين"
+"\\\" مصدره الأسطورة التي تقول أن الجدي قتل نعشا أبا البنات، وهن يدرن حول "
+"الجدي وقد أقسمن ألا يدفنَّ أباهن إلا بعد أخذهن بالثأر، وقد طلب الجدي من هذين "
+"النجمين الحماية فقاما بحجز بنات نعش عنه وسمِّيا الحويجزين. [#1]."
 
-#. Sky culture authors section in markdown format
-msgid "Khalid al-Ajaji: turath.alfalak@gmail.com"
-msgstr "خالد العجاجي: turath.alfalak@gmail.com"
-
-#. Sky culture license section in markdown format
+#. Description of Arabic (Arabian Peninsula) constellation The Two Refugees
 msgid ""
-"CC BY-ND 4.0\n"
-"\n"
-"Special permission is granted to Stellarium Labs to include the licensed material."
+"Another name for the two stars β Ursae Minoris and γ Ursae Minoris. "
+"According to a different version of the legend, these stars are the killers "
+"who fled to al-Jady for protection [#1]."
 msgstr ""
-"CC BY-ND 4.0\n"
-"\n"
-"منحت رخصة خاصة إلى Stellarium Labs تشمل المواد المرخصة "
+"الدخيلين اسم آخر للنجمين β Ursae Minoris and γ Ursae Minoris مصدره رواية "
+"أخرى للأسطورة تقول بأنهما هما اللذان قتلا أبا بنات نعش وفرَّا إلى الجدي طلبا "
+"للحماية فهما دخيلين عليه، والدخيل في العامية هو المستجير [#1]."
 
-#. Arabic (Arabian Peninsula) constellation, native: الحويجزين - الدخيلين - آل
-#. أبا بزي
-msgid "The two guards - The two refugees - Āl Abā Bzay"
-msgstr "الحويجزين - الدخيلين - آل أبا بزي"
-
-#. Description of Arabic (Arabian Peninsula) constellation The two guards -
-#. The two refugees - Āl Abā Bzay
-msgid ""
-"The two stars: β UMi and γ UMi. They are used for directions. _The Two Guards_ \n"
-"comes from the legend that al-Jady (Polaris) killed the father of the seven \n"
-"sisters who are carrying the bier of their father (The stars of the Big Dipper) \n"
-"and circling al-Jady, vowing that they will not burry their father until they \n"
-"get revenge. Al-Jady asked these two for protection, and the name is _The two \n"
-"guards_.\n"
-"\n"
-"The other name _The two refugees_ comes from another version of the legend that \n"
-"they are the ones who committed the killing and they fled towards al-Jady for \n"
-"protection.\n"
-"\n"
-"These two names are common throughout the central region of Saudi Arabia.\n"
-"\n"
-"Āl Abā Bzay is another name of β UMi and γ UMi, meaning: the family of Abā \n"
-"Bzay, used by the tribe of Yam."
+#. Description of Arabic (Arabian Peninsula) constellation The Family Of Aba
+#. Bzay
+msgid "Yet another name for the two-star asterism β UMi and γ UMi [#1]."
 msgstr ""
-"النجمان: β UMi و γ UMi وهما من نجوم الاستدلال على الشمال. اسم \"الحويجزين\" مصدره الأسطورة التي تقول أن الجدي قتل نعشا أبا البنات، وهن يدرن حول الجدي وقد أقسمن ألا يدفنَّ أباهن إلا بعد أخذهن بالثأر، وقد طلب الجدي من هذين النجمين الحماية فقاما بحجز بنات نعش عنه وسمِّيا الحويجزين. .\n"
-"\n"
-"أما الاسم الآخر \"الدخيلين\" فمصدره رواية أخرى للأسطورة تقول بأنهما هما اللذان قتلا أبا بنات نعش وفرا إلى الجدي طلبا للحماية فهما دخيلين عليه، والدخيل في العامية هو المستجير. \n"
-"\n"
-"هذان الاسمان شائعان في جميع أنحاء المنطقة الوسطى من المملكة العربية السعودية.\n"
-"\n"
-"آل أبا بزي اسم آخر لنجمي الدخيلين: β UMi و γ UMi، عند قبيلة يام والعجمان."
+"آل أبا بزي اسم آخر للنجمين: β UMi و γ UMi، عند قبيلة يام والعجمان. [#1]."
 
-#. Arabic (Arabian Peninsula) constellation, native: النعايم - السبَّع - بنات
-#. نعش
-msgid "Al-Nayem - The seven - Daughters of Na'Sh"
-msgstr "النعايم - السبَّع - بنات نعش"
-
-#. Description of Arabic (Arabian Peninsula) constellation Al-Nayem - The
-#. seven - Daughters of Na'Sh
+#. Description of Arabic (Arabian Peninsula) constellation Al-Naayem
 msgid ""
-"(Arabic النعايم), meaning is not known for certain, composed of the seven \n"
-"stars of the Big Dipper. other names are: _The Seven_ (Arabic السبَّع) \n"
-"and _Daughters of Na'sh_ (Arabic بنات نعش). The first name is common in \n"
-"oral poetry.\n"
-"\n"
-"The two stars α UMa, and β UMa that rise first have several names: \n"
-"\n"
-"- Al-Khilj, The first khilj: The name could mean the mother camels. These names \n"
-"are used by Bedouin tribes of central Arabia and the tribe of al-Dawasir in \n"
-"southwest Saudi Arabia.\n"
-"- The first two: A name reported in the traditions of west coast of Saudi \n"
-"Arabia.\n"
-"\n"
-"The two stars γ UMa and δ UMa, which are the second pair to rise of the seven \n"
-"stars are called:\n"
-"- The latter khilj. \n"
-"- The fourth ones, signifying that they are the third and fourth to rise of the \n"
-"seven stars. This name is found in the traditions of west coast of Saudi Arabia."
+"The meaning is uncertain; it could refer to camels. Composed of the seven "
+"stars of the Big Dipper [#1]."
 msgstr ""
-"سبعة نجوم شهيرة شمالية. ويرد اسم النعايم كثيرا في الشعر العامي.\n"
-"\n"
-"النجمان α UMa و β UMa أول النجوم طلوعًا ولهما عدة أسماء:\n"
-"\n"
-"- الخلج، الخلج الاولات: النجمان الأولان من بنات نعش السبع: α UMa، and β UMa وهما الأول طلوعا. سمعت هذا الاسم عند قبيلة الدواسر، ومن الشاعر عبد الله بن عون من قبيلة عتيبة، ومن مخلد بن زبيد الديحاني في منطقة الزلفي من قبيلة مطير.\n"
-"- الأولتين: اسم آخر لأول نجمين من نجوم بنات نعش: α UMa، و β UMa، معروف في المنطقة الغربية وذكره عاتق بن غيث البلادي في كتابه الأدب الشعبي في الحجاز.\n"
-"\n"
-"يُطلق على النجمين γ UMa و δ UMa ، وهما ثاني زوج طلوعا من السبَّع:\n"
-"- الخلج التوالي \n"
-"- الرُّبَّع أو الرابعين، دلالة على أنهما الثالث والرابع طلوعا من بنات نعش. معروف في المنطقة الغربية وذكره عاتق بن غيث البلادي في كتابه الأدب الشعبي في الحجاز."
+"ربما المقصود بالنعايم الإبل، وليس هذا مؤكداً. والاسم يطلق على نجوم بنات نعش "
+"السبعة. [#1]."
 
-#. Arabic (Arabian Peninsula) constellation, native: الشداد
-msgid "The saddle of the camel"
-msgstr "الشداد"
+#. Description of Arabic (Arabian Peninsula) constellation The Seven
+msgid "The seven stars of the Big Dipper [#1]."
+msgstr "اسم آخر لنجوم بنات نعش السبعة [#1]."
 
-#. Description of Arabic (Arabian Peninsula) constellation The saddle of the
-#. camel
+#. Description of Arabic (Arabian Peninsula) constellation Daughters Of Na'sh
 msgid ""
-"The 5 bright stars of Cassiopeia. This name is used in the western areas along \n"
-"the red sea of Saudi Arabia."
+"The seven stars of the Big Dipper, known as the seven sisters carrying their "
+"father's bier, the father killed by al-Ǧady (Polaris) [#1]."
+msgstr "سبعة نجوم تمثل سبع أخوات يحملن نعش أبيهن الذي قتله الجدي [#1]."
+
+#. Description of Arabic (Arabian Peninsula) constellation Saddle Of The Camel
+msgid ""
+"The five bright stars of Cassiopeia, a name used in western areas along the "
+"Red Sea in Saudi Arabia [#1]."
 msgstr ""
 "نجوم شمالية لامعة على شكل مثلثين تقابل نجوم بنات نعش، وهي التي تعرف عند "
 "العرب الأوائل بسنام الناقة. هذه النجوم معروفة بهذا الاسم في ساحل البحر "
-"الأحمر في المنطقة الغربية من المملكة العربية السعودية."
+"الأحمر في المنطقة الغربية من المملكة العربية السعودية [#1]."
 
-#. Arabic (Arabian Peninsula) constellation, native: المغزل
-msgid "The wool spindle"
-msgstr "المغزل"
-
-#. Description of Arabic (Arabian Peninsula) constellation The wool spindle
+#. Description of Arabic (Arabian Peninsula) constellation The Wool Spindle
 msgid ""
-"The Cross shaped stars of α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr), δ \n"
-"Cyg, and β1 Cyg (Albireo). The source is oral tradition from the town of Zulfī \n"
-"in central Saudi Arabia."
+"The cross-shaped arrangement of α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr), "
+"δ Cyg, and β1+β2 Cyg (Albireo). This comes from oral tradition in Zulfi, "
+"central Saudi Arabia [#1]."
 msgstr ""
 "نجوم متصالبة تشكل صليبا كبيرا من نجم الردف وثلاثة من نجوم الفوارس ونجم آخر "
 "يشكل مع نجم الردف عمود الصليب: α Cyg (Deneb)، ε Cyg (Gienah)، γ Cyg (Sadr)، "
-"δ Cyg، and β1 Cyg (Albireo). هذا الاسم سمعته في منطقة الزلفي وسط المملكة "
-"العربية السعودية."
+"\"δ Cyg، and β1 Cyg (Albireo). هذا الاسم سمعته في منطقة الزلفي وسط المملكة "
+"\"العربية السعودية [#1]."
 
-#. Arabic (Arabian Peninsula) constellation, native: المقدم
-msgid "The front"
-msgstr "المقدم"
+#. Description of Arabic (Arabian Peninsula) constellation The Front
+msgid "The front mouth of the bucket (24th mansion of the Moon) [#2]."
+msgstr "الفرغ المقدم (منزل القمر الرابع والعشرون) [#2]."
 
-#. Arabic (Arabian Peninsula) constellation, native: المؤخر
-msgid "The rear"
-msgstr "المؤخر"
+#. Description of Arabic (Arabian Peninsula) constellation The Rear
+msgid "The rear mouth of the bucket (25th mansion of the Moon) [#2]."
+msgstr "الفرغ المؤخر (منزل القمر الخامس والعشرون) [#2]."
 
-#. Arabic (Arabian Peninsula) constellation, native: الرشا
-msgid "The bucket rope"
-msgstr "الرشا"
-
-#. Arabic (Arabian Peninsula) constellation, native: الشرطين
-msgid "The two signs"
-msgstr "الشرطين"
-
-#. Arabic (Arabian Peninsula) constellation, native: البطين
-msgid "The little abdomen"
-msgstr "البطين"
-
-#. Arabic (Arabian Peninsula) constellation, native: الثريا
-msgid "Al-Thurayya"
-msgstr "الثريا"
-
-#. Arabic (Arabian Peninsula) constellation, native: الذراع
-msgid "The arm"
-msgstr "الذراع"
-
-#. Arabic (Arabian Peninsula) constellation, native: الكليبين
-msgid "The two little dogs"
-msgstr "الكليبين"
-
-#. Description of Arabic (Arabian Peninsula) constellation The two little dogs
+#. Description of Arabic (Arabian Peninsula) constellation The Bucket Cord
 msgid ""
-"An asterism of the two stars: δ CMa and ε CMa. There heliacal rising is used \n"
-"for timing. The name is common in central Arabia."
-msgstr ""
-"النجمان: δ CMa and ε CMa من النجوم الشهيرة في وسط الجزيرة العربية، ويستخدمان"
-" بدلا من النثرة لوضوحهما."
+"The rope used to pull the bucket from the well (26th mansion of the Moon) "
+"[#2]."
+msgstr "الرشا هو حبل الدلو (منزل القمر السادس والعشرون) [#2]."
 
-#. Arabic (Arabian Peninsula) constellation, native: النثرة
-msgid "Nostrils [of the lion]"
-msgstr "النثرة"
+#. Description of Arabic (Arabian Peninsula) constellation The Two Marks
+msgid "Stars α Ari and β Ari (27th mansion of the Moon) [#2]."
+msgstr "النجمان α Ari and β Ari (منزل القمر السابع والعشرون) [#2]."
 
-#. Arabic (Arabian Peninsula) constellation, native: الطرف
-msgid "Eyes [of the lion]"
-msgstr "الطرف"
+#. Description of Arabic (Arabian Peninsula) constellation The Little Abdomen
+msgid "The little abdomen of al-Ḥamal (28th mansion of the Moon) [#2]."
+msgstr "بطن الحمل (منزل القمر الثامن والعشرون) [#2]."
 
-#. Arabic (Arabian Peninsula) constellation, native: الجبهة
-msgid "Forehead [of the lion]"
-msgstr "الجبهة"
+#. Description of Arabic (Arabian Peninsula) constellation Al-Thurayya
+msgid "Proper name of the Pleiades (1st mansion of the Moon) [#3]."
+msgstr "الثريا نجوم متقاربة شهيرة. (منزل القمر الأول) [#3]."
 
-#. Arabic (Arabian Peninsula) constellation, native: الزبرة
-msgid "Mane [of the lion]"
-msgstr "الزبرة"
+#. Description of Arabic (Arabian Peninsula) constellation The Little Follower
+msgid "Star Aldebran (2nd mansion of the Moon) [#2]."
+msgstr "التويبع هو نجم الدبران عند العرب الأوائل (منزل القمر الثاني) [#2]."
 
-#. Arabic (Arabian Peninsula) constellation, native: العوا
-msgid "The bend"
-msgstr "العوا"
-
-#. Arabic (Arabian Peninsula) constellation, native: الغفر
-msgid "The cover"
-msgstr "الغفر"
-
-#. Arabic (Arabian Peninsula) constellation, native: الزبانى
-msgid "Claws of the scorpion"
-msgstr "الزبانى"
-
-#. Arabic (Arabian Peninsula) constellation, native: الإكليل
-msgid "The diadem"
-msgstr "الإكليل"
-
-#. Arabic (Arabian Peninsula) constellation, native: الشولة
-msgid "Raised tail of the scorpion"
-msgstr "الشولة"
-
-#. Arabic (Arabian Peninsula) constellation, native: العقرب
-msgid "The scorpion"
-msgstr "العقرب"
-
-#. Arabic (Arabian Peninsula) constellation, native: البلدة
-msgid "The empty place"
-msgstr "البلدة"
-
-#. Arabic (Arabian Peninsula) constellation, native: النعائم
-msgid "The ostriches"
-msgstr "النعائم"
-
-#. Arabic (Arabian Peninsula) constellation, native: سعد الذابح
-msgid "The lucky star of the slaughterer"
-msgstr "سعد الذابح"
-
-#. Arabic (Arabian Peninsula) constellation, native: سعد بلع
-msgid "The lucky star of the swallower"
-msgstr "سعد بلع"
-
-#. Arabic (Arabian Peninsula) constellation, native: سعد السعود
-msgid "The luckiest of the lucky stars"
-msgstr "سعد السعود"
-
-#. Arabic (Arabian Peninsula) constellation, native: سعد الأخبية
-msgid "The Lucky Star Of The Tents"
-msgstr "سعد الأخبية"
-
-#. Arabic (Arabian Peninsula) constellation, native: الهقعة
-msgid "The circular mark"
-msgstr "الهقعة"
-
-#. Arabic (Arabian Peninsula) constellation, native: الهنعة
-msgid "Stoopness [of the camel neck]"
-msgstr "الهنعة"
-
-#. Arabic (Arabian Peninsula) constellation, native: ظهر الجوزا
-msgid "Back of al-Jawza"
-msgstr "ظهر الجوزا"
-
-#. Description of Arabic (Arabian Peninsula) constellation Back of al-Jawza
+#. Description of Arabic (Arabian Peninsula) constellation The Arm
 msgid ""
-"The three stars at the belt of Orion. This name along with the star names of \n"
-"Northern horn of al-Jawza and Southern horn of al-Jawza comes from the western \n"
-"region of Saudi Arabia and used by the fishers of the red sea. The source is \n"
-"oral tradition from the seaport Umluj of Saudi Arabia.\n"
-"\n"
-"#### Claws of al-Jawza\n"
-"\n"
-"The four brightest stars of Orion: α, γ, β, and κ Ori - 53 Ori. ##### Mosque \n"
-"of al-Thurayya\n"
-"\n"
-"A triangle of stars that rise before al-Thurayya (The Pleiades). It is composed \n"
-"of the three stars: α Ari, α Tri, and β Tri. The source of this name is oral \n"
-"tradition in the region of Wadi al-Dawasir in southwestern Saudi Arabia."
+"The two stars of Canis Minor, considered the arm of the lion (5th mansion of "
+"the Moon) [#2]."
 msgstr ""
-"ظهر الجوزا فهي النجوم الثلاثة المصطفة في وسط الجوزا المعروفة عند العرب القدماء بالنظم، وهي: δ Ori، و ε Ori، و ζ Ori. هذا الاسم معروف في المنطقة الغربية عند الصيادين في البحر الأحمر، تلقيته من الأخ أحمد الحمدي من مدينة أملج على البحر الأحمر.\n"
-"\n"
-"#### زوابن الجوزاء\n"
-"\n"
-"النجوم الأربعة الأكثر سطوعًا في الجوزاء: α و γ و β و κ Ori - 53 Ori. ##### مسجد الثريا\n"
-"\n"
-"مثلث من النجوم يرتفع قبل الثريا. ويتألف من ثلاثة نجوم: α Ari و α Tri و β Tri. مصدر هذا الاسم بادية الدواسر."
+"نجم الشعرى الشامية ومرزمها، وهو ذراع الأسد المقبوضة (منزل القمر الخامس) [#2]."
 
-#. Arabic (Arabian Peninsula) constellation, native: زوابن الجوزا، الزبَّن
-msgid "Claws of al-Jawza"
-msgstr "زوابن الجوزا، الزبَّن"
+#. Description of Arabic (Arabian Peninsula) constellation The Two Little Dogs
+msgid ""
+"An asterism of stars δ CMa and ε CMa. Their heliacal rising marks timing "
+"(coinciding with the 6th mansion of the Moon). The name is common in central "
+"Arabia [#2] [#3]."
+msgstr ""
+"النجمان: δ CMa and ε CMa. طلوعهما فجراً يزامن طلوع النثرة، منزل القمر السادس. "
+"الاسم شائع في نجد وما حولها [#2] [#3]."
 
-#. Arabic (Arabian Peninsula) constellation, native: مسجد الثريا
-msgid "Mosque of al-Thurayya"
-msgstr "مسجد الثريا"
+#. Description of Arabic (Arabian Peninsula) constellation The Nostrils
+msgid ""
+"M 44 and two adjacent stars represent the nose tip of the Arab lion (6th "
+"mansion of the Moon) [#2]."
+msgstr ""
+"الحشد النجمي M 44 ونجمان على جانبيه يمثلان أنف الأسد عند العرب. (منزل القمر "
+"السادس) [#2]."
 
-#. Arabic (Arabian Peninsula) constellation, native: الجوزا
-msgid "Al-Jawza"
-msgstr "الجوزا"
+#. Description of Arabic (Arabian Peninsula) constellation The Eyes
+msgid "The eyes of the lion (7th mansion of the Moon) [#2]."
+msgstr "عينا الأسد (منزل القمر السابع) [#2]."
+
+#. Description of Arabic (Arabian Peninsula) constellation The Forehead
+msgid "The forehead of the lion (8th mansion of the Moon) [#2]."
+msgstr "جبهة الأسد (منزل القمر الثامن) [#2]."
+
+#. Description of Arabic (Arabian Peninsula) constellation The Mane
+msgid "The mane of the lion (9th mansion of the Moon) [#2]."
+msgstr "زبرة الأسد (منزل القمر التاسع) [#2]."
+
+#. Description of Arabic (Arabian Peninsula) constellation Star Of Weather
+#. Change
+msgid "(10th mansion of the Moon) [#2]."
+msgstr ""
+"سمِّيت صرفة لانصراف الحر عند طلوعها فجراً وانصراف البرد عند سقوطها فجراًز (منزل "
+"القمر العاشر) [#2]."
+
+#. Description of Arabic (Arabian Peninsula) constellation The Bend
+msgid ""
+"An arc of five stars. The Arabic \"al-ʿAwwā\" may also mean “the Howlers,” "
+"dogs barking at the lion (11th mansion of the Moon) [#2]."
+msgstr ""
+"خمس نجوم منعطفة على شكل حرف اللام. سميت بذلك لانعطافها، وقيل أنها كلاب تعوي "
+"خلف الأسد. (منزل القمر الحادي عشر) [#2]."
+
+#. Description of Arabic (Arabian Peninsula) constellation The High Unarmed
+#. One
+msgid "(12th mansion of the Moon) [#2]."
+msgstr "السماك الأعزل (منزل القمر الثاني عشر) [#2]."
+
+#. Description of Arabic (Arabian Peninsula) constellation The Cover
+msgid "A three-star asterism (13th mansion of the Moon) [#2]."
+msgstr "ثلاثة نجوم مقوسة (منزل القمر الثالث عشر) [#2]."
+
+#. Description of Arabic (Arabian Peninsula) constellation Claws Of The
+#. Scorpion
+msgid "The two bright stars of Libra (14th mansion of the Moon) [#2]."
+msgstr "زبانى العقرب (منزل القمر الرابع عشر) [#2]."
+
+#. Description of Arabic (Arabian Peninsula) constellation The Diadem
+msgid ""
+"An arc of three stars on the forehead of Scorpius (15th mansion of the Moon) "
+"[#2]."
+msgstr "ثلاثة نجوم مقوسة على جبهة العقرب (منزل القمر الخامس عشر) [#2]."
+
+#. Description of Arabic (Arabian Peninsula) constellation The Heart
+msgid "(16th mansion of the Moon) [#1]."
+msgstr "قلب العقرب (منزل القمر السادس عشر) [#1]."
+
+#. Description of Arabic (Arabian Peninsula) constellation Raised Tail Of The
+#. Scorpion
+msgid "The sting of Scorpius (17th mansion of the Moon) [#2]."
+msgstr "شولة العقرب (منزل القمر السابع عشر) [#2]."
+
+#. Description of Arabic (Arabian Peninsula) constellation The Scorpion
+msgid "Represents the scorpion figure [#2]."
+msgstr "نجوم تشبه صورة العقرب [#2]."
+
+#. Description of Arabic (Arabian Peninsula) constellation The Empty Place
+msgid ""
+"An area with no bright stars in Sagittarius (19th mansion of the Moon) [#2]."
+msgstr "بقعة خالية من النجوم المضيئة (منزل القمر التاسع عشر) [#2]."
+
+#. Description of Arabic (Arabian Peninsula) constellation The Ostriches
+msgid ""
+"Four stars in the Milky Way representing ostriches drinking at a river and "
+"another four away from the Milky Way representing ostriches returning. A "
+"ninth star between and above the two groups is included. All are located in "
+"Sagittarius (18th mansion of the Moon) [#2]."
+msgstr ""
+"أربعة نجوم في المجرة هي النعام الوارد وأربعة نجوم خارج المجرة هي النعام "
+"الصادر وتاسعها نجم مرتفع عن النعامين بينهما. (منزل القمر الثامن عشر) [#2]."
+
+#. Description of Arabic (Arabian Peninsula) constellation The Lucky Star Of
+#. The Slaughterer
+msgid ""
+"An ancient Arab asterism depicting a man slaughtering a sheep (20th mansion "
+"of the Moon) [#2]."
+msgstr "تشكيل يمثل رجلا يذبح شاته. (منزل القمر العشرون) [#2]."
+
+#. Description of Arabic (Arabian Peninsula) constellation The Lucky Star Of
+#. The Swallower
+msgid ""
+"An ancient Arab asterism representing a man swallowing a bite (21st mansion "
+"of the Moon) [#2]."
+msgstr "تشكيل من ثلاثة نجوم يمثل رجلاً يبلع. (منزل القمر الحادي والعشرون) [#2]."
+
+#. Description of Arabic (Arabian Peninsula) constellation The Luckiest Of The
+#. Lucky Stars
+msgid ""
+"An ancient Arab asterism of three stars that rise in the morning in spring "
+"(22nd mansion of the Moon) [#2]."
+msgstr "ثلاثة نجوم تطلع فجراً أول فصل الربيع (منزل القمر الثاني والعشرون) [#2]."
+
+#. Description of Arabic (Arabian Peninsula) constellation The Lucky Star Of
+#. The Tents
+msgid ""
+"An ancient Arab asterism consisting of a triangle of three stars with a "
+"fourth star inside, symbolizing a man inside a tent (23rd mansion of the "
+"Moon) [#2]."
+msgstr ""
+"ثلاثة نجوم مثلثة والرابع في وسطها تمثل رجلاً داخل خباء. (منزل القمر الثالث "
+"والعشرون) [#2]."
+
+#. Description of Arabic (Arabian Peninsula) constellation The Circular Mark
+msgid ""
+"An ancient Arab asterism of a small triangle of stars (head of Orion) "
+"representing a mark on the side of a horse (3rd mansion of the Moon) [#2]."
+msgstr ""
+"ثلاثة نجوم مثلثة صغيرة هي رأس الجوزاء، والهقعة هي دائرة في جانب الفرس. (منزل "
+"القمر الثالث) [#2]."
+
+#. Description of Arabic (Arabian Peninsula) constellation The Downward Bend
+msgid "An ancient Arab asterism (4th mansion of the Moon) [#2]."
+msgstr "الهنعة معناها التطامن. (منزل القمر الرابع) [#2]."
+
+#. Description of Arabic (Arabian Peninsula) constellation Claws Of Al-Jawza
+msgid ""
+"Refers to stars α, γ, β, and κ Ori, transmitted orally from the Qasseem "
+"region of Saudi Arabia [#1]."
+msgstr ""
+"اسم للنجوم α, γ, β, and κ Ori، مسموع شفهياً في منطقة القصيم من المملكة "
+"العربية السعودية. [#1]."
+
+#. Description of Arabic (Arabian Peninsula) constellation The Claws
+msgid ""
+"Another name for the α, γ, β, and κ Ori stars, also from Qasseem, Saudi "
+"Arabia [#1]."
+msgstr ""
+"اسم آخر للنجوم α, γ, β, and κ Ori، مسموع شفهياً في منطقة القصيم أيضاً من "
+"المملكة العربية السعودية. [#1]."
+
+#. Description of Arabic (Arabian Peninsula) constellation Back Of Al-Jawza
+msgid ""
+"The three stars at Orion’s belt. This name, along with Northern Horn of al-"
+"Jawza and Southern Horn of al-Jawza star names, originates from western "
+"Saudi Arabia and is used by Red Sea fishers. The source is oral tradition "
+"from the seaport Umluj, Saudi Arabia [#1]."
+msgstr ""
+"النجوم الثلاثة وسط الجوزاء المعروفة بالنظم عند العرب الأوائل. هذا الاسم مع "
+"قرن الجوزا الشمالي وقرن الجوزا الجنوبي مسموع عند الصيادين في البحر الأحمر "
+"غربي المملكة العربية السعودية، ومصدره شفهي من مدينة أملج الساحلية [#1]."
+
+#. Description of Arabic (Arabian Peninsula) constellation Mosque Of Al-
+#. Thurayya
+msgid ""
+"A triangle of stars that rise before al-Thurayya (the Pleiades). It includes "
+"α Ari, α Tri, and β Tri. The name comes from oral tradition in Wadi al-"
+"Dawasir, southwestern Saudi Arabia [#1]."
+msgstr ""
+"مثلث من النجوم يطلع قبل الثريا كأنه محراب قبلتها. يتضمن α Ari, α Tri, and β "
+"Tri. مصدر الاسم مسموع شفهياً في وادي الدواسر في الجنوب الغربي من المملكة "
+"العربية السعودية [#1]."
 
 #. Description of Arabic (Arabian Peninsula) constellation Al-Jawza
 msgid ""
-"Al-Jawza is a proper name for a woman. this constellation is a woman figure for \n"
-"the Orion stars. It is the same as that of ancient Arabs."
-msgstr "الجوزا كوكبة مشهورة موروثة عن العرب القدماء."
+"A proper name for a woman; this constellation represents a female figure "
+"formed by the Orion stars, identical to the ancient Arab tradition. Some "
+"oral traditions limit the name to the three stars of Orion’s belt [#2][#3]."
+msgstr ""
+"نجوم شهيرة تمثل شكل امرأة، وهي أربعة نجوم تمثل اليدين والرجلين، وفي وسطها "
+"ثلاثة نجوم مصطفة تمثل خصر المرأة، والبعض قد يطلق الاسم على الثلاثة المصطفة "
+"فقط [#2][#3]."
 
-#. Arabic (Arabian Peninsula) name for NAME Venus, native: نجمة الصبح
-msgid "Morning star"
-msgstr "نجمة الصبح"
+#. Arabic (Arabian Peninsula) sky culture references section in markdown
+#. format
+msgid ""
+"- [#1]: Oral tradition  \n"
+"- [#2]: Al-Ajaji, Khalid, *Šarḥ Qaṣidat al-Qāḍī fi al-anwāʾ wal-nuǧūm*, "
+"Explanation of al-Qāḍī poem of anwāʾ and stars, Riyadh, Saudi Arabia, 2013., "
+"خالد بن عبد الله العجاجي، شرح قصيدة القاضي في الأنواء والنجوم، الرياض، "
+"المملكة العربية السعودية، 1434 هـ.  \n"
+"- [#3]: Al-Ajaji, Khalid, *Šarḥ Maʾthūrāt al-Ḫalāwī al-falakiyah*, "
+"Explanation of al-Ḫalāwī astronomy poems, Riyadh, Saudi Arabia, 2018., خالد "
+"بن عبد الله العجاجي، شرح مأثورات الخلاوي الفلكية، الرياض، المملكة العربية "
+"السعودية، 1439 هـ.  \n"
+"- [#4]: Ibn Ḫamīs, ʿAbd Allah b. Muḥammad, *Rāshid al-Ḫalāwī*, Riyadh, Saudi "
+"Arabia, 2002., عبدالله بن محمد بن خميس ، راشد الخلاوي ، الرياض، المملكة "
+"العربية السعودية، 1423 هـ.  \n"
+"- [#5]: Al-Blādī, ʿAtiq b. Ġayth, *Al-adab al-šaʿbī fi al-ḥiǧāz*, Folk "
+"literature in Ḥijaz, Dar Makkah, Makkah, Saudi Arabia, 1982, عاتق بن غيث "
+"البلادي (ت 1431 ه)، الأدب الشعبي في الحجاز، دار مكة، مكة المكرمة، ط 2، 1402 "
+"هـ.  \n"
+"- [#6]: Al-Suwaydā, ʿAbd al-Raḥman, *Al-Amthāl al-šaʿbiyah al-sāʾirah fi "
+"manṭiqat Ḥāʾil*, The local common proverbs of the Ḥayel region, Riyadh, "
+"Saudi Arabia, 2007., عبد الرحمن بن زيد السويداء، الأمثال الشعبية السائرة في "
+"منطقة حائل، الرياض، المملكة العربية السعودية، 1428 هـ.  \n"
+"- [#7]: Al-Ḥatim, ʿAbd Allah Khalid, *Diwān ʿAbd Allah bin Ḥmūd al-Sbayel*, "
+"The poetry collection of ʿAbd Allah b. Ḥumūd al-Sbayel, 1984, عبدالله الخالد "
+"الحاتم ، ديوان عبدالله بن حمود السبيِّل، 1404 هـ.  \n"
+"- [#8]: Al-Suwaydā, ʿAbd al-Raḥman, *Šuʿarāʾ al-ǧabal al-šaʿbiyūn*, The "
+"Poets of the mountain, 5-volume poetry collection, Riyadh, Saudi Arabia, "
+"2013., عبد الرحمن بن زيد السويداء، شعراء الجبل الشعبيون، الرياض، المملكة "
+"العربية السعودية، 1434 هـ.  \n"
+"- [#9]: Al-ʿAnsī, Yaḥyā, *Al-Maʿalim al-ziraʿiyah fi al-Yaman*, Agricultural "
+"signs in Yemen, Yemen, 2010, يحيى العنسي، المعالم الزراعية في اليمن، اليمن، "
+"1431 هـ.  \n"
+"- [#10]: Ibn Bišir, ʿUṯmān ibn ʿAbd Allah (died 1873), *ʿInwān al-maǧd fi "
+"tarīḫ Naǧd*, The Title of Glory on the History of Najd (Arabic critical "
+"edition by Dr. Muḥammad ibn Nāṣir al-Šiṯrī), Riyadh, Saudi Arabia, 2012., "
+"ابن بشر، عثمان بن عبد الله بن بشر، عنوان المجد في تاريخ نجد، تحقيق الدكتور "
+"محمد بن ناصر الشثري، الرياض، المملكة العربية السعودية، 1433 هـ.  \n"
+"- [#11]: Al-ʿUbūdī, Moḥammad b. Nāṣir, *Al-Amthāl al-ʿāmiyah fi Naǧd*, The "
+"folk proverbs in Najd, 4 volumes, Dar Al-Thulūthiyah, Riyadh, Saudi Arabia, "
+"2010., محمد بن ناصر العبودي، الأمثال العامية في نجد، دار الثلوثية، الرياض، "
+"المملكة العربية السعودية، 1431 هـ.  \n"
+"- [#12]: Al-ʿUbūdī, Moḥammad b. Nāṣir, *Muʿǧam al-Uṣūl al-faṣīḥah lil-alfāẓ "
+"al-dariǧah*, Lexicon of the classical root of the common dialect words, 13 "
+"volumes, King AbdulAzeez Library, Riyadh, Saudi Arabia, 2009., محمد بن ناصر "
+"العبودي، معجم الأصول الفصيحة للألفاظ الدارجة، مكتبة الملك عبد العزيز، "
+"الرياض، المملكة العربية السعودية، 1430 هـ.  \n"
+"- [#13]: *Al-Azhār al-nadiyah min ashʿār al-badiyah*, A collection of "
+"Bedouin poetry titled The Moist Flowers of Bedouin Poetry, 18 volumes, Al "
+"Ma'arif library, Tayef, Saudi Arabia. الأزهار النادية من أشعار البادية، "
+"مكتبة المعارف، الطائف، المملكة العربية السعودية.  \n"
+"- [#14]: *Min ādābinā al-shaʿbiyah fi al-ǧazīrah al-ʿarabiyah*, A collection "
+"of poetry by Mandeel al-Fuhaid, Our local literature of the Arabian "
+"Peninsula, 10 volumes, Riyadh, Saudi Arabia. منديل بن محمد الفهيد، من آدابنا "
+"الشعبية في الجزيرة العربية.  \n"
+"- [#15]: Al-Suwaydā, ʿAbd al-Raḥman, *Durar min al-shiʿr al-shaʿbī*, The "
+"Best of Folk Poetry, 3-volume poetry collection, Riyadh, Saudi Arabia, 1999. "
+"عبد الرحمن بن زيد السويداء، درر من الشعر الشعبي، الرياض، المملكة العربية "
+"السعودية، 1420 هـ.  \n"
+"- [#16]: Al-Hamdânîʼs *Geographie der Arabischen Halbinsel*, David Heinrich "
+"Müller, Leiden: E. J. Brill, 1884, p. 47.  \n"
+"- [#17]: Le Bon, Gustave, *La civilisation des Arabes*, Paris, Librairie de "
+"Firmin-Didot, 1884, livre premier, p. 1."
+msgstr ""
+"- [#1]: تلقي شفهي  \n"
+"- [#2]: خالد بن عبد الله العجاجي، شرح قصيدة القاضي في الأنواء والنجوم، "
+"الرياض، المملكة العربية السعودية، 1434 هـ.  \n"
+"- [#3]: خالد بن عبد الله العجاجي، شرح مأثورات الخلاوي الفلكية، الرياض، "
+"المملكة العربية السعودية، 1439 هـ.  \n"
+"- [#4]: عبدالله بن محمد بن خميس ، راشد الخلاوي ، الرياض، المملكة العربية "
+"السعودية، 1423 هـ.  \n"
+"- [#5]: عاتق بن غيث البلادي (ت 1431 ه)، الأدب الشعبي في الحجاز، دار مكة، مكة "
+"المكرمة، ط 2، 1402 هـ.  \n"
+"- [#6]: عبد الرحمن بن زيد السويداء، الأمثال الشعبية السائرة في منطقة حائل، "
+"الرياض، المملكة العربية السعودية، 1428 هـ.  \n"
+"- [#7]: عبدالله الخالد الحاتم ، ديوان عبدالله بن حمود السبيِّل، 1404 هـ.  \n"
+"- [#8]: عبد الرحمن بن زيد السويداء، شعراء الجبل الشعبيون، الرياض، المملكة "
+"العربية السعودية، 1434 هـ.  \n"
+"- [#9]: يحيى العنسي، المعالم الزراعية في اليمن، اليمن، 1431 هـ.  \n"
+"- [#10]: ابن بشر، عثمان بن عبد الله بن بشر، عنوان المجد في تاريخ نجد، تحقيق "
+"الدكتور محمد بن ناصر الشثري، الرياض، المملكة العربية السعودية، 1433 هـ.  \n"
+"- [#11]: محمد بن ناصر العبودي، الأمثال العامية في نجد، دار الثلوثية، الرياض، "
+"المملكة العربية السعودية، 1431 هـ.  \n"
+"- [#12]: محمد بن ناصر العبودي، معجم الأصول الفصيحة للألفاظ الدارجة، مكتبة "
+"الملك عبد العزيز، الرياض، المملكة العربية السعودية، 1430 هـ.  \n"
+"- [#13]: الأزهار النادية من أشعار البادية، مكتبة المعارف، الطائف، المملكة "
+"العربية السعودية.  \n"
+"- [#14]: منديل بن محمد الفهيد، من آدابنا الشعبية في الجزيرة العربية.  \n"
+"- [#15]: عبد الرحمن بن زيد السويداء، درر من الشعر الشعبي، الرياض، المملكة "
+"العربية السعودية، 1420 هـ.  \n"
+"- [#16]: Al-Hamdânîʼs *Geographie der Arabischen Halbinsel*, David Heinrich "
+"Müller, Leiden: E. J. Brill, 1884, p. 47.  \n"
+"- [#17]: Le Bon, Gustave, *La civilisation des Arabes*, Paris, Librairie de "
+"Firmin-Didot, 1884, livre premier, p. 1."
 
-#. Arabic (Arabian Peninsula) name for NAME Venus, native: نجمة االعشا
-msgid "Evening star"
-msgstr "نجمة االعشا"
+#. Arabic (Arabian Peninsula) sky culture authors section in markdown format
+msgid "Khalid al-Ajaji, turath.alfalak@gmail.com."
+msgstr "خالد بن عبد الله العجاجي، turath.alfalak@gmail.com."
 
-#. Arabic (Arabian Peninsula) name for NAME Venus, native: الجغمة
-msgid "The sip"
-msgstr "الجغمة"
+#. Arabic (Arabian Peninsula) sky culture license section in markdown format
+msgid ""
+"CC BY-ND 4.0\n"
+"\n"
+"Special permission is granted to Stellarium Labs to include the licensed "
+"material."
+msgstr ""
+"CC BY-ND 4.0\n"
+"\n"
+"منحت رخصة خاصة إلى Stellarium Labs تشمل المواد المرخصة."
 
-#. Arabic (Arabian Peninsula) name for NAME Venus, native: نجمة الهودان
-msgid "The star of al-Hawdan"
-msgstr "نجمة الهودان"
+#. Arabic (Arabian Peninsula) constellation, native: الحويجزين, pronounce: al-
+#. Huwaiǧzain
+msgid "The Two Guards"
+msgstr "الحويجزين"
 
-#. Arabic (Arabian Peninsula) name for M 44, native: النثرة
-msgid "The nostril [of the lion]"
+#. Arabic (Arabian Peninsula) constellation, native: الدخيلين, pronounce: al-
+#. Dikhīlain
+msgid "The Two Refugees"
+msgstr "الدخيلين"
+
+#. Arabic (Arabian Peninsula) constellation, native: آل أبا بزي, pronounce: Āl
+#. Aba Bzay
+#. Aba Bzay is a proper name
+msgid "The Family Of Aba Bzay"
+msgstr "آل أبا بزي"
+
+#. Arabic (Arabian Peninsula) constellation, native: النعايم, pronounce: al-
+#. Na'āyem
+msgid "Al-Naayem"
+msgstr "النعايم"
+
+#. Arabic (Arabian Peninsula) constellation, native: السبَّع, pronounce: al-
+#. Sibba'
+msgid "The Seven"
+msgstr "‎‎السبَّع"
+
+#. Arabic (Arabian Peninsula) constellation, native: بنات نعش, pronounce:
+#. Banāt Na'sh
+msgid "Daughters Of Na'sh"
+msgstr "بنات نعش"
+
+#. Arabic (Arabian Peninsula) constellation, native: الشداد, pronounce: al-
+#. Shdād
+msgid "Saddle Of The Camel"
+msgstr "الشداد"
+
+#. Arabic (Arabian Peninsula) constellation, native: المغزل, pronounce: al-
+#. Mighzal
+msgid "The Wool Spindle"
+msgstr "المغزل"
+
+#. Arabic (Arabian Peninsula) constellation, native: المقدم, pronounce: al-
+#. Mqaddam
+msgid "The Front"
+msgstr "المقدم"
+
+#. Arabic (Arabian Peninsula) constellation, native: الموخر, pronounce: al-
+#. Mwakhkhar
+msgid "The Rear"
+msgstr "المؤخر"
+
+#. Arabic (Arabian Peninsula) constellation, native: الرشا, pronounce: al-Rshā
+msgid "The Bucket Cord"
+msgstr "الرشا"
+
+#. Arabic (Arabian Peninsula) constellation, native: الشرطين, pronounce: al-
+#. Shartain
+msgid "The Two Marks"
+msgstr "الشرطين"
+
+#. Arabic (Arabian Peninsula) constellation, native: البطين, pronounce: al-
+#. Btain
+msgid "The Little Abdomen"
+msgstr "البطين"
+
+#. Arabic (Arabian Peninsula) constellation, native: الثريا, pronounce: al-
+#. Thrayyā
+#. Al-Thurayya is a proper name
+msgid "Al-Thurayya"
+msgstr "‎‎الثريا‎‎"
+
+#. Arabic (Arabian Peninsula) constellation, native: التويبع, pronounce: al-
+#. Twaibi'
+#. Arabic (Arabian Peninsula) name for HIP 21421, native: التويبع
+msgid "The Little Follower"
+msgstr "التويبع"
+
+#. Arabic (Arabian Peninsula) constellation, native: الذراع, pronounce: al-
+#. Dhrā'
+msgid "The Arm"
+msgstr "‎‎الذراع‎‎"
+
+#. Arabic (Arabian Peninsula) constellation, native: الكليبين, pronounce: al-
+#. Klaybayn
+msgid "The Two Little Dogs"
+msgstr "الكليبين"
+
+#. Arabic (Arabian Peninsula) constellation, native: النثرة, pronounce: al-
+#. Nathrah
+msgid "The Nostrils"
 msgstr "النثرة"
 
+#. Arabic (Arabian Peninsula) constellation, native: الجبهة, pronounce: al-
+#. Jabhah
+msgid "The Forehead"
+msgstr "الجبهة"
+
+#. Arabic (Arabian Peninsula) constellation, native: الزبرة, pronounce: al-
+#. Zubrah
+msgid "The Mane"
+msgstr "الزبرة"
+
+#. Arabic (Arabian Peninsula) constellation, native: الصرفة, pronounce: al-
+#. Sarfah
+#. Arabic (Arabian Peninsula) name for HIP 57632, native: الصرفة
+msgid "Star Of Weather Change"
+msgstr "الصرفة"
+
+#. Arabic (Arabian Peninsula) constellation, native: العوا, pronounce:
+#. al-'Awwā
+msgid "The Bend"
+msgstr "‎‎العوا‎‎"
+
+#. Arabic (Arabian Peninsula) constellation, native: السماك الأعزل, pronounce:
+#. al-Smak al-'Azal
+#. Arabic (Arabian Peninsula) name for HIP 65474, native: السماك الأعزل
+msgid "The High Unarmed One"
+msgstr "السماك الاعزل"
+
+#. Arabic (Arabian Peninsula) constellation, native: الغفر, pronounce: al-
+#. Ghafr
+msgid "The Cover"
+msgstr "الغفر"
+
+#. Arabic (Arabian Peninsula) constellation, native: الزبانى, pronounce: al-
+#. Zubānā
+msgid "Claws Of The Scorpion"
+msgstr "الزبانى"
+
+#. Arabic (Arabian Peninsula) constellation, native: الإكليل, pronounce: al-
+#. Iklīl
+msgid "The Diadem"
+msgstr "الإكليل"
+
+#. Arabic (Arabian Peninsula) constellation, native: القلب, pronounce: al-Qalb
+#. Arabic (Arabian Peninsula) name for HIP 80763, native: القلب
+msgid "The Heart"
+msgstr "‎‎القلب‎‎"
+
+#. Arabic (Arabian Peninsula) constellation, native: الشولة, pronounce: al-
+#. Shawlah
+#. Arabic (Arabian Peninsula) name for HIP 85927, native: الشولة
+msgid "Raised Tail Of The Scorpion"
+msgstr "الشولة"
+
+#. Arabic (Arabian Peninsula) constellation, native: العقرب, pronounce:
+#. al-'Aqrab
+msgid "The Scorpion"
+msgstr "‎‎العقرب‎‎"
+
+#. Arabic (Arabian Peninsula) constellation, native: البلدة, pronounce: al-
+#. Baldah
+msgid "The Empty Place"
+msgstr "البلدة"
+
+#. Arabic (Arabian Peninsula) constellation, native: النعائم, pronounce: al-
+#. Na'āyim
+msgid "The Ostriches"
+msgstr "‎‎النعائم‎‎"
+
+#. Arabic (Arabian Peninsula) constellation, native: سعد الذابح, pronounce:
+#. Sa'd al-Dhābih
+msgid "The Lucky Star Of The Slaughterer"
+msgstr "سعد الذابح"
+
+#. Arabic (Arabian Peninsula) constellation, native: سعد بلع, pronounce: Sa'd
+#. Bula'
+msgid "The Lucky Star Of The Swallower"
+msgstr "سعد بلع"
+
+#. Arabic (Arabian Peninsula) constellation, native: سعد السعود, pronounce:
+#. Sa'd al-Su'ūd
+msgid "The Luckiest Of The Lucky Stars"
+msgstr "سعد السعود"
+
+#. Arabic (Arabian Peninsula) constellation, native: سعد الأخبية, pronounce:
+#. Sa'd al-Akhbiyah
+msgid "The Lucky Star Of The Tents"
+msgstr "سعد الاخبية"
+
+#. Arabic (Arabian Peninsula) constellation, native: الهقعة, pronounce: al-
+#. Haq'ah
+msgid "The Circular Mark"
+msgstr "الهقعة"
+
+#. Arabic (Arabian Peninsula) constellation, native: الهنعة, pronounce: al-
+#. Han'ah
+msgid "The Downward Bend"
+msgstr "الهنعة"
+
+#. Arabic (Arabian Peninsula) constellation, native: زوابن الجوزا, pronounce:
+#. Zawābin al-Jawzā
+#. Al-Jawza is a proper name
+#. Arabic (Arabian Peninsula) constellation, native: زوابن الجوزا, pronounce:
+#. Zawābin al-Jawzā
+#. Al-Jawza is a proper name
+msgid "Claws Of Al-Jawza"
+msgstr "زوابن الجوزا"
+
+#. Arabic (Arabian Peninsula) constellation, native: الزبَّن, pronounce: al-
+#. Zibban
+#. Arabic (Arabian Peninsula) constellation, native: الزبَّن, pronounce: al-
+#. Zibban
+msgid "The Claws"
+msgstr "الزبَّن"
+
+#. Arabic (Arabian Peninsula) constellation, native: ظهر الجوزا, pronounce:
+#. Zhahr al-Jawzā
+#. Al-Jawza is a proper name
+msgid "Back Of Al-Jawza"
+msgstr "ظهر الجوزا"
+
+#. Arabic (Arabian Peninsula) constellation, native: مسجد الثريا, pronounce:
+#. Masjid al-Thrayyā
+#. Al-Thurayya is a proper name
+msgid "Mosque Of Al-Thurayya"
+msgstr "مسجد الثريا"
+
+#. Arabic (Arabian Peninsula) constellation, native: الجوزا, pronounce: al-
+#. Jawzā
+#. Al-Jawza is a proper name
+msgid "Al-Jawza"
+msgstr "الجوزا"
+
+#. Arabic (Arabian Peninsula) name for HIP 677, native: الموخر 2
+msgid "The Rear 2"
+msgstr "المؤخر 2"
+
+#. Arabic (Arabian Peninsula) name for HIP 1067, native: الموخر 1
+msgid "The Rear 1"
+msgstr "المؤخر 1"
+
+#. Arabic (Arabian Peninsula) name for HIP 7588, native: محلف
+msgid "The Oath Star"
+msgstr "محلف"
+
+#. Arabic (Arabian Peninsula) name for HIP 7588, native: أبا السهل
+#. Aba Alsihil is a proper name
+msgid "Aba al-sihil"
+msgstr "أبا السهل"
+
+#. Arabic (Arabian Peninsula) name for HIP 7588, native: المسهل
+#. Al-Miss.hil is a proper name
+msgid "Al-Miss.hil"
+msgstr "المسهل"
+
+#. Arabic (Arabian Peninsula) name for HIP 7588, native: السهلي
+#. Al-S.hali is a proper name
+msgid "Al-S.hali"
+msgstr "السهلي"
+
 #. Arabic (Arabian Peninsula) name for HIP 11767, native: الجدي
-msgid "The kid"
-msgstr "الجدي"
+#. The Kid is the little he-goat
+msgid "The Kid"
+msgstr "‎‎الجدي‎‎"
 
-#. Arabic (Arabian Peninsula) name for HIP 72607, native: الحويجزين 1
-msgid "The two guards 1"
-msgstr "الحويجزين 1"
+#. Arabic (Arabian Peninsula) name for HIP 21421, native: التويلي
+msgid "The Latter"
+msgstr "التويلي"
 
-#. Arabic (Arabian Peninsula) name for HIP 72607, native: الدخيلين 1
-msgid "The two refugees 1"
-msgstr "الدخيلين 1"
+#. Arabic (Arabian Peninsula) name for HIP 21421, native: المجيدح
+#. Al-Mjaidih is a proper name
+msgid "Al-Mjaidih"
+msgstr "المجيدح"
 
-#. Arabic (Arabian Peninsula) name for HIP 75097, native: الحويجزين 2
-msgid "The two guards 2"
-msgstr "الحويجزين 2"
+#. Arabic (Arabian Peninsula) name for HIP 24436, native: قرن الجوزا الجنوبي
+#. Al-Jawza is a proper name
+msgid "Southern Horn Of Al-Jawza"
+msgstr "قرن الجوزا الجنوبي"
 
-#. Arabic (Arabian Peninsula) name for HIP 75097, native: الدخيلين 2
-msgid "The two refugees 2"
-msgstr "الدخيلين 2"
+#. Arabic (Arabian Peninsula) name for HIP 24436, native: زابن الجوزا الجنوبي
+#. Al-Jawza is a proper name
+msgid "Southern Claw Of Al-Jawza"
+msgstr "زابن الجوزا الجنوبي"
 
-#. Arabic (Arabian Peninsula) name for HIP 54061, native: الخلج 1
-msgid "Al-khilj 1"
-msgstr "الخلج 1"
+#. Arabic (Arabian Peninsula) name for HIP 24608, native: المباري
+msgid "The Parallel One"
+msgstr "المباري"
 
-#. Arabic (Arabian Peninsula) name for HIP 54061, native: الخلج الاولات 1
-msgid "The first khilj 1"
-msgstr "الخلج الاولات 1"
+#. Arabic (Arabian Peninsula) name for HIP 24608, native: الجنيب
+msgid "The Sided One"
+msgstr "الجنيب"
 
-#. Arabic (Arabian Peninsula) name for HIP 54061, native: الاولتين 1
-msgid "The first two 1"
-msgstr "الاولتين 1"
+#. Arabic (Arabian Peninsula) name for HIP 27366, native: رجل الجوزا
+msgid "Leg Of Al-Jawza"
+msgstr "رجل الجوزا"
+
+#. Arabic (Arabian Peninsula) name for HIP 27989, native: قرن الجوزا الشمالي
+#. Al-Jawza is a proper name
+msgid "Northern Horn Of Al-Jawza"
+msgstr "قرن الجوزا الشمالي"
+
+#. Arabic (Arabian Peninsula) name for HIP 27989, native: زابن الجوزا الشمالي
+#. Al-Jawza is a proper name
+msgid "Northern Claw Of Al-Jawza"
+msgstr "زابن الجوزا الشمالي"
+
+#. Arabic (Arabian Peninsula) name for HIP 30438, native: سهيل
+#. Suhayl is a proper name
+msgid "Suhayl"
+msgstr "‎‎سهيل‎‎"
+
+#. Arabic (Arabian Peninsula) name for HIP 32349, native: المرزم
+#. Al-Mirzam is a proper name
+msgid "Al-Mirzam"
+msgstr "المرزم"
+
+#. Arabic (Arabian Peninsula) name for HIP 32349, native: الشعلى
+#. Al-Shi'la is a proper name
+msgid "Al-Shi'la"
+msgstr "الشعلى"
+
+#. Arabic (Arabian Peninsula) name for HIP 34088, native: الاظفار 5
+msgid "The Claws 5"
+msgstr "الأظفار 5"
+
+#. Arabic (Arabian Peninsula) name for HIP 35350, native: الاظفار 6
+msgid "The Claws 6"
+msgstr "الأظفار 6"
+
+#. Arabic (Arabian Peninsula) name for HIP 35550, native: الاظفار 4
+msgid "The Claws 4"
+msgstr "الأظفار 4"
+
+#. Arabic (Arabian Peninsula) name for HIP 36046, native: الاظفار 1
+msgid "The Claws 1"
+msgstr "الأظفار 1"
+
+#. Arabic (Arabian Peninsula) name for HIP 36962, native: الاظفار 2
+msgid "The Claws 2"
+msgstr "الأظفار 2"
+
+#. Arabic (Arabian Peninsula) name for HIP 37740, native: الاظفار 3
+msgid "The Claws 3"
+msgstr "الأظفار 3"
 
 #. Arabic (Arabian Peninsula) name for HIP 53910, native: الخلج 2
-msgid "Al-khilj 2"
+#. Al-Khilj is a proper name
+msgid "Al-Khilj 2"
 msgstr "الخلج 2"
 
 #. Arabic (Arabian Peninsula) name for HIP 53910, native: الخلج الاولات 2
-msgid "The first khilj 2"
+#. Al-Khilj is a proper name
+msgid "The first Khilj 2"
 msgstr "الخلج الاولات 2"
 
 #. Arabic (Arabian Peninsula) name for HIP 53910, native: الاولتين 2
 msgid "The first two 2"
 msgstr "الاولتين 2"
 
+#. Arabic (Arabian Peninsula) name for HIP 54061, native: الخلج 1
+#. Al-Khilj is a proper name
+msgid "Al-Khilj 1"
+msgstr "الخلج 1"
+
+#. Arabic (Arabian Peninsula) name for HIP 54061, native: الخلج الاولات 1
+#. Khilj is a proper name
+msgid "The first Khilj 1"
+msgstr "الخلج الاولات 1"
+
+#. Arabic (Arabian Peninsula) name for HIP 54061, native: الاولتين 1
+msgid "The first two 1"
+msgstr "الاولتين 1"
+
 #. Arabic (Arabian Peninsula) name for HIP 58001, native: الخلج التوالي 1
-msgid "The latter khilj 1"
+#. Al-Khilj is a proper name
+msgid "The Latter Khilj 1"
 msgstr "الخلج التوالي 1"
 
-#. Arabic (Arabian Peninsula) name for HIP 58001, native: الربَّع 1
+#. Arabic (Arabian Peninsula) name for HIP 58001, native: الربّع 1
 msgid "The fourth ones 1"
 msgstr "الربَّع 1"
 
 #. Arabic (Arabian Peninsula) name for HIP 59774, native: الخلج التوالي 2
-msgid "The latter khilj 2"
+#. Al-Khilj is a proper name
+msgid "The Latter Khilj 2"
 msgstr "الخلج التوالي 2"
 
-#. Arabic (Arabian Peninsula) name for HIP 59774, native: الربَّع 2
+#. Arabic (Arabian Peninsula) name for HIP 59774, native: الربّع 2
 msgid "The fourth ones 2"
 msgstr "الربَّع 2"
 
 #. Arabic (Arabian Peninsula) name for HIP 62956, native: الخامس
-msgid "The fifth"
+msgid "The Fifth"
 msgstr "الخامس"
 
 #. Arabic (Arabian Peninsula) name for HIP 65378, native: السات
-msgid "The sixth"
+msgid "The Sixth"
 msgstr "السات"
 
-#. Arabic (Arabian Peninsula) name for HIP 65477, native: السها
-msgid "Al-Suha"
-msgstr "السها"
-
 #. Arabic (Arabian Peninsula) name for HIP 67301, native: السويبع
-msgid "The seventh"
+msgid "The Seventh"
 msgstr "السويبع"
 
+#. Arabic (Arabian Peninsula) name for HIP 68702, native: النعايم 1
+msgid "al-Naayem 1"
+msgstr "النعايم 1"
+
 #. Arabic (Arabian Peninsula) name for HIP 69673, native: الرقيب
-msgid "The watcher"
+msgid "The Watcher"
 msgstr "الرقيب"
 
 #. Arabic (Arabian Peninsula) name for HIP 69673, native: الاحيمر
-msgid "The Red One"
+msgid "The Reddish One"
 msgstr "الاحيمر"
 
+#. Arabic (Arabian Peninsula) name for HIP 71683, native: النعايم 2
+msgid "al-Naayem 2"
+msgstr "النعايم 2"
+
+#. Arabic (Arabian Peninsula) name for HIP 72607, native: الحويجزين 1
+msgid "The Two Guards 1"
+msgstr "الحويجزين 1"
+
+#. Arabic (Arabian Peninsula) name for HIP 72607, native: الدخيلين 1
+msgid "The Two Refugees 1"
+msgstr "الدخيلين 1"
+
+#. Arabic (Arabian Peninsula) name for HIP 72607, native: آل أبا بزي 1
+msgid "Al aba Bzay 1"
+msgstr "آل أبا بزي 1"
+
+#. Arabic (Arabian Peninsula) name for HIP 75097, native: الحويجزين 2
+msgid "The Two Guards 2"
+msgstr "الحويجزين 2"
+
+#. Arabic (Arabian Peninsula) name for HIP 75097, native: الدخيلين 2
+msgid "The Two Refugees 2"
+msgstr "الدخيلين 2"
+
+#. Arabic (Arabian Peninsula) name for HIP 75097, native: آل أبا بزي 2
+msgid "Al aba bzay 2"
+msgstr "آل أبا بزي 2"
+
 #. Arabic (Arabian Peninsula) name for HIP 91262, native: النسر المكتف
-msgid "The closed wings eagle"
+msgid "The Closed Wings Eagle"
 msgstr "النسر المكتف"
 
-#. Arabic (Arabian Peninsula) name for HIP 24608, native: المباري
-msgid "The parallel one"
-msgstr "المباري"
-
-#. Arabic (Arabian Peninsula) name for HIP 24608, native: الجنيب
-msgid "The sided one"
-msgstr "الجنيب"
-
 #. Arabic (Arabian Peninsula) name for HIP 97649, native: النسر الباسط
-msgid "The spread wings eagle"
+msgid "The Spread Wings Eagle"
 msgstr "النسر الباسط"
 
 #. Arabic (Arabian Peninsula) name for HIP 97649, native: الكانون
+#. Al-Kanoon is a proper name
 msgid "Al-Kanoon"
 msgstr "الكانون"
 
-#. Arabic (Arabian Peninsula) name for HIP 677, native: المؤخر 2
-msgid "The rear bucket mouth 2"
-msgstr "المؤخر 2"
-
-#. Arabic (Arabian Peninsula) name for HIP 1067, native: المؤخر 1
-msgid "The rear bucket mouth 1"
-msgstr "المؤخر 1"
-
 #. Arabic (Arabian Peninsula) name for HIP 113881, native: المقدم 2
-msgid "The front bucket mouth 2"
+msgid "The Front 2"
 msgstr "المقدم 2"
 
 #. Arabic (Arabian Peninsula) name for HIP 113963, native: المقدم 1
-msgid "The front bucket mouth 1"
+msgid "The Front 1"
 msgstr "المقدم 1"
 
-#. Arabic (Arabian Peninsula) name for HIP 21421, native: التويبع
-msgid "The follower"
-msgstr "التويبع"
+#. Arabic (Arabian Peninsula) name for M 45, native: الثريا
+#. al-Thurayya is a proper name
+msgid "al-Thurayya"
+msgstr "الثريا"
 
-#. Arabic (Arabian Peninsula) name for HIP 21421, native: التويلي
-msgid "The latter"
-msgstr "التويلي"
+#. Arabic (Arabian Peninsula) name for NAME Venus, native: نجمة االعشا
+msgid "Evening Star"
+msgstr "نجمة العشا"
 
-#. Arabic (Arabian Peninsula) name for HIP 21421, native: المجيدح
-msgid "Al-Mjaidih"
-msgstr "المجيدح"
+#. Arabic (Arabian Peninsula) name for NAME Venus, native: نجمة الصبح
+msgid "Morning Star"
+msgstr "‎‎نجمة الصبح"
 
-#. Arabic (Arabian Peninsula) name for HIP 36046, native: الأظفار 1
-msgid "The claws 1"
-msgstr "الأظفار 1"
+#. Arabic (Arabian Peninsula) name for NAME Venus, native: الجغمة
+msgid "The Sip"
+msgstr "الجغمة"
 
-#. Arabic (Arabian Peninsula) name for HIP 36962, native: الأظفار 2
-msgid "The claws 2"
-msgstr "الأظفار 2"
-
-#. Arabic (Arabian Peninsula) name for HIP 37740, native: الأظفار 3
-msgid "The claws 3"
-msgstr "الأظفار 3"
-
-#. Arabic (Arabian Peninsula) name for HIP 35550, native: الأظفار 4
-msgid "The claws 4"
-msgstr "الأظفار 4"
-
-#. Arabic (Arabian Peninsula) name for HIP 34088, native: الأظفار 5
-msgid "The claws 5"
-msgstr "الأظفار 5"
-
-#. Arabic (Arabian Peninsula) name for HIP 35350, native: الأظفار 6
-msgid "The claws 6"
-msgstr "الأظفار 6"
-
-#. Arabic (Arabian Peninsula) name for HIP 57632, native: الصرفة
-msgid "Star of weather change"
-msgstr "الصرفة"
-
-#. Arabic (Arabian Peninsula) name for HIP 65474, native: السماك
-msgid "High one"
-msgstr "السماك"
-
-#. Arabic (Arabian Peninsula) name for HIP 80763, native: القلب
-msgid "The heart"
-msgstr "القلب"
-
-#. Arabic (Arabian Peninsula) name for HIP 27989, native: قرن الجوزا الشمالي
-msgid "Northern horn of al-Jawza"
-msgstr "قرن الجوزا الشمالي"
-
-#. Arabic (Arabian Peninsula) name for HIP 27989, native: زابن الجوزا الشمالي
-msgid "Northern claw of al-Jawza"
-msgstr "زابن الجوزا الشمالي"
-
-#. Arabic (Arabian Peninsula) name for HIP 27366, native: رجل الجوزا
-msgid "Leg of al-Jawza"
-msgstr "رجل الجوزا"
-
-#. Arabic (Arabian Peninsula) name for HIP 24436, native: قرن الجوزا الجنوبي
-msgid "Southern horn of al-Jawza"
-msgstr "قرن الجوزا الجنوبي"
-
-#. Arabic (Arabian Peninsula) name for HIP 24436, native: زابن الجوزا الجنوبي
-msgid "Southern claw of al-Jawza"
-msgstr "زابن الجوزا الجنوبي"
-
-#. Arabic (Arabian Peninsula) name for HIP 32349, native: المرزم
-msgid "Al-Mirzam"
-msgstr "المرزم"
-
-#. Arabic (Arabian Peninsula) name for HIP 32349, native: الشعلى
-msgid "Al-Shi'la"
-msgstr "الشعلى"
-
-#. Arabic (Arabian Peninsula) name for HIP 30438, native: سهيل
-msgid "Suhayl"
-msgstr "سهيل"
-
-#. Arabic (Arabian Peninsula) name for HIP 7588, native: محلف
-msgid "The oath star"
-msgstr "محلف"
-
-#. Arabic (Arabian Peninsula) name for HIP 7588, native: أبا السهل
-msgid "Aba al-Sihil"
-msgstr "أبا السهل"
-
-#. Arabic (Arabian Peninsula) name for HIP 7588, native: المسهل
-msgid "Al-Mis'hil"
-msgstr "المسهل"
-
-#. Arabic (Arabian Peninsula) name for HIP 7588, native: السهلي
-msgid "As-S'hali"
-msgstr "السهلي"
-
-#. Arabic (Arabian Peninsula) name for HIP 68702, native: النعايم 1
-msgid "Al-Naayem 1"
-msgstr "النعايم 1"
-
-#. Arabic (Arabian Peninsula) name for HIP 71683, native: النعايم 2
-msgid "Al-Naayem 2"
-msgstr "النعايم 2"
+#. Arabic (Arabian Peninsula) name for NAME Venus, native: نجمة الهودان
+#. Al-Hawdan is a proper name
+msgid "The Star Of Al-Hawdan"
+msgstr "نجمة الهودان"
