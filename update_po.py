@@ -287,7 +287,8 @@ def main():
             print('only in ' + langs[0])
         else:
             for filename in os.listdir(po_directory):
-                langs.append(filename.replace('.po', ''))
+                if filename.endswith('.po'):
+                    langs.append(filename.replace('.po', ''))
         langs = list(set(langs))
         langs.sort()
         for lang in langs:
