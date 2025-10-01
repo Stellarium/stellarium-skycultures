@@ -13,8 +13,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n "
-"<= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
 
 #. Arabic (Arabian Peninsula) sky culture name
 msgid "Arabic (Arabian Peninsula)"
@@ -27,573 +26,488 @@ msgid ""
 "of star names and asterisms in the Arabian Peninsula, primarily found "
 "scattered in poetry and proverbs."
 msgstr ""
-"Arabská (Arabský poloostrov) kultura oblohy odráží ústní lidovou tradici "
-"názvů hvězd a asterismů na Arabském poloostrově, především roztroušenou v "
+"Arabská (Arabský poloostrov) nebeská kultura odráží ústní lidovou tradici "
+"názvů hvězd a asterismů na Arabském poloostrově a vyskytuje se především v "
 "poezii a příslovích."
 
 #. Arabic (Arabian Peninsula) sky culture description section in markdown
 #. format
+# Translated by OpenAI, may be very wrong
 msgid ""
-"The Arabian Peninsula is a region covering the southwestern corner of Asia, "
-"bordered by the Gulf of Aden and Arabian Sea to the south, the Gulf of Oman "
-"and the Arabian/Persian Gulf to the east, and the Red Sea to the west. The "
-"northern border is not precisely defined, but according to ancient "
-"geographers, it is bordered by rivers, notably the Euphrates River [#16] "
-"[#17]. This region is inhabited by Arabs and includes Jordan, Saudi Arabia, "
-"Kuwait, Bahrain, Qatar, United Arab Emirates, Oman, Yemen, and parts of "
-"Syria and Iraq.\n"
+"The Arabian Peninsula is a region covering the southwestern corner of Asia, bordered by the Gulf of Aden and Arabian Sea to the south, the Gulf of Oman and the Arabian/Persian Gulf to the east, and the Red Sea to the west. The northern border is not precisely defined, but according to ancient geographers, it is bordered by rivers, notably the Euphrates River [#16] [#17]. This region is inhabited by Arabs and includes Jordan, Saudi Arabia, Kuwait, Bahrain, Qatar, United Arab Emirates, Oman, Yemen, and parts of Syria and Iraq.\n"
 "\n"
 "<p><img width=\"300\" src=\"illustrations/arabian_peninsula.jpg\" /></p>\n"
 "\n"
-"Bedouins and farmers across the Arabian Peninsula relied heavily on stars to "
-"time their nomadic journeys, care for animals, forecast weather, and conduct "
-"agricultural activities. Stars are frequently mentioned in their proverbs "
-"and poetry. Fortunately, oral poetry and proverbs have been documented and "
-"preserved by various scholars. Surveying the collections of these scholars "
-"alongside oral traditions reveals the star knowledge of the people in this "
-"region.\n"
+"Bedouins and farmers across the Arabian Peninsula relied heavily on stars to time their nomadic journeys, care for animals, forecast weather, and conduct agricultural activities. Stars are frequently mentioned in their proverbs and poetry. Fortunately, oral poetry and proverbs have been documented and preserved by various scholars. Surveying the collections of these scholars alongside oral traditions reveals the star knowledge of the people in this region.\n"
 "\n"
-"The stars used for timing are the same as those of ancient Arabs, but the "
-"system is simplified by beginning the year with the heliacal rising of al-"
-"Thurayyā, the Pleiades, at the start of summer, then counting 13 days for "
-"each lunar station, except al-Ǧabhah, which has 14 days. This results in a "
-"27 lunar stations × 13 days + 14 days (al-Ǧabhah) = 365-day cycle. Other "
-"timing methods were also used, such as the monthly Pleiades-Moon conjunction "
-"or using stars like those of the Big Dipper.\n"
+"The stars used for timing are the same as those of ancient Arabs, but the system is simplified by beginning the year with the heliacal rising of al-Thurayyā, the Pleiades, at the start of summer, then counting 13 days for each lunar station, except al-Ǧabhah, which has 14 days. This results in a 27 lunar stations × 13 days + 14 days (al-Ǧabhah) = 365-day cycle. Other timing methods were also used, such as the monthly Pleiades-Moon conjunction or using stars like those of the Big Dipper.\n"
 "\n"
-"The sources indicate that star names and asterisms are fewer compared to "
-"those of ancient Arabs. Only the brightest stars and prominent asterisms "
-"were named and used. An important source of continuing star knowledge is the "
-"poetry of al-Ḫalāwī, a poet whose era is uncertain but estimated to be in "
-"the 17th century [#3]. Another key source is a poem by Moḥammad al-Qāḍī "
-"(~1809–1886), in which he described all 28 lunar stations, citing their "
-"local names [#2]."
+"The sources indicate that star names and asterisms are fewer compared to those of ancient Arabs. Only the brightest stars and prominent asterisms were named and used. An important source of continuing star knowledge is the poetry of al-Ḫalāwī, a poet whose era is uncertain but estimated to be in the 17th century [#3]. Another key source is a poem by Moḥammad al-Qāḍī (~1809–1886), in which he described all 28 lunar stations, citing their local names [#2]."
 msgstr ""
-"Arabský poloostrov je oblast zabírající jihozápadní kout Asie, na jihu "
-"ohraničená Adenským zálivem a Arabským mořem, na východě Ománským zálivem a "
-"Arabským/Perským zálivem a na západě Rudým mořem. Severní hranice není "
-"přesně vymezena, ale podle starověkých geografů je ohraničena řekami, "
-"zejména řekou Eufrat [#16] [#17]. Tuto oblast obývají Arabové a zahrnuje "
-"Jordánsko, Saúdskou Arábii, Kuvajt, Bahrajn, Katar, Spojené arabské emiráty, "
-"Omán, Jemen a části Sýrie a Iráku.\n"
+"Arabský poloostrov je oblast zahrnující jihozápadní cíp Asie, na jihu ohraničená Adenským zálivem a Arabským mořem, na východě Ománským zálivem a Arabským/Perským zálivem a na západě Rudým mořem. Severní hranice není přesně vymezena, ale podle starověkých geografů ji vymezují řeky, zejména Eufrat [#16] [#17]. Tuto oblast obývají Arabové a patří sem Jordánsko, Saúdská Arábie, Kuvajt, Bahrajn, Katar, Spojené arabské emiráty, Omán, Jemen a části Sýrie a Iráku.\n"
 "\n"
 "<p><img width=\"300\" src=\"illustrations/arabian_peninsula.jpg\" /></p>\n"
 "\n"
-"Beduíni a zemědělci po celém Arabském poloostrově se ve velké míře spoléhali "
-"na hvězdy při načasování svých kočovných cest, péči o zvířata, předpovědi "
-"počasí a při zemědělských činnostech. Hvězdy jsou často zmiňovány v jejich "
-"příslovích a poezii. Naštěstí ústní poezie a přísloví byla různými badateli "
-"zdokumentována a zachována. Studium sbírek těchto badatelů spolu s ústní "
-"tradicí odhaluje znalosti o hvězdách u lidí v tomto regionu.\n"
+"Beduíni a zemědělci napříč Arabským poloostrovem se pro načasování svých nomádských cest, péči o zvířata, předpovídání počasí a provádění zemědělských činností silně opírali o hvězdy. Hvězdy se často objevují v jejich příslovích a poezii. Naštěstí ústní poezii a přísloví zaznamenali a uchovali různí badatelé. Prostudování sbírek těchto badatelů spolu s ústní tradicí odhaluje hvězdné znalosti lidí v tomto regionu.\n"
 "\n"
-"Hvězdy používané k časování jsou stejné jako u starověkých Arabů, avšak "
-"systém je zjednodušen tak, že rok začíná heliakálním východem al-Thurayyā, "
-"Plejád, na začátku léta, poté se pro každou měsíční stanici počítá 13 dní, s "
-"výjimkou al-Ǧabhah, která má 14 dní. To dává 27 měsíčních stanic × 13 dní + "
-"14 dní (al-Ǧabhah) = 365denní cyklus. Používaly se i jiné metody časování, "
-"například měsíční konjunkce Plejád s Měsícem nebo využití hvězd, jako jsou "
-"ty z Velkého vozu.\n"
+"Hvězdy používané k měření času jsou stejné jako u starých Arabů, ale systém je zjednodušen tím, že rok začíná heliakickým východem al-Thurayyā, Plejád, na začátku léta, poté se pro každou lunární stanici počítá 13 dní, s výjimkou al-Ǧabhah, která má 14 dní. To dává 27 lunárních stanic × 13 dní + 14 dní (al-Ǧabhah) = 365denní cyklus. Používaly se také jiné metody časování, například měsíční konjunkce Plejád s Měsícem nebo využití hvězd, jako jsou ty z Velkého vozu.\n"
 "\n"
-"Prameny naznačují, že názvů hvězd a asterismů je méně než u starověkých "
-"Arabů. Pojmenovány a používány byly jen nejjasnější hvězdy a nápadné "
-"asterismy. Důležitým zdrojem kontinuální znalosti o hvězdách je poezie al-"
-"Ḫalāwī, básníka, jehož období není jisté, ale odhaduje se na 17. století "
-"[#3]. Dalším klíčovým zdrojem je báseň Moḥammad al-Qāḍī (~1809–1886), v níž "
-"popsal všech 28 měsíčních stanic a uvedl jejich místní názvy [#2]."
+"Z pramenů vyplývá, že názvů hvězd a asterismů je méně než u starých Arabů. Pojmenovávány a používány byly jen nejjasnější hvězdy a nápadné asterismy. Důležitým zdrojem pokračujícího hvězdného poznání je poezie al-Ḫalāwīho, básníka, jehož doba působení je nejistá, ale odhaduje se na 17. století [#3]. Dalším klíčovým zdrojem je báseň Moḥammada al-Qāḍīho (~1809–1886), v níž popsal všech 28 lunárních stanic a uvedl jejich místní názvy [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Two Guards
+# Translated by OpenAI, may be very wrong
 msgid ""
 "The Two Guards are the stars β Ursae Minoris and γ Ursae Minoris, "
-"traditionally used in desert navigation. Their name comes from an old legend "
-"in which al-Jady (Polaris) kills the father of the Seven Sisters—represented "
-"by the stars of the Big Dipper—who then carry their father’s bier and circle "
-"al-Jady, vowing revenge. Seeking protection from their wrath, al-Jady turned "
-"to these two nearby stars, which became known as the “Two Guards.” [#1]."
+"traditionally used in desert navigation. Their name comes from an old legend"
+" in which al-Jady (Polaris) kills the father of the Seven "
+"Sisters—represented by the stars of the Big Dipper—who then carry their "
+"father’s bier and circle al-Jady, vowing revenge. Seeking protection from "
+"their wrath, al-Jady turned to these two nearby stars, which became known as"
+" the “Two Guards.” [#1]."
 msgstr ""
-"Dva strážci jsou hvězdy β Ursae Minoris a γ Ursae Minoris, tradičně "
+"„Dva strážci“ jsou hvězdy β Ursae Minoris a γ Ursae Minoris, tradičně "
 "používané při navigaci v poušti. Jejich název pochází ze staré legendy, v "
 "níž al-Jady (Polárka) zabije otce Sedmi sester—představovaných hvězdami "
-"Velkého vozu—které pak nesou pohřební maru svého otce a krouží kolem al-Jady "
-"a přísahají pomstu. Ve snaze najít ochranu před jejich hněvem se al-Jady "
-"obrací k těmto dvěma blízkým hvězdám, které se stávají známými jako „Dva "
-"strážci“. [#1]."
+"Velkého vozu—které pak nesou otcovy máry a krouží kolem al-Jady, přísahajíce"
+" pomstu. Aby se ochránil před jejich hněvem, al-Jady se obrátil k těmto "
+"dvěma blízkým hvězdám, které se staly známými jako „Dva strážci“. [#1]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Two Refugees
+# Translated by OpenAI, may be very wrong
 msgid ""
 "Another name for the two stars β Ursae Minoris and γ Ursae Minoris. "
 "According to a different version of the legend, these stars are the killers "
 "who fled to al-Jady for protection [#1]."
 msgstr ""
-"Další název pro dvě hvězdy β Ursae Minoris a γ Ursae Minoris. Podle jiné "
-"verze legendy jsou tyto hvězdy vrazi, kteří uprchli k al-Jady, aby našli "
-"ochranu [#1]."
+"Další název pro dvojici hvězd β Ursae Minoris a γ Ursae Minoris. Podle jiné "
+"verze legendy jsou tyto hvězdy vrazi, kteří uprchli k al-Jady za ochranou "
+"[#1]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Family Of Aba
 #. Bzay
+# Translated by OpenAI, may be very wrong
 msgid "Yet another name for the two-star asterism β UMi and γ UMi [#1]."
-msgstr "Ještě jeden název pro dvouhvězdový asterismus β UMi a γ UMi [#1]."
+msgstr "Další název pro dvouhvězdový asterismus β UMi a γ UMi [#1]."
 
 #. Description of Arabic (Arabian Peninsula) constellation Al-Naayem
+# Translated by OpenAI, may be very wrong
 msgid ""
 "The meaning is uncertain; it could refer to camels. Composed of the seven "
 "stars of the Big Dipper [#1]."
 msgstr ""
-"Význam je nejistý; může odkazovat na velbloudy. Skládá se ze sedmi hvězd "
+"Význam není jistý; může se vztahovat k velbloudům. Skládá se ze sedmi hvězd "
 "Velkého vozu [#1]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Seven
+# Translated by OpenAI, may be very wrong
 msgid "The seven stars of the Big Dipper [#1]."
 msgstr "Sedm hvězd Velkého vozu [#1]."
 
 #. Description of Arabic (Arabian Peninsula) constellation Daughters Of Na'sh
+# Translated by OpenAI, may be very wrong
 msgid ""
-"The seven stars of the Big Dipper, known as the seven sisters carrying their "
-"father's bier, the father killed by al-Ǧady (Polaris) [#1]."
+"The seven stars of the Big Dipper, known as the seven sisters carrying their"
+" father's bier, the father killed by al-Ǧady (Polaris) [#1]."
 msgstr ""
-"Sedm hvězd Velkého vozu, známých jako sedm sester nesoucích otcovy máry; "
-"jejich otce zabil al-Ǧady (Polárka) [#1]."
+"Sedm hvězd Velkého vozu, známých jako sedm sester nesoucích otcovy máry, "
+"jejichž otce zabil al-Ǧady (Polárka) [#1]."
 
 #. Description of Arabic (Arabian Peninsula) constellation Saddle Of The Camel
+# Translated by OpenAI, may be very wrong
 msgid ""
 "The five bright stars of Cassiopeia, a name used in western areas along the "
 "Red Sea in Saudi Arabia [#1]."
 msgstr ""
-"Pět jasných hvězd Kasiopeje, název používaný v západních oblastech podél "
+"Pět jasných hvězd Kasiopeje, název užívaný v západních oblastech podél "
 "Rudého moře v Saúdské Arábii [#1]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Wool Spindle
+# Translated by OpenAI, may be very wrong
 msgid ""
-"The cross-shaped arrangement of α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr), "
-"δ Cyg, and β1+β2 Cyg (Albireo). This comes from oral tradition in Zulfi, "
+"The cross-shaped arrangement of α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr),"
+" δ Cyg, and β1+β2 Cyg (Albireo). This comes from oral tradition in Zulfi, "
 "central Saudi Arabia [#1]."
 msgstr ""
-"Křížovité uspořádání α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr), δ Cyg a "
-"β1+β2 Cyg (Albireo). Toto pochází z ústní tradice v Zulfi, ve střední "
-"Saúdské Arábii [#1]."
+"Křížové uspořádání hvězd α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr), δ Cyg "
+"a β1+β2 Cyg (Albireo). To pochází z ústní tradice v Zulfi ve střední Saúdské"
+" Arábii [#1]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Front
+# Translated by OpenAI, may be very wrong
 msgid "The front mouth of the bucket (24th mansion of the Moon) [#2]."
-msgstr "Přední okraj vědra (24. lunární dům) [#2]."
+msgstr "Přední ústí vědra (24. měsíční dům) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Rear
+# Translated by OpenAI, may be very wrong
 msgid "The rear mouth of the bucket (25th mansion of the Moon) [#2]."
-msgstr "Zadní výtok vědra (25. sídlo Měsíce) [#2]."
+msgstr "Zadní ústí vědra (25. sídlo Měsíce) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Bucket Cord
+# Translated by OpenAI, may be very wrong
 msgid ""
 "The rope used to pull the bucket from the well (26th mansion of the Moon) "
 "[#2]."
-msgstr "Provaz, kterým se vytahuje vědro ze studny (26. měsíční sídlo) [#2]."
+msgstr "Provaz používaný k vytahování vědra ze studny (26. lunární dům) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Two Marks
+# Translated by OpenAI, may be very wrong
 msgid "Stars α Ari and β Ari (27th mansion of the Moon) [#2]."
-msgstr "Hvězdy α Ari a β Ari (27. lunární sídlo) [#2]."
+msgstr "Hvězdy α Ari a β Ari (27. měsíční dům) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Little Abdomen
+# Translated by OpenAI, may be very wrong
 msgid "The little abdomen of al-Ḥamal (28th mansion of the Moon) [#2]."
-msgstr "Malé břicho al-Ḥamalu (28. sídlo Měsíce) [#2]."
+msgstr "Malé břicho al-Ḥamalu (28. měsíční sídlo) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation Al-Thurayya
+# Translated by OpenAI, may be very wrong
 msgid "Proper name of the Pleiades (1st mansion of the Moon) [#3]."
-msgstr "Vlastní jméno Plejád (1. lunární dům) [#3]."
+msgstr "Vlastní jméno Plejád (1. měsíční dům) [#3]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Little Follower
+# Translated by OpenAI, may be very wrong
 msgid "Star Aldebran (2nd mansion of the Moon) [#2]."
-msgstr "Hvězda Aldebaran (2. lunární dům Měsíce) [#2]."
+msgstr "Hvězda Aldebran (2. měsíční stanice) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Arm
+# Translated by OpenAI, may be very wrong
 msgid ""
-"The two stars of Canis Minor, considered the arm of the lion (5th mansion of "
-"the Moon) [#2]."
+"The two stars of Canis Minor, considered the arm of the lion (5th mansion of"
+" the Moon) [#2]."
 msgstr ""
-"Dvě hvězdy souhvězdí Malého psa, považované za paži lva (5. měsíční sídlo) "
+"Dvě hvězdy souhvězdí Malého psa, považované za paži lva (5. měsíční dům) "
 "[#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Two Little Dogs
+# Translated by OpenAI, may be very wrong
 msgid ""
 "An asterism of stars δ CMa and ε CMa. Their heliacal rising marks timing "
-"(coinciding with the 6th mansion of the Moon). The name is common in central "
-"Arabia [#2] [#3]."
+"(coinciding with the 6th mansion of the Moon). The name is common in central"
+" Arabia [#2] [#3]."
 msgstr ""
-"Asterismus hvězd δ CMa a ε CMa. Jejich heliakický východ slouží k určování "
-"času (kryje se s 6. měsíční stanicí). Název je běžný ve střední Arábii [#2] "
+"Asterismus hvězd δ CMa a ε CMa. Jejich heliakický východ určuje načasování "
+"(kryjící se s 6. lunárním sídlem). Název je běžný ve střední Arábii [#2] "
 "[#3]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Nostrils
+# Translated by OpenAI, may be very wrong
 msgid ""
 "M 44 and two adjacent stars represent the nose tip of the Arab lion (6th "
 "mansion of the Moon) [#2]."
 msgstr ""
-"M 44 a dvě sousední hvězdy představují špičku nosu arabského lva (6. měsíční "
-"dům) [#2]."
+"M 44 a dvě sousední hvězdy představují špičku nosu arabského lva (6. měsíční"
+" stanice) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Eyes
+# Translated by OpenAI, may be very wrong
 msgid "The eyes of the lion (7th mansion of the Moon) [#2]."
-msgstr "Oči lva (7. měsíční stanice) [#2]."
+msgstr "Oči lva (7. měsíční dům) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Forehead
+# Translated by OpenAI, may be very wrong
 msgid "The forehead of the lion (8th mansion of the Moon) [#2]."
-msgstr "Čelo lva (8. lunární sídlo) [#2]."
+msgstr "Čelo lva (8. měsíční stanice) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Mane
+# Translated by OpenAI, may be very wrong
 msgid "The mane of the lion (9th mansion of the Moon) [#2]."
-msgstr "Hříva lva (9. měsíční dům) [#2]."
+msgstr "Hříva lva (9. měsíční stanice) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation Star Of Weather
 #. Change
+# Translated by OpenAI, may be very wrong
 msgid "(10th mansion of the Moon) [#2]."
-msgstr "(10. měsíční stanice) [#2]."
+msgstr "(10. měsíční dům) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Bend
+# Translated by OpenAI, may be very wrong
 msgid ""
 "An arc of five stars. The Arabic \"al-ʿAwwā\" may also mean “the Howlers,” "
 "dogs barking at the lion (11th mansion of the Moon) [#2]."
 msgstr ""
-"Oblouk z pěti hvězd. Arabský výraz „al-ʿAwwā“ může také znamenat „Vyjící“, "
-"psi štěkající na lva (11. měsíční sídlo) [#2]."
+"Oblouk z pěti hvězd. Arabské „al-ʿAwwā“ může také znamenat „Vyjící“, psi "
+"štěkající na lva (11. lunární dům) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The High Unarmed
 #. One
+# Translated by OpenAI, may be very wrong
 msgid "(12th mansion of the Moon) [#2]."
-msgstr "(12. sídlo Měsíce) [#2]."
+msgstr "(12. měsíční dům) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Cover
+# Translated by OpenAI, may be very wrong
 msgid "A three-star asterism (13th mansion of the Moon) [#2]."
-msgstr "Tříhvězdový asterismus (13. měsíční dům) [#2]."
+msgstr "Tříhvězdový asterismus (13. lunární sídlo) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation Claws Of The
 #. Scorpion
+# Translated by OpenAI, may be very wrong
 msgid "The two bright stars of Libra (14th mansion of the Moon) [#2]."
-msgstr "Dvě jasné hvězdy souhvězdí Vah (14. měsíční stanice) [#2]."
+msgstr "Dvě jasné hvězdy souhvězdí Vah (14. lunární sídlo Měsíce) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Diadem
+# Translated by OpenAI, may be very wrong
 msgid ""
-"An arc of three stars on the forehead of Scorpius (15th mansion of the Moon) "
-"[#2]."
-msgstr "Oblouk tří hvězd na čele Štíra (15. lunární sídlo) [#2]."
+"An arc of three stars on the forehead of Scorpius (15th mansion of the Moon)"
+" [#2]."
+msgstr "Oblouk ze tří hvězd na čele Štíra (15. měsíční dům) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Heart
+# Translated by OpenAI, may be very wrong
 msgid "(16th mansion of the Moon) [#1]."
-msgstr "(16. lunární sídlo) [#1]."
+msgstr "(16. měsíční stanice) [#1]."
 
 #. Description of Arabic (Arabian Peninsula) constellation Raised Tail Of The
 #. Scorpion
+# Translated by OpenAI, may be very wrong
 msgid "The sting of Scorpius (17th mansion of the Moon) [#2]."
-msgstr "Žihadlo Štíra (17. měsíční dům) [#2]."
+msgstr "Žihadlo Štíra (17. lunární dům) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Scorpion
+# Translated by OpenAI, may be very wrong
 msgid "Represents the scorpion figure [#2]."
-msgstr "Znázorňuje podobu štíra [#2]."
+msgstr "Představuje štíra [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Empty Place
+# Translated by OpenAI, may be very wrong
 msgid ""
 "An area with no bright stars in Sagittarius (19th mansion of the Moon) [#2]."
-msgstr ""
-"Oblast bez jasných hvězd v souhvězdí Střelce (19. lunární dům Měsíce) [#2]."
+msgstr "Oblast bez jasných hvězd ve Střelci (19. lunární stanice) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Ostriches
+# Translated by OpenAI, may be very wrong
 msgid ""
 "Four stars in the Milky Way representing ostriches drinking at a river and "
 "another four away from the Milky Way representing ostriches returning. A "
 "ninth star between and above the two groups is included. All are located in "
 "Sagittarius (18th mansion of the Moon) [#2]."
 msgstr ""
-"Čtyři hvězdy v Mléčné dráze znázorňují pštrosy pijící u řeky a další čtyři "
-"mimo Mléčnou dráhu znázorňují pštrosy, kteří se vracejí. Zahrnuta je i "
-"devátá hvězda, která leží mezi oběma skupinami a nad nimi. Všechny se "
-"nacházejí v souhvězdí Střelce (18. měsíční sídlo) [#2]."
+"Čtyři hvězdy v Mléčné dráze představují pštrosy pijící u řeky a další čtyři "
+"mimo Mléčnou dráhu představují pštrosy, kteří se vracejí. Je zahrnuta i "
+"devátá hvězda mezi oběma skupinami a nad nimi. Všechny leží v souhvězdí "
+"Střelce (18. sídlo Měsíce) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Lucky Star Of
 #. The Slaughterer
+# Translated by OpenAI, may be very wrong
 msgid ""
 "An ancient Arab asterism depicting a man slaughtering a sheep (20th mansion "
 "of the Moon) [#2]."
 msgstr ""
-"Starověký arabský asterismus zobrazující muže porážejícího ovci (20. měsíční "
-"stanice) [#2]."
+"Starověký arabský asterismus zobrazující muže porážejícího ovci (20. lunární"
+" dům Měsíce) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Lucky Star Of
 #. The Swallower
+# Translated by OpenAI, may be very wrong
 msgid ""
 "An ancient Arab asterism representing a man swallowing a bite (21st mansion "
 "of the Moon) [#2]."
 msgstr ""
 "Starověký arabský asterismus představující muže polykajícího sousto (21. "
-"měsíční stanice) [#2]."
+"lunární stanice) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Luckiest Of The
 #. Lucky Stars
+# Translated by OpenAI, may be very wrong
 msgid ""
 "An ancient Arab asterism of three stars that rise in the morning in spring "
 "(22nd mansion of the Moon) [#2]."
 msgstr ""
-"Starověký arabský asterismus ze tří hvězd, které na jaře ráno vycházejí (22. "
-"měsíční sídlo) [#2]."
+"Starověký arabský asterismus tří hvězd, které na jaře vycházejí ráno (22. "
+"sídlo Měsíce) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Lucky Star Of
 #. The Tents
+# Translated by OpenAI, may be very wrong
 msgid ""
 "An ancient Arab asterism consisting of a triangle of three stars with a "
 "fourth star inside, symbolizing a man inside a tent (23rd mansion of the "
 "Moon) [#2]."
 msgstr ""
 "Starověký arabský asterismus tvořený trojúhelníkem ze tří hvězd se čtvrtou "
-"hvězdou uvnitř, symbolizující muže uvnitř stanu (23. měsíční dům) [#2]."
+"hvězdou uvnitř, symbolizující muže ve stanu (23. lunární sídlo) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Circular Mark
+# Translated by OpenAI, may be very wrong
 msgid ""
 "An ancient Arab asterism of a small triangle of stars (head of Orion) "
 "representing a mark on the side of a horse (3rd mansion of the Moon) [#2]."
 msgstr ""
-"Starověký arabský asterismus malého trojúhelníku hvězd (hlava Oriona) "
-"představující značku na boku koně (3. měsíční stanice) [#2]."
+"Starověký arabský asterismus v podobě malého trojúhelníku hvězd (hlava "
+"Oriona), představující znak na boku koně (3. lunární dům) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Downward Bend
+# Translated by OpenAI, may be very wrong
 msgid "An ancient Arab asterism (4th mansion of the Moon) [#2]."
-msgstr "Staroarabský asterismus (4. měsíční stanice) [#2]."
+msgstr "Starověký arabský asterismus (4. sídlo Měsíce) [#2]."
 
 #. Description of Arabic (Arabian Peninsula) constellation Claws Of Al-Jawza
+# Translated by OpenAI, may be very wrong
 msgid ""
 "Refers to stars α, γ, β, and κ Ori, transmitted orally from the Qasseem "
 "region of Saudi Arabia [#1]."
 msgstr ""
-"Odkazuje na hvězdy α, γ, β a κ Ori; ústně tradováno z regionu Al-Kasím v "
-"Saúdské Arábii [#1]."
+"Vztahuje se k hvězdám α, γ, β a κ Ori a pochází z ústní tradice regionu "
+"Qasseem v Saúdské Arábii [#1]."
 
 #. Description of Arabic (Arabian Peninsula) constellation The Claws
+# Translated by OpenAI, may be very wrong
 msgid ""
 "Another name for the α, γ, β, and κ Ori stars, also from Qasseem, Saudi "
 "Arabia [#1]."
 msgstr ""
-"Další název pro hvězdy α, γ, β a κ Ori, také z oblasti Qasseem v Saúdské "
-"Arábii [#1]."
+"Další název pro hvězdy α, γ, β a κ Ori, také z Qasseemu v Saúdské Arábii "
+"[#1]."
 
 #. Description of Arabic (Arabian Peninsula) constellation Back Of Al-Jawza
+# Translated by OpenAI, may be very wrong
 msgid ""
 "The three stars at Orion’s belt. This name, along with Northern Horn of al-"
 "Jawza and Southern Horn of al-Jawza star names, originates from western "
 "Saudi Arabia and is used by Red Sea fishers. The source is oral tradition "
 "from the seaport Umluj, Saudi Arabia [#1]."
 msgstr ""
-"Tři hvězdy v Orionově pásu. Tento název spolu s názvy hvězd Northern Horn of "
-"al-Jawza a Southern Horn of al-Jawza pochází ze západní Saúdské Arábie a "
-"používají ho rybáři na Rudém moři. Zdroj je ústní tradice z přístavního "
-"města Umluj v Saúdské Arábii [#1]."
+"Tři hvězdy Orionova pásu. Tento název, spolu s názvy hvězd Severní roh al-"
+"Jawza a Jižní roh al-Jawza, pochází ze západní Saúdské Arábie a používají "
+"jej rybáři u Rudého moře. Zdrojem je ústní tradice z přístavu Umluj v "
+"Saúdské Arábii [#1]."
 
 #. Description of Arabic (Arabian Peninsula) constellation Mosque Of Al-
 #. Thurayya
+# Translated by OpenAI, may be very wrong
 msgid ""
-"A triangle of stars that rise before al-Thurayya (the Pleiades). It includes "
-"α Ari, α Tri, and β Tri. The name comes from oral tradition in Wadi al-"
+"A triangle of stars that rise before al-Thurayya (the Pleiades). It includes"
+" α Ari, α Tri, and β Tri. The name comes from oral tradition in Wadi al-"
 "Dawasir, southwestern Saudi Arabia [#1]."
 msgstr ""
-"Trojúhelník hvězd, které vycházejí dříve než al-Thurayya (Plejády). Zahrnuje "
-"α Ari, α Tri a β Tri. Název pochází z ústní tradice ve Wadi al-Dawasir, v "
+"Trojúhelník hvězd, který vychází před al-Thurayya (Plejády). Zahrnuje α Ari,"
+" α Tri a β Tri. Název pochází z ústní tradice v oblasti Wadi al-Dawasir v "
 "jihozápadní Saúdské Arábii [#1]."
 
 #. Description of Arabic (Arabian Peninsula) constellation Al-Jawza
+# Translated by OpenAI, may be very wrong
 msgid ""
 "A proper name for a woman; this constellation represents a female figure "
 "formed by the Orion stars, identical to the ancient Arab tradition. Some "
 "oral traditions limit the name to the three stars of Orion’s belt [#2][#3]."
 msgstr ""
-"Vlastní ženské jméno; toto souhvězdí představuje ženskou postavu tvořenou "
-"hvězdami souhvězdí Orionu, zcela shodně s dávnou arabskou tradicí. Některé "
-"ústní tradice omezují toto jméno na tři hvězdy Orionova pásu [#2][#3]."
+"Vlastní ženské jméno; toto souhvězdí představuje ženskou postavu utvořenou z"
+" hvězd Oriona, v souladu s dávnou arabskou tradicí. Některé ústní tradice "
+"omezují toto jméno na tři hvězdy Orionova pásu [#2][#3]."
 
 #. Arabic (Arabian Peninsula) sky culture references section in markdown
 #. format
+# Translated by OpenAI, may be very wrong
 msgid ""
 "- [#1]: Oral tradition  \n"
-"- [#2]: Al-Ajaji, Khalid, *Šarḥ Qaṣidat al-Qāḍī fi al-anwāʾ wal-nuǧūm*, "
-"Explanation of al-Qāḍī poem of anwāʾ and stars, Riyadh, Saudi Arabia, 2013., "
-"خالد بن عبد الله العجاجي، شرح قصيدة القاضي في الأنواء والنجوم، الرياض، "
-"المملكة العربية السعودية، 1434 هـ.  \n"
-"- [#3]: Al-Ajaji, Khalid, *Šarḥ Maʾthūrāt al-Ḫalāwī al-falakiyah*, "
-"Explanation of al-Ḫalāwī astronomy poems, Riyadh, Saudi Arabia, 2018., خالد "
-"بن عبد الله العجاجي، شرح مأثورات الخلاوي الفلكية، الرياض، المملكة العربية "
-"السعودية، 1439 هـ.  \n"
-"- [#4]: Ibn Ḫamīs, ʿAbd Allah b. Muḥammad, *Rāshid al-Ḫalāwī*, Riyadh, Saudi "
-"Arabia, 2002., عبدالله بن محمد بن خميس ، راشد الخلاوي ، الرياض، المملكة "
-"العربية السعودية، 1423 هـ.  \n"
-"- [#5]: Al-Blādī, ʿAtiq b. Ġayth, *Al-adab al-šaʿbī fi al-ḥiǧāz*, Folk "
-"literature in Ḥijaz, Dar Makkah, Makkah, Saudi Arabia, 1982, عاتق بن غيث "
-"البلادي (ت 1431 ه)، الأدب الشعبي في الحجاز، دار مكة، مكة المكرمة، ط 2، 1402 "
-"هـ.  \n"
-"- [#6]: Al-Suwaydā, ʿAbd al-Raḥman, *Al-Amthāl al-šaʿbiyah al-sāʾirah fi "
-"manṭiqat Ḥāʾil*, The local common proverbs of the Ḥayel region, Riyadh, "
-"Saudi Arabia, 2007., عبد الرحمن بن زيد السويداء، الأمثال الشعبية السائرة في "
-"منطقة حائل، الرياض، المملكة العربية السعودية، 1428 هـ.  \n"
-"- [#7]: Al-Ḥatim, ʿAbd Allah Khalid, *Diwān ʿAbd Allah bin Ḥmūd al-Sbayel*, "
-"The poetry collection of ʿAbd Allah b. Ḥumūd al-Sbayel, 1984, عبدالله الخالد "
-"الحاتم ، ديوان عبدالله بن حمود السبيِّل، 1404 هـ.  \n"
-"- [#8]: Al-Suwaydā, ʿAbd al-Raḥman, *Šuʿarāʾ al-ǧabal al-šaʿbiyūn*, The "
-"Poets of the mountain, 5-volume poetry collection, Riyadh, Saudi Arabia, "
-"2013., عبد الرحمن بن زيد السويداء، شعراء الجبل الشعبيون، الرياض، المملكة "
-"العربية السعودية، 1434 هـ.  \n"
-"- [#9]: Al-ʿAnsī, Yaḥyā, *Al-Maʿalim al-ziraʿiyah fi al-Yaman*, Agricultural "
-"signs in Yemen, Yemen, 2010, يحيى العنسي، المعالم الزراعية في اليمن، اليمن، "
-"1431 هـ.  \n"
-"- [#10]: Ibn Bišir, ʿUṯmān ibn ʿAbd Allah (died 1873), *ʿInwān al-maǧd fi "
-"tarīḫ Naǧd*, The Title of Glory on the History of Najd (Arabic critical "
-"edition by Dr. Muḥammad ibn Nāṣir al-Šiṯrī), Riyadh, Saudi Arabia, 2012., "
-"ابن بشر، عثمان بن عبد الله بن بشر، عنوان المجد في تاريخ نجد، تحقيق الدكتور "
-"محمد بن ناصر الشثري، الرياض، المملكة العربية السعودية، 1433 هـ.  \n"
-"- [#11]: Al-ʿUbūdī, Moḥammad b. Nāṣir, *Al-Amthāl al-ʿāmiyah fi Naǧd*, The "
-"folk proverbs in Najd, 4 volumes, Dar Al-Thulūthiyah, Riyadh, Saudi Arabia, "
-"2010., محمد بن ناصر العبودي، الأمثال العامية في نجد، دار الثلوثية، الرياض، "
-"المملكة العربية السعودية، 1431 هـ.  \n"
-"- [#12]: Al-ʿUbūdī, Moḥammad b. Nāṣir, *Muʿǧam al-Uṣūl al-faṣīḥah lil-alfāẓ "
-"al-dariǧah*, Lexicon of the classical root of the common dialect words, 13 "
-"volumes, King AbdulAzeez Library, Riyadh, Saudi Arabia, 2009., محمد بن ناصر "
-"العبودي، معجم الأصول الفصيحة للألفاظ الدارجة، مكتبة الملك عبد العزيز، "
-"الرياض، المملكة العربية السعودية، 1430 هـ.  \n"
-"- [#13]: *Al-Azhār al-nadiyah min ashʿār al-badiyah*, A collection of "
-"Bedouin poetry titled The Moist Flowers of Bedouin Poetry, 18 volumes, Al "
-"Ma'arif library, Tayef, Saudi Arabia. الأزهار النادية من أشعار البادية، "
-"مكتبة المعارف، الطائف، المملكة العربية السعودية.  \n"
-"- [#14]: *Min ādābinā al-shaʿbiyah fi al-ǧazīrah al-ʿarabiyah*, A collection "
-"of poetry by Mandeel al-Fuhaid, Our local literature of the Arabian "
-"Peninsula, 10 volumes, Riyadh, Saudi Arabia. منديل بن محمد الفهيد، من آدابنا "
-"الشعبية في الجزيرة العربية.  \n"
-"- [#15]: Al-Suwaydā, ʿAbd al-Raḥman, *Durar min al-shiʿr al-shaʿbī*, The "
-"Best of Folk Poetry, 3-volume poetry collection, Riyadh, Saudi Arabia, 1999. "
-"عبد الرحمن بن زيد السويداء، درر من الشعر الشعبي، الرياض، المملكة العربية "
-"السعودية، 1420 هـ.  \n"
-"- [#16]: Al-Hamdânîʼs *Geographie der Arabischen Halbinsel*, David Heinrich "
-"Müller, Leiden: E. J. Brill, 1884, p. 47.  \n"
-"- [#17]: Le Bon, Gustave, *La civilisation des Arabes*, Paris, Librairie de "
-"Firmin-Didot, 1884, livre premier, p. 1."
+"- [#2]: Al-Ajaji, Khalid, *Šarḥ Qaṣidat al-Qāḍī fi al-anwāʾ wal-nuǧūm*, Explanation of al-Qāḍī poem of anwāʾ and stars, Riyadh, Saudi Arabia, 2013., خالد بن عبد الله العجاجي، شرح قصيدة القاضي في الأنواء والنجوم، الرياض، المملكة العربية السعودية، 1434 هـ.  \n"
+"- [#3]: Al-Ajaji, Khalid, *Šarḥ Maʾthūrāt al-Ḫalāwī al-falakiyah*, Explanation of al-Ḫalāwī astronomy poems, Riyadh, Saudi Arabia, 2018., خالد بن عبد الله العجاجي، شرح مأثورات الخلاوي الفلكية، الرياض، المملكة العربية السعودية، 1439 هـ.  \n"
+"- [#4]: Ibn Ḫamīs, ʿAbd Allah b. Muḥammad, *Rāshid al-Ḫalāwī*, Riyadh, Saudi Arabia, 2002., عبدالله بن محمد بن خميس ، راشد الخلاوي ، الرياض، المملكة العربية السعودية، 1423 هـ.  \n"
+"- [#5]: Al-Blādī, ʿAtiq b. Ġayth, *Al-adab al-šaʿbī fi al-ḥiǧāz*, Folk literature in Ḥijaz, Dar Makkah, Makkah, Saudi Arabia, 1982, عاتق بن غيث البلادي (ت 1431 ه)، الأدب الشعبي في الحجاز، دار مكة، مكة المكرمة، ط 2، 1402 هـ.  \n"
+"- [#6]: Al-Suwaydā, ʿAbd al-Raḥman, *Al-Amthāl al-šaʿbiyah al-sāʾirah fi manṭiqat Ḥāʾil*, The local common proverbs of the Ḥayel region, Riyadh, Saudi Arabia, 2007., عبد الرحمن بن زيد السويداء، الأمثال الشعبية السائرة في منطقة حائل، الرياض، المملكة العربية السعودية، 1428 هـ.  \n"
+"- [#7]: Al-Ḥatim, ʿAbd Allah Khalid, *Diwān ʿAbd Allah bin Ḥmūd al-Sbayel*, The poetry collection of ʿAbd Allah b. Ḥumūd al-Sbayel, 1984, عبدالله الخالد الحاتم ، ديوان عبدالله بن حمود السبيِّل، 1404 هـ.  \n"
+"- [#8]: Al-Suwaydā, ʿAbd al-Raḥman, *Šuʿarāʾ al-ǧabal al-šaʿbiyūn*, The Poets of the mountain, 5-volume poetry collection, Riyadh, Saudi Arabia, 2013., عبد الرحمن بن زيد السويداء، شعراء الجبل الشعبيون، الرياض، المملكة العربية السعودية، 1434 هـ.  \n"
+"- [#9]: Al-ʿAnsī, Yaḥyā, *Al-Maʿalim al-ziraʿiyah fi al-Yaman*, Agricultural signs in Yemen, Yemen, 2010, يحيى العنسي، المعالم الزراعية في اليمن، اليمن، 1431 هـ.  \n"
+"- [#10]: Ibn Bišir, ʿUṯmān ibn ʿAbd Allah (died 1873), *ʿInwān al-maǧd fi tarīḫ Naǧd*, The Title of Glory on the History of Najd (Arabic critical edition by Dr. Muḥammad ibn Nāṣir al-Šiṯrī), Riyadh, Saudi Arabia, 2012., ابن بشر، عثمان بن عبد الله بن بشر، عنوان المجد في تاريخ نجد، تحقيق الدكتور محمد بن ناصر الشثري، الرياض، المملكة العربية السعودية، 1433 هـ.  \n"
+"- [#11]: Al-ʿUbūdī, Moḥammad b. Nāṣir, *Al-Amthāl al-ʿāmiyah fi Naǧd*, The folk proverbs in Najd, 4 volumes, Dar Al-Thulūthiyah, Riyadh, Saudi Arabia, 2010., محمد بن ناصر العبودي، الأمثال العامية في نجد، دار الثلوثية، الرياض، المملكة العربية السعودية، 1431 هـ.  \n"
+"- [#12]: Al-ʿUbūdī, Moḥammad b. Nāṣir, *Muʿǧam al-Uṣūl al-faṣīḥah lil-alfāẓ al-dariǧah*, Lexicon of the classical root of the common dialect words, 13 volumes, King AbdulAzeez Library, Riyadh, Saudi Arabia, 2009., محمد بن ناصر العبودي، معجم الأصول الفصيحة للألفاظ الدارجة، مكتبة الملك عبد العزيز، الرياض، المملكة العربية السعودية، 1430 هـ.  \n"
+"- [#13]: *Al-Azhār al-nadiyah min ashʿār al-badiyah*, A collection of Bedouin poetry titled The Moist Flowers of Bedouin Poetry, 18 volumes, Al Ma'arif library, Tayef, Saudi Arabia. الأزهار النادية من أشعار البادية، مكتبة المعارف، الطائف، المملكة العربية السعودية.  \n"
+"- [#14]: *Min ādābinā al-shaʿbiyah fi al-ǧazīrah al-ʿarabiyah*, A collection of poetry by Mandeel al-Fuhaid, Our local literature of the Arabian Peninsula, 10 volumes, Riyadh, Saudi Arabia. منديل بن محمد الفهيد، من آدابنا الشعبية في الجزيرة العربية.  \n"
+"- [#15]: Al-Suwaydā, ʿAbd al-Raḥman, *Durar min al-shiʿr al-shaʿbī*, The Best of Folk Poetry, 3-volume poetry collection, Riyadh, Saudi Arabia, 1999. عبد الرحمن بن زيد السويداء، درر من الشعر الشعبي، الرياض، المملكة العربية السعودية، 1420 هـ.  \n"
+"- [#16]: Al-Hamdânîʼs *Geographie der Arabischen Halbinsel*, David Heinrich Müller, Leiden: E. J. Brill, 1884, p. 47.  \n"
+"- [#17]: Le Bon, Gustave, *La civilisation des Arabes*, Paris, Librairie de Firmin-Didot, 1884, livre premier, p. 1."
 msgstr ""
 "- [#1]: Ústní tradice  \n"
-"- [#2]: Al-Ajaji, Khalid, *Šarḥ Qaṣidat al-Qāḍī fi al-anwāʾ wal-nuǧūm*, "
-"Vysvětlení Kádího básně o anwāʾ a hvězdách, Rijád, Saúdská Arábie, 2013., "
-"خالد بن عبد الله العجاجي، شرح قصيدة القاضي في الأنواء والنجوم، الرياض، "
-"المملكة العربية السعودية، 1434 هـ.  \n"
-"- [#3]: Al-Ajaji, Khalid, *Šarḥ Maʾthūrāt al-Ḫalāwī al-falakiyah*, "
-"Vysvětlení astronomických básní al-Ḫalāwího, Rijád, Saúdská Arábie, 2018., "
-"خالد بن عبد الله العجاجي، شرح مأثورات الخلاوي الفلكية، الرياض، المملكة "
-"العربية السعودية، 1439 هـ.  \n"
-"- [#4]: Ibn Ḫamīs, ʿAbd Allah b. Muḥammad, *Rāshid al-Ḫalāwī*, Rijád, "
-"Saúdská Arábie, 2002., عبدالله بن محمد بن خميس ، راشد الخلاوي ، الرياض، "
-"المملكة العربية السعودية، 1423 هـ.  \n"
-"- [#5]: Al-Blādī, ʿAtiq b. Ġayth, *Al-adab al-šaʿbī fi al-ḥiǧāz*, Lidová "
-"literatura v Hidžázu, Dar Makkah, Mekka, Saúdská Arábie, 1982, عاتق بن غيث "
-"البلادي (ت 1431 ه)، الأدب الشعبي في الحجاز، دار مكة، مكة المكرمة، ط 2، 1402 "
-"هـ.  \n"
-"- [#6]: Al-Suwaydā, ʿAbd al-Raḥman, *Al-Amthāl al-šaʿbiyah al-sāʾirah fi "
-"manṭiqat Ḥāʾil*, Běžná lidová přísloví oblasti Há'il, Rijád, Saúdská Arábie, "
-"2007., عبد الرحمن بن زيد السويداء، الأمثال الشعبية السائرة في منطقة حائل، "
-"الرياض، المملكة العربية السعودية، 1428 هـ.  \n"
-"- [#7]: Al-Ḥatim, ʿAbd Allah Khalid, *Diwān ʿAbd Allah bin Ḥmūd al-Sbayel*, "
-"Básnická sbírka ʿAbd Allah b. Ḥmūd al-Sbayel, 1984, عبدالله الخالد الحاتم ، "
-"ديوان عبدالله بن حمود السبيِّل، 1404 هـ.  \n"
-"- [#8]: Al-Suwaydā, ʿAbd al-Raḥman, *Šuʿarāʾ al-ǧabal al-šaʿbiyūn*, Básníci "
-"hory, pětisvazková sbírka poezie, Rijád, Saúdská Arábie, 2013., عبد الرحمن "
-"بن زيد السويداء، شعراء الجبل الشعبيون، الرياض، المملكة العربية السعودية، "
-"1434 هـ.  \n"
-"- [#9]: Al-ʿAnsī, Yaḥyā, *Al-Maʿalim al-ziraʿiyah fi al-Yaman*, Zemědělské "
-"ukazatele v Jemenu, Jemen, 2010, يحيى العنسي، المعالم الزراعية في اليمن، "
-"اليمن، 1431 هـ.  \n"
-"- [#10]: Ibn Bišir, ʿUṯmān ibn ʿAbd Allah (zemřel 1873), *ʿInwān al-maǧd fi "
-"tarīḫ Naǧd*, Titul slávy o dějinách Nadždu (arabské kritické vydání Dr. "
-"Muḥammada ibn Nāṣira al-Šiṯrī), Rijád, Saúdská Arábie, 2012., ابن بشر، عثمان "
-"بن عبد الله بن بشر، عنوان المجد في تاريخ نجد، تحقيق الدكتور محمد بن ناصر "
-"الشثري، الرياض، المملكة العربية السعودية، 1433 هـ.  \n"
-"- [#11]: Al-ʿUbūdī, Moḥammad b. Nāṣir, *Al-Amthāl al-ʿāmiyah fi Naǧd*, "
-"Lidová přísloví v oblasti Nadžd, 4 svazky, Dar Al-Thulūthiyah, Rijád, "
-"Saúdská Arábie, 2010., محمد بن ناصر العبودي، الأمثال العامية في نجد، دار "
-"الثلوثية، الرياض، المملكة العربية السعودية، 1431 هـ.  \n"
-"- [#12]: Al-ʿUbūdī, Moḥammad b. Nāṣir, *Muʿǧam al-Uṣūl al-faṣīḥah lil-alfāẓ "
-"al-dariǧah*, Slovník klasických kořenů běžných dialektových slov, 13 svazků, "
-"King AbdulAzeez Library, Rijád, Saúdská Arábie, 2009., محمد بن ناصر العبودي، "
-"معجم الأصول الفصيحة للألفاظ الدارجة، مكتبة الملك عبد العزيز، الرياض، المملكة "
-"العربية السعودية، 1430 هـ.  \n"
-"- [#13]: *Al-Azhār al-nadiyah min ashʿār al-badiyah*, Sbírka beduínské "
-"poezie nazvaná Vlahé květy beduínské poezie, 18 svazků, knihovna Al Ma'arif, "
-"Tá'if, Saúdská Arábie. الأزهار النادية من أشعار البادية، مكتبة المعارف، "
-"الطائف، المملكة العربية السعودية.  \n"
-"- [#14]: *Min ādābinā al-shaʿbiyah fi al-ǧazīrah al-ʿarabiyah*, Sbírka "
-"poezie Mandeel al-Fuhaid, Naše lidová literatura Arabského poloostrova, 10 "
-"svazků, Rijád, Saúdská Arábie. منديل بن محمد الفهيد، من آدابنا الشعبية في "
-"الجزيرة العربية.  \n"
-"- [#15]: Al-Suwaydā, ʿAbd al-Raḥman, *Durar min al-shiʿr al-shaʿbī*, Perly "
-"lidové poezie, třísvazková sbírka poezie, Rijád, Saúdská Arábie, 1999. عبد "
-"الرحمن بن زيد السويداء، درر من الشعر الشعبي، الرياض، المملكة العربية "
-"السعودية، 1420 هـ.  \n"
-"- [#16]: Al-Hamdânîʼs *Geographie der Arabischen Halbinsel*, David Heinrich "
-"Müller, Leiden: E. J. Brill, 1884, s. 47.  \n"
-"- [#17]: Le Bon, Gustave, *La civilisation des Arabes*, Paříž, Librairie de "
-"Firmin-Didot, 1884, kniha první, s. 1."
+"- [#2]: Al-Ajaji, Khalid, *Šarḥ Qaṣidat al-Qāḍī fi al-anwāʾ wal-nuǧūm*, Vysvětlení básně al-Qāḍího o anwāʾ a hvězdách, Rijád, Saúdská Arábie, 2013., خالد بن عبد الله العجاجي، شرح قصيدة القاضي في الأنواء والنجوم، الرياض، المملكة العربية السعودية، 1434 هـ.  \n"
+"- [#3]: Al-Ajaji, Khalid, *Šarḥ Maʾthūrāt al-Ḫalāwī al-falakiyah*, Vysvětlení astronomických básní al-Ḫalāwího, Rijád, Saúdská Arábie, 2018., خالد بن عبد الله العجاجي، شرح مأثورات الخلاوي الفلكية، الرياض، المملكة العربية السعودية، 1439 هـ.  \n"
+"- [#4]: Ibn Ḫamīs, ʿAbd Allah b. Muḥammad, *Rāshid al-Ḫalāwī*, Rijád, Saúdská Arábie, 2002., عبدالله بن محمد بن خميس ، راشد الخلاوي ، الرياض، المملكة العربية السعودية، 1423 هـ.  \n"
+"- [#5]: Al-Blādī, ʿAtiq b. Ġayth, *Al-adab al-šaʿbī fi al-ḥiǧāz*, Lidová literatura v Hidžázu, Dar Makkah, Mekka, Saúdská Arábie, 1982, عاتق بن غيث البلادي (ت 1431 ه)، الأدب الشعبي في الحجاز، دار مكة، مكة المكرمة، ط 2، 1402 هـ.  \n"
+"- [#6]: Al-Suwaydā, ʿAbd al-Raḥman, *Al-Amthāl al-šaʿbiyah al-sāʾirah fi manṭiqat Ḥāʾil*, Místní běžná přísloví regionu Ḥāʾil, Rijád, Saúdská Arábie, 2007., عبد الرحمن بن زيد السويداء، الأمثال الشعبية السائرة في منطقة حائل، الرياض، المملكة العربية السعودية، 1428 هـ.  \n"
+"- [#7]: Al-Ḥatim, ʿAbd Allah Khalid, *Diwān ʿAbd Allah bin Ḥmūd al-Sbayel*, Básnická sbírka ʿAbd Alláha b. Ḥumúda al-Sbayela, 1984, عبدالله الخالد الحاتم ، ديوان عبدالله بن حمود السبيِّل، 1404 هـ.  \n"
+"- [#8]: Al-Suwaydā, ʿAbd al-Raḥman, *Šuʿarāʾ al-ǧabal al-šaʿbiyūn*, Básníci hory, pětisvazková básnická sbírka, Rijád, Saúdská Arábie, 2013., عبد الرحمن بن زيد السويداء، شعراء الجبل الشعبيون، الرياض، المملكة العربية السعودية، 1434 هـ.  \n"
+"- [#9]: Al-ʿAnsī, Yaḥyā, *Al-Maʿalim al-ziraʿiyah fi al-Yaman*, Zemědělské ukazatele v Jemenu, Jemen, 2010, يحيى العنسي، المعالم الزراعية في اليمن، اليمن، 1431 هـ.  \n"
+"- [#10]: Ibn Bišir, ʿUṯmān ibn ʿAbd Allah (died 1873), *ʿInwān al-maǧd fi tarīḫ Naǧd*, Titul slávy o dějinách Nadždu (arabská kritická edice dr. Muḥammada ibn Nāṣira aš-Šiṯrího), Rijád, Saúdská Arábie, 2012., ابن بشر، عثمان بن عبد الله بن بشر، عنوان المجد في تاريخ نجد، تحقيق الدكتور محمد بن ناصر الشثري، الرياض، المملكة العربية السعودية، 1433 هـ.  \n"
+"- [#11]: Al-ʿUbūdī, Moḥammad b. Nāṣir, *Al-Amthāl al-ʿāmiyah fi Naǧd*, Lidová přísloví v Nadždu, 4 svazky, Dar Al-Thulūthiyah, Rijád, Saúdská Arábie, 2010., محمد بن ناصر العبودي، الأمثال العامية في نجد، دار الثلوثية، الرياض، المملكة العربية السعودية، 1431 هـ.  \n"
+"- [#12]: Al-ʿUbūdī, Moḥammad b. Nāṣir, *Muʿǧam al-Uṣūl al-faṣīḥah lil-alfāẓ al-dariǧah*, Slovník klasických kořenů běžných dialektálních slov, 13 svazků, Knihovna krále Abdulazíze, Rijád, Saúdská Arábie, 2009., محمد بن ناصر العبودي، معجم الأصول الفصيحة للألفاظ الدارجة، مكتبة الملك عبد العزيز، الرياض، المملكة العربية السعودية، 1430 هـ.  \n"
+"- [#13]: *Al-Azhār al-nadiyah min ashʿār al-badiyah*, Sbírka beduínské poezie nazvaná Rosné květy beduínské poezie, 18 svazků, knihovna Al Ma'arif, Tá’if, Saúdská Arábie. الأزهار النادية من أشعار البادية، مكتبة المعارف، الطائف، المملكة العربية السعودية.  \n"
+"- [#14]: *Min ādābinā al-shaʿbiyah fi al-ǧazīrah al-ʿarabiyah*, Sbírka poezie od Mandeela al-Fuhaida, Naše lidová literatura Arabského poloostrova, 10 svazků, Rijád, Saúdská Arábie. منديل بن محمد الفهيد، من آدابنا الشعبية في الجزيرة العربية.  \n"
+"- [#15]: Al-Suwaydā, ʿAbd al-Raḥman, *Durar min al-shiʿr al-shaʿbī*, To nejlepší z lidové poezie, třísvazková básnická sbírka, Rijád, Saúdská Arábie, 1999. عبد الرحمن بن زيد السويداء، درر من الشعر الشعبي، الرياض، المملكة العربية السعودية، 1420 هـ.  \n"
+"- [#16]: Al-Hamdânîʼs *Geographie der Arabischen Halbinsel*, David Heinrich Müller, Leiden: E. J. Brill, 1884, s. 47.  \n"
+"- [#17]: Le Bon, Gustave, *La civilisation des Arabes*, Paris, Librairie de Firmin-Didot, 1884, první kniha, s. 1."
 
 #. Arabic (Arabian Peninsula) sky culture authors section in markdown format
 msgid "Khalid al-Ajaji, turath.alfalak@gmail.com."
 msgstr "Khalid al-Ajaji, turath.alfalak@gmail.com."
 
 #. Arabic (Arabian Peninsula) sky culture license section in markdown format
+# Translated by OpenAI, may be very wrong
 msgid ""
 "CC BY-ND 4.0\n"
 "\n"
-"Special permission is granted to Stellarium Labs to include the licensed "
-"material."
+"Special permission is granted to Stellarium Labs to include the licensed material."
 msgstr ""
 "CC BY-ND 4.0\n"
 "\n"
-"Společnosti Stellarium Labs bylo uděleno zvláštní povolení zahrnout "
-"licencovaný materiál."
+"Společnosti Stellarium Labs je uděleno zvláštní povolení k zahrnutí licencovaného materiálu."
 
 #. Arabic (Arabian Peninsula) constellation, native: الحويجزين, pronounce: al-
 #. Huwaiǧzain
+# Translated by OpenAI, may be very wrong
 msgid "The Two Guards"
 msgstr "Dva strážci"
 
 #. Arabic (Arabian Peninsula) constellation, native: الدخيلين, pronounce: al-
 #. Dikhīlain
+# Translated by OpenAI, may be very wrong
 msgid "The Two Refugees"
 msgstr "Dva uprchlíci"
 
 #. Arabic (Arabian Peninsula) constellation, native: آل أبا بزي, pronounce: Āl
 #. Aba Bzay
 #. Aba Bzay is a proper name
+# Translated by OpenAI, may be very wrong
 msgid "The Family Of Aba Bzay"
-msgstr "Rod Aba Bzay"
+msgstr "Rodina Aba Bzay"
 
 #. Arabic (Arabian Peninsula) constellation, native: النعايم, pronounce: al-
 #. Na'āyem
+# Translated by OpenAI, may be very wrong
 msgid "Al-Naayem"
-msgstr "Al-Na'ájem"
+msgstr "Al-Na'āyem"
 
 #. Arabic (Arabian Peninsula) constellation, native: السبَّع, pronounce: al-
 #. Sibba'
 msgid "The Seven"
-msgstr "Sedm"
+msgstr "Sedmička"
 
 #. Arabic (Arabian Peninsula) constellation, native: بنات نعش, pronounce:
 #. Banāt Na'sh
 msgid "Daughters Of Na'sh"
-msgstr "Dcery már"
+msgstr "Dcery Na'she"
 
 #. Arabic (Arabian Peninsula) constellation, native: الشداد, pronounce: al-
 #. Shdād
 msgid "Saddle Of The Camel"
-msgstr "Sedlo velblouda"
+msgstr "Sedlo Velblouda"
 
 #. Arabic (Arabian Peninsula) constellation, native: المغزل, pronounce: al-
 #. Mighzal
 msgid "The Wool Spindle"
-msgstr "Vřeteno na vlnu"
+msgstr "Vlněné vřeteno"
 
 #. Arabic (Arabian Peninsula) constellation, native: المقدم, pronounce: al-
 #. Mqaddam
 msgid "The Front"
-msgstr "Přední část"
+msgstr "Předek"
 
 #. Arabic (Arabian Peninsula) constellation, native: الموخر, pronounce: al-
 #. Mwakhkhar
 msgid "The Rear"
-msgstr "Záď"
+msgstr "Zadní část"
 
 #. Arabic (Arabian Peninsula) constellation, native: الرشا, pronounce: al-Rshā
+# Translated by OpenAI, may be very wrong
 msgid "The Bucket Cord"
 msgstr "Provaz vědra"
 
@@ -611,11 +525,12 @@ msgstr "Malé břicho"
 #. Thrayyā
 #. Al-Thurayya is a proper name
 msgid "Al-Thurayya"
-msgstr "As-Surajjá"
+msgstr "Al-Thurayya"
 
 #. Arabic (Arabian Peninsula) constellation, native: التويبع, pronounce: al-
 #. Twaibi'
 #. Arabic (Arabian Peninsula) name for HIP 21421, native: التويبع
+# Translated by OpenAI, may be very wrong
 msgid "The Little Follower"
 msgstr "Malý následovník"
 
@@ -653,7 +568,7 @@ msgstr "Hvězda změny počasí"
 #. Arabic (Arabian Peninsula) constellation, native: العوا, pronounce:
 #. al-'Awwā
 msgid "The Bend"
-msgstr "Ohyb"
+msgstr "Záhyb"
 
 #. Arabic (Arabian Peninsula) constellation, native: السماك الأعزل, pronounce:
 #. al-Smak al-'Azal
@@ -664,12 +579,12 @@ msgstr "Vysoký neozbrojený"
 #. Arabic (Arabian Peninsula) constellation, native: الغفر, pronounce: al-
 #. Ghafr
 msgid "The Cover"
-msgstr "Pokrývka"
+msgstr "Kryt"
 
 #. Arabic (Arabian Peninsula) constellation, native: الزبانى, pronounce: al-
 #. Zubānā
 msgid "Claws Of The Scorpion"
-msgstr "Klepeta Štíra"
+msgstr "Klepeta štíra"
 
 #. Arabic (Arabian Peninsula) constellation, native: الإكليل, pronounce: al-
 #. Iklīl
@@ -685,7 +600,7 @@ msgstr "Srdce"
 #. Shawlah
 #. Arabic (Arabian Peninsula) name for HIP 85927, native: الشولة
 msgid "Raised Tail Of The Scorpion"
-msgstr "Vztyčený ocas Štíra"
+msgstr "Zvednutý Ocas Štíra"
 
 #. Arabic (Arabian Peninsula) constellation, native: العقرب, pronounce:
 #. al-'Aqrab
@@ -710,7 +625,7 @@ msgstr "Šťastná hvězda řezníka"
 #. Arabic (Arabian Peninsula) constellation, native: سعد بلع, pronounce: Sa'd
 #. Bula'
 msgid "The Lucky Star Of The Swallower"
-msgstr "Šťastná hvězda Polykatele"
+msgstr "Šťastná hvězda polykače"
 
 #. Arabic (Arabian Peninsula) constellation, native: سعد السعود, pronounce:
 #. Sa'd al-Su'ūd
@@ -730,7 +645,7 @@ msgstr "Kruhová značka"
 #. Arabic (Arabian Peninsula) constellation, native: الهنعة, pronounce: al-
 #. Han'ah
 msgid "The Downward Bend"
-msgstr "Ohyb dolů"
+msgstr "Ohyb směrem dolů"
 
 #. Arabic (Arabian Peninsula) constellation, native: زوابن الجوزا, pronounce:
 #. Zawābin al-Jawzā
@@ -746,7 +661,7 @@ msgstr "Drápy Al-Jawzy"
 #. Arabic (Arabian Peninsula) constellation, native: الزبَّن, pronounce: al-
 #. Zibban
 msgid "The Claws"
-msgstr "Klepeta"
+msgstr "Drápy"
 
 #. Arabic (Arabian Peninsula) constellation, native: ظهر الجوزا, pronounce:
 #. Zhahr al-Jawzā
@@ -764,15 +679,17 @@ msgstr "Mešita Al-Thurayya"
 #. Jawzā
 #. Al-Jawza is a proper name
 msgid "Al-Jawza"
-msgstr "Al-Džauzá"
+msgstr "Al-Jawza"
 
 #. Arabic (Arabian Peninsula) name for HIP 677, native: الموخر 2
+# Translated by OpenAI, may be very wrong
 msgid "The Rear 2"
-msgstr "Záď 2"
+msgstr "Zadní 2"
 
 #. Arabic (Arabian Peninsula) name for HIP 1067, native: الموخر 1
+# Translated by OpenAI, may be very wrong
 msgid "The Rear 1"
-msgstr "Zadní část 1"
+msgstr "Zadní 1"
 
 #. Arabic (Arabian Peninsula) name for HIP 7588, native: محلف
 msgid "The Oath Star"
@@ -790,17 +707,18 @@ msgstr "Al-Miss.hil"
 
 #. Arabic (Arabian Peninsula) name for HIP 7588, native: السهلي
 #. Al-S.hali is a proper name
+# Translated by OpenAI, may be very wrong
 msgid "Al-S.hali"
 msgstr "Al-S.hali"
 
 #. Arabic (Arabian Peninsula) name for HIP 11767, native: الجدي
 #. The Kid is the little he-goat
 msgid "The Kid"
-msgstr "Kozlík"
+msgstr "Mládě"
 
 #. Arabic (Arabian Peninsula) name for HIP 21421, native: التويلي
 msgid "The Latter"
-msgstr "Ten druhý"
+msgstr "Pozdější"
 
 #. Arabic (Arabian Peninsula) name for HIP 21421, native: المجيدح
 #. Al-Mjaidih is a proper name
@@ -810,12 +728,12 @@ msgstr "Al-Mjaidih"
 #. Arabic (Arabian Peninsula) name for HIP 24436, native: قرن الجوزا الجنوبي
 #. Al-Jawza is a proper name
 msgid "Southern Horn Of Al-Jawza"
-msgstr "Jižní roh Al-Jawzy"
+msgstr "Jižní roh Al-Jawza"
 
 #. Arabic (Arabian Peninsula) name for HIP 24436, native: زابن الجوزا الجنوبي
 #. Al-Jawza is a proper name
 msgid "Southern Claw Of Al-Jawza"
-msgstr "Jižní dráp al-Džauzy"
+msgstr "Jižní dráp Al-Džawzy"
 
 #. Arabic (Arabian Peninsula) name for HIP 24608, native: المباري
 msgid "The Parallel One"
@@ -827,12 +745,12 @@ msgstr "Boční"
 
 #. Arabic (Arabian Peninsula) name for HIP 27366, native: رجل الجوزا
 msgid "Leg Of Al-Jawza"
-msgstr "Noha Al-Jawza"
+msgstr "Noha Al-Jawzy"
 
 #. Arabic (Arabian Peninsula) name for HIP 27989, native: قرن الجوزا الشمالي
 #. Al-Jawza is a proper name
 msgid "Northern Horn Of Al-Jawza"
-msgstr "Severní roh Al-Jawzy"
+msgstr "Severní roh Al-Jawza"
 
 #. Arabic (Arabian Peninsula) name for HIP 27989, native: زابن الجوزا الشمالي
 #. Al-Jawza is a proper name
@@ -856,27 +774,27 @@ msgstr "Al-Shi'la"
 
 #. Arabic (Arabian Peninsula) name for HIP 34088, native: الاظفار 5
 msgid "The Claws 5"
-msgstr "Drápy 5"
+msgstr "Pařáty 5"
 
 #. Arabic (Arabian Peninsula) name for HIP 35350, native: الاظفار 6
 msgid "The Claws 6"
-msgstr "Drápy 6"
+msgstr "Pařáty 6"
 
 #. Arabic (Arabian Peninsula) name for HIP 35550, native: الاظفار 4
 msgid "The Claws 4"
-msgstr "Drápy 4"
+msgstr "Pařáty 4"
 
 #. Arabic (Arabian Peninsula) name for HIP 36046, native: الاظفار 1
 msgid "The Claws 1"
-msgstr "Drápy 1"
+msgstr "Klepeta 1"
 
 #. Arabic (Arabian Peninsula) name for HIP 36962, native: الاظفار 2
 msgid "The Claws 2"
-msgstr "Drápy 2"
+msgstr "Klepeta 2"
 
 #. Arabic (Arabian Peninsula) name for HIP 37740, native: الاظفار 3
 msgid "The Claws 3"
-msgstr "Drápy 3"
+msgstr "Pařáty 3"
 
 #. Arabic (Arabian Peninsula) name for HIP 53910, native: الخلج 2
 #. Al-Khilj is a proper name
@@ -886,9 +804,10 @@ msgstr "Al-Khilj 2"
 #. Arabic (Arabian Peninsula) name for HIP 53910, native: الخلج الاولات 2
 #. Al-Khilj is a proper name
 msgid "The first Khilj 2"
-msgstr "První Khilj 2"
+msgstr "Druhý Khilj 2"
 
 #. Arabic (Arabian Peninsula) name for HIP 53910, native: الاولتين 2
+# Translated by OpenAI, may be very wrong
 msgid "The first two 2"
 msgstr "První dvě 2"
 
@@ -903,8 +822,9 @@ msgid "The first Khilj 1"
 msgstr "První Khilj 1"
 
 #. Arabic (Arabian Peninsula) name for HIP 54061, native: الاولتين 1
+# Translated by OpenAI, may be very wrong
 msgid "The first two 1"
-msgstr "První dva 1"
+msgstr "První ze dvou 1"
 
 #. Arabic (Arabian Peninsula) name for HIP 58001, native: الخلج التوالي 1
 #. Al-Khilj is a proper name
@@ -913,12 +833,12 @@ msgstr "Pozdější Khilj 1"
 
 #. Arabic (Arabian Peninsula) name for HIP 58001, native: الربّع 1
 msgid "The fourth ones 1"
-msgstr "Čtvrté 1"
+msgstr "Čtvrtí 1"
 
 #. Arabic (Arabian Peninsula) name for HIP 59774, native: الخلج التوالي 2
 #. Al-Khilj is a proper name
 msgid "The Latter Khilj 2"
-msgstr "Následující al-Khilj 2"
+msgstr "Pozdější Khilj 2"
 
 #. Arabic (Arabian Peninsula) name for HIP 59774, native: الربّع 2
 msgid "The fourth ones 2"
@@ -926,15 +846,15 @@ msgstr "Čtvrtí 2"
 
 #. Arabic (Arabian Peninsula) name for HIP 62956, native: الخامس
 msgid "The Fifth"
-msgstr "Pátý"
+msgstr "Pátá"
 
 #. Arabic (Arabian Peninsula) name for HIP 65378, native: السات
 msgid "The Sixth"
-msgstr "Šestý"
+msgstr "Šestá"
 
 #. Arabic (Arabian Peninsula) name for HIP 67301, native: السويبع
 msgid "The Seventh"
-msgstr "Sedmý"
+msgstr "Sedmá"
 
 #. Arabic (Arabian Peninsula) name for HIP 68702, native: النعايم 1
 msgid "al-Naayem 1"
@@ -942,11 +862,11 @@ msgstr "al-Naayem 1"
 
 #. Arabic (Arabian Peninsula) name for HIP 69673, native: الرقيب
 msgid "The Watcher"
-msgstr "Strážce"
+msgstr "Hlídač"
 
 #. Arabic (Arabian Peninsula) name for HIP 69673, native: الاحيمر
 msgid "The Reddish One"
-msgstr "Načervenalý"
+msgstr "Ten načervenalý"
 
 #. Arabic (Arabian Peninsula) name for HIP 71683, native: النعايم 2
 msgid "al-Naayem 2"
@@ -974,15 +894,15 @@ msgstr "Dva uprchlíci 2"
 
 #. Arabic (Arabian Peninsula) name for HIP 75097, native: آل أبا بزي 2
 msgid "Al aba bzay 2"
-msgstr "Ál Abá Bzaj 2"
+msgstr "Al aba Bzay 2"
 
 #. Arabic (Arabian Peninsula) name for HIP 91262, native: النسر المكتف
 msgid "The Closed Wings Eagle"
-msgstr "Orel se složenými křídly"
+msgstr "Orel se zavřenými křídly"
 
 #. Arabic (Arabian Peninsula) name for HIP 97649, native: النسر الباسط
 msgid "The Spread Wings Eagle"
-msgstr "Orel s rozepjatými křídly"
+msgstr "Orel s roztaženými křídly"
 
 #. Arabic (Arabian Peninsula) name for HIP 97649, native: الكانون
 #. Al-Kanoon is a proper name
@@ -990,31 +910,37 @@ msgid "Al-Kanoon"
 msgstr "Al-Kanoon"
 
 #. Arabic (Arabian Peninsula) name for HIP 113881, native: المقدم 2
+# Translated by OpenAI, may be very wrong
 msgid "The Front 2"
 msgstr "Přední 2"
 
 #. Arabic (Arabian Peninsula) name for HIP 113963, native: المقدم 1
+# Translated by OpenAI, may be very wrong
 msgid "The Front 1"
-msgstr "Přední část 1"
+msgstr "Přední 1"
 
 #. Arabic (Arabian Peninsula) name for M 45, native: الثريا
 #. al-Thurayya is a proper name
+# Translated by OpenAI, may be very wrong
 msgid "al-Thurayya"
-msgstr "al-Thurayya"
+msgstr "as-Surajjá"
 
 #. Arabic (Arabian Peninsula) name for NAME Venus, native: نجمة االعشا
+# Translated by OpenAI, may be very wrong
 msgid "Evening Star"
 msgstr "Večernice"
 
 #. Arabic (Arabian Peninsula) name for NAME Venus, native: نجمة الصبح
 msgid "Morning Star"
-msgstr "Jitřenka"
+msgstr "Ranní hvězda"
 
 #. Arabic (Arabian Peninsula) name for NAME Venus, native: الجغمة
+# Translated by OpenAI, may be very wrong
 msgid "The Sip"
 msgstr "Doušek"
 
 #. Arabic (Arabian Peninsula) name for NAME Venus, native: نجمة الهودان
 #. Al-Hawdan is a proper name
+# Translated by OpenAI, may be very wrong
 msgid "The Star Of Al-Hawdan"
-msgstr "Al-Hawdanova hvězda"
+msgstr "Hvězda Al-Hawdana"
