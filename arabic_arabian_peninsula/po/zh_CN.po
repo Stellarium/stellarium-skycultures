@@ -11,7 +11,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
 "Last-Translator: Cat Astro, 2025\n"
 "Language-Team: Chinese (China) (https://app.transifex.com/stellarium/teams/80998/zh_CN/)\n"
@@ -20,6 +20,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.3\n"
 
 #. Arabic (Arabian Peninsula) sky culture name
 msgid "Arabic (Arabian Peninsula)"
@@ -27,22 +30,22 @@ msgstr "阿拉伯（阿拉伯半岛）"
 
 #. Arabic (Arabian Peninsula) sky culture introduction section in markdown
 #. format
-msgid ""
-"The Arabic (Arabian Peninsula) sky culture reflects the oral folk tradition "
-"of star names and asterisms in the Arabian Peninsula, primarily found "
-"scattered in poetry and proverbs."
+msgid "The Arabic (Arabian Peninsula) sky culture reflects the oral folk tradition of star names and asterisms in the Arabian Peninsula, primarily found scattered in poetry and proverbs."
 msgstr "阿拉伯（半岛）星空文化折射出该地区星辰命名与星群划分的口头民间传统，这些知识主要散见于诗歌与谚语之中。"
 
 #. Arabic (Arabian Peninsula) sky culture description section in markdown
 #. format
 msgid ""
-"The Arabian Peninsula is a region covering the southwestern corner of Asia, bordered by the Gulf of Aden and Arabian Sea to the south, the Gulf of Oman and the Arabian/Persian Gulf to the east, and the Red Sea to the west. The northern border is not precisely defined, but according to ancient geographers, it is bordered by rivers, notably the Euphrates River [#16] [#17]. This region is inhabited by Arabs and includes Jordan, Saudi Arabia, Kuwait, Bahrain, Qatar, United Arab Emirates, Oman, Yemen, and parts of Syria and Iraq.\n"
+"The Arabian Peninsula is a region covering the southwestern corner of Asia, bordered by the Gulf of Aden and Arabian Sea to the south, the Gulf of Oman and the Arabian/Persian Gulf to the east, and the Red Sea to the west. The northern border is not precisely defined, but according to ancient geographers, it is bordered by rivers, notably the Euphrates River [#16] [#17]. This region is inhabited by Arabs and includes Jordan, Saudi Arabia, Kuwait, "
+"Bahrain, Qatar, United Arab Emirates, Oman, Yemen, and parts of Syria and Iraq.\n"
 "\n"
 "<p><img width=\"300\" src=\"illustrations/arabian_peninsula.jpg\" /></p>\n"
 "\n"
-"Bedouins and farmers across the Arabian Peninsula relied heavily on stars to time their nomadic journeys, care for animals, forecast weather, and conduct agricultural activities. Stars are frequently mentioned in their proverbs and poetry. Fortunately, oral poetry and proverbs have been documented and preserved by various scholars. Surveying the collections of these scholars alongside oral traditions reveals the star knowledge of the people in this region.\n"
+"Bedouins and farmers across the Arabian Peninsula relied heavily on stars to time their nomadic journeys, care for animals, forecast weather, and conduct agricultural activities. Stars are frequently mentioned in their proverbs and poetry. Fortunately, oral poetry and proverbs have been documented and preserved by various scholars. Surveying the collections of these scholars alongside oral traditions reveals the star knowledge of the people in this "
+"region.\n"
 "\n"
-"The stars used for timing are the same as those of ancient Arabs, but the system is simplified by beginning the year with the heliacal rising of al-Thurayyā, the Pleiades, at the start of summer, then counting 13 days for each lunar station, except al-Ǧabhah, which has 14 days. This results in a 27 lunar stations × 13 days + 14 days (al-Ǧabhah) = 365-day cycle. Other timing methods were also used, such as the monthly Pleiades-Moon conjunction or using stars like those of the Big Dipper.\n"
+"The stars used for timing are the same as those of ancient Arabs, but the system is simplified by beginning the year with the heliacal rising of al-Thurayyā, the Pleiades, at the start of summer, then counting 13 days for each lunar station, except al-Ǧabhah, which has 14 days. This results in a 27 lunar stations × 13 days + 14 days (al-Ǧabhah) = 365-day cycle. Other timing methods were also used, such as the monthly Pleiades-Moon conjunction or using "
+"stars like those of the Big Dipper.\n"
 "\n"
 "The sources indicate that star names and asterisms are fewer compared to those of ancient Arabs. Only the brightest stars and prominent asterisms were named and used. An important source of continuing star knowledge is the poetry of al-Ḫalāwī, a poet whose era is uncertain but estimated to be in the 17th century [#3]. Another key source is a poem by Moḥammad al-Qāḍī (~1809–1886), in which he described all 28 lunar stations, citing their local names [#2]."
 msgstr ""
@@ -57,22 +60,11 @@ msgstr ""
 "文献显示，当地使用的星名与星群数量远少于古阿拉伯人，仅对最明亮的恒星和显著星群进行命名运用。诗人哈拉维（生卒年不详，推测为17世纪[#3]）的诗歌是星象知识传承的重要载体。另一关键文献是穆罕默德·卡迪（约1809–1886年）的诗作，其中详细记载了28个月亮站的当地名称[#2]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Two Guards
-msgid ""
-"The Two Guards are the stars β Ursae Minoris and γ Ursae Minoris, "
-"traditionally used in desert navigation. Their name comes from an old legend"
-" in which al-Jady (Polaris) kills the father of the Seven "
-"Sisters—represented by the stars of the Big Dipper—who then carry their "
-"father’s bier and circle al-Jady, vowing revenge. Seeking protection from "
-"their wrath, al-Jady turned to these two nearby stars, which became known as"
-" the “Two Guards.” [#1]."
-msgstr ""
-"“双卫”指小熊座的β星（帝星）和γ星（太子星），传统上用于沙漠导航。其名称源于一个古老传说：焦岱（北极星）杀害了七姐妹（由北斗七星代表）的父亲，七姐妹于是抬着父亲的棺椁环绕焦岱，誓要复仇。焦岱为躲避七姐妹的怒火，求助于附近这两颗星，它们因此得名“双卫”[#1]。"
+msgid "The Two Guards are the stars β Ursae Minoris and γ Ursae Minoris, traditionally used in desert navigation. Their name comes from an old legend in which al-Jady (Polaris) kills the father of the Seven Sisters—represented by the stars of the Big Dipper—who then carry their father’s bier and circle al-Jady, vowing revenge. Seeking protection from their wrath, al-Jady turned to these two nearby stars, which became known as the “Two Guards.” [#1]."
+msgstr "“双卫”指小熊座的β星（帝星）和γ星（太子星），传统上用于沙漠导航。其名称源于一个古老传说：焦岱（北极星）杀害了七姐妹（由北斗七星代表）的父亲，七姐妹于是抬着父亲的棺椁环绕焦岱，誓要复仇。焦岱为躲避七姐妹的怒火，求助于附近这两颗星，它们因此得名“双卫”[#1]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Two Refugees
-msgid ""
-"Another name for the two stars β Ursae Minoris and γ Ursae Minoris. "
-"According to a different version of the legend, these stars are the killers "
-"who fled to al-Jady for protection [#1]."
+msgid "Another name for the two stars β Ursae Minoris and γ Ursae Minoris. According to a different version of the legend, these stars are the killers who fled to al-Jady for protection [#1]."
 msgstr "这是小熊座β星与γ星的另一个名称。根据传说的另一个版本，这两颗星是逃到焦岱处寻求庇护的杀手[#1]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Family Of Aba
@@ -81,9 +73,7 @@ msgid "Yet another name for the two-star asterism β UMi and γ UMi [#1]."
 msgstr "这又是对小熊座β星与γ星这个双星组合的另一个称呼[#1]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation Al-Naayem
-msgid ""
-"The meaning is uncertain; it could refer to camels. Composed of the seven "
-"stars of the Big Dipper [#1]."
+msgid "The meaning is uncertain; it could refer to camels. Composed of the seven stars of the Big Dipper [#1]."
 msgstr "含义不确定，可能指骆驼。由北斗七星的七颗星组成[#1]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Seven
@@ -91,24 +81,16 @@ msgid "The seven stars of the Big Dipper [#1]."
 msgstr "指北斗七星[#1]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation Daughters Of Na'sh
-msgid ""
-"The seven stars of the Big Dipper, known as the seven sisters carrying their"
-" father's bier, the father killed by al-Ǧady (Polaris) [#1]."
+msgid "The seven stars of the Big Dipper, known as the seven sisters carrying their father's bier, the father killed by al-Ǧady (Polaris) [#1]."
 msgstr "指北斗七星，传说中是七姐妹抬着被焦岱（北极星）杀害的父亲的棺椁[#1]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation Saddle Of The Camel
-msgid ""
-"The five bright stars of Cassiopeia, a name used in western areas along the "
-"Red Sea in Saudi Arabia [#1]."
+msgid "The five bright stars of Cassiopeia, a name used in western areas along the Red Sea in Saudi Arabia [#1]."
 msgstr "指仙后座的五颗亮星，此名称用于沙特阿拉伯红海沿岸西部地区[#1]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Wool Spindle
-msgid ""
-"The cross-shaped arrangement of α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr),"
-" δ Cyg, and β1+β2 Cyg (Albireo). This comes from oral tradition in Zulfi, "
-"central Saudi Arabia [#1]."
-msgstr ""
-"指由天鹅座α（天津四）、ε（辇道增七）、γ（天津一）、δ及β1+β2（辇道增一）组成的十字形结构。此名称来自沙特阿拉伯中部祖尔菲地区的口述传统[#1]。"
+msgid "The cross-shaped arrangement of α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr), δ Cyg, and β1+β2 Cyg (Albireo). This comes from oral tradition in Zulfi, central Saudi Arabia [#1]."
+msgstr "指由天鹅座α（天津四）、ε（辇道增七）、γ（天津一）、δ及β1+β2（辇道增一）组成的十字形结构。此名称来自沙特阿拉伯中部祖尔菲地区的口述传统[#1]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Front
 msgid "The front mouth of the bucket (24th mansion of the Moon) [#2]."
@@ -119,9 +101,7 @@ msgid "The rear mouth of the bucket (25th mansion of the Moon) [#2]."
 msgstr "指水桶的后口（月球第25宿）[#2]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Bucket Cord
-msgid ""
-"The rope used to pull the bucket from the well (26th mansion of the Moon) "
-"[#2]."
+msgid "The rope used to pull the bucket from the well (26th mansion of the Moon) [#2]."
 msgstr "指用于从井中提桶的绳子（月球第26宿）[#2]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Two Marks
@@ -141,22 +121,15 @@ msgid "Star Aldebran (2nd mansion of the Moon) [#2]."
 msgstr "指毕宿五（月球第2宿）[#2]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Arm
-msgid ""
-"The two stars of Canis Minor, considered the arm of the lion (5th mansion of"
-" the Moon) [#2]."
+msgid "The two stars of Canis Minor, considered the arm of the lion (5th mansion of the Moon) [#2]."
 msgstr "指小犬座的两颗星，被视为狮子的前臂（月球第5宿）[#2]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Two Little Dogs
-msgid ""
-"An asterism of stars δ CMa and ε CMa. Their heliacal rising marks timing "
-"(coinciding with the 6th mansion of the Moon). The name is common in central"
-" Arabia [#2] [#3]."
+msgid "An asterism of stars δ CMa and ε CMa. Their heliacal rising marks timing (coinciding with the 6th mansion of the Moon). The name is common in central Arabia [#2] [#3]."
 msgstr "指大犬座δ星和ε星组成的星群。它们的偕日升用于计时（对应月球第6宿）。此名称在阿拉伯半岛中部常见[#2][#3]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Nostrils
-msgid ""
-"M 44 and two adjacent stars represent the nose tip of the Arab lion (6th "
-"mansion of the Moon) [#2]."
+msgid "M 44 and two adjacent stars represent the nose tip of the Arab lion (6th mansion of the Moon) [#2]."
 msgstr "指M44（蜂巢星团）及邻近两颗星，代表阿拉伯狮子的鼻尖（月球第6宿）[#2]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Eyes
@@ -177,9 +150,7 @@ msgid "(10th mansion of the Moon) [#2]."
 msgstr "（月球第10宿）[#2]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Bend
-msgid ""
-"An arc of five stars. The Arabic \"al-ʿAwwā\" may also mean “the Howlers,” "
-"dogs barking at the lion (11th mansion of the Moon) [#2]."
+msgid "An arc of five stars. The Arabic \"al-ʿAwwā\" may also mean “the Howlers,” dogs barking at the lion (11th mansion of the Moon) [#2]."
 msgstr "指五颗星组成的弧线。阿拉伯语“al-ʿAwwā”亦可意为“吠犬”，即对着狮子吠叫的狗（月球第11宿）[#2]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The High Unarmed
@@ -197,9 +168,7 @@ msgid "The two bright stars of Libra (14th mansion of the Moon) [#2]."
 msgstr "指天秤座的两颗亮星（月球第14宿）[#2]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Diadem
-msgid ""
-"An arc of three stars on the forehead of Scorpius (15th mansion of the Moon)"
-" [#2]."
+msgid "An arc of three stars on the forehead of Scorpius (15th mansion of the Moon) [#2]."
 msgstr "指天蝎座额部三颗星组成的弧线（月球第15宿）[#2]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Heart
@@ -216,52 +185,35 @@ msgid "Represents the scorpion figure [#2]."
 msgstr "代表天蝎形象[#2]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Empty Place
-msgid ""
-"An area with no bright stars in Sagittarius (19th mansion of the Moon) [#2]."
+msgid "An area with no bright stars in Sagittarius (19th mansion of the Moon) [#2]."
 msgstr "指人马座中一个没有亮星的区域（月球第19宿）[#2]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Ostriches
-msgid ""
-"Four stars in the Milky Way representing ostriches drinking at a river and "
-"another four away from the Milky Way representing ostriches returning. A "
-"ninth star between and above the two groups is included. All are located in "
-"Sagittarius (18th mansion of the Moon) [#2]."
-msgstr ""
-"指银河中的四颗星，代表在河边饮水的鸵鸟，另有四颗星在银河之外，代表归来的鸵鸟。两组星之间上方还有第九颗星。它们均位于人马座（月球第18宿）[#2]。"
+msgid "Four stars in the Milky Way representing ostriches drinking at a river and another four away from the Milky Way representing ostriches returning. A ninth star between and above the two groups is included. All are located in Sagittarius (18th mansion of the Moon) [#2]."
+msgstr "指银河中的四颗星，代表在河边饮水的鸵鸟，另有四颗星在银河之外，代表归来的鸵鸟。两组星之间上方还有第九颗星。它们均位于人马座（月球第18宿）[#2]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Lucky Star Of
 #. The Slaughterer
-msgid ""
-"An ancient Arab asterism depicting a man slaughtering a sheep (20th mansion "
-"of the Moon) [#2]."
+msgid "An ancient Arab asterism depicting a man slaughtering a sheep (20th mansion of the Moon) [#2]."
 msgstr "一个古老的阿拉伯星群，描绘一人宰羊的场景（月球第20宿）[#2]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Lucky Star Of
 #. The Swallower
-msgid ""
-"An ancient Arab asterism representing a man swallowing a bite (21st mansion "
-"of the Moon) [#2]."
+msgid "An ancient Arab asterism representing a man swallowing a bite (21st mansion of the Moon) [#2]."
 msgstr "一个古老的阿拉伯星群，代表一人吞咽食物的场景（月球第21宿）[#2]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Luckiest Of The
 #. Lucky Stars
-msgid ""
-"An ancient Arab asterism of three stars that rise in the morning in spring "
-"(22nd mansion of the Moon) [#2]."
+msgid "An ancient Arab asterism of three stars that rise in the morning in spring (22nd mansion of the Moon) [#2]."
 msgstr "一个由三颗星组成的古老阿拉伯星群，于春季早晨升起（月球第22宿）[#2]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Lucky Star Of
 #. The Tents
-msgid ""
-"An ancient Arab asterism consisting of a triangle of three stars with a "
-"fourth star inside, symbolizing a man inside a tent (23rd mansion of the "
-"Moon) [#2]."
+msgid "An ancient Arab asterism consisting of a triangle of three stars with a fourth star inside, symbolizing a man inside a tent (23rd mansion of the Moon) [#2]."
 msgstr "一个古老的阿拉伯星群，由三颗星组成的三角形及其内部第四颗星构成，象征帐中之人（月球第23宿）[#2]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Circular Mark
-msgid ""
-"An ancient Arab asterism of a small triangle of stars (head of Orion) "
-"representing a mark on the side of a horse (3rd mansion of the Moon) [#2]."
+msgid "An ancient Arab asterism of a small triangle of stars (head of Orion) representing a mark on the side of a horse (3rd mansion of the Moon) [#2]."
 msgstr "一个古老的阿拉伯星群，指猎户座头部数颗星组成的小三角形，代表马身侧的标记（月球第3宿）[#2]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Downward Bend
@@ -269,39 +221,24 @@ msgid "An ancient Arab asterism (4th mansion of the Moon) [#2]."
 msgstr "一个古老的阿拉伯星群（月球第4宿）[#2]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation Claws Of Al-Jawza
-msgid ""
-"Refers to stars α, γ, β, and κ Ori, transmitted orally from the Qasseem "
-"region of Saudi Arabia [#1]."
+msgid "Refers to stars α, γ, β, and κ Ori, transmitted orally from the Qasseem region of Saudi Arabia [#1]."
 msgstr "指猎户座α、γ、β、κ星，流传自沙特阿拉伯卡西姆地区的口述传统[#1]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation The Claws
-msgid ""
-"Another name for the α, γ, β, and κ Ori stars, also from Qasseem, Saudi "
-"Arabia [#1]."
+msgid "Another name for the α, γ, β, and κ Ori stars, also from Qasseem, Saudi Arabia [#1]."
 msgstr "猎户座α、γ、β、κ星的另一名称，同样来自沙特阿拉伯卡西姆地区[#1]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation Back Of Al-Jawza
-msgid ""
-"The three stars at Orion’s belt. This name, along with Northern Horn of al-"
-"Jawza and Southern Horn of al-Jawza star names, originates from western "
-"Saudi Arabia and is used by Red Sea fishers. The source is oral tradition "
-"from the seaport Umluj, Saudi Arabia [#1]."
-msgstr ""
-"指猎户座腰带的三颗星。此名称，连同“焦岱北角”、“焦岱南角”等星名，源于沙特阿拉伯西部，为红海渔民所用。来源是沙特阿拉伯海港乌姆卢季的口述传统[#1]。"
+msgid "The three stars at Orion’s belt. This name, along with Northern Horn of al-Jawza and Southern Horn of al-Jawza star names, originates from western Saudi Arabia and is used by Red Sea fishers. The source is oral tradition from the seaport Umluj, Saudi Arabia [#1]."
+msgstr "指猎户座腰带的三颗星。此名称，连同“焦岱北角”、“焦岱南角”等星名，源于沙特阿拉伯西部，为红海渔民所用。来源是沙特阿拉伯海港乌姆卢季的口述传统[#1]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation Mosque Of Al-
 #. Thurayya
-msgid ""
-"A triangle of stars that rise before al-Thurayya (the Pleiades). It includes"
-" α Ari, α Tri, and β Tri. The name comes from oral tradition in Wadi al-"
-"Dawasir, southwestern Saudi Arabia [#1]."
+msgid "A triangle of stars that rise before al-Thurayya (the Pleiades). It includes α Ari, α Tri, and β Tri. The name comes from oral tradition in Wadi al-Dawasir, southwestern Saudi Arabia [#1]."
 msgstr "指在苏拉娅（昴星团）之前升起的一个三角形星群，包括白羊座α星、三角座α星和β星。此名称来自沙特阿拉伯西南部瓦迪达瓦西尔的口述传统[#1]。"
 
 #. Description of Arabic (Arabian Peninsula) constellation Al-Jawza
-msgid ""
-"A proper name for a woman; this constellation represents a female figure "
-"formed by the Orion stars, identical to the ancient Arab tradition. Some "
-"oral traditions limit the name to the three stars of Orion’s belt [#2][#3]."
+msgid "A proper name for a woman; this constellation represents a female figure formed by the Orion stars, identical to the ancient Arab tradition. Some oral traditions limit the name to the three stars of Orion’s belt [#2][#3]."
 msgstr "一个女性人名；该星座代表由猎户座诸星构成的女性形象，与古阿拉伯传统一致。一些口述传统将此名称仅限于猎户座腰带的三颗星[#2][#3]。"
 
 #. Arabic (Arabian Peninsula) sky culture references section in markdown
@@ -344,12 +281,10 @@ msgstr ""
 "- [#17]: Le Bon, Gustave, *La civilisation des Arabes*, Paris, Librairie de Firmin-Didot, 1884, livre premier, p. 1."
 
 #. Arabic (Arabian Peninsula) sky culture authors section in markdown format
-# Translated by OpenAI, may be very wrong
 msgid "Khalid al-Ajaji, turath.alfalak@gmail.com."
 msgstr "Khalid al-Ajaji, turath.alfalak@gmail.com."
 
 #. Arabic (Arabian Peninsula) sky culture license section in markdown format
-# Translated by OpenAI, may be very wrong
 msgid ""
 "CC BY-ND 4.0\n"
 "\n"
@@ -357,32 +292,28 @@ msgid ""
 msgstr ""
 "CC BY-ND 4.0\n"
 "\n"
-"特此授予 Stellarium Labs 特别许可，以收录该授权材料。"
+"向 Stellarium Labs 授予特殊许可以包含许可材料。"
 
 #. Arabic (Arabian Peninsula) constellation, native: الحويجزين, pronounce: al-
 #. Huwaiǧzain
-# Translated by OpenAI, may be very wrong
 msgid "The Two Guards"
-msgstr "两位守卫"
+msgstr "两个卫兵"
 
 #. Arabic (Arabian Peninsula) constellation, native: الدخيلين, pronounce: al-
 #. Dikhīlain
-# Translated by OpenAI, may be very wrong
 msgid "The Two Refugees"
-msgstr "两位难民"
+msgstr "两个难民"
 
 #. Arabic (Arabian Peninsula) constellation, native: آل أبا بزي, pronounce: Āl
 #. Aba Bzay
 #. Aba Bzay is a proper name
-# Translated by OpenAI, may be very wrong
 msgid "The Family Of Aba Bzay"
-msgstr "Aba Bzay家族"
+msgstr "Aba Bzay一家"
 
 #. Arabic (Arabian Peninsula) constellation, native: النعايم, pronounce: al-
 #. Na'āyem
-# Translated by OpenAI, may be very wrong
 msgid "Al-Naayem"
-msgstr "阿勒-纳伊姆"
+msgstr "Al-Naayem"
 
 #. Arabic (Arabian Peninsula) constellation, native: السبَّع, pronounce: al-
 #. Sibba'
@@ -611,7 +542,6 @@ msgstr "Al-Miss.hil"
 
 #. Arabic (Arabian Peninsula) name for HIP 7588, native: السهلي
 #. Al-S.hali is a proper name
-# Translated by OpenAI, may be very wrong
 msgid "Al-S.hali"
 msgstr "Al-S.hali"
 
@@ -821,12 +751,10 @@ msgstr "前面1"
 
 #. Arabic (Arabian Peninsula) name for M 45, native: الثريا
 #. al-Thurayya is a proper name
-# Translated by OpenAI, may be very wrong
 msgid "al-Thurayya"
 msgstr "al-Thurayya"
 
 #. Arabic (Arabian Peninsula) name for NAME Venus, native: نجمة االعشا
-# Translated by OpenAI, may be very wrong
 msgid "Evening Star"
 msgstr "昏星"
 
@@ -835,12 +763,10 @@ msgid "Morning Star"
 msgstr "晨星"
 
 #. Arabic (Arabian Peninsula) name for NAME Venus, native: الجغمة
-# Translated by OpenAI, may be very wrong
 msgid "The Sip"
-msgstr "一啜"
+msgstr "The Sip"
 
 #. Arabic (Arabian Peninsula) name for NAME Venus, native: نجمة الهودان
 #. Al-Hawdan is a proper name
-# Translated by OpenAI, may be very wrong
 msgid "The Star Of Al-Hawdan"
-msgstr "豪丹之星"
+msgstr "Al-Hawdan之星"

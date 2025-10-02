@@ -14,7 +14,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
 "Last-Translator: Georg Zotti <Georg.Zotti@univie.ac.at>, 2025\n"
 "Language-Team: German (https://app.transifex.com/stellarium/teams/80998/de/)\n"
@@ -23,6 +23,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.3\n"
 
 #. Arabic (Arabian Peninsula) sky culture name
 msgid "Arabic (Arabian Peninsula)"
@@ -30,21 +33,15 @@ msgstr "Arabisch (Arabische Halbinsel)"
 
 #. Arabic (Arabian Peninsula) sky culture introduction section in markdown
 #. format
-msgid ""
-"The Arabic (Arabian Peninsula) sky culture reflects the oral folk tradition "
-"of star names and asterisms in the Arabian Peninsula, primarily found "
-"scattered in poetry and proverbs."
-msgstr ""
-"Die arabische (Arabische Halbinsel) Himmelskultur spiegelt die mündliche "
-"Volkstradition von Sternnamen und Asterismen auf der Arabischen Halbinsel "
-"wider, die hauptsächlich in Gedichten und Sprichwörtern verstreut zu finden "
-"ist."
+msgid "The Arabic (Arabian Peninsula) sky culture reflects the oral folk tradition of star names and asterisms in the Arabian Peninsula, primarily found scattered in poetry and proverbs."
+msgstr "Die arabische (Arabische Halbinsel) Himmelskultur spiegelt die mündliche Volkstradition von Sternnamen und Asterismen auf der Arabischen Halbinsel wider, die hauptsächlich in Gedichten und Sprichwörtern verstreut zu finden ist."
 
+# Translated by OpenAI, may be very wrong
 #. Arabic (Arabian Peninsula) sky culture description section in markdown
 #. format
-# Translated by OpenAI, may be very wrong
 msgid ""
-"The Arabian Peninsula is a region covering the southwestern corner of Asia, bordered by the Gulf of Aden and Arabian Sea to the south, the Gulf of Oman and the Arabian/Persian Gulf to the east, and the Red Sea to the west. The northern border is not precisely defined, but according to ancient geographers, it is bordered by rivers, notably the Euphrates River [#16] [#17]. This region is inhabited by Arabs and includes Jordan, Saudi Arabia, Kuwait, Bahrain, Qatar, United Arab Emirates, Oman, Yemen, and parts of Syria and Iraq.\n"
+"The Arabian Peninsula is a region covering the southwestern corner of Asia, bordered by the Gulf of Aden and Arabian Sea to the south, the Gulf of Oman and the Arabian/Persian Gulf to the east, and the Red Sea to the west. The northern border is not precisely defined, but according to ancient geographers, it is bordered by rivers, notably the Euphrates River [#16] [#17]. This region is inhabited by Arabs and includes Jordan, Saudi Arabia, Kuwait, Bahrain, Qatar, United Arab Emirates, Oman, Yemen, and parts of Syria and "
+"Iraq.\n"
 "\n"
 "<p><img width=\"300\" src=\"illustrations/arabian_peninsula.jpg\" /></p>\n"
 "\n"
@@ -54,374 +51,247 @@ msgid ""
 "\n"
 "The sources indicate that star names and asterisms are fewer compared to those of ancient Arabs. Only the brightest stars and prominent asterisms were named and used. An important source of continuing star knowledge is the poetry of al-Ḫalāwī, a poet whose era is uncertain but estimated to be in the 17th century [#3]. Another key source is a poem by Moḥammad al-Qāḍī (~1809–1886), in which he described all 28 lunar stations, citing their local names [#2]."
 msgstr ""
-"Die Arabische Halbinsel ist eine Region, die die südwestliche Ecke Asiens einnimmt und im Süden vom Golf von Aden und dem Arabischen Meer, im Osten vom Golf von Oman und dem Arabischen/Persischen Golf sowie im Westen vom Roten Meer begrenzt wird. Die nördliche Grenze ist nicht genau definiert, doch nach Ansicht antiker Geographen wird sie von Flüssen gebildet, insbesondere vom Euphrat [#16] [#17]. Diese Region ist von Arabern bewohnt und umfasst Jordanien, Saudi-Arabien, Kuwait, Bahrain, Katar, die Vereinigten Arabischen Emirate, Oman, Jemen sowie Teile Syriens und des Irak.\n"
+"Die Arabische Halbinsel ist eine Region, die die südwestliche Ecke Asiens einnimmt und im Süden vom Golf von Aden und dem Arabischen Meer, im Osten vom Golf von Oman und dem Arabischen/Persischen Golf sowie im Westen vom Roten Meer begrenzt wird. Die nördliche Grenze ist nicht genau definiert, doch nach Ansicht antiker Geographen wird sie von Flüssen gebildet, insbesondere vom Euphrat [#16] [#17]. Diese Region ist von Arabern bewohnt und umfasst Jordanien, Saudi-Arabien, Kuwait, Bahrain, Katar, die Vereinigten Arabischen "
+"Emirate, Oman, Jemen sowie Teile Syriens und des Irak.\n"
 "\n"
 "<p><img width=\"300\" src=\"illustrations/arabian_peninsula.jpg\" /></p>\n"
 "\n"
-"Beduinen und Bauern auf der gesamten Arabischen Halbinsel stützten sich stark auf die Sterne, um ihre nomadischen Wanderzüge zeitlich zu planen, das Vieh zu versorgen, das Wetter vorherzusagen und landwirtschaftlichen Tätigkeiten nachzugehen. Sterne werden in ihren Sprichwörtern und in der Dichtung häufig erwähnt. Glücklicherweise wurden mündliche Dichtung und Sprichwörter von verschiedenen Gelehrten dokumentiert und bewahrt. Die Durchsicht der Sammlungen dieser Gelehrten zusammen mit den mündlichen Überlieferungen offenbart das Sternwissen der Menschen in dieser Region.\n"
+"Beduinen und Bauern auf der gesamten Arabischen Halbinsel stützten sich stark auf die Sterne, um ihre nomadischen Wanderzüge zeitlich zu planen, das Vieh zu versorgen, das Wetter vorherzusagen und landwirtschaftlichen Tätigkeiten nachzugehen. Sterne werden in ihren Sprichwörtern und in der Dichtung häufig erwähnt. Glücklicherweise wurden mündliche Dichtung und Sprichwörter von verschiedenen Gelehrten dokumentiert und bewahrt. Die Durchsicht der Sammlungen dieser Gelehrten zusammen mit den mündlichen Überlieferungen "
+"offenbart das Sternwissen der Menschen in dieser Region.\n"
 "\n"
-"Die zur Zeitbestimmung verwendeten Sterne sind dieselben wie bei den alten Arabern, jedoch wird das System vereinfacht, indem das Jahr mit dem heliakischen Aufgang von al-Thurayyā, den Plejaden, zu Beginn des Sommers beginnt; anschließend werden für jede Mondstation 13 Tage gezählt, mit Ausnahme von al-Ǧabhah, die 14 Tage umfasst. Das ergibt einen 27-Mondstationen × 13 Tage + 14 Tage (al-Ǧabhah) = 365-Tage-Zyklus. Es wurden auch andere Methoden der Zeitbestimmung verwendet, etwa die monatliche Plejaden-Mond-Konjunktion oder die Nutzung von Sternen wie denen des Großen Wagens.\n"
+"Die zur Zeitbestimmung verwendeten Sterne sind dieselben wie bei den alten Arabern, jedoch wird das System vereinfacht, indem das Jahr mit dem heliakischen Aufgang von al-Thurayyā, den Plejaden, zu Beginn des Sommers beginnt; anschließend werden für jede Mondstation 13 Tage gezählt, mit Ausnahme von al-Ǧabhah, die 14 Tage umfasst. Das ergibt einen 27-Mondstationen × 13 Tage + 14 Tage (al-Ǧabhah) = 365-Tage-Zyklus. Es wurden auch andere Methoden der Zeitbestimmung verwendet, etwa die monatliche Plejaden-Mond-Konjunktion "
+"oder die Nutzung von Sternen wie denen des Großen Wagens.\n"
 "\n"
 "Die Quellen deuten darauf hin, dass es im Vergleich zu den alten Arabern weniger Sternnamen und Asterismen gibt. Benannt und genutzt wurden nur die hellsten Sterne und auffälligen Asterismen. Eine wichtige Quelle fortbestehenden Sternwissens ist die Dichtung von al-Ḫalāwī, einem Dichter, dessen Epoche unsicher ist, jedoch auf das 17. Jahrhundert geschätzt wird [#3]. Eine weitere zentrale Quelle ist ein Gedicht von Moḥammad al-Qāḍī (~1809–1886), in dem er alle 28 Mondstationen beschreibt und ihre lokalen Namen angibt [#2]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation The Two Guards
-# Translated by OpenAI, may be very wrong
-msgid ""
-"The Two Guards are the stars β Ursae Minoris and γ Ursae Minoris, "
-"traditionally used in desert navigation. Their name comes from an old legend"
-" in which al-Jady (Polaris) kills the father of the Seven "
-"Sisters—represented by the stars of the Big Dipper—who then carry their "
-"father’s bier and circle al-Jady, vowing revenge. Seeking protection from "
-"their wrath, al-Jady turned to these two nearby stars, which became known as"
-" the “Two Guards.” [#1]."
-msgstr ""
-"Die Zwei Wächter sind die Sterne β Ursae Minoris und γ Ursae Minoris, die "
-"traditionell zur Wüstennavigation genutzt werden. Ihr Name geht auf eine "
-"alte Legende zurück, in der al-Jady (Polaris) den Vater der Sieben "
-"Schwestern—repräsentiert durch die Sterne des Großen Wagens—tötet; diese "
-"tragen daraufhin die Bahre ihres Vaters und umkreisen al-Jady, wobei sie "
-"Rache schwören. Um sich vor ihrem Zorn zu schützen, wandte sich al-Jady an "
-"diese beiden nahegelegenen Sterne, die als die „Zwei Wächter“ bekannt "
-"wurden. [#1]."
+msgid "The Two Guards are the stars β Ursae Minoris and γ Ursae Minoris, traditionally used in desert navigation. Their name comes from an old legend in which al-Jady (Polaris) kills the father of the Seven Sisters—represented by the stars of the Big Dipper—who then carry their father’s bier and circle al-Jady, vowing revenge. Seeking protection from their wrath, al-Jady turned to these two nearby stars, which became known as the “Two Guards.” [#1]."
+msgstr "Die Zwei Wächter sind die Sterne β Ursae Minoris und γ Ursae Minoris, die traditionell zur Wüstennavigation genutzt werden. Ihr Name geht auf eine alte Legende zurück, in der al-Jady (Polaris) den Vater der Sieben Schwestern—repräsentiert durch die Sterne des Großen Wagens—tötet; diese tragen daraufhin die Bahre ihres Vaters und umkreisen al-Jady, wobei sie Rache schwören. Um sich vor ihrem Zorn zu schützen, wandte sich al-Jady an diese beiden nahegelegenen Sterne, die als die „Zwei Wächter“ bekannt wurden. [#1]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation The Two Refugees
-# Translated by OpenAI, may be very wrong
-msgid ""
-"Another name for the two stars β Ursae Minoris and γ Ursae Minoris. "
-"According to a different version of the legend, these stars are the killers "
-"who fled to al-Jady for protection [#1]."
-msgstr ""
-"Ein weiterer Name für die beiden Sterne β Ursae Minoris und γ Ursae Minoris."
-" Nach einer anderen Version der Legende gelten diese Sterne als die Mörder, "
-"die zu al-Jady flohen, um Schutz zu suchen [#1]."
+msgid "Another name for the two stars β Ursae Minoris and γ Ursae Minoris. According to a different version of the legend, these stars are the killers who fled to al-Jady for protection [#1]."
+msgstr "Ein weiterer Name für die beiden Sterne β Ursae Minoris und γ Ursae Minoris. Nach einer anderen Version der Legende gelten diese Sterne als die Mörder, die zu al-Jady flohen, um Schutz zu suchen [#1]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation The Family Of Aba
 #. Bzay
-# Translated by OpenAI, may be very wrong
 msgid "Yet another name for the two-star asterism β UMi and γ UMi [#1]."
-msgstr ""
-"Noch ein weiterer Name für den Zweistern-Asterismus aus β UMi und γ UMi "
-"[#1]."
+msgstr "Noch ein weiterer Name für den Zweistern-Asterismus aus β UMi und γ UMi [#1]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation Al-Naayem
-# Translated by OpenAI, may be very wrong
-msgid ""
-"The meaning is uncertain; it could refer to camels. Composed of the seven "
-"stars of the Big Dipper [#1]."
-msgstr ""
-"Die Bedeutung ist unsicher; sie könnte sich auf Kamele beziehen. Besteht aus"
-" den sieben Sternen des Großen Wagens [#1]."
+msgid "The meaning is uncertain; it could refer to camels. Composed of the seven stars of the Big Dipper [#1]."
+msgstr "Die Bedeutung ist unsicher; sie könnte sich auf Kamele beziehen. Besteht aus den sieben Sternen des Großen Wagens [#1]."
 
-#. Description of Arabic (Arabian Peninsula) constellation The Seven
 # Translated by OpenAI, may be very wrong
+#. Description of Arabic (Arabian Peninsula) constellation The Seven
 msgid "The seven stars of the Big Dipper [#1]."
 msgstr "Die sieben Sterne des Großen Wagens [#1]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation Daughters Of Na'sh
-# Translated by OpenAI, may be very wrong
-msgid ""
-"The seven stars of the Big Dipper, known as the seven sisters carrying their"
-" father's bier, the father killed by al-Ǧady (Polaris) [#1]."
-msgstr ""
-"Die sieben Sterne des Großen Wagens, bekannt als die sieben Schwestern, die "
-"die Bahre ihres Vaters tragen, der von al-Ǧady (Polaris) [#1] getötet wurde."
+msgid "The seven stars of the Big Dipper, known as the seven sisters carrying their father's bier, the father killed by al-Ǧady (Polaris) [#1]."
+msgstr "Die sieben Sterne des Großen Wagens, bekannt als die sieben Schwestern, die die Bahre ihres Vaters tragen, der von al-Ǧady (Polaris) [#1] getötet wurde."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation Saddle Of The Camel
-# Translated by OpenAI, may be very wrong
-msgid ""
-"The five bright stars of Cassiopeia, a name used in western areas along the "
-"Red Sea in Saudi Arabia [#1]."
-msgstr ""
-"Die fünf hellen Sterne der Kassiopeia, ein Name, der in westlichen Regionen "
-"am Roten Meer in Saudi-Arabien verwendet wird [#1]."
+msgid "The five bright stars of Cassiopeia, a name used in western areas along the Red Sea in Saudi Arabia [#1]."
+msgstr "Die fünf hellen Sterne der Kassiopeia, ein Name, der in westlichen Regionen am Roten Meer in Saudi-Arabien verwendet wird [#1]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation The Wool Spindle
-# Translated by OpenAI, may be very wrong
-msgid ""
-"The cross-shaped arrangement of α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr),"
-" δ Cyg, and β1+β2 Cyg (Albireo). This comes from oral tradition in Zulfi, "
-"central Saudi Arabia [#1]."
-msgstr ""
-"Die kreuzförmige Anordnung von α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr), "
-"δ Cyg und β1+β2 Cyg (Albireo). Dies stammt aus der mündlichen Überlieferung "
-"in Zulfi im zentralen Saudi-Arabien [#1]."
+msgid "The cross-shaped arrangement of α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr), δ Cyg, and β1+β2 Cyg (Albireo). This comes from oral tradition in Zulfi, central Saudi Arabia [#1]."
+msgstr "Die kreuzförmige Anordnung von α Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr), δ Cyg und β1+β2 Cyg (Albireo). Dies stammt aus der mündlichen Überlieferung in Zulfi im zentralen Saudi-Arabien [#1]."
 
-#. Description of Arabic (Arabian Peninsula) constellation The Front
 # Translated by OpenAI, may be very wrong
+#. Description of Arabic (Arabian Peninsula) constellation The Front
 msgid "The front mouth of the bucket (24th mansion of the Moon) [#2]."
 msgstr "Die vordere Öffnung des Eimers (24. Mondhaus) [#2]."
 
-#. Description of Arabic (Arabian Peninsula) constellation The Rear
 # Translated by OpenAI, may be very wrong
+#. Description of Arabic (Arabian Peninsula) constellation The Rear
 msgid "The rear mouth of the bucket (25th mansion of the Moon) [#2]."
 msgstr "Die hintere Öffnung des Eimers (25. Mondhaus) [#2]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation The Bucket Cord
-# Translated by OpenAI, may be very wrong
-msgid ""
-"The rope used to pull the bucket from the well (26th mansion of the Moon) "
-"[#2]."
-msgstr ""
-"Das zum Heraufziehen des Eimers aus dem Brunnen verwendete Seil (26. "
-"Mondstation) [#2]."
+msgid "The rope used to pull the bucket from the well (26th mansion of the Moon) [#2]."
+msgstr "Das zum Heraufziehen des Eimers aus dem Brunnen verwendete Seil (26. Mondstation) [#2]."
 
-#. Description of Arabic (Arabian Peninsula) constellation The Two Marks
 # Translated by OpenAI, may be very wrong
+#. Description of Arabic (Arabian Peninsula) constellation The Two Marks
 msgid "Stars α Ari and β Ari (27th mansion of the Moon) [#2]."
 msgstr "Sterne α Ari und β Ari (27. Mondstation) [#2]."
 
-#. Description of Arabic (Arabian Peninsula) constellation The Little Abdomen
 # Translated by OpenAI, may be very wrong
+#. Description of Arabic (Arabian Peninsula) constellation The Little Abdomen
 msgid "The little abdomen of al-Ḥamal (28th mansion of the Moon) [#2]."
 msgstr "Der kleine Bauch von al-Ḥamal (28. Mondstation) [#2]."
 
-#. Description of Arabic (Arabian Peninsula) constellation Al-Thurayya
 # Translated by OpenAI, may be very wrong
+#. Description of Arabic (Arabian Peninsula) constellation Al-Thurayya
 msgid "Proper name of the Pleiades (1st mansion of the Moon) [#3]."
 msgstr "Eigenname der Plejaden (1. Mondstation) [#3]."
 
-#. Description of Arabic (Arabian Peninsula) constellation The Little Follower
 # Translated by OpenAI, may be very wrong
+#. Description of Arabic (Arabian Peninsula) constellation The Little Follower
 msgid "Star Aldebran (2nd mansion of the Moon) [#2]."
 msgstr "Stern Aldebaran (2. Mondhaus) [#2]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation The Arm
-# Translated by OpenAI, may be very wrong
-msgid ""
-"The two stars of Canis Minor, considered the arm of the lion (5th mansion of"
-" the Moon) [#2]."
-msgstr ""
-"Die beiden Sterne des Kleinen Hundes, die als Arm des Löwen gelten (5. "
-"Mondstation) [#2]."
+msgid "The two stars of Canis Minor, considered the arm of the lion (5th mansion of the Moon) [#2]."
+msgstr "Die beiden Sterne des Kleinen Hundes, die als Arm des Löwen gelten (5. Mondstation) [#2]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation The Two Little Dogs
-# Translated by OpenAI, may be very wrong
-msgid ""
-"An asterism of stars δ CMa and ε CMa. Their heliacal rising marks timing "
-"(coinciding with the 6th mansion of the Moon). The name is common in central"
-" Arabia [#2] [#3]."
-msgstr ""
-"Ein Asterismus aus den Sternen δ CMa und ε CMa. Ihr heliakischer Aufgang "
-"dient der Zeitbestimmung (fällt mit der 6. Mondstation des Mondes zusammen)."
-" Der Name ist in Zentralarabien gebräuchlich [#2] [#3]."
+msgid "An asterism of stars δ CMa and ε CMa. Their heliacal rising marks timing (coinciding with the 6th mansion of the Moon). The name is common in central Arabia [#2] [#3]."
+msgstr "Ein Asterismus aus den Sternen δ CMa und ε CMa. Ihr heliakischer Aufgang dient der Zeitbestimmung (fällt mit der 6. Mondstation des Mondes zusammen). Der Name ist in Zentralarabien gebräuchlich [#2] [#3]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation The Nostrils
-# Translated by OpenAI, may be very wrong
-msgid ""
-"M 44 and two adjacent stars represent the nose tip of the Arab lion (6th "
-"mansion of the Moon) [#2]."
-msgstr ""
-"M 44 und zwei benachbarte Sterne bilden die Nasenspitze des arabischen Löwen"
-" (6. Mondstation) [#2]."
+msgid "M 44 and two adjacent stars represent the nose tip of the Arab lion (6th mansion of the Moon) [#2]."
+msgstr "M 44 und zwei benachbarte Sterne bilden die Nasenspitze des arabischen Löwen (6. Mondstation) [#2]."
 
-#. Description of Arabic (Arabian Peninsula) constellation The Eyes
 # Translated by OpenAI, may be very wrong
+#. Description of Arabic (Arabian Peninsula) constellation The Eyes
 msgid "The eyes of the lion (7th mansion of the Moon) [#2]."
 msgstr "Die Augen des Löwen (7. Mondstation des Mondes) [#2]."
 
-#. Description of Arabic (Arabian Peninsula) constellation The Forehead
 # Translated by OpenAI, may be very wrong
+#. Description of Arabic (Arabian Peninsula) constellation The Forehead
 msgid "The forehead of the lion (8th mansion of the Moon) [#2]."
 msgstr "Die Stirn des Löwen (8. Mondhaus) [#2]."
 
-#. Description of Arabic (Arabian Peninsula) constellation The Mane
 # Translated by OpenAI, may be very wrong
+#. Description of Arabic (Arabian Peninsula) constellation The Mane
 msgid "The mane of the lion (9th mansion of the Moon) [#2]."
 msgstr "Die Mähne des Löwen (9. Mondstation) [#2]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation Star Of Weather
 #. Change
-# Translated by OpenAI, may be very wrong
 msgid "(10th mansion of the Moon) [#2]."
 msgstr "(10. Mondhaus) [#2]."
 
-#. Description of Arabic (Arabian Peninsula) constellation The Bend
 # Translated by OpenAI, may be very wrong
-msgid ""
-"An arc of five stars. The Arabic \"al-ʿAwwā\" may also mean “the Howlers,” "
-"dogs barking at the lion (11th mansion of the Moon) [#2]."
-msgstr ""
-"Ein Bogen aus fünf Sternen. Das arabische „al-ʿAwwā“ kann auch „die "
-"Heulenden“ bedeuten, Hunde, die den Löwen anbellen (11. Mondstation) [#2]."
+#. Description of Arabic (Arabian Peninsula) constellation The Bend
+msgid "An arc of five stars. The Arabic \"al-ʿAwwā\" may also mean “the Howlers,” dogs barking at the lion (11th mansion of the Moon) [#2]."
+msgstr "Ein Bogen aus fünf Sternen. Das arabische „al-ʿAwwā“ kann auch „die Heulenden“ bedeuten, Hunde, die den Löwen anbellen (11. Mondstation) [#2]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation The High Unarmed
 #. One
-# Translated by OpenAI, may be very wrong
 msgid "(12th mansion of the Moon) [#2]."
 msgstr "(12. Mondstation) [#2]."
 
-#. Description of Arabic (Arabian Peninsula) constellation The Cover
 # Translated by OpenAI, may be very wrong
+#. Description of Arabic (Arabian Peninsula) constellation The Cover
 msgid "A three-star asterism (13th mansion of the Moon) [#2]."
 msgstr "Ein Asterismus aus drei Sternen (13. Mondstation des Mondes) [#2]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation Claws Of The
 #. Scorpion
-# Translated by OpenAI, may be very wrong
 msgid "The two bright stars of Libra (14th mansion of the Moon) [#2]."
 msgstr "Die beiden hellen Sterne der Waage (14. Mondstation) [#2]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation The Diadem
-# Translated by OpenAI, may be very wrong
-msgid ""
-"An arc of three stars on the forehead of Scorpius (15th mansion of the Moon)"
-" [#2]."
-msgstr ""
-"Ein Bogen aus drei Sternen auf der Stirn des Skorpions (15. Mondstation) "
-"[#2]."
+msgid "An arc of three stars on the forehead of Scorpius (15th mansion of the Moon) [#2]."
+msgstr "Ein Bogen aus drei Sternen auf der Stirn des Skorpions (15. Mondstation) [#2]."
 
-#. Description of Arabic (Arabian Peninsula) constellation The Heart
 # Translated by OpenAI, may be very wrong
+#. Description of Arabic (Arabian Peninsula) constellation The Heart
 msgid "(16th mansion of the Moon) [#1]."
 msgstr "(16. Mondstation) [#1]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation Raised Tail Of The
 #. Scorpion
-# Translated by OpenAI, may be very wrong
 msgid "The sting of Scorpius (17th mansion of the Moon) [#2]."
 msgstr "Der Stachel des Skorpions (17. Mondstation des Mondes) [#2]."
 
-#. Description of Arabic (Arabian Peninsula) constellation The Scorpion
 # Translated by OpenAI, may be very wrong
+#. Description of Arabic (Arabian Peninsula) constellation The Scorpion
 msgid "Represents the scorpion figure [#2]."
 msgstr "Stellt die Gestalt des Skorpions dar [#2]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation The Empty Place
-# Translated by OpenAI, may be very wrong
-msgid ""
-"An area with no bright stars in Sagittarius (19th mansion of the Moon) [#2]."
-msgstr ""
-"Ein Gebiet ohne helle Sterne im Sternbild Schütze (19. Mondhaus) [#2]."
+msgid "An area with no bright stars in Sagittarius (19th mansion of the Moon) [#2]."
+msgstr "Ein Gebiet ohne helle Sterne im Sternbild Schütze (19. Mondhaus) [#2]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation The Ostriches
-# Translated by OpenAI, may be very wrong
-msgid ""
-"Four stars in the Milky Way representing ostriches drinking at a river and "
-"another four away from the Milky Way representing ostriches returning. A "
-"ninth star between and above the two groups is included. All are located in "
-"Sagittarius (18th mansion of the Moon) [#2]."
-msgstr ""
-"Vier Sterne im Band der Milchstraße stellen Strauße dar, die aus einem Fluss"
-" trinken, und weitere vier außerhalb des Bandes der Milchstraße stellen "
-"zurückkehrende Strauße dar. Ein neunter Stern zwischen und oberhalb der "
-"beiden Gruppen gehört dazu. Alle liegen im Schützen (18. Mondstation) [#2]."
+msgid "Four stars in the Milky Way representing ostriches drinking at a river and another four away from the Milky Way representing ostriches returning. A ninth star between and above the two groups is included. All are located in Sagittarius (18th mansion of the Moon) [#2]."
+msgstr "Vier Sterne im Band der Milchstraße stellen Strauße dar, die aus einem Fluss trinken, und weitere vier außerhalb des Bandes der Milchstraße stellen zurückkehrende Strauße dar. Ein neunter Stern zwischen und oberhalb der beiden Gruppen gehört dazu. Alle liegen im Schützen (18. Mondstation) [#2]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation The Lucky Star Of
 #. The Slaughterer
-# Translated by OpenAI, may be very wrong
-msgid ""
-"An ancient Arab asterism depicting a man slaughtering a sheep (20th mansion "
-"of the Moon) [#2]."
-msgstr ""
-"Ein antiker arabischer Asterismus, der einen Mann darstellt, der ein Schaf "
-"schlachtet (20. Mondhaus) [#2]."
+msgid "An ancient Arab asterism depicting a man slaughtering a sheep (20th mansion of the Moon) [#2]."
+msgstr "Ein antiker arabischer Asterismus, der einen Mann darstellt, der ein Schaf schlachtet (20. Mondhaus) [#2]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation The Lucky Star Of
 #. The Swallower
-# Translated by OpenAI, may be very wrong
-msgid ""
-"An ancient Arab asterism representing a man swallowing a bite (21st mansion "
-"of the Moon) [#2]."
-msgstr ""
-"Ein antiker arabischer Asterismus, der einen Mann darstellt, der einen "
-"Bissen verschluckt (21. Mondhaus) [#2]."
+msgid "An ancient Arab asterism representing a man swallowing a bite (21st mansion of the Moon) [#2]."
+msgstr "Ein antiker arabischer Asterismus, der einen Mann darstellt, der einen Bissen verschluckt (21. Mondhaus) [#2]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation The Luckiest Of The
 #. Lucky Stars
-# Translated by OpenAI, may be very wrong
-msgid ""
-"An ancient Arab asterism of three stars that rise in the morning in spring "
-"(22nd mansion of the Moon) [#2]."
-msgstr ""
-"Ein antiker arabischer Asterismus aus drei Sternen, die im Frühling am "
-"Morgen aufgehen (22. Mondstation) [#2]."
+msgid "An ancient Arab asterism of three stars that rise in the morning in spring (22nd mansion of the Moon) [#2]."
+msgstr "Ein antiker arabischer Asterismus aus drei Sternen, die im Frühling am Morgen aufgehen (22. Mondstation) [#2]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation The Lucky Star Of
 #. The Tents
-# Translated by OpenAI, may be very wrong
-msgid ""
-"An ancient Arab asterism consisting of a triangle of three stars with a "
-"fourth star inside, symbolizing a man inside a tent (23rd mansion of the "
-"Moon) [#2]."
-msgstr ""
-"Ein alter arabischer Asterismus, der aus einem Dreieck aus drei Sternen mit "
-"einem vierten Stern im Inneren besteht und einen Mann in einem Zelt "
-"symbolisiert (23. Mondstation) [#2]."
+msgid "An ancient Arab asterism consisting of a triangle of three stars with a fourth star inside, symbolizing a man inside a tent (23rd mansion of the Moon) [#2]."
+msgstr "Ein alter arabischer Asterismus, der aus einem Dreieck aus drei Sternen mit einem vierten Stern im Inneren besteht und einen Mann in einem Zelt symbolisiert (23. Mondstation) [#2]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation The Circular Mark
-# Translated by OpenAI, may be very wrong
-msgid ""
-"An ancient Arab asterism of a small triangle of stars (head of Orion) "
-"representing a mark on the side of a horse (3rd mansion of the Moon) [#2]."
-msgstr ""
-"Ein antiker arabischer Asterismus aus einem kleinen Dreieck aus Sternen "
-"(Kopf des Orion), der eine Markierung an der Flanke eines Pferdes darstellt "
-"(3. Mondstation) [#2]."
+msgid "An ancient Arab asterism of a small triangle of stars (head of Orion) representing a mark on the side of a horse (3rd mansion of the Moon) [#2]."
+msgstr "Ein antiker arabischer Asterismus aus einem kleinen Dreieck aus Sternen (Kopf des Orion), der eine Markierung an der Flanke eines Pferdes darstellt (3. Mondstation) [#2]."
 
-#. Description of Arabic (Arabian Peninsula) constellation The Downward Bend
 # Translated by OpenAI, may be very wrong
+#. Description of Arabic (Arabian Peninsula) constellation The Downward Bend
 msgid "An ancient Arab asterism (4th mansion of the Moon) [#2]."
 msgstr "Ein alter arabischer Asterismus (4. Mondstation) [#2]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation Claws Of Al-Jawza
-# Translated by OpenAI, may be very wrong
-msgid ""
-"Refers to stars α, γ, β, and κ Ori, transmitted orally from the Qasseem "
-"region of Saudi Arabia [#1]."
-msgstr ""
-"Bezieht sich auf die Sterne α, γ, β und κ Ori, die mündlich aus der Region "
-"Qasseem in Saudi-Arabien überliefert wurden [#1]."
+msgid "Refers to stars α, γ, β, and κ Ori, transmitted orally from the Qasseem region of Saudi Arabia [#1]."
+msgstr "Bezieht sich auf die Sterne α, γ, β und κ Ori, die mündlich aus der Region Qasseem in Saudi-Arabien überliefert wurden [#1]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation The Claws
-# Translated by OpenAI, may be very wrong
-msgid ""
-"Another name for the α, γ, β, and κ Ori stars, also from Qasseem, Saudi "
-"Arabia [#1]."
-msgstr ""
-"Ein weiterer Name für die Sterne α, γ, β und κ Ori, ebenfalls aus Qasseem, "
-"Saudi-Arabien [#1]."
+msgid "Another name for the α, γ, β, and κ Ori stars, also from Qasseem, Saudi Arabia [#1]."
+msgstr "Ein weiterer Name für die Sterne α, γ, β und κ Ori, ebenfalls aus Qasseem, Saudi-Arabien [#1]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation Back Of Al-Jawza
-# Translated by OpenAI, may be very wrong
-msgid ""
-"The three stars at Orion’s belt. This name, along with Northern Horn of al-"
-"Jawza and Southern Horn of al-Jawza star names, originates from western "
-"Saudi Arabia and is used by Red Sea fishers. The source is oral tradition "
-"from the seaport Umluj, Saudi Arabia [#1]."
-msgstr ""
-"Die drei Sterne am Gürtel des Orion. Dieser Name stammt zusammen mit den "
-"Sternnamen Nördliches Horn von al-Jawza und Südliches Horn von al-Jawza aus "
-"dem westlichen Saudi-Arabien und wird von Fischern am Roten Meer verwendet. "
-"Die Quelle ist die mündliche Überlieferung aus der Hafenstadt Umluj, Saudi-"
-"Arabien [#1]."
+msgid "The three stars at Orion’s belt. This name, along with Northern Horn of al-Jawza and Southern Horn of al-Jawza star names, originates from western Saudi Arabia and is used by Red Sea fishers. The source is oral tradition from the seaport Umluj, Saudi Arabia [#1]."
+msgstr "Die drei Sterne am Gürtel des Orion. Dieser Name stammt zusammen mit den Sternnamen Nördliches Horn von al-Jawza und Südliches Horn von al-Jawza aus dem westlichen Saudi-Arabien und wird von Fischern am Roten Meer verwendet. Die Quelle ist die mündliche Überlieferung aus der Hafenstadt Umluj, Saudi-Arabien [#1]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation Mosque Of Al-
 #. Thurayya
-# Translated by OpenAI, may be very wrong
-msgid ""
-"A triangle of stars that rise before al-Thurayya (the Pleiades). It includes"
-" α Ari, α Tri, and β Tri. The name comes from oral tradition in Wadi al-"
-"Dawasir, southwestern Saudi Arabia [#1]."
-msgstr ""
-"Ein Dreieck aus Sternen, das vor al-Thurayya (den Plejaden) aufgeht. Es "
-"umfasst α Ari, α Tri und β Tri. Der Name stammt aus der mündlichen "
-"Überlieferung im Wadi al-Dawasir im Südwesten Saudi-Arabiens [#1]."
+msgid "A triangle of stars that rise before al-Thurayya (the Pleiades). It includes α Ari, α Tri, and β Tri. The name comes from oral tradition in Wadi al-Dawasir, southwestern Saudi Arabia [#1]."
+msgstr "Ein Dreieck aus Sternen, das vor al-Thurayya (den Plejaden) aufgeht. Es umfasst α Ari, α Tri und β Tri. Der Name stammt aus der mündlichen Überlieferung im Wadi al-Dawasir im Südwesten Saudi-Arabiens [#1]."
 
+# Translated by OpenAI, may be very wrong
 #. Description of Arabic (Arabian Peninsula) constellation Al-Jawza
-# Translated by OpenAI, may be very wrong
-msgid ""
-"A proper name for a woman; this constellation represents a female figure "
-"formed by the Orion stars, identical to the ancient Arab tradition. Some "
-"oral traditions limit the name to the three stars of Orion’s belt [#2][#3]."
-msgstr ""
-"Ein Eigenname für eine Frau; dieses Sternbild stellt eine weibliche Gestalt "
-"dar, die aus den Sternen des Orion gebildet ist, identisch mit der alten "
-"arabischen Tradition. Einige mündliche Überlieferungen beschränken den Namen"
-" auf die drei Sterne des Gürtels des Orion [#2][#3]."
+msgid "A proper name for a woman; this constellation represents a female figure formed by the Orion stars, identical to the ancient Arab tradition. Some oral traditions limit the name to the three stars of Orion’s belt [#2][#3]."
+msgstr "Ein Eigenname für eine Frau; dieses Sternbild stellt eine weibliche Gestalt dar, die aus den Sternen des Orion gebildet ist, identisch mit der alten arabischen Tradition. Einige mündliche Überlieferungen beschränken den Namen auf die drei Sterne des Gürtels des Orion [#2][#3]."
 
+# Translated by OpenAI, may be very wrong
 #. Arabic (Arabian Peninsula) sky culture references section in markdown
 #. format
-# Translated by OpenAI, may be very wrong
 msgid ""
 "- [#1]: Oral tradition  \n"
 "- [#2]: Al-Ajaji, Khalid, *Šarḥ Qaṣidat al-Qāḍī fi al-anwāʾ wal-nuǧūm*, Explanation of al-Qāḍī poem of anwāʾ and stars, Riyadh, Saudi Arabia, 2013., خالد بن عبد الله العجاجي، شرح قصيدة القاضي في الأنواء والنجوم، الرياض، المملكة العربية السعودية، 1434 هـ.  \n"
@@ -463,8 +333,8 @@ msgstr ""
 msgid "Khalid al-Ajaji, turath.alfalak@gmail.com."
 msgstr "Khalid al-Ajaji, turath.alfalak@gmail.com."
 
-#. Arabic (Arabian Peninsula) sky culture license section in markdown format
 # Translated by OpenAI, may be very wrong
+#. Arabic (Arabian Peninsula) sky culture license section in markdown format
 msgid ""
 "CC BY-ND 4.0\n"
 "\n"
@@ -732,7 +602,7 @@ msgstr "Das Zicklei"
 
 #. Arabic (Arabian Peninsula) name for HIP 21421, native: التويلي
 msgid "The Latter"
-msgstr "der letztgenannte"
+msgstr "Der Letztgenannte"
 
 #. Arabic (Arabian Peninsula) name for HIP 21421, native: المجيدح
 #. Al-Mjaidih is a proper name
