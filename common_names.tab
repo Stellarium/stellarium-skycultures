@@ -21,86 +21,86 @@
 # References for the names are listed in the sources column. Details for all
 # references can be found in the common_names_refs.tab
 ##
-### jpl_sso ###
+### planet ###
 # id            |english   |wikipedia_title  |model  |sources|notes                      |
 # ------------- | -------- | --------------- | ----- | ----- | ------------------------- |
-JPL 10          |Sun       |Sun              |jpl_sso|WP     |
-JPL 199         |Mercury   |Mercury_(planet) |jpl_sso|WP     |
-JPL 299         |Venus     |Venus            |jpl_sso|WP     |
-JPL 301         |Moon      |Moon             |jpl_sso|WP     |Moon of Earth (EI)
-JPL 399         |Earth     |Earth            |jpl_sso|WP     |
-JPL 401         |Phobos    |Phobos_(moon)    |jpl_sso|WP     |Moon of Mars (MI)
-JPL 402         |Deimos    |Deimos_(moon)    |jpl_sso|WP     |Moon of Mars (MII)
-JPL 499         |Mars      |Mars             |jpl_sso|WP     |
-JPL 501         |Io        |Io_(moon)        |jpl_sso|WP     |Moon of Jupiter (JI)
-JPL 502         |Europa    |Europa_(moon)    |jpl_sso|WP     |Moon of Jupiter (JII)
-JPL 503         |Ganymede  |Ganymede_(moon)  |jpl_sso|WP     |Moon of Jupiter (JIII)
-JPL 504         |Callisto  |Callisto_(moon)  |jpl_sso|WP     |Moon of Jupiter (JIV)
-JPL 505         |Amalthea  |Amalthea_(moon)  |jpl_sso|WP     |Moon of Jupiter (JV)
-JPL 506         |Himalia   |Himalia_(moon)   |jpl_sso|WP     |Moon of Jupiter (JVI)
-JPL 507         |Elara     |Elara_(moon)     |jpl_sso|WP     |Moon of Jupiter (JVII)
-JPL 508         |Pasiphae  |Pasiphae_(moon)  |jpl_sso|WP     |Moon of Jupiter (JVIII)
-JPL 509         |Sinope    |Sinope_(moon)    |jpl_sso|WP     |Moon of Jupiter (JIX)
-JPL 510         |Lysithea  |Lysithea_(moon)  |jpl_sso|WP     |Moon of Jupiter (JX)
-JPL 511         |Carme     |Carme_(moon)     |jpl_sso|WP     |Moon of Jupiter (JXI)
-JPL 512         |Ananke    |Ananke_(moon)    |jpl_sso|WP     |Moon of Jupiter (JXII)
-JPL 513         |Leda      |Leda_(moon)      |jpl_sso|WP     |Moon of Jupiter (JXIII)
-JPL 514         |Thebe     |Thebe_(moon)     |jpl_sso|WP     |Moon of Jupiter (JXIV)
-JPL 515         |Adrastea  |Adrastea_(moon)  |jpl_sso|WP     |Moon of Jupiter (JXV)
-JPL 516         |Metis     |Metis_(moon)     |jpl_sso|WP     |Moon of Jupiter (JXVI)
-JPL 599         |Jupiter   |Jupiter          |jpl_sso|WP     |
-JPL 601         |Mimas     |Mimas_(moon)     |jpl_sso|WP     |Moon of Saturn (SI)
-JPL 602         |Enceladus |Enceladus        |jpl_sso|WP     |Moon of Saturn (SII)
-JPL 603         |Tethys    |Tethys_(moon)    |jpl_sso|WP     |Moon of Saturn (SIII)
-JPL 604         |Dione     |Dione_(moon)     |jpl_sso|WP     |Moon of Saturn (SIV)
-JPL 605         |Rhea      |Rhea_(moon)      |jpl_sso|WP     |Moon of Saturn (SV)
-JPL 606         |Titan     |Titan_(moon)     |jpl_sso|WP     |Moon of Saturn (SVI)
-JPL 607         |Hyperion  |Hyperion_(moon)  |jpl_sso|WP     |Moon of Saturn (SVII)
-JPL 608         |Iapetus   |Iapetus_(moon)   |jpl_sso|WP     |Moon of Saturn (SVIII)
-JPL 609         |Phoebe    |Phoebe_(moon)    |jpl_sso|WP     |Moon of Saturn (SIX)
-JPL 610         |Janus     |Janus_(moon)     |jpl_sso|WP     |Moon of Saturn (SX)
-JPL 611         |Epimetheus|Epimetheus_(moon)|jpl_sso|WP     |Moon of Saturn (SXI)
-JPL 612         |Helene    |Helene_(moon)    |jpl_sso|WP     |Moon of Saturn (SXII)
-JPL 613         |Telesto   |Telesto_(moon)   |jpl_sso|WP     |Moon of Saturn (SXIII)
-JPL 614         |Calypso   |Calypso_(moon)   |jpl_sso|WP     |Moon of Saturn (SXIV)
-JPL 615         |Atlas     |Atlas_(moon)     |jpl_sso|WP     |Moon of Saturn (SXV)
-JPL 616         |Prometheus|Prometheus_(moon)|jpl_sso|WP     |Moon of Saturn (SXVI)
-JPL 617         |Pandora   |Pandora_(moon)   |jpl_sso|WP     |Moon of Saturn (SXVII)
-JPL 618         |Pan       |Pan_(moon)       |jpl_sso|WP     |Moon of Saturn (SXVIII)
-JPL 699         |Saturn    |Saturn           |jpl_sso|WP     |
-JPL 701         |Ariel     |Ariel_(moon)     |jpl_sso|WP     |Moon of Uranus (UI)
-JPL 702         |Umbriel   |Umbriel_(moon)   |jpl_sso|WP     |Moon of Uranus (UII)
-JPL 703         |Titania   |Titania_(moon)   |jpl_sso|WP     |Moon of Uranus (UIII)
-JPL 704         |Oberon    |Oberon_(moon)    |jpl_sso|WP     |Moon of Uranus (UIV)
-JPL 705         |Miranda   |Miranda_(moon)   |jpl_sso|WP     |Moon of Uranus (UV)
-JPL 706         |Cordelia  |Cordelia_(moon)  |jpl_sso|WP     |Moon of Uranus (UVI)
-JPL 707         |Ophelia   |Ophelia_(moon)   |jpl_sso|WP     |Moon of Uranus (UVII)
-JPL 708         |Bianca    |Bianca_(moon)    |jpl_sso|WP     |Moon of Uranus (UVIII)
-JPL 709         |Cressida  |Cressida_(moon)  |jpl_sso|WP     |Moon of Uranus (UIX)
-JPL 710         |Desdemona |Desdemona_(moon) |jpl_sso|WP     |Moon of Uranus (UX)
-JPL 711         |Juliet    |Juliet_(moon)    |jpl_sso|WP     |Moon of Uranus (UXI)
-JPL 715         |Puck      |Puck_(moon)      |jpl_sso|WP     |Moon of Uranus (UXV)
-JPL 799         |Uranus    |Uranus           |jpl_sso|WP     |
-JPL 801         |Triton    |Triton_(moon)    |jpl_sso|WP     |Moon of Neptune (NI)
-JPL 802         |Nereid    |Nereid_(moon)    |jpl_sso|WP     |Moon of Neptune (NII)
-JPL 803         |Naiad     |Naiad_(moon)     |jpl_sso|WP     |Moon of Neptune (NIII)
-JPL 804         |Thalassa  |Thalassa_(moon)  |jpl_sso|WP     |Moon of Neptune (NIV)
-JPL 805         |Despina   |Despina_(moon)   |jpl_sso|WP     |Moon of Neptune (NV)
-JPL 806         |Galatea   |Galatea_(moon)   |jpl_sso|WP     |Moon of Neptune (NVI)
-JPL 807         |Larissa   |Larissa_(moon)   |jpl_sso|WP     |Moon of Neptune (NVII)
-JPL 808         |Proteus   |Proteus_(moon)   |jpl_sso|WP     |Moon of Neptune (NVIII)
-JPL 809         |Halimede  |Halimede_(moon)  |jpl_sso|WP     |Moon of Neptune (NIX)
-JPL 810         |Psamathe  |Psamathe_(moon)  |jpl_sso|WP     |Moon of Neptune (NX)
-JPL 811         |Sao       |Sao_(moon)       |jpl_sso|WP     |Moon of Neptune (NXI)
-JPL 812         |Laomedeia |Laomedeia_(moon) |jpl_sso|WP     |Moon of Neptune (NXII)
-JPL 813         |Neso      |Neso_(moon)      |jpl_sso|WP     |Moon of Neptune (NXIII)
-JPL 899         |Neptune   |Neptune          |jpl_sso|WP     |
-JPL 901         |Charon    |Charon_(moon)    |jpl_sso|WP     |Moon of Pluto (PI)
-JPL 902         |Nix       |Nix_(moon)       |jpl_sso|WP     |Moon of Pluto (PII)
-JPL 903         |Hydra     |Hydra_(moon)     |jpl_sso|WP     |Moon of Pluto (PIII)
-JPL 904         |Kerberos  |Kerberos_(moon)  |jpl_sso|WP     |Moon of Pluto (PIV)
-JPL 905         |Styx      |Styx_(moon)      |jpl_sso|WP     |Moon of Pluto (PV)
-JPL 999         |Pluto     |134340_Pluto     |jpl_sso|WP     |Dwarf planet (134340) Pluto
+JPL 10          |Sun       |Sun              |planet|WP     |
+JPL 199         |Mercury   |Mercury_(planet) |planet|WP     |
+JPL 299         |Venus     |Venus            |planet|WP     |
+JPL 301         |Moon      |Moon             |planet|WP     |Moon of Earth (EI)
+JPL 399         |Earth     |Earth            |planet|WP     |
+JPL 401         |Phobos    |Phobos_(moon)    |planet|WP     |Moon of Mars (MI)
+JPL 402         |Deimos    |Deimos_(moon)    |planet|WP     |Moon of Mars (MII)
+JPL 499         |Mars      |Mars             |planet|WP     |
+JPL 501         |Io        |Io_(moon)        |planet|WP     |Moon of Jupiter (JI)
+JPL 502         |Europa    |Europa_(moon)    |planet|WP     |Moon of Jupiter (JII)
+JPL 503         |Ganymede  |Ganymede_(moon)  |planet|WP     |Moon of Jupiter (JIII)
+JPL 504         |Callisto  |Callisto_(moon)  |planet|WP     |Moon of Jupiter (JIV)
+JPL 505         |Amalthea  |Amalthea_(moon)  |planet|WP     |Moon of Jupiter (JV)
+JPL 506         |Himalia   |Himalia_(moon)   |planet|WP     |Moon of Jupiter (JVI)
+JPL 507         |Elara     |Elara_(moon)     |planet|WP     |Moon of Jupiter (JVII)
+JPL 508         |Pasiphae  |Pasiphae_(moon)  |planet|WP     |Moon of Jupiter (JVIII)
+JPL 509         |Sinope    |Sinope_(moon)    |planet|WP     |Moon of Jupiter (JIX)
+JPL 510         |Lysithea  |Lysithea_(moon)  |planet|WP     |Moon of Jupiter (JX)
+JPL 511         |Carme     |Carme_(moon)     |planet|WP     |Moon of Jupiter (JXI)
+JPL 512         |Ananke    |Ananke_(moon)    |planet|WP     |Moon of Jupiter (JXII)
+JPL 513         |Leda      |Leda_(moon)      |planet|WP     |Moon of Jupiter (JXIII)
+JPL 514         |Thebe     |Thebe_(moon)     |planet|WP     |Moon of Jupiter (JXIV)
+JPL 515         |Adrastea  |Adrastea_(moon)  |planet|WP     |Moon of Jupiter (JXV)
+JPL 516         |Metis     |Metis_(moon)     |planet|WP     |Moon of Jupiter (JXVI)
+JPL 599         |Jupiter   |Jupiter          |planet|WP     |
+JPL 601         |Mimas     |Mimas_(moon)     |planet|WP     |Moon of Saturn (SI)
+JPL 602         |Enceladus |Enceladus        |planet|WP     |Moon of Saturn (SII)
+JPL 603         |Tethys    |Tethys_(moon)    |planet|WP     |Moon of Saturn (SIII)
+JPL 604         |Dione     |Dione_(moon)     |planet|WP     |Moon of Saturn (SIV)
+JPL 605         |Rhea      |Rhea_(moon)      |planet|WP     |Moon of Saturn (SV)
+JPL 606         |Titan     |Titan_(moon)     |planet|WP     |Moon of Saturn (SVI)
+JPL 607         |Hyperion  |Hyperion_(moon)  |planet|WP     |Moon of Saturn (SVII)
+JPL 608         |Iapetus   |Iapetus_(moon)   |planet|WP     |Moon of Saturn (SVIII)
+JPL 609         |Phoebe    |Phoebe_(moon)    |planet|WP     |Moon of Saturn (SIX)
+JPL 610         |Janus     |Janus_(moon)     |planet|WP     |Moon of Saturn (SX)
+JPL 611         |Epimetheus|Epimetheus_(moon)|planet|WP     |Moon of Saturn (SXI)
+JPL 612         |Helene    |Helene_(moon)    |planet|WP     |Moon of Saturn (SXII)
+JPL 613         |Telesto   |Telesto_(moon)   |planet|WP     |Moon of Saturn (SXIII)
+JPL 614         |Calypso   |Calypso_(moon)   |planet|WP     |Moon of Saturn (SXIV)
+JPL 615         |Atlas     |Atlas_(moon)     |planet|WP     |Moon of Saturn (SXV)
+JPL 616         |Prometheus|Prometheus_(moon)|planet|WP     |Moon of Saturn (SXVI)
+JPL 617         |Pandora   |Pandora_(moon)   |planet|WP     |Moon of Saturn (SXVII)
+JPL 618         |Pan       |Pan_(moon)       |planet|WP     |Moon of Saturn (SXVIII)
+JPL 699         |Saturn    |Saturn           |planet|WP     |
+JPL 701         |Ariel     |Ariel_(moon)     |planet|WP     |Moon of Uranus (UI)
+JPL 702         |Umbriel   |Umbriel_(moon)   |planet|WP     |Moon of Uranus (UII)
+JPL 703         |Titania   |Titania_(moon)   |planet|WP     |Moon of Uranus (UIII)
+JPL 704         |Oberon    |Oberon_(moon)    |planet|WP     |Moon of Uranus (UIV)
+JPL 705         |Miranda   |Miranda_(moon)   |planet|WP     |Moon of Uranus (UV)
+JPL 706         |Cordelia  |Cordelia_(moon)  |planet|WP     |Moon of Uranus (UVI)
+JPL 707         |Ophelia   |Ophelia_(moon)   |planet|WP     |Moon of Uranus (UVII)
+JPL 708         |Bianca    |Bianca_(moon)    |planet|WP     |Moon of Uranus (UVIII)
+JPL 709         |Cressida  |Cressida_(moon)  |planet|WP     |Moon of Uranus (UIX)
+JPL 710         |Desdemona |Desdemona_(moon) |planet|WP     |Moon of Uranus (UX)
+JPL 711         |Juliet    |Juliet_(moon)    |planet|WP     |Moon of Uranus (UXI)
+JPL 715         |Puck      |Puck_(moon)      |planet|WP     |Moon of Uranus (UXV)
+JPL 799         |Uranus    |Uranus           |planet|WP     |
+JPL 801         |Triton    |Triton_(moon)    |planet|WP     |Moon of Neptune (NI)
+JPL 802         |Nereid    |Nereid_(moon)    |planet|WP     |Moon of Neptune (NII)
+JPL 803         |Naiad     |Naiad_(moon)     |planet|WP     |Moon of Neptune (NIII)
+JPL 804         |Thalassa  |Thalassa_(moon)  |planet|WP     |Moon of Neptune (NIV)
+JPL 805         |Despina   |Despina_(moon)   |planet|WP     |Moon of Neptune (NV)
+JPL 806         |Galatea   |Galatea_(moon)   |planet|WP     |Moon of Neptune (NVI)
+JPL 807         |Larissa   |Larissa_(moon)   |planet|WP     |Moon of Neptune (NVII)
+JPL 808         |Proteus   |Proteus_(moon)   |planet|WP     |Moon of Neptune (NVIII)
+JPL 809         |Halimede  |Halimede_(moon)  |planet|WP     |Moon of Neptune (NIX)
+JPL 810         |Psamathe  |Psamathe_(moon)  |planet|WP     |Moon of Neptune (NX)
+JPL 811         |Sao       |Sao_(moon)       |planet|WP     |Moon of Neptune (NXI)
+JPL 812         |Laomedeia |Laomedeia_(moon) |planet|WP     |Moon of Neptune (NXII)
+JPL 813         |Neso      |Neso_(moon)      |planet|WP     |Moon of Neptune (NXIII)
+JPL 899         |Neptune   |Neptune          |planet|WP     |
+JPL 901         |Charon    |Charon_(moon)    |planet|WP     |Moon of Pluto (PI)
+JPL 902         |Nix       |Nix_(moon)       |planet|WP     |Moon of Pluto (PII)
+JPL 903         |Hydra     |Hydra_(moon)     |planet|WP     |Moon of Pluto (PIII)
+JPL 904         |Kerberos  |Kerberos_(moon)  |planet|WP     |Moon of Pluto (PIV)
+JPL 905         |Styx      |Styx_(moon)      |planet|WP     |Moon of Pluto (PV)
+JPL 999         |Pluto     |134340_Pluto     |planet|WP     |Dwarf planet (134340) Pluto
 #
 ### tle_satellite ###
 # id            |english                      |wikipedia_title                    |model        |sources|notes                                   |
@@ -200,6 +200,84 @@ CON western Vel |Vela               |Vela_(constellation)               |constel
 CON western Vir |Virgo              |Virgo_(constellation)              |constellation|WK     |Constellation in the western sky culture
 CON western Vol |Volans             |Volans_(constellation)             |constellation|WK     |Constellation in the western sky culture
 CON western Vul |Vulpecula          |Vulpecula_(constellation)          |constellation|WK     |Constellation in the western sky culture
+#
+### asterism ###
+# id    |english                    |wikipedia_title                    |model   |sources|notes                                   |
+# ----- | ------------------------- | --------------------------------- | ------ | ----- | -------------------------------------- |
+AST SpT |Spring Triangle            |Spring_Triangle                    |asterism|       |
+AST STr |Summer Triangle            |Summer_Triangle                    |asterism|       |
+AST GSP |Great Square of Pegasus    |                                   |asterism|       |
+AST WTr |Winter Triangle            |Winter_Triangle                    |asterism|       |
+AST WHx |Winter Hexagon             |Winter_Hexagon                     |asterism|       |
+AST WHx |Winter Circle              |                                   |asterism|       |Another name for the Winter Hexagon asterism
+AST HeG |Heavenly G                 |                                   |asterism|       |An asterism resembling the shape of the Latin letter G
+AST SoP |Segment of Perseus         |                                   |asterism|       |
+AST NCr |Northern Cross             |Northern_Cross_(asterism)          |asterism|       |
+AST WAs |W                          |                                   |asterism|       |An asterism resembling the shape of the Latin letter W
+AST KSt |Keystone                   |                                   |asterism|       |An asterism in the Hercules constellation
+AST Bfl |Butterfly                  |                                   |asterism|       |An asterism in the Hercules constellation
+AST Kit |Kite                       |                                   |asterism|       |An asterism in the Bootes constellation
+AST Sal |Sail                       |                                   |asterism|       |An asterism in the Corvus constellation
+AST CoH |Coathanger                 |                                   |asterism|       |
+AST JbC |Job's Coffin               |                                   |asterism|       |An asterism in the Delphinus constellation
+AST VTa |V of Taurus                |                                   |asterism|       |An asterism resembling the shape of the Latin letter V
+AST TrM |Triangulum Minus           |Triangulum_Minus                   |asterism|       |
+AST Bie |Bier                       |                                   |asterism|       |An asterism in Ursa Major
+AST GoP |Guardians of the Pole      |                                   |asterism|       |
+AST GoP |Guards                     |                                   |asterism|       |Another name for the Guardians of the Pole asterism
+AST BDr |Big Dipper                 |Big_Dipper                         |asterism|       |This is an asterism, not simply the Ursa Major constellation
+AST BDr |Plough                     |                                   |asterism|       |Another name for the Big Dipper asterism. This is an asterism, not simply the Ursa Major constellation.
+AST LDr |Little Dipper              |                                   |asterism|       |This is an asterism, not simply the Ursa Minor constellation
+AST SSR |Seven Stars Row            |                                   |asterism|       |An asterism in the Andromeda constellation
+AST HDr |Dragon Head                |                                   |asterism|       |
+AST HDr |Lozenge                    |                                   |asterism|       |Another name for the Dragon Head asterism
+AST HMG |Head of Medusa Gorgon      |                                   |asterism|       |An asterism in the Perseus constellation
+AST Goa |Kids                       |                                   |asterism|       |An asterism in Auriga, its name is a synonym to "goatlings", not the general "children"
+AST Urn |The Y in Aquarius          |                                   |asterism|       |An asterism resembling the shape of the Latin letter Y
+AST Urn |The Urn or Water Jar       |                                   |asterism|       |Another name for The Y in Aquarius
+AST OrB |Orion's Belt               |Orion's_Belt                       |asterism|       |
+AST OrS |Orion's Sword              |Orion's_Sword                      |asterism|       |
+AST OSh |Orion's Shield             |                                   |asterism|       |
+AST OrC |Orion's Cudgel             |                                   |asterism|       |
+AST HWl |Head of Whale              |                                   |asterism|       |
+AST HSr |Head of Serpent            |                                   |asterism|       |
+AST HHy |Head of Hydra              |                                   |asterism|       |
+AST Tea |Teapot                     |                                   |asterism|       |An asterism in the Sagittarius constellation
+AST Mlk |Milk Dipper                |                                   |asterism|       |An asterism in the Sagittarius constellation
+AST Ter |Terebellum                 |                                   |asterism|       |An asterism in the Sagittarius constellation
+AST ECr |Egyptian Cross             |                                   |asterism|       |An asterism centered in the Canis Major constellation
+AST FCr |False Cross                |                                   |asterism|       |An asterism on the border of Carina and Vela
+AST Sic |Sickle                     |                                   |asterism|       |An asterism in the Leo constellation
+AST DCr |Diamond Cross              |                                   |asterism|       |An asterism in the Carina constellation
+AST Cir |Circlet                    |                                   |asterism|       |An asterism in the Pisces constellation
+AST TAK |The Arc of the King        |                                   |asterism|       |An asterism in the Cepheus constellation
+AST HCn |Head of Centaurus          |                                   |asterism|       |
+AST SuO |Sudor Ophiuchi             |                                   |asterism|       |An asterism in the Hercules constellation
+AST VMr |Venus' Mirror              |                                   |asterism|       |An asterism in the Orion constellation
+AST OBf |The Butterfly of Orion     |                                   |asterism|       |
+AST FHA |The Fish Hook              |                                   |asterism|       |An asterism in the Scorpius constellation
+AST BPN |The Bull of Poniatowski    |Taurus_Poniatovii                  |asterism|       |
+AST TrB |The Trapezoid              |                                   |asterism|       |An asterism in the Bootes constellation
+AST TPT |The Three Patriarchs       |                                   |asterism|       |An asterism in the Triangulum constellation
+AST NFy |The Northern Fly           |Musca_Borealis                     |asterism|       |
+AST BA1 |Davis' Dog                 |                                   |asterism|       |
+AST BA2 |Honores Friderici          |Honores_Friderici                  |asterism|       |
+AST BA2 |Frederick's Glory          |                                   |asterism|       |Another name of Honores Friderici asterism
+AST EnP |Engagement ring of Polaris |                                   |asterism|       |
+AST ChG |Christmas Goose            |                                   |asterism|       |An asterism in the Perseus constellation
+AST Arr |The Arrow                  |                                   |asterism|       |An asterism in the Corvus constellation
+AST FMi |The Flying Minnow          |                                   |asterism|       |An asterism in the Auriga constellation
+AST Hr7 |Harrington 7               |                                   |asterism|       |
+AST TA1 |Kemble's Cascade           |Kemble's_Cascade                   |asterism|       |
+AST TA1 |Kemble 1                   |                                   |asterism|       |Another name for Kemble's Cascade asterism
+AST TA2 |Kemble's Kite              |                                   |asterism|       |
+AST TA2 |Kemble 3                   |                                   |asterism|       |Another name for Kemble's Kite asterism
+AST TA3 |Mini-Cassiopeia            |                                   |asterism|       |
+AST TA3 |Kemble 2                   |                                   |asterism|       |Another name for Mini-Cassiopeia asterism
+AST TA4 |Napoleon's Hat             |                                   |asterism|       |An asterism in the Bootes constellation
+AST TA8 |The Stargate               |Stargate_(asterism)                |asterism|       |
+AST TA9 |The Jaws                   |                                   |asterism|       |An asterism in the Virgo constellation
+AST TA10|Red-Necked Emu             |                                   |asterism|       |An asterism in the Cygnus constellation
 #
 ### dso ###
 # id                   |english                             |wikipedia_title|model |sources                                               |notes|
@@ -456,7 +534,7 @@ IC 443                 |Gemini A                            |               |dso
 IC 708                 |Papillon                            |               |dso   |                                                      |     
 IC 1318                |γ Cyg Nebula                        |               |dso   |SIMBAD,SD                                             |     
 IC 1365                |ZW II 108 Group                     |               |dso   |SIMBAD                                                |     
-IC 1396                |Elephant's Trunk Nebula             |               |dso   |WK                                                    |     
+IC 1396A               |Elephant's Trunk Nebula             |               |dso   |WK                                                    |
 IC 1396                |The Misty Clover Cluster            |               |dso   |HT                                                    |     
 IC 1795                |Fish Head Nebula                    |               |dso   |                                                      |     
 IC 1805                |Heart Nebula                        |               |dso   |CSOMSC                                                |     
@@ -637,6 +715,7 @@ M 104                  |Dark Lane Galaxy                    |               |dso
 M 107                  |The Crucifix Cluster                |               |dso   |B500                                                  |     
 M 108                  |Surfboard Galaxy                    |               |dso   |                                                      |     
 M 109                  |Vacuum Cleaner Galaxy               |               |dso   |                                                      |     
+Melotte 20             |Alpha Persei Cluster                |               |dso   |WK                                                    |
 Melotte 20             |α Per Cluster                       |               |dso   |DSW,CSOMSC                                            |     
 Melotte 20             |α Per Moving Group                  |               |dso   |OGSC,BCH,HT                                           |     
 Melotte 20             |Little Cloud of Pirates             |               |dso   |HT                                                    |     
@@ -1194,176 +1273,176 @@ V* V2027 Cyg           |Methuselah Nebula                   |               |dso
 VV 786                 |Lemon Galaxy                        |               |dso   |SIMBAD                                                |     
 W 80                   |Pelican Nebula                      |               |dso   |WK,SIMBAD,DSW,DWH,PSA,CC                              |     
 #
-### mpc_asteroid ###
+### minor_planet ###
 # id                        |english          |wikipedia_title       |model       |sources|notes                            |
 # ------------------------- | --------------- | -------------------- | ---------- | ----- | ------------------------------- |
-MPC (1) Ceres               |Ceres            |Ceres_(dwarf_planet)  |mpc_asteroid|WP     |Asteroid (1) Ceres               
-MPC (2) Pallas              |Pallas           |2_Pallas              |mpc_asteroid|WP     |Asteroid (2) Pallas              
-MPC (3) Juno                |Juno             |3_Juno                |mpc_asteroid|WP     |Asteroid (3) Juno                
-MPC (4) Vesta               |Vesta            |4_Vesta               |mpc_asteroid|WP     |Asteroid (4) Vesta               
-MPC (5) Astraea             |Astraea          |5_Astraea             |mpc_asteroid|WP     |Asteroid (5) Astraea             
-MPC (6) Hebe                |Hebe             |6_Hebe                |mpc_asteroid|WP     |Asteroid (6) Hebe                
-MPC (7) Iris                |Iris             |7_Iris                |mpc_asteroid|WP     |Asteroid (7) Iris                
-MPC (8) Flora               |Flora            |8_Flora               |mpc_asteroid|WP     |Asteroid (8) Flora               
-MPC (9) Metis               |Metis            |9_Metis               |mpc_asteroid|WP     |Asteroid (9) Metis               
-MPC (10) Hygiea             |Hygiea           |10_Hygiea             |mpc_asteroid|WP     |Asteroid (10) Hygiea             
-MPC (11) Parthenope         |Parthenope       |11_Parthenope         |mpc_asteroid|WP     |Asteroid (11) Parthenope         
-MPC (13) Egeria             |Egeria           |13_Egeria             |mpc_asteroid|WP     |Asteroid (13) Egeria             
-MPC (15) Eunomia            |Eunomia          |15_Eunomia            |mpc_asteroid|WP     |Asteroid (15) Eunomia            
-MPC (16) Psyche             |Psyche           |16_Psyche             |mpc_asteroid|WP     |Asteroid (16) Psyche             
-MPC (18) Melpomene          |Melpomene        |18_Melpomene          |mpc_asteroid|WP     |Asteroid (18) Melpomene          
-MPC (19) Fortuna            |Fortuna          |19_Fortuna            |mpc_asteroid|WP     |Asteroid (19) Fortuna            
-MPC (20) Massalia           |Massalia         |20_Massalia           |mpc_asteroid|WP     |Asteroid (20) Massalia           
-MPC (21) Lutetia            |Lutetia          |21_Lutetia            |mpc_asteroid|WP     |Asteroid (21) Lutetia            
-MPC (29) Amphitrite         |Amphitrite       |29_Amphitrite         |mpc_asteroid|WP     |Asteroid (29) Amphitrite         
-MPC (31) Euphrosyne         |Euphrosyne       |31_Euphrosyne         |mpc_asteroid|WP     |Asteroid (31) Euphrosyne         
-MPC (41) Daphne             |Daphne           |41_Daphne             |mpc_asteroid|WP     |Asteroid (41) Daphne             
-MPC (45) Eugenia            |Eugenia          |45_Eugenia            |mpc_asteroid|WP     |Asteroid (45) Eugenia            
-MPC (48) Doris              |Doris            |48_Doris              |mpc_asteroid|WP     |Asteroid (48) Doris              
-MPC (52) Europa             |Europa           |52_Europa             |mpc_asteroid|WP     |Asteroid (52) Europa             
-MPC (55) Pandora            |Pandora          |55_Pandora            |mpc_asteroid|WP     |Asteroid (55) Pandora            
-MPC (65) Cybele             |Cybele           |65_Cybele             |mpc_asteroid|WP     |Asteroid (65) Cybele             
-MPC (74) Galatea            |Galatea          |74_Galatea            |mpc_asteroid|WP     |Asteroid (74) Galatea            
-MPC (87) Sylvia             |Sylvia           |87_Sylvia             |mpc_asteroid|WP     |Asteroid (87) Sylvia             
-MPC (88) Thisbe             |Thisbe           |88_Thisbe             |mpc_asteroid|WP     |Asteroid (88) Thisbe             
-MPC (90) Antiope            |Antiope          |90_Antiope            |mpc_asteroid|WP     |Asteroid (90) Antiope            
-MPC (92) Undina             |Undina           |92_Undina             |mpc_asteroid|WP     |Asteroid (92) Undina             
-MPC (94) Aurora             |Aurora           |94_Aurora             |mpc_asteroid|WP     |Asteroid (94) Aurora             
-MPC (106) Dione             |Dione            |106_Dione             |mpc_asteroid|WP     |Asteroid (106) Dione             
-MPC (107) Camilla           |Camilla          |107_Camilla           |mpc_asteroid|WP     |Asteroid (107) Camilla           
-MPC (171) Ophelia           |Ophelia          |171_Ophelia           |mpc_asteroid|WP     |Asteroid (171) Ophelia           
-MPC (192) Nausikaa          |Nausikaa         |192_Nausikaa          |mpc_asteroid|WP     |Asteroid (192) Nausikaa          
-MPC (216) Kleopatra         |Kleopatra        |216_Kleopatra         |mpc_asteroid|WP     |Asteroid (216) Kleopatra         
-MPC (218) Bianca            |Bianca           |218_Bianca            |mpc_asteroid|WP     |Asteroid (218) Bianca            
-MPC (243) Ida               |Ida              |243_Ida               |mpc_asteroid|WP     |Asteroid (243) Ida               
-MPC (253) Mathilde          |Mathilde         |253_Mathilde          |mpc_asteroid|WP     |Asteroid (253) Mathilde          
-MPC (279) Thule             |Thule            |279_Thule             |mpc_asteroid|WP     |Asteroid (279) Thule             
-MPC (288) Glauke            |Glauke           |288_Glauke            |mpc_asteroid|WP     |Asteroid (288) Glauke            
-MPC (323) Brucia            |Brucia           |323_Brucia            |mpc_asteroid|WP     |Asteroid (323) Brucia            
-MPC (324) Bamberga          |Bamberga         |324_Bamberga          |mpc_asteroid|WP     |Asteroid (324) Bamberga          
-MPC (375) Ursula            |Ursula           |375_Ursula            |mpc_asteroid|WP     |Asteroid (375) Ursula            
-MPC (423) Diotima           |Diotima          |423_Diotima           |mpc_asteroid|WP     |Asteroid (423) Diotima           
-MPC (433) Eros              |Eros             |433_Eros              |mpc_asteroid|WP     |Asteroid (433) Eros              
-MPC (451) Patientia         |Patientia        |451_Patientia         |mpc_asteroid|WP     |Asteroid (451) Patientia         
-MPC (490) Veritas           |Veritas          |490_Veritas           |mpc_asteroid|WP     |Asteroid (490) Veritas           
-MPC (511) Davida            |Davida           |511_Davida            |mpc_asteroid|WP     |Asteroid (511) Davida            
-MPC (532) Herculina         |Herculina        |532_Herculina         |mpc_asteroid|WP     |Asteroid (532) Herculina         
-MPC (588) Achilles          |Achilles         |588_Achilles          |mpc_asteroid|WP     |Asteroid (588) Achilles          
-MPC (593) Titania           |Titania          |593_Titania           |mpc_asteroid|WP     |Asteroid (593) Titania           
-MPC (624) Hektor            |Hektor           |624_Hektor            |mpc_asteroid|WP     |Asteroid (624) Hektor            
-MPC (666) Desdemona         |Desdemona        |666_Desdemona         |mpc_asteroid|WP     |Asteroid (666) Desdemona         
-MPC (704) Interamnia        |Interamnia       |704_Interamnia        |mpc_asteroid|WP     |Asteroid (704) Interamnia        
-MPC (719) Albert            |Albert           |719_Albert            |mpc_asteroid|WP     |Asteroid (719) Albert            
-MPC (846) Lipperta          |Lipperta         |846_Lipperta          |mpc_asteroid|WP     |Asteroid (846) Lipperta          
-MPC (849) Ara               |Ara              |849_Ara               |mpc_asteroid|WP     |Asteroid (849) Ara               
-MPC (912) Maritima          |Maritima         |912_Maritima          |mpc_asteroid|WP     |Asteroid (912) Maritima          
-MPC (944) Hidalgo           |Hidalgo          |944_Hidalgo           |mpc_asteroid|WP     |Asteroid (944) Hidalgo           
-MPC (951) Gaspra            |Gaspra           |951_Gaspra            |mpc_asteroid|WP     |Asteroid (951) Gaspra            
-MPC (1036) Ganymed          |Ganymed          |1036_Ganymed          |mpc_asteroid|WP     |Asteroid (1036) Ganymed          
-MPC (1125) China            |China            |1125_China            |mpc_asteroid|WP     |Asteroid (1125) China            
-MPC (1162) Larissa          |Larissa          |1162_Larissa          |mpc_asteroid|WP     |Asteroid (1162) Larissa          
-MPC (1221) Amor             |Amor             |1221_Amor             |mpc_asteroid|WP     |Asteroid (1221) Amor             
-MPC (1235) Schorria         |Schorria         |1235_Schorria         |mpc_asteroid|WP     |Asteroid (1235) Schorria         
-MPC (1373) Cincinnati       |Cincinnati       |1373_Cincinnati       |mpc_asteroid|WP     |Asteroid (1373) Cincinnati       
-MPC (1566) Icarus           |Icarus           |1566_Icarus           |mpc_asteroid|WP     |Asteroid (1566) Icarus           
-MPC (1580) Betulia          |Betulia          |1580_Betulia          |mpc_asteroid|WP     |Asteroid (1580) Betulia          
-MPC (1620) Geographos       |Geographos       |1620_Geographos       |mpc_asteroid|WP     |Asteroid (1620) Geographos       
-MPC (1685) Toro             |Toro             |1685_Toro             |mpc_asteroid|WP     |Asteroid (1685) Toro             
-MPC (1809) Prometheus       |Prometheus       |1809_Prometheus       |mpc_asteroid|WP     |Asteroid (1809) Prometheus       
-MPC (1810) Epimetheus       |Epimetheus       |1810_Epimetheus       |mpc_asteroid|WP     |Asteroid (1810) Epimetheus       
-MPC (1863) Antinous         |Antinous         |1863_Antinous         |mpc_asteroid|WP     |Asteroid (1863) Antinous         
-MPC (1864) Daedalus         |Daedalus         |1864_Daedalus         |mpc_asteroid|WP     |Asteroid (1864) Daedalus         
-MPC (1865) Cerberus         |Cerberus         |1865_Cerberus         |mpc_asteroid|WP     |Asteroid (1865) Cerberus         
-MPC (1866) Sisyphus         |Sisyphus         |1866_Sisyphus         |mpc_asteroid|WP     |Asteroid (1866) Sisyphus         
-MPC (1902) Shaposhnikov     |Shaposhnikov     |1902_Shaposhnikov     |mpc_asteroid|WP     |Asteroid (1902) Shaposhnikov     
-MPC (1981) Midas            |Midas            |1981_Midas            |mpc_asteroid|WP     |Asteroid (1981) Midas            
-MPC (2060) Chiron           |Chiron           |2060_Chiron           |mpc_asteroid|WP     |Asteroid (2060) Chiron           
-MPC (2062) Aten             |Aten             |2062_Aten             |mpc_asteroid|WP     |Asteroid (2062) Aten             
-MPC (2063) Bacchus          |Bacchus          |2063_Bacchus          |mpc_asteroid|WP     |Asteroid (2063) Bacchus          
-MPC (2100) Ra-Shalom        |Ra-Shalom        |2100_Ra-Shalom        |mpc_asteroid|WP     |Asteroid (2100) Ra-Shalom        
-MPC (2101) Adonis           |Adonis           |2101_Adonis           |mpc_asteroid|WP     |Asteroid (2101) Adonis           
-MPC (2102) Tantalus         |Tantalus         |2102_Tantalus         |mpc_asteroid|WP     |Asteroid (2102) Tantalus         
-MPC (2135) Aristaeus        |Aristaeus        |2135_Aristaeus        |mpc_asteroid|WP     |Asteroid (2135) Aristaeus        
-MPC (2201) Oljato           |Oljato           |2201_Oljato           |mpc_asteroid|WP     |Asteroid (2201) Oljato           
-MPC (2212) Hephaistos       |Hephaistos       |2212_Hephaistos       |mpc_asteroid|WP     |Asteroid (2212) Hephaistos       
-MPC (2329) Orthos           |Orthos           |2329_Orthos           |mpc_asteroid|WP     |Asteroid (2329) Orthos           
-MPC (2340) Hathor           |Hathor           |2340_Hathor           |mpc_asteroid|WP     |Asteroid (2340) Hathor           
-MPC (2675) Tolkien          |Tolkien          |2675_Tolkien          |mpc_asteroid|WP     |Asteroid (2675) Tolkien          
-MPC (2758) Cordelia         |Cordelia         |2758_Cordelia         |mpc_asteroid|WP     |Asteroid (2758) Cordelia         
-MPC (2938) Hopi             |Hopi             |2938_Hopi             |mpc_asteroid|WP     |Asteroid (2938) Hopi             
-MPC (3103) Eger             |Eger             |3103_Eger             |mpc_asteroid|WP     |Asteroid (3103) Eger             
-MPC (3200) Phaethon         |Phaethon         |3200_Phaethon         |mpc_asteroid|WP     |Asteroid (3200) Phaethon         
-MPC (3360) Syrinx           |Syrinx           |3360_Syrinx           |mpc_asteroid|WP     |Asteroid (3360) Syrinx           
-MPC (3361) Orpheus          |Orpheus          |3361_Orpheus          |mpc_asteroid|WP     |Asteroid (3361) Orpheus          
-MPC (3362) Khufu            |Khufu            |3362_Khufu            |mpc_asteroid|WP     |Asteroid (3362) Khufu            
-MPC (3554) Amun             |Amun             |3554_Amun             |mpc_asteroid|WP     |Asteroid (3554) Amun             
-MPC (3671) Dionysus         |Dionysus         |3671_Dionysus         |mpc_asteroid|WP     |Asteroid (3671) Dionysus         
-MPC (3752) Camillo          |Camillo          |3752_Camillo          |mpc_asteroid|WP     |Asteroid (3752) Camillo          
-MPC (3753) Cruithne         |Cruithne         |3753_Cruithne         |mpc_asteroid|WP     |Asteroid (3753) Cruithne         
-MPC (3838) Epona            |Epona            |3838_Epona            |mpc_asteroid|WP     |Asteroid (3838) Epona            
-MPC (4015) Wilson-Harrington|Wilson-Harrington|4015_Wilson-Harrington|mpc_asteroid|WP     |Asteroid (4015) Wilson-Harrington
-MPC (4034) Vishnu           |Vishnu           |4034_Vishnu           |mpc_asteroid|WP     |Asteroid (4034) Vishnu           
-MPC (4179) Toutatis         |Toutatis         |4179_Toutatis         |mpc_asteroid|WP     |Asteroid (4179) Toutatis         
-MPC (4183) Cuno             |Cuno             |4183_Cuno             |mpc_asteroid|WP     |Asteroid (4183) Cuno             
-MPC (4197) Morpheus         |Morpheus         |4197_Morpheus         |mpc_asteroid|WP     |Asteroid (4197) Morpheus         
-MPC (4257) Ubasti           |Ubasti           |4257_Ubasti           |mpc_asteroid|WP     |Asteroid (4257) Ubasti           
-MPC (4341) Poseidon         |Poseidon         |4341_Poseidon         |mpc_asteroid|WP     |Asteroid (4341) Poseidon         
-MPC (4450) Pan              |Pan              |4450_Pan              |mpc_asteroid|WP     |Asteroid (4450) Pan              
-MPC (4486) Mithra           |Mithra           |4486_Mithra           |mpc_asteroid|WP     |Asteroid (4486) Mithra           
-MPC (4524) Barklajdetolli   |Barklajdetolli   |4524_Barklajdetolli   |mpc_asteroid|WP     |Asteroid (4524) Barklajdetolli   
-MPC (4544) Xanthus          |Xanthus          |4544_Xanthus          |mpc_asteroid|WP     |Asteroid (4544) Xanthus          
-MPC (4581) Asclepius        |Asclepius        |4581_Asclepius        |mpc_asteroid|WP     |Asteroid (4581) Asclepius        
-MPC (4660) Nereus           |Nereus           |4660_Nereus           |mpc_asteroid|WP     |Asteroid (4660) Nereus           
-MPC (4769) Castalia         |Castalia         |4769_Castalia         |mpc_asteroid|WP     |Asteroid (4769) Castalia         
-MPC (5011) Ptah             |Ptah             |5011_Ptah             |mpc_asteroid|WP     |Asteroid (5011) Ptah             
-MPC (5143) Heracles         |Heracles         |5143_Heracles         |mpc_asteroid|WP     |Asteroid (5143) Heracles         
-MPC (5261) Eureka           |Eureka           |5261_Eureka           |mpc_asteroid|WP     |Asteroid (5261) Eureka           
-MPC (5381) Sekhmet          |Sekhmet          |5381_Sekhmet          |mpc_asteroid|WP     |Asteroid (5381) Sekhmet          
-MPC (5535) Annefrank        |Annefrank        |5535_Annefrank        |mpc_asteroid|WP     |Asteroid (5535) Annefrank        
-MPC (5731) Zeus             |Zeus             |5731_Zeus             |mpc_asteroid|WP     |Asteroid (5731) Zeus             
-MPC (5786) Talos            |Talos            |5786_Talos            |mpc_asteroid|WP     |Asteroid (5786) Talos            
-MPC (6063) Jason            |Jason            |6063_Jason            |mpc_asteroid|WP     |Asteroid (6063) Jason            
-MPC (6239) Minos            |Minos            |6239_Minos            |mpc_asteroid|WP     |Asteroid (6239) Minos            
-MPC (7092) Cadmus           |Cadmus           |7092_Cadmus           |mpc_asteroid|WP     |Asteroid (7092) Cadmus           
-MPC (9162) Kwiila           |Kwiila           |9162_Kwiila           |mpc_asteroid|WP     |Asteroid (9162) Kwiila           
-MPC (9969) Braille          |Braille          |9969_Braille          |mpc_asteroid|WP     |Asteroid (9969) Braille          
-MPC (10563) Izhdubar        |Izhdubar         |10563_Izhdubar        |mpc_asteroid|WP     |Asteroid (10563) Izhdubar        
-MPC (11066) Sigurd          |Sigurd           |11066_Sigurd          |mpc_asteroid|WP     |Asteroid (11066) Sigurd          
-MPC (11311) Peleus          |Peleus           |11311_Peleus          |mpc_asteroid|WP     |Asteroid (11311) Peleus          
-MPC (11500) Tomaiyowit      |Tomaiyowit       |11500_Tomaiyowit      |mpc_asteroid|WP     |Asteroid (11500) Tomaiyowit      
-MPC (11885) Summanus        |Summanus         |11885_Summanus        |mpc_asteroid|WP     |Asteroid (11885) Summanus        
-MPC (12711) Tukmit          |Tukmit           |12711_Tukmit          |mpc_asteroid|WP     |Asteroid (12711) Tukmit          
-MPC (12923) Zephyr          |Zephyr           |12923_Zephyr          |mpc_asteroid|WP     |Asteroid (12923) Zephyr          
-MPC (14827) Hypnos          |Hypnos           |14827_Hypnos          |mpc_asteroid|WP     |Asteroid (14827) Hypnos          
-MPC (20000) Varuna          |Varuna           |20000_Varuna          |mpc_asteroid|WP     |Asteroid (20000) Varuna          
-MPC (24761) Ahau            |Ahau             |24761_Ahau            |mpc_asteroid|WP     |Asteroid (24761) Ahau            
-MPC (25143) Itokawa         |Itokawa          |25143_Itokawa         |mpc_asteroid|WP     |Asteroid (25143) Itokawa         
-MPC (37655) Illapa          |Illapa           |37655_Illapa          |mpc_asteroid|WP     |Asteroid (37655) Illapa          
-MPC (38086) Beowulf         |Beowulf          |38086_Beowulf         |mpc_asteroid|WP     |Asteroid (38086) Beowulf         
-MPC (38628) Huya            |Huya             |38628_Huya            |mpc_asteroid|WP     |Asteroid (38628) Huya            
-MPC (50000) Quaoar          |Quaoar           |50000_Quaoar          |mpc_asteroid|WP     |Asteroid (50000) Quaoar          
-MPC (65803) Didymos         |Didymos          |65803_Didymos         |mpc_asteroid|WP     |Asteroid (65803) Didymos         
-MPC (69230) Hermes          |Hermes           |69230_Hermes          |mpc_asteroid|WP     |Asteroid (69230) Hermes          
-MPC (85585) Mjolnir         |Mjolnir          |85585_Mjolnir         |mpc_asteroid|WP     |Asteroid (85585) Mjolnir         
-MPC (90377) Sedna           |Sedna            |90377_Sedna           |mpc_asteroid|WP     |Asteroid (90377) Sedna           
-MPC (90482) Orcus           |Orcus            |90482_Orcus           |mpc_asteroid|WP     |Asteroid (90482) Orcus           
-MPC (99942) Apophis         |Apophis          |99942_Apophis         |mpc_asteroid|WP     |Asteroid (99942) Apophis         
-MPC (120347) Salacia        |Salacia          |120347_Salacia        |mpc_asteroid|WP     |Asteroid (120347) Salacia        
-MPC (134340) Pluto          |Pluto            |134340_Pluto          |mpc_asteroid|WP     |Asteroid (134340) Pluto          
-MPC (136108) Haumea         |Haumea           |136108_Haumea         |mpc_asteroid|WP     |Asteroid (136108) Haumea         
-MPC (136199) Eris           |Eris             |136199_Eris           |mpc_asteroid|WP     |Asteroid (136199) Eris           
-MPC (136472) Makemake       |Makemake         |136472_Makemake       |mpc_asteroid|WP     |Asteroid (136472) Makemake       
-MPC (136818) Selqet         |Selqet           |136818_Selqet         |mpc_asteroid|WP     |Asteroid (136818) Selqet         
-MPC (137052) Tjelvar        |Tjelvar          |137052_Tjelvar        |mpc_asteroid|WP     |Asteroid (137052) Tjelvar        
-MPC (162173) Ryugu          |Ryugu            |162173_Ryugu          |mpc_asteroid|WP     |Asteroid (162173) Ryugu          
-MPC (163693) Atira          |Atira            |163693_Atira          |mpc_asteroid|WP     |Asteroid (163693) Atira          
-MPC (174567) Varda          |Varda            |174567_Varda          |mpc_asteroid|WP     |Asteroid (174567) Varda          
-MPC (306367) Nut            |Nut              |306367_Nut            |mpc_asteroid|WP     |Asteroid (306367) Nut            
-MPC (326290) Akhenaten      |Akhenaten        |326290_Akhenaten      |mpc_asteroid|WP     |Asteroid (326290) Akhenaten      
-MPC (367943) Duende         |Duende           |367943_Duende         |mpc_asteroid|WP     |Asteroid (367943) Duende         
-MPC (385571) Otrera         |Otrera           |385571_Otrera         |mpc_asteroid|WP     |Asteroid (385571) Otrera         
+MPC (1) Ceres               |Ceres            |Ceres_(dwarf_planet)  |minor_planet|WP     |Asteroid (1) Ceres               
+MPC (2) Pallas              |Pallas           |2_Pallas              |minor_planet|WP     |Asteroid (2) Pallas              
+MPC (3) Juno                |Juno             |3_Juno                |minor_planet|WP     |Asteroid (3) Juno                
+MPC (4) Vesta               |Vesta            |4_Vesta               |minor_planet|WP     |Asteroid (4) Vesta               
+MPC (5) Astraea             |Astraea          |5_Astraea             |minor_planet|WP     |Asteroid (5) Astraea             
+MPC (6) Hebe                |Hebe             |6_Hebe                |minor_planet|WP     |Asteroid (6) Hebe
+MPC (7) Iris                |Iris             |7_Iris                |minor_planet|WP     |Asteroid (7) Iris                
+MPC (8) Flora               |Flora            |8_Flora               |minor_planet|WP     |Asteroid (8) Flora               
+MPC (9) Metis               |Metis            |9_Metis               |minor_planet|WP     |Asteroid (9) Metis               
+MPC (10) Hygiea             |Hygiea           |10_Hygiea             |minor_planet|WP     |Asteroid (10) Hygiea             
+MPC (11) Parthenope         |Parthenope       |11_Parthenope         |minor_planet|WP     |Asteroid (11) Parthenope         
+MPC (13) Egeria             |Egeria           |13_Egeria             |minor_planet|WP     |Asteroid (13) Egeria             
+MPC (15) Eunomia            |Eunomia          |15_Eunomia            |minor_planet|WP     |Asteroid (15) Eunomia            
+MPC (16) Psyche             |Psyche           |16_Psyche             |minor_planet|WP     |Asteroid (16) Psyche             
+MPC (18) Melpomene          |Melpomene        |18_Melpomene          |minor_planet|WP     |Asteroid (18) Melpomene          
+MPC (19) Fortuna            |Fortuna          |19_Fortuna            |minor_planet|WP     |Asteroid (19) Fortuna            
+MPC (20) Massalia           |Massalia         |20_Massalia           |minor_planet|WP     |Asteroid (20) Massalia           
+MPC (21) Lutetia            |Lutetia          |21_Lutetia            |minor_planet|WP     |Asteroid (21) Lutetia            
+MPC (29) Amphitrite         |Amphitrite       |29_Amphitrite         |minor_planet|WP     |Asteroid (29) Amphitrite         
+MPC (31) Euphrosyne         |Euphrosyne       |31_Euphrosyne         |minor_planet|WP     |Asteroid (31) Euphrosyne         
+MPC (41) Daphne             |Daphne           |41_Daphne             |minor_planet|WP     |Asteroid (41) Daphne             
+MPC (45) Eugenia            |Eugenia          |45_Eugenia            |minor_planet|WP     |Asteroid (45) Eugenia            
+MPC (48) Doris              |Doris            |48_Doris              |minor_planet|WP     |Asteroid (48) Doris              
+MPC (52) Europa             |Europa           |52_Europa             |minor_planet|WP     |Asteroid (52) Europa             
+MPC (55) Pandora            |Pandora          |55_Pandora            |minor_planet|WP     |Asteroid (55) Pandora            
+MPC (65) Cybele             |Cybele           |65_Cybele             |minor_planet|WP     |Asteroid (65) Cybele             
+MPC (74) Galatea            |Galatea          |74_Galatea            |minor_planet|WP     |Asteroid (74) Galatea            
+MPC (87) Sylvia             |Sylvia           |87_Sylvia             |minor_planet|WP     |Asteroid (87) Sylvia             
+MPC (88) Thisbe             |Thisbe           |88_Thisbe             |minor_planet|WP     |Asteroid (88) Thisbe             
+MPC (90) Antiope            |Antiope          |90_Antiope            |minor_planet|WP     |Asteroid (90) Antiope            
+MPC (92) Undina             |Undina           |92_Undina             |minor_planet|WP     |Asteroid (92) Undina             
+MPC (94) Aurora             |Aurora           |94_Aurora             |minor_planet|WP     |Asteroid (94) Aurora             
+MPC (106) Dione             |Dione            |106_Dione             |minor_planet|WP     |Asteroid (106) Dione             
+MPC (107) Camilla           |Camilla          |107_Camilla           |minor_planet|WP     |Asteroid (107) Camilla           
+MPC (171) Ophelia           |Ophelia          |171_Ophelia           |minor_planet|WP     |Asteroid (171) Ophelia           
+MPC (192) Nausikaa          |Nausikaa         |192_Nausikaa          |minor_planet|WP     |Asteroid (192) Nausikaa          
+MPC (216) Kleopatra         |Kleopatra        |216_Kleopatra         |minor_planet|WP     |Asteroid (216) Kleopatra         
+MPC (218) Bianca            |Bianca           |218_Bianca            |minor_planet|WP     |Asteroid (218) Bianca            
+MPC (243) Ida               |Ida              |243_Ida               |minor_planet|WP     |Asteroid (243) Ida               
+MPC (253) Mathilde          |Mathilde         |253_Mathilde          |minor_planet|WP     |Asteroid (253) Mathilde          
+MPC (279) Thule             |Thule            |279_Thule             |minor_planet|WP     |Asteroid (279) Thule             
+MPC (288) Glauke            |Glauke           |288_Glauke            |minor_planet|WP     |Asteroid (288) Glauke            
+MPC (323) Brucia            |Brucia           |323_Brucia            |minor_planet|WP     |Asteroid (323) Brucia            
+MPC (324) Bamberga          |Bamberga         |324_Bamberga          |minor_planet|WP     |Asteroid (324) Bamberga          
+MPC (375) Ursula            |Ursula           |375_Ursula            |minor_planet|WP     |Asteroid (375) Ursula            
+MPC (423) Diotima           |Diotima          |423_Diotima           |minor_planet|WP     |Asteroid (423) Diotima           
+MPC (433) Eros              |Eros             |433_Eros              |minor_planet|WP     |Asteroid (433) Eros              
+MPC (451) Patientia         |Patientia        |451_Patientia         |minor_planet|WP     |Asteroid (451) Patientia         
+MPC (490) Veritas           |Veritas          |490_Veritas           |minor_planet|WP     |Asteroid (490) Veritas           
+MPC (511) Davida            |Davida           |511_Davida            |minor_planet|WP     |Asteroid (511) Davida            
+MPC (532) Herculina         |Herculina        |532_Herculina         |minor_planet|WP     |Asteroid (532) Herculina         
+MPC (588) Achilles          |Achilles         |588_Achilles          |minor_planet|WP     |Asteroid (588) Achilles          
+MPC (593) Titania           |Titania          |593_Titania           |minor_planet|WP     |Asteroid (593) Titania           
+MPC (624) Hektor            |Hektor           |624_Hektor            |minor_planet|WP     |Asteroid (624) Hektor            
+MPC (666) Desdemona         |Desdemona        |666_Desdemona         |minor_planet|WP     |Asteroid (666) Desdemona         
+MPC (704) Interamnia        |Interamnia       |704_Interamnia        |minor_planet|WP     |Asteroid (704) Interamnia        
+MPC (719) Albert            |Albert           |719_Albert            |minor_planet|WP     |Asteroid (719) Albert            
+MPC (846) Lipperta          |Lipperta         |846_Lipperta          |minor_planet|WP     |Asteroid (846) Lipperta          
+MPC (849) Ara               |Ara              |849_Ara               |minor_planet|WP     |Asteroid (849) Ara               
+MPC (912) Maritima          |Maritima         |912_Maritima          |minor_planet|WP     |Asteroid (912) Maritima          
+MPC (944) Hidalgo           |Hidalgo          |944_Hidalgo           |minor_planet|WP     |Asteroid (944) Hidalgo           
+MPC (951) Gaspra            |Gaspra           |951_Gaspra            |minor_planet|WP     |Asteroid (951) Gaspra            
+MPC (1036) Ganymed          |Ganymed          |1036_Ganymed          |minor_planet|WP     |Asteroid (1036) Ganymed          
+MPC (1125) China            |China            |1125_China            |minor_planet|WP     |Asteroid (1125) China            
+MPC (1162) Larissa          |Larissa          |1162_Larissa          |minor_planet|WP     |Asteroid (1162) Larissa          
+MPC (1221) Amor             |Amor             |1221_Amor             |minor_planet|WP     |Asteroid (1221) Amor             
+MPC (1235) Schorria         |Schorria         |1235_Schorria         |minor_planet|WP     |Asteroid (1235) Schorria         
+MPC (1373) Cincinnati       |Cincinnati       |1373_Cincinnati       |minor_planet|WP     |Asteroid (1373) Cincinnati       
+MPC (1566) Icarus           |Icarus           |1566_Icarus           |minor_planet|WP     |Asteroid (1566) Icarus           
+MPC (1580) Betulia          |Betulia          |1580_Betulia          |minor_planet|WP     |Asteroid (1580) Betulia          
+MPC (1620) Geographos       |Geographos       |1620_Geographos       |minor_planet|WP     |Asteroid (1620) Geographos       
+MPC (1685) Toro             |Toro             |1685_Toro             |minor_planet|WP     |Asteroid (1685) Toro             
+MPC (1809) Prometheus       |Prometheus       |1809_Prometheus       |minor_planet|WP     |Asteroid (1809) Prometheus       
+MPC (1810) Epimetheus       |Epimetheus       |1810_Epimetheus       |minor_planet|WP     |Asteroid (1810) Epimetheus       
+MPC (1863) Antinous         |Antinous         |1863_Antinous         |minor_planet|WP     |Asteroid (1863) Antinous         
+MPC (1864) Daedalus         |Daedalus         |1864_Daedalus         |minor_planet|WP     |Asteroid (1864) Daedalus         
+MPC (1865) Cerberus         |Cerberus         |1865_Cerberus         |minor_planet|WP     |Asteroid (1865) Cerberus         
+MPC (1866) Sisyphus         |Sisyphus         |1866_Sisyphus         |minor_planet|WP     |Asteroid (1866) Sisyphus         
+MPC (1902) Shaposhnikov     |Shaposhnikov     |1902_Shaposhnikov     |minor_planet|WP     |Asteroid (1902) Shaposhnikov     
+MPC (1981) Midas            |Midas            |1981_Midas            |minor_planet|WP     |Asteroid (1981) Midas            
+MPC (2060) Chiron           |Chiron           |2060_Chiron           |minor_planet|WP     |Asteroid (2060) Chiron           
+MPC (2062) Aten             |Aten             |2062_Aten             |minor_planet|WP     |Asteroid (2062) Aten             
+MPC (2063) Bacchus          |Bacchus          |2063_Bacchus          |minor_planet|WP     |Asteroid (2063) Bacchus          
+MPC (2100) Ra-Shalom        |Ra-Shalom        |2100_Ra-Shalom        |minor_planet|WP     |Asteroid (2100) Ra-Shalom        
+MPC (2101) Adonis           |Adonis           |2101_Adonis           |minor_planet|WP     |Asteroid (2101) Adonis           
+MPC (2102) Tantalus         |Tantalus         |2102_Tantalus         |minor_planet|WP     |Asteroid (2102) Tantalus         
+MPC (2135) Aristaeus        |Aristaeus        |2135_Aristaeus        |minor_planet|WP     |Asteroid (2135) Aristaeus        
+MPC (2201) Oljato           |Oljato           |2201_Oljato           |minor_planet|WP     |Asteroid (2201) Oljato           
+MPC (2212) Hephaistos       |Hephaistos       |2212_Hephaistos       |minor_planet|WP     |Asteroid (2212) Hephaistos       
+MPC (2329) Orthos           |Orthos           |2329_Orthos           |minor_planet|WP     |Asteroid (2329) Orthos           
+MPC (2340) Hathor           |Hathor           |2340_Hathor           |minor_planet|WP     |Asteroid (2340) Hathor           
+MPC (2675) Tolkien          |Tolkien          |2675_Tolkien          |minor_planet|WP     |Asteroid (2675) Tolkien          
+MPC (2758) Cordelia         |Cordelia         |2758_Cordelia         |minor_planet|WP     |Asteroid (2758) Cordelia         
+MPC (2938) Hopi             |Hopi             |2938_Hopi             |minor_planet|WP     |Asteroid (2938) Hopi             
+MPC (3103) Eger             |Eger             |3103_Eger             |minor_planet|WP     |Asteroid (3103) Eger             
+MPC (3200) Phaethon         |Phaethon         |3200_Phaethon         |minor_planet|WP     |Asteroid (3200) Phaethon         
+MPC (3360) Syrinx           |Syrinx           |3360_Syrinx           |minor_planet|WP     |Asteroid (3360) Syrinx           
+MPC (3361) Orpheus          |Orpheus          |3361_Orpheus          |minor_planet|WP     |Asteroid (3361) Orpheus          
+MPC (3362) Khufu            |Khufu            |3362_Khufu            |minor_planet|WP     |Asteroid (3362) Khufu            
+MPC (3554) Amun             |Amun             |3554_Amun             |minor_planet|WP     |Asteroid (3554) Amun             
+MPC (3671) Dionysus         |Dionysus         |3671_Dionysus         |minor_planet|WP     |Asteroid (3671) Dionysus         
+MPC (3752) Camillo          |Camillo          |3752_Camillo          |minor_planet|WP     |Asteroid (3752) Camillo          
+MPC (3753) Cruithne         |Cruithne         |3753_Cruithne         |minor_planet|WP     |Asteroid (3753) Cruithne         
+MPC (3838) Epona            |Epona            |3838_Epona            |minor_planet|WP     |Asteroid (3838) Epona            
+MPC (4015) Wilson-Harrington|Wilson-Harrington|4015_Wilson-Harrington|minor_planet|WP     |Asteroid (4015) Wilson-Harrington
+MPC (4034) Vishnu           |Vishnu           |4034_Vishnu           |minor_planet|WP     |Asteroid (4034) Vishnu           
+MPC (4179) Toutatis         |Toutatis         |4179_Toutatis         |minor_planet|WP     |Asteroid (4179) Toutatis         
+MPC (4183) Cuno             |Cuno             |4183_Cuno             |minor_planet|WP     |Asteroid (4183) Cuno             
+MPC (4197) Morpheus         |Morpheus         |4197_Morpheus         |minor_planet|WP     |Asteroid (4197) Morpheus         
+MPC (4257) Ubasti           |Ubasti           |4257_Ubasti           |minor_planet|WP     |Asteroid (4257) Ubasti           
+MPC (4341) Poseidon         |Poseidon         |4341_Poseidon         |minor_planet|WP     |Asteroid (4341) Poseidon         
+MPC (4450) Pan              |Pan              |4450_Pan              |minor_planet|WP     |Asteroid (4450) Pan              
+MPC (4486) Mithra           |Mithra           |4486_Mithra           |minor_planet|WP     |Asteroid (4486) Mithra           
+MPC (4524) Barklajdetolli   |Barklajdetolli   |4524_Barklajdetolli   |minor_planet|WP     |Asteroid (4524) Barklajdetolli   
+MPC (4544) Xanthus          |Xanthus          |4544_Xanthus          |minor_planet|WP     |Asteroid (4544) Xanthus          
+MPC (4581) Asclepius        |Asclepius        |4581_Asclepius        |minor_planet|WP     |Asteroid (4581) Asclepius        
+MPC (4660) Nereus           |Nereus           |4660_Nereus           |minor_planet|WP     |Asteroid (4660) Nereus           
+MPC (4769) Castalia         |Castalia         |4769_Castalia         |minor_planet|WP     |Asteroid (4769) Castalia         
+MPC (5011) Ptah             |Ptah             |5011_Ptah             |minor_planet|WP     |Asteroid (5011) Ptah             
+MPC (5143) Heracles         |Heracles         |5143_Heracles         |minor_planet|WP     |Asteroid (5143) Heracles         
+MPC (5261) Eureka           |Eureka           |5261_Eureka           |minor_planet|WP     |Asteroid (5261) Eureka           
+MPC (5381) Sekhmet          |Sekhmet          |5381_Sekhmet          |minor_planet|WP     |Asteroid (5381) Sekhmet          
+MPC (5535) Annefrank        |Annefrank        |5535_Annefrank        |minor_planet|WP     |Asteroid (5535) Annefrank        
+MPC (5731) Zeus             |Zeus             |5731_Zeus             |minor_planet|WP     |Asteroid (5731) Zeus             
+MPC (5786) Talos            |Talos            |5786_Talos            |minor_planet|WP     |Asteroid (5786) Talos            
+MPC (6063) Jason            |Jason            |6063_Jason            |minor_planet|WP     |Asteroid (6063) Jason            
+MPC (6239) Minos            |Minos            |6239_Minos            |minor_planet|WP     |Asteroid (6239) Minos            
+MPC (7092) Cadmus           |Cadmus           |7092_Cadmus           |minor_planet|WP     |Asteroid (7092) Cadmus           
+MPC (9162) Kwiila           |Kwiila           |9162_Kwiila           |minor_planet|WP     |Asteroid (9162) Kwiila           
+MPC (9969) Braille          |Braille          |9969_Braille          |minor_planet|WP     |Asteroid (9969) Braille          
+MPC (10563) Izhdubar        |Izhdubar         |10563_Izhdubar        |minor_planet|WP     |Asteroid (10563) Izhdubar        
+MPC (11066) Sigurd          |Sigurd           |11066_Sigurd          |minor_planet|WP     |Asteroid (11066) Sigurd          
+MPC (11311) Peleus          |Peleus           |11311_Peleus          |minor_planet|WP     |Asteroid (11311) Peleus          
+MPC (11500) Tomaiyowit      |Tomaiyowit       |11500_Tomaiyowit      |minor_planet|WP     |Asteroid (11500) Tomaiyowit      
+MPC (11885) Summanus        |Summanus         |11885_Summanus        |minor_planet|WP     |Asteroid (11885) Summanus        
+MPC (12711) Tukmit          |Tukmit           |12711_Tukmit          |minor_planet|WP     |Asteroid (12711) Tukmit          
+MPC (12923) Zephyr          |Zephyr           |12923_Zephyr          |minor_planet|WP     |Asteroid (12923) Zephyr          
+MPC (14827) Hypnos          |Hypnos           |14827_Hypnos          |minor_planet|WP     |Asteroid (14827) Hypnos          
+MPC (20000) Varuna          |Varuna           |20000_Varuna          |minor_planet|WP     |Asteroid (20000) Varuna          
+MPC (24761) Ahau            |Ahau             |24761_Ahau            |minor_planet|WP     |Asteroid (24761) Ahau            
+MPC (25143) Itokawa         |Itokawa          |25143_Itokawa         |minor_planet|WP     |Asteroid (25143) Itokawa         
+MPC (37655) Illapa          |Illapa           |37655_Illapa          |minor_planet|WP     |Asteroid (37655) Illapa          
+MPC (38086) Beowulf         |Beowulf          |38086_Beowulf         |minor_planet|WP     |Asteroid (38086) Beowulf         
+MPC (38628) Huya            |Huya             |38628_Huya            |minor_planet|WP     |Asteroid (38628) Huya            
+MPC (50000) Quaoar          |Quaoar           |50000_Quaoar          |minor_planet|WP     |Asteroid (50000) Quaoar          
+MPC (65803) Didymos         |Didymos          |65803_Didymos         |minor_planet|WP     |Asteroid (65803) Didymos         
+MPC (69230) Hermes          |Hermes           |69230_Hermes          |minor_planet|WP     |Asteroid (69230) Hermes          
+MPC (85585) Mjolnir         |Mjolnir          |85585_Mjolnir         |minor_planet|WP     |Asteroid (85585) Mjolnir         
+MPC (90377) Sedna           |Sedna            |90377_Sedna           |minor_planet|WP     |Asteroid (90377) Sedna           
+MPC (90482) Orcus           |Orcus            |90482_Orcus           |minor_planet|WP     |Asteroid (90482) Orcus           
+MPC (99942) Apophis         |Apophis          |99942_Apophis         |minor_planet|WP     |Asteroid (99942) Apophis         
+MPC (120347) Salacia        |Salacia          |120347_Salacia        |minor_planet|WP     |Asteroid (120347) Salacia        
+MPC (134340) Pluto          |Pluto            |134340_Pluto          |minor_planet|WP     |Asteroid (134340) Pluto          
+MPC (136108) Haumea         |Haumea           |136108_Haumea         |minor_planet|WP     |Asteroid (136108) Haumea         
+MPC (136199) Eris           |Eris             |136199_Eris           |minor_planet|WP     |Asteroid (136199) Eris           
+MPC (136472) Makemake       |Makemake         |136472_Makemake       |minor_planet|WP     |Asteroid (136472) Makemake       
+MPC (136818) Selqet         |Selqet           |136818_Selqet         |minor_planet|WP     |Asteroid (136818) Selqet         
+MPC (137052) Tjelvar        |Tjelvar          |137052_Tjelvar        |minor_planet|WP     |Asteroid (137052) Tjelvar        
+MPC (162173) Ryugu          |Ryugu            |162173_Ryugu          |minor_planet|WP     |Asteroid (162173) Ryugu          
+MPC (163693) Atira          |Atira            |163693_Atira          |minor_planet|WP     |Asteroid (163693) Atira          
+MPC (174567) Varda          |Varda            |174567_Varda          |minor_planet|WP     |Asteroid (174567) Varda          
+MPC (306367) Nut            |Nut              |306367_Nut            |minor_planet|WP     |Asteroid (306367) Nut            
+MPC (326290) Akhenaten      |Akhenaten        |326290_Akhenaten      |minor_planet|WP     |Asteroid (326290) Akhenaten      
+MPC (367943) Duende         |Duende           |367943_Duende         |minor_planet|WP     |Asteroid (367943) Duende         
+MPC (385571) Otrera         |Otrera           |385571_Otrera         |minor_planet|WP     |Asteroid (385571) Otrera         
 #
-### mpc_comet ###
+### comet ###
 # id            |english|wikipedia_title|model |sources|notes|
 # ------------- | ----- | ------------- | ---- | ----- | --- |
 #
@@ -1510,6 +1589,7 @@ HIP 15578       |Intan                          |               |star  |36      
 HIP 15863       |Mirfak                         |               |star  |WK,1,2,6,11,12,18,23       |Star alf Per    
 HIP 15863       |Algenib                        |               |star  |18,23                      |Star alf Per    
 HIP 15863       |Marfak                         |               |star  |18                         |Star alf Per    
+HIP 15863       |Mirphak                        |               |star  |WK                         |Star alf Per
 HIP 15863       |Alchemb                        |               |star  |18                         |Star alf Per    
 HIP 16537       |Ran                            |               |star  |4,6,12                     |Star eps Eri    
 HIP 17096       |Tupi                           |               |star  |36                         |                
@@ -2021,7 +2101,7 @@ HIP 78104       |Iklil                          |               |star  |12      
 HIP 78104       |Iolil                          |               |star  |11                         |Star rho Sco    
 HIP 78265       |Fang                           |               |star  |12                         |Star pi. Sco    
 HIP 78265       |Nur                            |               |star  |11                         |Star pi. Sco    
-HIP 78322       |Blaze Star                     |               |star  |11,18                      |Star T CrB      
+HIP 78322       |Blaze Star                     |T_Coronae_Borealis |star  |11,18                  |Star T CrB
 HIP 78401       |Dschubba                       |               |star  |WK,1,2,6,11,12,13,18,23    |Star del Sco    
 HIP 78401       |Iclarkrau                      |               |star  |                           |Star del Sco    
 HIP 78727       |Grafias                        |               |star  |10,11                      |Star ksi Sco    
@@ -2367,25 +2447,25 @@ HIP 118319      |Axólotl                        |               |star  |36     
 * alf Sco B     |Antares B                      |               |star  |SIMBAD                     |Companion star of Antares
 * alf CMa B     |Sirius B                       |               |star  |SIMBAD                     |Companion star of Sirius
 #
-### meteor-shower ###
+### meteor_shower ###
 # id                         |english                        |wikipedia_title          |model        |sources                    |notes           |
 # -------------------------- | ----------------------------- | ----------------------- | ----------- | ------------------------- | -------------- |
-NAME Geminids                |Geminids                       |Geminids                 |meteor-shower|WK                         |Geminids meteor shower
-NAME Quadrantids             |Quadrantids                    |Quadrantids              |meteor-shower|WK                         |Quadrantids meteor shower
-NAME Perseids                |Perseids                       |Perseids                 |meteor-shower|WK                         |Perseids meteor shower
-NAME Eta Aquariids           |Eta Aquariids                  |Eta_Aquariids            |meteor-shower|WK                         |Eta Aquariids meteor shower
-NAME Arietids                |Arietids                       |Arietids                 |meteor-shower|WK                         |Arietids meteor shower
-NAME Southern Delta Aquariids|Southern Delta Aquariids       |Southern_Delta_Aquariids |meteor-shower|WK                         |Southern Delta Aquariids meteor shower
-NAME Orionids                |Orionids                       |Orionids                 |meteor-shower|WK                         |Orionids
-NAME Lyrids                  |Lyrids                         |Lyrids                   |meteor-shower|WK                         |Lyrids meteor shower
-NAME Leonids                 |Leonids                        |Leonids                  |meteor-shower|WK                         |Leonids meteor shower
-NAME Draconids               |Draconids                      |Draconids                |meteor-shower|WK                         |Draconids meteor shower
-NAME Ursids                  |Ursids                         |Ursids                   |meteor-shower|WK                         |Ursids meteor shower
-NAME Alpha Centaurids        |Alpha Centaurids               |Alpha_Centaurids         |meteor-shower|WK                         |Alpha Centaurids meteor shower
-NAME Aurigids                |Aurigids                       |Aurigids                 |meteor-shower|WK                         |Aurigids meteor shower
-NAME Alpha Capricornids      |Alpha Capricornids             |Alpha_Capricornids       |meteor-shower|WK                         |Alpha Capricornids meteor shower
-NAME Southern Taurids        |Southern Taurids               |Taurids                  |meteor-shower|WK                         |Southern Taurids meteor shower
-NAME Northern Taurids        |Northern Taurids               |Taurids                  |meteor-shower|WK                         |Northern Taurids meteor shower
+NAME Geminids                |Geminids                       |Geminids                 |meteor_shower|WK                         |Geminids meteor shower
+NAME Quadrantids             |Quadrantids                    |Quadrantids              |meteor_shower|WK                         |Quadrantids meteor shower
+NAME Perseids                |Perseids                       |Perseids                 |meteor_shower|WK                         |Perseids meteor shower
+NAME Eta Aquariids           |Eta Aquariids                  |Eta_Aquariids            |meteor_shower|WK                         |Eta Aquariids meteor shower
+NAME Arietids                |Arietids                       |Arietids                 |meteor_shower|WK                         |Arietids meteor shower
+NAME Southern Delta Aquariids|Southern Delta Aquariids       |Southern_Delta_Aquariids |meteor_shower|WK                         |Southern Delta Aquariids meteor shower
+NAME Orionids                |Orionids                       |Orionids                 |meteor_shower|WK                         |Orionids
+NAME Lyrids                  |Lyrids                         |Lyrids                   |meteor_shower|WK                         |Lyrids meteor shower
+NAME Leonids                 |Leonids                        |Leonids                  |meteor_shower|WK                         |Leonids meteor shower
+NAME Draconids               |Draconids                      |Draconids                |meteor_shower|WK                         |Draconids meteor shower
+NAME Ursids                  |Ursids                         |Ursids                   |meteor_shower|WK                         |Ursids meteor shower
+NAME Alpha Centaurids        |Alpha Centaurids               |Alpha_Centaurids         |meteor_shower|WK                         |Alpha Centaurids meteor shower
+NAME Aurigids                |Aurigids                       |Aurigids                 |meteor_shower|WK                         |Aurigids meteor shower
+NAME Alpha Capricornids      |Alpha Capricornids             |Alpha_Capricornids       |meteor_shower|WK                         |Alpha Capricornids meteor shower
+NAME Southern Taurids        |Southern Taurids               |Taurids                  |meteor_shower|WK                         |Southern Taurids meteor shower
+NAME Northern Taurids        |Northern Taurids               |Taurids                  |meteor_shower|WK                         |Northern Taurids meteor shower
 #
 ### planetary-features ###
 # id                        |english                        |wikipedia_title                |model              |sources    |notes          |
